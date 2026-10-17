@@ -1,0 +1,630 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="दोहे संत गुरु रविदास/रैदास जी (हिन्दी कविता)." />
+<meta name="description" content="दोहे संत गुरु रविदास/रैदास जी (हिन्दी कविता)." />
+
+<title>दोहे संत गुरु रविदास/रैदास जी (हिन्दी कविता)</title>
+
+<link rel="canonical" href="https://hindi-kavita.com/HindiDoheBhagatRavidas.php"><style>
+* { box-sizing: border-box; }
+body { margin: 0; width: 100%; font-family: Arial, sans-serif; line-height: 1.5; background-color: #f4f4f4; }
+.container { width: 90%; max-width: 1200px; margin: 20px auto; display: flex; flex-wrap: wrap; gap: 20px; border: 2px solid #0000FF; padding: 25px; background-color: #ffffff; }
+h1 { color: #0000FF; margin-top: 0; margin-bottom: 20px; }
+</style><link rel="preload" href="author.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="author.css"></noscript>
+
+</head>
+
+<body>
+﻿<style>
+/* =================================================================
+   1. बेस स्टाइल और हेडर लेआउट (Reset & Header Core)
+   ================================================================= */
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 10px 0px;
+    box-shadow: 0px 1px 3px rgba(215, 215, 215, 0.3);
+    position: relative;
+    z-index: 9999999;
+    box-sizing: border-box;
+}
+
+.header .container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* लोगो स्टाइल */
+.header .logo {
+    width: 160px;
+    height: 48px;
+    display: block;
+    text-decoration: none;
+    flex-shrink: 0;
+}
+
+.header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* लोगो के टेक्स्ट को छुपाना */
+.header .logo #unicodeenglishlogo,
+.header .logo #unicodehindilogo {
+    display: none !important;
+}
+
+/* =================================================================
+   2. डेस्कटॉप नेविगेशन मेनू (Desktop Navigation)
+   ================================================================= */
+.header .menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    background-color: #fff;
+}
+
+.header .menu li {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.header .menu li a {
+    display: block;
+    padding: 8px 0px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 600;
+    font-size: 17px;
+    transition: color 0.2s ease;
+}
+
+/* होवर करने पर नीला रंग */
+.header .menu li a:hover,
+.header .menu li.active a {
+    color: #0056b3 !important;
+}
+
+/* =================================================================
+   3. मोबाइल मेनू बटन (Hamburger Icon)
+   ================================================================= */
+.header .menu-btn { display: none; }
+
+.header .menu-icon {
+    cursor: pointer;
+    display: none;
+    padding: 10px;
+    position: relative;
+    user-select: none;
+}
+
+.header .menu-icon .navicon {
+    background: #333;
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 22px;
+    transition: background .2s ease-out;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+    background: #333;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.header .menu-icon .navicon:before { top: 6px; }
+.header .menu-icon .navicon:after { top: -6px; }
+
+/* चेक होने पर X आकार */
+.header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
+.header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
+.header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
+
+/* =================================================================
+   4. मीडिया क्वेरीज़ (Responsive)
+   ================================================================= */
+
+@media only screen and (max-width: 1100px) {
+    .header .container { width: 90%; }
+    .header .logo { width: 150px; height: 45px; }
+    .header .menu li { margin-left: 20px; }
+}
+
+@media only screen and (max-width: 1025px) {
+    .header .menu {
+        display: block;
+        width: 100%;
+        max-height: 0px;
+        overflow: hidden;
+        opacity: 0;
+        transition: max-height 0.35s ease-out, opacity 0.2s ease;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .header .menu li {
+        float: none;
+        border-bottom: 1px solid #f5f5f5;
+        margin-left: 0px;
+    }
+    .header .menu li a { padding: 12px 0px; font-size: 16px; }
+    .header .menu-icon { display: block; }
+    .header .menu-btn:checked ~ .menu {
+        max-height: 450px;
+        opacity: 1;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header .container { width: 95%; }
+    .header .logo { width: 135px; height: 40px; }
+}
+
+/* कंटेंट रैपर स्टेबलाइजर */
+.content {
+    padding-top: 20px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.content .container {
+    width: 80%;
+    margin: auto;
+}
+
+/* क्लियरफ़िक्स स्टेबलाइजर */
+.header::after,
+.header .container::after, 
+.content .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E5JZMPECWS', { 'cookie_domain': 'auto', 'anonymize_ip': true });
+</script>
+
+<header class="header">
+    <div class="container">
+        <a href="https://hindi-kavita.com/" class="logo"><img src="hindi-kavita-logo.png" alt="Hindi Kavita"></a>
+        
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        
+        <ul class="menu">
+            <li><a href="https://hindi-kavita.com">Home</a></li>
+            <li><a href="HindiPoetry.php">Hindi Poetry</a></li>
+            <li><a href="HindiPunjabiKavita.php">Punjabi Poetry</a></li>
+            <li><a href="https://hindikahani.hindi-kavita.com">Hindi Stories</a></li>
+            <li><a href="hindikavitacontactus.php">Contact Us</a></li> 
+        </ul>
+    </div>
+</header>
+
+<div class="content">
+    <div class="container"><main id="main-content" role="main">
+<div class="hk-wrapper">
+<div class="section">
+<div class="left">
+<h1>दोहे संत गुरु रविदास/रैदास जी</h1>
+<h2>Dohe Sant Guru Ravidas Ji in Hindi</h2>
+<pre><font size=4>
+<h3 align=left>1</h3> 
+<p>ऐसा चाहूँ राज मैं जहाँ मिलै सबन को अन्न।
+छोट बड़ो सब सम बसै, रैदास रहै प्रसन्न।।
+<h3 align=left>2</h3> 
+<p>करम बंधन में बन्ध रहियो, फल की ना तज्जियो आस।
+कर्म मानुष का धर्म है, सत् भाखै रविदास।।
+<h3 align=left>3</h3> 
+<p>कृस्न, करीम, राम, हरि, राघव, जब लग एक न पेखा।
+वेद कतेब कुरान, पुरानन, सहज एक नहिं देखा।।
+<h3 align=left>4</h3> 
+<p>कह रैदास तेरी भगति दूरि है, भाग बड़े सो पावै।
+तजि अभिमान मेटि आपा पर, पिपिलक हवै चुनि खावै।।
+<h3 align=left>5</h3> 
+<p>गुरु मिलीया रविदास जी दीनी ज्ञान की गुटकी।
+चोट लगी निजनाम हरी की महारे हिवरे खटकी।।
+<h3 align=left>6</h3> 
+<p>जाति-जाति में जाति हैं, जो केतन के पात।
+रैदास मनुष ना जुड़ सके जब तक जाति न जात।।
+<h3 align=left>7</h3> 
+<p>जा देखे घिन उपजै, नरक कुंड मेँ बास।
+प्रेम भगति सों ऊधरे, प्रगटत जन रैदास।।
+<h3 align=left>8</h3> 
+<p>रविदास जन्म के कारनै, होत न कोउ नीच।
+नर कूँ नीच करि डारि है, ओछे करम की कीच।।
+<h3 align=left>9</h3> 
+<p>रैदास कनक और कंगन माहि जिमि अंतर कछु नाहिं।
+तैसे ही अंतर नहीं हिन्दुअन तुरकन माहि।।
+<h3 align=left>10</h3> 
+<p>रैदास कहै जाकै हृदै, रहे रैन दिन राम।
+सो भगता भगवंत सम, क्रोध न व्यापै काम।।
+<h3 align=left>11</h3> 
+<p>वर्णाश्रम अभिमान तजि, पद रज बंदहिजासु की।
+सन्देह-ग्रन्थि खण्डन-निपन, बानि विमुल रैदास की।। 
+<h3 align=left>12</h3> 
+<p>हरि-सा हीरा छांड कै, करै आन की आस।
+ते नर जमपुर जाहिंगे, सत भाषै रविदास।। 
+<h3 align=left>13</h3> 
+<p>हिंदू तुरक नहीं कछु भेदा सभी मह एक रक्त और मासा।
+दोऊ एकऊ दूजा नाहीं, पेख्यो सोइ रैदासा।।
+<h3 align=left>14</h3> 
+<p>मस्जिद सों कुछ घिन नहीं, मंदिर सों नहीं पिआर। 
+दोए मंह अल्लाह राम नहीं, कहै रैदास चमार॥ 
+<h3 align=left>15</h3> 
+<p>ऊँचे कुल के कारणै, ब्राह्मन कोय न होय। 
+जउ जानहि ब्रह्म आत्मा, रैदास कहि ब्राह्मन सोय॥ 
+<h3 align=left>16</h3> 
+<p>रैदास प्रेम नहिं छिप सकई, लाख छिपाए कोय। 
+प्रेम न मुख खोलै कभऊँ, नैन देत हैं रोय॥ 
+<h3 align=left>17</h3> 
+<p>हिंदू पूजइ देहरा मुसलमान मसीति। 
+रैदास पूजइ उस राम कूं, जिह निरंतर प्रीति॥ 
+<h3 align=left>18</h3> 
+<p>माथे तिलक हाथ जपमाला, जग ठगने कूं स्वांग बनाया। 
+मारग छाड़ि कुमारग उहकै, सांची प्रीत बिनु राम न पाया॥ 
+<h3 align=left>19</h3> 
+<p>जनम जात मत पूछिए, का जात अरू पात। 
+रैदास पूत सब प्रभु के, कोए नहिं जात कुजात॥ 
+<h3 align=left>20</h3> 
+<p>मुसलमान सों दोस्ती, हिंदुअन सों कर प्रीत। 
+रैदास जोति सभ राम की, सभ हैं अपने मीत॥ 
+<h3 align=left>21</h3> 
+<p>रैदास इक ही बूंद सो, सब ही भयो वित्थार। 
+मुरखि हैं तो करत हैं, बरन अवरन विचार॥ 
+<h3 align=left>22</h3> 
+<p>प्रेम पंथ की पालकी, रैदास बैठियो आय। 
+सांचे सामी मिलन कूं, आनंद कह्यो न जाय॥ 
+<h3 align=left>23</h3> 
+<p>रैदास जीव कूं मारकर कैसों मिलहिं खुदाय। 
+पीर पैगंबर औलिया, कोए न कहइ समुझाय॥ 
+<h3 align=left>24</h3> 
+<p>मंदिर मसजिद दोउ एक हैं इन मंह अंतर नाहि। 
+रैदास राम रहमान का, झगड़उ कोउ नाहि॥ 
+<h3 align=left>25</h3> 
+<p>रैदास हमारौ राम जी, दशरथ करि सुत नाहिं। 
+राम हमउ मांहि रहयो, बिसब कुटंबह माहिं॥ 
+<h3 align=left>26</h3> 
+<p>पराधीनता पाप है, जान लेहु रे मीत। 
+रैदास दास पराधीन सौं, कौन करैहै प्रीत॥ 
+<h3 align=left>27</h3> 
+<p>रैदास ब्राह्मण मति पूजिए, जए होवै गुन हीन। 
+पूजिहिं चरन चंडाल के, जउ होवै गुन प्रवीन॥ 
+<h3 align=left>28</h3> 
+<p>ब्राह्मण खतरी बैस सूद रैदास जनम ते नांहि। 
+जो चाहइ सुबरन कउ पावइ करमन मांहि॥ 
+<h3 align=left>29</h3> 
+<p>जात पांत के फेर मंहि, उरझि रहइ सब लोग। 
+मानुषता कूं खात हइ, रैदास जात कर रोग॥ 
+<h3 align=left>30</h3> 
+<p>जो ख़ुदा पच्छिम बसै तौ पूरब बसत है राम। 
+रैदास सेवों जिह ठाकुर कूं, तिह का ठांव न नाम॥ 
+<h3 align=left>31</h3> 
+<p>रैदास सोई सूरा भला, जो लरै धरम के हेत। 
+अंग−अंग कटि भुंइ गिरै, तउ न छाड़ै खेत॥ 
+<h3 align=left>32</h3> 
+<p>सौ बरस लौं जगत मंहि, जीवत रहि करू काम। 
+रैदास करम ही धरम हैं, करम करहु निहकाम॥ 
+<h3 align=left>33</h3> 
+<p>अंतर गति राँचै नहीं, बाहरि कथै उजास। 
+ते नर नरक हि जाहिगं, सति भाषै रैदास॥ 
+<h3 align=left>34</h3> 
+<p>रैदास न पूजइ देहरा, अरु न मसजिद जाय। 
+जह−तंह ईस का बास है, तंह−तंह सीस नवाय॥ 
+<h3 align=left>35</h3> 
+<p>जिह्वा भजै हरि नाम नित, हत्थ करहिं नित काम। 
+रैदास भए निहचिंत हम, मम चिंत करेंगे राम॥ 
+<h3 align=left>36</h3> 
+<p>नीचं नीच कह मारहिं, जानत नाहिं नादान। 
+सभ का सिरजन हार है, रैदास एकै भगवान॥ 
+<h3 align=left>37</h3> 
+<p>साधु संगति पूरजी भइ, हौं वस्त लइ निरमोल। 
+सहज बल दिया लादि करि, चल्यो लहन पिव मोल॥ 
+<h3 align=left>38</h3> 
+<p>रैदास जन्मे कउ हरस का, मरने कउ का सोक। 
+बाजीगर के खेल कूं, समझत नाहीं लोक॥ 
+<h3 align=left>39</h3> 
+<p>देता रहै हज्जार बरस, मुल्ला चाहे अजान। 
+रैदास खोजा नहं मिल सकइ, जौ लौ मन शैतान॥ 
+<h3 align=left>40</h3> 
+<p>बेद पढ़ई पंडित बन्यो, गांठ पन्ही तउ चमार। 
+रैदास मानुष इक हइ, नाम धरै हइ चार॥ 
+<h3 align=left>41</h3> 
+<p>धन संचय दुख देत है, धन त्यागे सुख होय। 
+रैदास सीख गुरु देव की, धन मति जोरे कोय॥ 
+<h3 align=left>42</h3> 
+<p>रैदास मदुरा का पीजिए, जो चढ़ै उतराय। 
+नांव महारस पीजियै, जौ चढ़ै उतराय॥ 
+<h3 align=left>43</h3> 
+<p>रैदास जन्म के कारनै होत न कोए नीच। 
+नर कूं नीच करि डारि है, ओछे करम की कीच॥ 
+<h3 align=left>44</h3> 
+<p>मुकुर मांह परछांइ ज्यौं, पुहुप मधे ज्यों बास। 
+तैसउ श्री हरि बसै, हिरदै मधे रैदास॥ 
+<h3 align=left>45</h3> 
+<p>राधो क्रिस्न करीम हरि, राम रहीम खुदाय। 
+रैदास मोरे मन बसहिं, कहु खोजहुं बन जाय॥ 
+<h3 align=left>46</h3> 
+<p>जिह्वा सों ओंकार जप, हत्थन सों कर कार। 
+राम मिलिहि घर आइ कर, कहि रैदास विचार॥ 
+<h3 align=left>47</h3> 
+<p>जब सभ करि दोए हाथ पग, दोए नैन दोए कान। 
+रैदास प्रथक कैसे भये, हिन्दू मुसलमान॥ 
+<h3 align=left>48</h3> 
+<p>सब घट मेरा साइयाँ, जलवा रह्यौ दिखाइ। 
+रैदास नगर मांहि, रमि रह्यौ, नेकहु न इत्त उत्त जाइ॥ 
+<h3 align=left>49</h3> 
+<p>रैदास स्रम करि खाइहिं, जौं लौं पार बसाय। 
+नेक कमाई जउ करइ, कबहुं न निहफल जाय॥ 
+<h3 align=left>50</h3> 
+<p>गुरु ग्यांन दीपक दिया, बाती दइ जलाय। 
+रैदास हरि भगति कारनै, जनम मरन विलमाय॥ 
+<h3 align=left>51</h3> 
+<p>रैदास हमारो साइयां, राघव राम रहीम। 
+सभ ही राम को रूप है, केसो क्रिस्न करीम॥ 
+</pre>
+<div class="links-container">
+<ul>
+<li><a href="HindiSantRavidas.php"> मुख्य पृष्ठ : संपूर्ण काव्य रचनाएँ : संत रविदास जी</a></li>
+<li><a href="https://hindikahani.hindi-kavita.com/HK-Sant-Ravidas-Ji.php">  संत/गुरु रविदास जी से संबंधित कहानियाँ</a></li>
+<li><a href="https://hindi-kavita.com/"> मुख्य पृष्ठ : हिन्दी कविता वेबसाइट (hindi-kavita.com)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- FIXED: Closes the content-main and container divs opened at the bottom of header.php -->
+
+    </div>
+
+</div>
+
+
+
+<style>
+
+    footer {
+
+        width: 100%;
+
+        background: #fff;
+
+        border-top: 1px solid #d7d7d7;
+
+        font-family: Arial, sans-serif;
+
+        height: 80px;
+
+        float: left;
+
+        margin-top: 15px;
+
+    }
+
+    
+
+    #___gcse_0 {
+
+        float: left;
+
+    }
+
+    
+
+    footer a {
+
+        display: inline !important;
+
+        line-height: 80px;
+
+    }
+
+
+
+    /* Layout Positioning Helpers */
+
+    .pull-left {
+
+        float: left;
+
+    }
+
+    
+
+    .pull-right {
+
+        float: right;
+
+    }
+
+
+
+    @media only screen and (max-width: 480px) {
+
+        .header {
+
+            border-bottom: 1px solid #d7d7d7;
+
+        }
+
+        
+
+        .container {
+
+            width: 90%;
+
+        }
+
+
+
+        footer {
+
+            font-size: 12px;
+
+            height: auto; /* FIXED: Prevents content cutting off on small mobile devices */
+
+            padding: 15px 0;
+
+        }
+
+
+
+        footer a {
+
+            line-height: normal !important;
+
+        }
+
+    }
+
+     
+
+    .nav {
+
+        float: right;
+
+        width: 100%;
+
+    } 
+
+
+
+    .nav ul {
+
+        margin: 0px;
+
+        margin-top: 10px;
+
+        font-family: Arial, sans-serif;
+
+        float: left;
+
+        width: 100%;
+
+        padding: 0px;
+
+    }
+
+
+
+    .nav ul li {
+
+        float: left;
+
+        margin-left: 30px;
+
+        list-style: none;
+
+        line-height: 28px;
+
+        color: #0294f9;
+
+        margin: 0px;
+
+        width: 100%;
+
+    } 
+
+</style>
+
+
+
+<!-- Google Custom Search Engine Bar -->
+
+<div class="container" style="padding-bottom: 30px; clear: both;">
+
+    <script>
+
+      (function() {
+
+        var cx = '000436866180928962958:5pzruqlhzp4';
+
+        var gcse = document.createElement('script');
+
+        gcse.type = 'text/javascript';
+
+        gcse.async = true;
+
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+        var s = document.getElementsByTagName('script')[0];
+
+        s.parentNode.insertBefore(gcse, s);
+
+      })();
+
+    </script>
+
+    <gcse:search></gcse:search>
+
+</div>
+
+
+
+<!-- Footer Navigation Bar Area -->
+
+<footer>
+
+    <div class="container">
+
+        <div class="pull-right">
+
+            <a href="hindikavitacontactus.php" style="color: black; font-weight: bold;">Contact Us</a>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+<!-- Google Analytics Tracking Script Integration -->
+
+﻿<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E5JZMPECWS', { 
+      'cookie_domain': 'auto', 
+      'anonymize_ip': true 
+  });
+</script> 
+
+</body>
+</html>

@@ -1255,3 +1255,628 @@ body {
     flex-direction: column;
   }
 }
+
+/* ==========================================================================
+   Grand Heritage Hub & Multi-Poet Architecture Styles
+   ========================================================================== */
+
+.hub-view-container {
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+.hub-hero-section {
+  text-align: center;
+  position: relative;
+  padding: 3rem 1.5rem 2.5rem;
+  background: radial-gradient(circle at 50% 20%, rgba(245, 158, 11, 0.12), transparent 70%);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-gold);
+}
+
+.hub-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1.1rem;
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold-primary);
+  margin-bottom: 1.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.hub-hero-title {
+  font-family: var(--font-serif-dev);
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #f8fafc 20%, #fbbf24 60%, #ea580c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hub-hero-subtitle {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  color: var(--text-muted);
+  max-width: 780px;
+  margin: 0 auto 2rem;
+  line-height: 1.65;
+}
+
+.hub-stats-ribbon {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-number {
+  font-family: var(--font-display-en);
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: var(--gold-primary);
+}
+
+.stat-label {
+  font-size: 0.82rem;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Hub Master Search */
+.hub-search-wrapper {
+  max-width: 720px;
+  margin: -1.5rem auto 0;
+  position: relative;
+  z-index: 10;
+}
+
+.hub-search-bar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 1.4rem;
+  background: var(--bg-surface);
+  border: 2px solid var(--border-gold);
+  border-radius: var(--radius-full);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+  transition: var(--transition-smooth);
+}
+
+.hub-search-bar:focus-within {
+  border-color: var(--gold-glow);
+  box-shadow: 0 16px 45px var(--gold-shadow);
+}
+
+.hub-search-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1.05rem;
+  color: var(--text-main);
+  font-family: var(--font-body);
+}
+
+.hub-search-input::placeholder {
+  color: var(--text-faint);
+}
+
+/* Poet Cards Grid */
+.hub-poets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 2rem;
+}
+
+.poet-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 2.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  transition: var(--transition-smooth);
+  backdrop-filter: blur(12px);
+}
+
+.poet-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--border-gold);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+}
+
+.poet-card.bulleh-theme {
+  border-top: 4px solid #f59e0b;
+}
+
+.poet-card.ravidas-theme {
+  border-top: 4px solid #ea580c;
+}
+
+.poet-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.poet-emblem-large {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif-dev);
+  font-size: 2.2rem;
+  font-weight: 800;
+  flex-shrink: 0;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.poet-card.bulleh-theme .poet-emblem-large {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: #000;
+}
+
+.poet-card.ravidas-theme .poet-emblem-large {
+  background: linear-gradient(135deg, #ea580c, #c2410c);
+  color: #fff;
+}
+
+.poet-title-meta h3 {
+  font-family: var(--font-serif-dev);
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.poet-en-name {
+  font-family: var(--font-display-en);
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.4rem;
+}
+
+.poet-badges-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.meta-pill {
+  font-size: 0.72rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-surface-elevated);
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+}
+
+.poet-card-desc {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.poet-quote-box {
+  background: var(--bg-surface);
+  border-left: 3px solid var(--gold-primary);
+  padding: 1.1rem 1.25rem;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin-bottom: 1.75rem;
+}
+
+.poet-card.ravidas-theme .poet-quote-box {
+  border-left-color: #ea580c;
+}
+
+.poet-quote-text {
+  font-family: var(--font-serif-dev);
+  font-size: 1.05rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin-bottom: 0.4rem;
+  color: var(--text-main);
+}
+
+.poet-quote-en {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.poet-genres-summary {
+  margin-bottom: 2rem;
+}
+
+.genres-heading {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  letter-spacing: 0.06em;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.genre-chips-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.genre-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-full);
+  font-size: 0.82rem;
+  color: var(--text-main);
+  transition: var(--transition-smooth);
+}
+
+.genre-chip:hover {
+  border-color: var(--gold-primary);
+  background: var(--bg-surface);
+}
+
+.genre-chip .chip-count {
+  font-weight: 700;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.45rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-full);
+}
+
+.poet-card-action {
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.enter-archive-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.9rem 1.5rem;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  border: none;
+  transition: var(--transition-smooth);
+}
+
+.poet-card.bulleh-theme .enter-archive-btn {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: #000;
+}
+
+.poet-card.bulleh-theme .enter-archive-btn:hover {
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  box-shadow: 0 8px 24px rgba(245, 158, 11, 0.35);
+}
+
+.poet-card.ravidas-theme .enter-archive-btn {
+  background: linear-gradient(135deg, #ea580c, #c2410c);
+  color: #fff;
+}
+
+.poet-card.ravidas-theme .enter-archive-btn:hover {
+  background: linear-gradient(135deg, #f97316, #ea580c);
+  box-shadow: 0 8px 24px rgba(234, 88, 12, 0.35);
+}
+
+/* Future Poets Section */
+.future-poets-section {
+  padding: 2.5rem 2rem;
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+}
+
+.future-poets-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.future-poets-header h3 {
+  font-family: var(--font-serif-dev);
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.future-poets-header p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.future-poets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+}
+
+.future-poet-card {
+  padding: 1.25rem;
+  background: var(--bg-surface-elevated);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.future-poet-emblem {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif-dev);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-faint);
+}
+
+.future-poet-info h4 {
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+
+.future-poet-info p {
+  font-size: 0.78rem;
+  color: var(--text-faint);
+}
+
+/* Global Cross-Poet Search Results Dropdown/Overlay */
+.global-search-results {
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+  margin-top: 1rem;
+  max-height: 480px;
+  overflow-y: auto;
+}
+
+.search-results-group {
+  margin-bottom: 1.5rem;
+}
+
+.search-results-group h4 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: var(--gold-primary);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.search-result-item {
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.3rem;
+}
+
+.search-result-item:hover {
+  background: var(--bg-surface);
+}
+
+.search-result-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.search-result-badge {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-full);
+  background: var(--bg-surface);
+  color: var(--text-muted);
+}
+
+/* Header Breadcrumb */
+.header-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.hub-home-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.hub-home-link:hover {
+  color: var(--gold-primary);
+}
+
+.breadcrumb-sep {
+  color: var(--text-faint);
+}
+
+.current-poet-badge {
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+/* Poet Welcome Screen Genres Grid */
+.genres-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.25rem;
+  margin: 2.25rem 0 1.5rem;
+  text-align: left;
+}
+
+.genre-highlight-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  position: relative;
+  overflow: hidden;
+}
+
+.genre-highlight-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: transparent;
+  transition: background 0.3s ease;
+}
+
+.genre-highlight-card:hover {
+  border-color: var(--border-gold);
+  background: var(--bg-surface-elevated);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.genre-highlight-card:hover::before {
+  background: var(--gold-gradient);
+}
+
+.genre-card-title {
+  font-family: var(--font-serif-dev);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.welcome-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.85rem 2.2rem;
+  background: var(--gold-gradient);
+  color: #070a12;
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: var(--radius-full);
+  border: none;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  box-shadow: 0 4px 18px var(--gold-shadow);
+}
+
+.welcome-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px var(--gold-shadow);
+}
+
+/* Verse Group & Trilingual Gloss Cards */
+.verse-group-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.5rem;
+  transition: var(--transition-smooth);
+}
+
+.verse-group-card:hover {
+  border-color: var(--border-gold);
+  background: var(--bg-surface-elevated);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.verse-devanagari {
+  font-family: var(--font-serif-dev);
+  font-size: calc(1.35rem * var(--reader-font-scale));
+  font-weight: 700;
+  line-height: 1.85;
+  color: var(--text-main);
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px dashed var(--border-subtle);
+}
+
+.gloss-block {
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  background: rgba(0, 0, 0, 0.15);
+  margin-top: 0.65rem;
+  font-size: calc(0.95rem * var(--reader-font-scale));
+  line-height: 1.75;
+}
+
+.hindi-gloss {
+  border-left: 3px solid #f59e0b;
+}
+
+.english-gloss {
+  border-left: 3px solid #38bdf8;
+}
+
+.gloss-lang-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-faint);
+  margin-bottom: 0.35rem;
+}
+
+.gloss-text {
+  color: var(--text-muted);
+  font-family: var(--font-body);
+}
+
+.english-gloss .gloss-text {
+  color: #cbd5e1;
+}

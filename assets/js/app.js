@@ -1,6 +1,9 @@
 /**
- * Baba Bulleh Shah: Complete Works (सम्पूर्ण रचनावली)
- * Trilingual Master Edition: 160 Kafian, 12 Baranmah, 7 Athwara, 40 Gandhan, 76 Siharfian, 56 Dohre (Total 351 Masterpieces)
+ * Mystic Poetry Heritage Hub (रहस्यवादी काव्य महाकोश)
+ * Multi-Poet Trilingual Master Edition:
+ * - Baba Bulleh Shah (351 Masterpieces)
+ * - Sant Ravidas Ji (208 Masterpieces)
+ * Total: 559 Classical Masterpieces
  */
 
 (function () {
@@ -8,54 +11,135 @@
 
   // Application State
   const state = {
-    manifest: window.BULLEH_SHAH_MANIFEST || [],
-    dataStore: window.BULLEH_SHAH_DATA || {},
+    currentPoet: null, // null (Hub), 'bulleh-shah', 'sant-ravidas'
     currentUid: null,
-    currentFilter: 'all', // 'all', 'kafi', 'baranmah', 'athwara', 'dohre', 'gandhan', 'siharfian', 'bookmarks'
+    currentFilter: 'all',
     searchQuery: '',
     viewMode: 'all', // 'all', 'verses', 'gloss', 'trans'
     fontScale: 1.0,
-    theme: localStorage.getItem('bbs_theme') || 'dark',
-    bookmarks: new Set(JSON.parse(localStorage.getItem('bbs_bookmarks') || '[]'))
+    theme: localStorage.getItem('mystic_theme') || 'dark',
+    bookmarks: new Set(JSON.parse(localStorage.getItem('mystic_bookmarks') || '[]')),
+    
+    // Data stores
+    poets: {
+      'bulleh-shah': {
+        id: 'bulleh-shah',
+        name: 'बाबा बुल्ले शाह',
+        name_en: 'Baba Bulleh Shah',
+        emblem: 'ब',
+        total: 351,
+        color: 'var(--gold-primary)',
+        manifest: window.BULLEH_SHAH_MANIFEST || [],
+        data: window.BULLEH_SHAH_DATA || {},
+        tabs: [
+          { id: 'all', label: 'सभी (351)' },
+          { id: 'kafi', label: 'काफ़ियां (160)' },
+          { id: 'dohre', label: 'दोहरे (56)' },
+          { id: 'baranmah', label: 'बारहमाह (12)' },
+          { id: 'athwara', label: 'अठवारा (7)' },
+          { id: 'gandhan', label: 'गन्धां (40)' },
+          { id: 'siharfian', label: 'सीहरफ़ियां (76)' },
+          { id: 'bookmarks', label: '★ पसंदीदा' }
+        ]
+      },
+      'sant-ravidas': {
+        id: 'sant-ravidas',
+        name: 'संत शिरोमणि रविदास जी',
+        name_en: 'Sant Ravidas Ji',
+        emblem: 'र',
+        total: 208,
+        color: '#ea580c',
+        manifest: window.RAVIDAS_MANIFEST || [],
+        data: window.RAVIDAS_DATA || {},
+        tabs: [
+          { id: 'all', label: 'सभी (208)' },
+          { id: 'shabad', label: 'आदि ग्रंथ शब्द (40)' },
+          { id: 'padaavali', label: 'अमर पद (117)' },
+          { id: 'dohe', label: 'साखी दोहे (51)' },
+          { id: 'bookmarks', label: '★ पसंदीदा' }
+        ]
+      }
+    }
   };
 
   // DOM Elements
   const el = {
+    // Views
+    hubView: document.getElementById('hub-view'),
+    poetWorkspace: document.getElementById('poet-workspace-view'),
+    welcomeView: document.getElementById('welcome-hero-view'),
+    poemView: document.getElementById('poem-reader-view'),
+    
+    // Header
+    brandHeader: document.getElementById('brand-header-link'),
+    headerEmblem: document.getElementById('header-emblem'),
+    headerMainTitle: document.getElementById('header-main-title'),
+    headerSubTitle: document.getElementById('header-sub-title'),
+    navHubBtn: document.getElementById('nav-hub-btn'),
+    poetSwitcherBtn: document.getElementById('poet-switcher-btn'),
+    poetSwitcherLabel: document.getElementById('poet-switcher-label'),
+    searchInput: document.getElementById('search-input'),
+    randomBtn: document.getElementById('random-kafi-btn'),
+    bookmarksBtn: document.getElementById('bookmarks-view-btn'),
     themeBtn: document.getElementById('theme-toggle-btn'),
     themeIcon: document.getElementById('theme-icon'),
     sidebarToggleBtn: document.getElementById('sidebar-toggle-btn'),
     sidebar: document.getElementById('app-sidebar'),
     sidebarBackdrop: document.getElementById('sidebar-backdrop'),
-    kafiList: document.getElementById('kafi-list-container'),
-    searchInput: document.getElementById('search-input'),
+    
+    // Hub specific
+    hubSearchInput: document.getElementById('hub-search-input'),
+    hubSearchResults: document.getElementById('hub-search-results'),
+    
+    // Sidebar inside poet workspace
+    sidebarPoetEmblem: document.getElementById('sidebar-poet-emblem'),
+    sidebarPoetName: document.getElementById('sidebar-poet-name'),
+    sidebarBackToHub: document.getElementById('sidebar-back-to-hub'),
+    sidebarTabsContainer: document.getElementById('sidebar-tabs-container'),
     sidebarSearchInput: document.getElementById('sidebar-search-input'),
-    filterTabs: document.querySelectorAll('.tab-btn'),
-    itemCountBadge: document.getElementById('filtered-count-badge'),
-    welcomeView: document.getElementById('welcome-hero-view'),
-    poemView: document.getElementById('poem-reader-view'),
-    randomBtn: document.getElementById('random-kafi-btn'),
-    bookmarksBtn: document.getElementById('bookmarks-view-btn'),
+    filteredCountBadge: document.getElementById('filtered-count-badge'),
+    kafiList: document.getElementById('kafi-list-container'),
+    
+    // Poem Reader
+    poemGenreBadge: document.getElementById('poem-genre-badge'),
+    poemRagaBadge: document.getElementById('poem-raga-badge'),
+    poemIndexBadge: document.getElementById('poem-index-badge'),
+    poemTitleDev: document.getElementById('poem-title-dev'),
+    poemTitleEn: document.getElementById('poem-title-en'),
+    poemVersesContainer: document.getElementById('poem-verses-container'),
+    poemTransHindi: document.getElementById('poem-trans-hindi'),
+    poemTransEnglish: document.getElementById('poem-trans-english'),
+    poemCommentary: document.getElementById('poem-commentary-content'),
+    prevPoemBtn: document.getElementById('nav-prev-poem-btn'),
+    nextPoemBtn: document.getElementById('nav-next-poem-btn'),
+    returnHubBtn: document.getElementById('nav-return-hub-btn'),
+    copyPoemBtn: document.getElementById('copy-poem-btn'),
+    bookmarkToggleBtn: document.getElementById('bookmark-toggle-btn'),
+    fontDecBtn: document.getElementById('font-decrease'),
+    fontIncBtn: document.getElementById('font-increase'),
+    
+    // Toast
     toast: document.getElementById('toast-notification'),
     toastMsg: document.getElementById('toast-message'),
     viewModeTabs: document.querySelectorAll('.view-tab')
   };
 
-  // Initialize
+  // Initialize Application
   function init() {
     applyTheme(state.theme);
-    initViewFromHash();
-    renderSidebar();
     attachEventListeners();
+    window.addEventListener('hashchange', handleRoute);
+    handleRoute();
   }
 
   // Theme Management
   function applyTheme(theme) {
     state.theme = theme;
     document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('bbs_theme', theme);
+    localStorage.setItem('mystic_theme', theme);
 
     if (el.themeIcon) {
-      el.themeIcon.innerHTML = theme === 'dark' 
+      el.themeIcon.innerHTML = theme === 'dark'
         ? '<path d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>'
         : '<path d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" fill="currentColor"/>';
     }
@@ -78,662 +162,494 @@
     }
   }
 
-  // URL Hash Routing
-  function initViewFromHash() {
-    const hash = window.location.hash;
-    if (!hash) {
-      showWelcomeView();
+  // Routing Management
+  function handleRoute() {
+    const hash = window.location.hash || '';
+
+    // Hub Route: #, #/, or empty
+    if (!hash || hash === '#' || hash === '#/') {
+      showHubView();
       return;
     }
 
-    // Match generic prefix like #kafi-21, #baranmah-1, #athwara-7, #dohre-1, #gandhan-1, #siharfi-1
-    const match = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
-    if (match) {
-      const genre = match[1];
-      const id = parseInt(match[2], 10);
-      const uid = `${genre}_${id}`;
-      if (state.dataStore[uid] || state.dataStore[id]) {
+    // Match /bulleh-shah/ or /sant-ravidas/ routes
+    if (hash.startsWith('#/bulleh-shah')) {
+      state.currentPoet = 'bulleh-shah';
+      const sub = hash.replace('#/bulleh-shah', '').replace(/^\//, '');
+      showPoetWorkspace('bulleh-shah');
+      if (!sub) {
+        showPoetWelcome();
+      } else {
+        resolveWorkRoute('bulleh-shah', sub);
+      }
+      return;
+    }
+
+    if (hash.startsWith('#/sant-ravidas')) {
+      state.currentPoet = 'sant-ravidas';
+      const sub = hash.replace('#/sant-ravidas', '').replace(/^\//, '');
+      showPoetWorkspace('sant-ravidas');
+      if (!sub) {
+        showPoetWelcome();
+      } else {
+        resolveWorkRoute('sant-ravidas', sub);
+      }
+      return;
+    }
+
+    // Legacy fallback for old Bulleh Shah hashes like #kafi-21, #dohre-5
+    const legacyMatch = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
+    if (legacyMatch) {
+      const g = legacyMatch[1];
+      const id = legacyMatch[2];
+      if (['kafi', 'dohre', 'baranmah', 'athwara', 'gandhan', 'siharfi', 'siharfian'].includes(g)) {
+        window.location.hash = `#/bulleh-shah/${g}-${id}`;
+        return;
+      }
+      if (['shabad', 'pada', 'padaavali', 'doha', 'dohe'].includes(g)) {
+        window.location.hash = `#/sant-ravidas/${g}-${id}`;
+        return;
+      }
+    }
+
+    // Default to Hub
+    showHubView();
+  }
+
+  function resolveWorkRoute(poetId, sub) {
+    const poetObj = state.poets[poetId];
+    if (!poetObj) return;
+
+    // e.g. 'shabad-1', 'pada-3', 'doha-1', 'kafi-21'
+    const match = sub.match(/^([a-zA-Z]+)-(\d+)$/);
+    if (!match) {
+      showPoetWelcome();
+      return;
+    }
+
+    let genre = match[1].toLowerCase();
+    const id = parseInt(match[2], 10);
+
+    // Normalize genre alias
+    if (genre === 'pada') genre = 'padaavali';
+    if (genre === 'doha') genre = 'dohe';
+    if (genre === 'siharfian') genre = 'siharfi';
+
+    // Try finding matching item in manifest
+    const manifestItem = (poetObj.manifest || []).find(m => {
+      if (m.id !== id) return false;
+      const mg = (m.genre || '').toLowerCase();
+      return mg === genre || mg.startsWith(genre.slice(0, 4)) || (genre === 'siharfi' && mg === 'siharfian');
+    });
+
+    if (manifestItem && poetObj.data[manifestItem.uid]) {
+      loadWork(manifestItem.uid, false);
+      return;
+    }
+
+    // Direct lookup fallbacks
+    const candidateUids = [
+      `${genre}_${id}`,
+      `ravidas_${genre}_${id}`,
+      `siharfi_${id}`,
+      `siharfian_${id}`,
+      `kafi_${id}`,
+      String(id)
+    ];
+
+    for (const uid of candidateUids) {
+      if (poetObj.data[uid]) {
         loadWork(uid, false);
         return;
       }
     }
-    showWelcomeView();
+
+    showPoetWelcome();
   }
 
-  window.addEventListener('hashchange', () => {
-    const hash = window.location.hash;
-    const match = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
-    if (match) {
-      const uid = `${match[1]}_${match[2]}`;
-      if (uid !== state.currentUid) {
-        loadWork(uid, false);
-      }
-    } else if (!hash) {
-      showWelcomeView();
+  // View Display Functions
+  function showHubView() {
+    state.currentPoet = null;
+    state.currentUid = null;
+    
+    el.hubView.style.display = 'flex';
+    el.poetWorkspace.style.display = 'none';
+    
+    // Header adjustments
+    el.headerEmblem.textContent = '✨';
+    el.headerMainTitle.textContent = 'रहस्यवादी काव्य महाकोश';
+    el.headerSubTitle.textContent = 'Mystic Poetry Archive • 559 Masterpieces';
+    el.navHubBtn.style.display = 'none';
+    el.poetSwitcherBtn.style.display = 'none';
+    el.sidebarToggleBtn.style.display = 'none';
+    
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function showPoetWorkspace(poetId) {
+    const poet = state.poets[poetId];
+    if (!poet) return;
+
+    el.hubView.style.display = 'none';
+    el.poetWorkspace.style.display = 'flex';
+    
+    // Header adjustments
+    el.headerEmblem.textContent = poet.emblem;
+    el.headerMainTitle.textContent = poet.name;
+    el.headerSubTitle.textContent = `${poet.name_en} • ${poet.total} Masterpieces`;
+    el.navHubBtn.style.display = 'inline-flex';
+    el.sidebarToggleBtn.style.display = 'inline-flex';
+
+    // Switcher button to alternate poet
+    const otherId = poetId === 'bulleh-shah' ? 'sant-ravidas' : 'bulleh-shah';
+    const otherPoet = state.poets[otherId];
+    el.poetSwitcherBtn.style.display = 'inline-flex';
+    el.poetSwitcherLabel.textContent = otherPoet.name;
+
+    // Sidebar poet banner
+    el.sidebarPoetEmblem.textContent = poet.emblem;
+    el.sidebarPoetName.textContent = poet.name;
+
+    renderSidebarTabs(poet);
+    renderSidebarList();
+  }
+
+  function showPoetWelcome() {
+    state.currentUid = null;
+    el.poemView.style.display = 'none';
+    el.welcomeView.style.display = 'block';
+
+    const poet = state.poets[state.currentPoet];
+    if (!poet) return;
+
+    const titleEl = document.getElementById('poet-welcome-title');
+    const subEl = document.getElementById('poet-welcome-sub');
+    const descEl = document.getElementById('poet-welcome-desc');
+    const gridEl = document.getElementById('welcome-genres-grid');
+
+    titleEl.textContent = `${poet.name} : सम्पूर्ण रचनावली`;
+    subEl.textContent = `${poet.name_en} : Complete Trilingual Edition (${poet.total} Works)`;
+    
+    if (state.currentPoet === 'bulleh-shah') {
+      descEl.innerHTML = `सूफी दर्शन के अमर प्रतीक <strong>हज़रत बाबा बुल्ले शाह (1680–1757)</strong> की समस्त 351 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें 160 काफ़ियां, बारहमाह, अठवारा, 40 गन्धां, सीहरफ़ियां और 56 दोहरे सम्मिलित हैं।`;
+    } else {
+      descEl.innerHTML = `भक्ति आंदोलन के युगदृष्टा <strong>संत शिरोमणि रविदास जी (1377–1528)</strong> की समस्त 208 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें श्री गुरु ग्रंथ साहिब जी के 40 शब्द, 117 अमर पद और 51 साखी दोहे सम्मिलित हैं।`;
     }
-  });
 
-  // Filter & Search Logic
-  function getFilteredManifest() {
-    return state.manifest.filter(item => {
-      // Filter by genre
-      if (state.currentFilter !== 'all') {
-        if (state.currentFilter === 'bookmarks') {
-          if (!state.bookmarks.has(item.uid)) return false;
-        } else if (item.genre !== state.currentFilter) {
-          return false;
-        }
-      }
+    // Render genre highlights
+    gridEl.innerHTML = poet.tabs
+      .filter(t => t.id !== 'all' && t.id !== 'bookmarks')
+      .map(t => `
+        <div class="genre-highlight-card" onclick="window.appAPI.setGenreFilter('${t.id}')">
+          <div class="genre-card-title">${t.label}</div>
+          <p style="font-size: 0.82rem; color: var(--text-faint); margin-top: 0.25rem;">संग्रह देखने हेतु क्लिक करें</p>
+        </div>
+      `).join('');
 
-      // Filter by search query
-      if (state.searchQuery) {
-        const q = state.searchQuery.toLowerCase().trim();
-        const idMatch = String(item.id) === q;
-        const titleMatch = item.title.toLowerCase().includes(q);
-        const enMatch = (item.title_english || '').toLowerCase().includes(q);
-        const lineMatch = (item.first_line || '').toLowerCase().includes(q);
-        const genreMatch = (item.genre_label || '').toLowerCase().includes(q);
-        return idMatch || titleMatch || enMatch || lineMatch || genreMatch;
-      }
-      return true;
+    // Highlight active in sidebar
+    document.querySelectorAll('.kafi-item').forEach(i => i.classList.remove('active'));
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  // Sidebar Tabs & List Rendering
+  function renderSidebarTabs(poet) {
+    el.sidebarTabsContainer.innerHTML = poet.tabs.map(t => `
+      <button class="tab-btn ${state.currentFilter === t.id ? 'active' : ''}" data-filter="${t.id}">
+        ${t.label}
+      </button>
+    `).join('');
+
+    el.sidebarTabsContainer.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        el.sidebarTabsContainer.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        state.currentFilter = btn.dataset.filter;
+        renderSidebarList();
+      });
     });
   }
 
-  // Render Sidebar
-  function renderSidebar() {
-    if (!el.kafiList) return;
-    const items = getFilteredManifest();
+  function getFilteredManifest() {
+    const poet = state.poets[state.currentPoet];
+    if (!poet) return [];
 
-    if (el.itemCountBadge) {
-      el.itemCountBadge.textContent = `${items.length} रचनाएं`;
+    let list = poet.manifest;
+
+    // Filter by genre
+    if (state.currentFilter === 'bookmarks') {
+      list = list.filter(item => state.bookmarks.has(item.uid));
+    } else if (state.currentFilter !== 'all') {
+      list = list.filter(item => item.genre === state.currentFilter);
     }
 
-    if (items.length === 0) {
+    // Filter by search query
+    const q = state.searchQuery.trim().toLowerCase();
+    if (q) {
+      list = list.filter(item => {
+        const titleMatch = (item.title || '').toLowerCase().includes(q);
+        const lineMatch = (item.first_line || '').toLowerCase().includes(q);
+        const idMatch = String(item.id) === q;
+        const themeMatch = (item.theme || '').toLowerCase().includes(q);
+        return titleMatch || lineMatch || idMatch || themeMatch;
+      });
+    }
+
+    return list;
+  }
+
+  function renderSidebarList() {
+    const list = getFilteredManifest();
+    el.filteredCountBadge.textContent = `${list.length} रचनाएं`;
+
+    if (list.length === 0) {
       el.kafiList.innerHTML = `
-        <li style="padding: 2.5rem 1rem; text-align: center; color: var(--text-faint);">
-          <div style="font-size: 1.8rem; margin-bottom: 0.5rem;">🍃</div>
-          <div style="font-weight: 600;">कोई रचना नहीं मिली</div>
-          <div style="font-size: 0.8rem; margin-top: 0.25rem;">कृपया अन्य खोज शब्द आज़माएं</div>
+        <li style="padding: 2.5rem 1rem; text-align: center; color: var(--text-faint); font-size: 0.9rem;">
+          कोई रचना नहीं मिली।
         </li>
       `;
       return;
     }
 
-    el.kafiList.innerHTML = items.map(item => {
-      const isActive = item.uid === state.currentUid;
-      const isStarred = state.bookmarks.has(item.uid);
+    el.kafiList.innerHTML = list.map(item => {
+      const isActive = item.uid === state.currentUid ? 'active' : '';
+      const isBookmarked = state.bookmarks.has(item.uid);
+      const genreLabel = item.genre_label || item.genre;
+      
       return `
-        <li class="kafi-item ${isActive ? 'active' : ''}" data-uid="${item.uid}" id="sidebar-item-${item.uid}">
-          <div class="kafi-num-pill">${item.id}</div>
-          <div class="kafi-info">
-            <div class="kafi-item-title">${escapeHtml(item.title)}</div>
-            <div class="kafi-item-sub">
-              <span style="font-style: normal; color: var(--gold-primary); font-weight: 600; margin-right: 4px;">[${escapeHtml(item.genre_label || 'रचना')}]</span>
-              ${escapeHtml(item.title_english || item.first_line || '')}
-            </div>
+        <li class="kafi-item ${isActive}" data-uid="${item.uid}" id="item-${item.uid}">
+          <div class="kafi-item-header">
+            <span class="kafi-index"># ${item.id}</span>
+            <span class="kafi-genre-pill">${genreLabel}</span>
           </div>
-          <button class="kafi-star-btn ${isStarred ? 'starred' : ''}" data-star-uid="${item.uid}" title="${isStarred ? 'पसंदीदा से हटाएं' : 'पसंदीदा में जोड़ें'}">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="${isStarred ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
-              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
-            </svg>
-          </button>
+          <div class="kafi-item-title">${escapeHTML(item.title)}</div>
+          <div class="kafi-item-firstline">${escapeHTML(item.first_line || '')}</div>
+          ${isBookmarked ? '<span style="font-size:0.75rem; color:var(--gold-primary); margin-top:0.25rem;">★ पसंदीदा</span>' : ''}
         </li>
       `;
     }).join('');
 
-    // Attach click events on sidebar items
-    el.kafiList.querySelectorAll('.kafi-item').forEach(li => {
-      li.addEventListener('click', (e) => {
-        if (e.target.closest('.kafi-star-btn')) return;
-        const uid = li.getAttribute('data-uid');
-        loadWork(uid);
+    el.kafiList.querySelectorAll('.kafi-item').forEach(itemEl => {
+      itemEl.addEventListener('click', () => {
+        const uid = itemEl.dataset.uid;
+        loadWork(uid, true);
         closeMobileSidebar();
       });
     });
-
-    // Attach star button clicks
-    el.kafiList.querySelectorAll('.kafi-star-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const uid = btn.getAttribute('data-star-uid');
-        toggleBookmark(uid);
-      });
-    });
   }
 
-  // Bookmarks Management
-  function toggleBookmark(uid) {
-    if (state.bookmarks.has(uid)) {
-      state.bookmarks.delete(uid);
-      showToast(`पसंदीदा से हटाया गया`);
-    } else {
-      state.bookmarks.add(uid);
-      showToast(`पसंदीदा में जोड़ा गया`);
-    }
-    localStorage.setItem('bbs_bookmarks', JSON.stringify(Array.from(state.bookmarks)));
-    renderSidebar();
-    updateBookmarkBtnState();
-  }
-
-  function updateBookmarkBtnState() {
-    const starBtn = document.getElementById('active-kafi-star-btn');
-    if (starBtn && state.currentUid) {
-      const isStarred = state.bookmarks.has(state.currentUid);
-      starBtn.classList.toggle('active', isStarred);
-      starBtn.title = isStarred ? 'पसंदीदा से हटाएं' : 'पसंदीदा में जोड़ें';
-    }
-  }
-
-  // Load Any Work
+  // Work Loading & Reading
   function loadWork(uid, updateHash = true) {
-    let item = state.dataStore[uid];
-    if (!item) {
-      // Fallback: check if integer ID was passed for kafian
-      const numMatch = uid.match(/\d+/);
-      if (numMatch && state.dataStore[numMatch[0]]) {
-        item = state.dataStore[numMatch[0]];
-        uid = `kafi_${numMatch[0]}`;
-      }
-    }
+    const poetObj = state.poets[state.currentPoet];
+    if (!poetObj) return;
 
-    if (!item) {
-      showToast(`रचना लोड करने में असमर्थ`);
-      return;
-    }
+    const data = poetObj.data[uid];
+    if (!data) return;
 
     state.currentUid = uid;
-    if (updateHash) {
-      const hashPart = uid.replace('_', '-');
-      window.location.hash = `#${hashPart}`;
-    }
 
-    renderWork(item);
-    renderSidebar();
+    // Update active highlight in sidebar
+    el.kafiList.querySelectorAll('.kafi-item').forEach(item => {
+      item.classList.toggle('active', item.dataset.uid === uid);
+    });
 
-    // Scroll active item into view in sidebar
-    const activeItem = document.getElementById(`sidebar-item-${uid}`);
+    const activeItem = document.getElementById(`item-${uid}`);
     if (activeItem) {
       activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
-    // Scroll reader window to top
+    // Populate poem view
+    renderPoemReader(data);
+
+    el.welcomeView.style.display = 'none';
+    el.poemView.style.display = 'block';
+
+    if (updateHash) {
+      const g = data.genre;
+      window.location.hash = `#/${state.currentPoet}/${g}-${data.id}`;
+    }
+
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  function showWelcomeView() {
-    state.currentUid = null;
-    if (el.welcomeView) el.welcomeView.style.display = 'block';
-    if (el.poemView) el.poemView.classList.remove('active');
-    renderSidebar();
+  function renderPoemReader(data) {
+    el.poemGenreBadge.textContent = data.genre_label || data.genre;
+    el.poemIndexBadge.textContent = `# ${data.id}`;
+
+    if (data.raga) {
+      el.poemRagaBadge.style.display = 'inline-flex';
+      el.poemRagaBadge.textContent = data.raga;
+    } else {
+      el.poemRagaBadge.style.display = 'none';
+    }
+
+    el.poemTitleDev.textContent = data.title;
+    el.poemTitleEn.textContent = data.theme || data.title_english || '';
+
+    // Verses & Glosses normalization across both Bulleh Shah and Ravidas schemas
+    let lines = [];
+    let hiGlosses = [];
+    let enGlosses = [];
+
+    if (Array.isArray(data.lines) && data.lines.length > 0) {
+      lines = data.lines;
+      hiGlosses = data.hindi_gloss || [];
+      enGlosses = data.english_gloss || [];
+    } else if (Array.isArray(data.stanzas) && data.stanzas.length > 0) {
+      data.stanzas.forEach(s => {
+        (s.lines || []).forEach(l => {
+          lines.push(l.original || '');
+          hiGlosses.push(l.hindi_gloss || '');
+          enGlosses.push(l.english_gloss || '');
+        });
+      });
+    } else if (Array.isArray(data.original_verses)) {
+      lines = data.original_verses;
+    }
+
+    el.poemVersesContainer.innerHTML = lines.map((line, idx) => {
+      const hi = hiGlosses[idx] || '';
+      const en = enGlosses[idx] || '';
+
+      return `
+        <div class="verse-group-card">
+          <div class="verse-devanagari">${escapeHTML(line)}</div>
+          ${hi ? `
+            <div class="gloss-block hindi-gloss">
+              <span class="gloss-lang-badge">🇮🇳 हिन्दी पदच्छेद</span>
+              <div class="gloss-text">${escapeHTML(hi)}</div>
+            </div>
+          ` : ''}
+          ${en ? `
+            <div class="gloss-block english-gloss">
+              <span class="gloss-lang-badge">🇬🇧 English Gloss</span>
+              <div class="gloss-text">${escapeHTML(en)}</div>
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }).join('');
+
+    // Translations
+    let hiTrans = data.hindi_translation || '';
+    if (!hiTrans && Array.isArray(data.stanzas)) {
+      hiTrans = data.stanzas.map(s => Array.isArray(s.poetic_hindi) ? s.poetic_hindi.join('\n') : (s.poetic_hindi || '')).filter(Boolean).join('\n\n');
+    }
+    el.poemTransHindi.innerHTML = (hiTrans || 'काव्यानुवाद उपलब्ध नहीं है।').replace(/\n/g, '<br>');
+
+    let enTrans = data.english_translation || '';
+    if (!enTrans && Array.isArray(data.stanzas)) {
+      enTrans = data.stanzas.map(s => Array.isArray(s.poetic_english) ? s.poetic_english.join('\n') : (s.poetic_english || '')).filter(Boolean).join('\n\n');
+    }
+    el.poemTransEnglish.innerHTML = (enTrans || 'English verse translation unavailable.').replace(/\n/g, '<br>');
+
+    // Commentary
+    el.poemCommentary.innerHTML = formatCommentaryMarkdown(data.commentary || 'दार्शनिक भावार्थ उपलब्ध नहीं है।');
+
+    // Update Bookmark Button
+    const isBookmarked = state.bookmarks.has(data.uid);
+    el.bookmarkToggleBtn.textContent = isBookmarked ? '★' : '☆';
+    el.bookmarkToggleBtn.style.color = isBookmarked ? 'var(--gold-primary)' : 'inherit';
+
+    // Update Next/Prev buttons
+    updateNavigationControls(data.uid);
   }
 
-  // Render Work into Reader View
-  function renderWork(k) {
-    if (el.welcomeView) el.welcomeView.style.display = 'none';
-    if (!el.poemView) return;
-    el.poemView.classList.add('active');
+  function updateNavigationControls(currentUid) {
+    const list = getFilteredManifest();
+    const currIdx = list.findIndex(i => i.uid === currentUid);
 
-    const uid = k.uid || `kafi_${k.id}`;
-    const isStarred = state.bookmarks.has(uid);
+    el.prevPoemBtn.disabled = currIdx <= 0;
+    el.nextPoemBtn.disabled = currIdx < 0 || currIdx >= list.length - 1;
 
-    // Find previous and next within the same genre
-    const genreItems = state.manifest.filter(m => m.genre === k.genre);
-    const currIdx = genreItems.findIndex(m => m.uid === uid);
-    const prevItem = currIdx > 0 ? genreItems[currIdx - 1] : null;
-    const nextItem = currIdx < genreItems.length - 1 ? genreItems[currIdx + 1] : null;
+    el.prevPoemBtn.onclick = () => {
+      if (currIdx > 0) {
+        loadWork(list[currIdx - 1].uid, true);
+      }
+    };
 
-    // Tags
-    const tags = [];
-    if (k.genre_label) tags.push(`<span class="tag-badge"><strong>विधा:</strong> ${escapeHtml(k.genre_label)}</span>`);
-    if (k.raga) tags.push(`<span class="tag-badge"><strong>राग:</strong> ${escapeHtml(k.raga)}</span>`);
-    if (k.meter) tags.push(`<span class="tag-badge"><strong>छंद:</strong> ${escapeHtml(k.meter)}</span>`);
-    if (k.theme) tags.push(`<span class="tag-badge"><strong>विषय:</strong> ${escapeHtml(k.theme)}</span>`);
-    if (k.season) tags.push(`<span class="tag-badge"><strong>ऋतु:</strong> ${escapeHtml(k.season)}</span>`);
+    el.nextPoemBtn.onclick = () => {
+      if (currIdx >= 0 && currIdx < list.length - 1) {
+        loadWork(list[currIdx + 1].uid, true);
+      }
+    };
 
-    // Stanzas rendering
-    const showVerses = state.viewMode === 'all' || state.viewMode === 'verses';
-    const showGloss = state.viewMode === 'all' || state.viewMode === 'gloss';
-    const showTrans = state.viewMode === 'all' || state.viewMode === 'trans';
-
-    // Original Verses Block
-    let versesHtml = '';
-    if (showVerses) {
-      const lines = k.original_verses || [];
-      versesHtml = `
-        <section class="reader-card" id="card-original-verses">
-          <div class="reader-card-header">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M12 19l7-7 3 3-7 7-3-3z"/>
-              <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"/>
-              <path d="M2 2l7.586 7.586"/>
-              <circle cx="11" cy="11" r="2"/>
-            </svg>
-            <div>
-              <h3>मूल पाठ</h3>
-              <span class="en-badge">Original Classical Punjabi</span>
-            </div>
-          </div>
-          <div class="verses-container">
-            ${lines.map(l => `<div class="verse-line">${escapeHtml(l)}</div>`).join('')}
-          </div>
-        </section>
-      `;
-    }
-
-    // Word-by-Word Gloss Block
-    let glossHtml = '';
-    if (showGloss && k.stanzas && k.stanzas.length > 0) {
-      glossHtml = `
-        <section class="reader-card" id="card-glossary">
-          <div class="reader-card-header">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <circle cx="11" cy="11" r="8"/>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-            </svg>
-            <div>
-              <h3>पद-वार शब्दार्थ एवं पदच्छेद</h3>
-              <span class="en-badge">Word-by-Word Hindi & English Gloss</span>
-            </div>
-          </div>
-          <div class="gloss-container">
-            ${k.stanzas.map((stanza, sIdx) => `
-              <div class="stanza-gloss-group">
-                ${k.stanzas.length > 1 ? `<span class="stanza-badge">छंद ${sIdx + 1} (Stanza ${sIdx + 1})</span>` : ''}
-                ${stanza.lines.map(line => `
-                  <div class="gloss-line-card">
-                    <div class="gloss-orig-line">${escapeHtml(line.original)}</div>
-                    ${line.hindi_gloss ? `
-                      <div class="gloss-detail">
-                        <strong>हिन्दी शब्दार्थ:</strong>
-                        <span class="gloss-hi-text">${formatGlossWords(line.hindi_gloss)}</span>
-                      </div>
-                    ` : ''}
-                    ${line.english_gloss ? `
-                      <div class="gloss-detail">
-                        <strong>English Gloss:</strong>
-                        <span class="gloss-en-text">${formatGlossWords(line.english_gloss)}</span>
-                      </div>
-                    ` : ''}
-                  </div>
-                `).join('')}
-              </div>
-            `).join('')}
-          </div>
-        </section>
-      `;
-    }
-
-    // Poetic Translations Block
-    let transHtml = '';
-    if (showTrans && k.stanzas && k.stanzas.length > 0) {
-      transHtml = `
-        <section class="reader-card" id="card-translations">
-          <div class="reader-card-header">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <circle cx="12" cy="12" r="10"/>
-              <line x1="2" y1="12" x2="22" y2="12"/>
-              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-            </svg>
-            <div>
-              <h3>काव्यात्मक अनुवाद</h3>
-              <span class="en-badge">Poetic Metered Rendition</span>
-            </div>
-          </div>
-          <div class="translations-grid">
-            <div class="trans-col">
-              <div class="trans-col-header">
-                <span>🇮🇳 हिन्दी काव्यात्मक भावार्थ</span>
-              </div>
-              <div class="trans-body-hi">
-                ${k.stanzas.map(s => `
-                  <div class="trans-stanza">
-                    ${(s.poetic_hindi || []).map(l => `<div>${escapeHtml(l)}</div>`).join('')}
-                  </div>
-                `).join('')}
-              </div>
-            </div>
-            <div class="trans-col">
-              <div class="trans-col-header">
-                <span>🇬🇧 English Poetic Translation</span>
-              </div>
-              <div class="trans-body-en">
-                ${k.stanzas.map(s => `
-                  <div class="trans-stanza">
-                    ${(s.poetic_english || []).map(l => `<div>${escapeHtml(l)}</div>`).join('')}
-                  </div>
-                `).join('')}
-              </div>
-            </div>
-          </div>
-        </section>
-      `;
-    }
-
-    // Commentary Block
-    let commentaryHtml = '';
-    if (k.commentary && (state.viewMode === 'all' || state.viewMode === 'verses')) {
-      const paras = k.commentary.split('\n\n').filter(Boolean);
-      commentaryHtml = `
-        <section class="reader-card" id="card-commentary">
-          <div class="reader-card-header">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
-            </svg>
-            <div>
-              <h3>दार्शनिक एवं सूफी व्याख्या</h3>
-              <span class="en-badge">Sufi & Philosophical Meaning</span>
-            </div>
-          </div>
-          <div class="commentary-body">
-            ${paras.map(p => `<p>${escapeHtml(p)}</p>`).join('')}
-          </div>
-        </section>
-      `;
-    }
-
-    // Render Full Reader HTML
-    el.poemView.innerHTML = `
-      <div class="poem-header-card">
-        <div class="poem-meta-top">
-          <span class="section-tag">${escapeHtml(k.section || k.genre_label || '')}</span>
-          <div class="poem-top-nav">
-            <button class="icon-btn ${isStarred ? 'active' : ''}" id="active-kafi-star-btn" title="पसंदीदा">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="${isStarred ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
-                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
-              </svg>
-            </button>
-            <button class="icon-btn" id="copy-kafi-btn" title="रचना कॉपी करें">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
-                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
-              </svg>
-            </button>
-            <button class="icon-btn" id="share-link-btn" title="लिंक कॉपी करें">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/>
-                <circle cx="6" cy="12" r="3"/>
-                <circle cx="18" cy="19" r="3"/>
-                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/>
-                <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
-              </svg>
-            </button>
-          </div>
-        </div>
-
-        <h2 class="poem-title-dev">${escapeHtml(k.title)}</h2>
-        ${k.title_english ? `<div class="poem-title-en">${escapeHtml(k.title_english)}</div>` : ''}
-
-        ${tags.length > 0 ? `<div class="tags-row">${tags.join('')}</div>` : ''}
-
-        ${k.refrain ? `
-          <div class="context-box">
-            <strong>टेक (Refrain):</strong> ${escapeHtml(k.refrain)}
-          </div>
-        ` : ''}
-
-        ${k.historical_context ? `
-          <div class="context-box">
-            <strong>प्रसंग एवं संदर्भ:</strong> ${escapeHtml(k.historical_context)}
-          </div>
-        ` : ''}
-      </div>
-
-      <!-- View Selector Bar -->
-      <div class="view-tabs-bar">
-        <div class="view-tabs-group">
-          <button class="view-tab ${state.viewMode === 'all' ? 'active' : ''}" data-mode="all">📜 समग्र अध्ययन</button>
-          <button class="view-tab ${state.viewMode === 'verses' ? 'active' : ''}" data-mode="verses">🪶 मूल पाठ</button>
-          <button class="view-tab ${state.viewMode === 'gloss' ? 'active' : ''}" data-mode="gloss">🔍 पद-वार शब्दार्थ</button>
-          <button class="view-tab ${state.viewMode === 'trans' ? 'active' : ''}" data-mode="trans">🌐 काव्यात्मक अनुवाद</button>
-        </div>
-        <div class="font-controls">
-          <button class="font-btn" id="btn-font-sub" title="छोटा फॉन्ट">A-</button>
-          <button class="font-btn" id="btn-font-reset" title="सामान्य फॉन्ट">A</button>
-          <button class="font-btn" id="btn-font-add" title="बड़ा फॉन्ट">A+</button>
-        </div>
-      </div>
-
-      <!-- Content Cards -->
-      ${versesHtml}
-      ${glossHtml}
-      ${transHtml}
-      ${commentaryHtml}
-
-      <!-- Bottom Prev / Next Nav -->
-      <div class="reader-bottom-nav">
-        ${prevItem ? `
-          <div class="nav-card-btn" id="prev-work-card" data-nav-uid="${prevItem.uid}">
-            <div class="nav-dir">← पिछली रचना (${escapeHtml(prevItem.genre_label)})</div>
-            <div class="nav-poem-title">${escapeHtml(prevItem.title)}</div>
-          </div>
-        ` : '<div></div>'}
-        ${nextItem ? `
-          <div class="nav-card-btn" id="next-work-card" data-nav-uid="${nextItem.uid}" style="text-align: right;">
-            <div class="nav-dir">अगली रचना (${escapeHtml(nextItem.genre_label)}) →</div>
-            <div class="nav-poem-title">${escapeHtml(nextItem.title)}</div>
-          </div>
-        ` : '<div></div>'}
-      </div>
-    `;
-
-    attachWorkActions(k);
+    el.returnHubBtn.onclick = () => {
+      window.location.hash = '#/';
+    };
   }
 
-  function formatGlossWords(str) {
+  // Global Cross-Poet Search (for Hub)
+  function handleGlobalSearch(query) {
+    const q = query.trim().toLowerCase();
+    if (!q) {
+      el.hubSearchResults.style.display = 'none';
+      el.hubSearchResults.innerHTML = '';
+      return;
+    }
+
+    const bullehMatches = state.poets['bulleh-shah'].manifest.filter(i => {
+      return (i.title || '').toLowerCase().includes(q) || (i.first_line || '').toLowerCase().includes(q);
+    });
+
+    const ravidasMatches = state.poets['sant-ravidas'].manifest.filter(i => {
+      return (i.title || '').toLowerCase().includes(q) || (i.first_line || '').toLowerCase().includes(q) || (i.theme || '').toLowerCase().includes(q);
+    });
+
+    const totalMatches = bullehMatches.length + ravidasMatches.length;
+    if (totalMatches === 0) {
+      el.hubSearchResults.innerHTML = `
+        <div style="text-align: center; color: var(--text-faint); padding: 1.5rem;">
+          '${escapeHTML(query)}' के लिए 559 रचनाओं में कोई परिणाम नहीं मिला।
+        </div>
+      `;
+      el.hubSearchResults.style.display = 'block';
+      return;
+    }
+
+    let html = `<div style="margin-bottom: 0.75rem; font-weight: 600; font-size: 0.85rem; color: var(--text-muted);">${totalMatches} रचनाएं मिलीं:</div>`;
+
+    if (ravidasMatches.length > 0) {
+      html += `
+        <div class="search-results-group">
+          <h4 style="color: #ea580c;">संत रविदास जी (${ravidasMatches.length} परिणाम)</h4>
+          ${ravidasMatches.slice(0, 10).map(m => `
+            <div class="search-result-item" onclick="window.location.hash='#/sant-ravidas/${m.genre}-${m.id}'">
+              <div>
+                <div class="search-result-title">${escapeHTML(m.title)}</div>
+                <div style="font-size: 0.78rem; color: var(--text-faint);">${escapeHTML(m.first_line || m.theme || '')}</div>
+              </div>
+              <span class="search-result-badge" style="border: 1px solid rgba(234, 88, 12, 0.4);">${m.genre_label}</span>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    if (bullehMatches.length > 0) {
+      html += `
+        <div class="search-results-group">
+          <h4>बाबा बुल्ले शाह (${bullehMatches.length} परिणाम)</h4>
+          ${bullehMatches.slice(0, 10).map(m => `
+            <div class="search-result-item" onclick="window.location.hash='#/bulleh-shah/${m.genre}-${m.id}'">
+              <div>
+                <div class="search-result-title">${escapeHTML(m.title)}</div>
+                <div style="font-size: 0.78rem; color: var(--text-faint);">${escapeHTML(m.first_line || '')}</div>
+              </div>
+              <span class="search-result-badge">${m.genre_label}</span>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    el.hubSearchResults.innerHTML = html;
+    el.hubSearchResults.style.display = 'block';
+  }
+
+  // Utilities
+  function escapeHTML(str) {
     if (!str) return '';
-    const escaped = escapeHtml(str);
-    return escaped.replace(/\(([^)]+)\)/g, '<span style="color: var(--gold-primary); font-weight: 600;">($1)</span>');
-  }
-
-  function attachWorkActions(k) {
-    const starBtn = document.getElementById('active-kafi-star-btn');
-    if (starBtn) {
-      starBtn.addEventListener('click', () => toggleBookmark(k.uid || `kafi_${k.id}`));
-    }
-
-    const copyBtn = document.getElementById('copy-kafi-btn');
-    if (copyBtn) {
-      copyBtn.addEventListener('click', () => {
-        const textToCopy = `${k.title}\n\n${(k.original_verses || []).join('\n')}\n\n— बाबा बुल्ले शाह`;
-        navigator.clipboard.writeText(textToCopy).then(() => {
-          showToast('रचना क्लिपबोर्ड में कॉपी हो गई!');
-        }).catch(() => {
-          showToast('कॉपी करने में असमर्थ');
-        });
-      });
-    }
-
-    const shareBtn = document.getElementById('share-link-btn');
-    if (shareBtn) {
-      shareBtn.addEventListener('click', () => {
-        const url = window.location.href;
-        navigator.clipboard.writeText(url).then(() => {
-          showToast('लिंक कॉपी हो गया!');
-        });
-      });
-    }
-
-    // View Mode Switchers
-    el.poemView.querySelectorAll('.view-tab').forEach(btn => {
-      btn.addEventListener('click', () => {
-        state.viewMode = btn.getAttribute('data-mode');
-        renderWork(k);
-      });
-    });
-
-    // Font Controls
-    const fontSub = document.getElementById('btn-font-sub');
-    const fontReset = document.getElementById('btn-font-reset');
-    const fontAdd = document.getElementById('btn-font-add');
-
-    if (fontSub) {
-      fontSub.addEventListener('click', () => {
-        state.fontScale = Math.max(0.8, state.fontScale - 0.1);
-        document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
-      });
-    }
-    if (fontReset) {
-      fontReset.addEventListener('click', () => {
-        state.fontScale = 1.0;
-        document.documentElement.style.setProperty('--reader-font-scale', 1.0);
-      });
-    }
-    if (fontAdd) {
-      fontAdd.addEventListener('click', () => {
-        state.fontScale = Math.min(1.4, state.fontScale + 0.1);
-        document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
-      });
-    }
-
-    // Bottom Navigation Cards
-    const prevCard = document.getElementById('prev-work-card');
-    if (prevCard) {
-      prevCard.addEventListener('click', () => {
-        const uid = prevCard.getAttribute('data-nav-uid');
-        loadWork(uid);
-      });
-    }
-
-    const nextCard = document.getElementById('next-work-card');
-    if (nextCard) {
-      nextCard.addEventListener('click', () => {
-        const uid = nextCard.getAttribute('data-nav-uid');
-        loadWork(uid);
-      });
-    }
-  }
-
-  // Sidebar Controls
-  function toggleMobileSidebar() {
-    if (el.sidebar) el.sidebar.classList.toggle('mobile-open');
-    if (el.sidebarBackdrop) el.sidebarBackdrop.classList.toggle('active');
-  }
-
-  function closeMobileSidebar() {
-    if (el.sidebar) el.sidebar.classList.remove('mobile-open');
-    if (el.sidebarBackdrop) el.sidebarBackdrop.classList.remove('active');
-  }
-
-  // Global Event Listeners
-  function attachEventListeners() {
-    if (el.themeBtn) el.themeBtn.addEventListener('click', toggleTheme);
-    if (el.sidebarToggleBtn) el.sidebarToggleBtn.addEventListener('click', toggleMobileSidebar);
-    if (el.sidebarBackdrop) el.sidebarBackdrop.addEventListener('click', closeMobileSidebar);
-
-    // Search input
-    if (el.searchInput) {
-      el.searchInput.addEventListener('input', (e) => {
-        state.searchQuery = e.target.value;
-        renderSidebar();
-      });
-    }
-
-    // Filter Tabs
-    el.filterTabs.forEach(tab => {
-      tab.addEventListener('click', () => {
-        el.filterTabs.forEach(t => t.classList.remove('active'));
-        tab.classList.add('active');
-        state.currentFilter = tab.getAttribute('data-filter');
-        renderSidebar();
-      });
-    });
-
-    // Random Masterpiece Button
-    if (el.randomBtn) {
-      el.randomBtn.addEventListener('click', () => {
-        const randomItem = state.manifest[Math.floor(Math.random() * state.manifest.length)];
-        if (randomItem) {
-          loadWork(randomItem.uid);
-          showToast(`${randomItem.title} खोला गया`);
-        }
-      });
-    }
-
-    // Bookmarks View Button
-    if (el.bookmarksBtn) {
-      el.bookmarksBtn.addEventListener('click', () => {
-        el.filterTabs.forEach(t => {
-          if (t.getAttribute('data-filter') === 'bookmarks') t.click();
-        });
-        if (window.innerWidth <= 850) toggleMobileSidebar();
-      });
-    }
-
-    // Brand Header Link
-    const brand = document.getElementById('brand-header-link');
-    if (brand) {
-      brand.addEventListener('click', () => {
-        window.location.hash = '';
-        showWelcomeView();
-      });
-    }
-
-    // Feature pill cards on hero welcome page (6 classical genres)
-    document.querySelectorAll('.feature-pill').forEach(pill => {
-      const activateGenre = () => {
-        const genre = pill.getAttribute('data-genre');
-        const firstUid = pill.getAttribute('data-first-uid');
-
-        // 1. Activate the corresponding sidebar tab
-        if (genre && el.filterTabs) {
-          el.filterTabs.forEach(t => {
-            if (t.getAttribute('data-filter') === genre) {
-              el.filterTabs.forEach(tab => tab.classList.remove('active'));
-              t.classList.add('active');
-              state.currentFilter = genre;
-              renderSidebar();
-            }
-          });
-        }
-
-        // 2. Load the first work of that genre directly into reader
-        if (firstUid) {
-          loadWork(firstUid);
-          const heading = pill.querySelector('h3');
-          const title = heading ? heading.textContent.trim() : '';
-          if (title) showToast(`${title} खोला गया`);
-        }
-      };
-
-      pill.addEventListener('click', activateGenre);
-      pill.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') {
-          e.preventDefault();
-          activateGenre();
-        }
-      });
-    });
-
-    // Quick pick chips on hero welcome page
-    document.querySelectorAll('.pick-chip').forEach(chip => {
-      chip.addEventListener('click', () => {
-        const targetUid = chip.getAttribute('data-uid');
-        if (targetUid) loadWork(targetUid);
-      });
-    });
-
-    // Keyboard Shortcuts
-    window.addEventListener('keydown', (e) => {
-      if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
-        if (e.key === 'Escape') document.activeElement.blur();
-        return;
-      }
-      if (e.key === '/' && el.searchInput) {
-        e.preventDefault();
-        el.searchInput.focus();
-        return;
-      }
-      if (e.key === 't' || e.key === 'T') {
-        toggleTheme();
-        return;
-      }
-      if (e.key === 'Escape') closeMobileSidebar();
-    });
-  }
-
-  function escapeHtml(text) {
-    if (!text) return '';
-    return String(text)
+    return str
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
@@ -741,9 +657,239 @@
       .replace(/'/g, '&#039;');
   }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
+  function formatCommentaryMarkdown(md) {
+    let out = escapeHTML(md);
+    out = out.replace(/^### (.*$)/gim, '<h4 style="font-size: 1.15rem; color: var(--gold-primary); margin: 1.25rem 0 0.5rem;">$1</h4>');
+    out = out.replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>');
+    out = out.replace(/\n\n/g, '<br><br>');
+    return out;
   }
+
+  function closeMobileSidebar() {
+    el.sidebar.classList.remove('mobile-open');
+    el.sidebarBackdrop.classList.remove('active');
+  }
+
+  function toggleBookmark(uid) {
+    if (state.bookmarks.has(uid)) {
+      state.bookmarks.delete(uid);
+      showToast('पसंदीदा सूची से हटाया गया');
+    } else {
+      state.bookmarks.add(uid);
+      showToast('★ पसंदीदा सूची में जोड़ा गया!');
+    }
+    localStorage.setItem('mystic_bookmarks', JSON.stringify(Array.from(state.bookmarks)));
+
+    if (state.currentUid === uid) {
+      const isBookmarked = state.bookmarks.has(uid);
+      el.bookmarkToggleBtn.textContent = isBookmarked ? '★' : '☆';
+      el.bookmarkToggleBtn.style.color = isBookmarked ? 'var(--gold-primary)' : 'inherit';
+    }
+
+    if (state.currentFilter === 'bookmarks') {
+      renderSidebarList();
+    }
+  }
+
+  // Event Listeners
+  function attachEventListeners() {
+    // Brand header click
+    el.brandHeader.addEventListener('click', () => {
+      window.location.hash = '#/';
+    });
+
+    // Nav Hub Button
+    el.navHubBtn.addEventListener('click', () => {
+      window.location.hash = '#/';
+    });
+
+    // Poet Switcher Button
+    el.poetSwitcherBtn.addEventListener('click', () => {
+      if (state.currentPoet === 'bulleh-shah') {
+        window.location.hash = '#/sant-ravidas/';
+      } else {
+        window.location.hash = '#/bulleh-shah/';
+      }
+    });
+
+    // Sidebar back to hub button
+    el.sidebarBackToHub.addEventListener('click', () => {
+      window.location.hash = '#/';
+    });
+
+    // Theme Toggle
+    el.themeBtn.addEventListener('click', toggleTheme);
+
+    // Sidebar Mobile Toggle
+    el.sidebarToggleBtn.addEventListener('click', () => {
+      el.sidebar.classList.toggle('mobile-open');
+      el.sidebarBackdrop.classList.toggle('active');
+    });
+
+    el.sidebarBackdrop.addEventListener('click', closeMobileSidebar);
+
+    // Hub Search Input
+    el.hubSearchInput.addEventListener('input', (e) => {
+      handleGlobalSearch(e.target.value);
+    });
+
+    // Desktop Header Search
+    el.searchInput.addEventListener('input', (e) => {
+      const q = e.target.value;
+      if (!state.currentPoet) {
+        el.hubSearchInput.value = q;
+        handleGlobalSearch(q);
+      } else {
+        state.searchQuery = q;
+        renderSidebarList();
+      }
+    });
+
+    // Sidebar Search
+    el.sidebarSearchInput.addEventListener('input', (e) => {
+      state.searchQuery = e.target.value;
+      renderSidebarList();
+    });
+
+    // Keyboard shortcut / for search
+    window.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== el.searchInput && document.activeElement !== el.hubSearchInput) {
+        e.preventDefault();
+        if (!state.currentPoet) {
+          el.hubSearchInput.focus();
+        } else {
+          el.searchInput.focus();
+        }
+      }
+    });
+
+    // Random Work Button
+    el.randomBtn.addEventListener('click', () => {
+      if (!state.currentPoet) {
+        // Pick random poet
+        const pIds = ['bulleh-shah', 'sant-ravidas'];
+        const chosenPoet = pIds[Math.floor(Math.random() * pIds.length)];
+        const m = state.poets[chosenPoet].manifest;
+        const randomItem = m[Math.floor(Math.random() * m.length)];
+        window.location.hash = `#/${chosenPoet}/${randomItem.genre}-${randomItem.id}`;
+      } else {
+        const list = getFilteredManifest();
+        if (list.length > 0) {
+          const randomItem = list[Math.floor(Math.random() * list.length)];
+          loadWork(randomItem.uid, true);
+        }
+      }
+    });
+
+    // Welcome Random Button
+    const welcomeRand = document.getElementById('welcome-random-btn');
+    if (welcomeRand) {
+      welcomeRand.addEventListener('click', () => {
+        el.randomBtn.click();
+      });
+    }
+
+    // Bookmark Toggle Button
+    el.bookmarkToggleBtn.addEventListener('click', () => {
+      if (state.currentUid) {
+        toggleBookmark(state.currentUid);
+      }
+    });
+
+    // Bookmarks View Button
+    el.bookmarksBtn.addEventListener('click', () => {
+      if (!state.currentPoet) {
+        window.location.hash = '#/bulleh-shah/';
+      }
+      state.currentFilter = 'bookmarks';
+      const bTab = el.sidebarTabsContainer.querySelector('[data-filter="bookmarks"]');
+      if (bTab) {
+        el.sidebarTabsContainer.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        bTab.classList.add('active');
+      }
+      renderSidebarList();
+    });
+
+    // Copy Poem Button
+    el.copyPoemBtn.addEventListener('click', () => {
+      if (!state.currentUid) return;
+      const poetObj = state.poets[state.currentPoet];
+      const data = poetObj.data[state.currentUid];
+      if (!data) return;
+
+      const textToCopy = `【${data.title}】\nरचयिता: ${data.poet_name || 'महाकवि'}\n\n[मूल रचना]\n${(data.lines || []).join('\n')}\n\n[काव्यानुवाद]\n${data.hindi_translation || ''}\n\n[English Translation]\n${data.english_translation || ''}\n\nस्रोत: रहस्यवादी काव्य महाकोश (https://dg-code-source.github.io/mystic-poetry/)`;
+
+      navigator.clipboard.writeText(textToCopy).then(() => {
+        showToast('सम्पूर्ण रचना क्लिपबोर्ड पर कॉपी हो गई!');
+      }).catch(() => {
+        showToast('कॉपी करने में त्रुटि हुई');
+      });
+    });
+
+    // Font Scaling
+    el.fontIncBtn.addEventListener('click', () => {
+      if (state.fontScale < 1.35) {
+        state.fontScale += 0.08;
+        document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
+      }
+    });
+
+    el.fontDecBtn.addEventListener('click', () => {
+      if (state.fontScale > 0.8) {
+        state.fontScale -= 0.08;
+        document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
+      }
+    });
+
+    // View Mode Tabs (All / Verses / Gloss / Trans)
+    el.viewModeTabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        el.viewModeTabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        const mode = tab.dataset.mode;
+        
+        const secText = document.getElementById('section-original-text');
+        const secTrans = document.getElementById('section-translations');
+        const glossBlocks = document.querySelectorAll('.gloss-block');
+
+        if (mode === 'all') {
+          secText.style.display = 'block';
+          secTrans.style.display = 'block';
+          glossBlocks.forEach(b => b.style.display = 'block');
+        } else if (mode === 'verses') {
+          secText.style.display = 'block';
+          secTrans.style.display = 'none';
+          glossBlocks.forEach(b => b.style.display = 'none');
+        } else if (mode === 'gloss') {
+          secText.style.display = 'block';
+          secTrans.style.display = 'none';
+          glossBlocks.forEach(b => b.style.display = 'block');
+        } else if (mode === 'trans') {
+          secText.style.display = 'none';
+          secTrans.style.display = 'block';
+        }
+      });
+    });
+  }
+
+  // Public API for inline onclick handlers
+  window.appAPI = {
+    setGenreFilter: function (genreId) {
+      state.currentFilter = genreId;
+      const targetBtn = el.sidebarTabsContainer.querySelector(`[data-filter="${genreId}"]`);
+      if (targetBtn) {
+        el.sidebarTabsContainer.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        targetBtn.classList.add('active');
+      }
+      renderSidebarList();
+      const list = getFilteredManifest();
+      if (list.length > 0) {
+        loadWork(list[0].uid, true);
+      }
+    }
+  };
+
+  // Start
+  document.addEventListener('DOMContentLoaded', init);
+
 })();
