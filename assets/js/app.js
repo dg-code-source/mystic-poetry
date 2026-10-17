@@ -48,7 +48,7 @@
         name_en: 'Sant Ravidas Ji',
         emblem: 'र',
         total: 208,
-        color: '#ea580c',
+        color: 'var(--ravidas-text)',
         manifest: window.RAVIDAS_MANIFEST || [],
         data: window.RAVIDAS_DATA || {},
         tabs: [
@@ -271,6 +271,7 @@
   function showHubView() {
     state.currentPoet = null;
     state.currentUid = null;
+    document.body.removeAttribute('data-poet');
     
     el.hubView.style.display = 'flex';
     el.poetWorkspace.style.display = 'none';
@@ -289,6 +290,8 @@
   function showPoetWorkspace(poetId) {
     const poet = state.poets[poetId];
     if (!poet) return;
+
+    document.body.setAttribute('data-poet', poetId);
 
     el.hubView.style.display = 'none';
     el.poetWorkspace.style.display = 'flex';
@@ -611,14 +614,14 @@
     if (ravidasMatches.length > 0) {
       html += `
         <div class="search-results-group">
-          <h4 style="color: #ea580c;">संत रविदास जी (${ravidasMatches.length} परिणाम)</h4>
+          <h4 style="color: var(--ravidas-text);">संत रविदास जी (${ravidasMatches.length} परिणाम)</h4>
           ${ravidasMatches.slice(0, 10).map(m => `
             <div class="search-result-item" onclick="window.location.hash='#/sant-ravidas/${m.genre}-${m.id}'">
               <div>
                 <div class="search-result-title">${escapeHTML(m.title)}</div>
                 <div style="font-size: 0.78rem; color: var(--text-faint);">${escapeHTML(m.first_line || m.theme || '')}</div>
               </div>
-              <span class="search-result-badge" style="border: 1px solid rgba(234, 88, 12, 0.4);">${m.genre_label}</span>
+              <span class="search-result-badge" style="border: 1px solid var(--ravidas-pill-border); color: var(--ravidas-text); background: var(--ravidas-pill-bg);">${m.genre_label}</span>
             </div>
           `).join('')}
         </div>

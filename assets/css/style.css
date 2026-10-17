@@ -28,6 +28,16 @@
   --gold-gradient: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #d97706 100%);
   --gold-shadow: rgba(245, 158, 11, 0.25);
 
+  /* Sant Ravidas Palette (Sacred Saffron / Terracotta) - Dark Theme */
+  --ravidas-primary: #f97316;
+  --ravidas-glow: #fb923c;
+  --ravidas-dark: #ea580c;
+  --ravidas-gradient: linear-gradient(135deg, #ea580c 0%, #f97316 50%, #c2410c 100%);
+  --ravidas-shadow: rgba(234, 88, 12, 0.3);
+  --ravidas-text: #fb923c;
+  --ravidas-pill-bg: rgba(234, 88, 12, 0.12);
+  --ravidas-pill-border: rgba(249, 115, 22, 0.35);
+
   --accent-teal: #14b8a6;
   --accent-rose: #f43f5e;
   --accent-blue: #38bdf8;
@@ -70,6 +80,16 @@
   --gold-glow: #d97706;
   --gold-gradient: linear-gradient(135deg, #b45309 0%, #d97706 50%, #92400e 100%);
   --gold-shadow: rgba(180, 83, 9, 0.2);
+
+  /* Sant Ravidas Palette (Sacred Saffron / Terracotta) - Light Theme (WCAG AAA High Contrast) */
+  --ravidas-primary: #c2410c; /* Deep rich burnt saffron */
+  --ravidas-glow: #ea580c;
+  --ravidas-dark: #7c2d12;
+  --ravidas-gradient: linear-gradient(135deg, #c2410c 0%, #ea580c 50%, #9a3412 100%);
+  --ravidas-shadow: rgba(194, 65, 12, 0.2);
+  --ravidas-text: #9a3412; /* Deep sacred terracotta / ochre — 7.61:1 WCAG AAA on white, 7.10:1 on parchment */
+  --ravidas-pill-bg: rgba(194, 65, 12, 0.08);
+  --ravidas-pill-border: rgba(154, 52, 18, 0.3);
 
   --accent-teal: #0f766e;
   --accent-rose: #be123c;
@@ -1410,11 +1430,11 @@ body {
 }
 
 .poet-card.bulleh-theme {
-  border-top: 4px solid #f59e0b;
+  border-top: 4px solid var(--gold-primary);
 }
 
 .poet-card.ravidas-theme {
-  border-top: 4px solid #ea580c;
+  border-top: 4px solid var(--ravidas-primary);
 }
 
 .poet-card-header {
@@ -1439,12 +1459,12 @@ body {
 }
 
 .poet-card.bulleh-theme .poet-emblem-large {
-  background: linear-gradient(135deg, #f59e0b, #d97706);
+  background: var(--gold-gradient);
   color: #000;
 }
 
 .poet-card.ravidas-theme .poet-emblem-large {
-  background: linear-gradient(135deg, #ea580c, #c2410c);
+  background: var(--ravidas-gradient);
   color: #fff;
 }
 
@@ -1478,6 +1498,18 @@ body {
   border: 1px solid var(--border-subtle);
 }
 
+.meta-pill.ravidas-pill {
+  color: var(--ravidas-text);
+  background: var(--ravidas-pill-bg);
+  border-color: var(--ravidas-pill-border);
+  font-weight: 700;
+}
+
+.meta-pill.bulleh-pill {
+  color: var(--gold-primary);
+  font-weight: 700;
+}
+
 .poet-card-desc {
   font-size: 0.95rem;
   color: var(--text-muted);
@@ -1494,7 +1526,7 @@ body {
 }
 
 .poet-card.ravidas-theme .poet-quote-box {
-  border-left-color: #ea580c;
+  border-left-color: var(--ravidas-primary);
 }
 
 .poet-quote-text {
@@ -1579,23 +1611,23 @@ body {
 }
 
 .poet-card.bulleh-theme .enter-archive-btn {
-  background: linear-gradient(135deg, #f59e0b, #d97706);
+  background: var(--gold-gradient);
   color: #000;
 }
 
 .poet-card.bulleh-theme .enter-archive-btn:hover {
-  background: linear-gradient(135deg, #fbbf24, #f59e0b);
-  box-shadow: 0 8px 24px rgba(245, 158, 11, 0.35);
+  background: linear-gradient(135deg, var(--gold-glow), var(--gold-primary));
+  box-shadow: 0 8px 24px var(--gold-shadow);
 }
 
 .poet-card.ravidas-theme .enter-archive-btn {
-  background: linear-gradient(135deg, #ea580c, #c2410c);
+  background: var(--ravidas-gradient);
   color: #fff;
 }
 
 .poet-card.ravidas-theme .enter-archive-btn:hover {
-  background: linear-gradient(135deg, #f97316, #ea580c);
-  box-shadow: 0 8px 24px rgba(234, 88, 12, 0.35);
+  background: linear-gradient(135deg, var(--ravidas-glow), var(--ravidas-primary));
+  box-shadow: 0 8px 24px var(--ravidas-shadow);
 }
 
 /* Future Poets Section */
@@ -1879,4 +1911,105 @@ body {
 
 .english-gloss .gloss-text {
   color: #cbd5e1;
+}
+
+/* Light Theme Overrides & Legibility Enhancements */
+[data-theme="light"] .english-gloss .gloss-text {
+  color: #334155; /* Deep legible slate with 9.8:1 contrast on white */
+}
+
+[data-theme="light"] .gloss-block {
+  background: rgba(0, 0, 0, 0.035);
+}
+
+[data-theme="light"] .tab-btn.active,
+[data-theme="light"] .view-tab.active {
+  color: #ffffff !important;
+}
+
+[data-theme="light"] .kafi-item.active .kafi-num-pill {
+  color: #ffffff;
+}
+
+[data-theme="light"] .hub-hero-title {
+  background: linear-gradient(135deg, #1f1d1a 20%, #92400e 60%, var(--ravidas-text) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Active Poet Workspace Theme: Sant Ravidas (Sacred Terracotta / Saffron) */
+body[data-poet="sant-ravidas"] #sidebar-poet-emblem {
+  color: var(--ravidas-text) !important;
+}
+
+body[data-poet="sant-ravidas"] .tab-btn.active {
+  background: var(--ravidas-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--ravidas-shadow);
+}
+
+body[data-poet="sant-ravidas"] .welcome-ornament {
+  color: var(--ravidas-text);
+}
+
+body[data-poet="sant-ravidas"] .genre-highlight-card:hover {
+  border-color: var(--ravidas-primary);
+}
+
+body[data-poet="sant-ravidas"] .genre-highlight-card:hover::before {
+  background: var(--ravidas-gradient);
+}
+
+body[data-poet="sant-ravidas"] .welcome-cta {
+  background: var(--ravidas-gradient);
+  color: #ffffff;
+  box-shadow: 0 4px 18px var(--ravidas-shadow);
+}
+
+body[data-poet="sant-ravidas"] .welcome-cta:hover {
+  box-shadow: 0 8px 28px var(--ravidas-shadow);
+}
+
+body[data-poet="sant-ravidas"] .poem-title-en {
+  color: var(--ravidas-text);
+}
+
+body[data-poet="sant-ravidas"] .hindi-gloss {
+  border-left-color: var(--ravidas-primary);
+}
+
+body[data-poet="sant-ravidas"] .kafi-item.active {
+  border-color: var(--ravidas-pill-border);
+}
+
+body[data-poet="sant-ravidas"] .kafi-item.active::before {
+  background: var(--ravidas-gradient);
+}
+
+body[data-poet="sant-ravidas"] .kafi-item.active .kafi-item-title {
+  color: var(--ravidas-text);
+}
+
+body[data-poet="sant-ravidas"] .kafi-item.active .kafi-num-pill {
+  background: var(--ravidas-gradient);
+  color: #ffffff;
+  border-color: var(--ravidas-primary);
+}
+
+body[data-poet="sant-ravidas"] .kafi-genre-pill {
+  color: var(--ravidas-text);
+  background: var(--ravidas-pill-bg);
+  border-color: var(--ravidas-pill-border);
+}
+
+body[data-poet="sant-ravidas"] .genre-badge {
+  color: var(--ravidas-text);
+  background: var(--ravidas-pill-bg);
+  border-color: var(--ravidas-pill-border);
+}
+
+body[data-poet="sant-ravidas"] .view-tab.active {
+  background: var(--ravidas-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--ravidas-shadow);
 }
