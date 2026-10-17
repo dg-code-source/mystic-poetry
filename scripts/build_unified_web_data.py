@@ -45,6 +45,8 @@ unified_store = {}
 
 # 1. Add 160 Kafian
 for k_id_str, k in kafian_data.items():
+    if not k_id_str.isdigit():
+        continue
     k_id = int(k_id_str)
     item_key = f"kafi_{k_id}"
     
@@ -238,7 +240,7 @@ for g in gandhan_data:
 # 6. Add Siharfian (76 letter stanzas)
 s_counter = 1
 for cycle in siharfian_data:
-    c_name = cycle["cycle_name"]
+    c_name = cycle.get("cycle_title") or cycle.get("cycle_name", "सीहरफ़ी")
     refrain = cycle.get("refrain", "")
     for s in cycle["stanzas"]:
         letter = s["letter"]
