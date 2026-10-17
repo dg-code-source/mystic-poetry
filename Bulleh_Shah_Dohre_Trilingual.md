@@ -82,20 +82,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **आपने तन दी ख़बर ना काई, साजन दी ख़बर ल्यावे कौण।**  
-**हिन्दी शब्दार्थ:** आपने (अपने) तन (शरीर/मन पर) दी (की) ख़बर (सुध/समाचार) ना (नहीं) काई (कोई) , साजन (प्रियतम) दी (की) ख़बर (सुध/समाचार) ल्यावे (लाए) कौण (कौन हूँ) ।  
-**English Gloss:** आपने (one's own) तन (body) दी (of) ख़बर (news/trace) ना (not/nor) काई (any) , साजन (Beloved) दी (of) ख़बर (news/trace) ल्यावे (brings) कौण (am) ।
+**हिन्दी शब्दार्थ:** आपने (अपने) तन (शरीर के) दी (की) ख़बर (सुध) ना (नहीं) काई (कोई) , साजन (प्रियतम) दी (की) ख़बर (सुध) ल्यावे (लाए) कौण (कौन हूँ) ।  
+**English Gloss:** aapane (one's own) tan (body) di (the) khabar (heed) naa (not/nor) kaaee (any) , saajan (Beloved) di (the) khabar (heed) lyaave (brings) kaun (am) .
 
 **ना हूं ख़ाकी ना हूं आतश , ना हूं पानी पउन ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) हूं (हूं) ख़ाकी (मिट्टी का बना) ना (नहीं) हूं (हूं) आतश (अग्नि) , ना (नहीं) हूं (हूं) पानी (जल) पउन (पवन/वायु) ।  
-**English Gloss:** ना (not/nor) हूं (I) ख़ाकी (earthly/mortal) ना (not/nor) हूं (I) आतश (fire) , ना (not/nor) हूं (I) पानी (water) पउन (air/wind) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) हूं (हूँ) ख़ाकी (मिट्टी का बना) ना (नहीं) हूं (हूँ) आतश (अग्नि) , ना (नहीं) हूं (हूँ) पानी (जल) पउन (पवन/वायु) ।  
+**English Gloss:** naa (not/nor) hoon (I am) khaakee (earthly/mortal) naa (not/nor) hoon (I am) aatash (fire) , naa (not/nor) hoon (I am) paanee (water) paun (wind/vital breath) .
 
 **कुप्पे विच रोड़ खड़कदे , मूरख आखन बोले कौन ।**  
-**हिन्दी शब्दार्थ:** कुप्पे (मशक/चमड़े का बर्तन) विच (में/भीतर) रोड़ (कंकड़) खड़कदे (खड़कते/ध्वनि करते हैं) , मूरख (अज्ञानी/मूर्ख) आखन (कहते हैं) बोले (बोले) कौन (कौन) ।  
-**English Gloss:** कुप्पे (hollow leather flask) विच (within/in) रोड़ (pebbles) खड़कदे (rattle/clink) , मूरख (fool/ignorant) आखन (they say) बोले (uttered) कौन (who) ।
+**हिन्दी शब्दार्थ:** कुप्पे (मशक/चमड़े का बर्तन) विच (में/भीतर) रोड़ (कंकड़) खड़कदे (खड़कते/ध्वनि करते हैं) , मूरख (अज्ञानी/मूर्ख) आखन (कहते हैं) बोले (बोलता है) कौन (कौन व्यक्ति/किसे) ।  
+**English Gloss:** kuppe (hollow leather flask) vich (within/in) rod (pebbles) khadakade (rattle/clink) , moorakh (fool/ignorant) aakhan (they say) bole (speaks/utters) kaun (who) .
 
 **बुल्ल्हा साईं घट घट रव्या,ज्युं आटे विच लौन ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हा (बुल्ले शाह) साईं (स्वामी/ईश्वर) घट (हृदय/अंतःकरण) घट (हृदय/अंतःकरण) रव्या (समाया हुआ) , ज्युं (जैसे/ज्यों) आटे (आटे) विच (में/भीतर) लौन (नमक) ।  
-**English Gloss:** बुल्ल्हा (Bulleh Shah) साईं (Lord) घट (heart/inner being) घट (heart/inner being) रव्या (permeating) , ज्युं (just as) आटे (आटे) विच (within/in) लौन (salt) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हा (हे बुल्ले शाह!) साईं (स्वामी/ईश्वर) घट (हृदय/अंतःकरण) घट (हृदय/अंतःकरण) रव्या (समाया हुआ) , ज्युं (जैसे/ज्यों) आटे (आटे में) विच (में/भीतर) लौन (नमक) ।  
+**English Gloss:** bullhaa (O Bulleh!) saaeen (Lord) ghat (heart/inner being) ghat (heart/inner being) ravyaa (permeating) , jyun (just as) aate (in flour/meal) vich (within/in) laun (salt) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -136,20 +136,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **अल्ल्हा तों मैं ते करज़ बणायआ, हत्थों तूं मेरा करज़ाई ।**  
-**हिन्दी शब्दार्थ:** अल्ल्हा (अल्ल्हा) तों (से) मैं (मैंने) ते (और/तो) करज़ (ऋण/कर्ज) बणायआ (बनाया) , हत्थों (हाथों से) तूं (तूने) मेरा (मेरा) करज़ाई (ऋणी/कर्जदार) ।  
-**English Gloss:** अल्ल्हा (अल्ल्हा) तों (by) मैं (I) ते (and/then) करज़ (spiritual debt) बणायआ (fashioned) , हत्थों (from hands) तूं (you) मेरा (my) करज़ाई (debtor) ।
+**हिन्दी शब्दार्थ:** अल्ल्हा (अल्लाह/परमेश्वर) तों (पर) मैं (मैंने) ते (ता (तौबा व पश्चाताप)) करज़ (ऋण/कर्ज) बणायआ (बनाया) , हत्थों (हाथों से) तूं (तू) मेरा (मेरा/अधीन) करज़ाई (ऋणी/कर्जदार) ।  
+**English Gloss:** allha (God) ton (upon) main (I) te (Te (Repentance)) karaz (spiritual debt) banaayaaa (fashioned) , hatthon (from hands) toon (thou) meraa (my/mine) karazaaee (debtor) .
 
 **ओथे तां मेरी प्रवरिश कीती, जित्थे किसे नूं ख़बर ना काई ।**  
-**हिन्दी शब्दार्थ:** ओथे (वहाँ) तां (तो) मेरी (मेरी) प्रवरिश (पालन-पोषण) कीती (बना दिया) , जित्थे (जहाँ) किसे (किसी) नूं (को) ख़बर (सुध/समाचार) ना (नहीं) काई (कोई) ।  
-**English Gloss:** ओथे (there) तां (then) मेरी (of mine) प्रवरिश (sustenance/nurture) कीती (made) , जित्थे (wherever) किसे (anyone) नूं (unto) ख़बर (news/trace) ना (not/nor) काई (any) ।
+**हिन्दी शब्दार्थ:** ओथे (वहाँ) तां (तो) मेरी (मेरी जीवन-) प्रवरिश (पालन-पोषण) कीती (बना दिया) , जित्थे (जहाँ कहीं भी) किसे (किसी) नूं (को) ख़बर (सुध) ना (नहीं) काई (कोई) ।  
+**English Gloss:** othe (there) taan (then) meri (my life's) pravarish (sustenance/nurture) keetee (made) , jitthe (wherever) kise (anyone) noon (unto) khabar (heed) naa (not/nor) kaaee (any) .
 
 **ओथों तांहीं आए एथे , जां पहलों रोज़ी आई ।**  
-**हिन्दी शब्दार्थ:** ओथों (वहाँ से) तांहीं (तभी) आए (आए) एथे (यहाँ) , जां (जब) पहलों (पहले) रोज़ी (आजीविका/प्रारब्ध) आई (आई है) ।  
-**English Gloss:** ओथों (from thence) तांहीं (that is why) आए (came) एथे (here) , जां (when) पहलों (first) रोज़ी (daily bread/destiny) आई (has come) ।
+**हिन्दी शब्दार्थ:** ओथों (वहाँ से) तांहीं (तभी) आए (आ गए) एथे (यहाँ) , जां (जब) पहलों (पहले) रोज़ी (आजीविका/प्रारब्ध) आई (आई है) ।  
+**English Gloss:** othon (from thence) taanheen (that is why) aaye (came) ethe (here) , jaan (when) pahalon (first) rozee (daily bread/destiny) aaee (has come) .
 
 **बुल्ल्हे शाह है आशक उसदा, जिस तहकीक हकीकत पाई ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) है (क्या) आशक (सच्चा प्रेमी) उसदा (उसका) , जिस (जिस) तहकीक (प्रत्यक्ष साक्षात्कार) हकीकत (परम वास्तविकता) पाई (पाई/प्राप्त की) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) है (is) आशक (true lover) उसदा (his/its) , जिस (which) तहकीक (direct realization) हकीकत (ultimate reality) पाई (attained) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) है (है कि) आशक (सच्चा प्रेमी) उसदा (उसका) , जिस (जिसके विरह में) तहकीक (प्रत्यक्ष साक्षात्कार) हकीकत (परम वास्तविकता) पाई (पाई/प्राप्त की) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) hai (is) aashak (true lover) usadaa (his/its) , jis (for whom) tahakeek (direct realization) hakeekat (ultimate reality) paaee (attained) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -190,20 +190,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **अरबा-अनासर महल बणायो, विच वड़ बैठा आपे ।**  
-**हिन्दी शब्दार्थ:** अरबा (अरबा) - अनासर (अनासर) महल (महल) बणायो (बणायो) , विच (में/भीतर) वड़ (प्रवेश करो) बैठा (बैठा) आपे (स्वयं ही) ।  
-**English Gloss:** अरबा (अरबा) - अनासर (अनासर) महल (महल) बणायो (बणायो) , विच (within/in) वड़ (enter) बैठा (बैठा) आपे (Thyself) ।
+**हिन्दी शब्दार्थ:** अरबा (चार तत्व/चार मूल (अरबा)) - अनासर (पंचतत्व (अनासिर)) महल (भव्य प्रासाद/महल) बणायो (बनाया) , विच (में/भीतर) वड़ (प्रवेश करो) बैठा (बैठा हुआ) आपे (स्वयं ही) ।  
+**English Gloss:** arbaa (four primary elements) - anaasar (cosmic elements (anasir)) mahal (mansion/palace) banaayo (fashioned/created) , vich (within/in) vad (enter) baithaa (seated) aape (Thyself) .
 
 **आपे कुड़ियां आपे नींगर, आपे बणना एं मापे ।**  
-**हिन्दी शब्दार्थ:** आपे (स्वयं ही) कुड़ियां (कुड़ियां) आपे (स्वयं ही) नींगर (नींगर) , आपे (स्वयं ही) बणना (बनना) एं (है) मापे (माता-पिता/कुल-कुटुंब) ।  
-**English Gloss:** आपे (Thyself) कुड़ियां (कुड़ियां) आपे (Thyself) नींगर (नींगर) , आपे (Thyself) बणना (to become) एं (you) मापे (parents/kin) ।
+**हिन्दी शब्दार्थ:** आपे (स्वयं ही) कुड़ियां (युवतियां) आपे (स्वयं ही) नींगर (युवा/किशोर) , आपे (स्वयं ही) बणना (बनना) एं (है) मापे (माता-पिता) ।  
+**English Gloss:** aape (Thyself) kudiyaan (maidens) aape (Thyself) neengar (youthful boy/lad) , aape (Thyself) bananaa (to become) en (you) maape (parents) .
 
 **आपे मरें ते आपे जीवें, आपे करें स्यापे ।**  
-**हिन्दी शब्दार्थ:** आपे (स्वयं ही) मरें (मरता है) ते (और/तो) आपे (स्वयं ही) जीवें (जीता है) , आपे (स्वयं ही) करें (करता है) स्यापे (स्यापे) ।  
-**English Gloss:** आपे (Thyself) मरें (dies) ते (and/then) आपे (Thyself) जीवें (lives) , आपे (Thyself) करें (thou dost) स्यापे (स्यापे) ।
+**हिन्दी शब्दार्थ:** आपे (स्वयं ही) मरें (मरता है) ते (ता (तौबा व पश्चाताप)) आपे (स्वयं ही) जीवें (जैसे/ज्यों) , आपे (स्वयं ही) करें (करता है) स्यापे (मातम/विलाप) ।  
+**English Gloss:** aape (Thyself) maren (dies) te (Te (Repentance)) aape (Thyself) jeeven (as/just like) , aape (Thyself) karen (thou dost) syaape (mourning/lamentation) .
 
 **बुल्ल्हआ जो कुझ कुदरत रब्ब दी, आपे आप सिंञापे ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जो (जो) कुझ (कुछ) कुदरत (कुदरत) रब्ब (परमात्मा) दी (की) , आपे (स्वयं ही) आप (स्वयं को) सिंञापे (सिंञापे) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) जो (who) कुझ (something) कुदरत (कुदरत) रब्ब (the Lord) दी (of) , आपे (Thyself) आप (yourself) सिंञापे (सिंञापे) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जो (जिससे) कुझ (कुछ) कुदरत (सृष्टि के सौन्दर्य के) रब्ब (परमात्मा ने) दी (की) , आपे (स्वयं ही) आप (अहंकार/अस्तित्व) सिंञापे (पहचाना जाए) ।  
+**English Gloss:** bullhaaa (O Bulleh!) jo (that) kujh (something) kudrat (with Nature's splendor) rabb (God) di (the) , aape (Thyself) aap (selfhood/ego) sinnyaape (is recognized) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -242,12 +242,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **भट्ठ नमाज़ां ते चिकड़ रोज़े, कलमे ते फिर गई स्याही ।**  
-**हिन्दी शब्दार्थ:** भट्ठ (भट्ठी में) नमाज़ां (नमाज़ें) ते (और/तो) चिकड़ (कीचड़ में) रोज़े (उपवास/रोज़ा) , कलमे (पवित्र कलमे) ते (और/तो) फिर (फिर भी) गई (गई) स्याही (स्याही) ।  
-**English Gloss:** भट्ठ (furnace/kiln) नमाज़ां (prayers) ते (and/then) चिकड़ (mire/mud) रोज़े (fasts) , कलमे (holy creed) ते (and/then) फिर (then) गई (did) स्याही (ink) ।
+**हिन्दी शब्दार्थ:** भट्ठ (भट्ठी में) नमाज़ां (नमाज़ें) ते (ता (तौबा व पश्चाताप)) चिकड़ (कीचड़ में) रोज़े (उपवास/रोज़ा) , कलमे (पवित्र कलमे) ते (ता (तौबा व पश्चाताप)) फिर (फिर भी) गई (गई अपनी) स्याही (कालिमा/स्याही) ।  
+**English Gloss:** bhatth (furnace/kiln) namaazaan (prayers) te (Te (Repentance)) chikad (mire/mud) roze (fasts) , kalame (holy creed) te (Te (Repentance)) phir (then) gayi (became) syaahee (darkness/ink of sin) .
 
 **बुल्ल्हे शाह शहु अन्दरों मिल्या, भुल्ली फिरे लुकाई ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) शहु (स्वामी/प्रियतम (परमात्मा)) अन्दरों (अन्दरों) मिल्या (मिल्या) , भुल्ली (भुल्ली) फिरे (फिरे) लुकाई (संसार के लोग) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) शहु (Beloved Lord) अन्दरों (अन्दरों) मिल्या (मिल्या) , भुल्ली (भुल्ली) फिरे (फिरे) लुकाई (mortals/people) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) शहु (स्वामी/प्रियतम (परमात्मा)) अन्दरों (भीतर से) मिल्या (मिला) , भुल्ली (भूल गई) फिरे (भटके) लुकाई (संसार के लोग) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) shahu (Beloved Lord) andaron (from within) milyaa (united with) , bhullee (forgot/erred) phire (wanders) lukaaee (mortals/people) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -284,12 +284,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हा कसर नाम कसूर है, ओथे मूंहों ना सकन बोल ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हा (बुल्ले शाह) कसर (कसर) नाम (नाम) कसूर (कसूर नगर/त्रुटि) है (क्या) , ओथे (वहाँ) मूंहों (मूंहों) ना (नहीं) सकन (सकन) बोल (बोल) ।  
-**English Gloss:** बुल्ल्हा (Bulleh Shah) कसर (कसर) नाम (name) कसूर (town of Kasur / fault) है (is) , ओथे (there) मूंहों (मूंहों) ना (not/nor) सकन (सकन) बोल (बोल) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हा (हे बुल्ले शाह!) कसर (कमी/त्रुटि) नाम (प्रभु-नाम) कसूर (कसूर नगर/त्रुटि) है (है कि) , ओथे (वहाँ) मूंहों (मुख से) ना (नहीं) सकन (सकें) बोल (वाणी/वचन) ।  
+**English Gloss:** bullhaa (O Bulleh!) kasar (shortcoming/defect) naam (Divine Name) kasoor (town of Kasur / fault) hai (is) , othe (there) moonhon (from the lips) naa (not/nor) sakan (they can/may) bol (word/speech) .
 
 **ओथे सच्चे गरदन मारीए, ओथे झूठे करन कलोल ।**  
-**हिन्दी शब्दार्थ:** ओथे (वहाँ) सच्चे (सत्यवादी के) गरदन (गरदन) मारीए (मारीए) , ओथे (वहाँ) झूठे (झूठे) करन (जीवन) कलोल (आमोद-प्रमोद/मौज) ।  
-**English Gloss:** ओथे (there) सच्चे (truthful one) गरदन (गरदन) मारीए (मारीए) , ओथे (there) झूठे (झूठे) करन (to make) कलोल (merriment/play) ।
+**हिन्दी शब्दार्थ:** ओथे (वहाँ) सच्चे (सत्यवादी के) गरदन (गर्दन/ग्रीवा) मारीए (मारना चाहिए) , ओथे (वहाँ) झूठे (मिथ्यावादी) करन (करती हैं) कलोल (आमोद-प्रमोद/मौज) ।  
+**English Gloss:** othe (there) sachche (truthful one) gardan (neck) maareee (one should slay) , othe (there) jhoothe (liars) karan (make) kalol (merriment/play) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -324,12 +324,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हे चल बावरचीखाने यार दे, जित्थे कोहा कोही हो ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) चल (तो अब चल पड़) बावरचीखाने (बावरचीखाने) यार (सखा/प्रियतम) दे (के) , जित्थे (जहाँ) कोहा (काटना/बलि) कोही (कोही) हो (हो) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) चल (then depart) बावरचीखाने (बावरचीखाने) यार (Friend/Beloved) दे (of) , जित्थे (wherever) कोहा (slaughter) कोही (कोही) हो (do) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) चल (चल पड़/प्रस्थान कर) बावरचीखाने (रसोईघर में) यार (सखा/प्रियतम) दे (के/पास) , जित्थे (जहाँ कहीं भी) कोहा (काटना/बलि) कोही (कोस भर/वध किया) हो (होकर) ।  
+**English Gloss:** bullhe (Bulleh Shah) chal (depart/walk forth) baavarchikhaane (in the kitchen) yaar (Friend/Beloved) de (of/unto) , jitthe (wherever) kohaa (slaughter) kohee (slaughtered/measured kos) ho (becoming) .
 
 **ओथे मोटे कुस्सन बक्करे, तूं लिस्सा मिले ना ढो ।**  
-**हिन्दी शब्दार्थ:** ओथे (वहाँ) मोटे (मोटे) कुस्सन (कटते हैं) बक्करे (बकरे (अहंकार)) , तूं (तूने) लिस्सा (दुर्बल/कमज़ोर) मिले (मुझे प्राप्त हो) ना (नहीं) ढो (ढो) ।  
-**English Gloss:** ओथे (there) मोटे (मोटे) कुस्सन (are slaughtered) बक्करे (goats of ego) , तूं (you) लिस्सा (feeble/weak) मिले (to obtain) ना (not/nor) ढो (ढो) ।
+**हिन्दी शब्दार्थ:** ओथे (वहाँ) मोटे (स्थूल/भारी) कुस्सन (कटते हैं) बक्करे (बकरे (अहंकार)) , तूं (तू) लिस्सा (दुर्बल/कमज़ोर) मिले (मुझे प्राप्त हो) ना (नहीं) ढो (ढोना/निकट लाना) ।  
+**English Gloss:** othe (there) mote (thick/dense) kussan (are slaughtered) bakkare (goats of ego) , toon (thou) lissaa (feeble/weak) mile (to obtain) naa (not/nor) dho (to bear/bring near) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -366,20 +366,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हे नूं लोक मत्तीं देंदे, बुल्ल्हआ तूं जा बहु मसीती ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) नूं (को) लोक (दुनिया के लोग) मत्तीं (बुद्धि (अधिकरण कारक/में)) देंदे (देंदे) , बुल्ल्हआ (हे बुल्ले शाह!) तूं (तूने) जा (जब) बहु (अनेक) मसीती (मस्जिद में) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) नूं (unto) लोक (worldly folk) मत्तीं (intellect (locative/in)) देंदे (देंदे) , बुल्ल्हआ (O Bulleh!) तूं (you) जा (when) बहु (many) मसीती (in the mosque) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) नूं (को) लोक (संसारी लोग) मत्तीं (बुद्धि/सद्-मम्मतियों) देंदे (वे देते) , बुल्ल्हआ (हे बुल्ले शाह!) तूं (तू) जा (जाकर) बहु (अनेक) मसीती (मस्जिद में) ।  
+**English Gloss:** bullhe (Bulleh Shah) noon (unto) lok (worldly people) matteen (wise counsels/admonitions) dende (He gives) , bullhaaa (O Bulleh!) toon (thou) ja (going) bahu (many) maseetee (in the mosque) .
 
 **विच मसीतां की कुझ हुन्दा, जो दिलों नमाज़ ना कीती ।**  
-**हिन्दी शब्दार्थ:** विच (में/भीतर) मसीतां (मस्जिदों में) की (क्या) कुझ (कुछ) हुन्दा (हुन्दा) , जो (जो) दिलों (दिलों) नमाज़ (नमाज़) ना (नहीं) कीती (बना दिया) ।  
-**English Gloss:** विच (within/in) मसीतां (in mosques) की (what) कुझ (something) हुन्दा (हुन्दा) , जो (who) दिलों (दिलों) नमाज़ (two-rak'at prayer) ना (not/nor) कीती (made) ।
+**हिन्दी शब्दार्थ:** विच (में/भीतर) मसीतां (मस्जिदों में) की (क्या) कुझ (कुछ) हुन्दा (होता है) , जो (जिससे) दिलों (हृदय से) नमाज़ (प्रार्थना) ना (नहीं) कीती (बना दिया) ।  
+**English Gloss:** vich (within/in) maseetaan (in mosques) kee (what) kujh (something) hundaa (happens/occurs) , jo (that) dilon (from the heart) namaaz (prayer) naa (not/nor) keetee (made) .
 
 **बाहरों पाक कीते की हुन्दा, जे अन्दरों ना गई पलीती ।**  
-**हिन्दी शब्दार्थ:** बाहरों (बाहरों) पाक (परम पवित्र) कीते (कीते) की (क्या) हुन्दा (हुन्दा) , जे (यदि) अन्दरों (अन्दरों) ना (नहीं) गई (गई) पलीती (अपवित्रता/मैल) ।  
-**English Gloss:** बाहरों (बाहरों) पाक (pure/sacred) कीते (कीते) की (what) हुन्दा (हुन्दा) , जे (if) अन्दरों (अन्दरों) ना (not/nor) गई (did) पलीती (filth/impurity) ।
+**हिन्दी शब्दार्थ:** बाहरों (बाहर से) पाक (पवित्र/निर्मल) कीते (किए हुए) की (क्या) हुन्दा (होता है) , जे (यदि) अन्दरों (भीतर से) ना (नहीं) गई (गई अपनी) पलीती (अपवित्रता/मैल) ।  
+**English Gloss:** baaharon (from outside) paak (pure/holy) keete (done/performed) kee (what) hundaa (happens/occurs) , je (if) andaron (from within) naa (not/nor) gayi (became) paleetee (filth/impurity) .
 
 **बिन मुरशद कामल बुल्ल्हआ,तेरी ऐवें गई इबादत कीती।**  
-**हिन्दी शब्दार्थ:** बिन (बिना) मुरशद (सद्गुरु/मार्गदर्शक) कामल (पूर्ण/सिद्ध) बुल्ल्हआ (हे बुल्ले शाह!) , तेरी (तुम्हारी) ऐवें (व्यर्थ/यूँ ही) गई (गई) इबादत (प्रार्थना/भक्ति) कीती (बना दिया) ।  
-**English Gloss:** बिन (without) मुरशद (spiritual guide/Master) कामल (perfect/realized) बुल्ल्हआ (O Bulleh!) , तेरी (of yours) ऐवें (in vain) गई (did) इबादत (worship/devotion) कीती (made) ।
+**हिन्दी शब्दार्थ:** बिन (बिना) मुरशद (सद्गुरु/मार्गदर्शक) कामल (पूर्ण/सिद्ध) बुल्ल्हआ (हे बुल्ले शाह!) , तेरी (सदा तेरी ही) ऐवें (व्यर्थ/यूँ ही) गई (गई अपनी) इबादत (प्रार्थना/भक्ति) कीती (बना दिया) ।  
+**English Gloss:** bin (without) murashad (spiritual guide/Master) kaamal (perfect/realized) bullhaaa (O Bulleh!) , teri (yours alone) aiven (in vain) gayi (became) ibaadat (worship/devotion) keetee (made) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -418,12 +418,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हे कोलों चुल्ल्हा चंगा, जिस पर ताअम पकाई दा ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) कोलों (से/पास से) चुल्ल्हा (चूल्हा) चंगा (चंगा) , जिस (जिस) पर (किन्तु/परन्तु) ताअम (भोजन/रोटी) पकाई (पकाई) दा (का) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) कोलों (from) चुल्ल्हा (cooking hearth) चंगा (चंगा) , जिस (which) पर (but/upon) ताअम (meal/food) पकाई (पकाई) दा (of) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) कोलों (से/पास से) चुल्ल्हा (चूल्हा) चंगा (उत्तम/भला) , जिस (जिसके विरह में) पर (किन्तु/परन्तु) ताअम (भोजन/रोटी) पकाई (पकाई/परिपक्व की) दा (द्वारा) ।  
+**English Gloss:** bullhe (Bulleh Shah) kolon (from) chullhaa (cooking hearth) changaa (good/wholesome) , jis (for whom) par (but/upon) taaam (meal/food) pakaaee (baked/cooked) da (of) .
 
 **रल फ़कीरां मजलिस कीती, भोरा भोरा खाई दा ।**  
-**हिन्दी शब्दार्थ:** रल (मिलकर) फ़कीरां (फ़कीरां) मजलिस (सभा/संगत) कीती (बना दिया) , भोरा (तनिक/टुकड़ा) भोरा (तनिक/टुकड़ा) खाई (खाई) दा (का) ।  
-**English Gloss:** रल (together) फ़कीरां (फ़कीरां) मजलिस (spiritual assembly) कीती (made) , भोरा (morsel/crumb) भोरा (morsel/crumb) खाई (खाई) दा (of) ।
+**हिन्दी शब्दार्थ:** रल (मिलकर) फ़कीरां (फकीरों/दरवेशों को) मजलिस (सभा/संगत) कीती (बना दिया) , भोरा (तनिक/टुकड़ा) भोरा (तनिक/टुकड़ा) खाई (खाई/खड्डा) दा (द्वारा) ।  
+**English Gloss:** ral (together) fakeeraan (unto ascetic fakirs) majalis (spiritual assembly) keetee (made) , bhoraa (morsel/crumb) bhoraa (morsel/crumb) khaaee (trench/consumed) da (of) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -458,12 +458,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हे शाह चल ओथे चलीए, जित्थे सारे होवन अन्न्हे ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) चल (तो अब चल पड़) ओथे (वहाँ) चलीए (चलीए) , जित्थे (जहाँ) सारे (सारे) होवन (होवन) अन्न्हे (अंधे) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) चल (then depart) ओथे (there) चलीए (चलीए) , जित्थे (wherever) सारे (सारे) होवन (होवन) अन्न्हे (blind) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) चल (चल पड़/प्रस्थान कर) ओथे (वहाँ) चलीए (चलना चाहिए) , जित्थे (जहाँ कहीं भी) सारे (समस्त) होवन (होना) अन्न्हे (अंधे) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) chal (depart/walk forth) othe (there) chaleee (one should depart) , jitthe (wherever) saare (all through) hovan (to be/occur) annhe (blind) .
 
 **ना कोई साडी कदर (ज़ात) पछाणे, ना कोई सानूं मन्ने ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) कोई (कोई) साडी (हमारी) कदर (मूल्य/प्रतिष्ठा) ( ज़ात (जाति/कुल) ) पछाणे (पहचानेगा) , ना (नहीं) कोई (कोई) सानूं (हमें) मन्ने (मन्ने) ।  
-**English Gloss:** ना (not/nor) कोई (anyone) साडी (our) कदर (worth/honor) ( ज़ात (caste/lineage) ) पछाणे (can recognize) , ना (not/nor) कोई (anyone) सानूं (to us) मन्ने (मन्ने) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) कोई (कोई भी) साडी (हमारी) कदर (मूल्य/प्रतिष्ठा) ( ज़ात (जाति/कुल) ) पछाणे (पहचानेगा) , ना (नहीं) कोई (कोई भी) सानूं (हमें) मन्ने (माने/स्वीकार करे) ।  
+**English Gloss:** naa (not/nor) koyi (anyone) saadee (our) kadar (worth/honor) ( zaat (caste/lineage) ) pachhaane (can recognize) , naa (not/nor) koyi (anyone) saanoon (to us) manne (obeys/believes) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -498,12 +498,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हे शाह उह कौन है, उतम तेरा यार ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) उह (वह) कौन (कौन) है (क्या) , उतम (उतम) तेरा (तेरा) यार (सखा/प्रियतम) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) उह (he) कौन (who) है (is) , उतम (उतम) तेरा (your) यार (Friend/Beloved) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) उह (उसे) कौन (कौन व्यक्ति/किसे) है (है कि) , उतम (सर्वश्रेष्ठ/उत्तम) तेरा (तेरा/तुम्हारा) यार (सखा/प्रियतम) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) uh (him) kaun (who) hai (is) , utam (sublime/supreme) teraa (thy/thine) yaar (Friend/Beloved) .
 
 **ओसे के हाथ कुरान है, ओसे गल ज़ुन्नार ।**  
-**हिन्दी शब्दार्थ:** ओसे (उसी) के (के) हाथ (न हाथ) कुरान (पवित्र क़ुरआन) है (क्या) , ओसे (उसी) गल (गले) ज़ुन्नार (जनेऊ (यज्ञोपवीत)) ।  
-**English Gloss:** ओसे (that very One) के (having) हाथ (nor hand) कुरान (Holy Quran) है (is) , ओसे (that very One) गल (neck/embrace) ज़ुन्नार (sacred thread) ।
+**हिन्दी शब्दार्थ:** ओसे (उसी प्यारे) के (करके) हाथ (कर) कुरान (पवित्र क़ुरआन) है (है कि) , ओसे (उसी प्यारे) गल (गले में) ज़ुन्नार (जनेऊ (यज्ञोपवीत)) ।  
+**English Gloss:** ose (with Him alone) ke (and) haath (hand) kuraan (Holy Quran) hai (is) , ose (with Him alone) gal (around neck) zunnaar (sacred thread) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -538,12 +538,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ अच्छे दिन ते पिच्छे गए, जब हर से किया ना हेत ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) अच्छे (अच्छे) दिन (दिन) ते (और/तो) पिच्छे (पीछे) गए (पहुँच गए) , जब (जब) हर (भगवान/हरि) से (सा (साबित-क़दम निष्ठा)) किया (किया) ना (नहीं) हेत (हेत) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) अच्छे (अच्छे) दिन (दिन) ते (and/then) पिच्छे (behind) गए (went) , जब (when) हर (Lord Hari/God) से (Se (Steadfastness)) किया (किया) ना (not/nor) हेत (हेत) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) अच्छे (शुभ/अच्छे) दिन (दिवस) ते (ता (तौबा व पश्चाताप)) पिच्छे (पीछे) गए (बीतते) , जब (जब/जिस काल) हर (भगवान/हरि) से (सा (साबित-क़दम निष्ठा)) किया (किया/संपन्न किया) ना (नहीं) हेत (स्नेह/प्रीति) ।  
+**English Gloss:** bullhaaa (O Bulleh!) achchhe (fair/good) din (day) te (Te (Repentance)) pichchhe (behind) gaye (went) , jab (when) har (Lord Hari/God) se (Se (Steadfastness)) kiyaa (performed/done) naa (not/nor) het (love/affection) .
 
 **अब पछतावा क्या करे, जब चिड़ियां चुग गई खेत ।**  
-**हिन्दी शब्दार्थ:** अब (अब) पछतावा (पछतावा) क्या (कैसी अद्भुत) करे (करे) , जब (जब) चिड़ियां (चिड़ियां) चुग (चुग) गई (गई) खेत (खेती) ।  
-**English Gloss:** अब (now) पछतावा (पछतावा) क्या (what a) करे (does/holds) , जब (when) चिड़ियां (चिड़ियां) चुग (चुग) गई (did) खेत (field/harvest) ।
+**हिन्दी शब्दार्थ:** अब (अब/इस समय) पछतावा (पश्चाताप) क्या (क्यों) करे (करता है) , जब (जब/जिस काल) चिड़ियां (चिड़ियों ने) चुग (चुगकर) गई (गई अपनी) खेत (खलिहान) ।  
+**English Gloss:** ab (now/at this hour) pachhataavaa (regret) kya (why) kare (makes) , jab (when) chidiyaan (sparrows/birds) chug (pecking/gleaning) gayi (became) khet (fields) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -578,12 +578,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ आशक होइउं रब्ब दा, मुलामत होई लाख ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) आशक (सच्चा प्रेमी) होइउं (हो गई है तेरी) रब्ब (परमात्मा) दा (का) , मुलामत (लोक-निंदा) होई (हुई) लाख (लाख) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) आशक (true lover) होइउं (thou hast become) रब्ब (the Lord) दा (of) , मुलामत (reproach/blame) होई (became) लाख (लाख) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) आशक (सच्चा प्रेमी) होइउं (हो गई है तेरी) रब्ब (परमात्मा ने) दा (द्वारा) , मुलामत (लोक-निंदा) होई (तय हुआ) लाख (लाखों प्रकार के) ।  
+**English Gloss:** bullhaaa (O Bulleh!) aashak (true lover) hoiun (thou hast become) rabb (God) da (of) , mulaamat (reproach/blame) hoyi (transpired) laakh (hundreds of thousands) .
 
 **लोक काफ़र काफ़र आखदे, तूं आहो आहो आख ।**  
-**हिन्दी शब्दार्थ:** लोक (दुनिया के लोग) काफ़र (नास्तिक/काफ़िर) काफ़र (नास्तिक/काफ़िर) आखदे (कहो (के)) , तूं (तूने) आहो (हाँ/अवश्य) आहो (हाँ/अवश्य) आख (कहो) ।  
-**English Gloss:** लोक (worldly folk) काफ़र (infidel/heretic) काफ़र (infidel/heretic) आखदे (say/speak (of)) , तूं (you) आहो (yes indeed) आहो (yes indeed) आख (say/speak) ।
+**हिन्दी शब्दार्थ:** लोक (संसारी लोग) काफ़र (नास्तिक/काफ़िर) काफ़र (नास्तिक/काफ़िर) आखदे (कहते हैं) , तूं (तू) आहो (हाँ/अवश्य) आहो (हाँ/अवश्य) आख (कहो/पहचानो) ।  
+**English Gloss:** lok (worldly people) kaafar (infidel/heretic) kaafar (infidel/heretic) aakhde (they say) , toon (thou) aaho (yes indeed) aaho (yes indeed) aakh (say/reckon) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -618,12 +618,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ आउंदा साजन वेख के, जांदा मूल ना वेख ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) आउंदा (आउंदा) साजन (प्रियतम) वेख (देखो) के (के) , जांदा (जाता हुआ) मूल (मूलधन/यह जीवन) ना (नहीं) वेख (देखो) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) आउंदा (आउंदा) साजन (Beloved) वेख (behold) के (having) , जांदा (departing) मूल (principal/life) ना (not/nor) वेख (behold) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) आउंदा (आता हुआ) साजन (प्रियतम) वेख (देखो) के (करके) , जांदा (जाता हुआ) मूल (जड़) ना (नहीं) वेख (देखो) ।  
+**English Gloss:** bullhaaa (O Bulleh!) aaundaa (coming) saajan (Beloved) vekh (behold) ke (and) , jaandaa (departing) mool (root/origin) naa (not/nor) vekh (behold) .
 
 **मारे दरद फराक दे, बण बैठे बाहमन शेख ।**  
-**हिन्दी शब्दार्थ:** मारे (मारे) दरद (दरद) फराक (जुदाई/विरह) दे (के) , बण (बनकर) बैठे (बैठे) बाहमन (बाहमन) शेख (शेख) ।  
-**English Gloss:** मारे (strikes) दरद (दरद) फराक (separation) दे (of) , बण (becoming) बैठे (बैठे) बाहमन (बाहमन) शेख (शेख) ।
+**हिन्दी शब्दार्थ:** मारे (प्रियतम के विरह के) दरद (पीड़ा) फराक (विरह/वियोग) दे (के/पास) , बण (बनकर) बैठे (बैठे हुए) बाहमन (ब्राह्मण) शेख (धर्माचार्य/शेख) ।  
+**English Gloss:** maare (afflicted by) darad (pain/grief) faraak (separation/parting) de (of/unto) , ban (becoming) baithe (seated pl.) baahaman (Brahmin priest) shekh (orthodox elder/sheikh) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -658,12 +658,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ चल सुन्यार दे, जित्थे गहने घड़ीए लाख ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) चल (तो अब चल पड़) सुन्यार (सुन्यार) दे (के) , जित्थे (जहाँ) गहने (गहने) घड़ीए (घड़ीए) लाख (लाख) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) चल (then depart) सुन्यार (सुन्यार) दे (of) , जित्थे (wherever) गहने (गहने) घड़ीए (घड़ीए) लाख (लाख) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) चल (चल पड़/प्रस्थान कर) सुन्यार (स्वर्णकार/सुनार) दे (के/पास) , जित्थे (जहाँ कहीं भी) गहने (आभूषण/गहने) घड़ीए (गढ़े जाते हैं/निर्मित होते हैं) लाख (लाखों प्रकार के) ।  
+**English Gloss:** bullhaaa (O Bulleh!) chal (depart/walk forth) sunyaar (goldsmith) de (of/unto) , jitthe (wherever) gahne (ornaments/jewels) ghadeee (are fashioned/crafted) laakh (hundreds of thousands) .
 
 **सूरत आपो आपणी, तूं इको रूपा आख ।**  
-**हिन्दी शब्दार्थ:** सूरत (रूप/आकार) आपो (आपो) आपणी (स्वयं को (करनी)) , तूं (तूने) इको (एक) रूपा (रूपा) आख (कहो) ।  
-**English Gloss:** सूरत (form) आपो (आपो) आपणी (yourself (infinitive fem.)) , तूं (you) इको (one single) रूपा (रूपा) आख (say/speak) ।
+**हिन्दी शब्दार्थ:** सूरत (बाहरी आकार/रूप) आपो (अपनी-अपनी भिन्न) आपणी (अपनी-अपनी अलग/स्वयं की) , तूं (तू) इको (एक ही मात्र) रूपा (चांदी/शुद्ध धातु/मूल तत्व) आख (कहो/पहचानो) ।  
+**English Gloss:** soorat (outer form/shape) aapo (each distinct) aapanee (one's own distinct) , toon (thou) iko (one single) roopaa (pure silver/radiant metal/essence) aakh (say/reckon) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -698,12 +698,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ चेरी मुसलमान दी, हिन्दू तों कुरबान ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) चेरी (चेरी) मुसलमान (मुसलमान) दी (की) , हिन्दू (हिन्दू हैं) तों (से) कुरबान (न्योछावर/बलिहारी हूँ) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) चेरी (चेरी) मुसलमान (Muslim) दी (of) , हिन्दू (Hindu) तों (by) कुरबान (sacrifice) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) चेरी (दासी/सेविका) मुसलमान (समर्पित साधक/मुसलमान) दी (की) , हिन्दू (हिन्दू हैं) तों (पर) कुरबान (न्योछावर/बलिहारी हूँ) ।  
+**English Gloss:** bullhaaa (O Bulleh!) cheree (handmaiden/servant) musalmaan (true surrendered soul) di (the) , hindoo (Hindu) ton (upon) kurabaan (sacrifice) .
 
 **दोहां तों पानी वार पी, जो करे भगवान ।**  
-**हिन्दी शब्दार्थ:** दोहां (दोहां) तों (से) पानी (जल) वार (वार) पी (प्रियतम के) , जो (जो) करे (करे) भगवान (भगवान) ।  
-**English Gloss:** दोहां (दोहां) तों (by) पानी (water) वार (वार) पी (Beloved) , जो (who) करे (does/holds) भगवान (भगवान) ।
+**हिन्दी शब्दार्थ:** दोहां (दोनों) तों (पर) पानी (जल) वार (न्योछावर) पी (प्रियतम/शौह) , जो (जिससे) करे (करता है) भगवान (परमात्मा/भगवान) ।  
+**English Gloss:** dohaan (both) ton (upon) paanee (water) vaar (sacrifice) pee (Beloved Lord) , jo (that) kare (makes) bhagvaan (Supreme Lord/God) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -738,12 +738,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ धरमसाला धड़वाई रहन्दे, ठाकुर दुआरे ठग्ग ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) धरमसाला (धर्मशाला/सराय) धड़वाई (तोलने वाले/बनिया) रहन्दे (रहते हैं) , ठाकुर (ठाकुरद्वारा/मंदिर) दुआरे (दुआरे) ठग्ग (ठग/धोखेबाज़) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) धरमसाला (inn/hospice) धड़वाई (dishonest weighers) रहन्दे (they abide) , ठाकुर (temple) दुआरे (दुआरे) ठग्ग (thieves/swindlers) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) धरमसाला (धर्मशाला/सराय) धड़वाई (तोलने वाले/बनिया) रहन्दे (रहते हैं) , ठाकुर (ठाकुरद्वारा/मंदिर) दुआरे (द्वार पर) ठग्ग (ठग/धोखेबाज़) ।  
+**English Gloss:** bullhaaa (O Bulleh!) dharamasaalaa (inn/hospice) dhadavaaee (dishonest weighers) rahande (they abide) , thaakur (temple) duaare (at the holy threshold) thagg (thieves/swindlers) .
 
 **विच मसीतां कुसत्तईए रहन्दे, आशक रहन अलग्ग ।**  
-**हिन्दी शब्दार्थ:** विच (में/भीतर) मसीतां (मस्जिदों में) कुसत्तईए (असत्यवादी/पाखंडी) रहन्दे (रहते हैं) , आशक (सच्चा प्रेमी) रहन (रहन) अलग्ग (अलग/पृथक) ।  
-**English Gloss:** विच (within/in) मसीतां (in mosques) कुसत्तईए (false hypocrites) रहन्दे (they abide) , आशक (true lover) रहन (रहन) अलग्ग (aloof/apart) ।
+**हिन्दी शब्दार्थ:** विच (में/भीतर) मसीतां (मस्जिदों में) कुसत्तईए (असत्यवादी/पाखंडी) रहन्दे (रहते हैं) , आशक (सच्चा प्रेमी) रहन (रहना) अलग्ग (अलग/पृथक) ।  
+**English Gloss:** vich (within/in) maseetaan (in mosques) kusattaeee (false hypocrites) rahande (they abide) , aashak (true lover) rahan (to remain/abide) alagg (aloof/apart) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -780,20 +780,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ धरमसाला विच नाहीं, जित्थे मोमन भोग पवाए।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) धरमसाला (धर्मशाला/सराय) विच (में/भीतर) नाहीं (नहीं) , जित्थे (जहाँ) मोमन (सच्चा मोमिन/मुसलमान) भोग (भोग) पवाए (पवाए) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) धरमसाला (inn/hospice) विच (within/in) नाहीं (not) , जित्थे (wherever) मोमन (orthodox believer) भोग (भोग) पवाए (पवाए) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) धरमसाला (धर्मशाला/सराय) विच (में/भीतर) नाहीं (नहीं) , जित्थे (जहाँ कहीं भी) मोमन (सच्चा मोमिन/मुसलमान) भोग (विरह-दुख का भोग) पवाए (डलवाए/पहनाए) ।  
+**English Gloss:** bullhaaa (O Bulleh!) dharamasaalaa (inn/hospice) vich (within/in) naaheen (not) , jitthe (wherever) moman (orthodox believer) bhog (suffering of longing) pavaae (caused to wear/bestowed) .
 
 **विच्च मसीतां धक्के मिलदे, मुल्लां त्यूड़ी पाए ।**  
-**हिन्दी शब्दार्थ:** विच्च (में/अंदर) मसीतां (मस्जिदों में) धक्के (धक्के) मिलदे (मिलो (के)) , मुल्लां (मुल्ला) त्यूड़ी (त्यूड़ी) पाए (खड़े कर रखे हैं) ।  
-**English Gloss:** विच्च (in/within) मसीतां (in mosques) धक्के (shoves/struggles) मिलदे (meet (of)) , मुल्लां (mullah) त्यूड़ी (त्यूड़ी) पाए (have created) ।
+**हिन्दी शब्दार्थ:** विच्च (में/अंदर) मसीतां (मस्जिदों में) धक्के (धक्के/तिरस्कार) मिलदे (मिलते हैं) , मुल्लां (मुल्ला-काज़ी) त्यूड़ी (भृकुटि/माथे की सिलवट) पाए (फंस गई हो) ।  
+**English Gloss:** vichch (in/within) maseetaan (in mosques) dhakke (blows/shoves) milde (they unite) , mullaan (priests/clerics) tyoodee (frown/knitted brow) paaye (have been stranded) .
 
 **दौलतमन्दां ने बूहआं उत्ते, रोबदार बहाए ।**  
-**हिन्दी शब्दार्थ:** दौलतमन्दां (दौलतमन्दां) ने (ने) बूहआं (बूहआं) उत्ते (ऊपर) , रोबदार (रोबदार) बहाए (बहाए) ।  
-**English Gloss:** दौलतमन्दां (दौलतमन्दां) ने (by) बूहआं (बूहआं) उत्ते (upon) , रोबदार (रोबदार) बहाए (बहाए) ।
+**हिन्दी शब्दार्थ:** दौलतमन्दां (धनवानों को) ने (ने (कारक)) बूहआं (दरवाजे/द्वार) उत्ते (ऊपर) , रोबदार (तेजस्वी/प्रतापी) बहाए (बहा दिए) ।  
+**English Gloss:** daulatmandaan (the wealthy/rich) ne (by (agent marker)) boohaan (doors/portals) utte (upon) , robdaar (commanding/awe-inspiring) bahaae (shed (tears)/flowed) .
 
 **पकड़ दरवाज़ा रब्ब सच्चे दा,जित्थों दुक्ख दिल दा मिट जाए।**  
-**हिन्दी शब्दार्थ:** पकड़ (पकड़ कर) दरवाज़ा (दरवाज़ा) रब्ब (परमात्मा) सच्चे (सत्यवादी के) दा (का) , जित्थों (जहाँ से) दुक्ख (दुख) दिल (हृदय/मन) दा (का) मिट (मिट) जाए (पुत्र/जन्मे हैं) ।  
-**English Gloss:** पकड़ (capturing) दरवाज़ा (दरवाज़ा) रब्ब (the Lord) सच्चे (truthful one) दा (of) , जित्थों (from where) दुक्ख (sorrow) दिल (heart) दा (of) मिट (मिट) जाए (sons/born of) ।
+**हिन्दी शब्दार्थ:** पकड़ (पकड़कर) दरवाज़ा (द्वार/कपाट) रब्ब (परमात्मा ने) सच्चे (सत्यवादी के) दा (द्वारा) , जित्थों (जहाँ से) दुक्ख (पीड़ा) दिल (हृदय) दा (द्वारा) मिट (मिटकर) जाए (पुत्र/जन्मे हैं) ।  
+**English Gloss:** pakad (grasping) darvaazaa (portal/doorway) rabb (God) sachche (truthful one) da (of) , jitthon (from where) dukkh (sorrow/grief) dil (heart) da (of) mit (being erased) jaae (sons/born of) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -832,12 +832,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ ग़ैन ग़रूरत साड़ सुट्ट, ते मान खूहे विच पा ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) ग़ैन (ग़ैन (गफ़लत का पर्दा)) ग़रूरत (अहंकार/गर्व) साड़ (जलाकर) सुट्ट (सुट्ट) , ते (और/तो) मान (मान) खूहे (कुएं में) विच (में/भीतर) पा (बड़ा भारी) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) ग़ैन (Ghain (Veil of Delusion)) ग़रूरत (pride/arrogance) साड़ (burning) सुट्ट (सुट्ट) , ते (and/then) मान (मान) खूहे (in the well) विच (within/in) पा (broad mark) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) ग़ैन (ग़ैन (गफ़लत का पर्दा)) ग़रूरत (अहंकार/गर्व) साड़ (जलाकर) सुट्ट (फेंककर/त्यागकर) , ते (ता (तौबा व पश्चाताप)) मान (अहंकार) खूहे (कुएं में) विच (में/भीतर) पा (बड़ा भारी) ।  
+**English Gloss:** bullhaaa (O Bulleh!) ghain (Ghain (Veil of Delusion)) gharoorat (pride/arrogance) saad (burning) sutt (casting away) , te (Te (Repentance)) maan (pride) khoohe (in the well) vich (within/in) paa (broad mark) .
 
 **तन मन दी सुरत गवा वे, घर आप मिलेगा आ  ।**  
-**हिन्दी शब्दार्थ:** तन (शरीर/मन पर) मन (मन के) दी (की) सुरत (चेतना/होश) गवा (गवा) वे (हे प्रिय) , घर (हृदय-घर में) आप (स्वयं को) मिलेगा (मिलेगा) आ (आओ) ।  
-**English Gloss:** तन (body) मन (of mind) दी (of) सुरत (consciousness/mind) गवा (गवा) वे (O Beloved) , घर (in the inner home) आप (yourself) मिलेगा (मिलेगा) आ (come) ।
+**हिन्दी शब्दार्थ:** तन (शरीर के) मन (चित्त) दी (की) सुरत (चेतना/होश) गवा (गंवाकर) वे (हे प्रिय) , घर (आशियाना) आप (अहंकार/अस्तित्व) मिलेगा (मिलेगा/साक्षात्कार होगा) आ (आओ) ।  
+**English Gloss:** tan (body) man (mind/heart) di (the) surat (consciousness/mind) gavaa (wasting/forfeiting) ve (O Beloved) , ghar (home/refuge) aap (selfhood/ego) milegaa (shall meet) aa (come) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -872,12 +872,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ हर मन्दर में आइके, कहो लेखा द्यो बता ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) हर (भगवान/हरि) मन्दर (मंदिर/अंतर्मन) में (में) आइके (आइके) , कहो (कह दो उस) लेखा (लेखा) द्यो (द्यो) बता (बता) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) हर (Lord Hari/God) मन्दर (temple of heart) में (ache/anguish) आइके (आइके) , कहो (tell) लेखा (लेखा) द्यो (द्यो) बता (बता) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) हर (भगवान/हरि) मन्दर (मंदिर/अंतर्मन) में (में/भीतर) आइके (आकर) , कहो (कहो सखी) लेखा (हिसाब-किताब) द्यो (दो/प्रदान करो) बता (बता दो) ।  
+**English Gloss:** bullhaaa (O Bulleh!) har (Lord Hari/God) mandar (temple of heart) men (in/within) aaike (having come) , kaho (tell me) lekhaa (reckoning/account of deeds) dyo (give/bestow) bataa (tell/declare) .
 
 **पड़्हे पंडित पांधे दूर कीए, अहमक लीए बुला ।**  
-**हिन्दी शब्दार्थ:** पड़्हे (पड़्हे) पंडित (पंडित) पांधे (पांधे) दूर (दूर) कीए (कीए) , अहमक (मूर्ख) लीए (लीए) बुला (बुला) ।  
-**English Gloss:** पड़्हे (पड़्हे) पंडित (पंडित) पांधे (पांधे) दूर (far) कीए (कीए) , अहमक (foolish) लीए (लीए) बुला (बुला) ।
+**हिन्दी शब्दार्थ:** पड़्हे (पढ़े) पंडित (पंडित/शास्त्रज्ञ) पांधे (पंडित/पुरोहित) दूर (दूर/परे) कीए (किए/बनाए) , अहमक (मूर्ख) लीए (लिए/स्वीकार किए) बुला (बुलाकर) ।  
+**English Gloss:** padh-dhe (studied/read) pandit (learned scholar/priest) paandhe (astrologer/priest) door (distant/far) keee (done/fashioned) , ahamak (foolish) leee (taken/accepted) bulaa (calling/summoning) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -912,12 +912,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ हिजरत विच इसलाम दे, मेरा नित्त है ख़ास अराम ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) हिजरत (प्रवास/आध्यात्मिक यात्रा) विच (में/भीतर) इसलाम (इसलाम) दे (के) , मेरा (मेरा) नित्त (सदा) है (क्या) ख़ास (ख़ास) अराम (अराम) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) हिजरत (spiritual migration) विच (within/in) इसलाम (इसलाम) दे (of) , मेरा (my) नित्त (daily) है (is) ख़ास (ख़ास) अराम (अराम) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) हिजरत (प्रवास/आध्यात्मिक यात्रा) विच (में/भीतर) इसलाम (आत्म-समर्पण/इस्लाम) दे (के/पास) , मेरा (मेरा/अधीन) नित्त (नित्य) है (है कि) ख़ास (विशिष्ट/उत्कृष्ट) अराम (विश्राम/शांति) ।  
+**English Gloss:** bullhaaa (O Bulleh!) hijarat (spiritual migration) vich (within/in) islaam (submission to God/Islam) de (of/unto) , meraa (my/mine) nitt (ceaselessly) hai (is) khaas (chosen/exclusive) araam (rest/peace) .
 
 **नित्त नित्त मरां ते नित्त नित्त जीवां, मेरा नित्त नित्त कूच मुकाम ।**  
-**हिन्दी शब्दार्थ:** नित्त (सदा) नित्त (सदा) मरां (मरूं) ते (और/तो) नित्त (सदा) नित्त (सदा) जीवां (जीऊं) , मेरा (मेरा) नित्त (सदा) नित्त (सदा) कूच (प्रस्थान, महाप्रयाण, कूच करना) मुकाम (मुकाम) ।  
-**English Gloss:** नित्त (daily) नित्त (daily) मरां (I die) ते (and/then) नित्त (daily) नित्त (daily) जीवां (I live) , मेरा (my) नित्त (daily) नित्त (daily) कूच (Departure, march onward, passing away) मुकाम (मुकाम) ।
+**हिन्दी शब्दार्थ:** नित्त (नित्य) नित्त (नित्य) मरां (मरूं) ते (ता (तौबा व पश्चाताप)) नित्त (नित्य) नित्त (नित्य) जीवां (जीऊं) , मेरा (मेरा/अधीन) नित्त (नित्य) नित्त (नित्य) कूच (प्रस्थान, महाप्रयाण, कूच करना) मुकाम (पड़ाव) ।  
+**English Gloss:** nitt (ceaselessly) nitt (ceaselessly) maraan (I die) te (Te (Repentance)) nitt (ceaselessly) nitt (ceaselessly) jeevaan (I live) , meraa (my/mine) nitt (ceaselessly) nitt (ceaselessly) kooch (Departure, march onward, passing away) mukaam (station) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -952,12 +952,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ इशक सजन दे आए के, सानूं कीतो सू डूम ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) इशक (दिव्य प्रेम (इश्क)) सजन (प्रियतम) दे (के) आए (आए) के (के) , सानूं (हमें) कीतो (कीतो) सू (सू) डूम (गायक/भाट/सेवक) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) इशक (Divine Love) सजन (of the Beloved) दे (of) आए (came) के (having) , सानूं (to us) कीतो (कीतो) सू (सू) डूम (humble bard/singer) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) इशक (दिव्य प्रेम (इश्क)) सजन (प्रियतम) दे (के/पास) आए (आ गए) के (करके) , सानूं (हमें) कीतो (किया) सू (वह) डूम (गायक/भाट/सेवक) ।  
+**English Gloss:** bullhaaa (O Bulleh!) ishak (Divine Love) sajan (of the Beloved) de (of/unto) aaye (came) ke (and) , saanoon (to us) keeto (did) soo (that) doom (humble bard/singer) .
 
 **उह प्रभा असाडा सख़ी है, मैं सेवा कनूं सूम ।**  
-**हिन्दी शब्दार्थ:** उह (वह) प्रभा (प्रभा) असाडा (असाडा) सख़ी (दानी/उदार) है (क्या) , मैं (मैंने) सेवा (सेवा) कनूं (कनूं) सूम (कंजूस/दरिद्र) ।  
-**English Gloss:** उह (he) प्रभा (प्रभा) असाडा (असाडा) सख़ी (generous benefactor) है (is) , मैं (I) सेवा (सेवा) कनूं (कनूं) सूम (miser/beggar) ।
+**हिन्दी शब्दार्थ:** उह (उसे) प्रभा (आभा/तेज) असाडा (हमारा) सख़ी (दानी/उदार) है (है कि) , मैं (मैंने) सेवा (भक्ति/सेवा) कनूं (कान से/समीप से) सूम (कंजूस/दरिद्र) ।  
+**English Gloss:** uh (him) prabhaa (luster/radiance) asaada (our) sakhee (generous benefactor) hai (is) , main (I) sevaa (devoted service) kanoon (from the ear/near) soom (miser/beggar) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -992,12 +992,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ जैसी सूरत ऐन दी, तैसी सूरत ग़ैन।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जैसी (जैसी) सूरत (रूप/आकार) ऐन (ऐन (तत्व व ज्ञान)) दी (की) , तैसी (तैसी) सूरत (रूप/आकार) ग़ैन (ग़ैन (गफ़लत का पर्दा)) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) जैसी (as) सूरत (form) ऐन (Ain (Essence & Gnosis)) दी (of) , तैसी (तैसी) सूरत (form) ग़ैन (Ghain (Veil of Delusion)) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जैसी (जैसी/जिस भाँति) सूरत (बाहरी आकार/रूप) ऐन (ऐन (तत्व व ज्ञान)) दी (की) , तैसी (वैसी) सूरत (बाहरी आकार/रूप) ग़ैन (ग़ैन (गफ़लत का पर्दा)) ।  
+**English Gloss:** bullhaaa (O Bulleh!) jaisee (such as/like) soorat (outer form/shape) ain (Ain (Essence & Gnosis)) di (the) , taisee (such as that) soorat (outer form/shape) ghain (Ghain (Veil of Delusion)) .
 
 **इक नुक्कते दा फेर है , भुल्ला फिरे जहान ।**  
-**हिन्दी शब्दार्थ:** इक (एकाकार/एक) नुक्कते (बिंदु (नुक़्ता)) दा (का) फेर (फिर पलटकर) है (क्या) , भुल्ला (भुल्ला) फिरे (फिरे) जहान (संसार के) ।  
-**English Gloss:** इक (one/united) नुक्कते (mystic dot) दा (of) फेर (then again) है (is) , भुल्ला (भुल्ला) फिरे (फिरे) जहान (of world) ।
+**हिन्दी शब्दार्थ:** इक (एक ही) नुक्कते (बिंदु (नुक़्ता)) दा (द्वारा) फेर (फिर) है (है कि) , भुल्ला (भूल गया है) फिरे (भटके) जहान (संसार) ।  
+**English Gloss:** ik (in one) nukkate (mystic dot) da (of) pher (again) hai (is) , bhulla (has forgotten) phire (wanders) jahaan (world) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1032,12 +1032,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ जे तूं ग़ाज़ी बणनैं, लक्क बन्न्ह तलवार।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जे (यदि) तूं (तूने) ग़ाज़ी (धर्मयोद्धा/विजेता) बणनैं (बणनैं) , लक्क (लक्क) बन्न्ह (बन्न्ह) तलवार (तलवार) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) जे (if) तूं (you) ग़ाज़ी (spiritual warrior) बणनैं (बणनैं) , लक्क (लक्क) बन्न्ह (बन्न्ह) तलवार (fatal sword) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) जे (यदि) तूं (तू) ग़ाज़ी (धर्मयोद्धा/विजेता) बणनैं (बनना) , लक्क (कमर/कटि) बन्न्ह (बांधकर) तलवार (शमशीर/तलवार) ।  
+**English Gloss:** bullhaaa (O Bulleh!) je (if) toon (thou) ghaazee (spiritual warrior) bannain (to become/take form) , lakk (waist/loins) bannh (binding/fastening) talvaar (sword/blade of Truth) .
 
 **पहलों रंघड़ मार के , पिच्छों काफर मार ।**  
-**हिन्दी शब्दार्थ:** पहलों (पहले) रंघड़ (अहंकारी स्वभाव) मार (मारकर) के (के) , पिच्छों (बाद में) काफर (काफर) मार (मारकर) ।  
-**English Gloss:** पहलों (first) रंघड़ (inner unruly tyrant) मार (striking/killing) के (having) , पिच्छों (afterwards) काफर (काफर) मार (striking/killing) ।
+**हिन्दी शब्दार्थ:** पहलों (पहले) रंघड़ (अहंकारी स्वभाव) मार (मारकर) के (करके) , पिच्छों (बाद में) काफर (काफिर/अधर्म-आरोपित) मार (मारकर) ।  
+**English Gloss:** pahalon (first) ranghad (inner unruly tyrant) maar (striking/killing) ke (and) , pichchhon (afterwards) kaafar (heretic/infidel) maar (striking/killing) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1072,12 +1072,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ कनक कौडी कामनी, तीनों ही तलवार ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) कनक (अन्न/गेहूं/सोना) कौडी (कौड़ी/धन) कामनी (कामिनी/वासना) , तीनों (तीनों) ही (ही) तलवार (तलवार) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) कनक (grain/gold) कौडी (coin/wealth) कामनी (lust/sensuality) , तीनों (तीनों) ही (indeed) तलवार (fatal sword) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) कनक (अन्न/गेहूं/सोना) कौडी (कौड़ी/धन) कामनी (कामिनी/वासना) , तीनों (तीनों लोक/गुण) ही (ही (अवधारण)) तलवार (शमशीर/तलवार) ।  
+**English Gloss:** bullhaaa (O Bulleh!) kanak (grain/gold) kaudee (coin/wealth) kaamanee (lust/sensuality) , teenon (all three) hee (alone/only) talvaar (sword/blade of Truth) .
 
 **आए थे नाम जपन को, और विच्चे लीते मार ।**  
-**हिन्दी शब्दार्थ:** आए (आए) थे (थे) नाम (नाम) जपन (जपन) को (को) , और (और) विच्चे (विच्चे) लीते (लीते) मार (मारकर) ।  
-**English Gloss:** आए (came) थे (थे) नाम (name) जपन (जपन) को (to) , और (और) विच्चे (विच्चे) लीते (लीते) मार (striking/killing) ।
+**हिन्दी शब्दार्थ:** आए (आ गए) थे (थे/उपस्थित थे) नाम (प्रभु-नाम) जपन (जाप करना) को (को/की ओर) , और (और/भिन्न) विच्चे (भीतर ही/मध्य में) लीते (लिए) मार (मारकर) ।  
+**English Gloss:** aaye (came) the (were) naam (Divine Name) japan (to chant/remember) ko (unto/to) , aur (other/different) vichche (within itself) leete (taken) maar (striking/killing) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1112,12 +1112,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ कसूर बेदसतूर, ओथे जाना बण्या ज़रूर ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) कसूर (कसूर नगर/त्रुटि) बेदसतूर (बिना नियम/स्वतंत्र लोक) , ओथे (वहाँ) जाना (जाना) बण्या (बना) ज़रूर (ज़रूर) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) कसूर (town of Kasur / fault) बेदसतूर (beyond rules) , ओथे (there) जाना (जाना) बण्या (became) ज़रूर (ज़रूर) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) कसूर (कसूर नगर/त्रुटि) बेदसतूर (बिना नियम/स्वतंत्र लोक) , ओथे (वहाँ) जाना (जाना/प्रस्थान करना) बण्या (बना) ज़रूर (अवश्य/निश्चित) ।  
+**English Gloss:** bullhaaa (O Bulleh!) kasoor (town of Kasur / fault) bedasatoor (beyond rules) , othe (there) jaanaa (to depart) banyaa (became) zaroor (certainly/surely) .
 
 **ना कोई पुन्न ना दान है, ना कोई लाग दसतूर ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) कोई (कोई) पुन्न (और पुण्य) ना (नहीं) दान (दान) है (क्या) , ना (नहीं) कोई (कोई) लाग (लाग) दसतूर (दसतूर) ।  
-**English Gloss:** ना (not/nor) कोई (anyone) पुन्न (virtue) ना (not/nor) दान (दान) है (is) , ना (not/nor) कोई (anyone) लाग (लाग) दसतूर (दसतूर) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) कोई (कोई भी) पुन्न (पुण्य) ना (नहीं) दान (दान/खैरात) है (है कि) , ना (नहीं) कोई (कोई भी) लाग (प्रेम-संबंध/लगन) दसतूर (प्रथा/रीति) ।  
+**English Gloss:** naa (not/nor) koyi (anyone) punn (merit/virtue) naa (not/nor) daan (charity/alms) hai (is) , naa (not/nor) koyi (anyone) laag (spark of love/attachment) dastoor (custom/tradition) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1154,20 +1154,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ खा हराम ते पड़्ह शुकराना, कर तौबा तरक सवाबों ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) खा (खा) हराम (हराम) ते (और/तो) पड़्ह (पढ़ो) शुकराना (शुकराना) , कर (करके) तौबा (पश्चाताप) तरक (तरक) सवाबों (पुण्य के फल से) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) खा (खा) हराम (हराम) ते (and/then) पड़्ह (read/recite) शुकराना (शुकराना) , कर (making) तौबा (repentance) तरक (तरक) सवाबों (from merit/reward) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) खा (खाओ/भोग करो) हराम (अधर्म/निषिद्ध) ते (ता (तौबा व पश्चाताप)) पड़्ह (पढ़ो) शुकराना (आभार-प्रदर्शन) , कर (करके) तौबा (पश्चाताप) तरक (त्याग/छोड़ना) सवाबों (पुण्य के फल से) ।  
+**English Gloss:** bullhaaa (O Bulleh!) khaa (eat/consume) haraam (forbidden/unlawful) te (Te (Repentance)) padh (read/recite) shukraanaa (thanksgiving) , kar (doing) taubaa (repentance) tarak (renunciation/abandonment) savaabon (from merit/reward) .
 
 **छोड़ मसीत ते पकड़ किनारा , तेरी छुट्टसी जान अज़ाबों ।**  
-**हिन्दी शब्दार्थ:** छोड़ (छोड़कर) मसीत (मस्जिद) ते (और/तो) पकड़ (पकड़ कर) किनारा (किनारा) , तेरी (तुम्हारी) छुट्टसी (छुट्टसी) जान (प्राण/जीवन) अज़ाबों (यातना और बंधन से) ।  
-**English Gloss:** छोड़ (leaving) मसीत (mosque) ते (and/then) पकड़ (capturing) किनारा (किनारा) , तेरी (of yours) छुट्टसी (छुट्टसी) जान (life/soul) अज़ाबों (from torments) ।
+**हिन्दी शब्दार्थ:** छोड़ (छोड़कर) मसीत (मस्जिद) ते (ता (तौबा व पश्चाताप)) पकड़ (पकड़कर) किनारा (तट/किनारा) , तेरी (सदा तेरी ही) छुट्टसी (छूटेगा/मुक्त होगा) जान (प्राण/जीवन) अज़ाबों (यातना और बंधन से) ।  
+**English Gloss:** chhod (leaving) maseet (mosque) te (Te (Repentance)) pakad (grasping) kinaaraa (bank/shore) , teri (yours alone) chhattsee (shall be liberated) jaan (life/soul) azaabon (from torments) .
 
 **उह हरफ़ ना पड़्हीए मत , रहसी जान जवाबों ।**  
-**हिन्दी शब्दार्थ:** उह (वह) हरफ़ (अक्षर) ना (नहीं) पड़्हीए (पढ़ें) मत (और मति का रहस्य) , रहसी (रहेगा) जान (प्राण/जीवन) जवाबों (जवाबों) ।  
-**English Gloss:** उह (he) हरफ़ (letter) ना (not/nor) पड़्हीए (let us read) मत (wisdom) , रहसी (shall remain) जान (life/soul) जवाबों (जवाबों) ।
+**हिन्दी शब्दार्थ:** उह (उसे) हरफ़ (अक्षर) ना (नहीं) पड़्हीए (पढ़ें) मत (और मति का रहस्य) , रहसी (रहेगा) जान (प्राण/जीवन) जवाबों (उत्तर से) ।  
+**English Gloss:** uh (him) haraf (letter) naa (not/nor) padheee (let us read) mat (wisdom) , rahasee (shall remain) jaan (life/soul) javaabon (from the reply) .
 
 **बुल्ल्हे शाह चल ओथे चलीए, जित्थे मन्हा ना करन शराबों ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) चल (तो अब चल पड़) ओथे (वहाँ) चलीए (चलीए) , जित्थे (जहाँ) मन्हा (मन्हा) ना (नहीं) करन (जीवन) शराबों (शराबों) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) चल (then depart) ओथे (there) चलीए (चलीए) , जित्थे (wherever) मन्हा (मन्हा) ना (not/nor) करन (to make) शराबों (शराबों) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) चल (चल पड़/प्रस्थान कर) ओथे (वहाँ) चलीए (चलना चाहिए) , जित्थे (जहाँ कहीं भी) मन्हा (निषेध/मनाही) ना (नहीं) करन (करती हैं) शराबों (इश्क-ए-हक़ीकी की शराब की) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) chal (depart/walk forth) othe (there) chaleee (one should depart) , jitthe (wherever) manhaa (prohibition/forbidden) naa (not/nor) karan (make) sharaabon (of Divine Wine) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1206,12 +1206,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ मन मंजोला मुंज दा, किते गोशे बहके कुट्ट ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मन (मन के) मंजोला (गट्ठर) मुंज (सरकंडे की मूँज) दा (का) , किते (कहीं) गोशे (एकांत कोने में) बहके (बहके) कुट्ट (कूट/पीस) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) मन (of mind) मंजोला (bundle/reed) मुंज (tough fibrous reeds) दा (of) , किते (somewhere) गोशे (in private corner) बहके (बहके) कुट्ट (beat/thrash) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मन (चित्त) मंजोला (गट्ठर) मुंज (सरकंडे की मूँज) दा (द्वारा) , किते (कहीं) गोशे (एकांत कोने में) बहके (बैठकर) कुट्ट (कूट/पीस) ।  
+**English Gloss:** bullhaaa (O Bulleh!) man (mind/heart) manjolaa (bundle/reed) munj (tough fibrous reeds) da (of) , kite (somewhere) goshe (in private corner) bahke (having sat down) kutt (beat/thrash) .
 
 **इह खज़ाना तैनूं अरश दा, तूं संभल संभल के लुट्ट ।**  
-**हिन्दी शब्दार्थ:** इह (ये) खज़ाना (खज़ाना) तैनूं (तुझे) अरश (परम धाम (अर्श)) दा (का) , तूं (तूने) संभल (संभल) संभल (संभल) के (के) लुट्ट (लूट लो) ।  
-**English Gloss:** इह (these) खज़ाना (treasure) तैनूं (unto thee) अरश (highest heaven) दा (of) , तूं (you) संभल (संभल) संभल (संभल) के (having) लुट्ट (plunder) ।
+**हिन्दी शब्दार्थ:** इह (ये) खज़ाना (खज़ाना) तैनूं (तुझे) अरश (परम धाम (अर्श)) दा (द्वारा) , तूं (तू) संभल (सचेत होकर) संभल (सचेत होकर) के (करके) लुट्ट (लूट लो) ।  
+**English Gloss:** ih (these) khazaanaa (treasure) tainoon (unto thee) arash (highest heaven) da (of) , toon (thou) sambhal (cautiously/mindfully) sambhal (cautiously/mindfully) ke (and) lutt (plunder) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1246,12 +1246,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ मैं मिट्टी घुम्यार दी, गल्ल आख ना सकदी एक ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मैं (मैंने) मिट्टी (मिट्टी) घुम्यार (घुम्यार) दी (की) , गल्ल (बात) आख (कहो) ना (नहीं) सकदी (सकदी) एक (एक समान अद्वैत) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) मैं (I) मिट्टी (मिट्टी) घुम्यार (घुम्यार) दी (of) , गल्ल (matter) आख (say/speak) ना (not/nor) सकदी (सकदी) एक (one essence) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मैं (मैंने) मिट्टी (धूल/माटी) घुम्यार (कुम्हार/प्रजापति) दी (की) , गल्ल (बात) आख (कहो/पहचानो) ना (नहीं) सकदी (सकती है) एक (एक समान अद्वैत) ।  
+**English Gloss:** bullhaaa (O Bulleh!) main (I) mittee (dust/clay of mortal body) ghumyaar (potter/creator) di (the) , gall (matter) aakh (say/reckon) naa (not/nor) sakdee (can/is able) ek (one essence) .
 
 **ततड़ मेरा क्युं घड़्या, मत जाए अलेक सलेक ।**  
-**हिन्दी शब्दार्थ:** ततड़ (ततड़) मेरा (मेरा) क्युं (क्यों) घड़्या (घड़्या) , मत (और मति का रहस्य) जाए (पुत्र/जन्मे हैं) अलेक (अलेक) सलेक (सलेक) ।  
-**English Gloss:** ततड़ (ततड़) मेरा (my) क्युं (why) घड़्या (घड़्या) , मत (wisdom) जाए (sons/born of) अलेक (अलेक) सलेक (सलेक) ।
+**हिन्दी शब्दार्थ:** ततड़ (तप्त/अभागा) मेरा (मेरा/अधीन) क्युं (क्यों) घड़्या (गढ़ा गया) , मत (और मति का रहस्य) जाए (पुत्र/जन्मे हैं) अलेक (अलेख/लेखा-रहित) सलेक (सुसंस्कृत/सलीकेदार) ।  
+**English Gloss:** tatad (wretched/suffering) meraa (my/mine) kyun (why) ghadyaa (fashioned/sculpted) , mat (wisdom) jaae (sons/born of) alek (unwritten) salek (graceful/well-mannered) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1286,12 +1286,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ मुल्लां अते मसालची, दोहां इक्को चित्त ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मुल्लां (मुल्ला) अते (और) मसालची (मशालची/मशालवाहक) , दोहां (दोहां) इक्को (केवल एक) चित्त (चित्त) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) मुल्लां (mullah) अते (and) मसालची (torch-bearer) , दोहां (दोहां) इक्को (is a single) चित्त (चित्त) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) मुल्लां (मुल्ला-काज़ी) अते (और) मसालची (मशालची/मशालवाहक) , दोहां (दोनों) इक्को (केवल एक) चित्त (हृदय/अंतःकरण) ।  
+**English Gloss:** bullhaaa (O Bulleh!) mullaan (priests/clerics) ate (and) masaalachee (torch-bearer) , dohaan (both) ikko (is a single) chitt (heart/mind) .
 
 **लोकां करदे चानणा, आप हनेरे विच ।**  
-**हिन्दी शब्दार्थ:** लोकां (लोगों) करदे (करते हैं) चानणा (प्रकाश) , आप (स्वयं को) हनेरे (अंधेरे में) विच (में/भीतर) ।  
-**English Gloss:** लोकां (people's) करदे (make) चानणा (light) , आप (yourself) हनेरे (in darkness) विच (within/in) ।
+**हिन्दी शब्दार्थ:** लोकां (लोगों) करदे (करते हैं) चानणा (प्रकाश) , आप (अहंकार/अस्तित्व) हनेरे (अंधेरे में) विच (में/भीतर) ।  
+**English Gloss:** lokaan (people's) karade (make) chaananaa (light) , aap (selfhood/ego) hanere (in darkness) vich (within/in) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1326,12 +1326,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ पैंडे पड़े प्रेम के, किया पैंडा आवागौन ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) पैंडे (पैंडे) पड़े (पड़े) प्रेम (प्रेम) के (के) , किया (किया) पैंडा (मार्ग) आवागौन (आवागमन (संसार-चक्र)) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) पैंडे (पैंडे) पड़े (पड़े) प्रेम (love) के (having) , किया (किया) पैंडा (difficult) आवागौन (cycle of rebirth) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) पैंडे (रास्ते/मार्ग) पड़े (पड़ गए) प्रेम (इश्क) के (करके) , किया (किया/संपन्न किया) पैंडा (मार्ग) आवागौन (आवागमन (संसार-चक्र)) ।  
+**English Gloss:** bullhaaa (O Bulleh!) painde (travel paths/journeys) pade (fell/lay) prem (of divine love) ke (and) , kiyaa (performed/done) paindaa (difficult) aavaagaun (cycle of rebirth) .
 
 **अंधे को अंधा मिल ग्या, राह बतावे कौन ।**  
-**हिन्दी शब्दार्थ:** अंधे (अंधे) को (को) अंधा (अंधा) मिल (मिलो) ग्या (गया) , राह (सत्य का मार्ग) बतावे (सिखाता है) कौन (कौन) ।  
-**English Gloss:** अंधे (अंधे) को (to) अंधा (अंधा) मिल (meet) ग्या (has gone) , राह (path) बतावे (reveals) कौन (who) ।
+**हिन्दी शब्दार्थ:** अंधे (नेत्रहीन/अज्ञानी जन) को (को/की ओर) अंधा (नेत्रहीन/अज्ञानी) मिल (मिलो) ग्या (छूट गया) , राह (मार्ग) बतावे (सिखाता है) कौन (कौन व्यक्ति/किसे) ।  
+**English Gloss:** andhe (blind persons) ko (unto/to) andhaa (blind/spiritually ignorant) mil (meet) gya (vanished) , raah (way) bataave (reveals) kaun (who) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1366,12 +1366,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ परसों काफ़र थी गइउं, बुत्त पूजा कीती कल्ल्ह ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) परसों (परसों) काफ़र (नास्तिक/काफ़िर) थी (थी) गइउं (गइउं) , बुत्त (बुत्त) पूजा (और धन कमाने की पूजा) कीती (बना दिया) कल्ल्ह (कल्ल्ह) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) परसों (परसों) काफ़र (infidel/heretic) थी (थी) गइउं (गइउं) , बुत्त (बुत्त) पूजा (worship) कीती (made) कल्ल्ह (कल्ल्ह) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) परसों (परसों के दिन) काफ़र (नास्तिक/काफ़िर) थी (थी/विद्यमान थी) गइउं (गई/मैं गया) , बुत्त (मूर्ति/बुत्त) पूजा (आराधना/पूजा) कीती (बना दिया) कल्ल्ह (कल) ।  
+**English Gloss:** bullhaaa (O Bulleh!) parson (day after tomorrow) kaafar (infidel/heretic) thee (was fem.) gaiun (departed/I went) , butt (idol/statue) poojaa (worship/adoration) keetee (made) kallh (tomorrow) .
 
 **असीं जा बैठे घर आपणे, ओथे करन ना मिलिया गल्ल ।**  
-**हिन्दी शब्दार्थ:** असीं (हम) जा (जब) बैठे (बैठे) घर (हृदय-घर में) आपणे (अपने) , ओथे (वहाँ) करन (जीवन) ना (नहीं) मिलिया (मिलिया) गल्ल (बात) ।  
-**English Gloss:** असीं (we) जा (when) बैठे (बैठे) घर (in the inner home) आपणे (one's own) , ओथे (there) करन (to make) ना (not/nor) मिलिया (मिलिया) गल्ल (matter) ।
+**हिन्दी शब्दार्थ:** असीं (हम) जा (जाकर) बैठे (बैठे हुए) घर (आशियाना) आपणे (अपने) , ओथे (वहाँ) करन (करती हैं) ना (नहीं) मिलिया (मिला) गल्ल (बात) ।  
+**English Gloss:** aseen (we) ja (going) baithe (seated pl.) ghar (home/refuge) aapane (one's own) , othe (there) karan (make) naa (not/nor) miliyaa (met/attained) gall (matter) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1406,12 +1406,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ पी शराब ते खा कबाब, हेठ बाल हड्डां दी अग्ग ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) पी (प्रियतम के) शराब (शराब) ते (और/तो) खा (खा) कबाब (कबाब) , हेठ (नीचे) बाल (बाल) हड्डां (हड्डां) दी (की) अग्ग (अग्नि) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) पी (Beloved) शराब (शराब) ते (and/then) खा (खा) कबाब (roast meat) , हेठ (beneath) बाल (बाल) हड्डां (हड्डां) दी (of) अग्ग (fire) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) पी (प्रियतम/शौह) शराब (प्रेम-मदिरा/शराब) ते (ता (तौबा व पश्चाताप)) खा (खाओ/भोग करो) कबाब (भुना हुआ मांस/दग्ध हृदय) , हेठ (नीचे) बाल (जलाकर/प्रज्वलित कर) हड्डां (हड्डियों) दी (की) अग्ग (अग्नि) ।  
+**English Gloss:** bullhaaa (O Bulleh!) pee (Beloved Lord) sharaab (wine of divine love) te (Te (Repentance)) khaa (eat/consume) kabaab (roasted meat/charred heart) , heth (beneath) baal (igniting/burning) haddaan (bones) di (the) agg (fire) .
 
 **चोरी कर ते भन्न घर रब्ब दा, ओस ठग्गां दे ठग्ग नूं ठग्ग ।**  
-**हिन्दी शब्दार्थ:** चोरी (आत्मिक चोरी) कर (करके) ते (और/तो) भन्न (भन्न) घर (हृदय-घर में) रब्ब (परमात्मा) दा (का) , ओस (ओस) ठग्गां (पाखंडी ठगों ने) दे (के) ठग्ग (ठग/धोखेबाज़) नूं (को) ठग्ग (ठग/धोखेबाज़) ।  
-**English Gloss:** चोरी (spiritual theft) कर (making) ते (and/then) भन्न (भन्न) घर (in the inner home) रब्ब (the Lord) दा (of) , ओस (ओस) ठग्गां (deceivers) दे (of) ठग्ग (thieves/swindlers) नूं (unto) ठग्ग (thieves/swindlers) ।
+**हिन्दी शब्दार्थ:** चोरी (आत्मिक चोरी) कर (करके) ते (ता (तौबा व पश्चाताप)) भन्न (तोड़कर/खंडित कर) घर (आशियाना) रब्ब (परमात्मा ने) दा (द्वारा) , ओस (उस प्रियतम) ठग्गां (पाखंडी ठगों ने) दे (के/पास) ठग्ग (ठग/धोखेबाज़) नूं (को) ठग्ग (ठग/धोखेबाज़) ।  
+**English Gloss:** choree (spiritual theft) kar (doing) te (Te (Repentance)) bhann (breaking/shattering) ghar (home/refuge) rabb (God) da (of) , os (unto Him) thaggaan (deceivers) de (of/unto) thagg (thieves/swindlers) noon (unto) thagg (thieves/swindlers) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1446,12 +1446,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ काज़ी राज़ी रिशवते, मुल्लां राज़ी मौत ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) काज़ी (न्यायाधीश/काज़ी) राज़ी (प्रसन्न होता है) रिशवते (रिश्वत से) , मुल्लां (मुल्ला) राज़ी (प्रसन्न होता है) मौत (मौत) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) काज़ी (judge) राज़ी (is pleased) रिशवते (with bribes) , मुल्लां (mullah) राज़ी (is pleased) मौत (मौत) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) काज़ी (न्यायाधीश/काज़ी) राज़ी (प्रसन्न होता है) रिशवते (रिश्वत से) , मुल्लां (मुल्ला-काज़ी) राज़ी (प्रसन्न होता है) मौत (मृत्यु/अजल) ।  
+**English Gloss:** bullhaaa (O Bulleh!) kaazee (judge) raazee (is pleased) rishavate (with bribes) , mullaan (priests/clerics) raazee (is pleased) maut (death/parting) .
 
 **आशक राज़ी राग ते, ना परतीत घट होत ।**  
-**हिन्दी शब्दार्थ:** आशक (सच्चा प्रेमी) राज़ी (प्रसन्न होता है) राग (दिव्य संगीत/प्रेम) ते (और/तो) , ना (नहीं) परतीत (परतीत) घट (हृदय/अंतःकरण) होत (होत) ।  
-**English Gloss:** आशक (true lover) राज़ी (is pleased) राग (divine music) ते (and/then) , ना (not/nor) परतीत (परतीत) घट (heart/inner being) होत (होत) ।
+**हिन्दी शब्दार्थ:** आशक (सच्चा प्रेमी) राज़ी (प्रसन्न होता है) राग (दिव्य संगीत/प्रेम) ते (ता (तौबा व पश्चाताप)) , ना (नहीं) परतीत (प्रतीति/विश्वास) घट (हृदय/अंतःकरण) होत (दुखों से) ।  
+**English Gloss:** aashak (true lover) raazee (is pleased) raag (divine music) te (Te (Repentance)) , naa (not/nor) parteet (faith/conviction) ghat (heart/inner being) hot (griefs) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1486,12 +1486,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ रंग महल्लीं जा चड़्हउं, लोकी पुच्छन आखन खैर ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) रंग (रंग-रूप में) महल्लीं (महल्लीं) जा (जब) चड़्हउं (चड़्हउं) , लोकी (लोकी) पुच्छन (पुच्छन) आखन (कहते हैं) खैर (खैर) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) रंग (hue/color) महल्लीं (महल्लीं) जा (when) चड़्हउं (चड़्हउं) , लोकी (लोकी) पुच्छन (पुच्छन) आखन (they say) खैर (खैर) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) रंग (परम आनंद के) महल्लीं (महलों में) जा (जाकर) चड़्हउं (चढ़ूं) , लोकी (संसार के लोग) पुच्छन (पूछना) आखन (कहते हैं) खैर (कल्याण/भिक्षा) ।  
+**English Gloss:** bullhaaa (O Bulleh!) rang (in ecstasy) mahallen (in palaces) ja (going) chadhun (let me ascend) , lokee (worldly people) puchchhan (to ask) aakhan (they say) khair (blessing/alms) .
 
 **असां इह कुझ दुनियां तों वट्ट्या,मूंह काला ते नीले पैर ।**  
-**हिन्दी शब्दार्थ:** असां (हमने/हमें) इह (ये) कुझ (कुछ) दुनियां (संसार के) तों (से) वट्ट्या (वट्ट्या) , मूंह (मुख पर) काला (फ़क़ और कांतिहीन) ते (और/तो) नीले (नीले) पैर (पैर) ।  
-**English Gloss:** असां (we/unto us) इह (these) कुझ (something) दुनियां (world's) तों (by) वट्ट्या (वट्ट्या) , मूंह (upon face) काला (dark/pale) ते (and/then) नीले (नीले) पैर (feet) ।
+**हिन्दी शब्दार्थ:** असां (हमने/हमें) इह (ये) कुझ (कुछ) दुनियां (संसार के) तों (पर) वट्ट्या (प्राप्त किया/बटा) , मूंह (मुंह में) काला (फ़क़ और कांतिहीन) ते (ता (तौबा व पश्चाताप)) नीले (नीले वस्त्र) पैर (चरण/पैर) ।  
+**English Gloss:** asaan (we/unto us) ih (these) kujh (something) duniyaan (world's) ton (upon) vattyaa (earned/twisted) , moonh (in mouth) kaalaa (dark/pale) te (Te (Repentance)) neele (blue garments of mourning) pair (feet/steps) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1526,12 +1526,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ सभ मजाज़ी पौड़ियां, तूं हाल हकीकत वेख ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) सभ (सब/सम्पूर्ण) मजाज़ी (सांसारिक/लौकिक रूपक) पौड़ियां (सीढ़ियां) , तूं (तूने) हाल (बुरा हाल) हकीकत (परम वास्तविकता) वेख (देखो) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) सभ (all) मजाज़ी (metaphorical/worldly) पौड़ियां (rungs of ladder) , तूं (you) हाल (thy condition) हकीकत (ultimate reality) वेख (behold) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) सभ (सब/सम्पूर्ण) मजाज़ी (सांसारिक/लौकिक (मज़ाज़ी)) पौड़ियां (सीढ़ियां) , तूं (तू) हाल (दशा) हकीकत (परम वास्तविकता) वेख (देखो) ।  
+**English Gloss:** bullhaaa (O Bulleh!) sabh (all) majaazee (metaphorical/worldly) paudiyaan (rungs of ladder) , toon (thou) haal (state) hakeekat (ultimate reality) vekh (behold) .
 
 **जो कोई ओथे पहुंच्या चाहे, भुल्ल जाए सलामअलेक ।**  
-**हिन्दी शब्दार्थ:** जो (जो) कोई (कोई) ओथे (वहाँ) पहुंच्या (पहुंच्या) चाहे (चाहता है) , भुल्ल (भूल/भटक) जाए (पुत्र/जन्मे हैं) सलामअलेक (सलामअलेक) ।  
-**English Gloss:** जो (who) कोई (anyone) ओथे (there) पहुंच्या (पहुंच्या) चाहे (wills) , भुल्ल (lost/forgotten) जाए (sons/born of) सलामअलेक (सलामअलेक) ।
+**हिन्दी शब्दार्थ:** जो (जिससे) कोई (कोई भी) ओथे (वहाँ) पहुंच्या (पहुंचा) चाहे (चाहता है) , भुल्ल (भूल) जाए (पुत्र/जन्मे हैं) सलामअलेक (सलाम/शांति की दुआ) ।  
+**English Gloss:** jo (that) koyi (anyone) othe (there) pahunchyaa (arrived) chaahe (wills) , bhull (error) jaae (sons/born of) salaam-alek (peace unto you (salaam)) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1566,12 +1566,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ वारे जाईए उन्हां तों,जेहड़े गल्लीं देन प्रचा ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) वारे (वारे) जाईए (जाएं) उन्हां (उनको) तों (से) , जेहड़े (जेहड़े) गल्लीं (बात (अधिकरण कारक/में)) देन (देन) प्रचा (प्रचा) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) वारे (वारे) जाईए (let us go) उन्हां (them) तों (by) , जेहड़े (जेहड़े) गल्लीं (matter (locative/in)) देन (देन) प्रचा (प्रचा) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) वारे (न्योछावर करे) जाईए (जाएं) उन्हां (उनको) तों (पर) , जेहड़े (जो लोग) गल्लीं (बातों में) देन (देने) प्रचा (विश्वास/प्रीति) ।  
+**English Gloss:** bullhaaa (O Bulleh!) vaare (sacrifices) jaaeee (let us go) unhaan (them) ton (upon) , jehade (those who) galleen (in talks) den (to give) prachaa (loving attachment/faith) .
 
 **सूई सलाई दान करन, ते आहरन लैन छुपा ।**  
-**हिन्दी शब्दार्थ:** सूई (सूई) सलाई (सलाई) दान (दान) करन (जीवन) , ते (और/तो) आहरन (आहरन) लैन (लैन) छुपा (छुपा) ।  
-**English Gloss:** सूई (सूई) सलाई (सलाई) दान (दान) करन (to make) , ते (and/then) आहरन (आहरन) लैन (लैन) छुपा (छुपा) ।
+**हिन्दी शब्दार्थ:** सूई (सुई) सलाई (सलाई/अंजन की सलाई) दान (दान/खैरात) करन (करती हैं) , ते (ता (तौबा व पश्चाताप)) आहरन (निहाई) लैन (लेना) छुपा (छिपाकर) ।  
+**English Gloss:** sooyee (needle) salaaee (kohl needle/stylus) daan (charity/alms) karan (make) , te (Te (Repentance)) aaharan (anvil) lain (to take) chhupaa (concealing/hiding) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1606,12 +1606,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **बुल्ल्हआ वारे जाईए उहनां तों,जेहड़े मारन गप्प सड़प्प ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) वारे (वारे) जाईए (जाएं) उहनां (उनको) तों (से) , जेहड़े (जेहड़े) मारन (शिकार करने/मारने) गप्प (गप्प) सड़प्प (सड़प्प) ।  
-**English Gloss:** बुल्ल्हआ (O Bulleh!) वारे (वारे) जाईए (let us go) उहनां (them) तों (by) , जेहड़े (जेहड़े) मारन (to strike/slay) गप्प (गप्प) सड़प्प (सड़प्प) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हआ (हे बुल्ले शाह!) वारे (न्योछावर करे) जाईए (जाएं) उहनां (उनको) तों (पर) , जेहड़े (जो लोग) मारन (शिकार करने/मारने) गप्प (झूठ/व्यर्थ प्रलाप) सड़प्प (दंश/झपट्टा) ।  
+**English Gloss:** bullhaaa (O Bulleh!) vaare (sacrifices) jaaeee (let us go) uhanaan (them) ton (upon) , jehade (those who) maaran (to strike/slay) gapp (idle chatter/gossip) sadapp (viper's strike/bite) .
 
 **कउडी लभ्भी देन चा , ते बुग़चा घऊ-घप्प ।**  
-**हिन्दी शब्दार्थ:** कउडी (कउडी) लभ्भी (लभ्भी) देन (देन) चा (उठाकर) , ते (और/तो) बुग़चा (कपड़े की बड़ी पोटली जिसमें सामान बांधा जाता है) घऊ (घऊ) - घप्प (घप्प) ।  
-**English Gloss:** कउडी (कउडी) लभ्भी (लभ्भी) देन (देन) चा (conjuring up) , ते (and/then) बुग़चा (bundle of cloth/pack for carrying gear) घऊ (घऊ) - घप्प (घप्प) ।
+**हिन्दी शब्दार्थ:** कउडी (कौड़ी/तुच्छ मूल्य) लभ्भी (मिल गई/प्राप्त हुई) देन (देने) चा (उठाकर) , ते (ता (तौबा व पश्चाताप)) बुग़चा (कपड़े की बड़ी पोटली जिसमें सामान बांधा जाता है) घऊ (घाव/चोट) - घप्प (गंभीर सन्नाटा/घना) ।  
+**English Gloss:** kaudee (worthless cowrie shell) labhbhee (was found/attained) den (to give) chaa (conjuring up) , te (Te (Repentance)) bughachaa (bundle of cloth/pack for carrying gear) ghau (wound/injury) - ghapp (dense darkness/silence) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1648,20 +1648,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **फिरी रुत्त शगूफ्यां वाली, चिड़ियां चुगन नूं आईआं ।**  
-**हिन्दी शब्दार्थ:** फिरी (फिरी) रुत्त (रुत्त) शगूफ्यां (शगूफ्यां) वाली (जैसी) , चिड़ियां (चिड़ियां) चुगन (चुगन) नूं (को) आईआं (लौट आईं) ।  
-**English Gloss:** फिरी (फिरी) रुत्त (रुत्त) शगूफ्यां (शगूफ्यां) वाली (like) , चिड़ियां (चिड़ियां) चुगन (चुगन) नूं (unto) आईआं (returned) ।
+**हिन्दी शब्दार्थ:** फिरी (भटकी/घूमी) रुत्त (ऋतु/मौसम) शगूफ्यां (कलियों/विस्मयों) वाली (जैसी) , चिड़ियां (चिड़ियों ने) चुगन (चुगना) नूं (को) आईआं (आई हैं) ।  
+**English Gloss:** phiree (wandered) rutt (season) shagoofyaan (blossoms/marvels) vaalee (like) , chidiyaan (sparrows/birds) chugan (to glean grain) noon (unto) aaiyaan (have come) .
 
 **इकना नूं जुर्यां लै खाधा, इकना नूं फाहियां लाईआं ।**  
-**हिन्दी शब्दार्थ:** इकना (इकना) नूं (को) जुर्यां (जुर्यां) लै (लो) खाधा (खाधा) , इकना (इकना) नूं (को) फाहियां (फाहियां) लाईआं (लगाई हुई प्रीत) ।  
-**English Gloss:** इकना (इकना) नूं (unto) जुर्यां (जुर्यां) लै (take) खाधा (खाधा) , इकना (इकना) नूं (unto) फाहियां (फाहियां) लाईआं (of bonds formed) ।
+**हिन्दी शब्दार्थ:** इकना (एक को) नूं (को) जुर्यां (जुड़ने पर) लै (ले) खाधा (खाया/भोग किया) , इकना (एक को) नूं (को) फाहियां (फांसियां/बंधन) लाईआं (जोड़ लिए हैं) ।  
+**English Gloss:** ikanaa (some) noon (unto) juryan (upon joining) lai (bringing) khaadhaa (ate/consumed) , ikanaa (some) noon (unto) faahiyaan (snares/nooses) laaiyaan (have bound) .
 
 **इकना नूं आस मुड़न दी आही, इक सीख कबाब चड़्हाईआं ।**  
-**हिन्दी शब्दार्थ:** इकना (इकना) नूं (को) आस (आस) मुड़न (मुड़न) दी (की) आही (आही) , इक (एकाकार/एक) सीख (सीख) कबाब (कबाब) चड़्हाईआं (चड़्हाईआं) ।  
-**English Gloss:** इकना (इकना) नूं (unto) आस (आस) मुड़न (मुड़न) दी (of) आही (आही) , इक (one/united) सीख (सीख) कबाब (roast meat) चड़्हाईआं (चड़्हाईआं) ।
+**हिन्दी शब्दार्थ:** इकना (एक को) नूं (को) आस (आशा) मुड़न (लौटना) दी (की) आही (थी) , इक (एक ही) सीख (शिक्षा/उपदेश) कबाब (भुना हुआ मांस/दग्ध हृदय) चड़्हाईआं (चढ़ाईं) ।  
+**English Gloss:** ikanaa (some) noon (unto) aas (hope) mudan (to return/turn back) di (the) aahee (was) , ik (in one) seekh (counsel/instruction) kabaab (roasted meat/charred heart) chadhaaeeaan (offered/ascended) .
 
 **बुल्ल्हे शाह की वस्स उन्हां दे, उह किसमत मार वसाईआं ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) की (क्या) वस्स (वस्स) उन्हां (उनको) दे (के) , उह (वह) किसमत (किसमत) मार (मारकर) वसाईआं (वसाईआं) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) की (what) वस्स (वस्स) उन्हां (them) दे (of) , उह (he) किसमत (किसमत) मार (striking/killing) वसाईआं (वसाईआं) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) की (क्या) वस्स (वश/नियंत्रण) उन्हां (उनको) दे (के/पास) , उह (उसे) किसमत (प्रारब्ध/भाग्य) मार (मारकर) वसाईआं (बसाईं) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) kee (what) vass (control/sway) unhaan (them) de (of/unto) , uh (him) kismat (destiny/fortune) maar (striking/killing) vasaaeeaan (inhabited/settled) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1700,12 +1700,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **होर ने सभ्भे गलड़ियां, अल्ल्हा अल्ल्हा दी गल्ल ।**  
-**हिन्दी शब्दार्थ:** होर (अन्य) ने (ने) सभ्भे (सभी) गलड़ियां (गलड़ियां) , अल्ल्हा (अल्ल्हा) अल्ल्हा (अल्ल्हा) दी (की) गल्ल (बात) ।  
-**English Gloss:** होर (other) ने (by) सभ्भे (all) गलड़ियां (गलड़ियां) , अल्ल्हा (अल्ल्हा) अल्ल्हा (अल्ल्हा) दी (of) गल्ल (matter) ।
+**हिन्दी शब्दार्थ:** होर (और अधिक) ने (ने (कारक)) सभ्भे (सभी) गलड़ियां (बातों में/प्रलाप में) , अल्ल्हा (अल्लाह/परमेश्वर) अल्ल्हा (अल्लाह/परमेश्वर) दी (की) गल्ल (बात) ।  
+**English Gloss:** hor (further) ne (by (agent marker)) sabhbhe (all) galadiyaan (in idle talk) , allha (God) allha (God) di (the) gall (matter) .
 
 **कुझ रौला पायआ आलमां, कुझ कागज़ पाया झल्ल ।**  
-**हिन्दी शब्दार्थ:** कुझ (कुछ) रौला (हल्ला/विवाद) पायआ (पाया) आलमां (संसार बाहर (बहुवचन/कारक)) , कुझ (कुछ) कागज़ (कागज़) पाया (पाया) झल्ल (झल्ल) ।  
-**English Gloss:** कुझ (something) रौला (quarrel/noise) पायआ (attained) आलमां (universe (pl./obl.)) , कुझ (something) कागज़ (कागज़) पाया (पाया) झल्ल (झल्ल) ।
+**हिन्दी शब्दार्थ:** कुझ (कुछ) रौला (हल्ला/विवाद) पायआ (पाया) आलमां (विद्वानों) , कुझ (कुछ) कागज़ (कागज़/पाती) पाया (प्राप्त किया/पाया) झल्ल (सहन कर) ।  
+**English Gloss:** kujh (something) raulaa (quarrel/noise) paayaaa (attained) aalamaan (scholars) , kujh (something) kaagaz (paper/missive) paayaa (attained/found) jhall (endure) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1740,12 +1740,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **इन को मुक्ख दिखलाए है, जिन सो इस की प्रीत ।**  
-**हिन्दी शब्दार्थ:** इन (इन) को (को) मुक्ख (मुखड़ा) दिखलाए (दिखलाए) है (क्या) , जिन (जिसने) सो (वही) इस (इस) की (क्या) प्रीत (प्रेम) ।  
-**English Gloss:** इन (इन) को (to) मुक्ख (countenance/face) दिखलाए (दिखलाए) है (is) , जिन (who) सो (that) इस (this) की (what) प्रीत (love) ।
+**हिन्दी शब्दार्थ:** इन (इन/इनको) को (को/की ओर) मुक्ख (मुखड़े को) दिखलाए (दिखा दिए) है (है कि) , जिन (जिसने मुझे) सो (वह) इस (इस संसार का) की (क्या) प्रीत (प्रेम) ।  
+**English Gloss:** in (these) ko (unto/to) mukkh (face) dikhlaae (revealed/showed) hai (is) , jin (who) so (that) is (this) kee (what) preet (love) .
 
 **इन को ही मिलता है, वोह जो इस के हैं मीत ।**  
-**हिन्दी शब्दार्थ:** इन (इन) को (को) ही (ही) मिलता (मिलता) है (क्या) , वोह (वोह) जो (जो) इस (इस) के (के) हैं (है) मीत (मीत) ।  
-**English Gloss:** इन (इन) को (to) ही (indeed) मिलता (मिलता) है (is) , वोह (वोह) जो (who) इस (this) के (having) हैं (have) मीत (मीत) ।
+**हिन्दी शब्दार्थ:** इन (इन/इनको) को (को/की ओर) ही (ही (अवधारण)) मिलता (प्राप्त होता है) है (है कि) , वोह (वह) जो (जिससे) इस (इस संसार का) के (करके) हैं (है) मीत (हे सखा/मित्र) ।  
+**English Gloss:** in (these) ko (unto/to) hee (alone/only) miltaa (is obtained/meets) hai (is) , voh (he/that) jo (that) is (this) ke (and) hain (have) meet (O Friend) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1780,12 +1780,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **इस का मुक्ख इक जोत है, घुंघट है संसार ।**  
-**हिन्दी शब्दार्थ:** इस (इस) का (से) मुक्ख (मुखड़ा) इक (एकाकार/एक) जोत (जोत) है (क्या) , घुंघट (मेरा घूँघट) है (क्या) संसार (संसार) ।  
-**English Gloss:** इस (this) का (from) मुक्ख (countenance/face) इक (one/united) जोत (जोत) है (is) , घुंघट (veil) है (is) संसार (संसार) ।
+**हिन्दी शब्दार्थ:** इस (इस संसार का) का (से) मुक्ख (मुखड़े को) इक (एक ही) जोत (दिव्य ज्योति) है (है कि) , घुंघट (मेरा घूँघट) है (है कि) संसार (जगत्) ।  
+**English Gloss:** is (this) kaa (from) mukkh (face) ik (in one) jot (divine light) hai (is) , ghunghat (veil) hai (is) sansaar (world) .
 
 **घुंघट में वोह छुप्प ग्या, मुक्ख पर आंचल डार ।**  
-**हिन्दी शब्दार्थ:** घुंघट (मेरा घूँघट) में (में) वोह (वोह) छुप्प (छुप्प) ग्या (गया) , मुक्ख (मुखड़ा) पर (किन्तु/परन्तु) आंचल (आंचल) डार (डार) ।  
-**English Gloss:** घुंघट (veil) में (ache/anguish) वोह (वोह) छुप्प (छुप्प) ग्या (has gone) , मुक्ख (countenance/face) पर (but/upon) आंचल (आंचल) डार (डार) ।
+**हिन्दी शब्दार्थ:** घुंघट (मेरा घूँघट) में (में/भीतर) वोह (वह) छुप्प (छिपकर) ग्या (छूट गया) , मुक्ख (मुखड़े को) पर (किन्तु/परन्तु) आंचल (दामन/आंचल) डार (पंक्ति/डालकर) ।  
+**English Gloss:** ghunghat (veil) men (in/within) voh (he/that) chhupp (hidden/in secret) gya (vanished) , mukkh (face) par (but/upon) aanchal (hem of veil/skirt) daar (flock/casting) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1820,12 +1820,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **इट्ट खड़िके दुक्कुड़ वज्जे, तत्ता होवे चुल्ल्हा ।**  
-**हिन्दी शब्दार्थ:** इट्ट (इट्ट) खड़िके (खड़िके) दुक्कुड़ (दुक्कुड़) वज्जे (बज रहा है) , तत्ता (तत्ता) होवे (चाहे वह गाय) चुल्ल्हा (चूल्हा) ।  
-**English Gloss:** इट्ट (इट्ट) खड़िके (खड़िके) दुक्कुड़ (दुक्कुड़) वज्जे (plays) , तत्ता (तत्ता) होवे (be it) चुल्ल्हा (cooking hearth) ।
+**हिन्दी शब्दार्थ:** इट्ट (ईंट) खड़िके (खड़ककर/आवाज करके) दुक्कुड़ (कष्ट/दुख) वज्जे (बज रहा है) , तत्ता (तप गया है) होवे (होता रहे) चुल्ल्हा (चूल्हा) ।  
+**English Gloss:** itt (brick) khadike (clinking/rattling) dukkud (pain/tribulation) vajje (plays) , tatta (has heated) hove (occurs) chullhaa (cooking hearth) .
 
 **आवन फ़कीर ते खा खा जावण,राज़ी होवे बुल्ल्हा ।**  
-**हिन्दी शब्दार्थ:** आवन (आवन) फ़कीर (फ़कीर) ते (और/तो) खा (खा) खा (खा) जावण (जावण) , राज़ी (प्रसन्न होता है) होवे (चाहे वह गाय) बुल्ल्हा (बुल्ले शाह) ।  
-**English Gloss:** आवन (आवन) फ़कीर (फ़कीर) ते (and/then) खा (खा) खा (खा) जावण (जावण) , राज़ी (is pleased) होवे (be it) बुल्ल्हा (Bulleh Shah) ।
+**हिन्दी शब्दार्थ:** आवन (आना/आगमन) फ़कीर (दरवेश) ते (ता (तौबा व पश्चाताप)) खा (खाओ/भोग करो) खा (खाओ/भोग करो) जावण (दूर होने) , राज़ी (प्रसन्न होता है) होवे (होता रहे) बुल्ल्हा (हे बुल्ले शाह!) ।  
+**English Gloss:** aavan (arrival/coming) fakeer (dervish/mystic) te (Te (Repentance)) khaa (eat/consume) khaa (eat/consume) jaavan (flee) , raazee (is pleased) hove (occurs) bullhaa (O Bulleh!) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1860,12 +1860,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **कनक कौडी कामनी, तीनों ही तलवार ।**  
-**हिन्दी शब्दार्थ:** कनक (अन्न/गेहूं/सोना) कौडी (कौड़ी/धन) कामनी (कामिनी/वासना) , तीनों (तीनों) ही (ही) तलवार (तलवार) ।  
-**English Gloss:** कनक (grain/gold) कौडी (coin/wealth) कामनी (lust/sensuality) , तीनों (तीनों) ही (indeed) तलवार (fatal sword) ।
+**हिन्दी शब्दार्थ:** कनक (अन्न/गेहूं/सोना) कौडी (कौड़ी/धन) कामनी (कामिनी/वासना) , तीनों (तीनों लोक/गुण) ही (ही (अवधारण)) तलवार (शमशीर/तलवार) ।  
+**English Gloss:** kanak (grain/gold) kaudee (coin/wealth) kaamanee (lust/sensuality) , teenon (all three) hee (alone/only) talvaar (sword/blade of Truth) .
 
 **आया सैं जिस बात को, भूल गई वोह बात ।**  
-**हिन्दी शब्दार्थ:** आया (आया) सैं (सैं) जिस (जिस) बात (बात ही) को (को) , भूल (भूल) गई (गई) वोह (वोह) बात (बात ही) ।  
-**English Gloss:** आया (came) सैं (सैं) जिस (which) बात (matter) को (to) , भूल (भूल) गई (did) वोह (वोह) बात (matter) ।
+**हिन्दी शब्दार्थ:** आया (आ गया है) सैं (सैकड़ों) जिस (जिसके विरह में) बात (कथन) को (को/की ओर) , भूल (त्रुटि/भ्रम) गई (गई अपनी) वोह (वह) बात (कथन) ।  
+**English Gloss:** aaya (has gripped) sain (hundreds) jis (for whom) baat (word/matter) ko (unto/to) , bhool (error/forgetfulness) gayi (became) voh (he/that) baat (word/matter) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1900,12 +1900,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **मूंह दिखलावे और छपे, छल बल है जग देस ।**  
-**हिन्दी शब्दार्थ:** मूंह (मुख पर) दिखलावे (दिखाएगा) और (और) छपे (छपे) , छल (छल) बल (न्योछावर/बलिहारी) है (क्या) जग (संसार) देस (देस) ।  
-**English Gloss:** मूंह (upon face) दिखलावे (shows) और (और) छपे (छपे) , छल (छल) बल (sacrificed) है (is) जग (world's) देस (देस) ।
+**हिन्दी शब्दार्थ:** मूंह (मुंह में) दिखलावे (दिखाएगा) और (और/भिन्न) छपे (छिप जाए) , छल (कपट/माया-छल) बल (न्योछावर/बलिहारी) है (है कि) जग (संसार) देस (देश/वतन) ।  
+**English Gloss:** moonh (in mouth) dikhalaave (shows) aur (other/different) chhape (gets concealed) , chhal (deception/illusion) bal (sacrificed) hai (is) jag (world's) des (homeland/realm) .
 
 **पास रहे और ना मिले, इस के बिसवे भेस ।**  
-**हिन्दी शब्दार्थ:** पास (पास ही/भीतर) रहे (अटक कर रह गए) और (और) ना (नहीं) मिले (मुझे प्राप्त हो) , इस (इस) के (के) बिसवे (बिसवे) भेस (भेस) ।  
-**English Gloss:** पास (near/within) रहे (halted) और (और) ना (not/nor) मिले (to obtain) , इस (this) के (having) बिसवे (बिसवे) भेस (भेस) ।
+**हिन्दी शब्दार्थ:** पास (समीप) रहे (रहे हैं पर) और (और/भिन्न) ना (नहीं) मिले (मुझे प्राप्त हो) , इस (इस संसार का) के (करके) बिसवे (विश्वे (भूमि माप)/संदेह) भेस (वेष/स्वांग) ।  
+**English Gloss:** paas (near) rahe (remain) aur (other/different) naa (not/nor) mile (to obtain) , is (this) ke (and) bisve (fraction of land/measures) bhes (disguise/garb) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1940,12 +1940,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **ना ख़ुदा मसीते लभदा, ना ख़ुदा विच काअबे ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) मसीते (मसीते) लभदा (मिलता है) , ना (नहीं) ख़ुदा (परमात्मा) विच (में/भीतर) काअबे (काअबे) ।  
-**English Gloss:** ना (not/nor) ख़ुदा (God) मसीते (मसीते) लभदा (is found) , ना (not/nor) ख़ुदा (God) विच (within/in) काअबे (काअबे) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) मसीते (मस्जिद में) लभदा (मिलता है) , ना (नहीं) ख़ुदा (परमात्मा) विच (में/भीतर) काअबे (काबा के/तीर्थ के) ।  
+**English Gloss:** naa (not/nor) khudaa (God) maseete (in the mosque) labhadaa (is found) , naa (not/nor) khudaa (God) vich (within/in) kaabe (unto the Holy Kaaba) .
 
 **ना ख़ुदा कुरान किताबां, ना ख़ुदा नमाज़े ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) कुरान (पवित्र क़ुरआन) किताबां (और धर्मग्रंथों में) , ना (नहीं) ख़ुदा (परमात्मा) नमाज़े (नमाज़े) ।  
-**English Gloss:** ना (not/nor) ख़ुदा (God) कुरान (Holy Quran) किताबां (holy scriptures) , ना (not/nor) ख़ुदा (God) नमाज़े (नमाज़े) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) कुरान (पवित्र क़ुरआन) किताबां (और धर्मग्रंथों में) , ना (नहीं) ख़ुदा (परमात्मा) नमाज़े (नमाज़ में) ।  
+**English Gloss:** naa (not/nor) khudaa (God) kuraan (Holy Quran) kitaabaan (holy scriptures) , naa (not/nor) khudaa (God) namaaze (in ritual prayer) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -1980,12 +1980,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **ना ख़ुदा मैं तीरथ डिट्ठा, ऐवें पैंडे झागे ।**  
-**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) मैं (मैंने) तीरथ (तीर्थों के) डिट्ठा (देखा) , ऐवें (व्यर्थ/यूँ ही) पैंडे (पैंडे) झागे (झागे) ।  
-**English Gloss:** ना (not/nor) ख़ुदा (God) मैं (I) तीरथ (to shrines) डिट्ठा (saw/beheld) , ऐवें (in vain) पैंडे (पैंडे) झागे (झागे) ।
+**हिन्दी शब्दार्थ:** ना (नहीं) ख़ुदा (परमात्मा) मैं (मैंने) तीरथ (तीर्थ) डिट्ठा (देखा) , ऐवें (व्यर्थ/यूँ ही) पैंडे (रास्ते/मार्ग) झागे (पार करे/झेले) ।  
+**English Gloss:** naa (not/nor) khudaa (God) main (I) teerath (pilgrimage shrine) ditthaa (saw/beheld) , aiven (in vain) painde (travel paths/journeys) jhaage (wades through/endures) .
 
 **बुल्ल्हा शहु जद मुरशद मिल ग्या, टुट्टे सभ तगादे ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हा (बुल्ले शाह) शहु (स्वामी/प्रियतम (परमात्मा)) जद (जब) मुरशद (सद्गुरु/मार्गदर्शक) मिल (मिलो) ग्या (गया) , टुट्टे (टुट्टे) सभ (सब/सम्पूर्ण) तगादे (तगादे) ।  
-**English Gloss:** बुल्ल्हा (Bulleh Shah) शहु (Beloved Lord) जद (when) मुरशद (spiritual guide/Master) मिल (meet) ग्या (has gone) , टुट्टे (टुट्टे) सभ (all) तगादे (तगादे) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हा (हे बुल्ले शाह!) शहु (स्वामी/प्रियतम (परमात्मा)) जद (जब) मुरशद (सद्गुरु/मार्गदर्शक) मिल (मिलो) ग्या (छूट गया) , टुट्टे (टूटे हुए) सभ (सब/सम्पूर्ण) तगादे (तकाज़े/ऋण की मांग) ।  
+**English Gloss:** bullhaa (O Bulleh!) shahu (Beloved Lord) jad (when) murashad (spiritual guide/Master) mil (meet) gya (vanished) , tutte (broken/shattered) sabh (all) tagaade (demands for payment) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2020,12 +2020,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **रंघड़ नालों खिंघर चंगा, जिस पर पैर घसाईदा ।**  
-**हिन्दी शब्दार्थ:** रंघड़ (अहंकारी स्वभाव) नालों (से/अपेक्षा) खिंघर (खिंघर) चंगा (चंगा) , जिस (जिस) पर (किन्तु/परन्तु) पैर (पैर) घसाईदा (घिसते हो) ।  
-**English Gloss:** रंघड़ (inner unruly tyrant) नालों (than) खिंघर (खिंघर) चंगा (चंगा) , जिस (which) पर (but/upon) पैर (feet) घसाईदा (is rubbed) ।
+**हिन्दी शब्दार्थ:** रंघड़ (अहंकारी स्वभाव) नालों (से/अपेक्षा) खिंघर (कंकड़/ईंट का टुकड़ा) चंगा (उत्तम/भला) , जिस (जिसके विरह में) पर (किन्तु/परन्तु) पैर (चरण/पैर) घसाईदा (घिसते हो) ।  
+**English Gloss:** ranghad (inner unruly tyrant) naalon (than) khinghar (burnt brick fragment) changaa (good/wholesome) , jis (for whom) par (but/upon) pair (feet/steps) ghasaaeedaa (is rubbed) .
 
 **बुल्ल्हा शहु नूं सोई पावे , जो बक्करा बने कसाई दा ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हा (बुल्ले शाह) शहु (स्वामी/प्रियतम (परमात्मा)) नूं (को) सोई (वही है) पावे (पाए) , जो (जो) बक्करा (बक्करा) बने (बने) कसाई (कसाई) दा (का) ।  
-**English Gloss:** बुल्ल्हा (Bulleh Shah) शहु (Beloved Lord) नूं (unto) सोई (is he) पावे (attains) , जो (who) बक्करा (बक्करा) बने (बने) कसाई (कसाई) दा (of) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हा (हे बुल्ले शाह!) शहु (स्वामी/प्रियतम (परमात्मा)) नूं (को) सोई (वही है) पावे (पाए) , जो (जिससे) बक्करा (बकरा/बलि-पशु) बने (बने/हो जाए) कसाई (कसाई/वध करने वाला) दा (द्वारा) ।  
+**English Gloss:** bullhaa (O Bulleh!) shahu (Beloved Lord) noon (unto) soee (is he) paave (attains) , jo (that) bakkraa (he-goat for sacrifice) bane (becomes) kasaayee (butcher/slaughterer) da (of) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2060,12 +2060,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **ठाकुर दुआरे ठग्ग बसें, भाई दवार मसीत ।**  
-**हिन्दी शब्दार्थ:** ठाकुर (ठाकुरद्वारा/मंदिर) दुआरे (दुआरे) ठग्ग (ठग/धोखेबाज़) बसें (बसें) , भाई (भाई) दवार (द्वार/दशम द्वार) मसीत (मस्जिद) ।  
-**English Gloss:** ठाकुर (temple) दुआरे (दुआरे) ठग्ग (thieves/swindlers) बसें (बसें) , भाई (brother) दवार (portal/Tenth Gate) मसीत (mosque) ।
+**हिन्दी शब्दार्थ:** ठाकुर (ठाकुरद्वारा/मंदिर) दुआरे (द्वार पर) ठग्ग (ठग/धोखेबाज़) बसें (तू बसे/रहे) , भाई (भ्राता/भाई) दवार (द्वार/दशम द्वार) मसीत (मस्जिद) ।  
+**English Gloss:** thaakur (temple) duaare (at the holy threshold) thagg (thieves/swindlers) basen (thou dwellest) , bhaaee (brother) davaar (portal/Tenth Gate) maseet (mosque) .
 
 **हरि के दवारे भिक्ख बसें, हमरी इह परतीत ।**  
-**हिन्दी शब्दार्थ:** हरि (हरि/परमात्मा के) के (के) दवारे (दवारे) भिक्ख (भिक्ख) बसें (बसें) , हमरी (हमारी) इह (ये) परतीत (परतीत) ।  
-**English Gloss:** हरि (in the Divine) के (having) दवारे (दवारे) भिक्ख (भिक्ख) बसें (बसें) , हमरी (our) इह (these) परतीत (परतीत) ।
+**हिन्दी शब्दार्थ:** हरि (प्रभु) के (करके) दवारे (द्वार पर) भिक्ख (भिक्षा/दान) बसें (तू बसे/रहे) , हमरी (हमारी) इह (ये) परतीत (प्रतीति/विश्वास) ।  
+**English Gloss:** hari (the Lord) ke (and) davaare (at the holy portal) bhikkh (alms/charity) basen (thou dwellest) , hamaree (our) ih (these) parteet (faith/conviction) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2100,12 +2100,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **उह हादी मेरे अन्दर बोल्या, रुड़्ह पुड़्ह गए गुनाहां ।**  
-**हिन्दी शब्दार्थ:** उह (वह) हादी (सद्गुरु/मार्गदर्शक) मेरे (मेरे) अन्दर (भीतर/अंतर्मन में) बोल्या (बोल्या) , रुड़्ह (रुड़्ह) पुड़्ह (पुड़्ह) गए (पहुँच गए) गुनाहां (गुनाहां) ।  
-**English Gloss:** उह (he) हादी (true guide) मेरे (my) अन्दर (within/inwardly) बोल्या (बोल्या) , रुड़्ह (रुड़्ह) पुड़्ह (पुड़्ह) गए (went) गुनाहां (गुनाहां) ।
+**हिन्दी शब्दार्थ:** उह (उसे) हादी (सद्गुरु/मार्गदर्शक) मेरे (पर मेरे) अन्दर (भीतर) बोल्या (बोला) , रुड़्ह (बहकर) पुड़्ह (चक्की का पाट) गए (बीतते) गुनाहां (पापों/अपराधों) ।  
+**English Gloss:** uh (him) haadee (true guide) mere (my) andar (within) bolyaa (spoke/uttered) , rudh (swept away in flood) pudh (millstone) gaye (went) gunaahaan (sins/transgressions) .
 
 **पहाड़ीं लग्गा बाजरा, शहतूत लग्गे फरवाहां ।**  
-**हिन्दी शब्दार्थ:** पहाड़ीं (पहाड़ीं) लग्गा (लग्गा) बाजरा (बाजरे की फसल) , शहतूत (शहतूत का फल) लग्गे (यह चोट लगती है) फरवाहां (फरवाहां) ।  
-**English Gloss:** पहाड़ीं (पहाड़ीं) लग्गा (लग्गा) बाजरा (millet harvest) , शहतूत (mulberry) लग्गे (that body alone knows) फरवाहां (फरवाहां) ।
+**हिन्दी शब्दार्थ:** पहाड़ीं (पहाड़ों में) लग्गा (लगा) बाजरा (बाजरे का अन्न) , शहतूत (शहतूत का फल) लग्गे (लगे) फरवाहां (स्वच्छंद/मुक्त) ।  
+**English Gloss:** pahaadeen (in the mountains) laggaa (struck/ignited) baajraa (millet grain) , shahtoot (mulberry fruit) lagge (began) farvaahaan (carefree/unbound) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2140,12 +2140,12 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **वहदत दे दर्या दसेंदे, मेरी वहदत कित वल धाई।**  
-**हिन्दी शब्दार्थ:** वहदत (अद्वैत (एकेश्वरवाद)) दे (के) दर्या (दर्या) दसेंदे (दसेंदे) , मेरी (मेरी) वहदत (अद्वैत (एकेश्वरवाद)) कित (किस) वल (ओर) धाई (दौड़ी) ।  
-**English Gloss:** वहदत (divine oneness) दे (of) दर्या (दर्या) दसेंदे (दसेंदे) , मेरी (of mine) वहदत (divine oneness) कित (which) वल (towards) धाई (rushed) ।
+**हिन्दी शब्दार्थ:** वहदत (अद्वैत (एकेश्वरवाद)) दे (के/पास) दर्या (नदी/दरिया) दसेंदे (बताते हैं) , मेरी (मेरी जीवन-) वहदत (अद्वैत (एकेश्वरवाद)) कित (किस) वल (ओर) धाई (दौड़ी) ।  
+**English Gloss:** vahadat (divine oneness) de (of/unto) daryaa (river/sea of love) dasende (they disclose/tell) , meri (my life's) vahadat (divine oneness) kit (which) vall (toward) dhaaee (rushed) .
 
 **मुरशद कामिल पार लंघायआ , बाझ तुल्हे सरनाही ।**  
-**हिन्दी शब्दार्थ:** मुरशद (सद्गुरु/मार्गदर्शक) कामिल (पूर्ण) पार (उस पार) लंघायआ (लंघायआ) , बाझ (बिना) तुल्हे (नाव/नावड़ा) सरनाही (तैरने की मशक) ।  
-**English Gloss:** मुरशद (spiritual guide/Master) कामिल (perfect) पार (across/beyond) लंघायआ (लंघायआ) , बाझ (without) तुल्हे (wooden raft) सरनाही (swimming skin) ।
+**हिन्दी शब्दार्थ:** मुरशद (सद्गुरु/मार्गदर्शक) कामिल (पूर्ण) पार (भवसागर पार) लंघायआ (पार कराया) , बाझ (बिना) तुल्हे (नाव/नावड़ा) सरनाही (तैरने की मशक) ।  
+**English Gloss:** murashad (spiritual guide/Master) kaamil (perfect) paar (across shore) langhaayaa (ferried across) , baajh (without) tulhe (wooden raft) saranaahee (swimming skin) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2186,36 +2186,36 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **पढ़ पढ़ आलिम फ़ाज़िल होइओं,**  
-**हिन्दी शब्दार्थ:** पढ़ (पढ़ो और आचरण करो) पढ़ (पढ़ो और आचरण करो) आलिम (आलिम) फ़ाज़िल (फ़ाज़िल) होइओं (होइओं) ,  
-**English Gloss:** पढ़ (recite/heed) पढ़ (recite/heed) आलिम (आलिम) फ़ाज़िल (फ़ाज़िल) होइओं (होइओं) ,
+**हिन्दी शब्दार्थ:** पढ़ (पढ़ो और आचरण करो) पढ़ (पढ़ो और आचरण करो) आलिम (विद्वान) फ़ाज़िल (विद्वान/ज्ञानी) होइओं (हो गया) ,  
+**English Gloss:** padh (recite/heed) padh (recite/heed) aalim (learned scholar) faazil (eminent scholar) hoion (became) ,
 
 **कदे अपने आप नूं पढ़आई नहीं।**  
-**हिन्दी शब्दार्थ:** कदे (कदे) अपने (अपने) आप (स्वयं को) नूं (को) पढ़आई (पढ़आई) नहीं (नहीं है) ।  
-**English Gloss:** कदे (कदे) अपने (अपने) आप (yourself) नूं (unto) पढ़आई (पढ़आई) नहीं (not) ।
+**हिन्दी शब्दार्थ:** कदे (कभी/कदाचित) अपने (अपने/स्वयं के) आप (अहंकार/अस्तित्व) नूं (को) पढ़आई (शिक्षा/पढ़ाई) नहीं (नहीं है) ।  
+**English Gloss:** kade (ever/sometimes) apne (one's own) aap (selfhood/ego) noon (unto) padhaaee (study/learning) naheen (not) .
 
 **जा जा वड़दा एं मन्दिर मसीतीं,**  
-**हिन्दी शब्दार्थ:** जा (जब) जा (जब) वड़दा (प्रवेश करता) एं (है) मन्दिर (मन्दिर) मसीतीं (मस्जिद (अधिकरण कारक/में)) ,  
-**English Gloss:** जा (when) जा (when) वड़दा (enters) एं (you) मन्दिर (मन्दिर) मसीतीं (mosque (locative/in)) ,
+**हिन्दी शब्दार्थ:** जा (जाकर) जा (जाकर) वड़दा (प्रवेश करता) एं (है) मन्दिर (देवालय/हृदय-मंदिर) मसीतीं (मस्जिदों में) ,  
+**English Gloss:** ja (going) ja (going) vadadaa (enters) en (you) mandir (temple/sacred heart) maseeteen (in mosques) ,
 
 **कदे मन अपने विच वड़्याई नहीं ।**  
-**हिन्दी शब्दार्थ:** कदे (कदे) मन (मन के) अपने (अपने) विच (में/भीतर) वड़्याई (वड़्याई) नहीं (नहीं है) ।  
-**English Gloss:** कदे (कदे) मन (of mind) अपने (अपने) विच (within/in) वड़्याई (वड़्याई) नहीं (not) ।
+**हिन्दी शब्दार्थ:** कदे (कभी/कदाचित) मन (चित्त) अपने (अपने/स्वयं के) विच (में/भीतर) वड़्याई (प्रशंसा/बड़ाई) नहीं (नहीं है) ।  
+**English Gloss:** kade (ever/sometimes) man (mind/heart) apne (one's own) vich (within/in) vadyaaee (glory/praise) naheen (not) .
 
 **ऐवें रोज़ शैतान नाल लड़नै,**  
-**हिन्दी शब्दार्थ:** ऐवें (व्यर्थ/यूँ ही) रोज़ (दिन) शैतान (शैतान) नाल (साथ) लड़नै (लड़नै) ,  
-**English Gloss:** ऐवें (in vain) रोज़ (day) शैतान (शैतान) नाल (with) लड़नै (लड़नै) ,
+**हिन्दी शब्दार्थ:** ऐवें (व्यर्थ/यूँ ही) रोज़ (दिवस) शैतान (इबलीस/शैतान) नाल (साथ) लड़नै (लड़ना) ,  
+**English Gloss:** aiven (in vain) roz (on Day of) shaitaan (Satan/evil tempter) naal (with) ladnai (to fight/struggle) ,
 
 **कदे नफ़स अपने नाल लड़्याई नहीं ।**  
-**हिन्दी शब्दार्थ:** कदे (कदे) नफ़स (इंद्रिय-अहंकार (नफ़्स)) अपने (अपने) नाल (साथ) लड़्याई (लड़्याई) नहीं (नहीं है) ।  
-**English Gloss:** कदे (कदे) नफ़स (lower ego) अपने (अपने) नाल (with) लड़्याई (लड़्याई) नहीं (not) ।
+**हिन्दी शब्दार्थ:** कदे (कभी/कदाचित) नफ़स (इंद्रिय-अहंकार (नफ़्स)) अपने (अपने/स्वयं के) नाल (साथ) लड़्याई (लड़ाई/झगड़ा) नहीं (नहीं है) ।  
+**English Gloss:** kade (ever/sometimes) nafas (lower ego) apne (one's own) naal (with) ladyaaee (strife/quarrel) naheen (not) .
 
 **बुल्ल्हे शाह असमानीं उडदियां फड़नै,**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) असमानीं (आकाश में) उडदियां (उडदियां) फड़नै (फड़नै) ,  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) असमानीं (in the skies) उडदियां (उडदियां) फड़नै (फड़नै) ,
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) असमानीं (आकाश में) उडदियां (उड़ती हुई) फड़नै (पकड़ना) ,  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) asamaaneen (in the skies) udadiyaan (flying) phadnai (to seize/grasp) ,
 
 **जेहड़ा घर बैठा उहनूं फड़्याई नहीं ।**  
-**हिन्दी शब्दार्थ:** जेहड़ा (जो कोई) घर (हृदय-घर में) बैठा (बैठा) उहनूं (उसको) फड़्याई (फड़्याई) नहीं (नहीं है) ।  
-**English Gloss:** जेहड़ा (whoever) घर (in the inner home) बैठा (बैठा) उहनूं (unto him) फड़्याई (फड़्याई) नहीं (not) ।
+**हिन्दी शब्दार्थ:** जेहड़ा (जो कोई) घर (आशियाना) बैठा (बैठा हुआ) उहनूं (उसको) फड़्याई (पकड़ ली गई) नहीं (नहीं है) ।  
+**English Gloss:** jehadaa (whoever) ghar (home/refuge) baithaa (seated) uhanoon (unto him) phadyaaee (was seized) naheen (not) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2256,20 +2256,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **रब्ब रब्ब करदे बुढ्ढे हो गए मुल्लां पंडित सारे ।**  
-**हिन्दी शब्दार्थ:** रब्ब (परमात्मा) रब्ब (परमात्मा) करदे (करते हैं) बुढ्ढे (बुढ्ढे) हो (हो) गए (पहुँच गए) मुल्लां (मुल्ला) पंडित (पंडित) सारे (सारे) ।  
-**English Gloss:** रब्ब (the Lord) रब्ब (the Lord) करदे (make) बुढ्ढे (बुढ्ढे) हो (do) गए (went) मुल्लां (mullah) पंडित (पंडित) सारे (सारे) ।
+**हिन्दी शब्दार्थ:** रब्ब (परमात्मा ने) रब्ब (परमात्मा ने) करदे (करते हैं) बुढ्ढे (वृद्ध जन) हो (होकर) गए (बीतते) मुल्लां (मुल्ला-काज़ी) पंडित (पंडित/शास्त्रज्ञ) सारे (समस्त) ।  
+**English Gloss:** rabb (God) rabb (God) karade (make) buddh-dhe (aged ones/elders) ho (becoming) gaye (went) mullaan (priests/clerics) pandit (learned scholar/priest) saare (all through) .
 
 **रब्ब दा खोज खुरा ना लभ्भा अते सज्जदे कर कर हारे ।**  
-**हिन्दी शब्दार्थ:** रब्ब (परमात्मा) दा (का) खोज (खोज) खुरा (खुरा) ना (नहीं) लभ्भा (मिला) अते (और) सज्जदे (सज्जदे) कर (करके) कर (करके) हारे (थके-हारे साधक) ।  
-**English Gloss:** रब्ब (the Lord) दा (of) खोज (खोज) खुरा (खुरा) ना (not/nor) लभ्भा (was found) अते (and) सज्जदे (सज्जदे) कर (making) कर (making) हारे (exhausted) ।
+**हिन्दी शब्दार्थ:** रब्ब (परमात्मा ने) दा (द्वारा) खोज (अनुसंधान/खोज) खुरा (पदचिह्न/सुराग) ना (नहीं) लभ्भा (मिला) अते (और) सज्जदे (सजदे में) कर (करके) कर (करके) हारे (थके-हारे साधक) ।  
+**English Gloss:** rabb (God) da (of) khoj (search/quest) khuraa (footprint/trace) naa (not/nor) labhbhaa (was found) ate (and) sajjade (in prostration) kar (doing) kar (doing) haare (exhausted) .
 
 **रब्ब ते तेरे अन्दर वस्सदा इहदे विच कुरान इशारे ।**  
-**हिन्दी शब्दार्थ:** रब्ब (परमात्मा) ते (और/तो) तेरे (तुझमें) अन्दर (भीतर/अंतर्मन में) वस्सदा (बसता है) इहदे (इसके) विच (में/भीतर) कुरान (पवित्र क़ुरआन) इशारे (संकेत/अनुभूति) ।  
-**English Gloss:** रब्ब (the Lord) ते (and/then) तेरे (in you) अन्दर (within/inwardly) वस्सदा (resides) इहदे (of this) विच (within/in) कुरान (Holy Quran) इशारे (of subtle hint) ।
+**हिन्दी शब्दार्थ:** रब्ब (परमात्मा ने) ते (ता (तौबा व पश्चाताप)) तेरे (तेरे विरह के) अन्दर (भीतर) वस्सदा (बसता है) इहदे (इसके) विच (में/भीतर) कुरान (पवित्र क़ुरआन) इशारे (संकेत) ।  
+**English Gloss:** rabb (God) te (Te (Repentance)) tere (in Your) andar (within) vassadaa (resides) ihade (of this) vich (within/in) kuraan (Holy Quran) ishaare (signs/hints) .
 
 **बुल्ल्हे शाह रब्ब उहनूं मिलदा जेहड़ा यार तों तन मन वारे ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) रब्ब (परमात्मा) उहनूं (उसको) मिलदा (मिलेगा) जेहड़ा (जो कोई) यार (सखा/प्रियतम) तों (से) तन (शरीर/मन पर) मन (मन के) वारे (वारे) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) रब्ब (the Lord) उहनूं (unto him) मिलदा (shall be allowed) जेहड़ा (whoever) यार (Friend/Beloved) तों (by) तन (body) मन (of mind) वारे (वारे) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) रब्ब (परमात्मा ने) उहनूं (उसको) मिलदा (मिलेगा) जेहड़ा (जो कोई) यार (सखा/प्रियतम) तों (पर) तन (शरीर के) मन (चित्त) वारे (न्योछावर करे) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) rabb (God) uhanoon (unto him) miladaa (shall be allowed) jehadaa (whoever) yaar (Friend/Beloved) ton (upon) tan (body) man (mind/heart) vaare (sacrifices) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2310,20 +2310,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **तूं वार दे हर शै यार अपने तों जे जित्तनी इशक दी बाज़ी ।**  
-**हिन्दी शब्दार्थ:** तूं (तूने) वार (वार) दे (के) हर (भगवान/हरि) शै (शै) यार (सखा/प्रियतम) अपने (अपने) तों (से) जे (यदि) जित्तनी (जित्तनी) इशक (दिव्य प्रेम (इश्क)) दी (की) बाज़ी (लीला/खेल) ।  
-**English Gloss:** तूं (you) वार (वार) दे (of) हर (Lord Hari/God) शै (शै) यार (Friend/Beloved) अपने (अपने) तों (by) जे (if) जित्तनी (जित्तनी) इशक (Divine Love) दी (of) बाज़ी (mystic game) ।
+**हिन्दी शब्दार्थ:** तूं (तू) वार (न्योछावर) दे (के/पास) हर (भगवान/हरि) शै (वस्तु/चीज़) यार (सखा/प्रियतम) अपने (अपने/स्वयं के) तों (पर) जे (यदि) जित्तनी (जितनी) इशक (दिव्य प्रेम (इश्क)) दी (की) बाज़ी (लीला/खेल) ।  
+**English Gloss:** toon (thou) vaar (sacrifice) de (of/unto) har (Lord Hari/God) shai (thing/substance) yaar (Friend/Beloved) apne (one's own) ton (upon) je (if) jittnee (as much as) ishak (Divine Love) di (the) baazee (mystic game) .
 
 **यार दे नां दी तूं नीत खलो जा तैनूं आखन इशक नमाज़ी ।**  
-**हिन्दी शब्दार्थ:** यार (सखा/प्रियतम) दे (के) नां (नां) दी (की) तूं (तूने) नीत (नीत) खलो (खलो) जा (जब) तैनूं (तुझे) आखन (कहते हैं) इशक (दिव्य प्रेम (इश्क)) नमाज़ी (नमाज़ी) ।  
-**English Gloss:** यार (Friend/Beloved) दे (of) नां (नां) दी (of) तूं (you) नीत (नीत) खलो (खलो) जा (when) तैनूं (unto thee) आखन (they say) इशक (Divine Love) नमाज़ी (नमाज़ी) ।
+**हिन्दी शब्दार्थ:** यार (सखा/प्रियतम) दे (के/पास) नां (नाम) दी (की) तूं (तू) नीत (नियत/संकल्प) खलो (खड़े हो जाओ) जा (जाकर) तैनूं (तुझे) आखन (कहते हैं) इशक (दिव्य प्रेम (इश्क)) नमाज़ी (नमाज़ी/धर्माचारी) ।  
+**English Gloss:** yaar (Friend/Beloved) de (of/unto) naan (holy name) di (the) toon (thou) neet (intention/resolve) khalo (stand/halt) ja (going) tainoon (unto thee) aakhan (they say) ishak (Divine Love) namaazee (one performing ritual prayers) .
 
 **तेरा यार कहे जे तूं घुंगरू पा लै भावें फ़तवे लावे काज़ी ।**  
-**हिन्दी शब्दार्थ:** तेरा (तेरा) यार (सखा/प्रियतम) कहे (कहे) जे (यदि) तूं (तूने) घुंगरू (घुंघरू) पा (बड़ा भारी) लै (लो) भावें (चाहे) फ़तवे (फ़तवे) लावे (लगा लें) काज़ी (न्यायाधीश/काज़ी) ।  
-**English Gloss:** तेरा (your) यार (Friend/Beloved) कहे (कहे) जे (if) तूं (you) घुंगरू (ankle bells) पा (broad mark) लै (take) भावें (whether) फ़तवे (फ़तवे) लावे (may embrace) काज़ी (judge) ।
+**हिन्दी शब्दार्थ:** तेरा (तेरा/तुम्हारा) यार (सखा/प्रियतम) कहे (जो कुछ कहे) जे (यदि) तूं (तू) घुंगरू (घुंघरू) पा (बड़ा भारी) लै (ले) भावें (चाहे शय्या पर) फ़तवे (धर्म-निर्णय/आदेश) लावे (लगा लें) काज़ी (न्यायाधीश/काज़ी) ।  
+**English Gloss:** teraa (thy/thine) yaar (Friend/Beloved) kahe (says what it may) je (if) toon (thou) ghungaroo (ankle bells) paa (broad mark) lai (bringing) bhaaven (even if on bed) fatve (orthodox edicts/decrees) laave (may embrace) kaazee (judge) .
 
 **बुल्ल्हे शाह जग्ग रुसदा रुस्स जावे पर असां यार नूं रक्खना एं राज़ी ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) जग्ग (संसार) रुसदा (रुसदा) रुस्स (रुस्स) जावे (जाता) पर (किन्तु/परन्तु) असां (हमने/हमें) यार (सखा/प्रियतम) नूं (को) रक्खना (रक्खना) एं (है) राज़ी (प्रसन्न होता है) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) जग्ग (world) रुसदा (रुसदा) रुस्स (रुस्स) जावे (can be) पर (but/upon) असां (we/unto us) यार (Friend/Beloved) नूं (unto) रक्खना (रक्खना) एं (you) राज़ी (is pleased) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) जग्ग (संसार) रुसदा (रूठता है) रुस्स (रूठकर) जावे (जाता) पर (किन्तु/परन्तु) असां (हमने/हमें) यार (सखा/प्रियतम) नूं (को) रक्खना (रखना/संभालना) एं (है) राज़ी (प्रसन्न होता है) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) jagg (world) rusdaa (becomes sulky/estranged) russ (being displeased) jaave (can be) par (but/upon) asaan (we/unto us) yaar (Friend/Beloved) noon (unto) rakkhnaa (to keep/protect) en (you) raazee (is pleased) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2364,20 +2364,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **ऐन इशक दे महकमे मैं ग्या, अग्गों इशक ने मेरी कड़ई लुट्ट लई ।**  
-**हिन्दी शब्दार्थ:** ऐन (ऐन (तत्व व ज्ञान)) इशक (दिव्य प्रेम (इश्क)) दे (के) महकमे (महकमे) मैं (मैंने) ग्या (गया) , अग्गों (आगे प्रभु के सम्मुख) इशक (दिव्य प्रेम (इश्क)) ने (ने) मेरी (मेरी) कड़ई (कड़ई) लुट्ट (लूट लो) लई (ली) ।  
-**English Gloss:** ऐन (Ain (Essence & Gnosis)) इशक (Divine Love) दे (of) महकमे (महकमे) मैं (I) ग्या (has gone) , अग्गों (before God) इशक (Divine Love) ने (by) मेरी (of mine) कड़ई (कड़ई) लुट्ट (plunder) लई (took) ।
+**हिन्दी शब्दार्थ:** ऐन (ऐन (तत्व व ज्ञान)) इशक (दिव्य प्रेम (इश्क)) दे (के/पास) महकमे (न्यायालय/कचहरी) मैं (मैंने) ग्या (छूट गया) , अग्गों (आगे) इशक (दिव्य प्रेम (इश्क)) ने (ने (कारक)) मेरी (मेरी जीवन-) कड़ई (कड़ाही/लोहे का पात्र) लुट्ट (लूट लो) लई (ली) ।  
+**English Gloss:** ain (Ain (Essence & Gnosis)) ishak (Divine Love) de (of/unto) mahkame (department/court) main (I) gya (vanished) , agghon (next) ishak (Divine Love) ne (by (agent marker)) meri (my life's) kadee (iron frying pan) lutt (plunder) laee (took) .
 
 **मैं ग्या सां इशक सुदागरे वन्न, अग्गों इशक ने मेरी रसई लुट्ट लई ।**  
-**हिन्दी शब्दार्थ:** मैं (मैंने) ग्या (गया) सां (थी) इशक (दिव्य प्रेम (इश्क)) सुदागरे (सुदागरे) वन्न (वन्न) , अग्गों (आगे प्रभु के सम्मुख) इशक (दिव्य प्रेम (इश्क)) ने (ने) मेरी (मेरी) रसई (रसई) लुट्ट (लूट लो) लई (ली) ।  
-**English Gloss:** मैं (I) ग्या (has gone) सां (was) इशक (Divine Love) सुदागरे (सुदागरे) वन्न (वन्न) , अग्गों (before God) इशक (Divine Love) ने (by) मेरी (of mine) रसई (रसई) लुट्ट (plunder) लई (took) ।
+**हिन्दी शब्दार्थ:** मैं (मैंने) ग्या (छूट गया) सां (थी) इशक (दिव्य प्रेम (इश्क)) सुदागरे (सौदागर/व्यापारी) वन्न (रंग-रूप) , अग्गों (आगे) इशक (दिव्य प्रेम (इश्क)) ने (ने (कारक)) मेरी (मेरी जीवन-) रसई (पहुंच/संयोग) लुट्ट (लूट लो) लई (ली) ।  
+**English Gloss:** main (I) gya (vanished) saan (was) ishak (Divine Love) sudaagare (merchant/trader) vann (color/hue) , agghon (next) ishak (Divine Love) ne (by (agent marker)) meri (my life's) rasaee (access/arrival) lutt (plunder) laee (took) .
 
 **इशक लुटदा वलियां पैग़म्बरां नूं, कईआं बादशाहां दी बादशाही लुट्ट लई ।**  
-**हिन्दी शब्दार्थ:** इशक (दिव्य प्रेम (इश्क)) लुटदा (लूटता है) वलियां (ओर (बहुवचन)) पैग़म्बरां (पैग़म्बर के वंश (बहुवचन/कारक)) नूं (को) , कईआं (कईआं) बादशाहां (बादशाहां) दी (की) बादशाही (बादशाही) लुट्ट (लूट लो) लई (ली) ।  
-**English Gloss:** इशक (Divine Love) लुटदा (plunders) वलियां (towards (pl.)) पैग़म्बरां (Prophet (pl./obl.)) नूं (unto) , कईआं (कईआं) बादशाहां (बादशाहां) दी (of) बादशाही (बादशाही) लुट्ट (plunder) लई (took) ।
+**हिन्दी शब्दार्थ:** इशक (दिव्य प्रेम (इश्क)) लुटदा (लूटता है) वलियां (संतों/औलिया) पैग़म्बरां (पैगंबरों/दूतों को) नूं (को) , कईआं (अनेकों ने) बादशाहां (सम्राटों को) दी (की) बादशाही (राजपद/बादशाहत) लुट्ट (लूट लो) लई (ली) ।  
+**English Gloss:** ishak (Divine Love) lutadaa (plunders) valiyaan (saints/friends of God) paigambaraan (unto prophets/messengers) noon (unto) , kaiyaan (many people) baadshaahaan (unto emperors) di (the) baadshaahee (sovereignty/kingdom) lutt (plunder) laee (took) .
 
 **अजे तेरा की लुट्ट्या ऐ  बुल्हआ, ऐस इशक ख़ुदा दी ख़ुदाई लुट्ट लई ।**  
-**हिन्दी शब्दार्थ:** अजे (अभी) तेरा (तेरा) की (क्या) लुट्ट्या (लूटा) ऐ (ऐ) बुल्हआ (बुल्हआ) , ऐस (ऐस) इशक (दिव्य प्रेम (इश्क)) ख़ुदा (परमात्मा) दी (की) ख़ुदाई (संसार) लुट्ट (लूट लो) लई (ली) ।  
-**English Gloss:** अजे (still) तेरा (your) की (what) लुट्ट्या (plundered) ऐ (ऐ) बुल्हआ (बुल्हआ) , ऐस (ऐस) इशक (Divine Love) ख़ुदा (God) दी (of) ख़ुदाई (creation) लुट्ट (plunder) लई (took) ।
+**हिन्दी शब्दार्थ:** अजे (अभी तक) तेरा (तेरा/तुम्हारा) की (क्या) लुट्ट्या (लूटा) ऐ (हे/अरी) बुल्हआ (हे बुल्ले शाह!) , ऐस (इस) इशक (दिव्य प्रेम (इश्क)) ख़ुदा (परमात्मा) दी (की) ख़ुदाई (संसार) लुट्ट (लूट लो) लई (ली) ।  
+**English Gloss:** aje (still) teraa (thy/thine) kee (what) luttyaa (plundered) ai (O!) bulhaa (O Bulleh!) , ais (this) ishak (Divine Love) khudaa (God) di (the) khudaaee (creation) lutt (plunder) laee (took) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2418,20 +2418,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **पंजे वकत नमाज़ां पढ़ियां, ते तैनूं लोकी आखन नमाज़ी ।**  
-**हिन्दी शब्दार्थ:** पंजे (पंजे) वकत (समय है) नमाज़ां (नमाज़ें) पढ़ियां (पढ़ो और आचरण करो (बहुवचन)) , ते (और/तो) तैनूं (तुझे) लोकी (लोकी) आखन (कहते हैं) नमाज़ी (नमाज़ी) ।  
-**English Gloss:** पंजे (पंजे) वकत (time) नमाज़ां (prayers) पढ़ियां (recite/heed (pl.)) , ते (and/then) तैनूं (unto thee) लोकी (लोकी) आखन (they say) नमाज़ी (नमाज़ी) ।
+**हिन्दी शब्दार्थ:** पंजे (पाँचों तत्व/इंद्रियां) वकत (समय है) नमाज़ां (नमाज़ें) पढ़ियां (पढ़ीं) , ते (ता (तौबा व पश्चाताप)) तैनूं (तुझे) लोकी (संसार के लोग) आखन (कहते हैं) नमाज़ी (नमाज़ी/धर्माचारी) ।  
+**English Gloss:** panje (all five senses/elements) vakat (time) namaazaan (prayers) padhiyaan (studied/recited) , te (Te (Repentance)) tainoon (unto thee) lokee (worldly people) aakhan (they say) namaazee (one performing ritual prayers) .
 
 **जंग कर के मुड़ जित्त घर आइउं, तैनूं लोकी आखन ग़ाज़ी ।**  
-**हिन्दी शब्दार्थ:** जंग (जंग) कर (करके) के (के) मुड़ (फिर पलटकर) जित्त (जिस) घर (हृदय-घर में) आइउं (आइउं) , तैनूं (तुझे) लोकी (लोकी) आखन (कहते हैं) ग़ाज़ी (धर्मयोद्धा/विजेता) ।  
-**English Gloss:** जंग (जंग) कर (making) के (having) मुड़ (again/ever) जित्त (whichever) घर (in the inner home) आइउं (आइउं) , तैनूं (unto thee) लोकी (लोकी) आखन (they say) ग़ाज़ी (spiritual warrior) ।
+**हिन्दी शब्दार्थ:** जंग (युद्ध/आंतरिक संग्राम) कर (करके) के (करके) मुड़ (मुड़कर) जित्त (जिस) घर (आशियाना) आइउं (आकर/मैं आया) , तैनूं (तुझे) लोकी (संसार के लोग) आखन (कहते हैं) ग़ाज़ी (धर्मयोद्धा/विजेता) ।  
+**English Gloss:** jang (battle/inner jihad) kar (doing) ke (and) mud (turning back) jitt (whichever) ghar (home/refuge) aaiun (having arrived) , tainoon (unto thee) lokee (worldly people) aakhan (they say) ghaazee (spiritual warrior) .
 
 **चढ़ इनसाफ़ दी कुरसी बैठों, तैनूं लोकी आखन काज़ी ।**  
-**हिन्दी शब्दार्थ:** चढ़ (मिंबर पर चढ़कर) इनसाफ़ (इनसाफ़) दी (की) कुरसी (कुरसी) बैठों (बैठों) , तैनूं (तुझे) लोकी (लोकी) आखन (कहते हैं) काज़ी (न्यायाधीश/काज़ी) ।  
-**English Gloss:** चढ़ (mounting pulpit) इनसाफ़ (इनसाफ़) दी (of) कुरसी (कुरसी) बैठों (बैठों) , तैनूं (unto thee) लोकी (लोकी) आखन (they say) काज़ी (judge) ।
+**हिन्दी शब्दार्थ:** चढ़ (मिंबर पर चढ़कर) इनसाफ़ (न्याय/इंसाफ) दी (की) कुरसी (ईश्वरीय सिंहासन (अर्श)) बैठों (बैठने से) , तैनूं (तुझे) लोकी (संसार के लोग) आखन (कहते हैं) काज़ी (न्यायाधीश/काज़ी) ।  
+**English Gloss:** chadh (mounting pulpit) insaaf (justice/equity) di (the) kursee (divine throne (kursi)) baithon (from sitting) , tainoon (unto thee) lokee (worldly people) aakhan (they say) kaazee (judge) .
 
 **बुल्ल्हे शाह तूं कुझ वी नहीं खट्ट्या, जे तूं यार ना कीता राज़ी ।**  
-**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (स्वामी) तूं (तूने) कुझ (कुछ) वी (भी) नहीं (नहीं है) खट्ट्या (खट्ट्या) , जे (यदि) तूं (तूने) यार (सखा/प्रियतम) ना (नहीं) कीता (किया है) राज़ी (प्रसन्न होता है) ।  
-**English Gloss:** बुल्ल्हे (Bulleh Shah) शाह (Master) तूं (you) कुझ (something) वी (even) नहीं (not) खट्ट्या (खट्ट्या) , जे (if) तूं (you) यार (Friend/Beloved) ना (not/nor) कीता (made) राज़ी (is pleased) ।
+**हिन्दी शब्दार्थ:** बुल्ल्हे (बुल्ले शाह) शाह (बादशाह/गुरु) तूं (तू) कुझ (कुछ) वी (भी) नहीं (नहीं है) खट्ट्या (कमाई की) , जे (यदि) तूं (तू) यार (सखा/प्रियतम) ना (नहीं) कीता (किया है) राज़ी (प्रसन्न होता है) ।  
+**English Gloss:** bullhe (Bulleh Shah) shaah (Master King) toon (thou) kujh (something) vee (even) naheen (not) khattyaa (earned/amassed) , je (if) toon (thou) yaar (Friend/Beloved) naa (not/nor) keetaa (made) raazee (is pleased) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
@@ -2472,20 +2472,20 @@
 ### पद-वार अर्थ एवं शब्दार्थ (Word-by-Word Gloss)
 
 **जे मैं तैनूं बाहर ढूंडां, ते मेरे अन्दर कौन समाना ।**  
-**हिन्दी शब्दार्थ:** जे (यदि) मैं (मैंने) तैनूं (तुझे) बाहर (बाहर) ढूंडां (ढूँढती हूँ) , ते (और/तो) मेरे (मेरे) अन्दर (भीतर/अंतर्मन में) कौन (कौन) समाना (समाया हुआ) ।  
-**English Gloss:** जे (if) मैं (I) तैनूं (unto thee) बाहर (outside) ढूंडां (I search) , ते (and/then) मेरे (my) अन्दर (within/inwardly) कौन (who) समाना (abiding/permeating) ।
+**हिन्दी शब्दार्थ:** जे (यदि) मैं (मैंने) तैनूं (तुझे) बाहर (बाहर/संसार में) ढूंडां (ढूंढती हूँ) , ते (ता (तौबा व पश्चाताप)) मेरे (पर मेरे) अन्दर (भीतर) कौन (कौन व्यक्ति/किसे) समाना (समाहित होना) ।  
+**English Gloss:** je (if) main (I) tainoon (unto thee) baahar (outside) dhoondaan (I search) , te (Te (Repentance)) mere (my) andar (within) kaun (who) samaanaa (to merge/permeate) .
 
 **जे मैं तैनूं अन्दर ढूंडां, फेर मुकई्ईअत जाना ।**  
-**हिन्दी शब्दार्थ:** जे (यदि) मैं (मैंने) तैनूं (तुझे) अन्दर (भीतर/अंतर्मन में) ढूंडां (ढूँढती हूँ) , फेर (फिर पलटकर) मुकई्ईअत (सीमित/बद्ध) जाना (जाना) ।  
-**English Gloss:** जे (if) मैं (I) तैनूं (unto thee) अन्दर (within/inwardly) ढूंडां (I search) , फेर (then again) मुकई्ईअत (confined/conditioned) जाना (जाना) ।
+**हिन्दी शब्दार्थ:** जे (यदि) मैं (मैंने) तैनूं (तुझे) अन्दर (भीतर) ढूंडां (ढूंढती हूँ) , फेर (फिर) मुकई्ईअत (सीमित/बद्ध) जाना (जाना/प्रस्थान करना) ।  
+**English Gloss:** je (if) main (I) tainoon (unto thee) andar (within) dhoondaan (I search) , pher (again) mukaeeeeat (confined/conditioned) jaanaa (to depart) .
 
 **सभ कुझ तूं एं ते सभ विच तूं एं, ते मैं तैनूं सभ तों पाक पछाना ।**  
-**हिन्दी शब्दार्थ:** सभ (सब/सम्पूर्ण) कुझ (कुछ) तूं (तूने) एं (है) ते (और/तो) सभ (सब/सम्पूर्ण) विच (में/भीतर) तूं (तूने) एं (है) , ते (और/तो) मैं (मैंने) तैनूं (तुझे) सभ (सब/सम्पूर्ण) तों (से) पाक (परम पवित्र) पछाना (पहचाना) ।  
-**English Gloss:** सभ (all) कुझ (something) तूं (you) एं (you) ते (and/then) सभ (all) विच (within/in) तूं (you) एं (you) , ते (and/then) मैं (I) तैनूं (unto thee) सभ (all) तों (by) पाक (pure/sacred) पछाना (recognized) ।
+**हिन्दी शब्दार्थ:** सभ (सब/सम्पूर्ण) कुझ (कुछ) तूं (तू) एं (है) ते (ता (तौबा व पश्चाताप)) सभ (सब/सम्पूर्ण) विच (में/भीतर) तूं (तू) एं (है) , ते (ता (तौबा व पश्चाताप)) मैं (मैंने) तैनूं (तुझे) सभ (सब/सम्पूर्ण) तों (पर) पाक (पवित्र/निर्मल) पछाना (पहचाना) ।  
+**English Gloss:** sabh (all) kujh (something) toon (thou) en (you) te (Te (Repentance)) sabh (all) vich (within/in) toon (thou) en (you) , te (Te (Repentance)) main (I) tainoon (unto thee) sabh (all) ton (upon) paak (pure/holy) pachhaanaa (recognized) .
 
 **मैं वी तूं एं ते तूं वी तूं एं, ऐथे बुल्ल्हा कौन निमाना ।**  
-**हिन्दी शब्दार्थ:** मैं (मैंने) वी (भी) तूं (तूने) एं (है) ते (और/तो) तूं (तूने) वी (भी) तूं (तूने) एं (है) , ऐथे (यहाँ) बुल्ल्हा (बुल्ले शाह) कौन (कौन) निमाना (दीन-हीन/तुच्छ) ।  
-**English Gloss:** मैं (I) वी (even) तूं (you) एं (you) ते (and/then) तूं (you) वी (even) तूं (you) एं (you) , ऐथे (here) बुल्ल्हा (Bulleh Shah) कौन (who) निमाना (humble/lowly) ।
+**हिन्दी शब्दार्थ:** मैं (मैंने) वी (भी) तूं (तू) एं (है) ते (ता (तौबा व पश्चाताप)) तूं (तू) वी (भी) तूं (तू) एं (है) , ऐथे (यहाँ) बुल्ल्हा (हे बुल्ले शाह!) कौन (कौन व्यक्ति/किसे) निमाना (दीन/विनम्र) ।  
+**English Gloss:** main (I) vee (even) toon (thou) en (you) te (Te (Repentance)) toon (thou) vee (even) toon (thou) en (you) , aithe (here) bullhaa (O Bulleh!) kaun (who) nimaanaa (humble/lowly) .
 
 ### काव्यात्मक अनुवाद (Poetic Translations)
 
