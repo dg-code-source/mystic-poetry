@@ -668,6 +668,42 @@
       });
     }
 
+    // Feature pill cards on hero welcome page (6 classical genres)
+    document.querySelectorAll('.feature-pill').forEach(pill => {
+      const activateGenre = () => {
+        const genre = pill.getAttribute('data-genre');
+        const firstUid = pill.getAttribute('data-first-uid');
+
+        // 1. Activate the corresponding sidebar tab
+        if (genre && el.filterTabs) {
+          el.filterTabs.forEach(t => {
+            if (t.getAttribute('data-filter') === genre) {
+              el.filterTabs.forEach(tab => tab.classList.remove('active'));
+              t.classList.add('active');
+              state.currentFilter = genre;
+              renderSidebar();
+            }
+          });
+        }
+
+        // 2. Load the first work of that genre directly into reader
+        if (firstUid) {
+          loadWork(firstUid);
+          const heading = pill.querySelector('h3');
+          const title = heading ? heading.textContent.trim() : '';
+          if (title) showToast(`${title} खोला गया`);
+        }
+      };
+
+      pill.addEventListener('click', activateGenre);
+      pill.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          activateGenre();
+        }
+      });
+    });
+
     // Quick pick chips on hero welcome page
     document.querySelectorAll('.pick-chip').forEach(chip => {
       chip.addEventListener('click', () => {
