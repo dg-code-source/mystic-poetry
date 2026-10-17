@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां (1–160) | Baba Bulleh Shah Complete Kafian</title>
+  <title>बाबा बुल्ले शाह : सम्पूर्ण रचनावली (काफ़ियां, बारहमाह, अठवारा, गन्धां, सीहरफ़ियां, दोहरे) | Baba Bulleh Shah Complete Works</title>
   
   <!-- SEO & Social Meta -->
-  <meta name="description" content="बाबा बुल्ले शाह जी की सम्पूर्ण 160 काफ़ियों का प्रामाणिक त्रिभाषी शोध संकलन। Original Classical Punjabi in Devanagari, word-by-word Hindi & English glosses, poetic translations, and in-depth Sufi commentary.">
-  <meta name="keywords" content="Bulleh Shah, Baba Bulleh Shah, Kafian, Sufi Poetry, Punjabi Poetry, Devotional Poetry, Devanagari, Trilingual Edition">
+  <meta name="description" content="बाबा बुल्ले शाह जी की सम्पूर्ण 351 रचनाओं का प्रामाणिक त्रिभाषी शोध संकलन: 160 काफ़ियां, बारहमाह, अठवारा, 40 गन्धां, सीहरफ़ियां और 56 दोहरे। Original Classical Punjabi in Devanagari, word-by-word Hindi & English glosses, poetic translations, and in-depth Sufi commentary.">
+  <meta name="keywords" content="Bulleh Shah, Baba Bulleh Shah, Kafian, Baranmah, Athwara, Gandhan, Siharfian, Dohre, Sufi Poetry, Punjabi Poetry, Devotional Poetry, Devanagari, Trilingual Edition">
   <meta name="author" content="Bulleh Shah Research Project">
   
-  <meta property="og:title" content="बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां (1–160)">
-  <meta property="og:description" content="सम्पूर्ण 160 काफ़ियों का त्रिभाषी संस्करण — मूल काफ़ियां, पद-वार शब्दार्थ, काव्यात्मक अनुवाद एवं सूफी व्याख्या।">
+  <meta property="og:title" content="बाबा बुल्ले शाह : सम्पूर्ण रचनावली (351 रचनाएं)">
+  <meta property="og:description" content="सम्पूर्ण 351 रचनाओं का त्रिभाषी संस्करण — काफ़ियां, बारहमाह, अठवारा, गन्धां, सीहरफ़ियां एवं दोहरे।">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://dg-code-source.github.io/bulleh-shah/">
   
@@ -32,7 +32,7 @@
       <div class="brand-emblem">ब</div>
       <div class="brand-text">
         <h1>बाबा बुल्ले शाह</h1>
-        <p>160 Complete Kafian • Trilingual Edition</p>
+        <p>सम्पूर्ण रचनावली • 351 Masterpieces (Trilingual)</p>
       </div>
     </div>
 
@@ -43,17 +43,17 @@
           <circle cx="11" cy="11" r="8"/>
           <line x1="21" y1="21" x2="16.65" y2="16.65"/>
         </svg>
-        <input type="text" id="search-input" class="search-input" placeholder="खोजें (काफ़िया #, शीर्षक, शब्द या अनुवाद)..." autocomplete="off" spellcheck="false">
+        <input type="text" id="search-input" class="search-input" placeholder="खोजें (रचना #, शीर्षक, शब्द, विधा या अनुवाद)..." autocomplete="off" spellcheck="false">
         <span class="search-shortcut-hint">/</span>
       </div>
     </div>
 
     <!-- Actions Toolbar -->
     <div class="header-actions">
-      <button class="text-btn" id="random-kafi-btn" title="कोई भी काफ़िया खोजें">
+      <button class="text-btn" id="random-kafi-btn" title="कोई भी रचना खोजें">
         <span>✨</span> <span>रैंडम</span>
       </button>
-      <button class="icon-btn" id="bookmarks-view-btn" title="पसंदीदा काफ़ियां">
+      <button class="icon-btn" id="bookmarks-view-btn" title="पसंदीदा रचनाएं">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
         </svg>
@@ -84,17 +84,20 @@
       
       <!-- Filter Tabs -->
       <div class="sidebar-tabs">
-        <button class="tab-btn active" data-filter="all">सभी (160)</button>
-        <button class="tab-btn" data-filter="part1">भाग 1 (1–50)</button>
-        <button class="tab-btn" data-filter="part2">भाग 2 (51–100)</button>
-        <button class="tab-btn" data-filter="part3">भाग 3 (101–160)</button>
+        <button class="tab-btn active" data-filter="all">सभी (351)</button>
+        <button class="tab-btn" data-filter="kafi">काफ़ियां (160)</button>
+        <button class="tab-btn" data-filter="dohre">दोहरे (56)</button>
+        <button class="tab-btn" data-filter="baranmah">बारहमाह (12)</button>
+        <button class="tab-btn" data-filter="athwara">अठवारा (7)</button>
+        <button class="tab-btn" data-filter="gandhan">गन्धां (40)</button>
+        <button class="tab-btn" data-filter="siharfian">सीहरफ़ियां (76)</button>
         <button class="tab-btn" data-filter="bookmarks">★ पसंदीदा</button>
       </div>
 
       <!-- Count & Mobile Search Filter -->
       <div class="sidebar-summary">
-        <span id="filtered-count-badge">160 काफ़ियां</span>
-        <span style="font-size: 0.72rem; color: var(--text-faint);">त्रिभाषी संकलन</span>
+        <span id="filtered-count-badge">351 रचनाएं</span>
+        <span style="font-size: 0.72rem; color: var(--text-faint);">सम्पूर्ण त्रिभाषी संकलन</span>
       </div>
 
       <!-- Kafi Items List -->
@@ -109,45 +112,55 @@
       <!-- Hero Welcome View -->
       <section class="welcome-card" id="welcome-hero-view">
         <div class="welcome-ornament">✧ ✦ ✧</div>
-        <h2>बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां</h2>
-        <div class="en-sub">Baba Bulleh Shah : The Complete 160 Kafian Edition</div>
+        <h2>बाबा बुल्ले शाह : सम्पूर्ण रचनावली</h2>
+        <div class="en-sub">Baba Bulleh Shah : The Complete Works (351 Masterpieces)</div>
         
         <p class="welcome-desc">
-          सूफी दर्शन के अमर प्रतीक <strong>हज़रत बाबा बुल्ले शाह (1680–1757)</strong> की समस्त 160 काफ़ियों का प्रामाणिक त्रिभाषी शोध संस्करण। यहाँ प्रत्येक काफ़िया मूल शास्त्रीय पंजाबी (देवनागरी लिपि), पद-वार हिन्दी व अंग्रेज़ी शब्दार्थ, तुकांत काव्यात्मक अनुवाद और आध्यात्मिक सूफी व्याख्या के साथ प्रस्तुत है।
+          सूफी दर्शन के अमर प्रतीक <strong>हज़रत बाबा बुल्ले शाह (1680–1757)</strong> की समस्त 351 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें <strong>160 काफ़ियां</strong>, <strong>बारहमाह (12 मास)</strong>, <strong>अठवारा (7 वार)</strong>, <strong>गन्धां (40 गाँठें)</strong>, <strong>सीहरफ़ियां (3 वर्णमाला चक्र)</strong> और <strong>56 दोहरे</strong> सम्मिलित हैं। प्रत्येक रचना मूल शास्त्रीय पंजाबी (देवनागरी), पद-वार शब्दार्थ, गेय पद्यानुवाद और सूफी व्याख्या सहित प्रस्तुत है।
         </p>
 
-        <!-- Feature Grid -->
+        <!-- Feature Grid (6 Genres) -->
         <div class="feature-grid">
           <div class="feature-pill">
-            <h3>🪶 शास्त्रीय मूल पाठ</h3>
-            <p>160 काफ़ियों का शुद्ध, प्रामाणिक देवनागरी संस्करण, शास्त्रीय रागों व छंदों के विवरण सहित।</p>
+            <h3>📜 160 सम्पूर्ण काफ़ियां</h3>
+            <p>राग, ताल, भावार्थ और पदच्छेद सहित 160 काफ़ियों का ऐतिहासिक त्रिभाषी महाग्रंथ।</p>
           </div>
           <div class="feature-pill">
-            <h3>🔍 पद-वार शब्दार्थ</h3>
-            <p>प्रत्येक पंक्ति के एक-एक पंजाबी शब्द का हिन्दी व अंग्रेज़ी अर्थ (Word-by-Word Gloss)।</p>
+            <h3>🕊️ 56 अमर दोहरे</h3>
+            <p>‘घट-घट में रव्या आटे में नमक’ एवं ‘भट्ठ नमाज़ां चिकड़ रोज़े’ जैसे कालजयी क्रांतिकारी दोहे।</p>
           </div>
           <div class="feature-pill">
-            <h3>🌐 काव्यात्मक अनुवाद</h3>
-            <p>भावपूर्ण हिन्दी पद्यानुवाद तथा गेय अंग्रेज़ी काव्यानुवाद (Metered Poetic Translations)।</p>
+            <h3>🌸 बारहमाह (12 मास)</h3>
+            <p>अस्सू से भादों तक विरह-अग्नि से परम मिलन (सावन-भादों) की 12 महीनों की रूहानी यात्रा।</p>
           </div>
           <div class="feature-pill">
-            <h3>📖 सूफी रहस्यवाद</h3>
-            <p>वहदत-उल-वुजूद (अद्वैत), इश्क हक़ीकी व आत्म-साक्षात्कार पर आधारित गहन दार्शनिक मीमांसा।</p>
+            <h3>☀️ अठवारा (7 वार)</h3>
+            <p>शनिवार से शुक्रवार (जुमे की नित-नूतन बहार) तक सप्ताह के सात दिनों की आध्यात्मिक साधना।</p>
+          </div>
+          <div class="feature-pill">
+            <h3>🪢 गन्धां (40 गाँठें)</h3>
+            <p>आध्यात्मिक विवाह की 40 गाँठें—संसार-त्याग से ‘पिया ही सभ हो ग्या अबदुल्ल्हा नाहीं’ तक।</p>
+          </div>
+          <div class="feature-pill">
+            <h3>🔤 सीहरफ़ियां (3 चक्र)</h3>
+            <p>अलफ़ से ये तक तीन सम्पूर्ण वर्णमाला-काव्य, ‘इस लागी को कौन बुझावे’ टेक सहित।</p>
           </div>
         </div>
 
-        <!-- Quick Picks for Beginners -->
+        <!-- Quick Picks across All Genres -->
         <div class="quick-picks">
-          <h4>लोकप्रिय एवं कालजयी काफ़ियां (Featured Gems):</h4>
+          <h4>लोकप्रिय एवं कालजयी रचनाएं (Featured Gems Across All Works):</h4>
           <div class="picks-chips">
-            <button class="pick-chip" data-id="21">#21. बुल्ला की जाणा मैं कौण</button>
-            <button class="pick-chip" data-id="51">#51. इश्क दी नवीयों नवीं बहार</button>
-            <button class="pick-chip" data-id="47">#47. इक नुक़्ते विच गल्ल मुक्कदी ए</button>
-            <button class="pick-chip" data-id="34">#34. घुंघट चुक्क ओ सजणा</button>
-            <button class="pick-chip" data-id="107">#107. मूंह आई बात ना रहन्दी ए</button>
-            <button class="pick-chip" data-id="1">#1. आ मिल यार सार लै मेरी</button>
-            <button class="pick-chip" data-id="40">#40. हिन्दू ना नहीं मुसलमान</button>
-            <button class="pick-chip" data-id="11">#11. अलफ़ अल्लाह नाल रत्ता दिल मेरा</button>
+            <button class="pick-chip" data-uid="kafi_21">#काफ़िया 21. बुल्ला की जाणा मैं कौण</button>
+            <button class="pick-chip" data-uid="dohre_1">#दोहरा 1. आपने तन दी ख़बर ना काई</button>
+            <button class="pick-chip" data-uid="dohre_4">#दोहरा 4. भट्ठ नमाज़ां ते चिकड़ रोज़े</button>
+            <button class="pick-chip" data-uid="baranmah_1">#बारहमाह 1. अस्सू (विरह-पाती)</button>
+            <button class="pick-chip" data-uid="baranmah_11">#बारहमाह 11. सावन (आसां पुन्नियां)</button>
+            <button class="pick-chip" data-uid="athwara_7">#अठवारा 7. जुंमा (जुंमे दी बहार)</button>
+            <button class="pick-chip" data-uid="gandhan_1">#गन्धां 1. गंढ पहली (साहे दी जंज)</button>
+            <button class="pick-chip" data-uid="gandhan_40">#गन्धां 40. पिया ही सभ हो ग्या</button>
+            <button class="pick-chip" data-uid="siharfi_1">#सीहरफ़ी 1. अलफ़ (लागी रे लागी)</button>
+            <button class="pick-chip" data-uid="kafi_51">#काफ़िया 51. इश्क दी नवीयों नवीं बहार</button>
           </div>
         </div>
       </section>
@@ -164,21 +177,24 @@
   <!-- Toast Notification -->
   <div class="toast-notice" id="toast-notification">
     <span>✓</span>
-    <span id="toast-message">काफ़िया कॉपी हो गया!</span>
+    <span id="toast-message">रचना कॉपी हो गई!</span>
   </div>
 
   <!-- Application Footer -->
   <footer class="app-footer">
     <div class="footer-content">
-      <h4>बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां (1–160)</h4>
+      <h4>बाबा बुल्ले शाह : सम्पूर्ण रचनावली (351 रचनाएं)</h4>
       <p>A Trilingual Classical Sufi Scholarly Edition • Self-Contained Open Source Repository</p>
       <div class="footer-links">
         <a href="https://github.com/dg-code-source/bulleh-shah" target="_blank" rel="noopener noreferrer">
           GitHub Repository
         </a>
-        <a href="#kafi-1">काफ़िया #1 से शुरू करें</a>
-        <a href="#kafi-21">बुल्ला की जाणा मैं कौण</a>
-        <a href="#kafi-51">इश्क दी नवीयों नवीं बहार</a>
+        <a href="#kafi-1">काफ़ियां (1–160)</a>
+        <a href="#dohre-1">दोहरे (1–56)</a>
+        <a href="#baranmah-1">बारहमाह (1–12)</a>
+        <a href="#athwara-1">अठवारा (1–7)</a>
+        <a href="#gandhan-1">गन्धां (1–40)</a>
+        <a href="#siharfi-1">सीहरफ़ियां (1–76)</a>
       </div>
     </div>
   </footer>

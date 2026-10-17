@@ -1,5 +1,8 @@
 [
   {
+    "uid": "kafi_1",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 1,
     "title": "1. आ मिल यार सार लै मेरी",
     "title_english": "",
@@ -8,6 +11,9 @@
     "first_line": "आ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।"
   },
   {
+    "uid": "kafi_2",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 2,
     "title": "2. आओ फ़कीरो मेले चलिए",
     "title_english": "",
@@ -16,6 +22,9 @@
     "first_line": "आयो फ़कीरो मेले चलिए, आरफ़ दा सुन वाजा रे ।"
   },
   {
+    "uid": "kafi_3",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 3,
     "title": "3. आओ सईयो रल दियो नी वधाई",
     "title_english": "",
@@ -24,6 +33,9 @@
     "first_line": "आयो सईयो रल दियो नी वधाई ।"
   },
   {
+    "uid": "kafi_4",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 4,
     "title": "4. आ सजन गल लग्ग असाडे",
     "title_english": "",
@@ -32,6 +44,9 @@
     "first_line": "आ सजन गल लग्ग असाडे, केहा झेड़ा लाययो ई ?"
   },
   {
+    "uid": "kafi_5",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 5,
     "title": "5. अब हम गुंम हूए, प्रेम नगर के शहर",
     "title_english": "",
@@ -40,6 +55,9 @@
     "first_line": "अब हम गुंम हूए, प्रेम नगर के शहर ।"
   },
   {
+    "uid": "kafi_6",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 6,
     "title": "6. अब क्यों साजन चिर लायो रे",
     "title_english": "",
@@ -48,6 +66,9 @@
     "first_line": "अब क्यों साजन चिर लायो रे ?"
   },
   {
+    "uid": "kafi_7",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 7,
     "title": "7. अब लगन लगी किह करिए",
     "title_english": "",
@@ -56,6 +77,9 @@
     "first_line": "अब लगन लगी किह करिए ?"
   },
   {
+    "uid": "kafi_8",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 8,
     "title": "8. ऐसा जगिआ ज्ञान पलीता",
     "title_english": "",
@@ -64,6 +88,9 @@
     "first_line": "ऐसा जगिआ ज्ञान पलीता ।"
   },
   {
+    "uid": "kafi_9",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 9,
     "title": "9. ऐसा मन में आइयो रे",
     "title_english": "",
@@ -72,6 +99,9 @@
     "first_line": "ऐसा मन में आइयो रे, दुक्ख सुक्ख सभ वंञाययो रे ।"
   },
   {
+    "uid": "kafi_10",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 10,
     "title": "10. अक्खां विच दिल जानी प्यारिआ",
     "title_english": "",
@@ -80,6 +110,9 @@
     "first_line": "अक्खां विच दिल जानी प्यारिआ, केही चेटक लाइआ ई ।"
   },
   {
+    "uid": "kafi_11",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 11,
     "title": "11. अलफ़ अल्लाह नाल रत्ता दिल मेरा",
     "title_english": "",
@@ -88,6 +121,9 @@
     "first_line": "अलफ़ अल्लाह नाल रत्ता दिल मेरा,"
   },
   {
+    "uid": "kafi_12",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 12,
     "title": "12. अम्मां बाबे दी भलिआई",
     "title_english": "",
@@ -96,6 +132,9 @@
     "first_line": "अम्मां बाबे दी भलिआई, उह हुन कंम असाडे आई ।"
   },
   {
+    "uid": "kafi_13",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 13,
     "title": "13. अपने संग रलाईं प्यारे, अपने संग रलाईं",
     "title_english": "",
@@ -104,6 +143,9 @@
     "first_line": "अपने संग रलाईं प्यारे, अपने संग रलाईं ।"
   },
   {
+    "uid": "kafi_14",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 14,
     "title": "14. बहुड़ीं वे तबीबा मैंडी जिन्द गईआ",
     "title_english": "",
@@ -112,6 +154,9 @@
     "first_line": "बहुड़ीं वे तबीबा मैंडी जिन्द गईआ ।"
   },
   {
+    "uid": "kafi_15",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 15,
     "title": "15. बंसी काहन अचरज बजाई",
     "title_english": "",
@@ -120,6 +165,9 @@
     "first_line": "बंसी वालिआ चाका रांझा, तेरा सुर है सभ नाल सांझा,"
   },
   {
+    "uid": "kafi_16",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 16,
     "title": "16. बस्स कर जी हुण बस्स कर जी",
     "title_english": "",
@@ -128,6 +176,9 @@
     "first_line": "बस्स कर जी हुण बस्स कर जी,"
   },
   {
+    "uid": "kafi_17",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 17,
     "title": "17. बेहद्द रमज़ां दसदा नीं, ढोलण माही",
     "title_english": "",
@@ -136,6 +187,9 @@
     "first_line": "बेहद्द रमज़ां दसदा नीं, ढोलण माही ।"
   },
   {
+    "uid": "kafi_18",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 18,
     "title": "18. भैणां मैं कत्तदी कत्तदी हुट्टी",
     "title_english": "",
@@ -144,6 +198,9 @@
     "first_line": "पिड़ी पिछे पछवाड़े रह गई, हत्थ विच रह गई जुट्टी,"
   },
   {
+    "uid": "kafi_19",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 19,
     "title": "19. भावें जाण ना जाण वे वेहड़े आ वड़ मेरे",
     "title_english": "",
@@ -152,6 +209,9 @@
     "first_line": "भावें जाण ना जाण वे वेहड़े आ वड़ मेरे ।"
   },
   {
+    "uid": "kafi_20",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 20,
     "title": "20. भरवासा की आशनाई दा",
     "title_english": "",
@@ -160,6 +220,9 @@
     "first_line": "भरवासा की आशनाई दा ।"
   },
   {
+    "uid": "kafi_21",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 21,
     "title": "21. बुल्ला की जाणा मैं कौण",
     "title_english": "",
@@ -168,6 +231,9 @@
     "first_line": "ना मैं मोमन विच मसीतां, ना मैं विच कुफ़र दीआं रीतां,"
   },
   {
+    "uid": "kafi_22",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 22,
     "title": "22. बुल्ला की जाने ज़ात इश्क दी कौण",
     "title_english": "",
@@ -176,6 +242,9 @@
     "first_line": "बुल्ल्हा की जाने ज़ात इश्क दी कौण ।"
   },
   {
+    "uid": "kafi_23",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 23,
     "title": "23. बुल्ल्हे नूं समझावण आईआं, भैणां ते भरजाईआं",
     "title_english": "",
@@ -184,6 +253,9 @@
     "first_line": "बुल्ल्हे नूं समझावण आईआं, भैणां ते भरजाईआं ।"
   },
   {
+    "uid": "kafi_24",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 24,
     "title": "24. चलो देखिए उस मसतानड़े नूं",
     "title_english": "",
@@ -192,6 +264,9 @@
     "first_line": "चलो देखिए उस मसतानड़े नूं,"
   },
   {
+    "uid": "kafi_25",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 25,
     "title": "25. चुप्प करके करीं गुज़ारे नूं",
     "title_english": "",
@@ -200,6 +275,9 @@
     "first_line": "सच्च सुणदे लोक ना सहिंदे नी, सच्च आखिए तां गल पैंदे नी,"
   },
   {
+    "uid": "kafi_26",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 26,
     "title": "26. ढोला आदमी बण आया",
     "title_english": "",
@@ -208,6 +286,9 @@
     "first_line": "आपे आहू आपे चीता, आपे मारन धाइआ,"
   },
   {
+    "uid": "kafi_27",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 27,
     "title": "27. दिल लोचे माही यार नूं",
     "title_english": "",
@@ -216,6 +297,9 @@
     "first_line": "इक हस्स हस्स गल्ल करदीआं, इक रोंदीआं धोंदीआं मरदीआं,"
   },
   {
+    "uid": "kafi_28",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 28,
     "title": "28. इह अचरज साधो कौण कहावे",
     "title_english": "",
@@ -224,6 +308,9 @@
     "first_line": "इह अचरज साधो कौण कहावे ।"
   },
   {
+    "uid": "kafi_29",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 29,
     "title": "29. इह दुख जा कहूं किस आगे",
     "title_english": "",
@@ -232,6 +319,9 @@
     "first_line": "इह दुख जा कहूं किस आगे,"
   },
   {
+    "uid": "kafi_30",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 30,
     "title": "30. फ़सुमा वजउल-अल्लाह दस्सना एं अज्ज ओ यार",
     "title_english": "",
@@ -240,6 +330,9 @@
     "first_line": "घुंघट खोल्ह मुक्ख वेख ना मेरा,"
   },
   {
+    "uid": "kafi_31",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 31,
     "title": "31. गल्ल रौले लोकां पाई ए",
     "title_english": "",
@@ -248,6 +341,9 @@
     "first_line": "गल्ल रौले लोकां पाई ए ।"
   },
   {
+    "uid": "kafi_32",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 32,
     "title": "32. घड़िआली दियो निकाल नी",
     "title_english": "",
@@ -256,6 +352,9 @@
     "first_line": "घड़िआली दियो निकाल नी ।"
   },
   {
+    "uid": "kafi_33",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 33,
     "title": "33. घर में गंगा आई संतो, घर में गंगा आई",
     "title_english": "",
@@ -264,6 +363,9 @@
     "first_line": "घर में गंगा आई संतो, घर में गंगा आई ।"
   },
   {
+    "uid": "kafi_34",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 34,
     "title": "34. घुंघट चुक्क ओ सजणा, हुण शरमां काहनूं रक्खियां वे",
     "title_english": "",
@@ -272,6 +374,9 @@
     "first_line": "ज़ुल्फ़ कुंडल ने घेरा पाइआ, बिसियर हो के डंग चलाइआ,"
   },
   {
+    "uid": "kafi_35",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 35,
     "title": "35. घुंघट ओहले ना लुक्क सोहणिआँ",
     "title_english": "",
@@ -280,6 +385,9 @@
     "first_line": "घुंघट ओहले ना लुक्क सोहणिआँ,"
   },
   {
+    "uid": "kafi_36",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 36,
     "title": "36. गुर जो चाहे सो करदा ए",
     "title_english": "",
@@ -288,6 +396,9 @@
     "first_line": "मेरे घर विच चोरी होई, सुत्ती रही ना जाग्या कोई,"
   },
   {
+    "uid": "kafi_37",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 37,
     "title": "37. हाजी लोक मक्के नूं जांदे",
     "title_english": "",
@@ -296,6 +407,9 @@
     "first_line": "हाजी लोक मक्के नूं जांदे,"
   },
   {
+    "uid": "kafi_38",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 38,
     "title": "38. हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे",
     "title_english": "",
@@ -304,6 +418,9 @@
     "first_line": "हुण दिन-चढ़आ कद होवे, मैनूं प्यारा मूंह दिखलावे,"
   },
   {
+    "uid": "kafi_39",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 39,
     "title": "39. हिजाब करें दरवेशी कोलों, कद तक हुक्म चलावेंगा",
     "title_english": "",
@@ -312,6 +429,9 @@
     "first_line": "गल अलफी सिर-पा-बरहना, भलके रूप वटावेंगा,"
   },
   {
+    "uid": "kafi_40",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 40,
     "title": "40. हिन्दू ना नहीं मुसलमान",
     "title_english": "",
@@ -320,6 +440,9 @@
     "first_line": "हिन्दू ना नहीं मुसलमान ।"
   },
   {
+    "uid": "kafi_41",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 41,
     "title": "41. होरी खेलूंगी कह बिसमिलाह",
     "title_english": "",
@@ -328,6 +451,9 @@
     "first_line": "नाम नबी की रतन चढ़ी बून्द पड़ी अल्लाह अल्लाह,"
   },
   {
+    "uid": "kafi_42",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 42,
     "title": "42. हुण किस थीं आप छुपाईदा",
     "title_english": "",
@@ -336,6 +462,9 @@
     "first_line": "किते मुल्लां हो बुलेंदे हो, किते सुन्नत फ़रज़ दसेंदे हो,"
   },
   {
+    "uid": "kafi_43",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 43,
     "title": "43. हुण मैं लखिआ सोहणा यार",
     "title_english": "",
@@ -344,6 +473,9 @@
     "first_line": "हुण मैं लखिआ सोहणा यार ।"
   },
   {
+    "uid": "kafi_44",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 44,
     "title": "44. हुण मैनूं कौण पछाणे, हुण मैं हो गई नी कुझ होर",
     "title_english": "",
@@ -352,6 +484,9 @@
     "first_line": "हादी मैनूं सबक पढ़ाइआ, ओथे ग़ैर ना आया जाइआ,"
   },
   {
+    "uid": "kafi_45",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 45,
     "title": "45. इक अलफ़ पढ़ो छुटकारा ए",
     "title_english": "",
@@ -360,6 +495,9 @@
     "first_line": "इक अलफ़ों दो तिन्न चार होए, फिर लक्ख करोड़ हज़ार होए,"
   },
   {
+    "uid": "kafi_46",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 46,
     "title": "46. इक नुक़्ता यार पढ़ाइआ ए",
     "title_english": "",
@@ -368,6 +506,9 @@
     "first_line": "इक नुक़्ता यार पढ़ाइआ ए ।"
   },
   {
+    "uid": "kafi_47",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 47,
     "title": "47. इक नुक़्ते विच गल्ल मुक्कदी ए",
     "title_english": "",
@@ -376,6 +517,9 @@
     "first_line": "फड़ नुक़्ता छोड़ हिसाबां नूं, कर दूर कुफ़र दीआं बाबां नूं,"
   },
   {
+    "uid": "kafi_48",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 48,
     "title": "48. इक रांझा मैनूं लोड़ीदा",
     "title_english": "",
@@ -384,6 +528,9 @@
     "first_line": "कुन-फअकूनों अग्गे दीआं लगियां,"
   },
   {
+    "uid": "kafi_49",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 49,
     "title": "49. इलमों बस्स करीं ओ यार",
     "title_english": "",
@@ -392,6 +539,9 @@
     "first_line": "इलम ना आवे विच शुमार, इको अलफ़ तेरे दरकार,"
   },
   {
+    "uid": "kafi_50",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 50,
     "title": "50. इश्क असां नाल केही कीती, लोक मरेंदे तअने",
     "title_english": "",
@@ -400,6 +550,9 @@
     "first_line": "दिल दी वेदन कोई ना जाणे, अन्दर देस बगाने,"
   },
   {
+    "uid": "kafi_51",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 51,
     "title": "51. इश्क दी नवीयों नवीं बहार",
     "title_english": "The Springtime of Love is Ever New",
@@ -408,6 +561,9 @@
     "first_line": "जां मैं सबक इश्क दा पढ़आ, मसजद कोलों जीउड़ा डरिआ,"
   },
   {
+    "uid": "kafi_52",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 52,
     "title": "52. इश्क हकीकी ने मुट्ठी कुड़े",
     "title_english": "Divine Love Hath Enraptured Me, O Sisters!",
@@ -416,6 +572,9 @@
     "first_line": "इश्क हकीकी ने मुट्ठी कुड़े,"
   },
   {
+    "uid": "kafi_53",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 53,
     "title": "53. इस नेहुं दी उलटी चाल",
     "title_english": "The Inverted, Paradoxical Ways of Love",
@@ -424,6 +583,9 @@
     "first_line": "साबिर ने जद नेहुं लगाइआ, देख पिया ने की दिखलाइआ,"
   },
   {
+    "uid": "kafi_54",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 54,
     "title": "54. जिचर ना इश्क मजाज़ी लागे",
     "title_english": "Until Metaphorical Love Awakens the Heart",
@@ -432,6 +594,9 @@
     "first_line": "जिचर ना इश्क मजाज़ी लागे ।"
   },
   {
+    "uid": "kafi_55",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 55,
     "title": "55. जिन्द कुड़िकी दे मूंह आई",
     "title_english": "My Soul Has Fallen Into the Snare",
@@ -440,6 +605,9 @@
     "first_line": "आपे हैं तूं लहमका लहमी, आपे हैं तूं न्यारा,"
   },
   {
+    "uid": "kafi_56",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 56,
     "title": "56. जिस तन लगिआ इश्क कमाल",
     "title_english": "The Body Where Consummate Love Strikes",
@@ -448,6 +616,9 @@
     "first_line": "जिस तन लगिआ इश्क कमाल ।"
   },
   {
+    "uid": "kafi_57",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 57,
     "title": "57. जो रंग रंगिआ गूढ़ा रंगिआ, मुरशद वाली लाली ओ यार",
     "title_english": "The Deep Dye Wherewith I am Dyed, The Master's Crimson Glow, O Friend!",
@@ -456,6 +627,9 @@
     "first_line": "आहद विचों अहमद होया, विचों मीम निकाली ओ यार ।"
   },
   {
+    "uid": "kafi_58",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 58,
     "title": "58. कदी आ मिल बिरहों सताई नूं",
     "title_english": "Come Meet Me Sometime, Sufferer of Separation",
@@ -464,6 +638,9 @@
     "first_line": "इश्क लग्गे तां है है कूकें,"
   },
   {
+    "uid": "kafi_59",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 59,
     "title": "59. कदी आ मिल यार प्यारिआ",
     "title_english": "Come Meet Me, Beloved Friend",
@@ -472,6 +649,9 @@
     "first_line": "कदी आ मिल यार प्यारिआ ।"
   },
   {
+    "uid": "kafi_60",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 60,
     "title": "60. कदी आपनी आख बुलाओगे",
     "title_english": "Wilt Thou Ever Call Me Thine Own?",
@@ -480,6 +660,9 @@
     "first_line": "मैं बेगुन क्या गुन किया है, तन पिया है मन पिया है,"
   },
   {
+    "uid": "kafi_61",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 61,
     "title": "61. कदी मोड़ मुहारां ढोलिआ",
     "title_english": "Turn the Reins Sometime, O Beloved!",
@@ -488,6 +671,9 @@
     "first_line": "कदी मोड़ मुहारां ढोलिआ ।"
   },
   {
+    "uid": "kafi_62",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 62,
     "title": "62. कपूरी रेवड़ी क्यों कर लड़े पतासे नाल",
     "title_english": "How Can Kapuri Revadi Fight With Patasa?",
@@ -496,6 +682,9 @@
     "first_line": "तेल तिलां दे लड्डू ने, जलेबी पकड़ मंगाई,"
   },
   {
+    "uid": "kafi_63",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 63,
     "title": "63. कर कत्तन वल्ल ध्यान कुड़े",
     "title_english": "Pay Heed Unto Thy Spinning, O Maiden!",
@@ -504,6 +693,9 @@
     "first_line": "नित मत्तीं देंदी मां धिया, क्यों फिरनी एं ऐवें आ धिया,"
   },
   {
+    "uid": "kafi_64",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 64,
     "title": "64. कत्त कुड़े ना वत्त कुड़े",
     "title_english": "Spin, O Maiden, Do Not Wander In Vain!",
@@ -512,6 +704,9 @@
     "first_line": "कत्त कुड़े ना वत्त कुड़े ।"
   },
   {
+    "uid": "kafi_65",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 65,
     "title": "65. कौन आया पहन लिबास कुड़े",
     "title_english": "Who Has Arrived Donning This Garb, O Maidens?",
@@ -520,6 +715,9 @@
     "first_line": "कौन आया पहन लिबास कुड़े ।"
   },
   {
+    "uid": "kafi_66",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 66,
     "title": "66. केहे लारे देना एं सानूं दो घड़ियां मिल जाईं",
     "title_english": "Why Make Such False Excuses? Come Meet Me For Two Fleeting Moments!",
@@ -528,6 +726,9 @@
     "first_line": "केहे लारे देना एं सानूं दो घड़ियां मिल जाईं ।"
   },
   {
+    "uid": "kafi_67",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 67,
     "title": "67. ख़ाकी ख़ाक स्युं रल जाणा",
     "title_english": "This Dust Shall Merge With Dust",
@@ -536,6 +737,9 @@
     "first_line": "ख़ाकी ख़ाक सूं (स्युं) रल जाणा"
   },
   {
+    "uid": "kafi_68",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 68,
     "title": "68. खेड लै विच वेहड़े घुंमी घुंम",
     "title_english": "Dance Spinning in the Courtyard!",
@@ -544,6 +748,9 @@
     "first_line": "खेड लै विच वेहड़े घुंमी घुंम ।"
   },
   {
+    "uid": "kafi_69",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 69,
     "title": "69. की बेदरदां संग यारी",
     "title_english": "What Avails Friendship With The Heartless?",
@@ -552,6 +759,9 @@
     "first_line": "की बेदरदां संग यारी,"
   },
   {
+    "uid": "kafi_70",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 70,
     "title": "70. कीहनूं ला-मकानी दस्सदे हो",
     "title_english": "Whom Art Thou Telling Thou Art Spaceless?",
@@ -560,6 +770,9 @@
     "first_line": "कीहनूं ला-मकानी दस्सदे हो ।"
   },
   {
+    "uid": "kafi_71",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 71,
     "title": "71. की जाणां मैं कोई",
     "title_english": "What Do I Know Who I Am?",
@@ -568,6 +781,9 @@
     "first_line": "की जाणां मैं कोई,"
   },
   {
+    "uid": "kafi_72",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 72,
     "title": "72. की करदा बेपरवाही जे",
     "title_english": "What Sovereign Nonchalance and Carefree Play Is This!",
@@ -576,6 +792,9 @@
     "first_line": "की करदा बेपरवाही जे ।"
   },
   {
+    "uid": "kafi_73",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 73,
     "title": "73. की करदा नी की करदा नी",
     "title_english": "What Is He Doing, O Maidens, What Is My Beloved Doing?",
@@ -584,6 +803,9 @@
     "first_line": "की करदा नी की करदा नी,"
   },
   {
+    "uid": "kafi_74",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 74,
     "title": "74. क्यों इश्क असां ते आया ए",
     "title_english": "Why Hath Love Fallen Upon Us?",
@@ -592,6 +814,9 @@
     "first_line": "क्यों इश्क असां ते आया ए ।"
   },
   {
+    "uid": "kafi_75",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 75,
     "title": "75. क्यों लड़ना हैं क्यों लड़ना हैं ग़ैर गुनाही",
     "title_english": "Why Dost Thou Contend With Me When I Am Without Sin?",
@@ -600,6 +825,9 @@
     "first_line": "क्यों लड़ना हैं क्यों लड़ना हैं ग़ैर गुनाही ।"
   },
   {
+    "uid": "kafi_76",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 76,
     "title": "76. क्यों ओहले बह बह झाकी दा",
     "title_english": "Why Dost Thou Peep Sitting Behind The Veil?",
@@ -608,6 +836,9 @@
     "first_line": "क्यों ओहले बह बह झाकी दा ।"
   },
   {
+    "uid": "kafi_77",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 77,
     "title": "77. लणतरानी दस्स के जानी हुन क्यों मुक्ख छुपाइआ ई",
     "title_english": "Saying 'Thou Shalt Not See Me', O Darling, Why Hast Thou Hidden Thy Face?",
@@ -616,6 +847,9 @@
     "first_line": "मैं ढोलन विच फ़रक ना कोई एनुमा फ़ुरमाइआ ई ।"
   },
   {
+    "uid": "kafi_78",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 78,
     "title": "78. माटी कुदम करेंदी यार",
     "title_english": "The Clay Dances and Gallops, O Friend!",
@@ -624,6 +858,9 @@
     "first_line": "माटी जोड़ा माटी घोड़ा, माटी दा असवार,"
   },
   {
+    "uid": "kafi_79",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 79,
     "title": "79. माही वे तैं मिलिआं सभ दुक्ख होवन दूर",
     "title_english": "O Beloved! In Meeting Thee All Sorrows Fade Away",
@@ -632,6 +869,9 @@
     "first_line": "लोकां दे भाने चाक चकेटा, साडा रब्ब ग़फ़ूर ।"
   },
   {
+    "uid": "kafi_80",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 80,
     "title": "80. मैं बे-कैद मैं बे-कैद",
     "title_english": "I Am Boundless, Unconfined and Free!",
@@ -640,6 +880,9 @@
     "first_line": "मैं बे-कैद मैं बे-कैद ।"
   },
   {
+    "uid": "kafi_81",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 81,
     "title": "81. मैं चूहरेटड़ी आं सच्चे साहब दे दरबारों",
     "title_english": "I Am A Lowly Sweeper Maid of the True Master's Court",
@@ -648,6 +891,9 @@
     "first_line": "पैरों नंगी सिरों झंडोली सुनेहा आया पारों,"
   },
   {
+    "uid": "kafi_82",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 82,
     "title": "82. मैं चूहरेटड़ी आं सच्चे साहब दी सरकारों",
     "title_english": "I Am The Sweeper Maid in the True Master's Government",
@@ -656,6 +902,9 @@
     "first_line": "मैं चूहरेटड़ी आं सच्चे साहब दी सरकारों ।"
   },
   {
+    "uid": "kafi_83",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 83,
     "title": "83. मैं गल्ल ओथे दी करदा हां",
     "title_english": "I Speak of the Realm Beyond, Yet Tremble to Speak",
@@ -664,6 +913,9 @@
     "first_line": "मैं गल्ल ओथे दी करदा हां ।"
   },
   {
+    "uid": "kafi_84",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 84,
     "title": "84. मैं कुसुम्बड़ा चुन चुन हारी",
     "title_english": "I Have Wearied of Plucking This Safflower",
@@ -672,6 +924,9 @@
     "first_line": "एस कुसुम्बे दे कंडे भलेरे अड़ अड़ चुन्नड़ी पाड़ी ।"
   },
   {
+    "uid": "kafi_85",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 85,
     "title": "85. मैं क्यों कर जावां काअबे नूं",
     "title_english": "Why Should I Journey To The Kaaba?",
@@ -680,6 +935,9 @@
     "first_line": "मैं क्यों कर जावां काअबे नूं,"
   },
   {
+    "uid": "kafi_86",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 86,
     "title": "86. मैं पा पढ़िआं तों नस्सना हां",
     "title_english": "I Flee From The Pious Pedants and Bookish Scholars",
@@ -688,6 +946,9 @@
     "first_line": "मैं पा पढ़िआं तों नस्सना हां ।"
   },
   {
+    "uid": "kafi_87",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 87,
     "title": "87. मैं पाइआ ए मैं पाइआ ए",
     "title_english": "I Have Found Him! I Have Found Him!",
@@ -696,6 +957,9 @@
     "first_line": "मैं पाइआ ए मैं पाइआ ए ।"
   },
   {
+    "uid": "kafi_88",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 88,
     "title": "88. मैं पुच्छां शहु दियां वाटां नी",
     "title_english": "I Ask The Pathways Unto The Lord, O Sisters!",
@@ -704,6 +968,9 @@
     "first_line": "मैं पुच्छां शहु दियां वाटां नी ।"
   },
   {
+    "uid": "kafi_89",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 89,
     "title": "89. मैनूं छड्ड गए आप लद्द गए मैं विच की तकसीर",
     "title_english": "Leaving Me Behind, He Departed: What Was My Fault?",
@@ -712,6 +979,9 @@
     "first_line": "मैनूं छड्ड गए आप लद्द गए मैं विच की तकसीर ।"
   },
   {
+    "uid": "kafi_90",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 90,
     "title": "90. मैनूं दरद अवल्लड़े दी पीड़",
     "title_english": "I Suffer The Torment of A Strange and Wonder-Filled Malady",
@@ -720,6 +990,9 @@
     "first_line": "मैनूं दरद अवल्लड़े दी पीड़ ।"
   },
   {
+    "uid": "kafi_91",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 91,
     "title": "91. मैं उडीकां कर रही कदी आ कर फेरा",
     "title_english": "I Stand Waiting in Yearning: Come Sometime and Grace My Hearth!",
@@ -728,6 +1001,9 @@
     "first_line": "मैं जो तैनूं आख्या कोई घल्ल सुनेहड़ा ।"
   },
   {
+    "uid": "kafi_92",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 92,
     "title": "92. मैनूं इश्क हुलारे देंदा",
     "title_english": "Love Gives Me Sweet Ecstatic Swings",
@@ -736,6 +1012,9 @@
     "first_line": "मैनूं इश्क हुलारे देंदा ।"
   },
   {
+    "uid": "kafi_93",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 93,
     "title": "93. मैनूं की होया हुन मैथों गई गवाती मैं",
     "title_english": "What Hath Befallen Me? From Me My 'I-ness' Is Lost and Gone!",
@@ -744,6 +1023,9 @@
     "first_line": "मैनूं की होया क्यों मैनूं कमली कहन्दी हैं ।"
   },
   {
+    "uid": "kafi_94",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 94,
     "title": "94. मैनूं सुक्ख दा सुनेहड़ा तूं झब लिआवीं वे",
     "title_english": "Bring Me The Tidings of Joy With Speed, O Wayfarer!",
@@ -752,6 +1034,9 @@
     "first_line": "मैनूं सुक्ख दा सुनेहड़ा तूं झब लिआवीं वे,"
   },
   {
+    "uid": "kafi_95",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 95,
     "title": "95. मैं विच मैं ना रह गई राई",
     "title_english": "Not An Iota of 'I' Remained In Me",
@@ -760,6 +1045,9 @@
     "first_line": "मैं विच मैं ना रह गई राई ।"
   },
   {
+    "uid": "kafi_96",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 96,
     "title": "96. मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के",
     "title_english": "I Shall Go With the Yogi, Having Anointed My Brow With Tilak",
@@ -768,6 +1056,9 @@
     "first_line": "मैं वैसां ना रहसां होड़े, कौन कोई मैं जांदी नूं मोड़े,"
   },
   {
+    "uid": "kafi_97",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 97,
     "title": "97. मन अटकियो शाम सुन्दर सों",
     "title_english": "The Mind is Enamored of Shyam Sundar",
@@ -776,6 +1067,9 @@
     "first_line": "कहूं वेखूं बाहमन कहूं सेखा,"
   },
   {
+    "uid": "kafi_98",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 98,
     "title": "98. माए ! ना मुड़दा इश्क दीवाना, शहु नाल परीतां ला के",
     "title_english": "O Mother! This Mad Love Will Not Relent, Having Bound Love with the Sovereign",
@@ -784,6 +1078,9 @@
     "first_line": "माए ! ना मुड़दा इश्क दीवाना, शहु नाल परीतां ला के ।"
   },
   {
+    "uid": "kafi_99",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 99,
     "title": "99. मेरा रांझा हुन कोई होर",
     "title_english": "My Ranjha is Now Someone Else Entirely",
@@ -792,6 +1089,9 @@
     "first_line": "मेरा रांझा हुन कोई होर ।"
   },
   {
+    "uid": "kafi_100",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 100,
     "title": "100. मेरे घर आया पिया हमारा",
     "title_english": "My Beloved Has Arrived at My Home",
@@ -800,6 +1100,9 @@
     "first_line": "वाह वाह वाहदत कीना शोर, अनहद बांसरी दी घंगोर,"
   },
   {
+    "uid": "kafi_101",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 101,
     "title": "101. मेरे क्युं चिर लाइआ माही",
     "title_english": "Why Has My Beloved Tarried So Long?",
@@ -808,6 +1111,9 @@
     "first_line": "मेरे क्युं चिर लाइआ माही ।"
   },
   {
+    "uid": "kafi_102",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 102,
     "title": "102. मेरे माही क्युं चिर लाइआ ए",
     "title_english": "Why Has My Beloved Tarried So Long, O Sisters?",
@@ -816,6 +1122,9 @@
     "first_line": "कह बुल्ल्हा हुन प्रेम कहाणी, जिस तन लागे सो तन जाणे,"
   },
   {
+    "uid": "kafi_103",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 103,
     "title": "103. मेरे नौशहु दा कित मोल",
     "title_english": "What Can Measure the Worth of My Divine Bridegroom?",
@@ -824,6 +1133,9 @@
     "first_line": "मेरे नौशहु दा कित मोल ।"
   },
   {
+    "uid": "kafi_104",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 104,
     "title": "104. मेरी बुक्कल दे विच्च चोर",
     "title_english": "The Thief is Hiding Within My Own Cloak!",
@@ -832,6 +1144,9 @@
     "first_line": "मेरी बुक्कल दे विच्च चोर ।"
   },
   {
+    "uid": "kafi_105",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 105,
     "title": "105. मिल लओ सहेलड़ीयो मेरी राज गहेलड़ीयो, मैं साहुरिआं घर जाणा",
     "title_english": "Meet Me, O Sister Friends of My Youth: I Must Depart for My In-Laws' Home!",
@@ -840,6 +1155,9 @@
     "first_line": "मिल लओ सहेलड़ीयो मेरी राज गहेलड़ीयो, मैं साहुरिआं घर जाना ।"
   },
   {
+    "uid": "kafi_106",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 106,
     "title": "106. मित्तर प्यारे कारन नी मैं लोक उल्हामें लैनी हां",
     "title_english": "For the Sake of My Beloved Friend, I Bear the World's Reproach",
@@ -848,6 +1166,9 @@
     "first_line": "लग्गा नेहुं मेरा जिस सेती, सरहाने वेख पलंघ दे जीती,"
   },
   {
+    "uid": "kafi_107",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 107,
     "title": "107. मूंह आई बात ना रहन्दी ए",
     "title_english": "The Truth That Rises to the Lips Cannot Be Kept Within!",
@@ -856,6 +1177,9 @@
     "first_line": "झूठ आखां ते कुझ बचदा ए सच्च आख्यां भांबड़ मचदा ए,"
   },
   {
+    "uid": "kafi_108",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 108,
     "title": "108. मुल्लां मैनूं मारदा ई",
     "title_english": "The Mullah Beats Me For Loving Alif!",
@@ -864,6 +1188,9 @@
     "first_line": "मुल्लां मैनूं मारदा ई ।"
   },
   {
+    "uid": "kafi_109",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 109,
     "title": "109. मुरली बाज उठी अणघातां",
     "title_english": "The Divine Flute Has Sounded at an Unearthly Hour!",
@@ -872,6 +1199,9 @@
     "first_line": "मुरली बाज उठी अणघातां ।"
   },
   {
+    "uid": "kafi_110",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 110,
     "title": "110. ना जीवां महाराज, मैं तेरे बिन ना जीवां",
     "title_english": "I Cannot Live, O Maharaj, Without Thee I Cannot Live!",
@@ -880,6 +1210,9 @@
     "first_line": "इहनां सुक्यां फुल्लां विच बास नहीं,"
   },
   {
+    "uid": "kafi_111",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 111,
     "title": "111. नी कुटीचल मेरा नां",
     "title_english": "O Sisters, 'The Bruised and Beaten One' is My Name!",
@@ -888,6 +1221,9 @@
     "first_line": "मुल्लां मैनूं सबक पढ़ाइआ, अलफों अग्गे कुझ्झ ना आया,"
   },
   {
+    "uid": "kafi_112",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 112,
     "title": "112. नी मैं हुन सुण्या इश्क शर्हा की नाता",
     "title_english": "Hear, O Sisters: What Kinship Has Love With Formal Law?",
@@ -896,6 +1232,9 @@
     "first_line": "नी मैं हुन सुण्या इश्क शर्हा की नाता ।"
   },
   {
+    "uid": "kafi_113",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 113,
     "title": "113. हाजी लोक मक्के नूं जांदे",
     "title_english": "The Pilgrims Journey to Mecca, But My Mecca is Ranjha Mahi!",
@@ -904,6 +1243,9 @@
     "first_line": "हाजी लोक मक्के नूं जांदे,"
   },
   {
+    "uid": "kafi_114",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 114,
     "title": "114. नी मैनूं लग्गड़ा इश्क अवल्ल दा",
     "title_english": "O Sisters, the Love of the Primordial Day Has Struck Me!",
@@ -912,6 +1254,9 @@
     "first_line": "नी मैनूं लग्गड़ा इश्क अवल्ल दा ।"
   },
   {
+    "uid": "kafi_115",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 115,
     "title": "115. नी सईयो मैं गई गवाची",
     "title_english": "O Sister Friends, I Am Lost to Myself!",
@@ -920,6 +1265,9 @@
     "first_line": "नी सईयो मैं गई गवाची,"
   },
   {
+    "uid": "kafi_116",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 116,
     "title": "116. नित्त पढ़ना एं इसतग़फ़्फ़ार",
     "title_english": "Constantly Thou Recitest Istighfar: What Repentance is This, O Friend?",
@@ -928,6 +1276,9 @@
     "first_line": "नित्त पढ़ना एं इसतग़फ़्फ़ार,"
   },
   {
+    "uid": "kafi_117",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 117,
     "title": "117. पानी भर भर गईआं सभ्भे, आपो आपनी वार",
     "title_english": "Filling Water All Have Departed, Each in Their Own Appointed Turn",
@@ -936,6 +1287,9 @@
     "first_line": "पानी भर भर गईआं सभ्भे, आपो आपनी वार ।"
   },
   {
+    "uid": "kafi_118",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 118,
     "title": "118. परदा किस तों राखीदा",
     "title_english": "From Whom Art Thou Keeping This Veil, O Beloved?",
@@ -944,6 +1298,9 @@
     "first_line": "परदा किस तों राखीदा ।"
   },
   {
+    "uid": "kafi_119",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 119,
     "title": "119. पड़तालिओ हुन आशक केहड़े",
     "title_english": "Examine Now and Discern: Who Are the True Lovers?",
@@ -952,6 +1309,9 @@
     "first_line": "नेहुं लग्गा मत गई गवाती, नाहुनो-अकरब ज़ात पछाती,"
   },
   {
+    "uid": "kafi_120",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 120,
     "title": "120. पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे",
     "title_english": "I Shall Write Letters to Shyam: My Beloved is Nowhere in Sight!",
@@ -960,6 +1320,9 @@
     "first_line": "पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे ।"
   },
   {
+    "uid": "kafi_121",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 121,
     "title": "121. प्यारे बिन मसल्हत उट्ठ जाणा",
     "title_english": "Without Counsel We Must Depart, O Beloved: Sometime Turn Wise!",
@@ -968,6 +1331,9 @@
     "first_line": "प्यारे बिन मसल्हत उट्ठ जाना ।"
   },
   {
+    "uid": "kafi_122",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 122,
     "title": "122. प्यारिआ संभल के नेहुं ला पिच्छों पछतावेंगा",
     "title_english": "O Dear Soul, Enter Love With Caution, Lest Thou Repent Afterwards!",
@@ -976,6 +1342,9 @@
     "first_line": "जांदा जा ना आवीं फेर, ओथे बेपरवाही ढेर,"
   },
   {
+    "uid": "kafi_123",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 123,
     "title": "123. प्यारिआ सानूं मिट्ठड़ा ना लग्गदा शोर",
     "title_english": "O Beloved, Worldly Clamor No Longer Sounds Sweet to Us",
@@ -984,6 +1353,9 @@
     "first_line": "हुन मैं ते राजी रहनां,"
   },
   {
+    "uid": "kafi_124",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 124,
     "title": "124. पिया पिया करते हमीं पिया हुए, अब पिया किस नूं कहीए",
     "title_english": "Repeating 'Pia, Pia!', I Myself Became the Beloved: Whom Shall I Call 'Pia' Now?",
@@ -992,6 +1364,9 @@
     "first_line": "पिया पिया करते हमीं पिया हुए, अब पिया किस नूं कहीए ।"
   },
   {
+    "uid": "kafi_125",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 125,
     "title": "125. रातीं जागें करें इबादत",
     "title_english": "Thou Keepest Vigil at Night in Worship: At Night Dogs Keep Vigil Too—They Are Far Above Thee!",
@@ -1000,6 +1375,9 @@
     "first_line": "रातीं जागें करें इबादत,"
   },
   {
+    "uid": "kafi_126",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 126,
     "title": "126. रहु रहु उए इश्का मारिआ ई",
     "title_english": "Hold, Hold, O Love! Thou Hast Struck Down All: Say, Whom Hast Thou Ferried Across?",
@@ -1008,6 +1386,9 @@
     "first_line": "रहु रहु उए इश्का मारिआ ई ।"
   },
   {
+    "uid": "kafi_127",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 127,
     "title": "127. रैन गई लटके (लुड़के) सभ तारे",
     "title_english": "The Night is Spent, the Stars Have Sunk Low: Awaken Now, O Dear Traveler!",
@@ -1016,6 +1397,9 @@
     "first_line": "रैन गई लटके (लुड़के) सभ तारे,"
   },
   {
+    "uid": "kafi_128",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 128,
     "title": "128. रांझा जोगीड़ा बण आया",
     "title_english": "Ranjha Has Arrived Having Become a Yogi: Wondrous is the Guise the Actor Plays!",
@@ -1024,6 +1408,9 @@
     "first_line": "रांझा जोगीड़ा बण आया ।"
   },
   {
+    "uid": "kafi_129",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 129,
     "title": "129. रांझा रांझा करदी नी मैं आपे रांझा होई",
     "title_english": "Repeating 'Ranjha, Ranjha!', O Sisters, I Myself Became Ranjha!",
@@ -1032,6 +1419,9 @@
     "first_line": "रांझा रांझा करदी नी मैं आपे रांझा होई ।"
   },
   {
+    "uid": "kafi_130",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 130,
     "title": "130. रोज़े हज्ज निमाज़ नी माए",
     "title_english": "Fasts, Hajj, and Ritual Prayers, O Mother: My Beloved Came and Made Me Forget Them All!",
@@ -1040,6 +1430,9 @@
     "first_line": "रोज़े हज्ज निमाज़ नी माए,"
   },
   {
+    "uid": "kafi_131",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 131,
     "title": "131. सभ इको रंग कपाहीं दा",
     "title_english": "All is But the Single Color of Cotton!",
@@ -1048,6 +1441,9 @@
     "first_line": "तानी ताना पेटा नलियां, पीठ नड़ा ते छब्बां छल्लियां,"
   },
   {
+    "uid": "kafi_132",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 132,
     "title": "132. सदा मैं साहवरिआं घर जाणा",
     "title_english": "Forever Must I Depart for My In-Laws' Home: Meet Me, O Sister Friends!",
@@ -1056,6 +1452,9 @@
     "first_line": "सदा मैं साहवरिआं घर जाणा,"
   },
   {
+    "uid": "kafi_133",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 133,
     "title": "133. साडे वल्ल मुक्खड़ा मोड़ वे प्यारिआ",
     "title_english": "Turn Thy Visage Towards Us, O Beloved!",
@@ -1064,6 +1463,9 @@
     "first_line": "साडे वल्ल मुक्खड़ा मोड़ वे प्यारिआ,"
   },
   {
+    "uid": "kafi_134",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 134,
     "title": "134. साईं छुप तमाशे नूं आया",
     "title_english": "The Master Came in Disguise to Watch the Cosmic Spectacle!",
@@ -1072,6 +1474,9 @@
     "first_line": "साईं छुप तमाशे नूं आया,"
   },
   {
+    "uid": "kafi_135",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 135,
     "title": "135. सज्जणां दे विछोड़े कोलों तन दा लहू छानी दा",
     "title_english": "From the Agony of the Beloved's Separation, the Blood of the Body is Strained!",
@@ -1080,6 +1485,9 @@
     "first_line": "दुक्खां सुक्खां कीता एका, ना कोई सहुरा ना कोई पेका,"
   },
   {
+    "uid": "kafi_136",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 136,
     "title": "136. सानूं आ मिल यार प्यारिआ",
     "title_english": "Come Meet Me, O Beloved Friend",
@@ -1088,6 +1496,9 @@
     "first_line": "दूर दूर असाथों ग्युं, अजला (अरशां) ते आ के बह रहउं,"
   },
   {
+    "uid": "kafi_137",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 137,
     "title": "137. सईयो हुन मैं साजन पाइओ ई",
     "title_english": "O Friends, Now I Have Found My Beloved",
@@ -1096,6 +1507,9 @@
     "first_line": "सईयो हुन मैं साजन पाइओ ई ।"
   },
   {
+    "uid": "kafi_138",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 138,
     "title": "138. से वणजारे आए नी माए, से वणजारे आए",
     "title_english": "Those Jewel-Merchants Have Arrived, O Mother!",
@@ -1104,6 +1518,9 @@
     "first_line": "से वणजारे आए नी माए, से वणजारे आए ।"
   },
   {
+    "uid": "kafi_139",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 139,
     "title": "139. सुनो तुम इश्क की बाज़ी, मलायक है कहां राज़ी",
     "title_english": "Listen to the Cosmic Wager of Love",
@@ -1112,6 +1529,9 @@
     "first_line": "सुनो तुम इश्क की बाज़ी, मलायक है कहां राज़ी,"
   },
   {
+    "uid": "kafi_140",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 140,
     "title": "140. तैं कित पर पाउं पसारा ए",
     "title_english": "Why Have You Spread Your Feet in Heedless Slumber?",
@@ -1120,6 +1540,9 @@
     "first_line": "तैं कित पर पाउं पसारा ए ।"
   },
   {
+    "uid": "kafi_141",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 141,
     "title": "141. तांघ माही दी जलियां",
     "title_english": "Burning in Yearning for the Herdsman Beloved",
@@ -1128,6 +1551,9 @@
     "first_line": "तांघ माही दी जलियां,"
   },
   {
+    "uid": "kafi_142",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 142,
     "title": "142. बहुड़ीं वे तबीबा मैंडी जिन्द गईआ / तेरे इश्क नचाइआ",
     "title_english": "Heal Me, O Divine Physician! Thy Love Has Made Me Dance",
@@ -1136,6 +1562,9 @@
     "first_line": "बहुड़ीं वे तबीबा मैंडी जिन्द गईआ ।"
   },
   {
+    "uid": "kafi_143",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 143,
     "title": "143. टूने कामन करके नी मैं प्यारा यार मनावांगी",
     "title_english": "Through Spells and Incantations I Shall Win My Beloved",
@@ -1144,6 +1573,9 @@
     "first_line": "इस टूने नूं पढ़ फूकांगी, सूरज अगन जलावांगी ।"
   },
   {
+    "uid": "kafi_144",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 144,
     "title": "144. तूं किधरों आया किधर जाणा, आपना दस्स टिकाणा",
     "title_english": "Whence Have You Come, Whither Shall You Go? Declare Your Abode",
@@ -1152,6 +1584,9 @@
     "first_line": "तूं किधरों आया किधर जाणा, आपना दस्स टिकाना ।"
   },
   {
+    "uid": "kafi_145",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 145,
     "title": "145. तूं नहीउं मैं नाहीं वे सज्जणा, तूं नहीउं मैं नाहीं",
     "title_english": "Neither Art Thou, Nor Am I, O Beloved!",
@@ -1160,6 +1595,9 @@
     "first_line": "खोले दे परछावें वांङू, घुम रेहा मन माहीं ।"
   },
   {
+    "uid": "kafi_146",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 146,
     "title": "146. टुक्क बूझ कौन छुप आया ए",
     "title_english": "Decipher Who Has Come in Disguise!",
@@ -1168,6 +1606,9 @@
     "first_line": "टुक्क बूझ कौन छुप आया ए ।"
   },
   {
+    "uid": "kafi_147",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 147,
     "title": "147. तुसीं आओ मिल मेरी प्यारी",
     "title_english": "Come Meet Me, O My Beloved Companion",
@@ -1176,6 +1617,9 @@
     "first_line": "तुसीं आओ मिल मेरी प्यारी ।"
   },
   {
+    "uid": "kafi_148",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 148,
     "title": "148. तुसीं करो असाडी कारी",
     "title_english": "Come Find a Cure for My Ailment!",
@@ -1184,6 +1628,9 @@
     "first_line": "तुसीं करो असाडी कारी ।"
   },
   {
+    "uid": "kafi_149",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 149,
     "title": "149. उलटे होर ज़माने आए",
     "title_english": "Inverted Times Have Arrived",
@@ -1192,6 +1639,9 @@
     "first_line": "उलटे होर ज़माने आए ।"
   },
   {
+    "uid": "kafi_150",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 150,
     "title": "150. उलटी गंग बहाइओ रे साधो, तब हर दरसन पाए",
     "title_english": "Make the Ganges Flow in Reverse, O Seekers!",
@@ -1200,6 +1650,9 @@
     "first_line": "उलटी गंग बहाइओ रे साधो, तब हर दरसन पाए ।"
   },
   {
+    "uid": "kafi_151",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 151,
     "title": "151. उट्ठ गए गवांढों यार",
     "title_english": "The Beloved Has Departed from the Neighborhood",
@@ -1208,6 +1661,9 @@
     "first_line": "उट्ठ गए गवांढों यार,"
   },
   {
+    "uid": "kafi_152",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 152,
     "title": "152. उट्ठ जाग घुराड़े मार नहीं",
     "title_english": "Arise, Awake! Snore Not in Slumber!",
@@ -1216,6 +1672,9 @@
     "first_line": "उट्ठ जाग घुराड़े मार नहीं ।"
   },
   {
+    "uid": "kafi_153",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 153,
     "title": "153. वेखो नी कर गया माही",
     "title_english": "Behold, What My Herdsman Has Done!",
@@ -1224,6 +1683,9 @@
     "first_line": "वेखो नी कर गया माही ।"
   },
   {
+    "uid": "kafi_154",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 154,
     "title": "154. वेखो नी प्यारा मैनूं सुफने में छल गया",
     "title_english": "Behold, the Beloved Beguiled Me in a Dream",
@@ -1232,6 +1694,9 @@
     "first_line": "मैं सोई होई मुट्ठी आं, मैं वांग ज़ुलैखां कुट्ठी आं,"
   },
   {
+    "uid": "kafi_155",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 155,
     "title": "155. वेखो नी शहु इनायत साईं",
     "title_english": "Behold the Play of Master Shah Inayat!",
@@ -1240,6 +1705,9 @@
     "first_line": "वेखो नी शहु इनायत साईं ।"
   },
   {
+    "uid": "kafi_156",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 156,
     "title": "156. वाह सोहण्यां तेरी चाल अजायब लटकां नाल चलेंदे ओ",
     "title_english": "Wondrous Is Thy Gait, O Beautiful One, Walking with Graceful Strides!",
@@ -1248,6 +1716,9 @@
     "first_line": "आपे ज़ाहर आपे बातन आपे लुक्क लुक्क बहन्दे ओ ।"
   },
   {
+    "uid": "kafi_157",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 157,
     "title": "157. वाह वाह छिंझ पई दरबार",
     "title_english": "Marvelous Is the Cosmic Wrestling Match at the Royal Court!",
@@ -1256,6 +1727,9 @@
     "first_line": "वाह वाह छिंझ पई दरबार ।"
   },
   {
+    "uid": "kafi_158",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 158,
     "title": "158. वाह वाह रमज़ सजन दी होर",
     "title_english": "How Sublime and Inscrutable Is the Secret of the Beloved!",
@@ -1264,6 +1738,9 @@
     "first_line": "वाह वाह रमज़ सजन दी होर ।"
   },
   {
+    "uid": "kafi_159",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 159,
     "title": "159. वल परदे विच पाइआ यार आपे मेल मिलाइआ ए",
     "title_english": "Behind the Veil the Friend Revealed Himself, Uniting Me to His Grace",
@@ -1272,11 +1749,1924 @@
     "first_line": "हुन मैं मोई नी मेरीए मां, मेरी पूनी लै गया कां,"
   },
   {
+    "uid": "kafi_160",
+    "genre": "kafi",
+    "genre_label": "काफ़ियां",
     "id": 160,
     "title": "160. वत्त ना करसां मान रंझेटे यार दा वे अड़िआ",
     "title_english": "Never Again Shall I Boast of My Herdsman's Love, O Friend!",
     "section": "भाग 3 (काफ़ियां 101–160)",
     "raga": "Raga Kafi / Bhairavi",
     "first_line": "वत्त ना करसां मान रंझेटे यार दा वे अड़िआ ।"
+  },
+  {
+    "uid": "baranmah_1",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 1,
+    "title": "बारहमाह: अस्सू",
+    "title_english": "Assu (September–October): The Cry of Longing",
+    "section": "बारहमाह",
+    "first_line": "अस्सू लिखूं सन्देसवा वाचे मेरा पी ।"
+  },
+  {
+    "uid": "baranmah_2",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 2,
+    "title": "बारहमाह: कत्तक",
+    "title_english": "Kattak (October–November): The Alms of Union",
+    "section": "बारहमाह",
+    "first_line": "कहो कत्तक कैसी जो बण्यु कठन सो भोग ।"
+  },
+  {
+    "uid": "baranmah_3",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 3,
+    "title": "बारहमाह: मघ्घर",
+    "title_english": "Magghar (November–December): The Fire in the Bones",
+    "section": "बारहमाह",
+    "first_line": "मघ्घर मैं कर रहियां सोध के सभ उच्चे नीचे वेख ।"
+  },
+  {
+    "uid": "baranmah_4",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 4,
+    "title": "बारहमाह: पोह",
+    "title_english": "Poh (December–January): Frost on the Heath",
+    "section": "बारहमाह",
+    "first_line": "पोह हुन पुछूं जा के तुम न्यारे रहो क्युं मीत ।"
+  },
+  {
+    "uid": "baranmah_5",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 5,
+    "title": "बारहमाह: माघ",
+    "title_english": "Magh (January–February): The True Pilgrimage",
+    "section": "बारहमाह",
+    "first_line": "माघी नहावन मैं चल्ली जो तीरथ कर सम्यान ।"
+  },
+  {
+    "uid": "baranmah_6",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 6,
+    "title": "बारहमाह: फग्गन",
+    "title_english": "Phaggan (February–March): The Blood-Red Holi",
+    "section": "बारहमाह",
+    "first_line": "फग्गन फुले खेत ज्युं बण तिन फूल सिंगार ।"
+  },
+  {
+    "uid": "baranmah_7",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 7,
+    "title": "बारहमाह: चेत",
+    "title_english": "Chet (March–April): Surrender of the Ego",
+    "section": "बारहमाह",
+    "first_line": "चेत चमन विच कोइलां नित्त कू कू करन पुकार ।"
+  },
+  {
+    "uid": "baranmah_8",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 8,
+    "title": "बारहमाह: वैसाख",
+    "title_english": "Vaisakh (April–May): The Ripe Vineyard",
+    "section": "बारहमाह",
+    "first_line": "बसाखी दा दिन कठन है जो संग मीत ना हो ।"
+  },
+  {
+    "uid": "baranmah_9",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 9,
+    "title": "बारहमाह: जेठ",
+    "title_english": "Jeth (May–June): The Scorching Furnace",
+    "section": "बारहमाह",
+    "first_line": "जेठ जेही जोहे अगन है जब के बिछड़े मीत ।"
+  },
+  {
+    "uid": "baranmah_10",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 10,
+    "title": "बारहमाह: हाड़",
+    "title_english": "Harh (June–July): The Dark Before the Dawn",
+    "section": "बारहमाह",
+    "first_line": "हाड़ सोहे मोहे झट पटे जो लग्गी प्रेम की आग ।"
+  },
+  {
+    "uid": "baranmah_11",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 11,
+    "title": "बारहमाह: सावन",
+    "title_english": "Sawan (July–August): The Rains of Divine Grace",
+    "section": "बारहमाह",
+    "first_line": "सावन सोहे मेघला घट सोहे करतार ।"
+  },
+  {
+    "uid": "baranmah_12",
+    "genre": "baranmah",
+    "genre_label": "बारहमाह",
+    "id": 12,
+    "title": "बारहमाह: भादों",
+    "title_english": "Bhadon (August–September): The Supreme Union",
+    "section": "बारहमाह",
+    "first_line": "भादों भावे तब सखी जो पल पल होवे मिलाप ।"
+  },
+  {
+    "uid": "athwara_1",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 1,
+    "title": "अठवारा: छनिछरवार",
+    "title_english": "Saturday (Chhanichharwar): The Wilds of Longing",
+    "section": "अठवारा",
+    "first_line": "छनिछरवार उतावले, वेख सज्जन दी सो।"
+  },
+  {
+    "uid": "athwara_2",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 2,
+    "title": "अठवारा: ऐतवार",
+    "title_english": "Sunday (Aitwar): The Head upon the Block",
+    "section": "अठवारा",
+    "first_line": "ऐतवार सुनेत है, जो जो कदम धरे।"
+  },
+  {
+    "uid": "athwara_3",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 3,
+    "title": "अठवारा: सोमवार",
+    "title_english": "Monday (Somwar): The Slaying of the Dead",
+    "section": "अठवारा",
+    "first_line": "बुल्ल्हा रोज़ सोमवार दे, क्या चल चल करे पुकार।"
+  },
+  {
+    "uid": "athwara_4",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 4,
+    "title": "अठवारा: मंगलवार",
+    "title_english": "Tuesday (Mangalwar): The Whirlpool of Tears",
+    "section": "अठवारा",
+    "first_line": "मंगल मैं गल पानी आ  ग्या, लबां ते आवणहार।"
+  },
+  {
+    "uid": "athwara_5",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 5,
+    "title": "अठवारा: बुद्धवार",
+    "title_english": "Wednesday (Buddhwar): The Losing of Reason",
+    "section": "अठवारा",
+    "first_line": "बुद्ध सुद्ध रही महबूब दी, सुद्ध आपनी रही ना होर।"
+  },
+  {
+    "uid": "athwara_6",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 6,
+    "title": "अठवारा: जुंमेरात",
+    "title_english": "Thursday (Jummeraat): The Cup of Ecstasy",
+    "section": "अठवारा",
+    "first_line": "जुंमेरात सुहावणी, दुक्ख दरद ना आहां पाप।"
+  },
+  {
+    "uid": "athwara_7",
+    "genre": "athwara",
+    "genre_label": "अठवारा",
+    "id": 7,
+    "title": "अठवारा: जुंमा",
+    "title_english": "Friday (Jumma): The Ever-New Splendor of Union",
+    "section": "अठवारा",
+    "first_line": "रोज़ जुंमे दे बखशियां, मैं जहियां अउगणहार।"
+  },
+  {
+    "uid": "dohre_1",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 1,
+    "title": "दोहरा 1",
+    "title_english": "Couplet 1",
+    "section": "दोहरे",
+    "first_line": "आपने तन दी ख़बर ना काई, साजन दी ख़बर ल्यावे कौण।"
+  },
+  {
+    "uid": "dohre_2",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 2,
+    "title": "दोहरा 2",
+    "title_english": "Couplet 2",
+    "section": "दोहरे",
+    "first_line": "अल्ल्हा तों मैं ते करज़ बणायआ, हत्थों तूं मेरा करज़ाई ।"
+  },
+  {
+    "uid": "dohre_3",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 3,
+    "title": "दोहरा 3",
+    "title_english": "Couplet 3",
+    "section": "दोहरे",
+    "first_line": "अरबा-अनासर महल बणायो, विच वड़ बैठा आपे ।"
+  },
+  {
+    "uid": "dohre_4",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 4,
+    "title": "दोहरा 4",
+    "title_english": "Couplet 4",
+    "section": "दोहरे",
+    "first_line": "भट्ठ नमाज़ां ते चिकड़ रोज़े, कलमे ते फिर गई स्याही ।"
+  },
+  {
+    "uid": "dohre_5",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 5,
+    "title": "दोहरा 5",
+    "title_english": "Couplet 5",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हा कसर नाम कसूर है, ओथे मूंहों ना सकन बोल ।"
+  },
+  {
+    "uid": "dohre_6",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 6,
+    "title": "दोहरा 6",
+    "title_english": "Couplet 6",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हे चल बावरचीखाने यार दे, जित्थे कोहा कोही हो ।"
+  },
+  {
+    "uid": "dohre_7",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 7,
+    "title": "दोहरा 7",
+    "title_english": "Couplet 7",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हे नूं लोक मत्तीं देंदे, बुल्ल्हआ तूं जा बहु मसीती ।"
+  },
+  {
+    "uid": "dohre_8",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 8,
+    "title": "दोहरा 8",
+    "title_english": "Couplet 8",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हे कोलों चुल्ल्हा चंगा, जिस पर ताअम पकाई दा ।"
+  },
+  {
+    "uid": "dohre_9",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 9,
+    "title": "दोहरा 9",
+    "title_english": "Couplet 9",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हे शाह चल ओथे चलीए, जित्थे सारे होवन अन्न्हे ।"
+  },
+  {
+    "uid": "dohre_10",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 10,
+    "title": "दोहरा 10",
+    "title_english": "Couplet 10",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हे शाह उह कौन है, उतम तेरा यार ।"
+  },
+  {
+    "uid": "dohre_11",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 11,
+    "title": "दोहरा 11",
+    "title_english": "Couplet 11",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ अच्छे दिन ते पिच्छे गए, जब हर से किया ना हेत ।"
+  },
+  {
+    "uid": "dohre_12",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 12,
+    "title": "दोहरा 12",
+    "title_english": "Couplet 12",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ आशक होइउं रब्ब दा, मुलामत होई लाख ।"
+  },
+  {
+    "uid": "dohre_13",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 13,
+    "title": "दोहरा 13",
+    "title_english": "Couplet 13",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ आउंदा साजन वेख के, जांदा मूल ना वेख ।"
+  },
+  {
+    "uid": "dohre_14",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 14,
+    "title": "दोहरा 14",
+    "title_english": "Couplet 14",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ चल सुन्यार दे, जित्थे गहने घड़ीए लाख ।"
+  },
+  {
+    "uid": "dohre_15",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 15,
+    "title": "दोहरा 15",
+    "title_english": "Couplet 15",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ चेरी मुसलमान दी, हिन्दू तों कुरबान ।"
+  },
+  {
+    "uid": "dohre_16",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 16,
+    "title": "दोहरा 16",
+    "title_english": "Couplet 16",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ धरमसाला धड़वाई रहन्दे, ठाकुर दुआरे ठग्ग ।"
+  },
+  {
+    "uid": "dohre_17",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 17,
+    "title": "दोहरा 17",
+    "title_english": "Couplet 17",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ धरमसाला विच नाहीं, जित्थे मोमन भोग पवाए।"
+  },
+  {
+    "uid": "dohre_18",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 18,
+    "title": "दोहरा 18",
+    "title_english": "Couplet 18",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ ग़ैन ग़रूरत साड़ सुट्ट, ते मान खूहे विच पा ।"
+  },
+  {
+    "uid": "dohre_19",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 19,
+    "title": "दोहरा 19",
+    "title_english": "Couplet 19",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ हर मन्दर में आइके, कहो लेखा द्यो बता ।"
+  },
+  {
+    "uid": "dohre_20",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 20,
+    "title": "दोहरा 20",
+    "title_english": "Couplet 20",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ हिजरत विच इसलाम दे, मेरा नित्त है ख़ास अराम ।"
+  },
+  {
+    "uid": "dohre_21",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 21,
+    "title": "दोहरा 21",
+    "title_english": "Couplet 21",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ इशक सजन दे आए के, सानूं कीतो सू डूम ।"
+  },
+  {
+    "uid": "dohre_22",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 22,
+    "title": "दोहरा 22",
+    "title_english": "Couplet 22",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ जैसी सूरत ऐन दी, तैसी सूरत ग़ैन।"
+  },
+  {
+    "uid": "dohre_23",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 23,
+    "title": "दोहरा 23",
+    "title_english": "Couplet 23",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ जे तूं ग़ाज़ी बणनैं, लक्क बन्न्ह तलवार।"
+  },
+  {
+    "uid": "dohre_24",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 24,
+    "title": "दोहरा 24",
+    "title_english": "Couplet 24",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ कनक कौडी कामनी, तीनों ही तलवार ।"
+  },
+  {
+    "uid": "dohre_25",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 25,
+    "title": "दोहरा 25",
+    "title_english": "Couplet 25",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ कसूर बेदसतूर, ओथे जाना बण्या ज़रूर ।"
+  },
+  {
+    "uid": "dohre_26",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 26,
+    "title": "दोहरा 26",
+    "title_english": "Couplet 26",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ खा हराम ते पड़्ह शुकराना, कर तौबा तरक सवाबों ।"
+  },
+  {
+    "uid": "dohre_27",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 27,
+    "title": "दोहरा 27",
+    "title_english": "Couplet 27",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ मन मंजोला मुंज दा, किते गोशे बहके कुट्ट ।"
+  },
+  {
+    "uid": "dohre_28",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 28,
+    "title": "दोहरा 28",
+    "title_english": "Couplet 28",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ मैं मिट्टी घुम्यार दी, गल्ल आख ना सकदी एक ।"
+  },
+  {
+    "uid": "dohre_29",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 29,
+    "title": "दोहरा 29",
+    "title_english": "Couplet 29",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ मुल्लां अते मसालची, दोहां इक्को चित्त ।"
+  },
+  {
+    "uid": "dohre_30",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 30,
+    "title": "दोहरा 30",
+    "title_english": "Couplet 30",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ पैंडे पड़े प्रेम के, किया पैंडा आवागौन ।"
+  },
+  {
+    "uid": "dohre_31",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 31,
+    "title": "दोहरा 31",
+    "title_english": "Couplet 31",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ परसों काफ़र थी गइउं, बुत्त पूजा कीती कल्ल्ह ।"
+  },
+  {
+    "uid": "dohre_32",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 32,
+    "title": "दोहरा 32",
+    "title_english": "Couplet 32",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ पी शराब ते खा कबाब, हेठ बाल हड्डां दी अग्ग ।"
+  },
+  {
+    "uid": "dohre_33",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 33,
+    "title": "दोहरा 33",
+    "title_english": "Couplet 33",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ काज़ी राज़ी रिशवते, मुल्लां राज़ी मौत ।"
+  },
+  {
+    "uid": "dohre_34",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 34,
+    "title": "दोहरा 34",
+    "title_english": "Couplet 34",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ रंग महल्लीं जा चड़्हउं, लोकी पुच्छन आखन खैर ।"
+  },
+  {
+    "uid": "dohre_35",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 35,
+    "title": "दोहरा 35",
+    "title_english": "Couplet 35",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ सभ मजाज़ी पौड़ियां, तूं हाल हकीकत वेख ।"
+  },
+  {
+    "uid": "dohre_36",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 36,
+    "title": "दोहरा 36",
+    "title_english": "Couplet 36",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ वारे जाईए उन्हां तों,जेहड़े गल्लीं देन प्रचा ।"
+  },
+  {
+    "uid": "dohre_37",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 37,
+    "title": "दोहरा 37",
+    "title_english": "Couplet 37",
+    "section": "दोहरे",
+    "first_line": "बुल्ल्हआ वारे जाईए उहनां तों,जेहड़े मारन गप्प सड़प्प ।"
+  },
+  {
+    "uid": "dohre_38",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 38,
+    "title": "दोहरा 38",
+    "title_english": "Couplet 38",
+    "section": "दोहरे",
+    "first_line": "फिरी रुत्त शगूफ्यां वाली, चिड़ियां चुगन नूं आईआं ।"
+  },
+  {
+    "uid": "dohre_39",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 39,
+    "title": "दोहरा 39",
+    "title_english": "Couplet 39",
+    "section": "दोहरे",
+    "first_line": "होर ने सभ्भे गलड़ियां, अल्ल्हा अल्ल्हा दी गल्ल ।"
+  },
+  {
+    "uid": "dohre_40",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 40,
+    "title": "दोहरा 40",
+    "title_english": "Couplet 40",
+    "section": "दोहरे",
+    "first_line": "इन को मुक्ख दिखलाए है, जिन सो इस की प्रीत ।"
+  },
+  {
+    "uid": "dohre_41",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 41,
+    "title": "दोहरा 41",
+    "title_english": "Couplet 41",
+    "section": "दोहरे",
+    "first_line": "इस का मुक्ख इक जोत है, घुंघट है संसार ।"
+  },
+  {
+    "uid": "dohre_42",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 42,
+    "title": "दोहरा 42",
+    "title_english": "Couplet 42",
+    "section": "दोहरे",
+    "first_line": "इट्ट खड़िके दुक्कुड़ वज्जे, तत्ता होवे चुल्ल्हा ।"
+  },
+  {
+    "uid": "dohre_43",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 43,
+    "title": "दोहरा 43",
+    "title_english": "Couplet 43",
+    "section": "दोहरे",
+    "first_line": "कनक कौडी कामनी, तीनों ही तलवार ।"
+  },
+  {
+    "uid": "dohre_44",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 44,
+    "title": "दोहरा 44",
+    "title_english": "Couplet 44",
+    "section": "दोहरे",
+    "first_line": "मूंह दिखलावे और छपे, छल बल है जग देस ।"
+  },
+  {
+    "uid": "dohre_45",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 45,
+    "title": "दोहरा 45",
+    "title_english": "Couplet 45",
+    "section": "दोहरे",
+    "first_line": "ना ख़ुदा मसीते लभदा, ना ख़ुदा विच काअबे ।"
+  },
+  {
+    "uid": "dohre_46",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 46,
+    "title": "दोहरा 46",
+    "title_english": "Couplet 46",
+    "section": "दोहरे",
+    "first_line": "ना ख़ुदा मैं तीरथ डिट्ठा, ऐवें पैंडे झागे ।"
+  },
+  {
+    "uid": "dohre_47",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 47,
+    "title": "दोहरा 47",
+    "title_english": "Couplet 47",
+    "section": "दोहरे",
+    "first_line": "रंघड़ नालों खिंघर चंगा, जिस पर पैर घसाईदा ।"
+  },
+  {
+    "uid": "dohre_48",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 48,
+    "title": "दोहरा 48",
+    "title_english": "Couplet 48",
+    "section": "दोहरे",
+    "first_line": "ठाकुर दुआरे ठग्ग बसें, भाई दवार मसीत ।"
+  },
+  {
+    "uid": "dohre_49",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 49,
+    "title": "दोहरा 49",
+    "title_english": "Couplet 49",
+    "section": "दोहरे",
+    "first_line": "उह हादी मेरे अन्दर बोल्या, रुड़्ह पुड़्ह गए गुनाहां ।"
+  },
+  {
+    "uid": "dohre_50",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 50,
+    "title": "दोहरा 50",
+    "title_english": "Couplet 50",
+    "section": "दोहरे",
+    "first_line": "वहदत दे दर्या दसेंदे, मेरी वहदत कित वल धाई।"
+  },
+  {
+    "uid": "dohre_51",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 51,
+    "title": "दोहरा 51",
+    "title_english": "Couplet 51",
+    "section": "दोहरे",
+    "first_line": "पढ़ पढ़ आलिम फ़ाज़िल होइओं,"
+  },
+  {
+    "uid": "dohre_52",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 52,
+    "title": "दोहरा 52",
+    "title_english": "Couplet 52",
+    "section": "दोहरे",
+    "first_line": "रब्ब रब्ब करदे बुढ्ढे हो गए मुल्लां पंडित सारे ।"
+  },
+  {
+    "uid": "dohre_53",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 53,
+    "title": "दोहरा 53",
+    "title_english": "Couplet 53",
+    "section": "दोहरे",
+    "first_line": "तूं वार दे हर शै यार अपने तों जे जित्तनी इशक दी बाज़ी ।"
+  },
+  {
+    "uid": "dohre_54",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 54,
+    "title": "दोहरा 54",
+    "title_english": "Couplet 54",
+    "section": "दोहरे",
+    "first_line": "ऐन इशक दे महकमे मैं ग्या, अग्गों इशक ने मेरी कड़ई लुट्ट लई ।"
+  },
+  {
+    "uid": "dohre_55",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 55,
+    "title": "दोहरा 55",
+    "title_english": "Couplet 55",
+    "section": "दोहरे",
+    "first_line": "पंजे वकत नमाज़ां पढ़ियां, ते तैनूं लोकी आखन नमाज़ी ।"
+  },
+  {
+    "uid": "dohre_56",
+    "genre": "dohre",
+    "genre_label": "दोहरे",
+    "id": 56,
+    "title": "दोहरा 56",
+    "title_english": "Couplet 56",
+    "section": "दोहरे",
+    "first_line": "जे मैं तैनूं बाहर ढूंडां, ते मेरे अन्दर कौन समाना ।"
+  },
+  {
+    "uid": "gandhan_1",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 1,
+    "title": "गंढ 1",
+    "title_english": "Knot 1",
+    "section": "गन्धां",
+    "first_line": "कहो सुरती गल्ल काज दी मैं गंढां केतियां पाऊं।"
+  },
+  {
+    "uid": "gandhan_2",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 2,
+    "title": "गंढ 2",
+    "title_english": "Knot 2",
+    "section": "गन्धां",
+    "first_line": "दूजी खोहलूं क्या कहूं दिन थोड़्हे रहन्दे।"
+  },
+  {
+    "uid": "gandhan_3",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 3,
+    "title": "गंढ 3",
+    "title_english": "Knot 3",
+    "section": "गन्धां",
+    "first_line": "तीजी खोहलूं दुक्ख से रोंदे नैन ना हट्टदे।"
+  },
+  {
+    "uid": "gandhan_4",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 4,
+    "title": "गंढ 4",
+    "title_english": "Knot 4",
+    "section": "गन्धां",
+    "first_line": "चौथी क्या हूआ रल आवन सईआं।"
+  },
+  {
+    "uid": "gandhan_5",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 5,
+    "title": "गंढ 5",
+    "title_english": "Knot 5",
+    "section": "गन्धां",
+    "first_line": "पंजवीं खोहलूं कूक के कर शोर पुकारां।"
+  },
+  {
+    "uid": "gandhan_6",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 6,
+    "title": "गंढ 6",
+    "title_english": "Knot 6",
+    "section": "गन्धां",
+    "first_line": "गंढ छेवीं मैं खोल्ह के जग्ग देंदी होका।"
+  },
+  {
+    "uid": "gandhan_7",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 7,
+    "title": "गंढ 7",
+    "title_english": "Knot 7",
+    "section": "गन्धां",
+    "first_line": "सत्तवीं गंढ चा खोहलिया मैं ओसे हीले।"
+  },
+  {
+    "uid": "gandhan_8",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 8,
+    "title": "गंढ 8",
+    "title_english": "Knot 8",
+    "section": "गन्धां",
+    "first_line": "अट्ठवीं नूं हत्थ डाल्या मैं तां हो दीवानी।"
+  },
+  {
+    "uid": "gandhan_9",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 9,
+    "title": "गंढ 9",
+    "title_english": "Knot 9",
+    "section": "गन्धां",
+    "first_line": "नावीं नूं चा खोहलआ दिन रहन्दे थोड़्हे।"
+  },
+  {
+    "uid": "gandhan_10",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 10,
+    "title": "गंढ 10",
+    "title_english": "Knot 10",
+    "section": "गन्धां",
+    "first_line": "दसवीं गंढ जां मैं खोहली क्युं जंमदी आही।"
+  },
+  {
+    "uid": "gandhan_11",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 11,
+    "title": "गंढ 11",
+    "title_english": "Knot 11",
+    "section": "गन्धां",
+    "first_line": "याहरां गंढीं खोहलियां मैं हिजरे मारी।"
+  },
+  {
+    "uid": "gandhan_12",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 12,
+    "title": "गंढ 12",
+    "title_english": "Knot 12",
+    "section": "गन्धां",
+    "first_line": "गंढ खोहली मैं बाहरवीं की होग तमाशा।"
+  },
+  {
+    "uid": "gandhan_13",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 13,
+    "title": "गंढ 13",
+    "title_english": "Knot 13",
+    "section": "गन्धां",
+    "first_line": "तेर्हां गंढीं खोहलियां नैन लहू रोंदे।"
+  },
+  {
+    "uid": "gandhan_14",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 14,
+    "title": "गंढ 14",
+    "title_english": "Knot 14",
+    "section": "गन्धां",
+    "first_line": "चौधां गंढीं खोहलियां लहू पीना खाणा।"
+  },
+  {
+    "uid": "gandhan_15",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 15,
+    "title": "गंढ 15",
+    "title_english": "Knot 15",
+    "section": "गन्धां",
+    "first_line": "पन्दरां पुन्ने रोज़ ने करां नाअरे आहीं।"
+  },
+  {
+    "uid": "gandhan_16",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 16,
+    "title": "गंढ 16",
+    "title_english": "Knot 16",
+    "section": "गन्धां",
+    "first_line": "सोलां गंढीं खोहलियां मैं होयी निमाणी।"
+  },
+  {
+    "uid": "gandhan_17",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 17,
+    "title": "गंढ 17",
+    "title_english": "Knot 17",
+    "section": "गन्धां",
+    "first_line": "सतारां गंढीं खोहलियां सूलां दे हाड़ी।"
+  },
+  {
+    "uid": "gandhan_18",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 18,
+    "title": "गंढ 18",
+    "title_english": "Knot 18",
+    "section": "गन्धां",
+    "first_line": "खोहलां गंढ अठारवीं दिल करके राज़ी।"
+  },
+  {
+    "uid": "gandhan_19",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 19,
+    "title": "गंढ 19",
+    "title_english": "Knot 19",
+    "section": "गन्धां",
+    "first_line": "उन्नी गंढीं खोहलियां मैं सूल पसारा।"
+  },
+  {
+    "uid": "gandhan_20",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 20,
+    "title": "गंढ 20",
+    "title_english": "Knot 20",
+    "section": "गन्धां",
+    "first_line": "वीह गंढीं फोल खोल्हियां हुन कित वल्ल भागूं।"
+  },
+  {
+    "uid": "gandhan_21",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 21,
+    "title": "गंढ 21",
+    "title_english": "Knot 21",
+    "section": "गन्धां",
+    "first_line": "इक्की खोहलूं क्युं नहीं मेरे मगर प्यादे।"
+  },
+  {
+    "uid": "gandhan_22",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 22,
+    "title": "गंढ 22",
+    "title_english": "Knot 22",
+    "section": "गन्धां",
+    "first_line": "बायी खोहलूं पहुंच के सभ मीरां-मलकां।"
+  },
+  {
+    "uid": "gandhan_23",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 23,
+    "title": "गंढ 23",
+    "title_english": "Knot 23",
+    "section": "गन्धां",
+    "first_line": "तेयी जे कहूं खोहलियां विच आप समाना।"
+  },
+  {
+    "uid": "gandhan_24",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 24,
+    "title": "गंढ 24",
+    "title_english": "Knot 24",
+    "section": "गन्धां",
+    "first_line": "चव्वी खोहलूं खोल्हदी चुक पवन नबेड़े।"
+  },
+  {
+    "uid": "gandhan_25",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 25,
+    "title": "गंढ 25",
+    "title_english": "Knot 25",
+    "section": "गन्धां",
+    "first_line": "मैं खोल्हां गंढ पचीसवीं दुक्खां वल मेलां।"
+  },
+  {
+    "uid": "gandhan_26",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 26,
+    "title": "गंढ 26",
+    "title_english": "Knot 26",
+    "section": "गन्धां",
+    "first_line": "छब्बीं गंढीं इमाम है कदी फेरा पायआ।"
+  },
+  {
+    "uid": "gandhan_27",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 27,
+    "title": "गंढ 27",
+    "title_english": "Knot 27",
+    "section": "गन्धां",
+    "first_line": "सतायी खोल्ह सहेलीयो सभ जतन सिधायआ।"
+  },
+  {
+    "uid": "gandhan_28",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 28,
+    "title": "गंढ 28",
+    "title_english": "Knot 28",
+    "section": "गन्धां",
+    "first_line": "अठायी गंढीं खोल्हियां नहीं अकल असाथी।"
+  },
+  {
+    "uid": "gandhan_29",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 29,
+    "title": "गंढ 29",
+    "title_english": "Knot 29",
+    "section": "गन्धां",
+    "first_line": "उनत्ती गंढीं खोल्हियां नहीं सख़ती हटदी।"
+  },
+  {
+    "uid": "gandhan_30",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 30,
+    "title": "गंढ 30",
+    "title_english": "Knot 30",
+    "section": "गन्धां",
+    "first_line": "खोल्ही गंढ मैं तीसवीं दुक्ख दरद रंजाणी।"
+  },
+  {
+    "uid": "gandhan_31",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 31,
+    "title": "गंढ 31",
+    "title_english": "Knot 31",
+    "section": "गन्धां",
+    "first_line": "इक्क इक्क गंढ नूं खोहल्यां इकती होईआं।"
+  },
+  {
+    "uid": "gandhan_32",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 32,
+    "title": "गंढ 32",
+    "title_english": "Knot 32",
+    "section": "गन्धां",
+    "first_line": "बत्ती गंढां खोल्हियां जो खोल्ही बणदी।"
+  },
+  {
+    "uid": "gandhan_33",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 33,
+    "title": "गंढ 33",
+    "title_english": "Knot 33",
+    "section": "गन्धां",
+    "first_line": "बह परछावीं खोल्हियां हुन होईआं तेती।"
+  },
+  {
+    "uid": "gandhan_34",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 34,
+    "title": "गंढ 34",
+    "title_english": "Knot 34",
+    "section": "गन्धां",
+    "first_line": "चौतीं गंढीं खोल्हियां दिन आए नेड़े।"
+  },
+  {
+    "uid": "gandhan_35",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 35,
+    "title": "गंढ 35",
+    "title_english": "Knot 35",
+    "section": "गन्धां",
+    "first_line": "बुल्ल्हा पैंती खोल्हदी शहु नेड़े आए।"
+  },
+  {
+    "uid": "gandhan_36",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 36,
+    "title": "गंढ 36",
+    "title_english": "Knot 36",
+    "section": "गन्धां",
+    "first_line": "छत्ती खोहलूं हस्स के नाल अमर ईमानी।"
+  },
+  {
+    "uid": "gandhan_37",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 37,
+    "title": "गंढ 37",
+    "title_english": "Knot 37",
+    "section": "गन्धां",
+    "first_line": "सैंती गंढीं खोल्हियां मैं महन्दी लाई।"
+  },
+  {
+    "uid": "gandhan_38",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 38,
+    "title": "गंढ 38",
+    "title_english": "Knot 38",
+    "section": "गन्धां",
+    "first_line": "अठत्ती गंढीं खोल्हियां की करने लेखे।"
+  },
+  {
+    "uid": "gandhan_39",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 39,
+    "title": "गंढ 39",
+    "title_english": "Knot 39",
+    "section": "गन्धां",
+    "first_line": "उनताली गंढीं खोल्हियां सभ सईआं रल के।"
+  },
+  {
+    "uid": "gandhan_40",
+    "genre": "gandhan",
+    "genre_label": "गन्धां",
+    "id": 40,
+    "title": "गंढ 40",
+    "title_english": "Knot 40",
+    "section": "गन्धां",
+    "first_line": "कर बिसमिल्ल्हा खोल्हियां मैं गंढां चाली।"
+  },
+  {
+    "uid": "siharfi_1",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 1,
+    "title": "अलफ़ (पहली सीहरफ़ी)",
+    "title_english": "Letter अलफ़",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "अल्ल्हा जिस दिल पर होवे, मूंह ज़रदी अक्खीं लहू भर रोवे,"
+  },
+  {
+    "uid": "siharfi_2",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 2,
+    "title": "बे (पहली सीहरफ़ी)",
+    "title_english": "Letter बे",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "बालन मैं तेरा होई, इशक नज़ारे आण वगोई,"
+  },
+  {
+    "uid": "siharfi_3",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 3,
+    "title": "ते (पहली सीहरफ़ी)",
+    "title_english": "Letter ते",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "तेरे संग प्रीत लगाई, जीऊ जामे दी कीती साई,"
+  },
+  {
+    "uid": "siharfi_4",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 4,
+    "title": "से (पहली सीहरफ़ी)",
+    "title_english": "Letter से",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "साबत नेहुं लायआ मैनूं, दूजा कूक सुणावां कीहनूं,"
+  },
+  {
+    "uid": "siharfi_5",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 5,
+    "title": "जीम (पहली सीहरफ़ी)",
+    "title_english": "Letter जीम",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "जहानों होयी सां न्यारी, लगा नेहुं तां होए भिखारी,"
+  },
+  {
+    "uid": "siharfi_6",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 6,
+    "title": "हे (पहली सीहरफ़ी)",
+    "title_english": "Letter हे",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "हैरत विच शांत नाहीं, ज़ाहर बातन मारन ढाईं,"
+  },
+  {
+    "uid": "siharfi_7",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 7,
+    "title": "ख़े (पहली सीहरफ़ी)",
+    "title_english": "Letter ख़े",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ख़ूबी हुन उह ना रहिया, जब की सांग कलेजे सहिया,"
+  },
+  {
+    "uid": "siharfi_8",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 8,
+    "title": "दाल (पहली सीहरफ़ी)",
+    "title_english": "Letter दाल",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "दूरों दुक्ख दूर ना होवे, फक्कर फ़राकों बहुता रोवे,"
+  },
+  {
+    "uid": "siharfi_9",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 9,
+    "title": "ज़ाल (पहली सीहरफ़ी)",
+    "title_english": "Letter ज़ाल",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ज़ौक दुनियां ते इतना करना, ख़ौफ़ हशर दे थीं ड्रना,"
+  },
+  {
+    "uid": "siharfi_10",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 10,
+    "title": "रे (पहली सीहरफ़ी)",
+    "title_english": "Letter रे",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "रोज़ हशर कोयी रहे ना ख़ाली, लै हिसाब दो जग्ग दा वाली,"
+  },
+  {
+    "uid": "siharfi_11",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 11,
+    "title": "ज़े (पहली सीहरफ़ी)",
+    "title_english": "Letter ज़े",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ज़ुहद कमायी चंगी करीए, जेकर मरन तों अग्गे मरीए,"
+  },
+  {
+    "uid": "siharfi_12",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 12,
+    "title": "सीन (पहली सीहरफ़ी)",
+    "title_english": "Letter सीन",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "साईं बिना जा ना कोई, जित वल वेखां ओही ओही,"
+  },
+  {
+    "uid": "siharfi_13",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 13,
+    "title": "शीन (पहली सीहरफ़ी)",
+    "title_english": "Letter शीन",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "शाह इनायत मुरशद मेरा, जिस ने कीता मैं वल फेरा,"
+  },
+  {
+    "uid": "siharfi_14",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 14,
+    "title": "सुआद (पहली सीहरफ़ी)",
+    "title_english": "Letter सुआद",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "सबर ना आवे मैनूं खल्ल्ही वसत बाज़ार,"
+  },
+  {
+    "uid": "siharfi_15",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 15,
+    "title": "ज़ुआद (पहली सीहरफ़ी)",
+    "title_english": "Letter ज़ुआद",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ज़रूरी याद अल्ल्हा दी करे सवाल रसूल,"
+  },
+  {
+    "uid": "siharfi_16",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 16,
+    "title": "तोए (पहली सीहरफ़ी)",
+    "title_english": "Letter तोए",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "तलब दीदार दी आही कीता करम सत्तार,"
+  },
+  {
+    "uid": "siharfi_17",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 17,
+    "title": "ज़ोए (पहली सीहरफ़ी)",
+    "title_english": "Letter ज़ोए",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ज़ाहर मालूम ना कीता होया दीदार बलावे,"
+  },
+  {
+    "uid": "siharfi_18",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 18,
+    "title": "ऐन (पहली सीहरफ़ी)",
+    "title_english": "Letter ऐन",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "अनायत उलफ़त होयी सुनो सहाबों यारों,"
+  },
+  {
+    "uid": "siharfi_19",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 19,
+    "title": "ग़ैन (पहली सीहरफ़ी)",
+    "title_english": "Letter ग़ैन",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ग़ुलाम ग़रीब तुसाडा ख़ैर मंगे दरबारों,"
+  },
+  {
+    "uid": "siharfi_20",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 20,
+    "title": "फ़े (पहली सीहरफ़ी)",
+    "title_english": "Letter फ़े",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "फ़कीरां फ़िकर जो कीता विच दरगाह इलाही,"
+  },
+  {
+    "uid": "siharfi_21",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 21,
+    "title": "कुआफ़ (पहली सीहरफ़ी)",
+    "title_english": "Letter कुआफ़",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "कलम ना मिटे रब्बानी जो असां पर आई,"
+  },
+  {
+    "uid": "siharfi_22",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 22,
+    "title": "काफ़ (पहली सीहरफ़ी)",
+    "title_english": "Letter काफ़",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "कलाम नबी दी सच्ची सिर नबियां दे साईं,"
+  },
+  {
+    "uid": "siharfi_23",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 23,
+    "title": "लाम (पहली सीहरफ़ी)",
+    "title_english": "Letter लाम",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "ला इल्ल्हा दा ज़िकर बतायो, इलइला इसबात कराओ,"
+  },
+  {
+    "uid": "siharfi_24",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 24,
+    "title": "मीम (पहली सीहरफ़ी)",
+    "title_english": "Letter मीम",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "मुहंमदी जिसम बणायो, दाख़ल विच बहशत कराओ,"
+  },
+  {
+    "uid": "siharfi_25",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 25,
+    "title": "नून (पहली सीहरफ़ी)",
+    "title_english": "Letter नून",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "निमाना हो मुजरम आया, कढ्ढ बहशतों ज़मीं रुलायआ,"
+  },
+  {
+    "uid": "siharfi_26",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 26,
+    "title": "वा (पहली सीहरफ़ी)",
+    "title_english": "Letter वा",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "वाह वाह आप मुहंमद आपनी आदम शकल बणावे,"
+  },
+  {
+    "uid": "siharfi_27",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 27,
+    "title": "हे (पहली सीहरफ़ी)",
+    "title_english": "Letter हे",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "हौली बोलीं एथे भायी मत कोयी सुने सुणावे,"
+  },
+  {
+    "uid": "siharfi_28",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 28,
+    "title": "लाम (पहली सीहरफ़ी)",
+    "title_english": "Letter लाम",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "लाहम ना कोयी दिस्से कित वल कूक सुणावां,"
+  },
+  {
+    "uid": "siharfi_29",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 29,
+    "title": "अलफ (पहली सीहरफ़ी)",
+    "title_english": "Letter अलफ",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "इकल्ला जावें एथों वेखन आवन ढेर,"
+  },
+  {
+    "uid": "siharfi_30",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 30,
+    "title": "ये (पहली सीहरफ़ी)",
+    "title_english": "Letter ये",
+    "section": "पहली सीहरफ़ी",
+    "first_line": "यारी हुन मैं लाई, अगली उमरा खेड वंजाई,"
+  },
+  {
+    "uid": "siharfi_31",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 31,
+    "title": "बे (दूजी सीहरफ़ी)",
+    "title_english": "Letter बे",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "बन्न्ह अक्खीं अते कन्न दोवें,"
+  },
+  {
+    "uid": "siharfi_32",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 32,
+    "title": "ते (दूजी सीहरफ़ी)",
+    "title_english": "Letter ते",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "तंग छिदर नहीं विच तेरे,"
+  },
+  {
+    "uid": "siharfi_33",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 33,
+    "title": "से (दूजी सीहरफ़ी)",
+    "title_english": "Letter से",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "समझ हिसाब कर बैठ अन्दर,"
+  },
+  {
+    "uid": "siharfi_34",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 34,
+    "title": "जीम (दूजी सीहरफ़ी)",
+    "title_english": "Letter जीम",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ज्यूना भला कर मन्न्यां तैं,"
+  },
+  {
+    "uid": "siharfi_35",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 35,
+    "title": "चे (दूजी सीहरफ़ी)",
+    "title_english": "Letter चे",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "चानना कुल जहान दा तूं,"
+  },
+  {
+    "uid": "siharfi_36",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 36,
+    "title": "हे (दूजी सीहरफ़ी)",
+    "title_english": "Letter हे",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "हरस हैरान कर सुट्या एं,"
+  },
+  {
+    "uid": "siharfi_37",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 37,
+    "title": "ख़े (दूजी सीहरफ़ी)",
+    "title_english": "Letter ख़े",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ख़बर ना आपनी रखना एं,"
+  },
+  {
+    "uid": "siharfi_38",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 38,
+    "title": "दाल (दूजी सीहरफ़ी)",
+    "title_english": "Letter दाल",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "दिलों दिलगीर ना होइउं मूले,"
+  },
+  {
+    "uid": "siharfi_39",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 39,
+    "title": "ज़ाल (दूजी सीहरफ़ी)",
+    "title_english": "Letter ज़ाल",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ज़रा ना शक्क तूं रख दिल ते,"
+  },
+  {
+    "uid": "siharfi_40",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 40,
+    "title": "रे (दूजी सीहरफ़ी)",
+    "title_english": "Letter रे",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "रंग जहान दे वेखदा हैं,"
+  },
+  {
+    "uid": "siharfi_41",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 41,
+    "title": "जीम (दूजी सीहरफ़ी)",
+    "title_english": "Letter जीम",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "जावना आवना नहीं ओथे,"
+  },
+  {
+    "uid": "siharfi_42",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 42,
+    "title": "सीन (दूजी सीहरफ़ी)",
+    "title_english": "Letter सीन",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "सितम करना है जान आपनी ते,"
+  },
+  {
+    "uid": "siharfi_43",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 43,
+    "title": "शीन (दूजी सीहरफ़ी)",
+    "title_english": "Letter शीन",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "शुबा नहीं कोयी ज़रा इस में,"
+  },
+  {
+    "uid": "siharfi_44",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 44,
+    "title": "सुआद (दूजी सीहरफ़ी)",
+    "title_english": "Letter सुआद",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "सबर करना आया नबी उत्ते,"
+  },
+  {
+    "uid": "siharfi_45",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 45,
+    "title": "ज़ुआद (दूजी सीहरफ़ी)",
+    "title_english": "Letter ज़ुआद",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ज़िकर और फ़िकर को छोड़ दीजे,"
+  },
+  {
+    "uid": "siharfi_46",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 46,
+    "title": "तोए (दूजी सीहरफ़ी)",
+    "title_english": "Letter तोए",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "तौर महबूब दा जिन्हां डिट्ठा,"
+  },
+  {
+    "uid": "siharfi_47",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 47,
+    "title": "ज़ोए (दूजी सीहरफ़ी)",
+    "title_english": "Letter ज़ोए",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "जुदा नाहीं तेरा यार तैं थीं,"
+  },
+  {
+    "uid": "siharfi_48",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 48,
+    "title": "ऐन (दूजी सीहरफ़ी)",
+    "title_english": "Letter ऐन",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ऐन है आप बिनां नुकते,"
+  },
+  {
+    "uid": "siharfi_49",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 49,
+    "title": "ग़ैन (दूजी सीहरफ़ी)",
+    "title_english": "Letter ग़ैन",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "ग़म ने मार हैरान कीता,"
+  },
+  {
+    "uid": "siharfi_50",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 50,
+    "title": "फ़े (दूजी सीहरफ़ी)",
+    "title_english": "Letter फ़े",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "फ़िकर कीता सईयो मेरीयो नी,"
+  },
+  {
+    "uid": "siharfi_51",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 51,
+    "title": "काफ़ (दूजी सीहरफ़ी)",
+    "title_english": "Letter काफ़",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "कौन जाने जानी जान दे नूं,"
+  },
+  {
+    "uid": "siharfi_52",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 52,
+    "title": "गाफ़ (दूजी सीहरफ़ी)",
+    "title_english": "Letter गाफ़",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "गुज़र गुमान ते समझ बह के,"
+  },
+  {
+    "uid": "siharfi_53",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 53,
+    "title": "लाम (दूजी सीहरफ़ी)",
+    "title_english": "Letter लाम",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "लग्ग आखे जाग खां सोया,"
+  },
+  {
+    "uid": "siharfi_54",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 54,
+    "title": "मीम (दूजी सीहरफ़ी)",
+    "title_english": "Letter मीम",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "मौजूद हर जा मौला,"
+  },
+  {
+    "uid": "siharfi_55",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 55,
+    "title": "नून (दूजी सीहरफ़ी)",
+    "title_english": "Letter नून",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "नाम अरूप उठा दीजे,"
+  },
+  {
+    "uid": "siharfi_56",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 56,
+    "title": "वाओ (दूजी सीहरफ़ी)",
+    "title_english": "Letter वाओ",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "वकत इह हत्थ ना आवना एं,"
+  },
+  {
+    "uid": "siharfi_57",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 57,
+    "title": "हे (दूजी सीहरफ़ी)",
+    "title_english": "Letter हे",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "हर तर्हां होवे दिलदार प्यारा,"
+  },
+  {
+    "uid": "siharfi_58",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 58,
+    "title": "अलफ़ (दूजी सीहरफ़ी)",
+    "title_english": "Letter अलफ़",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "अज बण्या सभ्भो चज्ज मेरा,"
+  },
+  {
+    "uid": "siharfi_59",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 59,
+    "title": "ये (दूजी सीहरफ़ी)",
+    "title_english": "Letter ये",
+    "section": "दूजी सीहरफ़ी",
+    "first_line": "यार पाया सईयो मेरीयो मैं,"
+  },
+  {
+    "uid": "siharfi_60",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 60,
+    "title": "बे (तीजी सीहरफ़ी)",
+    "title_english": "Letter बे",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "बाज़ ना आंवदियां अक्खियां नी,"
+  },
+  {
+    "uid": "siharfi_61",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 61,
+    "title": "ते (तीजी सीहरफ़ी)",
+    "title_english": "Letter ते",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "ताय के इशक हैरान कीता,"
+  },
+  {
+    "uid": "siharfi_62",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 62,
+    "title": "से (तीजी सीहरफ़ी)",
+    "title_english": "Letter से",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "सबूत जो अक्खियां लग्ग रहियां,"
+  },
+  {
+    "uid": "siharfi_63",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 63,
+    "title": "जीम (तीजी सीहरफ़ी)",
+    "title_english": "Letter जीम",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "जान जानी मेरे कोल होवे,"
+  },
+  {
+    "uid": "siharfi_64",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 64,
+    "title": "हे (तीजी सीहरफ़ी)",
+    "title_english": "Letter हे",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "हाल बेहाल दा कौन जाणे,"
+  },
+  {
+    "uid": "siharfi_65",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 65,
+    "title": "ख़े (तीजी सीहरफ़ी)",
+    "title_english": "Letter ख़े",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "ख़ुआब ख़्याल जहान होया,"
+  },
+  {
+    "uid": "siharfi_66",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 66,
+    "title": "दाल (तीजी सीहरफ़ी)",
+    "title_english": "Letter दाल",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "दे दिलासड़ा दोसती दा,"
+  },
+  {
+    "uid": "siharfi_67",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 67,
+    "title": "ज़ाल (तीजी सीहरफ़ी)",
+    "title_english": "Letter ज़ाल",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "ज़ौक दित्तो ज़ात आपनी दा,"
+  },
+  {
+    "uid": "siharfi_68",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 68,
+    "title": "रे (तीजी सीहरफ़ी)",
+    "title_english": "Letter रे",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "रावला हुन रुला नाहीं,"
+  },
+  {
+    "uid": "siharfi_69",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 69,
+    "title": "ज़े (तीजी सीहरफ़ी)",
+    "title_english": "Letter ज़े",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "ज़ोर ना हाबता होर कोई,"
+  },
+  {
+    "uid": "siharfi_70",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 70,
+    "title": "सीन (तीजी सीहरफ़ी)",
+    "title_english": "Letter सीन",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "सभ्भे ही नाम है यार तेरी साहबे दी,"
+  },
+  {
+    "uid": "siharfi_71",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 71,
+    "title": "शीन (तीजी सीहरफ़ी)",
+    "title_english": "Letter शीन",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "शुकर करो शबो-रोज़ रहणा,"
+  },
+  {
+    "uid": "siharfi_72",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 72,
+    "title": "सुआद (तीजी सीहरफ़ी)",
+    "title_english": "Letter सुआद",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "सबर ना सुक्ख सहेलियां नूं,"
+  },
+  {
+    "uid": "siharfi_73",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 73,
+    "title": "ज़ुआद (तीजी सीहरफ़ी)",
+    "title_english": "Letter ज़ुआद",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "ज़रब लग्गी सांग कलेजड़े विच,"
+  },
+  {
+    "uid": "siharfi_74",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 74,
+    "title": "फ़े (तीजी सीहरफ़ी)",
+    "title_english": "Letter फ़े",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "फ़हम ना होर ख़्याल मैनूं,"
+  },
+  {
+    "uid": "siharfi_75",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 75,
+    "title": "कुआफ़ (तीजी सीहरफ़ी)",
+    "title_english": "Letter कुआफ़",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "कबूल ज़रूर जां इशक कीता,"
+  },
+  {
+    "uid": "siharfi_76",
+    "genre": "siharfian",
+    "genre_label": "सीहरफ़ियां",
+    "id": 76,
+    "title": "काफ (तीजी सीहरफ़ी)",
+    "title_english": "Letter काफ",
+    "section": "तीजी सीहरफ़ी",
+    "first_line": "केहियां कानियां लग्गियां नी,"
   }
 ]

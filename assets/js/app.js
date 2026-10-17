@@ -1,6 +1,6 @@
 /**
- * Baba Bulleh Shah: Complete 160 Kafian - Trilingual Edition
- * Main Interactive Application Script
+ * Baba Bulleh Shah: Complete Works (सम्पूर्ण रचनावली)
+ * Trilingual Master Edition: 160 Kafian, 12 Baranmah, 7 Athwara, 40 Gandhan, 76 Siharfian, 56 Dohre (Total 351 Masterpieces)
  */
 
 (function () {
@@ -10,8 +10,8 @@
   const state = {
     manifest: window.BULLEH_SHAH_MANIFEST || [],
     dataStore: window.BULLEH_SHAH_DATA || {},
-    currentKafiId: null,
-    currentFilter: 'all',
+    currentUid: null,
+    currentFilter: 'all', // 'all', 'kafi', 'baranmah', 'athwara', 'dohre', 'gandhan', 'siharfian', 'bookmarks'
     searchQuery: '',
     viewMode: 'all', // 'all', 'verses', 'gloss', 'trans'
     fontScale: 1.0,
@@ -35,8 +35,6 @@
     poemView: document.getElementById('poem-reader-view'),
     randomBtn: document.getElementById('random-kafi-btn'),
     bookmarksBtn: document.getElementById('bookmarks-view-btn'),
-    fontDecBtn: document.getElementById('font-decrease-btn'),
-    fontIncBtn: document.getElementById('font-increase-btn'),
     toast: document.getElementById('toast-notification'),
     toastMsg: document.getElementById('toast-message'),
     viewModeTabs: document.querySelectorAll('.view-tab')
@@ -83,25 +81,32 @@
   // URL Hash Routing
   function initViewFromHash() {
     const hash = window.location.hash;
-    const match = hash.match(/#kafi-(\d+)/);
+    if (!hash) {
+      showWelcomeView();
+      return;
+    }
+
+    // Match generic prefix like #kafi-21, #baranmah-1, #athwara-7, #dohre-1, #gandhan-1, #siharfi-1
+    const match = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
     if (match) {
-      const id = parseInt(match[1], 10);
-      if (id >= 1 && id <= 160) {
-        loadKafi(id, false);
+      const genre = match[1];
+      const id = parseInt(match[2], 10);
+      const uid = `${genre}_${id}`;
+      if (state.dataStore[uid] || state.dataStore[id]) {
+        loadWork(uid, false);
         return;
       }
     }
-    // Default show welcome view
     showWelcomeView();
   }
 
   window.addEventListener('hashchange', () => {
     const hash = window.location.hash;
-    const match = hash.match(/#kafi-(\d+)/);
+    const match = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
     if (match) {
-      const id = parseInt(match[1], 10);
-      if (id !== state.currentKafiId) {
-        loadKafi(id, false);
+      const uid = `${match[1]}_${match[2]}`;
+      if (uid !== state.currentUid) {
+        loadWork(uid, false);
       }
     } else if (!hash) {
       showWelcomeView();
@@ -111,11 +116,14 @@
   // Filter & Search Logic
   function getFilteredManifest() {
     return state.manifest.filter(item => {
-      // Filter by section or bookmarks
-      if (state.currentFilter === 'part1' && (item.id < 1 || item.id > 50)) return false;
-      if (state.currentFilter === 'part2' && (item.id < 51 || item.id > 100)) return false;
-      if (state.currentFilter === 'part3' && (item.id < 101 || item.id > 160)) return false;
-      if (state.currentFilter === 'bookmarks' && !state.bookmarks.has(item.id)) return false;
+      // Filter by genre
+      if (state.currentFilter !== 'all') {
+        if (state.currentFilter === 'bookmarks') {
+          if (!state.bookmarks.has(item.uid)) return false;
+        } else if (item.genre !== state.currentFilter) {
+          return false;
+        }
+      }
 
       // Filter by search query
       if (state.searchQuery) {
@@ -124,8 +132,8 @@
         const titleMatch = item.title.toLowerCase().includes(q);
         const enMatch = (item.title_english || '').toLowerCase().includes(q);
         const lineMatch = (item.first_line || '').toLowerCase().includes(q);
-        const ragaMatch = (item.raga || '').toLowerCase().includes(q);
-        return idMatch || titleMatch || enMatch || lineMatch || ragaMatch;
+        const genreMatch = (item.genre_label || '').toLowerCase().includes(q);
+        return idMatch || titleMatch || enMatch || lineMatch || genreMatch;
       }
       return true;
     });
@@ -137,14 +145,14 @@
     const items = getFilteredManifest();
 
     if (el.itemCountBadge) {
-      el.itemCountBadge.textContent = `${items.length} काफ़ियां`;
+      el.itemCountBadge.textContent = `${items.length} रचनाएं`;
     }
 
     if (items.length === 0) {
       el.kafiList.innerHTML = `
         <li style="padding: 2.5rem 1rem; text-align: center; color: var(--text-faint);">
           <div style="font-size: 1.8rem; margin-bottom: 0.5rem;">🍃</div>
-          <div style="font-weight: 600;">कोई काफ़िया नहीं मिला</div>
+          <div style="font-weight: 600;">कोई रचना नहीं मिली</div>
           <div style="font-size: 0.8rem; margin-top: 0.25rem;">कृपया अन्य खोज शब्द आज़माएं</div>
         </li>
       `;
@@ -152,16 +160,19 @@
     }
 
     el.kafiList.innerHTML = items.map(item => {
-      const isActive = item.id === state.currentKafiId;
-      const isStarred = state.bookmarks.has(item.id);
+      const isActive = item.uid === state.currentUid;
+      const isStarred = state.bookmarks.has(item.uid);
       return `
-        <li class="kafi-item ${isActive ? 'active' : ''}" data-id="${item.id}" id="sidebar-item-${item.id}">
+        <li class="kafi-item ${isActive ? 'active' : ''}" data-uid="${item.uid}" id="sidebar-item-${item.uid}">
           <div class="kafi-num-pill">${item.id}</div>
           <div class="kafi-info">
             <div class="kafi-item-title">${escapeHtml(item.title)}</div>
-            <div class="kafi-item-sub">${escapeHtml(item.title_english || item.first_line || '')}</div>
+            <div class="kafi-item-sub">
+              <span style="font-style: normal; color: var(--gold-primary); font-weight: 600; margin-right: 4px;">[${escapeHtml(item.genre_label || 'रचना')}]</span>
+              ${escapeHtml(item.title_english || item.first_line || '')}
+            </div>
           </div>
-          <button class="kafi-star-btn ${isStarred ? 'starred' : ''}" data-star-id="${item.id}" title="${isStarred ? 'पसंदीदा से हटाएं' : 'पसंदीदा में जोड़ें'}">
+          <button class="kafi-star-btn ${isStarred ? 'starred' : ''}" data-star-uid="${item.uid}" title="${isStarred ? 'पसंदीदा से हटाएं' : 'पसंदीदा में जोड़ें'}">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="${isStarred ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
               <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
             </svg>
@@ -173,10 +184,9 @@
     // Attach click events on sidebar items
     el.kafiList.querySelectorAll('.kafi-item').forEach(li => {
       li.addEventListener('click', (e) => {
-        // Prevent trigger if star button was clicked
         if (e.target.closest('.kafi-star-btn')) return;
-        const id = parseInt(li.getAttribute('data-id'), 10);
-        loadKafi(id);
+        const uid = li.getAttribute('data-uid');
+        loadWork(uid);
         closeMobileSidebar();
       });
     });
@@ -185,20 +195,20 @@
     el.kafiList.querySelectorAll('.kafi-star-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
-        const id = parseInt(btn.getAttribute('data-star-id'), 10);
-        toggleBookmark(id);
+        const uid = btn.getAttribute('data-star-uid');
+        toggleBookmark(uid);
       });
     });
   }
 
   // Bookmarks Management
-  function toggleBookmark(id) {
-    if (state.bookmarks.has(id)) {
-      state.bookmarks.delete(id);
-      showToast(`काफ़िया #${id} पसंदीदा से हटाया गया`);
+  function toggleBookmark(uid) {
+    if (state.bookmarks.has(uid)) {
+      state.bookmarks.delete(uid);
+      showToast(`पसंदीदा से हटाया गया`);
     } else {
-      state.bookmarks.add(id);
-      showToast(`काफ़िया #${id} पसंदीदा में जोड़ा गया`);
+      state.bookmarks.add(uid);
+      showToast(`पसंदीदा में जोड़ा गया`);
     }
     localStorage.setItem('bbs_bookmarks', JSON.stringify(Array.from(state.bookmarks)));
     renderSidebar();
@@ -207,39 +217,41 @@
 
   function updateBookmarkBtnState() {
     const starBtn = document.getElementById('active-kafi-star-btn');
-    if (starBtn && state.currentKafiId) {
-      const isStarred = state.bookmarks.has(state.currentKafiId);
+    if (starBtn && state.currentUid) {
+      const isStarred = state.bookmarks.has(state.currentUid);
       starBtn.classList.toggle('active', isStarred);
       starBtn.title = isStarred ? 'पसंदीदा से हटाएं' : 'पसंदीदा में जोड़ें';
     }
   }
 
-  // Load Kafi
-  function loadKafi(id, updateHash = true) {
-    if (!state.dataStore[id]) {
-      // If dataStore doesn't have it (fallback dynamic fetch)
-      fetch(`data/kafian/kafi_${String(id).padStart(3, '0')}.json`)
-        .then(res => res.json())
-        .then(data => {
-          state.dataStore[id] = data;
-          renderKafi(data);
-        })
-        .catch(err => {
-          showToast(`काफ़िया #${id} लोड करने में त्रुटि`);
-        });
+  // Load Any Work
+  function loadWork(uid, updateHash = true) {
+    let item = state.dataStore[uid];
+    if (!item) {
+      // Fallback: check if integer ID was passed for kafian
+      const numMatch = uid.match(/\d+/);
+      if (numMatch && state.dataStore[numMatch[0]]) {
+        item = state.dataStore[numMatch[0]];
+        uid = `kafi_${numMatch[0]}`;
+      }
+    }
+
+    if (!item) {
+      showToast(`रचना लोड करने में असमर्थ`);
       return;
     }
 
-    state.currentKafiId = id;
+    state.currentUid = uid;
     if (updateHash) {
-      window.location.hash = `#kafi-${id}`;
+      const hashPart = uid.replace('_', '-');
+      window.location.hash = `#${hashPart}`;
     }
 
-    renderKafi(state.dataStore[id]);
+    renderWork(item);
     renderSidebar();
 
     // Scroll active item into view in sidebar
-    const activeItem = document.getElementById(`sidebar-item-${id}`);
+    const activeItem = document.getElementById(`sidebar-item-${uid}`);
     if (activeItem) {
       activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
@@ -249,30 +261,34 @@
   }
 
   function showWelcomeView() {
-    state.currentKafiId = null;
+    state.currentUid = null;
     if (el.welcomeView) el.welcomeView.style.display = 'block';
     if (el.poemView) el.poemView.classList.remove('active');
     renderSidebar();
   }
 
-  // Render Kafi into Reader View
-  function renderKafi(k) {
+  // Render Work into Reader View
+  function renderWork(k) {
     if (el.welcomeView) el.welcomeView.style.display = 'none';
     if (!el.poemView) return;
     el.poemView.classList.add('active');
 
-    const id = k.id;
-    const isStarred = state.bookmarks.has(id);
-    const prevId = id > 1 ? id - 1 : null;
-    const nextId = id < 160 ? id + 1 : null;
-    const prevKafi = prevId ? (state.manifest.find(m => m.id === prevId) || {}) : null;
-    const nextKafi = nextId ? (state.manifest.find(m => m.id === nextId) || {}) : null;
+    const uid = k.uid || `kafi_${k.id}`;
+    const isStarred = state.bookmarks.has(uid);
+
+    // Find previous and next within the same genre
+    const genreItems = state.manifest.filter(m => m.genre === k.genre);
+    const currIdx = genreItems.findIndex(m => m.uid === uid);
+    const prevItem = currIdx > 0 ? genreItems[currIdx - 1] : null;
+    const nextItem = currIdx < genreItems.length - 1 ? genreItems[currIdx + 1] : null;
 
     // Tags
     const tags = [];
+    if (k.genre_label) tags.push(`<span class="tag-badge"><strong>विधा:</strong> ${escapeHtml(k.genre_label)}</span>`);
     if (k.raga) tags.push(`<span class="tag-badge"><strong>राग:</strong> ${escapeHtml(k.raga)}</span>`);
     if (k.meter) tags.push(`<span class="tag-badge"><strong>छंद:</strong> ${escapeHtml(k.meter)}</span>`);
     if (k.theme) tags.push(`<span class="tag-badge"><strong>विषय:</strong> ${escapeHtml(k.theme)}</span>`);
+    if (k.season) tags.push(`<span class="tag-badge"><strong>ऋतु:</strong> ${escapeHtml(k.season)}</span>`);
 
     // Stanzas rendering
     const showVerses = state.viewMode === 'all' || state.viewMode === 'verses';
@@ -293,7 +309,7 @@
               <circle cx="11" cy="11" r="2"/>
             </svg>
             <div>
-              <h3>मूल काफ़िया</h3>
+              <h3>मूल पाठ</h3>
               <span class="en-badge">Original Classical Punjabi</span>
             </div>
           </div>
@@ -419,14 +435,14 @@
     el.poemView.innerHTML = `
       <div class="poem-header-card">
         <div class="poem-meta-top">
-          <span class="section-tag">${escapeHtml(k.section)}</span>
+          <span class="section-tag">${escapeHtml(k.section || k.genre_label || '')}</span>
           <div class="poem-top-nav">
             <button class="icon-btn ${isStarred ? 'active' : ''}" id="active-kafi-star-btn" title="पसंदीदा">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="${isStarred ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
               </svg>
             </button>
-            <button class="icon-btn" id="copy-kafi-btn" title="काफ़िया कॉपी करें">
+            <button class="icon-btn" id="copy-kafi-btn" title="रचना कॉपी करें">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
                 <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
@@ -449,6 +465,12 @@
 
         ${tags.length > 0 ? `<div class="tags-row">${tags.join('')}</div>` : ''}
 
+        ${k.refrain ? `
+          <div class="context-box">
+            <strong>टेक (Refrain):</strong> ${escapeHtml(k.refrain)}
+          </div>
+        ` : ''}
+
         ${k.historical_context ? `
           <div class="context-box">
             <strong>प्रसंग एवं संदर्भ:</strong> ${escapeHtml(k.historical_context)}
@@ -460,7 +482,7 @@
       <div class="view-tabs-bar">
         <div class="view-tabs-group">
           <button class="view-tab ${state.viewMode === 'all' ? 'active' : ''}" data-mode="all">📜 समग्र अध्ययन</button>
-          <button class="view-tab ${state.viewMode === 'verses' ? 'active' : ''}" data-mode="verses">🪶 मूल काफ़िया</button>
+          <button class="view-tab ${state.viewMode === 'verses' ? 'active' : ''}" data-mode="verses">🪶 मूल पाठ</button>
           <button class="view-tab ${state.viewMode === 'gloss' ? 'active' : ''}" data-mode="gloss">🔍 पद-वार शब्दार्थ</button>
           <button class="view-tab ${state.viewMode === 'trans' ? 'active' : ''}" data-mode="trans">🌐 काव्यात्मक अनुवाद</button>
         </div>
@@ -479,37 +501,34 @@
 
       <!-- Bottom Prev / Next Nav -->
       <div class="reader-bottom-nav">
-        ${prevId ? `
-          <div class="nav-card-btn" id="prev-kafi-card" data-nav-id="${prevId}">
-            <div class="nav-dir">← पिछला काफ़िया (#${prevId})</div>
-            <div class="nav-poem-title">${escapeHtml(prevKafi.title || '')}</div>
+        ${prevItem ? `
+          <div class="nav-card-btn" id="prev-work-card" data-nav-uid="${prevItem.uid}">
+            <div class="nav-dir">← पिछली रचना (${escapeHtml(prevItem.genre_label)})</div>
+            <div class="nav-poem-title">${escapeHtml(prevItem.title)}</div>
           </div>
         ` : '<div></div>'}
-        ${nextId ? `
-          <div class="nav-card-btn" id="next-kafi-card" data-nav-id="${nextId}" style="text-align: right;">
-            <div class="nav-dir">अगला काफ़िया (#${nextId}) →</div>
-            <div class="nav-poem-title">${escapeHtml(nextKafi.title || '')}</div>
+        ${nextItem ? `
+          <div class="nav-card-btn" id="next-work-card" data-nav-uid="${nextItem.uid}" style="text-align: right;">
+            <div class="nav-dir">अगली रचना (${escapeHtml(nextItem.genre_label)}) →</div>
+            <div class="nav-poem-title">${escapeHtml(nextItem.title)}</div>
           </div>
         ` : '<div></div>'}
       </div>
     `;
 
-    // Attach dynamic events for the active poem
-    attachPoemActions(k);
+    attachWorkActions(k);
   }
 
-  // Format gloss text with highlighted parentheses
   function formatGlossWords(str) {
     if (!str) return '';
     const escaped = escapeHtml(str);
     return escaped.replace(/\(([^)]+)\)/g, '<span style="color: var(--gold-primary); font-weight: 600;">($1)</span>');
   }
 
-  // Attach Poem Toolbar Actions
-  function attachPoemActions(k) {
+  function attachWorkActions(k) {
     const starBtn = document.getElementById('active-kafi-star-btn');
     if (starBtn) {
-      starBtn.addEventListener('click', () => toggleBookmark(k.id));
+      starBtn.addEventListener('click', () => toggleBookmark(k.uid || `kafi_${k.id}`));
     }
 
     const copyBtn = document.getElementById('copy-kafi-btn');
@@ -517,7 +536,7 @@
       copyBtn.addEventListener('click', () => {
         const textToCopy = `${k.title}\n\n${(k.original_verses || []).join('\n')}\n\n— बाबा बुल्ले शाह`;
         navigator.clipboard.writeText(textToCopy).then(() => {
-          showToast('काफ़िया क्लिपबोर्ड में कॉपी हो गया!');
+          showToast('रचना क्लिपबोर्ड में कॉपी हो गई!');
         }).catch(() => {
           showToast('कॉपी करने में असमर्थ');
         });
@@ -538,7 +557,7 @@
     el.poemView.querySelectorAll('.view-tab').forEach(btn => {
       btn.addEventListener('click', () => {
         state.viewMode = btn.getAttribute('data-mode');
-        renderKafi(k);
+        renderWork(k);
       });
     });
 
@@ -567,79 +586,49 @@
     }
 
     // Bottom Navigation Cards
-    const prevCard = document.getElementById('prev-kafi-card');
+    const prevCard = document.getElementById('prev-work-card');
     if (prevCard) {
       prevCard.addEventListener('click', () => {
-        const id = parseInt(prevCard.getAttribute('data-nav-id'), 10);
-        loadKafi(id);
+        const uid = prevCard.getAttribute('data-nav-uid');
+        loadWork(uid);
       });
     }
 
-    const nextCard = document.getElementById('next-kafi-card');
+    const nextCard = document.getElementById('next-work-card');
     if (nextCard) {
       nextCard.addEventListener('click', () => {
-        const id = parseInt(nextCard.getAttribute('data-nav-id'), 10);
-        loadKafi(id);
+        const uid = nextCard.getAttribute('data-nav-uid');
+        loadWork(uid);
       });
     }
   }
 
   // Sidebar Controls
   function toggleMobileSidebar() {
-    if (el.sidebar) {
-      el.sidebar.classList.toggle('mobile-open');
-    }
-    if (el.sidebarBackdrop) {
-      el.sidebarBackdrop.classList.toggle('active');
-    }
+    if (el.sidebar) el.sidebar.classList.toggle('mobile-open');
+    if (el.sidebarBackdrop) el.sidebarBackdrop.classList.toggle('active');
   }
 
   function closeMobileSidebar() {
-    if (el.sidebar) {
-      el.sidebar.classList.remove('mobile-open');
-    }
-    if (el.sidebarBackdrop) {
-      el.sidebarBackdrop.classList.remove('active');
-    }
+    if (el.sidebar) el.sidebar.classList.remove('mobile-open');
+    if (el.sidebarBackdrop) el.sidebarBackdrop.classList.remove('active');
   }
 
   // Global Event Listeners
   function attachEventListeners() {
-    // Theme toggle
-    if (el.themeBtn) {
-      el.themeBtn.addEventListener('click', toggleTheme);
-    }
+    if (el.themeBtn) el.themeBtn.addEventListener('click', toggleTheme);
+    if (el.sidebarToggleBtn) el.sidebarToggleBtn.addEventListener('click', toggleMobileSidebar);
+    if (el.sidebarBackdrop) el.sidebarBackdrop.addEventListener('click', closeMobileSidebar);
 
-    // Sidebar Mobile Toggle
-    if (el.sidebarToggleBtn) {
-      el.sidebarToggleBtn.addEventListener('click', toggleMobileSidebar);
-    }
-    if (el.sidebarBackdrop) {
-      el.sidebarBackdrop.addEventListener('click', closeMobileSidebar);
-    }
-
-    // Header Search Input
+    // Search input
     if (el.searchInput) {
       el.searchInput.addEventListener('input', (e) => {
         state.searchQuery = e.target.value;
-        if (el.sidebarSearchInput && el.sidebarSearchInput !== e.target) {
-          el.sidebarSearchInput.value = state.searchQuery;
-        }
         renderSidebar();
       });
     }
 
-    if (el.sidebarSearchInput) {
-      el.sidebarSearchInput.addEventListener('input', (e) => {
-        state.searchQuery = e.target.value;
-        if (el.searchInput && el.searchInput !== e.target) {
-          el.searchInput.value = state.searchQuery;
-        }
-        renderSidebar();
-      });
-    }
-
-    // Sidebar Filter Tabs
+    // Filter Tabs
     el.filterTabs.forEach(tab => {
       tab.addEventListener('click', () => {
         el.filterTabs.forEach(t => t.classList.remove('active'));
@@ -649,30 +638,28 @@
       });
     });
 
-    // Random Kafi Button
+    // Random Masterpiece Button
     if (el.randomBtn) {
       el.randomBtn.addEventListener('click', () => {
-        const randomId = Math.floor(Math.random() * 160) + 1;
-        loadKafi(randomId);
-        showToast(`काफ़िया #${randomId} खोला गया`);
-      });
-    }
-
-    // Bookmarks Filter Quick Button
-    if (el.bookmarksBtn) {
-      el.bookmarksBtn.addEventListener('click', () => {
-        el.filterTabs.forEach(t => {
-          if (t.getAttribute('data-filter') === 'bookmarks') {
-            t.click();
-          }
-        });
-        if (window.innerWidth <= 850) {
-          toggleMobileSidebar();
+        const randomItem = state.manifest[Math.floor(Math.random() * state.manifest.length)];
+        if (randomItem) {
+          loadWork(randomItem.uid);
+          showToast(`${randomItem.title} खोला गया`);
         }
       });
     }
 
-    // Brand Group Click (Reset to home)
+    // Bookmarks View Button
+    if (el.bookmarksBtn) {
+      el.bookmarksBtn.addEventListener('click', () => {
+        el.filterTabs.forEach(t => {
+          if (t.getAttribute('data-filter') === 'bookmarks') t.click();
+        });
+        if (window.innerWidth <= 850) toggleMobileSidebar();
+      });
+    }
+
+    // Brand Header Link
     const brand = document.getElementById('brand-header-link');
     if (brand) {
       brand.addEventListener('click', () => {
@@ -684,49 +671,30 @@
     // Quick pick chips on hero welcome page
     document.querySelectorAll('.pick-chip').forEach(chip => {
       chip.addEventListener('click', () => {
-        const id = parseInt(chip.getAttribute('data-id'), 10);
-        if (id) loadKafi(id);
+        const targetUid = chip.getAttribute('data-uid');
+        if (targetUid) loadWork(targetUid);
       });
     });
 
     // Keyboard Shortcuts
     window.addEventListener('keydown', (e) => {
-      // Ignore if typing in input
       if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
-        if (e.key === 'Escape') {
-          document.activeElement.blur();
-        }
+        if (e.key === 'Escape') document.activeElement.blur();
         return;
       }
-
       if (e.key === '/' && el.searchInput) {
         e.preventDefault();
         el.searchInput.focus();
         return;
       }
-
-      if (e.key === 'ArrowLeft' && state.currentKafiId && state.currentKafiId > 1) {
-        loadKafi(state.currentKafiId - 1);
-        return;
-      }
-
-      if (e.key === 'ArrowRight' && state.currentKafiId && state.currentKafiId < 160) {
-        loadKafi(state.currentKafiId + 1);
-        return;
-      }
-
       if (e.key === 't' || e.key === 'T') {
         toggleTheme();
         return;
       }
-
-      if (e.key === 'Escape') {
-        closeMobileSidebar();
-      }
+      if (e.key === 'Escape') closeMobileSidebar();
     });
   }
 
-  // Utilities
   function escapeHtml(text) {
     if (!text) return '';
     return String(text)
@@ -737,7 +705,6 @@
       .replace(/'/g, '&#039;');
   }
 
-  // Run on DOM Ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
