@@ -58,9 +58,41 @@
           { id: 'dohe', label: 'साखी दोहे (51)' },
           { id: 'bookmarks', label: '★ पसंदीदा' }
         ]
+      },
+      'sheikh-farid': {
+        id: 'sheikh-farid',
+        name: 'बाबा शेख फरीद',
+        name_en: 'Baba Sheikh Farid',
+        emblem: 'फ',
+        total: 134,
+        color: 'hsl(165, 80%, 42%)',
+        manifest: window.FARID_MANIFEST || [],
+        data: window.FARID_DATA || {},
+        tabs: [
+          { id: 'all', label: 'सभी (134)' },
+          { id: 'salok', label: 'सलोक (130)' },
+          { id: 'shabad', label: 'शब्द (4)' },
+          { id: 'bookmarks', label: '★ पसंदीदा' }
+        ]
+      },
+      'meerabai': {
+        id: 'meerabai',
+        name: 'संत शिरोमणि मीराबाई',
+        name_en: 'Sant Mirabai',
+        emblem: 'मी',
+        total: 418,
+        color: 'hsl(330, 85%, 60%)',
+        manifest: window.MEERABAI_MANIFEST || [],
+        data: window.MEERABAI_DATA || {},
+        tabs: [
+          { id: 'all', label: 'सभी (418)' },
+          { id: 'padaavali', label: 'अमर पद (418)' },
+          { id: 'bookmarks', label: '★ पसंदीदा' }
+        ]
       }
     }
   };
+
 
   // DOM Elements
   const el = {
@@ -197,6 +229,30 @@
       return;
     }
 
+    if (hash.startsWith('#/sheikh-farid')) {
+      state.currentPoet = 'sheikh-farid';
+      const sub = hash.replace('#/sheikh-farid', '').replace(/^\//, '');
+      showPoetWorkspace('sheikh-farid');
+      if (!sub) {
+        showPoetWelcome();
+      } else {
+        resolveWorkRoute('sheikh-farid', sub);
+      }
+      return;
+    }
+
+    if (hash.startsWith('#/meerabai')) {
+      state.currentPoet = 'meerabai';
+      const sub = hash.replace('#/meerabai', '').replace(/^\//, '');
+      showPoetWorkspace('meerabai');
+      if (!sub) {
+        showPoetWelcome();
+      } else {
+        resolveWorkRoute('meerabai', sub);
+      }
+      return;
+    }
+
     // Legacy fallback for old Bulleh Shah hashes like #kafi-21, #dohre-5
     const legacyMatch = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
     if (legacyMatch) {
@@ -208,6 +264,10 @@
       }
       if (['shabad', 'pada', 'padaavali', 'doha', 'dohe'].includes(g)) {
         window.location.hash = `#/sant-ravidas/${g}-${id}`;
+        return;
+      }
+      if (['salok'].includes(g)) {
+        window.location.hash = `#/sheikh-farid/${g}-${id}`;
         return;
       }
     }
@@ -250,6 +310,11 @@
     // Direct lookup fallbacks
     const candidateUids = [
       `${genre}_${id}`,
+      `farid_${genre}_${id}`,
+      `farid_salok_${id}`,
+      `farid_shabad_${id}`,
+      `meerabai_${genre}_${id}`,
+      `meerabai_pada_${id}`,
       `ravidas_${genre}_${id}`,
       `siharfi_${id}`,
       `siharfian_${id}`,
@@ -279,7 +344,7 @@
     // Header adjustments
     el.headerEmblem.textContent = '✨';
     el.headerMainTitle.textContent = 'रहस्यवादी काव्य महाकोश';
-    el.headerSubTitle.textContent = 'Mystic Poetry Archive • 559 Masterpieces';
+    el.headerSubTitle.textContent = 'Mystic Poetry Archive • 1,111 Masterpieces';
     el.navHubBtn.style.display = 'none';
     el.poetSwitcherBtn.style.display = 'none';
     el.sidebarToggleBtn.style.display = 'none';
@@ -303,11 +368,16 @@
     el.navHubBtn.style.display = 'inline-flex';
     el.sidebarToggleBtn.style.display = 'inline-flex';
 
-    // Switcher button to alternate poet
-    const otherId = poetId === 'bulleh-shah' ? 'sant-ravidas' : 'bulleh-shah';
-    const otherPoet = state.poets[otherId];
+    // Switcher button cycles to next poet
+    const poetList = ['bulleh-shah', 'sant-ravidas', 'sheikh-farid', 'meerabai'];
+    const currIdx = poetList.indexOf(poetId);
+    const nextPoetId = poetList[(currIdx + 1) % poetList.length];
+    const nextPoet = state.poets[nextPoetId];
     el.poetSwitcherBtn.style.display = 'inline-flex';
-    el.poetSwitcherLabel.textContent = otherPoet.name;
+    el.poetSwitcherLabel.textContent = nextPoet.name;
+    el.poetSwitcherBtn.onclick = () => {
+      window.location.hash = `#/${nextPoetId}/`;
+    };
 
     // Sidebar poet banner
     el.sidebarPoetEmblem.textContent = poet.emblem;
@@ -335,8 +405,12 @@
     
     if (state.currentPoet === 'bulleh-shah') {
       descEl.innerHTML = `सूफी दर्शन के अमर प्रतीक <strong>हज़रत बाबा बुल्ले शाह (1680–1757)</strong> की समस्त 351 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें 160 काफ़ियां, बारहमाह, अठवारा, 40 गन्धां, सीहरफ़ियां और 56 दोहरे सम्मिलित हैं।`;
-    } else {
+    } else if (state.currentPoet === 'sant-ravidas') {
       descEl.innerHTML = `भक्ति आंदोलन के युगदृष्टा <strong>संत शिरोमणि रविदास जी (1377–1528)</strong> की समस्त 208 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें श्री गुरु ग्रंथ साहिब जी के 40 शब्द, 117 अमर पद और 51 साखी दोहे सम्मिलित हैं।`;
+    } else if (state.currentPoet === 'sheikh-farid') {
+      descEl.innerHTML = `चिश्ती सूफी परंपरा के प्रकाश-स्तंभ और पंजाबी के आदि-कवि <strong>बाबा शेख फरीद (1173–1266)</strong> की समस्त 134 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें श्री गुरु ग्रंथ साहिब जी के 130 सलोक और 4 पावन शब्द सम्मिलित हैं।`;
+    } else if (state.currentPoet === 'meerabai') {
+      descEl.innerHTML = `भक्ति आंदोलन की अमर प्रेमावतार <strong>संत शिरोमणि मीराबाई (1498–1547)</strong> की समस्त 418 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें राजस्थानी, डिंगल और ब्रजभाषा के 418 अमर भक्ति पद सम्मिलित हैं।`;
     }
 
     // Render genre highlights
@@ -590,19 +664,25 @@
       return;
     }
 
-    const bullehMatches = state.poets['bulleh-shah'].manifest.filter(i => {
-      return (i.title || '').toLowerCase().includes(q) || (i.first_line || '').toLowerCase().includes(q);
-    });
+    const allMatches = {};
+    let totalMatches = 0;
 
-    const ravidasMatches = state.poets['sant-ravidas'].manifest.filter(i => {
-      return (i.title || '').toLowerCase().includes(q) || (i.first_line || '').toLowerCase().includes(q) || (i.theme || '').toLowerCase().includes(q);
-    });
+    for (const [pId, pObj] of Object.entries(state.poets)) {
+      const matches = (pObj.manifest || []).filter(i => {
+        return (i.title || '').toLowerCase().includes(q) ||
+               (i.first_line || '').toLowerCase().includes(q) ||
+               (i.theme || '').toLowerCase().includes(q);
+      });
+      if (matches.length > 0) {
+        allMatches[pId] = matches;
+        totalMatches += matches.length;
+      }
+    }
 
-    const totalMatches = bullehMatches.length + ravidasMatches.length;
     if (totalMatches === 0) {
       el.hubSearchResults.innerHTML = `
         <div style="text-align: center; color: var(--text-faint); padding: 1.5rem;">
-          '${escapeHTML(query)}' के लिए 559 रचनाओं में कोई परिणाम नहीं मिला।
+          '${escapeHTML(query)}' के लिए 1,111 रचनाओं में कोई परिणाम नहीं मिला।
         </div>
       `;
       el.hubSearchResults.style.display = 'block';
@@ -611,34 +691,18 @@
 
     let html = `<div style="margin-bottom: 0.75rem; font-weight: 600; font-size: 0.85rem; color: var(--text-muted);">${totalMatches} रचनाएं मिलीं:</div>`;
 
-    if (ravidasMatches.length > 0) {
+    for (const [pId, matches] of Object.entries(allMatches)) {
+      const poet = state.poets[pId];
       html += `
         <div class="search-results-group">
-          <h4 style="color: var(--ravidas-text);">संत रविदास जी (${ravidasMatches.length} परिणाम)</h4>
-          ${ravidasMatches.slice(0, 10).map(m => `
-            <div class="search-result-item" onclick="window.location.hash='#/sant-ravidas/${m.genre}-${m.id}'">
+          <h4 style="color: ${poet.color};">${poet.name} (${matches.length} परिणाम)</h4>
+          ${matches.slice(0, 10).map(m => `
+            <div class="search-result-item" onclick="window.location.hash='#/${pId}/${m.genre}-${m.id}'">
               <div>
                 <div class="search-result-title">${escapeHTML(m.title)}</div>
                 <div style="font-size: 0.78rem; color: var(--text-faint);">${escapeHTML(m.first_line || m.theme || '')}</div>
               </div>
-              <span class="search-result-badge" style="border: 1px solid var(--ravidas-pill-border); color: var(--ravidas-text); background: var(--ravidas-pill-bg);">${m.genre_label}</span>
-            </div>
-          `).join('')}
-        </div>
-      `;
-    }
-
-    if (bullehMatches.length > 0) {
-      html += `
-        <div class="search-results-group">
-          <h4>बाबा बुल्ले शाह (${bullehMatches.length} परिणाम)</h4>
-          ${bullehMatches.slice(0, 10).map(m => `
-            <div class="search-result-item" onclick="window.location.hash='#/bulleh-shah/${m.genre}-${m.id}'">
-              <div>
-                <div class="search-result-title">${escapeHTML(m.title)}</div>
-                <div style="font-size: 0.78rem; color: var(--text-faint);">${escapeHTML(m.first_line || '')}</div>
-              </div>
-              <span class="search-result-badge">${m.genre_label}</span>
+              <span class="search-result-badge" style="border: 1px solid ${poet.color}; color: ${poet.color};">${m.genre_label || m.genre}</span>
             </div>
           `).join('')}
         </div>
@@ -648,6 +712,7 @@
     el.hubSearchResults.innerHTML = html;
     el.hubSearchResults.style.display = 'block';
   }
+
 
   // Utilities
   function escapeHTML(str) {

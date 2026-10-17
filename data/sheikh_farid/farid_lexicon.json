@@ -1,0 +1,7072 @@
+{
+  "फरीदा": {
+    "roman": "fareedaa",
+    "hi": "हे फरीद",
+    "en": "O Farid"
+  },
+  "सेख": {
+    "roman": "sekh",
+    "hi": "शेख",
+    "en": "Sheikh"
+  },
+  "जिंदु": {
+    "roman": "jindu",
+    "hi": "जीवात्मा/प्राण",
+    "en": "the fragile mortal soul"
+  },
+  "जिंद": {
+    "roman": "jind",
+    "hi": "जीवात्मा/प्राण",
+    "en": "the mortal soul"
+  },
+  "जिंदू": {
+    "roman": "jindoo",
+    "hi": "जीवात्मा को",
+    "en": "unto the soul"
+  },
+  "मलकु": {
+    "roman": "malaku",
+    "hi": "मौत का फ़रिश्ता (अज़राईल)",
+    "en": "the Angel of Death (Azrael)"
+  },
+  "गोर": {
+    "roman": "gor",
+    "hi": "कब्र/मजार",
+    "en": "the grave/tomb"
+  },
+  "कबर": {
+    "roman": "kabar",
+    "hi": "कब्र",
+    "en": "the grave"
+  },
+  "कबरी": {
+    "roman": "kabaree",
+    "hi": "कब्रों में",
+    "en": "in the graves"
+  },
+  "कबरा": {
+    "roman": "kabraa",
+    "hi": "कब्र",
+    "en": "the grave"
+  },
+  "रबु": {
+    "roman": "rabu",
+    "hi": "परमेश्वर/रब",
+    "en": "the Sovereign Lord"
+  },
+  "रब": {
+    "roman": "rab",
+    "hi": "ईश्वर/प्रभु",
+    "en": "God/Lord"
+  },
+  "साइं": {
+    "roman": "saain",
+    "hi": "परम स्वामी/प्रभु",
+    "en": "the Divine Master"
+  },
+  "साहिबु": {
+    "roman": "saahibu",
+    "hi": "परम मालिक/प्रभु",
+    "en": "the Supreme Master"
+  },
+  "मसीति": {
+    "roman": "maseeti",
+    "hi": "मस्जिद में",
+    "en": "in the mosque"
+  },
+  "मसीत": {
+    "roman": "maseet",
+    "hi": "मस्जिद",
+    "en": "the mosque"
+  },
+  "नेवजि": {
+    "roman": "nevaji",
+    "hi": "नमाज़",
+    "en": "the obligatory prayer"
+  },
+  "निवाज": {
+    "roman": "nivaaj",
+    "hi": "नमाज़/इबादत",
+    "en": "the ritual prayer"
+  },
+  "बेनेवाज": {
+    "roman": "benevaaj",
+    "hi": "नमाज़ न पढ़ने वाला",
+    "en": "one who neglects prayer"
+  },
+  "मुसला": {
+    "roman": "muslaa",
+    "hi": "नमाज़ की चटाई (मुसल्ला)",
+    "en": "the prayer mat"
+  },
+  "मुसले": {
+    "roman": "musle",
+    "hi": "मुसल्ले पर",
+    "en": "upon the prayer rug"
+  },
+  "तसबी": {
+    "roman": "tasbee",
+    "hi": "सुमिरन माला",
+    "en": "the rosary beads"
+  },
+  "दरोस": {
+    "roman": "darvesh",
+    "hi": "फकीर/साधक",
+    "en": "the humble dervish"
+  },
+  "दरवेस": {
+    "roman": "darves",
+    "hi": "फकीर",
+    "en": "ascetic mystic"
+  },
+  "दरवेसी": {
+    "roman": "darvesee",
+    "hi": "फकीरी/वैराग्य",
+    "en": "the path of ascetic dervishood"
+  },
+  "डंढोलि": {
+    "roman": "dandholi",
+    "hi": "खोज कर/ढूंढ कर",
+    "en": "searching and seeking"
+  },
+  "डंढोलिया": {
+    "roman": "dandholiyaa",
+    "hi": "ढूंढा/तलाश किया",
+    "en": "searched thoroughly"
+  },
+  "शकर": {
+    "roman": "shakar",
+    "hi": "शक्कर/मीठी खांड",
+    "en": "raw cane sugar"
+  },
+  "खंडु": {
+    "roman": "khandu",
+    "hi": "मिश्री/चीनी",
+    "en": "refined sugar candy"
+  },
+  "माखिओ": {
+    "roman": "maakhio",
+    "hi": "शहद/मधु",
+    "en": "pure bee honey"
+  },
+  "माखी": {
+    "roman": "maakhee",
+    "hi": "मक्खी/मधुमक्खी",
+    "en": "the fly/bee"
+  },
+  "दुधु": {
+    "roman": "dudhu",
+    "hi": "दूध/क्षीर",
+    "en": "pure milk"
+  },
+  "माउं": {
+    "roman": "maaun",
+    "hi": "माता/जननी",
+    "en": "the birth-giving mother"
+  },
+  "माउ": {
+    "roman": "maau",
+    "hi": "माता",
+    "en": "mother"
+  },
+  "गाउं": {
+    "roman": "gaaun",
+    "hi": "गांव/बस्ती",
+    "en": "the village/hamlet"
+  },
+  "रूखड़े": {
+    "roman": "rookhde",
+    "hi": "वृक्ष/पेड़",
+    "en": "the barren trees"
+  },
+  "रूखु": {
+    "roman": "rookhu",
+    "hi": "पेड़/वृक्ष",
+    "en": "the tree"
+  },
+  "बिरखा": {
+    "roman": "birkhaa",
+    "hi": "पेड़",
+    "en": "tree"
+  },
+  "बिरहा": {
+    "roman": "birahaa",
+    "hi": "विरह-वेदना",
+    "en": "the pangs of mystical separation"
+  },
+  "बिरहू": {
+    "roman": "birahoo",
+    "hi": "विरह/वियोग",
+    "en": "the sacred ache of separation"
+  },
+  "सुलतानु": {
+    "roman": "sulataanu",
+    "hi": "राजा/सम्राट",
+    "en": "the reigning sovereign king"
+  },
+  "सुलतान": {
+    "roman": "sulataan",
+    "hi": "बादशाह",
+    "en": "the emperor"
+  },
+  "चिखड़ि": {
+    "roman": "chikhadi",
+    "hi": "कीचड़ में",
+    "en": "in the deep slippery mire"
+  },
+  "चिखडु": {
+    "roman": "chikhdu",
+    "hi": "कीचड़/दलदल",
+    "en": "mud and slush"
+  },
+  "कांउ": {
+    "roman": "kaaun",
+    "hi": "कौआ/काग",
+    "en": "the scavenger crow"
+  },
+  "कागा": {
+    "roman": "kaagaa",
+    "hi": "कौआ",
+    "en": "the crow"
+  },
+  "पंजोरी": {
+    "roman": "panjoree",
+    "hi": "पिंजरा/अस्थि-पंजर",
+    "en": "the skeletal ribcage"
+  },
+  "पिंजर": {
+    "roman": "pinjar",
+    "hi": "शरीर का कंकाल",
+    "en": "the physical skeleton"
+  },
+  "मासु": {
+    "roman": "maasu",
+    "hi": "मांस",
+    "en": "mortal flesh"
+  },
+  "लोइण": {
+    "roman": "loin",
+    "hi": "नेत्र/आंखें",
+    "en": "the two mortal eyes"
+  },
+  "नैण": {
+    "roman": "nain",
+    "hi": "नेत्र",
+    "en": "eyes"
+  },
+  "दीदार": {
+    "roman": "deedaar",
+    "hi": "ईश्वर का दर्शन",
+    "en": "the vision of the Divine Face"
+  },
+  "इशक": {
+    "roman": "ishak",
+    "hi": "परम प्रेम/इश्क",
+    "en": "transcendent Divine Love"
+  },
+  "इश्क": {
+    "roman": "ishq",
+    "hi": "इश्क हकीकी",
+    "en": "pure mystical love"
+  },
+  "मुहबति": {
+    "roman": "muhabati",
+    "hi": "सच्ची प्रीति/प्रेम",
+    "en": "authentic divine affection"
+  },
+  "सचिआ": {
+    "roman": "sachiaa",
+    "hi": "सच्चे/सत्यनिष्ठ",
+    "en": "the truly righteous souls"
+  },
+  "कचिआ": {
+    "roman": "kachiaa",
+    "hi": "कच्चे/दंभी",
+    "en": "false and hypocritical"
+  },
+  "विसरिआ": {
+    "roman": "visariaa",
+    "hi": "भूल गया",
+    "en": "forgotten the Divine Name"
+  },
+  "नामु": {
+    "roman": "naamu",
+    "hi": "प्रभु का पावन नाम",
+    "en": "the Sacred Divine Name"
+  },
+  "भुइ": {
+    "roman": "bhui",
+    "hi": "धरती पर",
+    "en": "upon the earthly ground"
+  },
+  "भारु": {
+    "roman": "bhaaru",
+    "hi": "बोझ/भार",
+    "en": "a heavy burdensome weight"
+  },
+  "थीए": {
+    "roman": "theee",
+    "hi": "हो गए",
+    "en": "have truly become"
+  },
+  "आपि": {
+    "roman": "aapi",
+    "hi": "स्वयं परमात्मा ने",
+    "en": "the Lord Himself"
+  },
+  "लड़ि": {
+    "roman": "ladi",
+    "hi": "दामन से/चरणों से",
+    "en": "unto His divine robes"
+  },
+  "लाइ": {
+    "roman": "laai",
+    "hi": "लगाकर",
+    "en": "attaching lovingly"
+  },
+  "धंनु": {
+    "roman": "dhannu",
+    "hi": "धन्य है",
+    "en": "blessed beyond measure"
+  },
+  "जणेदी": {
+    "roman": "janedee",
+    "hi": "जन्म देने वाली",
+    "en": "who gave birth"
+  },
+  "सफलु": {
+    "roman": "safalu",
+    "hi": "सार्थक/सफल",
+    "en": "fruitful and fulfilled"
+  },
+  "परवदगार": {
+    "roman": "parvadgaar",
+    "hi": "पालनहार ईश्वर",
+    "en": "the Divine Provider and Cherisher"
+  },
+  "अपार": {
+    "roman": "apaar",
+    "hi": "असीम/अनंत",
+    "en": "boundless and limitless"
+  },
+  "अगम": {
+    "roman": "agam",
+    "hi": "अगम्य/बुद्धि से परे",
+    "en": "unfathomable and unreachable"
+  },
+  "बेअंत": {
+    "roman": "beant",
+    "hi": "अनंत/सीमहीन",
+    "en": "infinite without end"
+  },
+  "पछाता": {
+    "roman": "pachhaataa",
+    "hi": "पहचान लिया",
+    "en": "recognized and realized"
+  },
+  "सचु": {
+    "roman": "sachu",
+    "hi": "परम सत्य",
+    "en": "the Absolute Truth"
+  },
+  "चुमा": {
+    "roman": "chumaa",
+    "hi": "चूमता हूँ",
+    "en": "I kiss with reverence"
+  },
+  "पैर": {
+    "roman": "pair",
+    "hi": "चरण/पांव",
+    "en": "the dust of the holy feet"
+  },
+  "मूं": {
+    "roman": "moon",
+    "hi": "मैं",
+    "en": "I humbly"
+  },
+  "पनह": {
+    "roman": "panah",
+    "hi": "शरण/पनाह",
+    "en": "sacred shelter and refuge"
+  },
+  "बखसंदगी": {
+    "roman": "bakhsandgee",
+    "hi": "क्षमाशीलता/कृपा",
+    "en": "forgiving divine mercy"
+  },
+  "खैरु": {
+    "roman": "khairu",
+    "hi": "खैर/भिक्षा",
+    "en": "alms of divine grace"
+  },
+  "दीजै": {
+    "roman": "deejai",
+    "hi": "प्रदान कीजिए",
+    "en": "bestow unto me"
+  },
+  "बंदगी": {
+    "roman": "bandgee",
+    "hi": "भक्ति/उपासना",
+    "en": "humble devotional worship"
+  },
+  "जितु": {
+    "roman": "jitu",
+    "hi": "जिस",
+    "en": "on that very"
+  },
+  "दिहाड़ै": {
+    "roman": "dihaadai",
+    "hi": "दिन",
+    "en": "destined day"
+  },
+  "धन": {
+    "roman": "dhan",
+    "hi": "जीव-स्त्री",
+    "en": "the bride-soul"
+  },
+  "वरी": {
+    "roman": "varee",
+    "hi": "ब्याही जाएगी",
+    "en": "shall be wedded away"
+  },
+  "साहे": {
+    "roman": "saahe",
+    "hi": "विवाह की लग्न/नियत काल",
+    "en": "the appointed hour"
+  },
+  "लए": {
+    "roman": "lae",
+    "hi": "लेकर",
+    "en": "having taken"
+  },
+  "लिखाइ": {
+    "roman": "likhaai",
+    "hi": "लिखवाकर",
+    "en": "inscribed by destiny"
+  },
+  "कंनी": {
+    "roman": "kannee",
+    "hi": "कानों से",
+    "en": "with the mortal ears"
+  },
+  "सुणीदा": {
+    "roman": "suneedaa",
+    "hi": "सुना जाता था",
+    "en": "was once heard spoken"
+  },
+  "मुहु": {
+    "roman": "muhu",
+    "hi": "मुख/चेहरा",
+    "en": "his terrifying countenance"
+  },
+  "देखाले": {
+    "roman": "dekhaale",
+    "hi": "दिखाएगा",
+    "en": "shall reveal in person"
+  },
+  "आइ": {
+    "roman": "aai",
+    "hi": "आकर",
+    "en": "having arrived"
+  },
+  "कढीऐ": {
+    "roman": "kadheeai",
+    "hi": "खींच निकाली जाती है",
+    "en": "is wrenched violently forth"
+  },
+  "हडा": {
+    "roman": "hadaa",
+    "hi": "हड्डियों को",
+    "en": "the brittle mortal bones"
+  },
+  "कू": {
+    "roman": "koo",
+    "hi": "को",
+    "en": "unto"
+  },
+  "कड़काइ": {
+    "roman": "kadkaai",
+    "hi": "कड़का कर/तोड़ कर",
+    "en": "cracking in agony"
+  },
+  "चलनी": {
+    "roman": "chalnee",
+    "hi": "टल सकते",
+    "en": "turn away or falter"
+  },
+  "कूं": {
+    "roman": "koon",
+    "hi": "को",
+    "en": "unto"
+  },
+  "समझाइ": {
+    "roman": "samjhaai",
+    "hi": "समझाकर",
+    "en": "advising or reasoning"
+  },
+  "वहुटी": {
+    "roman": "vahutee",
+    "hi": "दुल्हन/वधू",
+    "en": "the trembling young bride"
+  },
+  "मरणु": {
+    "roman": "maranu",
+    "hi": "मृत्यु",
+    "en": "grim Death itself"
+  },
+  "वरु": {
+    "roman": "varu",
+    "hi": "दूल्हा/वर",
+    "en": "the destined bridegroom"
+  },
+  "लै": {
+    "roman": "lai",
+    "hi": "लेकर",
+    "en": "taking along"
+  },
+  "जासी": {
+    "roman": "jaasee",
+    "hi": "जाएगा",
+    "en": "shall carry away"
+  },
+  "परणाइ": {
+    "roman": "parnaai",
+    "hi": "विवाह करके",
+    "en": "wedded in mortal departure"
+  },
+  "आपण": {
+    "roman": "aapan",
+    "hi": "अपने",
+    "en": "with one's own"
+  },
+  "हथी": {
+    "roman": "hathee",
+    "hi": "हाथों से",
+    "en": "mortal hands"
+  },
+  "जोलि": {
+    "roman": "joli",
+    "hi": "विदा करके/सौंपकर",
+    "en": "sending away"
+  },
+  "कै": {
+    "roman": "kai",
+    "hi": "किसके",
+    "en": "whose"
+  },
+  "गलि": {
+    "roman": "gali",
+    "hi": "गले में",
+    "en": "around the neck"
+  },
+  "लगै": {
+    "roman": "lagai",
+    "hi": "लगेगी",
+    "en": "shall embrace"
+  },
+  "धाइ": {
+    "roman": "dhaai",
+    "hi": "दौड़कर",
+    "en": "running in lamentation"
+  },
+  "वालहु": {
+    "roman": "vaalahu",
+    "hi": "बाल से भी",
+    "en": "finer than a single hair"
+  },
+  "निकी": {
+    "roman": "nikee",
+    "hi": "बारीक/पतली",
+    "en": "narrow and razor-sharp"
+  },
+  "पुरसलात": {
+    "roman": "puraslaat",
+    "hi": "पुल-सिरात (परलोक का संकरा पुल)",
+    "en": "the razor Bridge of Sirat"
+  },
+  "किड़ी": {
+    "roman": "kidee",
+    "hi": "पुकार/आवाज़",
+    "en": "the summons of departure"
+  },
+  "पवंदीई": {
+    "roman": "pavandeeee",
+    "hi": "पड़ते ही",
+    "en": "the moment it echoes"
+  },
+  "खड़ा": {
+    "roman": "khadaa",
+    "hi": "खड़े-खड़े",
+    "en": "standing heedless"
+  },
+  "आपु": {
+    "roman": "aapu",
+    "hi": "अपने आपको",
+    "en": "one's spiritual wealth"
+  },
+  "मुहाइ": {
+    "roman": "muhaai",
+    "hi": "लुटवा मत",
+    "en": "do not let be plundered"
+  },
+  "गावलि": {
+    "roman": "gaavali",
+    "hi": "ग्वालिन",
+    "en": "the milkmaid"
+  },
+  "छाछ": {
+    "roman": "chhaachh",
+    "hi": "मट्ठा/छाछ",
+    "en": "buttermilk"
+  },
+  "दही": {
+    "roman": "dahee",
+    "hi": "दही रूप",
+    "en": "curd"
+  },
+  "घिउ": {
+    "roman": "ghiu",
+    "hi": "घी",
+    "en": "clarified butter"
+  },
+  "तन": {
+    "roman": "tan",
+    "hi": "शरीर",
+    "en": "mortal body"
+  },
+  "तनु": {
+    "roman": "tanu",
+    "hi": "काया/शरीर",
+    "en": "physical body"
+  },
+  "मन": {
+    "roman": "man",
+    "hi": "हृदय/चित्त",
+    "en": "mind and soul"
+  },
+  "मनि": {
+    "roman": "mani",
+    "hi": "मन के भीतर",
+    "en": "within the mind"
+  },
+  "मुखि": {
+    "roman": "mukhi",
+    "hi": "मुख पर",
+    "en": "upon the lips"
+  },
+  "होरु": {
+    "roman": "horu",
+    "hi": "कुछ और",
+    "en": "something else"
+  },
+  "सि": {
+    "roman": "si",
+    "hi": "वे लोग",
+    "en": "they indeed"
+  },
+  "कांढे": {
+    "roman": "kaandhe",
+    "hi": "कहलाते हैं",
+    "en": "are proclaimed"
+  },
+  "रते": {
+    "roman": "rate",
+    "hi": "रंगे हुए",
+    "en": "steeped in love"
+  },
+  "रंगि": {
+    "roman": "rangi",
+    "hi": "रंग में",
+    "en": "in the vibrant color"
+  },
+  "दरि": {
+    "roman": "dari",
+    "hi": "दरवाजे पर",
+    "en": "at the divine threshold"
+  },
+  "दर": {
+    "roman": "dar",
+    "hi": "दरबार",
+    "en": "court of the Lord"
+  },
+  "तिन": {
+    "roman": "tin",
+    "hi": "उनकी",
+    "en": "their"
+  },
+  "आए": {
+    "roman": "aae",
+    "hi": "आए हुए",
+    "en": "having arrived"
+  },
+  "तू": {
+    "roman": "too",
+    "hi": "तू स्वयं",
+    "en": "Thou alone"
+  },
+  "जिना": {
+    "roman": "jinaa",
+    "hi": "जिन्होंने",
+    "en": "those who have"
+  },
+  "तेरी": {
+    "roman": "teree",
+    "hi": "तेरी ही",
+    "en": "Thine alone"
+  },
+  "फरीदै": {
+    "roman": "fareedai",
+    "hi": "फरीद को",
+    "en": "unto Farid"
+  },
+  "रोटी": {
+    "roman": "rotee",
+    "hi": "रोटी/भोजन",
+    "en": "bread of sustenance"
+  },
+  "काठ": {
+    "roman": "kaath",
+    "hi": "लकड़ी की",
+    "en": "wooden carved"
+  },
+  "लावा": {
+    "roman": "laavaa",
+    "hi": "पकवान/स्वाद",
+    "en": "rich delicacies"
+  },
+  "कूकड़": {
+    "roman": "kookad",
+    "hi": "मुर्गा",
+    "en": "the morning rooster"
+  },
+  "जाग": {
+    "roman": "jaag",
+    "hi": "जागो/उठो",
+    "en": "awaken from slumber"
+  },
+  "राती": {
+    "roman": "raatee",
+    "hi": "रात को",
+    "en": "in the dark night"
+  },
+  "वडा": {
+    "roman": "vadaa",
+    "hi": "बड़ा/विशाल",
+    "en": "vast and immense"
+  },
+  "वड": {
+    "roman": "vad",
+    "hi": "महान",
+    "en": "great"
+  },
+  "वेला": {
+    "roman": "velaa",
+    "hi": "समय/घड़ी",
+    "en": "the precious time"
+  },
+  "अमृत": {
+    "roman": "amrit",
+    "hi": "अमृत रूप",
+    "en": "divine nectar"
+  },
+  "जितुदिहाड़ै": {
+    "roman": "jitudihaadai",
+    "hi": "जिस दिन",
+    "en": "the appointed day"
+  },
+  "नचलनी": {
+    "roman": "nachalanee",
+    "hi": "नहीं टल सकते",
+    "en": "cannot be averted"
+  },
+  "जोलिकै": {
+    "roman": "jolikai",
+    "hi": "भेज कर",
+    "en": "spiritual term (jolikai)"
+  },
+  "कैगलि": {
+    "roman": "kaigali",
+    "hi": "किस के गले में",
+    "en": "spiritual term (kaigali)"
+  },
+  "किड़ीपवंदीई": {
+    "roman": "kideepavandeeee",
+    "hi": "आवाज़ आते",
+    "en": "spiritual term (kideepavandeeee)"
+  },
+  "नमुहाइ": {
+    "roman": "namuhaai",
+    "hi": "न लुटा",
+    "en": "spiritual term (namuhaai)"
+  },
+  "गाखड़ी": {
+    "roman": "gaakhadee",
+    "hi": "मुश्किल",
+    "en": "spiritual term (gaakhadee)"
+  },
+  "भति": {
+    "roman": "bhati",
+    "hi": "की तरह",
+    "en": "spiritual term (bhati)"
+  },
+  "बंन्हि": {
+    "roman": "bannhi",
+    "hi": "बाँध कर",
+    "en": "spiritual term (bannhi)"
+  },
+  "वंञा": {
+    "roman": "vannya",
+    "hi": "जाऊं",
+    "en": "spiritual term (vannya)"
+  },
+  "घति": {
+    "roman": "ghati",
+    "hi": "फैंक कर",
+    "en": "spiritual term (ghati)"
+  },
+  "पोटली": {
+    "roman": "potalee",
+    "hi": "छोटी सी गाँठ",
+    "en": "spiritual term (potalee)"
+  },
+  "किझु": {
+    "roman": "kijhu",
+    "hi": "कुछ भी",
+    "en": "spiritual term (kijhu)"
+  },
+  "बुझै": {
+    "roman": "bujhai",
+    "hi": "समझ आती पता लगता",
+    "en": "spiritual term (bujhai)"
+  },
+  "गुझी": {
+    "roman": "gujhee",
+    "hi": "छुपी",
+    "en": "spiritual term (gujhee)"
+  },
+  "भाहि": {
+    "roman": "bhaahi",
+    "hi": "आग",
+    "en": "spiritual term (bhaahi)"
+  },
+  "सांईंमेरै": {
+    "roman": "saaneenmerai",
+    "hi": "मेरे सांईं ने",
+    "en": "spiritual term (saaneenmerai)"
+  },
+  "हंभी": {
+    "roman": "hanbhee",
+    "hi": "मैं भी",
+    "en": "spiritual term (hanbhee)"
+  },
+  "दझांआहि": {
+    "roman": "dajhaanaahi",
+    "hi": "सड़ जाता",
+    "en": "spiritual term (dajhaanaahi)"
+  },
+  "तिल": {
+    "roman": "til",
+    "hi": "स्वास",
+    "en": "spiritual term (til)"
+  },
+  "थोड़ड़े": {
+    "roman": "thodade",
+    "hi": "बहुत थोड़े",
+    "en": "spiritual term (thodade)"
+  },
+  "संमलि": {
+    "roman": "sanmali",
+    "hi": "संभल के",
+    "en": "spiritual term (sanmali)"
+  },
+  "सहु": {
+    "roman": "sahu",
+    "hi": "खसम -प्रभु",
+    "en": "the Sovereign Lord"
+  },
+  "नंढड़ा": {
+    "roman": "nandhada",
+    "hi": "छोटा सा लड़का",
+    "en": "spiritual term (nandhada)"
+  },
+  "लड़ु": {
+    "roman": "ladu",
+    "hi": "पल्ला",
+    "en": "spiritual term (ladu)"
+  },
+  "छिजणा": {
+    "roman": "chhijana",
+    "hi": "टूट जाना है",
+    "en": "spiritual term (chhijana)"
+  },
+  "पीडी": {
+    "roman": "peedee",
+    "hi": "पक्की",
+    "en": "spiritual term (peedee)"
+  },
+  "तैजेवडु": {
+    "roman": "taijevadu",
+    "hi": "तुम्हारे जितना",
+    "en": "spiritual term (taijevadu)"
+  },
+  "हंढि": {
+    "roman": "handhi",
+    "hi": "फिर कर",
+    "en": "spiritual term (handhi)"
+  },
+  "अकलिलतीफु": {
+    "roman": "akalilateephu",
+    "hi": "बारीक समझ वाला",
+    "en": "spiritual term (akalilateephu)"
+  },
+  "कालेलेखु": {
+    "roman": "kaalelekhu",
+    "hi": "मन्दे करम",
+    "en": "spiritual term (kaalelekhu)"
+  },
+  "गिरीवान": {
+    "roman": "gireevaan",
+    "hi": "अंदर",
+    "en": "spiritual term (gireevaan)"
+  },
+  "तै": {
+    "roman": "tai",
+    "hi": "तूने",
+    "en": "thou hast"
+  },
+  "तिन्हा": {
+    "roman": "tinha",
+    "hi": "उन को",
+    "en": "spiritual term (tinha)"
+  },
+  "नमारे": {
+    "roman": "namaare",
+    "hi": "न मार",
+    "en": "spiritual term (namaare)"
+  },
+  "घुमि": {
+    "roman": "ghumi",
+    "hi": "लौट कर",
+    "en": "spiritual term (ghumi)"
+  },
+  "आपनड़ैघरि": {
+    "roman": "aapanadaighari",
+    "hi": "अपने घर में शांत अवस्था में",
+    "en": "spiritual term (aapanadaighari)"
+  },
+  "चुमि": {
+    "roman": "chumi",
+    "hi": "चूम कर",
+    "en": "spiritual term (chumi)"
+  },
+  "जाईऐ": {
+    "roman": "jaaeeai",
+    "hi": "पहुँच जाते है",
+    "en": "spiritual term (jaaeeai)"
+  },
+  "तउ": {
+    "roman": "tau",
+    "hi": "तुम्हारा",
+    "en": "spiritual term (tau)"
+  },
+  "खटणवेल": {
+    "roman": "khatanavel",
+    "hi": "कमाने का समय",
+    "en": "the destined time"
+  },
+  "रता": {
+    "roman": "rata",
+    "hi": "रंगा हुआ मस्त",
+    "en": "spiritual term (rata)"
+  },
+  "सिउ": {
+    "roman": "siu",
+    "hi": "के साथ",
+    "en": "spiritual term (siu)"
+  },
+  "मरग": {
+    "roman": "marag",
+    "hi": "मौत",
+    "en": "death / the grave"
+  },
+  "सवाई": {
+    "roman": "savaaee",
+    "hi": "बढ़ती गई",
+    "en": "spiritual term (savaaee)"
+  },
+  "जां": {
+    "roman": "jaan",
+    "hi": "जब",
+    "en": "spiritual term (jaan)"
+  },
+  "भरिआ": {
+    "roman": "bharia",
+    "hi": "स्वास पूरे हो गए",
+    "en": "spiritual term (bharia)"
+  },
+  "नीहि": {
+    "roman": "neehi",
+    "hi": "नींव",
+    "en": "spiritual term (neehi)"
+  },
+  "थीआ": {
+    "roman": "theeaa",
+    "hi": "हो गया",
+    "en": "has become"
+  },
+  "जु": {
+    "roman": "ju",
+    "hi": "जो कुछ",
+    "en": "spiritual term (ju)"
+  },
+  "भूर": {
+    "roman": "bhoor",
+    "hi": "सफ़ेद",
+    "en": "spiritual term (bhoor)"
+  },
+  "अगहु": {
+    "roman": "agahu",
+    "hi": "अगला पासा",
+    "en": "spiritual term (agahu)"
+  },
+  "पिछा": {
+    "roman": "pichhaa",
+    "hi": "अतीत/बीता काल",
+    "en": "the past left behind"
+  },
+  "जिथीया": {
+    "roman": "jitheeya",
+    "hi": "जो कुछ हुआ है",
+    "en": "spiritual term (jitheeya)"
+  },
+  "सकर": {
+    "roman": "sakar",
+    "hi": "शक्कर मीठे पदारथ",
+    "en": "spiritual term (sakar)"
+  },
+  "विसु": {
+    "roman": "visu",
+    "hi": "ज़हर दुखदायी",
+    "en": "sorrow and pain"
+  },
+  "वेदण": {
+    "roman": "vedan",
+    "hi": "दुख",
+    "en": "sorrow and pain"
+  },
+  "पतीणीआं": {
+    "roman": "pateeneeaan",
+    "hi": "पतली पड़ गई हैं",
+    "en": "spiritual term (pateeneeaan)"
+  },
+  "रीणे": {
+    "roman": "reene",
+    "hi": "खाली बोले",
+    "en": "spiritual term (reene)"
+  },
+  "साख": {
+    "roman": "saakh",
+    "hi": "टहनी शरीर",
+    "en": "spiritual term (saakh)"
+  },
+  "पकंदीआईआ": {
+    "roman": "pakandeeaaeea",
+    "hi": "पक्क गयी है",
+    "en": "spiritual term (pakandeeaaeea)"
+  },
+  "वंन": {
+    "roman": "vann",
+    "hi": "रंग",
+    "en": "spiritual term (vann)"
+  },
+  "कालीं": {
+    "roman": "kaaleen",
+    "hi": "जब केस काले थे",
+    "en": "the destined time"
+  },
+  "राविआ": {
+    "roman": "raavia",
+    "hi": "माना",
+    "en": "spiritual term (raavia)"
+  },
+  "धउली": {
+    "roman": "dhaulee",
+    "hi": "धउले आए हुए",
+    "en": "spiritual term (dhaulee)"
+  },
+  "कोइ": {
+    "roman": "koi",
+    "hi": "कोई विरला",
+    "en": "spiritual term (koi)"
+  },
+  "पिरहड़ी": {
+    "roman": "pirahadee",
+    "hi": "प्यार",
+    "en": "devotional love"
+  },
+  "नवेला": {
+    "roman": "navela",
+    "hi": "नया",
+    "en": "spiritual term (navela)"
+  },
+  "रंगु": {
+    "roman": "rangu",
+    "hi": "प्यार",
+    "en": "devotional love"
+  },
+  "चितिकरे": {
+    "roman": "chitikare",
+    "hi": "चित्त में टिकाए",
+    "en": "spiritual term (chitikare)"
+  },
+  "पिरमु": {
+    "roman": "piramu",
+    "hi": "प्यार",
+    "en": "devotional love"
+  },
+  "सभुकोइ": {
+    "roman": "sabhukoi",
+    "hi": "हरेक जीव",
+    "en": "spiritual term (sabhukoi)"
+  },
+  "जै": {
+    "roman": "jai",
+    "hi": "जिस को",
+    "en": "spiritual term (jai)"
+  },
+  "सूइ": {
+    "roman": "sooi",
+    "hi": "बच्चे",
+    "en": "spiritual term (sooi)"
+  },
+  "बहिठु": {
+    "roman": "bahithu",
+    "hi": "बैठने की जगह",
+    "en": "spiritual term (bahithu)"
+  },
+  "सैतानि": {
+    "roman": "saitaani",
+    "hi": "शैतान ने मन ने",
+    "en": "spiritual term (saitaani)"
+  },
+  "कूकेदिआचांगेदिआ": {
+    "roman": "kookediaachaangedia",
+    "hi": "पुकार पुकार के समझाने पर भी",
+    "en": "spiritual term (kookediaachaangedia)"
+  },
+  "से": {
+    "roman": "se",
+    "hi": "वह बंदे",
+    "en": "spiritual term (se)"
+  },
+  "वंञाइआ": {
+    "roman": "vannyaaia",
+    "hi": "बिगड़ा हुआ है",
+    "en": "spiritual term (vannyaaia)"
+  },
+  "थीउ": {
+    "roman": "theeu",
+    "hi": "बन जा",
+    "en": "spiritual term (theeu)"
+  },
+  "पवाही": {
+    "roman": "pavaahee",
+    "hi": "पहियों की रस्ते की",
+    "en": "spiritual term (pavaahee)"
+  },
+  "दभु": {
+    "roman": "dabhu",
+    "hi": "घास",
+    "en": "spiritual term (dabhu)"
+  },
+  "जेलोड़हि": {
+    "roman": "jelodahi",
+    "hi": "यदि तू ढूँढता है",
+    "en": "spiritual term (jelodahi)"
+  },
+  "सभु": {
+    "roman": "sabhu",
+    "hi": "सब मे",
+    "en": "spiritual term (sabhu)"
+  },
+  "इकु": {
+    "roman": "iku",
+    "hi": "किसी दूब के पौधे को",
+    "en": "spiritual term (iku)"
+  },
+  "छिजहि": {
+    "roman": "chhijahi",
+    "hi": "तोड़ते हैं",
+    "en": "spiritual term (chhijahi)"
+  },
+  "बिआ": {
+    "roman": "bia",
+    "hi": "कई ओर",
+    "en": "spiritual term (bia)"
+  },
+  "लताड़ीअहि": {
+    "roman": "lataadeeahi",
+    "hi": "लताड़े जाते हैं",
+    "en": "spiritual term (lataadeeahi)"
+  },
+  "साईदैदरि": {
+    "roman": "saaeedaidari",
+    "hi": "मालिक के दर पर",
+    "en": "spiritual term (saaeedaidari)"
+  },
+  "वाड़ीअहि": {
+    "roman": "vaadeeahi",
+    "hi": "तू ले जाया जाएगा",
+    "en": "spiritual term (vaadeeahi)"
+  },
+  "खाकु": {
+    "roman": "khaaku",
+    "hi": "मिट्टी",
+    "en": "spiritual term (khaaku)"
+  },
+  "जेडु": {
+    "roman": "jedu",
+    "hi": "जितना,जैसा",
+    "en": "spiritual term (jedu)"
+  },
+  "नेहुकिआ": {
+    "roman": "nehukia",
+    "hi": "किसका प्यार असली प्यार नहीं",
+    "en": "devotional love"
+  },
+  "कूड़ा": {
+    "roman": "kooda",
+    "hi": "झूठा",
+    "en": "spiritual term (kooda)"
+  },
+  "किचरु": {
+    "roman": "kicharu",
+    "hi": "कितनी देर",
+    "en": "spiritual term (kicharu)"
+  },
+  "झति": {
+    "roman": "jhati",
+    "hi": "समय",
+    "en": "the destined time"
+  },
+  "छपरितुटै": {
+    "roman": "chhaparitutai",
+    "hi": "टूटे हुए छप्पर पर",
+    "en": "spiritual term (chhaparitutai)"
+  },
+  "मेहु": {
+    "roman": "mehu",
+    "hi": "बारिश",
+    "en": "spiritual term (mehu)"
+  },
+  "किआभवहि": {
+    "roman": "kiaabhavahi",
+    "hi": "घूमने का क्या लाभ",
+    "en": "spiritual term (kiaabhavahi)"
+  },
+  "वणि": {
+    "roman": "vani",
+    "hi": "जंगल में",
+    "en": "spiritual term (vani)"
+  },
+  "कंडामोड़ेहि": {
+    "roman": "kandaamodehi",
+    "hi": "क्यों लताड़ता है",
+    "en": "spiritual term (kandaamodehi)"
+  },
+  "वसी": {
+    "roman": "vasee",
+    "hi": "बसता है",
+    "en": "spiritual term (vasee)"
+  },
+  "हिआलीऐ": {
+    "roman": "hiaaleeai",
+    "hi": "हृदय में",
+    "en": "spiritual term (hiaaleeai)"
+  },
+  "किआढूढेहि": {
+    "roman": "kiaadhoodhehi",
+    "hi": "तलाश का क्या लाभ",
+    "en": "spiritual term (kiaadhoodhehi)"
+  },
+  "इनीजंघीऐ": {
+    "roman": "ineejangheeai",
+    "hi": "इन टांगों के साथ",
+    "en": "spiritual term (ineejangheeai)"
+  },
+  "डूंगर": {
+    "roman": "doongar",
+    "hi": "पहाड़",
+    "en": "spiritual term (doongar)"
+  },
+  "भविओम्हि": {
+    "roman": "bhaviomhi",
+    "hi": "मैंने घूमा है",
+    "en": "spiritual term (bhaviomhi)"
+  },
+  "अजु": {
+    "roman": "aju",
+    "hi": "बुढ़ापे में",
+    "en": "spiritual term (aju)"
+  },
+  "थीओमि": {
+    "roman": "theeomi",
+    "hi": "हो गया है",
+    "en": "spiritual term (theeomi)"
+  },
+  "कूजड़ा": {
+    "roman": "koojada",
+    "hi": "एक छोटा सा कुल्हड़",
+    "en": "spiritual term (koojada)"
+  },
+  "वडीआं": {
+    "roman": "vadeeaan",
+    "hi": "लम्बी",
+    "en": "spiritual term (vadeeaan)"
+  },
+  "धुखिउठनि": {
+    "roman": "dhukhiuthani",
+    "hi": "सुलग उठते हैं",
+    "en": "spiritual term (dhukhiuthani)"
+  },
+  "पास": {
+    "roman": "paas",
+    "hi": "शरीर के अंग",
+    "en": "spiritual term (paas)"
+  },
+  "विडाणी": {
+    "roman": "vidaanee",
+    "hi": "बिगानी",
+    "en": "spiritual term (vidaanee)"
+  },
+  "धिगु": {
+    "roman": "dhigu",
+    "hi": "फटकार-योग्य",
+    "en": "spiritual term (dhigu)"
+  },
+  "वारिआहोदा": {
+    "roman": "vaariaahoda",
+    "hi": "लुकाआ होता",
+    "en": "spiritual term (vaariaahoda)"
+  },
+  "मिताआइड़िआं": {
+    "roman": "mitaaaaidiaan",
+    "hi": "आए मित्रों से",
+    "en": "spiritual term (mitaaaaidiaan)"
+  },
+  "हेड़ा": {
+    "roman": "heda",
+    "hi": "शरीर दिल मांस",
+    "en": "spiritual term (heda)"
+  },
+  "मजीठजिउ": {
+    "roman": "majeethajiu",
+    "hi": "मजीठ की तरह",
+    "en": "spiritual term (majeethajiu)"
+  },
+  "जलै": {
+    "roman": "jalai",
+    "hi": "जलता है",
+    "en": "spiritual term (jalai)"
+  },
+  "बिजउरीआं": {
+    "roman": "bijaureeaan",
+    "hi": "बिजौर के इलाके की",
+    "en": "spiritual term (bijaureeaan)"
+  },
+  "दाखु": {
+    "roman": "daakhu",
+    "hi": "छोटा अंगूर",
+    "en": "spiritual term (daakhu)"
+  },
+  "किकरि": {
+    "roman": "kikari",
+    "hi": "कीकर का पेड़",
+    "en": "spiritual term (kikari)"
+  },
+  "हंढै": {
+    "roman": "handhai",
+    "hi": "पुराना",
+    "en": "spiritual term (handhai)"
+  },
+  "पैधालोड़ै": {
+    "roman": "paidhaalodai",
+    "hi": "पहनना चाहता है",
+    "en": "spiritual term (paidhaalodai)"
+  },
+  "रहां": {
+    "roman": "rahaan",
+    "hi": "अगर मैं रह पड़ूँ",
+    "en": "spiritual term (rahaan)"
+  },
+  "त": {
+    "roman": "t",
+    "hi": "तो",
+    "en": "spiritual term (t)"
+  },
+  "तुटै": {
+    "roman": "tutai",
+    "hi": "टूटता है",
+    "en": "spiritual term (tutai)"
+  },
+  "अलह": {
+    "roman": "alah",
+    "hi": "ईश्वर के कारन",
+    "en": "the Sovereign Lord"
+  },
+  "भिजउ": {
+    "roman": "bhijau",
+    "hi": "बेशक भीगे",
+    "en": "spiritual term (bhijau)"
+  },
+  "मै": {
+    "roman": "mai",
+    "hi": "मैंने",
+    "en": "I have"
+  },
+  "भोलावा": {
+    "roman": "bholaava",
+    "hi": "भ्रम",
+    "en": "spiritual term (bholaava)"
+  },
+  "मतुहोइजाइ": {
+    "roman": "matuhoijaai",
+    "hi": "मत हो जाए",
+    "en": "spiritual term (matuhoijaai)"
+  },
+  "गहिला": {
+    "roman": "gahila",
+    "hi": "लापरवाह गाफिल",
+    "en": "spiritual term (gahila)"
+  },
+  "जाणई": {
+    "roman": "jaanaee",
+    "hi": "जानता",
+    "en": "spiritual term (jaanaee)"
+  },
+  "निवात": {
+    "roman": "nivaat",
+    "hi": "मिशरी",
+    "en": "spiritual term (nivaat)"
+  },
+  "नपुजनि": {
+    "roman": "napujani",
+    "hi": "नहीं पहुंचते",
+    "en": "cannot be averted"
+  },
+  "तुधु": {
+    "roman": "tudhu",
+    "hi": "तुझे",
+    "en": "spiritual term (tudhu)"
+  },
+  "रोटीमेरीकाठ": {
+    "roman": "roteemereekaath",
+    "hi": "काठ की तरह सूखी रोटी",
+    "en": "spiritual term (roteemereekaath)"
+  },
+  "लावणु": {
+    "roman": "laavanu",
+    "hi": "भाजी नमकीन",
+    "en": "spiritual term (laavanu)"
+  },
+  "घणे": {
+    "roman": "ghane",
+    "hi": "बड़े",
+    "en": "spiritual term (ghane)"
+  },
+  "चोपड़ी": {
+    "roman": "chopadee",
+    "hi": "स्वादिष्ट, घी-भीगी",
+    "en": "spiritual term (chopadee)"
+  },
+  "रुखी": {
+    "roman": "rukhee",
+    "hi": "बगैर दाल सब्ज़ी के",
+    "en": "spiritual term (rukhee)"
+  },
+  "देखि": {
+    "roman": "dekhi",
+    "hi": "देख कर",
+    "en": "spiritual term (dekhi)"
+  },
+  "अंगु": {
+    "roman": "angu",
+    "hi": "शरीर",
+    "en": "spiritual term (angu)"
+  },
+  "मुड़ेमुड़िजाइ": {
+    "roman": "mudemudijaai",
+    "hi": "टूट रहा है",
+    "en": "spiritual term (mudemudijaai)"
+  },
+  "डोहागणी": {
+    "roman": "dohaaganee",
+    "hi": "विधवा परित्यक्ता",
+    "en": "spiritual term (dohaaganee)"
+  },
+  "रैणि": {
+    "roman": "raini",
+    "hi": "रात",
+    "en": "spiritual term (raini)"
+  },
+  "साहुरै": {
+    "roman": "saahurai",
+    "hi": "ससुराल घर परलोक में",
+    "en": "spiritual term (saahurai)"
+  },
+  "ढोई": {
+    "roman": "dhoee",
+    "hi": "आसरा",
+    "en": "spiritual term (dhoee)"
+  },
+  "पेईऐ": {
+    "roman": "peeeai",
+    "hi": "मायके घर इस लोक में",
+    "en": "spiritual term (peeeai)"
+  },
+  "पिरु": {
+    "roman": "piru",
+    "hi": "खसम-प्रभु",
+    "en": "the Sovereign Lord"
+  },
+  "वातड़ी": {
+    "roman": "vaatadee",
+    "hi": "थोड़ी सी बात",
+    "en": "spiritual term (vaatadee)"
+  },
+  "अगमु": {
+    "roman": "agamu",
+    "hi": "पहुँच से परे",
+    "en": "spiritual term (agamu)"
+  },
+  "अथाहु": {
+    "roman": "athaahu",
+    "hi": "गहरा",
+    "en": "spiritual term (athaahu)"
+  },
+  "भावै": {
+    "roman": "bhaavai",
+    "hi": "प्यारी लगती है",
+    "en": "devotional love"
+  },
+  "सम्बही": {
+    "roman": "sambahee",
+    "hi": "सजी हुई",
+    "en": "spiritual term (sambahee)"
+  },
+  "नचिन्दु": {
+    "roman": "nachindu",
+    "hi": "बे-फ़िक्र",
+    "en": "spiritual term (nachindu)"
+  },
+  "बेड़ी": {
+    "roman": "bedee",
+    "hi": "लिबड़ी हुई",
+    "en": "spiritual term (bedee)"
+  },
+  "कथूरी": {
+    "roman": "kathooree",
+    "hi": "कस्तूरी",
+    "en": "spiritual term (kathooree)"
+  },
+  "गंधु": {
+    "roman": "gandhu",
+    "hi": "खुशबू",
+    "en": "spiritual term (gandhu)"
+  },
+  "सहप्रीति": {
+    "roman": "sahapreeti",
+    "hi": "खसम का प्यार",
+    "en": "devotional love"
+  },
+  "कितीं": {
+    "roman": "kiteen",
+    "hi": "कितने ही",
+    "en": "spiritual term (kiteen)"
+  },
+  "चिंत": {
+    "roman": "chint",
+    "hi": "चिंता",
+    "en": "spiritual term (chint)"
+  },
+  "खटोला": {
+    "roman": "khatola",
+    "hi": "छोटी खटिया",
+    "en": "spiritual term (khatola)"
+  },
+  "बिरहि": {
+    "roman": "birahi",
+    "hi": "विछोड़े में",
+    "en": "spiritual term (birahi)"
+  },
+  "विछावण": {
+    "roman": "vichhaavan",
+    "hi": "तलाई",
+    "en": "spiritual term (vichhaavan)"
+  },
+  "जितुतनि": {
+    "roman": "jitutani",
+    "hi": "जिस तन में",
+    "en": "spiritual term (jitutani)"
+  },
+  "बिरहु": {
+    "roman": "birahu",
+    "hi": "जुदाई",
+    "en": "spiritual term (birahu)"
+  },
+  "मसानु": {
+    "roman": "masaanu",
+    "hi": "मुर्दे जलाने की जगह",
+    "en": "spiritual term (masaanu)"
+  },
+  "ए": {
+    "roman": "e",
+    "hi": "यह पदार्थ",
+    "en": "spiritual term (e)"
+  },
+  "खंडुलिवाड़ि": {
+    "roman": "khandulivaadi",
+    "hi": "मीठे मे लपेट कर",
+    "en": "spiritual term (khandulivaadi)"
+  },
+  "इकि": {
+    "roman": "iki",
+    "hi": "कई जीव",
+    "en": "spiritual term (iki)"
+  },
+  "राहेदे": {
+    "roman": "raahede",
+    "hi": "बीजते",
+    "en": "spiritual term (raahede)"
+  },
+  "रहगए": {
+    "roman": "rahagae",
+    "hi": "थक गए मर गए",
+    "en": "spiritual term (rahagae)"
+  },
+  "राधी": {
+    "roman": "raadhee",
+    "hi": "बीजी हुई",
+    "en": "spiritual term (raadhee)"
+  },
+  "हंढिकै": {
+    "roman": "handhikai",
+    "hi": "भटक कर दौड़-भाग कर",
+    "en": "running in haste"
+  },
+  "समि": {
+    "roman": "sami",
+    "hi": "सो कर",
+    "en": "spiritual term (sami)"
+  },
+  "मंगेसीआ": {
+    "roman": "mangeseea",
+    "hi": "मांगेगा",
+    "en": "spiritual term (mangeseea)"
+  },
+  "आंहो": {
+    "roman": "aanho",
+    "hi": "आया था",
+    "en": "spiritual term (aanho)"
+  },
+  "केर्हेकमि": {
+    "roman": "kerhekami",
+    "hi": "किस काम",
+    "en": "spiritual term (kerhekami)"
+  },
+  "किउडिठो": {
+    "roman": "kiuditho",
+    "hi": "क्या नहीं देखा",
+    "en": "cannot be averted"
+  },
+  "निदोसां": {
+    "roman": "nidosaan",
+    "hi": "बिना दोष",
+    "en": "spiritual term (nidosaan)"
+  },
+  "मारिऐ": {
+    "roman": "maariai",
+    "hi": "मार खाता है",
+    "en": "spiritual term (maariai)"
+  },
+  "घड़ीएघड़ीए": {
+    "roman": "ghadeeeghadeee",
+    "hi": "घड़ी घड़ी के बाद",
+    "en": "spiritual term (ghadeeeghadeee)"
+  },
+  "पहरी": {
+    "roman": "paharee",
+    "hi": "हरेक पहर बाद में",
+    "en": "spiritual term (paharee)"
+  },
+  "सजाइ": {
+    "roman": "sajaai",
+    "hi": "सजा",
+    "en": "spiritual term (sajaai)"
+  },
+  "जिउ": {
+    "roman": "jiu",
+    "hi": "जैसे",
+    "en": "spiritual term (jiu)"
+  },
+  "डुखी": {
+    "roman": "dukhee",
+    "hi": "दुखी",
+    "en": "sorrow and pain"
+  },
+  "विहाइ": {
+    "roman": "vihaai",
+    "hi": "बीतती है",
+    "en": "spiritual term (vihaai)"
+  },
+  "देह": {
+    "roman": "deh",
+    "hi": "शरीर",
+    "en": "spiritual term (deh)"
+  },
+  "खेह": {
+    "roman": "kheh",
+    "hi": "राख मिट्टी",
+    "en": "spiritual term (kheh)"
+  },
+  "होसी": {
+    "roman": "hosee",
+    "hi": "हो जाएगा",
+    "en": "spiritual term (hosee)"
+  },
+  "बारिपराइऐ": {
+    "roman": "baariparaaiai",
+    "hi": "पराए दरवाज़े पर",
+    "en": "spiritual term (baariparaaiai)"
+  },
+  "बैसणा": {
+    "roman": "baisana",
+    "hi": "बैठना",
+    "en": "spiritual term (baisana)"
+  },
+  "एवै": {
+    "roman": "evai",
+    "hi": "इसी तरह",
+    "en": "spiritual term (evai)"
+  },
+  "जीउ": {
+    "roman": "jeeu",
+    "hi": "जिंद",
+    "en": "spiritual term (jeeu)"
+  },
+  "सरीरहु": {
+    "roman": "sareerahu",
+    "hi": "शरीर में से",
+    "en": "spiritual term (sareerahu)"
+  },
+  "कंधि": {
+    "roman": "kandhi",
+    "hi": "कंधे पर",
+    "en": "spiritual term (kandhi)"
+  },
+  "सिरि": {
+    "roman": "siri",
+    "hi": "सिर पर",
+    "en": "spiritual term (siri)"
+  },
+  "कैसरु": {
+    "roman": "kaisaru",
+    "hi": "बादशाह",
+    "en": "spiritual term (kaisaru)"
+  },
+  "हउ": {
+    "roman": "hau",
+    "hi": "मैं",
+    "en": "spiritual term (hau)"
+  },
+  "लोड़हि": {
+    "roman": "lodahi",
+    "hi": "चाहता है",
+    "en": "spiritual term (lodahi)"
+  },
+  "अंगिआर": {
+    "roman": "angiaar",
+    "hi": "अंगारे",
+    "en": "spiritual term (angiaar)"
+  },
+  "अगला": {
+    "roman": "agala",
+    "hi": "बहुत",
+    "en": "spiritual term (agala)"
+  },
+  "लोणु": {
+    "roman": "lonu",
+    "hi": "नमक",
+    "en": "spiritual term (lonu)"
+  },
+  "अगै": {
+    "roman": "agai",
+    "hi": "परलोक में",
+    "en": "spiritual term (agai)"
+  },
+  "सिंञापसनि": {
+    "roman": "sinnyaapasani",
+    "hi": "पहचाने जाएंगे",
+    "en": "spiritual term (sinnyaapasani)"
+  },
+  "पासि": {
+    "roman": "paasi",
+    "hi": "पास",
+    "en": "spiritual term (paasi)"
+  },
+  "दमामे": {
+    "roman": "damaame",
+    "hi": "धौंसे",
+    "en": "spiritual term (damaame)"
+  },
+  "छतु": {
+    "roman": "chhatu",
+    "hi": "छत्र",
+    "en": "spiritual term (chhatu)"
+  },
+  "भेरी": {
+    "roman": "bheree",
+    "hi": "तूतियां",
+    "en": "spiritual term (bheree)"
+  },
+  "सडो": {
+    "roman": "sado",
+    "hi": "बुला",
+    "en": "spiritual term (sado)"
+  },
+  "रड": {
+    "roman": "rad",
+    "hi": "एक 'छंद' जाता है",
+    "en": "spiritual term (rad)"
+  },
+  "जीराण": {
+    "roman": "jeeraan",
+    "hi": "मसाण",
+    "en": "spiritual term (jeeraan)"
+  },
+  "अतीमा": {
+    "roman": "ateema",
+    "hi": "यतीम बिन माँ का बच्चा",
+    "en": "spiritual term (ateema)"
+  },
+  "गडथीए": {
+    "roman": "gadatheee",
+    "hi": "रल गए",
+    "en": "spiritual term (gadatheee)"
+  },
+  "मंडप": {
+    "roman": "mandap",
+    "hi": "शामियाने",
+    "en": "spiritual term (mandap)"
+  },
+  "माड़ीआ": {
+    "roman": "maadeea",
+    "hi": "चुबारों वाले महल",
+    "en": "spiritual term (maadeea)"
+  },
+  "गोरी": {
+    "roman": "goree",
+    "hi": "गोरी,कब्रों में",
+    "en": "death / the grave"
+  },
+  "खिंथड़ि": {
+    "roman": "khinthadi",
+    "hi": "गोद",
+    "en": "spiritual term (khinthadi)"
+  },
+  "मेखा": {
+    "roman": "mekha",
+    "hi": "टांके मेखें",
+    "en": "spiritual term (mekha)"
+  },
+  "अगलीआ": {
+    "roman": "agaleea",
+    "hi": "बहुत",
+    "en": "spiritual term (agaleea)"
+  },
+  "मसाइक": {
+    "roman": "masaaik",
+    "hi": "शेख का बहु-वचन",
+    "en": "spiritual term (masaaik)"
+  },
+  "दुहुदीवीबलंदिआ": {
+    "roman": "duhudeeveebalandia",
+    "hi": "इन दोनों आंखों के सामने ही",
+    "en": "spiritual term (duhudeeveebalandia)"
+  },
+  "गड़ु": {
+    "roman": "gadu",
+    "hi": "किला शरीर",
+    "en": "spiritual term (gadu)"
+  },
+  "घटु": {
+    "roman": "ghatu",
+    "hi": "हृदय",
+    "en": "spiritual term (ghatu)"
+  },
+  "लीता": {
+    "roman": "leeta",
+    "hi": "कब्जा कर लिया",
+    "en": "spiritual term (leeta)"
+  },
+  "जि": {
+    "roman": "ji",
+    "hi": "जो कुछ",
+    "en": "spiritual term (ji)"
+  },
+  "कुंने": {
+    "roman": "kunne",
+    "hi": "मिट्टी की हाँडी",
+    "en": "spiritual term (kunne)"
+  },
+  "तिनाह": {
+    "roman": "tinaah",
+    "hi": "उन को",
+    "en": "spiritual term (tinaah)"
+  },
+  "अमल": {
+    "roman": "amal",
+    "hi": "काम,करतूत",
+    "en": "spiritual term (amal)"
+  },
+  "कंनि": {
+    "roman": "kanni",
+    "hi": "कंधे पर",
+    "en": "spiritual term (kanni)"
+  },
+  "सूफु": {
+    "roman": "soophu",
+    "hi": "काली ख़फनी",
+    "en": "the destined time"
+  },
+  "दिलि": {
+    "roman": "dili",
+    "hi": "दिल में",
+    "en": "spiritual term (dili)"
+  },
+  "रति": {
+    "roman": "rati",
+    "hi": "थोड़ी जितनी भी",
+    "en": "spiritual term (rati)"
+  },
+  "रतु": {
+    "roman": "ratu",
+    "hi": "लहु",
+    "en": "spiritual term (ratu)"
+  },
+  "तिनतनि": {
+    "roman": "tinatani",
+    "hi": "उनके तन में",
+    "en": "spiritual term (tinatani)"
+  },
+  "सभो": {
+    "roman": "sabho",
+    "hi": "सारा ही",
+    "en": "spiritual term (sabho)"
+  },
+  "रतुबिनु": {
+    "roman": "ratubinu",
+    "hi": "रक्त के बिना",
+    "en": "spiritual term (ratubinu)"
+  },
+  "तनि": {
+    "roman": "tani",
+    "hi": "तन शरीर",
+    "en": "spiritual term (tani)"
+  },
+  "सहरते": {
+    "roman": "saharate",
+    "hi": "खसम के साथ रंगे हुए",
+    "en": "spiritual term (saharate)"
+  },
+  "तितुतनि": {
+    "roman": "titutani",
+    "hi": "उस शरीर में",
+    "en": "spiritual term (titutani)"
+  },
+  "भैपइऐ": {
+    "roman": "bhaipaiai",
+    "hi": "डर में पड़ कर",
+    "en": "spiritual term (bhaipaiai)"
+  },
+  "खीणु": {
+    "roman": "kheenu",
+    "hi": "पतला कमज़ोर",
+    "en": "spiritual term (kheenu)"
+  },
+  "जाइ": {
+    "roman": "jaai",
+    "hi": "दूर हो जाती है",
+    "en": "spiritual term (jaai)"
+  },
+  "बैसंतरि": {
+    "roman": "baisantari",
+    "hi": "आग में",
+    "en": "spiritual term (baisantari)"
+  },
+  "सुधु": {
+    "roman": "sudhu",
+    "hi": "साफ़",
+    "en": "spiritual term (sudhu)"
+  },
+  "सरवरु": {
+    "roman": "saravaru",
+    "hi": "सुंदर तालाब",
+    "en": "spiritual term (saravaru)"
+  },
+  "वथु": {
+    "roman": "vathu",
+    "hi": "चीज़",
+    "en": "spiritual term (vathu)"
+  },
+  "नंढी": {
+    "roman": "nandhee",
+    "hi": "जवान स्त्री ने",
+    "en": "the bride-soul"
+  },
+  "वडीथी": {
+    "roman": "vadeethee",
+    "hi": "बुढ़िया हो कर",
+    "en": "spiritual term (vadeethee)"
+  },
+  "मुईआसु": {
+    "roman": "mueeaasu",
+    "hi": "वह मर गई",
+    "en": "spiritual term (mueeaasu)"
+  },
+  "गोरमें": {
+    "roman": "goramen",
+    "hi": "कब्र में",
+    "en": "death / the grave"
+  },
+  "सह": {
+    "roman": "sah",
+    "hi": "पति",
+    "en": "spiritual term (sah)"
+  },
+  "नमिलिआसु": {
+    "roman": "namiliaasu",
+    "hi": "नहीं मिली",
+    "en": "cannot be averted"
+  },
+  "पलिआ": {
+    "roman": "palia",
+    "hi": "सफ़ेद हो गया",
+    "en": "spiritual term (palia)"
+  },
+  "रेगहले": {
+    "roman": "regahale",
+    "hi": "हे गाफिल",
+    "en": "spiritual term (regahale)"
+  },
+  "बावले": {
+    "roman": "baavale",
+    "hi": "बेवकूफ",
+    "en": "spiritual term (baavale)"
+  },
+  "रलीआं": {
+    "roman": "raleeaan",
+    "hi": "खुशियां",
+    "en": "spiritual term (raleeaan)"
+  },
+  "इती": {
+    "roman": "itee",
+    "hi": "इती का भाव",
+    "en": "term: itee"
+  },
+  "थिआ": {
+    "roman": "thia",
+    "hi": "थिआ का भाव",
+    "en": "term: thia"
+  },
+  "जोबन": {
+    "roman": "joban",
+    "hi": "जोबन का भाव",
+    "en": "term: joban"
+  },
+  "टोए": {
+    "roman": "toe",
+    "hi": "टोए का भाव",
+    "en": "term: toe"
+  },
+  "लोइणी": {
+    "roman": "loinee",
+    "hi": "लोइणी का भाव",
+    "en": "term: loinee"
+  },
+  "लिखे": {
+    "roman": "likhe",
+    "hi": "लिखे का भाव",
+    "en": "term: likhe"
+  },
+  "सुझै": {
+    "roman": "sujhai",
+    "hi": "सुझै का भाव",
+    "en": "term: sujhai"
+  },
+  "उसारेदे": {
+    "roman": "usaarede",
+    "hi": "उसारेदे का भाव",
+    "en": "term: usaarede"
+  },
+  "खाली": {
+    "roman": "khaalee",
+    "hi": "खाली का भाव",
+    "en": "term: khaalee"
+  },
+  "उतारि": {
+    "roman": "utaari",
+    "hi": "उतारि का भाव",
+    "en": "term: utaari"
+  },
+  "जोबनि": {
+    "roman": "jobani",
+    "hi": "जोबनि का भाव",
+    "en": "term: jobani"
+  },
+  "बैठा": {
+    "roman": "baitha",
+    "hi": "बैठा का भाव",
+    "en": "term: baitha"
+  },
+  "पिरीआ": {
+    "roman": "pireea",
+    "hi": "पिरीआ का भाव",
+    "en": "term: pireea"
+  },
+  "बैठिआ": {
+    "roman": "baithia",
+    "hi": "बैठिआ का भाव",
+    "en": "term: baithia"
+  },
+  "धोती": {
+    "roman": "dhotee",
+    "hi": "धोती का भाव",
+    "en": "term: dhotee"
+  },
+  "सुहावा": {
+    "roman": "suhaava",
+    "hi": "सुहावा का भाव",
+    "en": "term: suhaava"
+  },
+  "बुझाइ": {
+    "roman": "bujhaai",
+    "hi": "बुझाइ का भाव",
+    "en": "term: bujhaai"
+  },
+  "वाहड़ा": {
+    "roman": "vaahada",
+    "hi": "वाहड़ा का भाव",
+    "en": "term: vaahada"
+  },
+  "ओइ": {
+    "roman": "oi",
+    "hi": "ओइ का भाव",
+    "en": "term: oi"
+  },
+  "जानी": {
+    "roman": "jaanee",
+    "hi": "जानी का भाव",
+    "en": "term: jaanee"
+  },
+  "लाइआ": {
+    "roman": "laaia",
+    "hi": "लाइआ का भाव",
+    "en": "term: laaia"
+  },
+  "किथै": {
+    "roman": "kithai",
+    "hi": "किथै का भाव",
+    "en": "term: kithai"
+  },
+  "कैही": {
+    "roman": "kaihee",
+    "hi": "कैही का भाव",
+    "en": "term: kaihee"
+  },
+  "वाति": {
+    "roman": "vaati",
+    "hi": "वाति का भाव",
+    "en": "term: vaati"
+  },
+  "डुबि": {
+    "roman": "dubi",
+    "hi": "डुबि का भाव",
+    "en": "term: dubi"
+  },
+  "पिंजरा": {
+    "roman": "pinjara",
+    "hi": "पिंजरा का भाव",
+    "en": "term: pinjara"
+  },
+  "हड": {
+    "roman": "had",
+    "hi": "हड का भाव",
+    "en": "term: had"
+  },
+  "खलक": {
+    "roman": "khalak",
+    "hi": "खलक का भाव",
+    "en": "term: khalak"
+  },
+  "आईआ": {
+    "roman": "aaeea",
+    "hi": "आईआ का भाव",
+    "en": "term: aaeea"
+  },
+  "वापरे": {
+    "roman": "vaapare",
+    "hi": "वापरे का भाव",
+    "en": "term: vaapare"
+  },
+  "केतड़िआ": {
+    "roman": "ketadia",
+    "hi": "केतड़िआ का भाव",
+    "en": "term: ketadia"
+  },
+  "लोचै": {
+    "roman": "lochai",
+    "hi": "लोचै का भाव",
+    "en": "term: lochai"
+  },
+  "मिटी": {
+    "roman": "mitee",
+    "hi": "मिटी का भाव",
+    "en": "term: mitee"
+  },
+  "मंझ": {
+    "roman": "manjh",
+    "hi": "मंझ का भाव",
+    "en": "term: manjh"
+  },
+  "ठाहि": {
+    "roman": "thaahi",
+    "hi": "ठाहि का भाव",
+    "en": "term: thaahi"
+  },
+  "वारिआ": {
+    "roman": "vaaria",
+    "hi": "वारिआ का भाव",
+    "en": "term: vaaria"
+  },
+  "नई": {
+    "roman": "naee",
+    "hi": "नई का भाव",
+    "en": "term: naee"
+  },
+  "हिंङु": {
+    "roman": "hinngu",
+    "hi": "हिंङु का भाव",
+    "en": "term: hinngu"
+  },
+  "ढाहि": {
+    "roman": "dhaahi",
+    "hi": "ढाहि का भाव",
+    "en": "term: dhaahi"
+  },
+  "पउणु": {
+    "roman": "paunu",
+    "hi": "पउणु का भाव",
+    "en": "term: paunu"
+  },
+  "संदीआ": {
+    "roman": "sandeea",
+    "hi": "संदीआ का भाव",
+    "en": "term: sandeea"
+  },
+  "धरि": {
+    "roman": "dhari",
+    "hi": "धरि का भाव",
+    "en": "term: dhari"
+  },
+  "देखदिआ": {
+    "roman": "dekhadia",
+    "hi": "देखदिआ का भाव",
+    "en": "term: dekhadia"
+  },
+  "तलै": {
+    "roman": "talai",
+    "hi": "तलै का भाव",
+    "en": "term: talai"
+  },
+  "केरै": {
+    "roman": "kerai",
+    "hi": "केरै का भाव",
+    "en": "term: kerai"
+  },
+  "सजणा": {
+    "roman": "sajana",
+    "hi": "सजणा का भाव",
+    "en": "term: sajana"
+  },
+  "आपणे": {
+    "roman": "aapane",
+    "hi": "आपणे का भाव",
+    "en": "term: aapane"
+  },
+  "मुझ": {
+    "roman": "mujh",
+    "hi": "मुझ का भाव",
+    "en": "term: mujh"
+  },
+  "बेड़े": {
+    "roman": "bede",
+    "hi": "बेड़े का भाव",
+    "en": "term: bede"
+  },
+  "गए": {
+    "roman": "gae",
+    "hi": "गए का भाव",
+    "en": "term: gae"
+  },
+  "सगला": {
+    "roman": "sagala",
+    "hi": "सगला का भाव",
+    "en": "term: sagala"
+  },
+  "फलु": {
+    "roman": "phalu",
+    "hi": "फलु का भाव",
+    "en": "term: phalu"
+  },
+  "होइ": {
+    "roman": "hoi",
+    "hi": "होइ का भाव",
+    "en": "term: hoi"
+  },
+  "तिउ": {
+    "roman": "tiu",
+    "hi": "तिउ का भाव",
+    "en": "term: tiu"
+  },
+  "कोइलिआह": {
+    "roman": "koiliaah",
+    "hi": "कोइलिआह का भाव",
+    "en": "term: koiliaah"
+  },
+  "पुछई": {
+    "roman": "puchhaee",
+    "hi": "पुछई का भाव",
+    "en": "term: puchhaee"
+  },
+  "संदा": {
+    "roman": "sanda",
+    "hi": "संदा का भाव",
+    "en": "term: sanda"
+  },
+  "पीरि": {
+    "roman": "peeri",
+    "hi": "पीरि का भाव",
+    "en": "term: peeri"
+  },
+  "कमी": {
+    "roman": "kamee",
+    "hi": "कमी का भाव",
+    "en": "term: kamee"
+  },
+  "डुबै": {
+    "roman": "dubai",
+    "hi": "डुबै का भाव",
+    "en": "term: dubai"
+  },
+  "मुती": {
+    "roman": "mutee",
+    "hi": "मुती का भाव",
+    "en": "term: mutee"
+  },
+  "नाउ": {
+    "roman": "naau",
+    "hi": "नाउ का भाव",
+    "en": "term: naau"
+  },
+  "करंग": {
+    "roman": "karang",
+    "hi": "करंग का भाव",
+    "en": "term: karang"
+  },
+  "आपणी": {
+    "roman": "aapanee",
+    "hi": "आपणी का भाव",
+    "en": "term: aapanee"
+  },
+  "साहिब": {
+    "roman": "saahib",
+    "hi": "साहिब का भाव",
+    "en": "term: saahib"
+  },
+  "लिवाड़ि": {
+    "roman": "livaadi",
+    "hi": "लिवाड़ि का भाव",
+    "en": "term: livaadi"
+  },
+  "आटा": {
+    "roman": "aata",
+    "hi": "आटा का भाव",
+    "en": "term: aata"
+  },
+  "भरी": {
+    "roman": "bharee",
+    "hi": "भरी का भाव",
+    "en": "term: bharee"
+  },
+  "आस": {
+    "roman": "aas",
+    "hi": "आस का भाव",
+    "en": "term: aas"
+  },
+  "बहसनि": {
+    "roman": "bahasani",
+    "hi": "बहसनि का भाव",
+    "en": "term: bahasani"
+  },
+  "खासी": {
+    "roman": "khaasee",
+    "hi": "खासी का भाव",
+    "en": "term: khaasee"
+  },
+  "ताई": {
+    "roman": "taaee",
+    "hi": "ताई का भाव",
+    "en": "term: taaee"
+  },
+  "एहु": {
+    "roman": "ehu",
+    "hi": "एहु का भाव",
+    "en": "term: ehu"
+  },
+  "पंख": {
+    "roman": "pankh",
+    "hi": "पंख का भाव",
+    "en": "term: pankh"
+  },
+  "ढूढेदीए": {
+    "roman": "dhoodhedeee",
+    "hi": "ढूढेदीए का भाव",
+    "en": "term: dhoodhedeee"
+  },
+  "सुबह": {
+    "roman": "subah",
+    "hi": "सुबह का भाव",
+    "en": "term: subah"
+  },
+  "वहै": {
+    "roman": "vahai",
+    "hi": "वहै का भाव",
+    "en": "term: vahai"
+  },
+  "मैडे": {
+    "roman": "maide",
+    "hi": "मेरे",
+    "en": "my"
+  },
+  "लाए": {
+    "roman": "laae",
+    "hi": "लाए का भाव",
+    "en": "term: laae"
+  },
+  "थीऐ": {
+    "roman": "theeai",
+    "hi": "थीऐ का भाव",
+    "en": "term: theeai"
+  },
+  "करेदे": {
+    "roman": "karede",
+    "hi": "करेदे का भाव",
+    "en": "term: karede"
+  },
+  "विलाड़ि": {
+    "roman": "vilaadi",
+    "hi": "विलाड़ि का भाव",
+    "en": "term: vilaadi"
+  },
+  "चुगनि": {
+    "roman": "chugani",
+    "hi": "चुगनि का भाव",
+    "en": "term: chugani"
+  },
+  "टुटी": {
+    "roman": "tutee",
+    "hi": "टुटी का भाव",
+    "en": "term: tutee"
+  },
+  "अजै": {
+    "roman": "ajai",
+    "hi": "अजै का भाव",
+    "en": "term: ajai"
+  },
+  "कंन्हि": {
+    "roman": "kannhi",
+    "hi": "कंन्हि का भाव",
+    "en": "term: kannhi"
+  },
+  "विसारिआ": {
+    "roman": "visaaria",
+    "hi": "विसारिआ का भाव",
+    "en": "term: visaaria"
+  },
+  "सुकि": {
+    "roman": "suki",
+    "hi": "सुकि का भाव",
+    "en": "term: suki"
+  },
+  "धाह": {
+    "roman": "dhaah",
+    "hi": "धाह का भाव",
+    "en": "term: dhaah"
+  },
+  "ठाहे": {
+    "roman": "thaahe",
+    "hi": "ठाहे का भाव",
+    "en": "term: thaahe"
+  },
+  "फिरी": {
+    "roman": "phiree",
+    "hi": "फिरी का भाव",
+    "en": "term: phiree"
+  },
+  "सुवंनड़ी": {
+    "roman": "suvannadee",
+    "hi": "सुवंनड़ी का भाव",
+    "en": "term: suvannadee"
+  },
+  "पिंजरु": {
+    "roman": "pinjaru",
+    "hi": "पिंजरु का भाव",
+    "en": "term: pinjaru"
+  },
+  "करे": {
+    "roman": "kare",
+    "hi": "करे का भाव",
+    "en": "term: kare"
+  },
+  "मिसल": {
+    "roman": "misal",
+    "hi": "मिसल का भाव",
+    "en": "term: misal"
+  },
+  "सुखु": {
+    "roman": "sukhu",
+    "hi": "सुखु का भाव",
+    "en": "term: sukhu"
+  },
+  "को": {
+    "roman": "ko",
+    "hi": "को का भाव",
+    "en": "term: ko"
+  },
+  "वसाए": {
+    "roman": "vasaae",
+    "hi": "वसाए का भाव",
+    "en": "term: vasaae"
+  },
+  "तां": {
+    "roman": "taan",
+    "hi": "तां का भाव",
+    "en": "term: taan"
+  },
+  "इकतु": {
+    "roman": "ikatu",
+    "hi": "इकतु का भाव",
+    "en": "term: ikatu"
+  },
+  "नित": {
+    "roman": "nit",
+    "hi": "नित का भाव",
+    "en": "term: nit"
+  },
+  "गईआं": {
+    "roman": "gaeeaan",
+    "hi": "गईआं का भाव",
+    "en": "term: gaeeaan"
+  },
+  "रुति": {
+    "roman": "ruti",
+    "hi": "रुति का भाव",
+    "en": "term: ruti"
+  },
+  "जाणु": {
+    "roman": "jaanu",
+    "hi": "जाणु का भाव",
+    "en": "term: jaanu"
+  },
+  "नाम": {
+    "roman": "naam",
+    "hi": "नाम का भाव",
+    "en": "term: naam"
+  },
+  "धीरु": {
+    "roman": "dheeru",
+    "hi": "धीरु का भाव",
+    "en": "term: dheeru"
+  },
+  "एनी": {
+    "roman": "enee",
+    "hi": "एनी का भाव",
+    "en": "term: enee"
+  },
+  "काई": {
+    "roman": "kaaee",
+    "hi": "काई का भाव",
+    "en": "term: kaaee"
+  },
+  "मारीऐ": {
+    "roman": "maareeai",
+    "hi": "मारीऐ का भाव",
+    "en": "term: maareeai"
+  },
+  "बाहरि": {
+    "roman": "baahari",
+    "hi": "बाहरि का भाव",
+    "en": "term: baahari"
+  },
+  "सुती": {
+    "roman": "sutee",
+    "hi": "सुती का भाव",
+    "en": "term: sutee"
+  },
+  "कंन": {
+    "roman": "kann",
+    "hi": "कंन का भाव",
+    "en": "term: kann"
+  },
+  "है": {
+    "roman": "hai",
+    "hi": "है का भाव",
+    "en": "term: hai"
+  },
+  "लोहारु": {
+    "roman": "lohaaru",
+    "hi": "लोहारु का भाव",
+    "en": "term: lohaaru"
+  },
+  "किचरकु": {
+    "roman": "kicharaku",
+    "hi": "किचरकु का भाव",
+    "en": "term: kicharaku"
+  },
+  "अंच": {
+    "roman": "anch",
+    "hi": "अंच का भाव",
+    "en": "term: anch"
+  },
+  "रावै": {
+    "roman": "raavai",
+    "hi": "रावै का भाव",
+    "en": "term: raavai"
+  },
+  "सनि": {
+    "roman": "sani",
+    "hi": "सनि का भाव",
+    "en": "term: sani"
+  },
+  "पासहु": {
+    "roman": "paasahu",
+    "hi": "पासहु का भाव",
+    "en": "term: paasahu"
+  },
+  "पंखीआं": {
+    "roman": "pankheeaan",
+    "hi": "पंखीआं का भाव",
+    "en": "term: pankheeaan"
+  },
+  "रहि": {
+    "roman": "rahi",
+    "hi": "रहि का भाव",
+    "en": "term: rahi"
+  },
+  "कमड़े": {
+    "roman": "kamade",
+    "hi": "कमड़े का भाव",
+    "en": "term: kamade"
+  },
+  "मुइआ": {
+    "roman": "muia",
+    "hi": "मुइआ का भाव",
+    "en": "term: muia"
+  },
+  "सुणीअर": {
+    "roman": "suneear",
+    "hi": "सुणीअर का भाव",
+    "en": "term: suneear"
+  },
+  "कीआं": {
+    "roman": "keeaan",
+    "hi": "कीआं का भाव",
+    "en": "term: keeaan"
+  },
+  "मा": {
+    "roman": "ma",
+    "hi": "मा का भाव",
+    "en": "term: ma"
+  },
+  "पंखी": {
+    "roman": "pankhee",
+    "hi": "पंखी का भाव",
+    "en": "term: pankhee"
+  },
+  "खवणु": {
+    "roman": "khavanu",
+    "hi": "खवणु का भाव",
+    "en": "term: khavanu"
+  },
+  "सेती": {
+    "roman": "setee",
+    "hi": "सेती का भाव",
+    "en": "term: setee"
+  },
+  "कपाहै": {
+    "roman": "kapaahai",
+    "hi": "कपाहै का भाव",
+    "en": "term: kapaahai"
+  },
+  "बहि": {
+    "roman": "bahi",
+    "hi": "बहि का भाव",
+    "en": "term: bahi"
+  },
+  "गुण": {
+    "roman": "gun",
+    "hi": "गुण का भाव",
+    "en": "term: gun"
+  },
+  "ताण": {
+    "roman": "taan",
+    "hi": "ताण का भाव",
+    "en": "term: taan"
+  },
+  "भला": {
+    "roman": "bhala",
+    "hi": "भला का भाव",
+    "en": "term: bhala"
+  },
+  "सोझी": {
+    "roman": "sojhee",
+    "hi": "सोझी का भाव",
+    "en": "term: sojhee"
+  },
+  "तैडे": {
+    "roman": "taide",
+    "hi": "तैडे का भाव",
+    "en": "term: taide"
+  },
+  "मउत": {
+    "roman": "maut",
+    "hi": "मउत का भाव",
+    "en": "term: maut"
+  },
+  "तरंदिआ": {
+    "roman": "tarandia",
+    "hi": "तरंदिआ का भाव",
+    "en": "term: tarandia"
+  },
+  "इआणा": {
+    "roman": "iaana",
+    "hi": "इआणा का भाव",
+    "en": "term: iaana"
+  },
+  "चीरै": {
+    "roman": "cheerai",
+    "hi": "चीरै का भाव",
+    "en": "term: cheerai"
+  },
+  "इकना": {
+    "roman": "ikana",
+    "hi": "इकना का भाव",
+    "en": "term: ikana"
+  },
+  "दिखालि": {
+    "roman": "dikhaali",
+    "hi": "दिखालि का भाव",
+    "en": "term: dikhaali"
+  },
+  "कोर": {
+    "roman": "kor",
+    "hi": "कोर का भाव",
+    "en": "term: kor"
+  },
+  "वसि": {
+    "roman": "vasi",
+    "hi": "वसि का भाव",
+    "en": "term: vasi"
+  },
+  "अखी": {
+    "roman": "akhee",
+    "hi": "अखी का भाव",
+    "en": "term: akhee"
+  },
+  "सुहावड़ी": {
+    "roman": "suhaavadee",
+    "hi": "सुहावड़ी का भाव",
+    "en": "term: suhaavadee"
+  },
+  "बालणु": {
+    "roman": "baalanu",
+    "hi": "बालणु का भाव",
+    "en": "term: baalanu"
+  },
+  "सहां": {
+    "roman": "sahaan",
+    "hi": "सहां का भाव",
+    "en": "term: sahaan"
+  },
+  "वाणु": {
+    "roman": "vaanu",
+    "hi": "वाणु का भाव",
+    "en": "term: vaanu"
+  },
+  "फिरदे": {
+    "roman": "phirade",
+    "hi": "फिरदे का भाव",
+    "en": "term: phirade"
+  },
+  "इकनि": {
+    "roman": "ikani",
+    "hi": "इकनि का भाव",
+    "en": "term: ikani"
+  },
+  "विडारणि": {
+    "roman": "vidaarani",
+    "hi": "विडारणि का भाव",
+    "en": "term: vidaarani"
+  },
+  "चलै": {
+    "roman": "chalai",
+    "hi": "चलै का भाव",
+    "en": "term: chalai"
+  },
+  "कागहु": {
+    "roman": "kaagahu",
+    "hi": "कागहु का भाव",
+    "en": "term: kaagahu"
+  },
+  "पटु": {
+    "roman": "patu",
+    "hi": "पटु का भाव",
+    "en": "term: patu"
+  },
+  "लिए": {
+    "roman": "lie",
+    "hi": "लिए का भाव",
+    "en": "term: lie"
+  },
+  "गरबु": {
+    "roman": "garabu",
+    "hi": "गरबु का भाव",
+    "en": "term: garabu"
+  },
+  "उठु": {
+    "roman": "uthu",
+    "hi": "उठु का भाव",
+    "en": "term: uthu"
+  },
+  "सरवर": {
+    "roman": "saravar",
+    "hi": "सरवर का भाव",
+    "en": "term: saravar"
+  },
+  "विकारु": {
+    "roman": "vikaaru",
+    "hi": "विकारु का भाव",
+    "en": "term: vikaaru"
+  },
+  "बाहुड़िओ": {
+    "roman": "baahudio",
+    "hi": "बाहुड़िओ का भाव",
+    "en": "term: baahudio"
+  },
+  "आई": {
+    "roman": "aaee",
+    "hi": "आई का भाव",
+    "en": "term: aaee"
+  },
+  "पंजे": {
+    "roman": "panje",
+    "hi": "पंजे का भाव",
+    "en": "term: panje"
+  },
+  "सवारहि": {
+    "roman": "savaarahi",
+    "hi": "सवारहि का भाव",
+    "en": "term: savaarahi"
+  },
+  "अगि": {
+    "roman": "agi",
+    "hi": "अगि का भाव",
+    "en": "term: agi"
+  },
+  "कितै": {
+    "roman": "kitai",
+    "hi": "कितै का भाव",
+    "en": "term: kitai"
+  },
+  "सेई": {
+    "roman": "seee",
+    "hi": "सेई का भाव",
+    "en": "term: seee"
+  },
+  "डुखा": {
+    "roman": "dukha",
+    "hi": "डुखा का भाव",
+    "en": "term: dukha"
+  },
+  "चालीऐ": {
+    "roman": "chaaleeai",
+    "hi": "चालीऐ का भाव",
+    "en": "term: chaaleeai"
+  },
+  "कंत": {
+    "roman": "kant",
+    "hi": "कंत का भाव",
+    "en": "term: kant"
+  },
+  "बलंन्हि": {
+    "roman": "balannhi",
+    "hi": "बलंन्हि का भाव",
+    "en": "term: balannhi"
+  },
+  "साई": {
+    "roman": "saaee",
+    "hi": "साई का भाव",
+    "en": "term: saaee"
+  },
+  "मण": {
+    "roman": "man",
+    "hi": "मण का भाव",
+    "en": "term: man"
+  },
+  "पलै": {
+    "roman": "palai",
+    "hi": "पलै का भाव",
+    "en": "term: palai"
+  },
+  "माहि": {
+    "roman": "maahi",
+    "hi": "माहि का भाव",
+    "en": "term: maahi"
+  },
+  "मेरी": {
+    "roman": "meree",
+    "hi": "मेरी का भाव",
+    "en": "term: meree"
+  },
+  "नीहणो": {
+    "roman": "neehano",
+    "hi": "नीहणो का भाव",
+    "en": "term: neehano"
+  },
+  "कचै": {
+    "roman": "kachai",
+    "hi": "कचै का भाव",
+    "en": "term: kachai"
+  },
+  "बुरे": {
+    "roman": "bure",
+    "hi": "बुरे का भाव",
+    "en": "term: bure"
+  },
+  "अंगारा": {
+    "roman": "angaara",
+    "hi": "अंगारा का भाव",
+    "en": "term: angaara"
+  },
+  "निवाजा": {
+    "roman": "nivaaja",
+    "hi": "निवाजा का भाव",
+    "en": "term: nivaaja"
+  },
+  "पीउ": {
+    "roman": "peeu",
+    "hi": "पीउ का भाव",
+    "en": "term: peeu"
+  },
+  "खालकु": {
+    "roman": "khaalaku",
+    "hi": "खालकु का भाव",
+    "en": "term: khaalaku"
+  },
+  "माणु": {
+    "roman": "maanu",
+    "hi": "माणु का भाव",
+    "en": "term: maanu"
+  },
+  "लेहि": {
+    "roman": "lehi",
+    "hi": "लेहि का भाव",
+    "en": "term: lehi"
+  },
+  "जन": {
+    "roman": "jan",
+    "hi": "जन का भाव",
+    "en": "term: jan"
+  },
+  "वेपरवाहा": {
+    "roman": "veparavaaha",
+    "hi": "वेपरवाहा का भाव",
+    "en": "term: veparavaaha"
+  },
+  "गंढि": {
+    "roman": "gandhi",
+    "hi": "गंढि का भाव",
+    "en": "term: gandhi"
+  },
+  "वडी": {
+    "roman": "vadee",
+    "hi": "वडी का भाव",
+    "en": "term: vadee"
+  },
+  "बाग": {
+    "roman": "baag",
+    "hi": "बाग का भाव",
+    "en": "term: baag"
+  },
+  "पुछहु": {
+    "roman": "puchhahu",
+    "hi": "पुछहु का भाव",
+    "en": "term: puchhahu"
+  },
+  "डिठा": {
+    "roman": "ditha",
+    "hi": "डिठा का भाव",
+    "en": "term: ditha"
+  },
+  "दी": {
+    "roman": "dee",
+    "hi": "दी का भाव",
+    "en": "term: dee"
+  },
+  "वेस": {
+    "roman": "ves",
+    "hi": "वेस का भाव",
+    "en": "term: ves"
+  },
+  "पिआरे": {
+    "roman": "piaare",
+    "hi": "पिआरे का भाव",
+    "en": "term: piaare"
+  },
+  "दाड़ी": {
+    "roman": "daadee",
+    "hi": "दाड़ी का भाव",
+    "en": "term: daadee"
+  },
+  "घड़ी": {
+    "roman": "ghadee",
+    "hi": "घड़ी का भाव",
+    "en": "term: ghadee"
+  },
+  "कंन्है": {
+    "roman": "kannhai",
+    "hi": "कंन्है का भाव",
+    "en": "term: kannhai"
+  },
+  "जणिआ": {
+    "roman": "jania",
+    "hi": "जणिआ का भाव",
+    "en": "term: jania"
+  },
+  "जीवदड़ो": {
+    "roman": "jeevadado",
+    "hi": "जीवदड़ो का भाव",
+    "en": "term: jeevadado"
+  },
+  "वधि": {
+    "roman": "vadhi",
+    "hi": "वधि का भाव",
+    "en": "term: vadhi"
+  },
+  "लखीऐ": {
+    "roman": "lakheeai",
+    "hi": "लखीऐ का भाव",
+    "en": "term: lakheeai"
+  },
+  "वेखहु": {
+    "roman": "vekhahu",
+    "hi": "वेखहु का भाव",
+    "en": "term: vekhahu"
+  },
+  "पुकारे": {
+    "roman": "pukaare",
+    "hi": "पुकारे का भाव",
+    "en": "term: pukaare"
+  },
+  "हढाइ": {
+    "roman": "hadhaai",
+    "hi": "हढाइ का भाव",
+    "en": "term: hadhaai"
+  },
+  "जो": {
+    "roman": "jo",
+    "hi": "जो कोई",
+    "en": "whosoever"
+  },
+  "दाख": {
+    "roman": "daakh",
+    "hi": "दाख का भाव",
+    "en": "term: daakh"
+  },
+  "काइ": {
+    "roman": "kaai",
+    "hi": "काइ का भाव",
+    "en": "term: kaai"
+  },
+  "देहि": {
+    "roman": "dehi",
+    "hi": "देहि का भाव",
+    "en": "term: dehi"
+  },
+  "वीवाही": {
+    "roman": "veevaahee",
+    "hi": "वीवाही का भाव",
+    "en": "term: veevaahee"
+  },
+  "थकां": {
+    "roman": "thakaan",
+    "hi": "थकां का भाव",
+    "en": "term: thakaan"
+  },
+  "निघरिआ": {
+    "roman": "nigharia",
+    "hi": "निघरिआ का भाव",
+    "en": "term: nigharia"
+  },
+  "काहाहा": {
+    "roman": "kaahaaha",
+    "hi": "काहाहा का भाव",
+    "en": "term: kaahaaha"
+  },
+  "बंना": {
+    "roman": "banna",
+    "hi": "बंना का भाव",
+    "en": "term: banna"
+  },
+  "जाहि": {
+    "roman": "jaahi",
+    "hi": "जाहि का भाव",
+    "en": "term: jaahi"
+  },
+  "लदि": {
+    "roman": "ladi",
+    "hi": "लदि का भाव",
+    "en": "term: ladi"
+  },
+  "कहै": {
+    "roman": "kahai",
+    "hi": "कहता है",
+    "en": "calls/proclaims"
+  },
+  "साबरी": {
+    "roman": "saabaree",
+    "hi": "साबरी का भाव",
+    "en": "term: saabaree"
+  },
+  "माणक": {
+    "roman": "maanak",
+    "hi": "माणक का भाव",
+    "en": "term: maanak"
+  },
+  "दिहि": {
+    "roman": "dihi",
+    "hi": "दिहि का भाव",
+    "en": "term: dihi"
+  },
+  "नीरु": {
+    "roman": "neeru",
+    "hi": "नीरु का भाव",
+    "en": "term: neeru"
+  },
+  "मामले": {
+    "roman": "maamale",
+    "hi": "मामले का भाव",
+    "en": "term: maamale"
+  },
+  "सचा": {
+    "roman": "sacha",
+    "hi": "सचा का भाव",
+    "en": "term: sacha"
+  },
+  "झूरेइ": {
+    "roman": "jhoorei",
+    "hi": "झूरेइ का भाव",
+    "en": "term: jhoorei"
+  },
+  "मलकल": {
+    "roman": "malakal",
+    "hi": "मलकल का भाव",
+    "en": "term: malakal"
+  },
+  "हंसु": {
+    "roman": "hansu",
+    "hi": "हंसु का भाव",
+    "en": "term: hansu"
+  },
+  "लतीफु": {
+    "roman": "lateephu",
+    "hi": "लतीफु का भाव",
+    "en": "term: lateephu"
+  },
+  "विसारिओनु": {
+    "roman": "visaarionu",
+    "hi": "विसारिओनु का भाव",
+    "en": "term: visaarionu"
+  },
+  "मालु": {
+    "roman": "maalu",
+    "hi": "मालु का भाव",
+    "en": "term: maalu"
+  },
+  "मतु": {
+    "roman": "matu",
+    "hi": "मतु का भाव",
+    "en": "term: matu"
+  },
+  "रहहि": {
+    "roman": "rahahi",
+    "hi": "रहहि का भाव",
+    "en": "term: rahahi"
+  },
+  "कुमलाइ": {
+    "roman": "kumalaai",
+    "hi": "कुमलाइ का भाव",
+    "en": "term: kumalaai"
+  },
+  "वेल": {
+    "roman": "vel",
+    "hi": "वेल का भाव",
+    "en": "term: vel"
+  },
+  "लोकु": {
+    "roman": "loku",
+    "hi": "संसार/लोग",
+    "en": "the worldly people"
+  },
+  "करेउ": {
+    "roman": "kareu",
+    "hi": "करेउ का भाव",
+    "en": "term: kareu"
+  },
+  "हंसा": {
+    "roman": "hansa",
+    "hi": "हंसा का भाव",
+    "en": "term: hansa"
+  },
+  "माणहि": {
+    "roman": "maanahi",
+    "hi": "माणहि का भाव",
+    "en": "term: maanahi"
+  },
+  "सबाइऐ": {
+    "roman": "sabaaiai",
+    "hi": "सबाइऐ का भाव",
+    "en": "term: sabaaiai"
+  },
+  "पवै": {
+    "roman": "pavai",
+    "hi": "पवै का भाव",
+    "en": "term: pavai"
+  },
+  "कुतिआ": {
+    "roman": "kutia",
+    "hi": "कुतिआ का भाव",
+    "en": "term: kutia"
+  },
+  "भउ": {
+    "roman": "bhau",
+    "hi": "भउ का भाव",
+    "en": "term: bhau"
+  },
+  "दुखीऐ": {
+    "roman": "dukheeai",
+    "hi": "दुखीऐ का भाव",
+    "en": "term: dukheeai"
+  },
+  "पाइ": {
+    "roman": "paai",
+    "hi": "पाइ का भाव",
+    "en": "term: paai"
+  },
+  "तितु": {
+    "roman": "titu",
+    "hi": "तितु का भाव",
+    "en": "term: titu"
+  },
+  "तपिआ": {
+    "roman": "tapia",
+    "hi": "तपिआ का भाव",
+    "en": "term: tapia"
+  },
+  "मुड़े": {
+    "roman": "mude",
+    "hi": "मुड़े का भाव",
+    "en": "term: mude"
+  },
+  "जगु": {
+    "roman": "jagu",
+    "hi": "जगु का भाव",
+    "en": "term: jagu"
+  },
+  "प्रशन्सा": {
+    "roman": "prashansa",
+    "hi": "प्रशन्सा का भाव",
+    "en": "term: prashansa"
+  },
+  "किछु": {
+    "roman": "kichhu",
+    "hi": "किछु का भाव",
+    "en": "term: kichhu"
+  },
+  "एहो": {
+    "roman": "eho",
+    "hi": "एहो का भाव",
+    "en": "term: eho"
+  },
+  "उमर": {
+    "roman": "umar",
+    "hi": "उमर का भाव",
+    "en": "term: umar"
+  },
+  "संदी": {
+    "roman": "sandee",
+    "hi": "संदी का भाव",
+    "en": "term: sandee"
+  },
+  "थाइ": {
+    "roman": "thaai",
+    "hi": "थाइ का भाव",
+    "en": "term: thaai"
+  },
+  "निकलै": {
+    "roman": "nikalai",
+    "hi": "निकलै का भाव",
+    "en": "term: nikalai"
+  },
+  "सूलां": {
+    "roman": "soolaan",
+    "hi": "सूलां का भाव",
+    "en": "term: soolaan"
+  },
+  "गुसा": {
+    "roman": "gusa",
+    "hi": "गुसा का भाव",
+    "en": "term: gusa"
+  },
+  "टुटि": {
+    "roman": "tuti",
+    "hi": "टुटि का भाव",
+    "en": "term: tuti"
+  },
+  "अमोलवे": {
+    "roman": "amolave",
+    "hi": "अमोलवे का भाव",
+    "en": "term: amolave"
+  },
+  "कवल": {
+    "roman": "kaval",
+    "hi": "कवल का भाव",
+    "en": "term: kaval"
+  },
+  "रखीऐ": {
+    "roman": "rakheeai",
+    "hi": "रखीऐ का भाव",
+    "en": "term: rakheeai"
+  },
+  "होई": {
+    "roman": "hoee",
+    "hi": "होई का भाव",
+    "en": "term: hoee"
+  },
+  "छपड़ि": {
+    "roman": "chhapadi",
+    "hi": "छपड़ि का भाव",
+    "en": "term: chhapadi"
+  },
+  "सवंनवी": {
+    "roman": "savannavee",
+    "hi": "सवंनवी का भाव",
+    "en": "term: savannavee"
+  },
+  "सभे": {
+    "roman": "sabhe",
+    "hi": "सभे का भाव",
+    "en": "term: sabhe"
+  },
+  "दुनीआ": {
+    "roman": "duneea",
+    "hi": "दुनीआ का भाव",
+    "en": "term: duneea"
+  },
+  "पग": {
+    "roman": "pag",
+    "hi": "पग का भाव",
+    "en": "term: pag"
+  },
+  "दाती": {
+    "roman": "daatee",
+    "hi": "दाती का भाव",
+    "en": "term: daatee"
+  },
+  "पइआ": {
+    "roman": "paia",
+    "hi": "पइआ का भाव",
+    "en": "term: paia"
+  },
+  "अकलि": {
+    "roman": "akali",
+    "hi": "अकलि का भाव",
+    "en": "term: akali"
+  },
+  "घर": {
+    "roman": "ghar",
+    "hi": "घर का भाव",
+    "en": "term: ghar"
+  },
+  "दरवेसां": {
+    "roman": "daravesaan",
+    "hi": "दरवेसां का भाव",
+    "en": "term: daravesaan"
+  },
+  "उठाई": {
+    "roman": "uthaaee",
+    "hi": "उठाई का भाव",
+    "en": "term: uthaaee"
+  },
+  "हालु": {
+    "roman": "haalu",
+    "hi": "हालु का भाव",
+    "en": "term: haalu"
+  },
+  "चलणु": {
+    "roman": "chalanu",
+    "hi": "चलणु का भाव",
+    "en": "term: chalanu"
+  },
+  "दरवाजे": {
+    "roman": "daravaaje",
+    "hi": "दरवाजे का भाव",
+    "en": "term: daravaaje"
+  },
+  "आवहि": {
+    "roman": "aavahi",
+    "hi": "आवहि का भाव",
+    "en": "term: aavahi"
+  },
+  "लड़िओ": {
+    "roman": "ladio",
+    "hi": "लड़िओ का भाव",
+    "en": "term: ladio"
+  },
+  "अंदरि": {
+    "roman": "andari",
+    "hi": "अंदरि का भाव",
+    "en": "term: andari"
+  },
+  "पहिलै": {
+    "roman": "pahilai",
+    "hi": "पहिलै का भाव",
+    "en": "term: pahilai"
+  },
+  "किसु": {
+    "roman": "kisu",
+    "hi": "किसु का भाव",
+    "en": "term: kisu"
+  },
+  "लाग": {
+    "roman": "laag",
+    "hi": "लाग का भाव",
+    "en": "term: laag"
+  },
+  "सिजउ": {
+    "roman": "sijau",
+    "hi": "सिजउ का भाव",
+    "en": "term: sijau"
+  },
+  "सडु": {
+    "roman": "sadu",
+    "hi": "सडु का भाव",
+    "en": "term: sadu"
+  },
+  "पैरी": {
+    "roman": "pairee",
+    "hi": "पैरी का भाव",
+    "en": "term: pairee"
+  },
+  "भवहि": {
+    "roman": "bhavahi",
+    "hi": "भवहि का भाव",
+    "en": "term: bhavahi"
+  },
+  "दरबारि": {
+    "roman": "darabaari",
+    "hi": "दरबारि का भाव",
+    "en": "term: darabaari"
+  },
+  "गवाइ": {
+    "roman": "gavaai",
+    "hi": "गवाइ का भाव",
+    "en": "term: gavaai"
+  },
+  "बाझहु": {
+    "roman": "baajhahu",
+    "hi": "बाझहु का भाव",
+    "en": "term: baajhahu"
+  },
+  "कपिआ": {
+    "roman": "kapia",
+    "hi": "कपिआ का भाव",
+    "en": "term: kapia"
+  },
+  "विचि": {
+    "roman": "vichi",
+    "hi": "विचि का भाव",
+    "en": "term: vichi"
+  },
+  "ना": {
+    "roman": "na",
+    "hi": "ना का भाव",
+    "en": "term: na"
+  },
+  "डरां": {
+    "roman": "daraan",
+    "hi": "डरां का भाव",
+    "en": "term: daraan"
+  },
+  "दिह": {
+    "roman": "dih",
+    "hi": "दिह का भाव",
+    "en": "term: dih"
+  },
+  "का": {
+    "roman": "ka",
+    "hi": "का का भाव",
+    "en": "term: ka"
+  },
+  "रतंन": {
+    "roman": "ratann",
+    "hi": "रतंन का भाव",
+    "en": "term: ratann"
+  },
+  "जिन्ही": {
+    "roman": "jinhee",
+    "hi": "जिन्ही का भाव",
+    "en": "term: jinhee"
+  },
+  "टिबे": {
+    "roman": "tibe",
+    "hi": "टिबे का भाव",
+    "en": "term: tibe"
+  },
+  "रे": {
+    "roman": "re",
+    "hi": "रे का भाव",
+    "en": "term: re"
+  },
+  "कारणि": {
+    "roman": "kaarani",
+    "hi": "कारणि का भाव",
+    "en": "term: kaarani"
+  },
+  "पवंनि": {
+    "roman": "pavanni",
+    "hi": "पवंनि का भाव",
+    "en": "term: pavanni"
+  },
+  "दरबारु": {
+    "roman": "darabaaru",
+    "hi": "दरबारु का भाव",
+    "en": "term: darabaaru"
+  },
+  "गलीं": {
+    "roman": "galeen",
+    "hi": "गलीं का भाव",
+    "en": "term: galeen"
+  },
+  "कपर": {
+    "roman": "kapar",
+    "hi": "कपर का भाव",
+    "en": "term: kapar"
+  },
+  "महला": {
+    "roman": "mahala",
+    "hi": "महला का भाव",
+    "en": "term: mahala"
+  },
+  "रीति": {
+    "roman": "reeti",
+    "hi": "रीति का भाव",
+    "en": "term: reeti"
+  },
+  "बगुला": {
+    "roman": "bagula",
+    "hi": "बगुला का भाव",
+    "en": "term: bagula"
+  },
+  "पिछल": {
+    "roman": "pichhal",
+    "hi": "पिछल का भाव",
+    "en": "term: pichhal"
+  },
+  "साढे": {
+    "roman": "saadhe",
+    "hi": "साढे का भाव",
+    "en": "term: saadhe"
+  },
+  "दरगह": {
+    "roman": "daragah",
+    "hi": "दरगह का भाव",
+    "en": "term: daragah"
+  },
+  "लाहि": {
+    "roman": "laahi",
+    "hi": "लाहि का भाव",
+    "en": "term: laahi"
+  },
+  "दोसां": {
+    "roman": "dosaan",
+    "hi": "दोसां का भाव",
+    "en": "term: dosaan"
+  },
+  "थी": {
+    "roman": "thee",
+    "hi": "थी का भाव",
+    "en": "term: thee"
+  },
+  "सुते": {
+    "roman": "sute",
+    "hi": "सुते का भाव",
+    "en": "term: sute"
+  },
+  "वजाई": {
+    "roman": "vajaaee",
+    "hi": "वजाई का भाव",
+    "en": "term: vajaaee"
+  },
+  "कंतु": {
+    "roman": "kantu",
+    "hi": "कंतु का भाव",
+    "en": "term: kantu"
+  },
+  "आवै": {
+    "roman": "aavai",
+    "hi": "आवै का भाव",
+    "en": "term: aavai"
+  },
+  "नदी": {
+    "roman": "nadee",
+    "hi": "नदी का भाव",
+    "en": "term: nadee"
+  },
+  "जंघीऐ": {
+    "roman": "jangheeai",
+    "hi": "जंघीऐ का भाव",
+    "en": "term: jangheeai"
+  },
+  "चिति": {
+    "roman": "chiti",
+    "hi": "चिति का भाव",
+    "en": "term: chiti"
+  },
+  "भगतु": {
+    "roman": "bhagatu",
+    "hi": "भगतु का भाव",
+    "en": "term: bhagatu"
+  },
+  "सै": {
+    "roman": "sai",
+    "hi": "सै का भाव",
+    "en": "term: sai"
+  },
+  "सुका": {
+    "roman": "suka",
+    "hi": "सुका का भाव",
+    "en": "term: suka"
+  },
+  "ही": {
+    "roman": "hee",
+    "hi": "ही का भाव",
+    "en": "term: hee"
+  },
+  "कीते": {
+    "roman": "keete",
+    "hi": "कीते का भाव",
+    "en": "term: keete"
+  },
+  "काती": {
+    "roman": "kaatee",
+    "hi": "काती का भाव",
+    "en": "term: kaatee"
+  },
+  "मांलीह": {
+    "roman": "maanleeh",
+    "hi": "मांलीह का भाव",
+    "en": "term: maanleeh"
+  },
+  "करेदिआ": {
+    "roman": "karedia",
+    "hi": "करेदिआ का भाव",
+    "en": "term: karedia"
+  },
+  "खसम": {
+    "roman": "khasam",
+    "hi": "खसम का भाव",
+    "en": "term: khasam"
+  },
+  "जा": {
+    "roman": "ja",
+    "hi": "जा का भाव",
+    "en": "term: ja"
+  },
+  "क्मबलड़ी": {
+    "roman": "kmabaladee",
+    "hi": "क्मबलड़ी का भाव",
+    "en": "term: kmabaladee"
+  },
+  "चबण": {
+    "roman": "chaban",
+    "hi": "चबण का भाव",
+    "en": "term: chaban"
+  },
+  "बाणु": {
+    "roman": "baanu",
+    "hi": "बाणु का भाव",
+    "en": "term: baanu"
+  },
+  "उजाड़ि": {
+    "roman": "ujaadi",
+    "hi": "उजाड़ि का भाव",
+    "en": "term: ujaadi"
+  },
+  "लगी": {
+    "roman": "lagee",
+    "hi": "लगी का भाव",
+    "en": "term: lagee"
+  },
+  "उठनि": {
+    "roman": "uthani",
+    "hi": "उठनि का भाव",
+    "en": "term: uthani"
+  },
+  "निंदीऐ": {
+    "roman": "nindeeai",
+    "hi": "निंदीऐ का भाव",
+    "en": "term: nindeeai"
+  },
+  "जीवदिआ": {
+    "roman": "jeevadia",
+    "hi": "जीवदिआ का भाव",
+    "en": "term: jeevadia"
+  },
+  "तुटउ": {
+    "roman": "tutau",
+    "hi": "तुटउ का भाव",
+    "en": "term: tutau"
+  },
+  "चलि": {
+    "roman": "chali",
+    "hi": "चलि का भाव",
+    "en": "term: chali"
+  },
+  "चलां": {
+    "roman": "chalaan",
+    "hi": "चलां का भाव",
+    "en": "term: chalaan"
+  },
+  "उंन": {
+    "roman": "unn",
+    "hi": "उंन का भाव",
+    "en": "term: unn"
+  },
+  "बाज": {
+    "roman": "baaj",
+    "hi": "बाज का भाव",
+    "en": "term: baaj"
+  },
+  "माणिक": {
+    "roman": "maanik",
+    "hi": "माणिक का भाव",
+    "en": "term: maanik"
+  },
+  "कताइदा": {
+    "roman": "kataaida",
+    "hi": "कताइदा का भाव",
+    "en": "term: kataaida"
+  },
+  "करमि": {
+    "roman": "karami",
+    "hi": "करमि का भाव",
+    "en": "term: karami"
+  },
+  "जगि": {
+    "roman": "jagi",
+    "hi": "जगि का भाव",
+    "en": "term: jagi"
+  },
+  "सम्हालि": {
+    "roman": "samhaali",
+    "hi": "सम्हालि का भाव",
+    "en": "term: samhaali"
+  },
+  "वेसो": {
+    "roman": "veso",
+    "hi": "वेसो का भाव",
+    "en": "term: veso"
+  },
+  "मुहाइ॥": {
+    "roman": "muhaai",
+    "hi": "मुहाइ॥ का भाव",
+    "en": "term: muhaai"
+  },
+  "रोगु": {
+    "roman": "rogu",
+    "hi": "रोगु का भाव",
+    "en": "term: rogu"
+  },
+  "किया": {
+    "roman": "kiya",
+    "hi": "किया का भाव",
+    "en": "term: kiya"
+  },
+  "चहु": {
+    "roman": "chahu",
+    "hi": "चहु का भाव",
+    "en": "term: chahu"
+  },
+  "जिन्ह": {
+    "roman": "jinh",
+    "hi": "जिन्ह का भाव",
+    "en": "term: jinh"
+  },
+  "सोहागणी": {
+    "roman": "sohaaganee",
+    "hi": "सोहागणी का भाव",
+    "en": "term: sohaaganee"
+  },
+  "सउदा": {
+    "roman": "sauda",
+    "hi": "सउदा का भाव",
+    "en": "term: sauda"
+  },
+  "ठउर": {
+    "roman": "thaur",
+    "hi": "ठउर का भाव",
+    "en": "term: thaur"
+  },
+  "लोकां": {
+    "roman": "lokaan",
+    "hi": "लोकां का भाव",
+    "en": "term: lokaan"
+  },
+  "परीति": {
+    "roman": "pareeti",
+    "hi": "परीति का भाव",
+    "en": "term: pareeti"
+  },
+  "दझां": {
+    "roman": "dajhaan",
+    "hi": "दझां का भाव",
+    "en": "term: dajhaan"
+  },
+  "बहिठा": {
+    "roman": "bahitha",
+    "hi": "बहिठा का भाव",
+    "en": "term: bahitha"
+  },
+  "कुआउ": {
+    "roman": "kuaau",
+    "hi": "कुआउ का भाव",
+    "en": "term: kuaau"
+  },
+  "तूं": {
+    "roman": "toon",
+    "hi": "तूं का भाव",
+    "en": "term: toon"
+  },
+  "तपै": {
+    "roman": "tapai",
+    "hi": "तपै का भाव",
+    "en": "term: tapai"
+  },
+  "सोहागणि": {
+    "roman": "sohaagani",
+    "hi": "सोहागणि का भाव",
+    "en": "term: sohaagani"
+  },
+  "छुहउ": {
+    "roman": "chhuhau",
+    "hi": "छुहउ का भाव",
+    "en": "term: chhuhau"
+  },
+  "झाक": {
+    "roman": "jhaak",
+    "hi": "झाक का भाव",
+    "en": "term: jhaak"
+  },
+  "पैरा": {
+    "roman": "paira",
+    "hi": "पैरा का भाव",
+    "en": "term: paira"
+  },
+  "गई": {
+    "roman": "gaee",
+    "hi": "गई का भाव",
+    "en": "term: gaee"
+  },
+  "दिसै": {
+    "roman": "disai",
+    "hi": "दिसै का भाव",
+    "en": "term: disai"
+  },
+  "बुकु": {
+    "roman": "buku",
+    "hi": "बुकु का भाव",
+    "en": "term: buku"
+  },
+  "वसतू": {
+    "roman": "vasatoo",
+    "hi": "वसतू का भाव",
+    "en": "term: vasatoo"
+  },
+  "झूरेदी": {
+    "roman": "jhooredee",
+    "hi": "झूरेदी का भाव",
+    "en": "term: jhooredee"
+  },
+  "थके": {
+    "roman": "thake",
+    "hi": "थके का भाव",
+    "en": "term: thake"
+  },
+  "कमादै": {
+    "roman": "kamaadai",
+    "hi": "कमादै का भाव",
+    "en": "term: kamaadai"
+  },
+  "ते": {
+    "roman": "te",
+    "hi": "ते का भाव",
+    "en": "term: te"
+  },
+  "वंडाए": {
+    "roman": "vandaae",
+    "hi": "वंडाए का भाव",
+    "en": "term: vandaae"
+  },
+  "वंडीऐ": {
+    "roman": "vandeeai",
+    "hi": "वंडीऐ का भाव",
+    "en": "term: vandeeai"
+  },
+  "लहां": {
+    "roman": "lahaan",
+    "hi": "लहां का भाव",
+    "en": "term: lahaan"
+  },
+  "मारे": {
+    "roman": "maare",
+    "hi": "मारे का भाव",
+    "en": "term: maare"
+  },
+  "वंञैं": {
+    "roman": "vannyain",
+    "hi": "वंञैं का भाव",
+    "en": "term: vannyain"
+  },
+  "निवारि": {
+    "roman": "nivaari",
+    "hi": "निवारि का भाव",
+    "en": "term: nivaari"
+  },
+  "जीविआ": {
+    "roman": "jeevia",
+    "hi": "जीविआ का भाव",
+    "en": "term: jeevia"
+  },
+  "लगई": {
+    "roman": "lagaee",
+    "hi": "लगई का भाव",
+    "en": "term: lagaee"
+  },
+  "फिरा": {
+    "roman": "phiraa",
+    "hi": "भटकता हूँ",
+    "en": "I wander"
+  },
+  "केरी": {
+    "roman": "keree",
+    "hi": "केरी का भाव",
+    "en": "term: keree"
+  },
+  "पुजनि": {
+    "roman": "pujani",
+    "hi": "पुजनि का भाव",
+    "en": "term: pujani"
+  },
+  "वीह": {
+    "roman": "veeh",
+    "hi": "वीह का भाव",
+    "en": "term: veeh"
+  },
+  "बलिहारी": {
+    "roman": "balihaaree",
+    "hi": "बलिहारी का भाव",
+    "en": "term: balihaaree"
+  },
+  "धज": {
+    "roman": "dhaj",
+    "hi": "धज का भाव",
+    "en": "term: dhaj"
+  },
+  "पाउ": {
+    "roman": "paau",
+    "hi": "पाउ का भाव",
+    "en": "term: paau"
+  },
+  "नाती": {
+    "roman": "naatee",
+    "hi": "नाती का भाव",
+    "en": "term: naatee"
+  },
+  "रती": {
+    "roman": "ratee",
+    "hi": "रती का भाव",
+    "en": "term: ratee"
+  },
+  "ढूंढेदी": {
+    "roman": "dhoondhedee",
+    "hi": "ढूंढेदी का भाव",
+    "en": "term: dhoondhedee"
+  },
+  "सवणु": {
+    "roman": "savanu",
+    "hi": "सवणु का भाव",
+    "en": "term: savanu"
+  },
+  "पंखीआ": {
+    "roman": "pankheea",
+    "hi": "पंखीआ का भाव",
+    "en": "term: pankheea"
+  },
+  "जटु": {
+    "roman": "jatu",
+    "hi": "जटु का भाव",
+    "en": "term: jatu"
+  },
+  "वसै": {
+    "roman": "vasai",
+    "hi": "वसै का भाव",
+    "en": "term: vasai"
+  },
+  "घड़ीआलु": {
+    "roman": "ghadeeaalu",
+    "hi": "घड़ीआलु का भाव",
+    "en": "term: ghadeeaalu"
+  },
+  "मजीठ": {
+    "roman": "majeeth",
+    "hi": "मजीठ का भाव",
+    "en": "term: majeeth"
+  },
+  "मोड़ेहि": {
+    "roman": "modehi",
+    "hi": "मोड़ेहि का भाव",
+    "en": "term: modehi"
+  },
+  "साजु": {
+    "roman": "saaju",
+    "hi": "साजु का भाव",
+    "en": "term: saaju"
+  },
+  "भूमि": {
+    "roman": "bhoomi",
+    "hi": "भूमि का भाव",
+    "en": "term: bhoomi"
+  },
+  "पवनि": {
+    "roman": "pavani",
+    "hi": "पवनि का भाव",
+    "en": "term: pavani"
+  },
+  "अणहोदे": {
+    "roman": "anahode",
+    "hi": "अणहोदे का भाव",
+    "en": "term: anahode"
+  },
+  "चारि": {
+    "roman": "chaari",
+    "hi": "चारि का भाव",
+    "en": "term: chaari"
+  },
+  "पासु": {
+    "roman": "paasu",
+    "hi": "पासु का भाव",
+    "en": "term: paasu"
+  },
+  "पीवहि": {
+    "roman": "peevahi",
+    "hi": "पीवहि का भाव",
+    "en": "term: peevahi"
+  },
+  "में": {
+    "roman": "men",
+    "hi": "में का भाव",
+    "en": "term: men"
+  },
+  "संगु": {
+    "roman": "sangu",
+    "hi": "संगु का भाव",
+    "en": "term: sangu"
+  },
+  "किउ": {
+    "roman": "kiu",
+    "hi": "किउ का भाव",
+    "en": "term: kiu"
+  },
+  "वरसउ": {
+    "roman": "varasau",
+    "hi": "वरसउ का भाव",
+    "en": "term: varasau"
+  },
+  "किनै": {
+    "roman": "kinai",
+    "hi": "किनै का भाव",
+    "en": "term: kinai"
+  },
+  "जीरांदि": {
+    "roman": "jeeraandi",
+    "hi": "जीरांदि का भाव",
+    "en": "term: jeeraandi"
+  },
+  "खाइआ": {
+    "roman": "khaaia",
+    "hi": "खाइआ का भाव",
+    "en": "term: khaaia"
+  },
+  "आउ": {
+    "roman": "aau",
+    "hi": "आउ का भाव",
+    "en": "term: aau"
+  },
+  "दिहु": {
+    "roman": "dihu",
+    "hi": "दिहु का भाव",
+    "en": "term: dihu"
+  },
+  "लधे": {
+    "roman": "ladhe",
+    "hi": "लधे का भाव",
+    "en": "term: ladhe"
+  },
+  "ठाउ": {
+    "roman": "thaau",
+    "hi": "ठाउ का भाव",
+    "en": "term: thaau"
+  },
+  "कंडा": {
+    "roman": "kanda",
+    "hi": "कंडा का भाव",
+    "en": "term: kanda"
+  },
+  "मैडा": {
+    "roman": "maidaa",
+    "hi": "मेरा",
+    "en": "my"
+  },
+  "गइआ": {
+    "roman": "gaia",
+    "hi": "गइआ का भाव",
+    "en": "term: gaia"
+  },
+  "आपनड़ै": {
+    "roman": "aapanadai",
+    "hi": "आपनड़ै का भाव",
+    "en": "term: aapanadai"
+  },
+  "जानिआ": {
+    "roman": "jaania",
+    "hi": "जानिआ का भाव",
+    "en": "term: jaania"
+  },
+  "नागर": {
+    "roman": "naagar",
+    "hi": "नागर का भाव",
+    "en": "term: naagar"
+  },
+  "होदी": {
+    "roman": "hodee",
+    "hi": "होदी का भाव",
+    "en": "term: hodee"
+  },
+  "सरु": {
+    "roman": "saru",
+    "hi": "सरु का भाव",
+    "en": "term: saru"
+  },
+  "वहण": {
+    "roman": "vahan",
+    "hi": "वहण का भाव",
+    "en": "term: vahan"
+  },
+  "चित": {
+    "roman": "chit",
+    "hi": "चित का भाव",
+    "en": "term: chit"
+  },
+  "केती": {
+    "roman": "ketee",
+    "hi": "केती का भाव",
+    "en": "term: ketee"
+  },
+  "कोई": {
+    "roman": "koee",
+    "hi": "कोई का भाव",
+    "en": "term: koee"
+  },
+  "थे": {
+    "roman": "the",
+    "hi": "थे का भाव",
+    "en": "term: the"
+  },
+  "पहिरेइ": {
+    "roman": "pahirei",
+    "hi": "पहिरेइ का भाव",
+    "en": "term: pahirei"
+  },
+  "कुआरी": {
+    "roman": "kuaaree",
+    "hi": "कुआरी का भाव",
+    "en": "term: kuaaree"
+  },
+  "तरसाए": {
+    "roman": "tarasaae",
+    "hi": "तरसाए का भाव",
+    "en": "term: tarasaae"
+  },
+  "करी": {
+    "roman": "karee",
+    "hi": "करी का भाव",
+    "en": "term: karee"
+  },
+  "सार": {
+    "roman": "saar",
+    "hi": "सार का भाव",
+    "en": "term: saar"
+  },
+  "इट": {
+    "roman": "it",
+    "hi": "इट का भाव",
+    "en": "term: it"
+  },
+  "रहै": {
+    "roman": "rahai",
+    "hi": "रहै का भाव",
+    "en": "term: rahai"
+  },
+  "अंनि": {
+    "roman": "anni",
+    "hi": "अंनि का भाव",
+    "en": "term: anni"
+  },
+  "कबही": {
+    "roman": "kabahee",
+    "hi": "कबही का भाव",
+    "en": "term: kabahee"
+  },
+  "फुलड़ा": {
+    "roman": "phulada",
+    "hi": "फुलड़ा का भाव",
+    "en": "term: phulada"
+  },
+  "दिल": {
+    "roman": "dil",
+    "hi": "दिल का भाव",
+    "en": "term: dil"
+  },
+  "महि": {
+    "roman": "mahi",
+    "hi": "महि का भाव",
+    "en": "term: mahi"
+  },
+  "नानका": {
+    "roman": "naanaka",
+    "hi": "नानका का भाव",
+    "en": "term: naanaka"
+  },
+  "जिथहु": {
+    "roman": "jithahu",
+    "hi": "जिथहु का भाव",
+    "en": "term: jithahu"
+  },
+  "क्मबिआ": {
+    "roman": "kmabia",
+    "hi": "क्मबिआ का भाव",
+    "en": "term: kmabia"
+  },
+  "धरे": {
+    "roman": "dhare",
+    "hi": "धरे का भाव",
+    "en": "term: dhare"
+  },
+  "भंनी": {
+    "roman": "bhannee",
+    "hi": "भंनी का भाव",
+    "en": "term: bhannee"
+  },
+  "वडिआईआ": {
+    "roman": "vadiaaeea",
+    "hi": "वडिआईआ का भाव",
+    "en": "term: vadiaaeea"
+  },
+  "किसै": {
+    "roman": "kisai",
+    "hi": "किसै का भाव",
+    "en": "term: kisai"
+  },
+  "केल": {
+    "roman": "kel",
+    "hi": "केल का भाव",
+    "en": "term: kel"
+  },
+  "पाड़ती": {
+    "roman": "paadatee",
+    "hi": "पाड़ती का भाव",
+    "en": "term: paadatee"
+  },
+  "जंगलु": {
+    "roman": "jangalu",
+    "hi": "जंगलु का भाव",
+    "en": "term: jangalu"
+  },
+  "दे": {
+    "roman": "de",
+    "hi": "दे का भाव",
+    "en": "term: de"
+  },
+  "दूरि": {
+    "roman": "doori",
+    "hi": "दूर",
+    "en": "far away"
+  },
+  "पिर": {
+    "roman": "pir",
+    "hi": "पिर का भाव",
+    "en": "term: pir"
+  },
+  "कीजै": {
+    "roman": "keejai",
+    "hi": "कीजै का भाव",
+    "en": "term: keejai"
+  },
+  "सुचेति": {
+    "roman": "sucheti",
+    "hi": "सुचेति का भाव",
+    "en": "term: sucheti"
+  },
+  "पाईऐ": {
+    "roman": "paaeeai",
+    "hi": "पाईऐ का भाव",
+    "en": "term: paaeeai"
+  },
+  "विरले": {
+    "roman": "virale",
+    "hi": "विरले का भाव",
+    "en": "term: virale"
+  },
+  "मिलीआसु": {
+    "roman": "mileeaasu",
+    "hi": "मिलीआसु का भाव",
+    "en": "term: mileeaasu"
+  },
+  "कूकेदिआ": {
+    "roman": "kookedia",
+    "hi": "कूकेदिआ का भाव",
+    "en": "term: kookedia"
+  },
+  "कहीऐ": {
+    "roman": "kaheeai",
+    "hi": "कहीऐ का भाव",
+    "en": "term: kaheeai"
+  },
+  "तिसु": {
+    "roman": "tisu",
+    "hi": "तिसु का भाव",
+    "en": "term: tisu"
+  },
+  "गाणवे": {
+    "roman": "gaanave",
+    "hi": "गाणवे का भाव",
+    "en": "term: gaanave"
+  },
+  "मंदे": {
+    "roman": "mande",
+    "hi": "मंदे का भाव",
+    "en": "term: mande"
+  },
+  "काले": {
+    "roman": "kaale",
+    "hi": "काले रंग के",
+    "en": "black stained"
+  },
+  "जणिओहि": {
+    "roman": "janiohi",
+    "hi": "जणिओहि का भाव",
+    "en": "term: janiohi"
+  },
+  "कंधी": {
+    "roman": "kandhee",
+    "hi": "कंधी का भाव",
+    "en": "term: kandhee"
+  },
+  "वहंन्हि": {
+    "roman": "vahannhi",
+    "hi": "वहंन्हि का भाव",
+    "en": "term: vahannhi"
+  },
+  "मेरा": {
+    "roman": "mera",
+    "hi": "मेरा का भाव",
+    "en": "term: mera"
+  },
+  "नींवां": {
+    "roman": "neenvaan",
+    "hi": "नींवां का भाव",
+    "en": "term: neenvaan"
+  },
+  "आगाह": {
+    "roman": "aagaah",
+    "hi": "आगाह का भाव",
+    "en": "term: aagaah"
+  },
+  "कपड़े": {
+    "roman": "kapade",
+    "hi": "वस्त्र/अंबर",
+    "en": "robes/garments"
+  },
+  "केलां": {
+    "roman": "kelaan",
+    "hi": "केलां का भाव",
+    "en": "term: kelaan"
+  },
+  "जिथै": {
+    "roman": "jithai",
+    "hi": "जिथै का भाव",
+    "en": "term: jithai"
+  },
+  "चड़ि": {
+    "roman": "chadi",
+    "hi": "चड़ि का भाव",
+    "en": "term: chadi"
+  },
+  "बेपरवाह": {
+    "roman": "beparavaah",
+    "hi": "बेपरवाह का भाव",
+    "en": "term: beparavaah"
+  },
+  "निमाणी": {
+    "roman": "nimaanee",
+    "hi": "निमाणी का भाव",
+    "en": "term: nimaanee"
+  },
+  "पाईअनि": {
+    "roman": "paaeeani",
+    "hi": "पाईअनि का भाव",
+    "en": "term: paaeeani"
+  },
+  "पिरी": {
+    "roman": "piree",
+    "hi": "पिरी का भाव",
+    "en": "term: piree"
+  },
+  "चिंजू": {
+    "roman": "chinjoo",
+    "hi": "चिंजू का भाव",
+    "en": "term: chinjoo"
+  },
+  "पहरै": {
+    "roman": "paharai",
+    "hi": "पहरै का भाव",
+    "en": "term: paharai"
+  },
+  "बागु": {
+    "roman": "baagu",
+    "hi": "बागु का भाव",
+    "en": "term: baagu"
+  },
+  "धुखि": {
+    "roman": "dhukhi",
+    "hi": "धुखि का भाव",
+    "en": "term: dhukhi"
+  },
+  "जाणदा": {
+    "roman": "jaanada",
+    "hi": "जाणदा का भाव",
+    "en": "term: jaanada"
+  },
+  "लेख": {
+    "roman": "lekh",
+    "hi": "लेख का भाव",
+    "en": "term: lekh"
+  },
+  "चाकरी": {
+    "roman": "chaakaree",
+    "hi": "चाकरी का भाव",
+    "en": "term: chaakaree"
+  },
+  "देदिआ": {
+    "roman": "dedia",
+    "hi": "देदिआ का भाव",
+    "en": "term: dedia"
+  },
+  "अखरु": {
+    "roman": "akharu",
+    "hi": "अखरु का भाव",
+    "en": "term: akharu"
+  },
+  "दरवेसावी": {
+    "roman": "daravesaavee",
+    "hi": "दरवेसावी का भाव",
+    "en": "term: daravesaavee"
+  },
+  "करहि": {
+    "roman": "karahi",
+    "hi": "करहि का भाव",
+    "en": "term: karahi"
+  },
+  "थीवही": {
+    "roman": "theevahee",
+    "hi": "थीवही का भाव",
+    "en": "term: theevahee"
+  },
+  "जेवडु": {
+    "roman": "jevadu",
+    "hi": "जेवडु का भाव",
+    "en": "term: jevadu"
+  },
+  "दुरमति": {
+    "roman": "duramati",
+    "hi": "दुरमति का भाव",
+    "en": "term: duramati"
+  },
+  "देनि": {
+    "roman": "deni",
+    "hi": "देनि का भाव",
+    "en": "term: deni"
+  },
+  "बगा": {
+    "roman": "baga",
+    "hi": "बगा का भाव",
+    "en": "term: baga"
+  },
+  "दिलु": {
+    "roman": "dilu",
+    "hi": "दिलु का भाव",
+    "en": "term: dilu"
+  },
+  "सदाए": {
+    "roman": "sadaae",
+    "hi": "सदाए का भाव",
+    "en": "term: sadaae"
+  },
+  "वहणु": {
+    "roman": "vahanu",
+    "hi": "वहणु का भाव",
+    "en": "term: vahanu"
+  },
+  "पहिरेउ": {
+    "roman": "pahireu",
+    "hi": "पहिरेउ का भाव",
+    "en": "term: pahireu"
+  },
+  "दुखु": {
+    "roman": "dukhu",
+    "hi": "दुखु का भाव",
+    "en": "term: dukhu"
+  },
+  "लेखा": {
+    "roman": "lekha",
+    "hi": "लेखा का भाव",
+    "en": "term: lekha"
+  },
+  "विसारि": {
+    "roman": "visaari",
+    "hi": "विसारि का भाव",
+    "en": "term: visaari"
+  },
+  "घड़ा": {
+    "roman": "ghada",
+    "hi": "घड़ा का भाव",
+    "en": "term: ghada"
+  },
+  "चिकड़ि": {
+    "roman": "chikadi",
+    "hi": "चिकड़ि का भाव",
+    "en": "term: chikadi"
+  },
+  "ठाहणु": {
+    "roman": "thaahanu",
+    "hi": "ठाहणु का भाव",
+    "en": "term: thaahanu"
+  },
+  "कमाण": {
+    "roman": "kamaan",
+    "hi": "कमाण का भाव",
+    "en": "term: kamaan"
+  },
+  "दोजक": {
+    "roman": "dojak",
+    "hi": "दोजक का भाव",
+    "en": "term: dojak"
+  },
+  "जिंन्हा": {
+    "roman": "jinnha",
+    "hi": "जिंन्हा का भाव",
+    "en": "term: jinnha"
+  },
+  "मंदा": {
+    "roman": "manda",
+    "hi": "मंदा का भाव",
+    "en": "term: manda"
+  },
+  "बेड़ा": {
+    "roman": "beda",
+    "hi": "बेड़ा का भाव",
+    "en": "term: beda"
+  },
+  "आवी": {
+    "roman": "aavee",
+    "hi": "आवी का भाव",
+    "en": "term: aavee"
+  },
+  "जलि": {
+    "roman": "jali",
+    "hi": "जलि का भाव",
+    "en": "term: jali"
+  },
+  "आइआ": {
+    "roman": "aaia",
+    "hi": "आइआ का भाव",
+    "en": "term: aaia"
+  },
+  "किती": {
+    "roman": "kitee",
+    "hi": "किती का भाव",
+    "en": "term: kitee"
+  },
+  "तिदाऊ": {
+    "roman": "tidaaoo",
+    "hi": "तिदाऊ का भाव",
+    "en": "term: tidaaoo"
+  },
+  "दिड़ु": {
+    "roman": "didu",
+    "hi": "दिड़ु का भाव",
+    "en": "term: didu"
+  },
+  "जंगलि": {
+    "roman": "jangali",
+    "hi": "जंगलि का भाव",
+    "en": "term: jangali"
+  },
+  "मेरै": {
+    "roman": "merai",
+    "hi": "मेरै का भाव",
+    "en": "term: merai"
+  },
+  "तनूर": {
+    "roman": "tanoor",
+    "hi": "तनूर का भाव",
+    "en": "term: tanoor"
+  },
+  "रहिआ": {
+    "roman": "rahiaa",
+    "hi": "रह गया",
+    "en": "left behind"
+  },
+  "रेख": {
+    "roman": "rekh",
+    "hi": "रेख का भाव",
+    "en": "term: rekh"
+  },
+  "मउतै": {
+    "roman": "mautai",
+    "hi": "मउतै का भाव",
+    "en": "term: mautai"
+  },
+  "घरि": {
+    "roman": "ghari",
+    "hi": "घरि का भाव",
+    "en": "term: ghari"
+  },
+  "पाड़ि": {
+    "roman": "paadi",
+    "hi": "पाड़ि का भाव",
+    "en": "term: paadi"
+  },
+  "गाली": {
+    "roman": "gaalee",
+    "hi": "गाली का भाव",
+    "en": "term: gaalee"
+  },
+  "कही": {
+    "roman": "kahee",
+    "hi": "कही का भाव",
+    "en": "term: kahee"
+  },
+  "वेमुहताजु": {
+    "roman": "vemuhataaju",
+    "hi": "वेमुहताजु का भाव",
+    "en": "term: vemuhataaju"
+  },
+  "हम": {
+    "roman": "ham",
+    "hi": "हम का भाव",
+    "en": "term: ham"
+  },
+  "उतै": {
+    "roman": "utai",
+    "hi": "उतै का भाव",
+    "en": "term: utai"
+  },
+  "कागदै": {
+    "roman": "kaagadai",
+    "hi": "कागदै का भाव",
+    "en": "term: kaagadai"
+  },
+  "हरि": {
+    "roman": "hari",
+    "hi": "हरि का भाव",
+    "en": "term: hari"
+  },
+  "अजराईलु": {
+    "roman": "ajaraaeelu",
+    "hi": "अजराईलु का भाव",
+    "en": "term: ajaraaeelu"
+  },
+  "ता": {
+    "roman": "ta",
+    "hi": "ता का भाव",
+    "en": "term: ta"
+  },
+  "कवणु": {
+    "roman": "kavanu",
+    "hi": "कवणु का भाव",
+    "en": "term: kavanu"
+  },
+  "गुजारि": {
+    "roman": "gujaari",
+    "hi": "गुजारि का भाव",
+    "en": "term: gujaari"
+  },
+  "साजि": {
+    "roman": "saaji",
+    "hi": "साजि का भाव",
+    "en": "term: saaji"
+  },
+  "आपो": {
+    "roman": "aapo",
+    "hi": "आपो का भाव",
+    "en": "term: aapo"
+  },
+  "तपाइ": {
+    "roman": "tapaai",
+    "hi": "तपाइ का भाव",
+    "en": "term: tapaai"
+  },
+  "दरीआउ": {
+    "roman": "dareeaau",
+    "hi": "दरीआउ का भाव",
+    "en": "term: dareeaau"
+  },
+  "अरु": {
+    "roman": "aru",
+    "hi": "अरु का भाव",
+    "en": "term: aru"
+  },
+  "पचास": {
+    "roman": "pachaas",
+    "hi": "पचास का भाव",
+    "en": "term: pachaas"
+  },
+  "भाउ": {
+    "roman": "bhaau",
+    "hi": "भाउ का भाव",
+    "en": "term: bhaau"
+  },
+  "जिन्हा": {
+    "roman": "jinha",
+    "hi": "जिन्हा का भाव",
+    "en": "term: jinha"
+  },
+  "दा": {
+    "roman": "da",
+    "hi": "दा का भाव",
+    "en": "term: da"
+  },
+  "खुदाइ": {
+    "roman": "khudaai",
+    "hi": "खुदाइ का भाव",
+    "en": "term: khudaai"
+  },
+  "निवाजिआ": {
+    "roman": "nivaajia",
+    "hi": "निवाजिआ का भाव",
+    "en": "term: nivaajia"
+  },
+  "होनि": {
+    "roman": "honi",
+    "hi": "होनि का भाव",
+    "en": "term: honi"
+  },
+  "दुइ": {
+    "roman": "dui",
+    "hi": "दुइ का भाव",
+    "en": "term: dui"
+  },
+  "काग": {
+    "roman": "kaag",
+    "hi": "काग का भाव",
+    "en": "term: kaag"
+  },
+  "मैली": {
+    "roman": "mailee",
+    "hi": "मैली का भाव",
+    "en": "term: mailee"
+  },
+  "जागिओहि": {
+    "roman": "jaagiohi",
+    "hi": "जागिओहि का भाव",
+    "en": "term: jaagiohi"
+  },
+  "सिराणे": {
+    "roman": "siraane",
+    "hi": "सिराणे का भाव",
+    "en": "term: siraane"
+  },
+  "हेकड़ो": {
+    "roman": "hekado",
+    "hi": "हेकड़ो का भाव",
+    "en": "term: hekado"
+  },
+  "मति": {
+    "roman": "mati",
+    "hi": "मति का भाव",
+    "en": "term: mati"
+  },
+  "बे": {
+    "roman": "be",
+    "hi": "बे का भाव",
+    "en": "term: be"
+  },
+  "मनु": {
+    "roman": "manu",
+    "hi": "मनु का भाव",
+    "en": "term: manu"
+  },
+  "पातणी": {
+    "roman": "paatanee",
+    "hi": "पातणी का भाव",
+    "en": "term: paatanee"
+  },
+  "कपरु": {
+    "roman": "kaparu",
+    "hi": "कपरु का भाव",
+    "en": "term: kaparu"
+  },
+  "भैणे": {
+    "roman": "bhaine",
+    "hi": "भैणे का भाव",
+    "en": "term: bhaine"
+  },
+  "पिंजरै": {
+    "roman": "pinjarai",
+    "hi": "पिंजरै का भाव",
+    "en": "term: pinjarai"
+  },
+  "सजणु": {
+    "roman": "sajanu",
+    "hi": "सजणु का भाव",
+    "en": "term: sajanu"
+  },
+  "राति": {
+    "roman": "raati",
+    "hi": "राति का भाव",
+    "en": "term: raati"
+  },
+  "पइऐ": {
+    "roman": "paiai",
+    "hi": "पइऐ का भाव",
+    "en": "term: paiai"
+  },
+  "चलण": {
+    "roman": "chalan",
+    "hi": "चलण का भाव",
+    "en": "term: chalan"
+  },
+  "डीहड़ा": {
+    "roman": "deehada",
+    "hi": "डीहड़ा का भाव",
+    "en": "term: deehada"
+  },
+  "मैदानु": {
+    "roman": "maidaanu",
+    "hi": "मैदानु का भाव",
+    "en": "term: maidaanu"
+  },
+  "लुटिआ": {
+    "roman": "lutia",
+    "hi": "लुटिआ का भाव",
+    "en": "term: lutia"
+  },
+  "मोहिआ": {
+    "roman": "mohia",
+    "hi": "मोहिआ का भाव",
+    "en": "term: mohia"
+  },
+  "भेतु": {
+    "roman": "bhetu",
+    "hi": "भेतु का भाव",
+    "en": "term: bhetu"
+  },
+  "बारि": {
+    "roman": "baari",
+    "hi": "बारि का भाव",
+    "en": "term: baari"
+  },
+  "नेड़ा": {
+    "roman": "nedaa",
+    "hi": "समीप/निकट",
+    "en": "drawing near"
+  },
+  "मारनि": {
+    "roman": "maarani",
+    "hi": "मारनि का भाव",
+    "en": "term: maarani"
+  },
+  "भंनि": {
+    "roman": "bhanni",
+    "hi": "भंनि का भाव",
+    "en": "term: bhanni"
+  },
+  "जाणिआ": {
+    "roman": "jaania",
+    "hi": "जाणिआ का भाव",
+    "en": "term: jaania"
+  },
+  "हेति": {
+    "roman": "heti",
+    "hi": "हेति का भाव",
+    "en": "term: heti"
+  },
+  "लबु": {
+    "roman": "labu",
+    "hi": "लबु का भाव",
+    "en": "term: labu"
+  },
+  "थाउ": {
+    "roman": "thaau",
+    "hi": "थाउ का भाव",
+    "en": "term: thaau"
+  },
+  "महल": {
+    "roman": "mahal",
+    "hi": "महल का भाव",
+    "en": "term: mahal"
+  },
+  "जनमि": {
+    "roman": "janami",
+    "hi": "जनमि का भाव",
+    "en": "term: janami"
+  },
+  "स्मबही": {
+    "roman": "smabahee",
+    "hi": "स्मबही का भाव",
+    "en": "term: smabahee"
+  },
+  "जागंन्हि": {
+    "roman": "jaagannhi",
+    "hi": "जागंन्हि का भाव",
+    "en": "term: jaagannhi"
+  },
+  "तती": {
+    "roman": "tatee",
+    "hi": "तती का भाव",
+    "en": "term: tatee"
+  },
+  "गुड़ु": {
+    "roman": "gudu",
+    "hi": "गुड़ु का भाव",
+    "en": "term: gudu"
+  },
+  "झड़ि": {
+    "roman": "jhadi",
+    "hi": "झड़ि का भाव",
+    "en": "term: jhadi"
+  },
+  "चलसी": {
+    "roman": "chalasee",
+    "hi": "चलसी का भाव",
+    "en": "term: chalasee"
+  },
+  "तंनु": {
+    "roman": "tannu",
+    "hi": "तंनु का भाव",
+    "en": "term: tannu"
+  },
+  "झड़े": {
+    "roman": "jhade",
+    "hi": "झड़े का भाव",
+    "en": "term: jhade"
+  },
+  "सु": {
+    "roman": "su",
+    "hi": "सु का भाव",
+    "en": "term: su"
+  },
+  "जलाईऐ": {
+    "roman": "jalaaeeai",
+    "hi": "जलाईऐ का भाव",
+    "en": "term: jalaaeeai"
+  },
+  "निमाणीआ": {
+    "roman": "nimaaneea",
+    "hi": "निमाणीआ का भाव",
+    "en": "term: nimaaneea"
+  },
+  "ढूढि": {
+    "roman": "dhoodhi",
+    "hi": "ढूढि का भाव",
+    "en": "term: dhoodhi"
+  },
+  "दिता": {
+    "roman": "dita",
+    "hi": "दिता का भाव",
+    "en": "term: dita"
+  },
+  "सभ": {
+    "roman": "sabh",
+    "hi": "सभ का भाव",
+    "en": "term: sabh"
+  },
+  "देखु": {
+    "roman": "dekhu",
+    "hi": "देखु का भाव",
+    "en": "term: dekhu"
+  },
+  "अलखु": {
+    "roman": "alakhu",
+    "hi": "अलखु का भाव",
+    "en": "term: alakhu"
+  },
+  "पलवै": {
+    "roman": "palavai",
+    "hi": "पलवै का भाव",
+    "en": "term: palavai"
+  },
+  "ढूंढीआं": {
+    "roman": "dhoondheeaan",
+    "hi": "ढूंढीआं का भाव",
+    "en": "term: dhoondheeaan"
+  },
+  "करेंदी": {
+    "roman": "karendee",
+    "hi": "करेंदी का भाव",
+    "en": "term: karendee"
+  },
+  "किथाऊ": {
+    "roman": "kithaaoo",
+    "hi": "किथाऊ का भाव",
+    "en": "term: kithaaoo"
+  },
+  "बंनै": {
+    "roman": "bannai",
+    "hi": "बंनै का भाव",
+    "en": "term: bannai"
+  },
+  "बोड़न्हि": {
+    "roman": "bodanhi",
+    "hi": "बोड़न्हि का भाव",
+    "en": "term: bodanhi"
+  },
+  "सहदिआ": {
+    "roman": "sahadia",
+    "hi": "सहदिआ का भाव",
+    "en": "term: sahadia"
+  },
+  "जुग": {
+    "roman": "jug",
+    "hi": "जुग का भाव",
+    "en": "term: jug"
+  },
+  "रूहां": {
+    "roman": "roohaan",
+    "hi": "रूहां का भाव",
+    "en": "term: roohaan"
+  },
+  "कउणु": {
+    "roman": "kaunu",
+    "hi": "कउणु का भाव",
+    "en": "term: kaunu"
+  },
+  "होआ": {
+    "roman": "hoa",
+    "hi": "होआ का भाव",
+    "en": "term: hoa"
+  },
+  "धुखां": {
+    "roman": "dhukhaan",
+    "hi": "धुखां का भाव",
+    "en": "term: dhukhaan"
+  },
+  "धनि": {
+    "roman": "dhani",
+    "hi": "धनि का भाव",
+    "en": "term: dhani"
+  },
+  "रूहु": {
+    "roman": "roohu",
+    "hi": "रूहु का भाव",
+    "en": "term: roohu"
+  },
+  "आइड़िआं": {
+    "roman": "aaidiaan",
+    "hi": "आइड़िआं का भाव",
+    "en": "term: aaidiaan"
+  },
+  "मिलंन्हि": {
+    "roman": "milannhi",
+    "hi": "मिलंन्हि का भाव",
+    "en": "term: milannhi"
+  },
+  "काला": {
+    "roman": "kaalaa",
+    "hi": "काला/शोकग्रस्त",
+    "en": "black"
+  },
+  "उलथे": {
+    "roman": "ulathe",
+    "hi": "उलथे का भाव",
+    "en": "term: ulathe"
+  },
+  "भाईआं": {
+    "roman": "bhaaeeaan",
+    "hi": "भाईआं का भाव",
+    "en": "term: bhaaeeaan"
+  },
+  "गोरां": {
+    "roman": "goraan",
+    "hi": "गोरां का भाव",
+    "en": "term: goraan"
+  },
+  "फेड़िआ": {
+    "roman": "phedia",
+    "hi": "फेड़िआ का भाव",
+    "en": "term: phedia"
+  },
+  "नेहु": {
+    "roman": "nehu",
+    "hi": "नेहु का भाव",
+    "en": "term: nehu"
+  },
+  "मापिआ": {
+    "roman": "maapia",
+    "hi": "मापिआ का भाव",
+    "en": "term: maapia"
+  },
+  "तलि": {
+    "roman": "tali",
+    "hi": "तलि का भाव",
+    "en": "term: tali"
+  },
+  "सुणीऐ": {
+    "roman": "suneeai",
+    "hi": "सुणीऐ का भाव",
+    "en": "term: suneeai"
+  },
+  "लहै": {
+    "roman": "lahai",
+    "hi": "लहै का भाव",
+    "en": "term: lahai"
+  },
+  "उजू": {
+    "roman": "ujoo",
+    "hi": "उजू का भाव",
+    "en": "term: ujoo"
+  },
+  "आवणा": {
+    "roman": "aavana",
+    "hi": "आवणा का भाव",
+    "en": "term: aavana"
+  },
+  "कजल": {
+    "roman": "kajal",
+    "hi": "कजल का भाव",
+    "en": "term: kajal"
+  },
+  "मिलिआ": {
+    "roman": "milia",
+    "hi": "मिलिआ का भाव",
+    "en": "term: milia"
+  },
+  "जे": {
+    "roman": "je",
+    "hi": "जे का भाव",
+    "en": "term: je"
+  },
+  "जिनी": {
+    "roman": "jinee",
+    "hi": "जिनी का भाव",
+    "en": "term: jinee"
+  },
+  "नो": {
+    "roman": "no",
+    "hi": "नो का भाव",
+    "en": "term: no"
+  },
+  "खाहि": {
+    "roman": "khaahi",
+    "hi": "खाहि का भाव",
+    "en": "term: khaahi"
+  },
+  "केर्हे": {
+    "roman": "kerhe",
+    "hi": "केर्हे का भाव",
+    "en": "term: kerhe"
+  },
+  "पछोताउ": {
+    "roman": "pachhotaau",
+    "hi": "पछोताउ का भाव",
+    "en": "term: pachhotaau"
+  },
+  "खाइ": {
+    "roman": "khaai",
+    "hi": "खाइ का भाव",
+    "en": "term: khaai"
+  },
+  "डिठु": {
+    "roman": "dithu",
+    "hi": "डिठु का भाव",
+    "en": "term: dithu"
+  },
+  "राविओ": {
+    "roman": "raavio",
+    "hi": "राविओ का भाव",
+    "en": "term: raavio"
+  },
+  "मलि": {
+    "roman": "mali",
+    "hi": "मलि का भाव",
+    "en": "term: mali"
+  },
+  "मुइओहि": {
+    "roman": "muiohi",
+    "hi": "मुइओहि का भाव",
+    "en": "term: muiohi"
+  },
+  "लोड़ी": {
+    "roman": "lodee",
+    "hi": "लोड़ी का भाव",
+    "en": "term: lodee"
+  },
+  "इकन्हा": {
+    "roman": "ikanha",
+    "hi": "इकन्हा का भाव",
+    "en": "term: ikanha"
+  },
+  "वेसु": {
+    "roman": "vesu",
+    "hi": "वेश/पहनावा",
+    "en": "outward garb/attire"
+  },
+  "क्मबणि": {
+    "roman": "kmabani",
+    "hi": "क्मबणि का भाव",
+    "en": "term: kmabani"
+  },
+  "चितु": {
+    "roman": "chitu",
+    "hi": "चितु का भाव",
+    "en": "term: chitu"
+  },
+  "हं": {
+    "roman": "han",
+    "hi": "हं का भाव",
+    "en": "term: han"
+  },
+  "जिसु": {
+    "roman": "jisu",
+    "hi": "जिसु का भाव",
+    "en": "term: jisu"
+  },
+  "वणु": {
+    "roman": "vanu",
+    "hi": "वणु का भाव",
+    "en": "term: vanu"
+  },
+  "इसु": {
+    "roman": "isu",
+    "hi": "इसु का भाव",
+    "en": "term: isu"
+  },
+  "पछा": {
+    "roman": "pachha",
+    "hi": "पछा का भाव",
+    "en": "term: pachha"
+  },
+  "सजण": {
+    "roman": "sajan",
+    "hi": "सजण का भाव",
+    "en": "term: sajan"
+  },
+  "आहि": {
+    "roman": "aahi",
+    "hi": "आहि का भाव",
+    "en": "term: aahi"
+  },
+  "मिलणु": {
+    "roman": "milanu",
+    "hi": "मिलणु का भाव",
+    "en": "term: milanu"
+  },
+  "कीतिआ": {
+    "roman": "keetia",
+    "hi": "कीतिआ का भाव",
+    "en": "term: keetia"
+  },
+  "मंतु": {
+    "roman": "mantu",
+    "hi": "मंतु का भाव",
+    "en": "term: mantu"
+  },
+  "तिदू": {
+    "roman": "tidoo",
+    "hi": "तिदू का भाव",
+    "en": "term: tidoo"
+  },
+  "चूंडि": {
+    "roman": "choondi",
+    "hi": "चूंडि का भाव",
+    "en": "term: choondi"
+  },
+  "इहु": {
+    "roman": "ihu",
+    "hi": "इहु का भाव",
+    "en": "term: ihu"
+  },
+  "चांगेदिआ": {
+    "roman": "chaangedia",
+    "hi": "चांगेदिआ का भाव",
+    "en": "term: chaangedia"
+  },
+  "दोजकु": {
+    "roman": "dojaku",
+    "hi": "दोजकु का भाव",
+    "en": "term: dojaku"
+  },
+  "वजहि": {
+    "roman": "vajahi",
+    "hi": "वजहि का भाव",
+    "en": "term: vajahi"
+  },
+  "लिखु": {
+    "roman": "likhu",
+    "hi": "लिखु का भाव",
+    "en": "term: likhu"
+  },
+  "मचांगवा": {
+    "roman": "machaangava",
+    "hi": "मचांगवा का भाव",
+    "en": "term: machaangava"
+  },
+  "तिलाह": {
+    "roman": "tilaah",
+    "hi": "तिलाह का भाव",
+    "en": "term: tilaah"
+  },
+  "आपनड़े": {
+    "roman": "aapanade",
+    "hi": "आपनड़े का भाव",
+    "en": "term: aapanade"
+  },
+  "छपरि": {
+    "roman": "chhapari",
+    "hi": "छपरि का भाव",
+    "en": "term: chhapari"
+  },
+  "पैधा": {
+    "roman": "paidha",
+    "hi": "पैधा का भाव",
+    "en": "term: paidha"
+  },
+  "उपरि": {
+    "roman": "upari",
+    "hi": "उपरि का भाव",
+    "en": "term: upari"
+  },
+  "पली": {
+    "roman": "palee",
+    "hi": "पली का भाव",
+    "en": "term: palee"
+  },
+  "कोध्रै": {
+    "roman": "kodhrai",
+    "hi": "कोध्रै का भाव",
+    "en": "term: kodhrai"
+  },
+  "नानक": {
+    "roman": "naanak",
+    "hi": "नानक का भाव",
+    "en": "term: naanak"
+  },
+  "तिंन्हा": {
+    "roman": "tinnha",
+    "hi": "तिंन्हा का भाव",
+    "en": "term: tinnha"
+  },
+  "दीवड़े": {
+    "roman": "deevade",
+    "hi": "दीवड़े का भाव",
+    "en": "term: deevade"
+  },
+  "केतड़ा": {
+    "roman": "ketada",
+    "hi": "केतड़ा का भाव",
+    "en": "term: ketada"
+  },
+  "डंझ": {
+    "roman": "danjh",
+    "hi": "डंझ का भाव",
+    "en": "term: danjh"
+  },
+  "छोडनि": {
+    "roman": "chhodani",
+    "hi": "छोडनि का भाव",
+    "en": "term: chhodani"
+  },
+  "सचे": {
+    "roman": "sache",
+    "hi": "सचे का भाव",
+    "en": "term: sache"
+  },
+  "सुतिआ": {
+    "roman": "sutia",
+    "hi": "सुतिआ का भाव",
+    "en": "term: sutia"
+  },
+  "गड": {
+    "roman": "gad",
+    "hi": "गड का भाव",
+    "en": "term: gad"
+  },
+  "डरावणे": {
+    "roman": "daraavane",
+    "hi": "डरावणे का भाव",
+    "en": "term: daraavane"
+  },
+  "कपि": {
+    "roman": "kapi",
+    "hi": "कपि का भाव",
+    "en": "term: kapi"
+  },
+  "भउकणा": {
+    "roman": "bhaukana",
+    "hi": "भउकणा का भाव",
+    "en": "term: bhaukana"
+  },
+  "ऊपजै": {
+    "roman": "oopajai",
+    "hi": "ऊपजै का भाव",
+    "en": "term: oopajai"
+  },
+  "मितु": {
+    "roman": "mitu",
+    "hi": "मितु का भाव",
+    "en": "term: mitu"
+  },
+  "इस्तेमाल": {
+    "roman": "istemaal",
+    "hi": "इस्तेमाल का भाव",
+    "en": "term: istemaal"
+  },
+  "एतु": {
+    "roman": "etu",
+    "hi": "एतु का भाव",
+    "en": "term: etu"
+  },
+  "सो": {
+    "roman": "so",
+    "hi": "सो का भाव",
+    "en": "term: so"
+  },
+  "लोभु": {
+    "roman": "lobhu",
+    "hi": "लोभु का भाव",
+    "en": "term: lobhu"
+  },
+  "निहालि": {
+    "roman": "nihaali",
+    "hi": "निहालि का भाव",
+    "en": "term: nihaali"
+  },
+  "समलि": {
+    "roman": "samali",
+    "hi": "समलि का भाव",
+    "en": "term: samali"
+  },
+  "रहणु": {
+    "roman": "rahanu",
+    "hi": "रहणु का भाव",
+    "en": "term: rahanu"
+  },
+  "फरीदु": {
+    "roman": "phareedu",
+    "hi": "फरीदु का भाव",
+    "en": "term: phareedu"
+  },
+  "नउबति": {
+    "roman": "naubati",
+    "hi": "नउबति का भाव",
+    "en": "term: naubati"
+  },
+  "मुझै": {
+    "roman": "mujhai",
+    "hi": "मुझै का भाव",
+    "en": "term: mujhai"
+  },
+  "खाधी": {
+    "roman": "khaadhee",
+    "hi": "खाधी का भाव",
+    "en": "term: khaadhee"
+  },
+  "कीड़ा": {
+    "roman": "keeda",
+    "hi": "कीड़ा का भाव",
+    "en": "term: keeda"
+  },
+  "नाठी": {
+    "roman": "naathee",
+    "hi": "नाठी का भाव",
+    "en": "term: naathee"
+  },
+  "मैथै": {
+    "roman": "maithai",
+    "hi": "मैथै का भाव",
+    "en": "term: maithai"
+  },
+  "चले": {
+    "roman": "chale",
+    "hi": "चले का भाव",
+    "en": "term: chale"
+  },
+  "मुकीआं": {
+    "roman": "mukeeaan",
+    "hi": "मुकीआं का भाव",
+    "en": "term: mukeeaan"
+  },
+  "तुम": {
+    "roman": "tum",
+    "hi": "तुम का भाव",
+    "en": "term: tum"
+  },
+  "विचहु": {
+    "roman": "vichahu",
+    "hi": "विचहु का भाव",
+    "en": "term: vichahu"
+  },
+  "जालेन्हि": {
+    "roman": "jaalenhi",
+    "hi": "जालेन्हि का भाव",
+    "en": "term: jaalenhi"
+  },
+  "लमी": {
+    "roman": "lamee",
+    "hi": "लमी का भाव",
+    "en": "term: lamee"
+  },
+  "ढूढेदी": {
+    "roman": "dhoodhedee",
+    "hi": "ढूढेदी का भाव",
+    "en": "term: dhoodhedee"
+  },
+  "काली": {
+    "roman": "kaalee",
+    "hi": "काली का भाव",
+    "en": "term: kaalee"
+  },
+  "सरमिंदा": {
+    "roman": "saraminda",
+    "hi": "सरमिंदा का भाव",
+    "en": "term: saraminda"
+  },
+  "नीदड़ी": {
+    "roman": "needadee",
+    "hi": "नीदड़ी का भाव",
+    "en": "term: needadee"
+  },
+  "बुजे": {
+    "roman": "buje",
+    "hi": "बुजे का भाव",
+    "en": "term: buje"
+  },
+  "पकंदी": {
+    "roman": "pakandee",
+    "hi": "पकंदी का भाव",
+    "en": "term: pakandee"
+  },
+  "पई": {
+    "roman": "paee",
+    "hi": "पई का भाव",
+    "en": "term: paee"
+  },
+  "वर्हिआ": {
+    "roman": "varhia",
+    "hi": "वर्हिआ का भाव",
+    "en": "term: varhia"
+  },
+  "ककरु": {
+    "roman": "kakaru",
+    "hi": "ककरु का भाव",
+    "en": "term: kakaru"
+  },
+  "नीअति": {
+    "roman": "neeati",
+    "hi": "नीअति का भाव",
+    "en": "term: neeati"
+  },
+  "भरांदि": {
+    "roman": "bharaandi",
+    "hi": "भरांदि का भाव",
+    "en": "term: bharaandi"
+  },
+  "ऊचे": {
+    "roman": "ooche",
+    "hi": "ऊचे का भाव",
+    "en": "term: ooche"
+  },
+  "कउ": {
+    "roman": "kau",
+    "hi": "कउ का भाव",
+    "en": "term: kau"
+  },
+  "आसूणी": {
+    "roman": "aasoonee",
+    "hi": "आसूणी का भाव",
+    "en": "term: aasoonee"
+  },
+  "होदा": {
+    "roman": "hoda",
+    "hi": "होदा का भाव",
+    "en": "term: hoda"
+  },
+  "वंञणा": {
+    "roman": "vannyana",
+    "hi": "वंञणा का भाव",
+    "en": "term: vannyana"
+  },
+  "माखिअ": {
+    "roman": "maakhia",
+    "hi": "माखिअ का भाव",
+    "en": "term: maakhia"
+  },
+  "मिला": {
+    "roman": "mila",
+    "hi": "मिला का भाव",
+    "en": "term: mila"
+  },
+  "कीता": {
+    "roman": "keeta",
+    "hi": "कीता का भाव",
+    "en": "term: keeta"
+  },
+  "घड़ीआल": {
+    "roman": "ghadeeaal",
+    "hi": "घड़ीआल का भाव",
+    "en": "term: ghadeeaal"
+  },
+  "हेठि": {
+    "roman": "hethi",
+    "hi": "हेठि का भाव",
+    "en": "term: hethi"
+  },
+  "फेरहि": {
+    "roman": "pherahi",
+    "hi": "फेरहि का भाव",
+    "en": "term: pherahi"
+  },
+  "घड़ीए": {
+    "roman": "ghadeee",
+    "hi": "घड़ीए का भाव",
+    "en": "term: ghadeee"
+  },
+  "खजूरी": {
+    "roman": "khajooree",
+    "hi": "खजूरी का भाव",
+    "en": "term: khajooree"
+  },
+  "थोड़ा": {
+    "roman": "thoda",
+    "hi": "थोड़ा का भाव",
+    "en": "term: thoda"
+  },
+  "करदा": {
+    "roman": "karada",
+    "hi": "करदा का भाव",
+    "en": "term: karada"
+  },
+  "किआ": {
+    "roman": "kiaa",
+    "hi": "क्या",
+    "en": "what"
+  },
+  "मिलै": {
+    "roman": "milai",
+    "hi": "मिलै का भाव",
+    "en": "term: milai"
+  },
+  "उठालि": {
+    "roman": "uthaali",
+    "hi": "उठालि का भाव",
+    "en": "term: uthaali"
+  },
+  "गालाइ": {
+    "roman": "gaalaai",
+    "hi": "गालाइ का भाव",
+    "en": "term: gaalaai"
+  },
+  "फिका": {
+    "roman": "phika",
+    "hi": "फिका का भाव",
+    "en": "term: phika"
+  },
+  "सांईं": {
+    "roman": "saaneen",
+    "hi": "सांईं का भाव",
+    "en": "term: saaneen"
+  },
+  "मरणहु": {
+    "roman": "maranahu",
+    "hi": "मरणहु का भाव",
+    "en": "term: maranahu"
+  },
+  "सिक": {
+    "roman": "sik",
+    "hi": "सिक का भाव",
+    "en": "term: sik"
+  },
+  "बालण": {
+    "roman": "baalan",
+    "hi": "बालण का भाव",
+    "en": "term: baalan"
+  },
+  "फरेसता": {
+    "roman": "pharesata",
+    "hi": "फरेसता का भाव",
+    "en": "term: pharesata"
+  },
+  "लहन्हि": {
+    "roman": "lahanhi",
+    "hi": "लहन्हि का भाव",
+    "en": "term: lahanhi"
+  },
+  "गवाइआ": {
+    "roman": "gavaaia",
+    "hi": "गवाइआ का भाव",
+    "en": "term: gavaaia"
+  },
+  "सबरु": {
+    "roman": "sabaru",
+    "hi": "सबरु का भाव",
+    "en": "term: sabaru"
+  },
+  "त्रै": {
+    "roman": "trai",
+    "hi": "त्रै का भाव",
+    "en": "term: trai"
+  },
+  "सुहाग": {
+    "roman": "suhaag",
+    "hi": "सुहाग का भाव",
+    "en": "term: suhaag"
+  },
+  "चेते": {
+    "roman": "chete",
+    "hi": "चेते का भाव",
+    "en": "term: chete"
+  },
+  "पराइऐ": {
+    "roman": "paraaiai",
+    "hi": "पराइऐ का भाव",
+    "en": "term: paraaiai"
+  },
+  "घणेरिआ": {
+    "roman": "ghaneria",
+    "hi": "घणेरिआ का भाव",
+    "en": "term: ghaneria"
+  },
+  "मिठीआं": {
+    "roman": "mitheeaan",
+    "hi": "मिठीआं का भाव",
+    "en": "term: mitheeaan"
+  },
+  "देहुरी": {
+    "roman": "dehuree",
+    "hi": "देहुरी का भाव",
+    "en": "term: dehuree"
+  },
+  "विसूला": {
+    "roman": "visoola",
+    "hi": "विसूला का भाव",
+    "en": "term: visoola"
+  },
+  "चला": {
+    "roman": "chala",
+    "hi": "चला का भाव",
+    "en": "term: chala"
+  },
+  "चाउ": {
+    "roman": "chaau",
+    "hi": "चाउ का भाव",
+    "en": "term: chaau"
+  },
+  "मिलहि": {
+    "roman": "milahi",
+    "hi": "मिलहि का भाव",
+    "en": "term: milahi"
+  },
+  "दै": {
+    "roman": "dai",
+    "hi": "दै का भाव",
+    "en": "term: dai"
+  },
+  "तल": {
+    "roman": "tal",
+    "hi": "तल का भाव",
+    "en": "term: tal"
+  },
+  "ढंढोलिआ": {
+    "roman": "dhandholia",
+    "hi": "ढंढोलिआ का भाव",
+    "en": "term: dhandholia"
+  },
+  "वखत": {
+    "roman": "vakhat",
+    "hi": "वखत का भाव",
+    "en": "term: vakhat"
+  },
+  "निसखण": {
+    "roman": "nisakhan",
+    "hi": "निसखण का भाव",
+    "en": "term: nisakhan"
+  },
+  "इनी": {
+    "roman": "inee",
+    "hi": "इनी का भाव",
+    "en": "term: inee"
+  },
+  "चलिआ": {
+    "roman": "chalia",
+    "hi": "चलिआ का भाव",
+    "en": "term: chalia"
+  },
+  "हंझ": {
+    "roman": "hanjh",
+    "hi": "हंझ का भाव",
+    "en": "term: hanjh"
+  },
+  "बगु": {
+    "roman": "bagu",
+    "hi": "बगु का भाव",
+    "en": "term: bagu"
+  },
+  "होदे": {
+    "roman": "hode",
+    "hi": "होदे का भाव",
+    "en": "term: hode"
+  },
+  "लहु": {
+    "roman": "lahu",
+    "hi": "लहु का भाव",
+    "en": "term: lahu"
+  },
+  "हथ": {
+    "roman": "hath",
+    "hi": "हथ का भाव",
+    "en": "term: hath"
+  },
+  "कित": {
+    "roman": "kit",
+    "hi": "कित का भाव",
+    "en": "term: kit"
+  },
+  "तलीआं": {
+    "roman": "taleeaan",
+    "hi": "तलीआं का भाव",
+    "en": "term: taleeaan"
+  },
+  "भांडै": {
+    "roman": "bhaandai",
+    "hi": "भांडै का भाव",
+    "en": "term: bhaandai"
+  },
+  "की": {
+    "roman": "kee",
+    "hi": "की का भाव",
+    "en": "term: kee"
+  },
+  "पत": {
+    "roman": "pat",
+    "hi": "पत का भाव",
+    "en": "term: pat"
+  },
+  "सिरु": {
+    "roman": "siru",
+    "hi": "मस्तक/सिर",
+    "en": "the head"
+  },
+  "मांझा": {
+    "roman": "maanjha",
+    "hi": "मांझा का भाव",
+    "en": "term: maanjha"
+  },
+  "होवै": {
+    "roman": "hovai",
+    "hi": "होवै का भाव",
+    "en": "term: hovai"
+  },
+  "बग": {
+    "roman": "bag",
+    "hi": "बग का भाव",
+    "en": "term: bag"
+  },
+  "कोध्रा": {
+    "roman": "kodhra",
+    "hi": "कोध्रा का भाव",
+    "en": "term: kodhra"
+  },
+  "पूर": {
+    "roman": "poor",
+    "hi": "पूर का भाव",
+    "en": "term: poor"
+  },
+  "नदरि": {
+    "roman": "nadari",
+    "hi": "नदरि का भाव",
+    "en": "term: nadari"
+  },
+  "लहंनि": {
+    "roman": "lahanni",
+    "hi": "लहंनि का भाव",
+    "en": "term: lahanni"
+  },
+  "बालि": {
+    "roman": "baali",
+    "hi": "बालि का भाव",
+    "en": "term: baali"
+  },
+  "सुआउ": {
+    "roman": "suaau",
+    "hi": "सुआउ का भाव",
+    "en": "term: suaau"
+  },
+  "गडु": {
+    "roman": "gadu",
+    "hi": "गडु का भाव",
+    "en": "term: gadu"
+  },
+  "सउ": {
+    "roman": "sau",
+    "hi": "सउ का भाव",
+    "en": "term: sau"
+  },
+  "चारे": {
+    "roman": "chaare",
+    "hi": "चारे का भाव",
+    "en": "term: chaare"
+  },
+  "केई": {
+    "roman": "keee",
+    "hi": "केई का भाव",
+    "en": "term: keee"
+  },
+  "आइओ": {
+    "roman": "aaio",
+    "hi": "आइओ का भाव",
+    "en": "term: aaio"
+  },
+  "हथु": {
+    "roman": "hathu",
+    "hi": "हथु का भाव",
+    "en": "term: hathu"
+  },
+  "भिजै": {
+    "roman": "bhijai",
+    "hi": "भिजै का भाव",
+    "en": "term: bhijai"
+  },
+  "जिधरि": {
+    "roman": "jidhari",
+    "hi": "जिधरि का भाव",
+    "en": "term: jidhari"
+  },
+  "बुढा": {
+    "roman": "budhaa",
+    "hi": "वृद्ध/बूढ़ा",
+    "en": "aged and frail"
+  },
+  "ठंढा": {
+    "roman": "thandha",
+    "hi": "ठंढा का भाव",
+    "en": "term: thandha"
+  },
+  "कोठे": {
+    "roman": "kothe",
+    "hi": "कोठे का भाव",
+    "en": "term: kothe"
+  },
+  "मिता": {
+    "roman": "mita",
+    "hi": "मिता का भाव",
+    "en": "term: mita"
+  },
+  "जांदे": {
+    "roman": "jaande",
+    "hi": "जांदे का भाव",
+    "en": "term: jaande"
+  },
+  "गुनही": {
+    "roman": "gunahee",
+    "hi": "गुनही का भाव",
+    "en": "term: gunahee"
+  },
+  "डरिआहु": {
+    "roman": "dariaahu",
+    "hi": "डरिआहु का भाव",
+    "en": "term: dariaahu"
+  },
+  "नेह": {
+    "roman": "neh",
+    "hi": "नेह का भाव",
+    "en": "term: neh"
+  },
+  "टुबी": {
+    "roman": "tubee",
+    "hi": "टुबी का भाव",
+    "en": "term: tubee"
+  },
+  "अतोलवी": {
+    "roman": "atolavee",
+    "hi": "अतोलवी का भाव",
+    "en": "term: atolavee"
+  },
+  "नजीकि": {
+    "roman": "najeeki",
+    "hi": "नजीकि का भाव",
+    "en": "term: najeeki"
+  },
+  "ढूढै": {
+    "roman": "dhoodhai",
+    "hi": "ढूढै का भाव",
+    "en": "term: dhoodhai"
+  },
+  "वजदी": {
+    "roman": "vajadee",
+    "hi": "वजदी का भाव",
+    "en": "term: vajadee"
+  },
+  "इकल": {
+    "roman": "ikal",
+    "hi": "इकल का भाव",
+    "en": "term: ikal"
+  },
+  "निवै": {
+    "roman": "nivai",
+    "hi": "निवै का भाव",
+    "en": "term: nivai"
+  },
+  "वजी": {
+    "roman": "vajee",
+    "hi": "वजी का भाव",
+    "en": "term: vajee"
+  },
+  "दुनी": {
+    "roman": "dunee",
+    "hi": "दुनी का भाव",
+    "en": "term: dunee"
+  },
+  "पटोला": {
+    "roman": "patola",
+    "hi": "पटोला का भाव",
+    "en": "term: patola"
+  },
+  "सुणी": {
+    "roman": "sunee",
+    "hi": "सुणी का भाव",
+    "en": "term: sunee"
+  },
+  "वारी": {
+    "roman": "vaaree",
+    "hi": "वारी का भाव",
+    "en": "term: vaaree"
+  },
+  "अंधिआरी": {
+    "roman": "andhiaaree",
+    "hi": "अंधिआरी का भाव",
+    "en": "term: andhiaaree"
+  },
+  "सुहागणी": {
+    "roman": "suhaaganee",
+    "hi": "सुहागणी का भाव",
+    "en": "term: suhaaganee"
+  },
+  "नाही": {
+    "roman": "naahee",
+    "hi": "नाही का भाव",
+    "en": "term: naahee"
+  },
+  "टूटी": {
+    "roman": "tootee",
+    "hi": "टूटी का भाव",
+    "en": "term: tootee"
+  },
+  "वजदा": {
+    "roman": "vajada",
+    "hi": "वजदा का भाव",
+    "en": "term: vajada"
+  },
+  "देखन": {
+    "roman": "dekhan",
+    "hi": "देखन का भाव",
+    "en": "term: dekhan"
+  },
+  "क्मबली": {
+    "roman": "kmabalee",
+    "hi": "क्मबली का भाव",
+    "en": "term: kmabalee"
+  },
+  "रबि": {
+    "roman": "rabi",
+    "hi": "रबि का भाव",
+    "en": "term: rabi"
+  },
+  "सरपर": {
+    "roman": "sarapar",
+    "hi": "सरपर का भाव",
+    "en": "term: sarapar"
+  },
+  "मासि": {
+    "roman": "maasi",
+    "hi": "मासि का भाव",
+    "en": "term: maasi"
+  },
+  "ढाहा": {
+    "roman": "dhaaha",
+    "hi": "ढाहा का भाव",
+    "en": "term: dhaaha"
+  },
+  "भुख": {
+    "roman": "bhukh",
+    "hi": "भुख का भाव",
+    "en": "term: bhukh"
+  },
+  "थल": {
+    "roman": "thal",
+    "hi": "थल का भाव",
+    "en": "term: thal"
+  },
+  "मुड़ि": {
+    "roman": "mudi",
+    "hi": "मुड़ि का भाव",
+    "en": "term: mudi"
+  },
+  "रंगावली": {
+    "roman": "rangaavalee",
+    "hi": "रंगावली का भाव",
+    "en": "term: rangaavalee"
+  },
+  "पाणी": {
+    "roman": "paanee",
+    "hi": "पाणी का भाव",
+    "en": "term: paanee"
+  },
+  "गंउ": {
+    "roman": "ganu",
+    "hi": "गंउ का भाव",
+    "en": "term: ganu"
+  },
+  "सांई": {
+    "roman": "saanee",
+    "hi": "सांई का भाव",
+    "en": "term: saanee"
+  },
+  "करेइ": {
+    "roman": "karei",
+    "hi": "करेइ का भाव",
+    "en": "term: karei"
+  },
+  "पराहुणी": {
+    "roman": "paraahunee",
+    "hi": "पराहुणी का भाव",
+    "en": "term: paraahunee"
+  },
+  "कलि": {
+    "roman": "kali",
+    "hi": "कलि का भाव",
+    "en": "term: kali"
+  },
+  "ढूढेहि": {
+    "roman": "dhoodhehi",
+    "hi": "ढूढेहि का भाव",
+    "en": "term: dhoodhehi"
+  },
+  "मंझि": {
+    "roman": "manjhi",
+    "hi": "मंझि का भाव",
+    "en": "term: manjhi"
+  },
+  "लोड़ै": {
+    "roman": "lodai",
+    "hi": "लोड़ै का भाव",
+    "en": "term: lodai"
+  },
+  "फकीरां": {
+    "roman": "phakeeraan",
+    "hi": "फकीरां का भाव",
+    "en": "term: phakeeraan"
+  },
+  "ओगाहा": {
+    "roman": "ogaaha",
+    "hi": "ओगाहा का भाव",
+    "en": "term: ogaaha"
+  },
+  "पराई": {
+    "roman": "paraaee",
+    "hi": "पराई का भाव",
+    "en": "term: paraaee"
+  },
+  "एह": {
+    "roman": "eh",
+    "hi": "एह का भाव",
+    "en": "term: eh"
+  },
+  "तिना": {
+    "roman": "tina",
+    "hi": "तिना का भाव",
+    "en": "term: tina"
+  },
+  "कोहां": {
+    "roman": "kohaan",
+    "hi": "कोहां का भाव",
+    "en": "term: kohaan"
+  },
+  "मूलि": {
+    "roman": "mooli",
+    "hi": "मूलि का भाव",
+    "en": "term: mooli"
+  },
+  "डोहागणि": {
+    "roman": "dohaagani",
+    "hi": "डोहागणि का भाव",
+    "en": "term: dohaagani"
+  },
+  "फाहीवाल": {
+    "roman": "phaaheevaal",
+    "hi": "फाहीवाल का भाव",
+    "en": "term: phaaheevaal"
+  },
+  "दरीआवै": {
+    "roman": "dareeaavai",
+    "hi": "दरीआवै का भाव",
+    "en": "term: dareeaavai"
+  },
+  "देही": {
+    "roman": "dehee",
+    "hi": "देही का भाव",
+    "en": "term: dehee"
+  },
+  "कलर": {
+    "roman": "kalar",
+    "hi": "कलर का भाव",
+    "en": "term: kalar"
+  },
+  "बंदा": {
+    "roman": "banda",
+    "hi": "बंदा का भाव",
+    "en": "term: banda"
+  },
+  "गुरमुखि": {
+    "roman": "guramukhi",
+    "hi": "गुरमुखि का भाव",
+    "en": "term: guramukhi"
+  },
+  "थलि": {
+    "roman": "thali",
+    "hi": "थलि का भाव",
+    "en": "term: thali"
+  },
+  "भली": {
+    "roman": "bhalee",
+    "hi": "भली का भाव",
+    "en": "term: bhalee"
+  },
+  "करि": {
+    "roman": "kari",
+    "hi": "करि का भाव",
+    "en": "term: kari"
+  },
+  "चानणा": {
+    "roman": "chaanana",
+    "hi": "चानणा का भाव",
+    "en": "term: chaanana"
+  },
+  "हिआउ": {
+    "roman": "hiaau",
+    "hi": "हिआउ का भाव",
+    "en": "term: hiaau"
+  },
+  "के": {
+    "roman": "ke",
+    "hi": "के का भाव",
+    "en": "term: ke"
+  },
+  "विसरीआं": {
+    "roman": "visareeaan",
+    "hi": "विसरीआं का भाव",
+    "en": "term: visareeaan"
+  },
+  "वेसी": {
+    "roman": "vesee",
+    "hi": "वेसी का भाव",
+    "en": "term: vesee"
+  },
+  "दुनीआं": {
+    "roman": "duneeaan",
+    "hi": "दुनीआं का भाव",
+    "en": "term: duneeaan"
+  },
+  "खटण": {
+    "roman": "khatan",
+    "hi": "खटण का भाव",
+    "en": "term: khatan"
+  },
+  "लघाईऐ": {
+    "roman": "laghaaeeai",
+    "hi": "लघाईऐ का भाव",
+    "en": "term: laghaaeeai"
+  },
+  "बसै": {
+    "roman": "basai",
+    "hi": "बसै का भाव",
+    "en": "term: basai"
+  },
+  "रखसी": {
+    "roman": "rakhasee",
+    "hi": "रखसी का भाव",
+    "en": "term: rakhasee"
+  },
+  "सुणि": {
+    "roman": "suni",
+    "hi": "सुणि का भाव",
+    "en": "term: suni"
+  },
+  "बंदे": {
+    "roman": "bande",
+    "hi": "बंदे का भाव",
+    "en": "term: bande"
+  },
+  "नींद्रावले": {
+    "roman": "neendraavale",
+    "hi": "नींद्रावले का भाव",
+    "en": "term: neendraavale"
+  },
+  "वासु": {
+    "roman": "vaasu",
+    "hi": "वासु का भाव",
+    "en": "term: vaasu"
+  },
+  "कुंडा": {
+    "roman": "kunda",
+    "hi": "कुंडा का भाव",
+    "en": "term: kunda"
+  },
+  "कूकेंदी": {
+    "roman": "kookendee",
+    "hi": "कूकेंदी का भाव",
+    "en": "term: kookendee"
+  },
+  "उडरि": {
+    "roman": "udari",
+    "hi": "उडरि का भाव",
+    "en": "term: udari"
+  },
+  "वसनि": {
+    "roman": "vasani",
+    "hi": "वसनि का भाव",
+    "en": "term: vasani"
+  },
+  "रासि": {
+    "roman": "raasi",
+    "hi": "रासि का भाव",
+    "en": "term: raasi"
+  },
+  "गंदला": {
+    "roman": "gandala",
+    "hi": "गंदला का भाव",
+    "en": "term: gandala"
+  },
+  "नचिंदु": {
+    "roman": "nachindu",
+    "hi": "नचिंदु का भाव",
+    "en": "term: nachindu"
+  },
+  "गलीए": {
+    "roman": "galeee",
+    "hi": "गलीए का भाव",
+    "en": "term: galeee"
+  },
+  "सोई": {
+    "roman": "soee",
+    "hi": "सोई का भाव",
+    "en": "term: soee"
+  },
+  "कंनो": {
+    "roman": "kanno",
+    "hi": "कंनो का भाव",
+    "en": "term: kanno"
+  },
+  "दरवाजै": {
+    "roman": "daravaajai",
+    "hi": "दरवाजै का भाव",
+    "en": "term: daravaajai"
+  },
+  "गलु": {
+    "roman": "galu",
+    "hi": "गलु का भाव",
+    "en": "term: galu"
+  },
+  "रही": {
+    "roman": "rahee",
+    "hi": "रही का भाव",
+    "en": "term: rahee"
+  },
+  "जुलां": {
+    "roman": "julaan",
+    "hi": "जुलां का भाव",
+    "en": "term: julaan"
+  },
+  "होर": {
+    "roman": "hor",
+    "hi": "होर का भाव",
+    "en": "term: hor"
+  },
+  "कुहाड़ा": {
+    "roman": "kuhaada",
+    "hi": "कुहाड़ा का भाव",
+    "en": "term: kuhaada"
+  },
+  "चंगा": {
+    "roman": "changa",
+    "hi": "चंगा का भाव",
+    "en": "term: changa"
+  },
+  "जीवणा": {
+    "roman": "jeevana",
+    "hi": "जीवणा का भाव",
+    "en": "term: jeevana"
+  },
+  "चोटां": {
+    "roman": "chotaan",
+    "hi": "चोटां का भाव",
+    "en": "term: chotaan"
+  },
+  "हमारा": {
+    "roman": "hamaara",
+    "hi": "हमारा का भाव",
+    "en": "term: hamaara"
+  },
+  "किस": {
+    "roman": "kis",
+    "hi": "किस का भाव",
+    "en": "term: kis"
+  },
+  "कपहि": {
+    "roman": "kapahi",
+    "hi": "कपहि का भाव",
+    "en": "term: kapahi"
+  },
+  "रजाइ": {
+    "roman": "rajaai",
+    "hi": "रजाइ का भाव",
+    "en": "term: rajaai"
+  },
+  "अचिंते": {
+    "roman": "achinte",
+    "hi": "अचिंते का भाव",
+    "en": "term: achinte"
+  },
+  "गुणु": {
+    "roman": "gunu",
+    "hi": "गुणु का भाव",
+    "en": "term: gunu"
+  },
+  "दुहु": {
+    "roman": "duhu",
+    "hi": "दुहु का भाव",
+    "en": "term: duhu"
+  },
+  "हूल": {
+    "roman": "hool",
+    "hi": "हूल का भाव",
+    "en": "term: hool"
+  },
+  "सताणी": {
+    "roman": "sataanee",
+    "hi": "सताणी का भाव",
+    "en": "term: sataanee"
+  },
+  "नालि": {
+    "roman": "naali",
+    "hi": "नालि का भाव",
+    "en": "term: naali"
+  },
+  "मुए": {
+    "roman": "mue",
+    "hi": "मुए का भाव",
+    "en": "term: mue"
+  },
+  "लभी": {
+    "roman": "labhee",
+    "hi": "लभी का भाव",
+    "en": "term: labhee"
+  },
+  "हेड़े": {
+    "roman": "hede",
+    "hi": "हेड़े का भाव",
+    "en": "term: hede"
+  },
+  "कमि": {
+    "roman": "kami",
+    "hi": "कमि का भाव",
+    "en": "term: kami"
+  },
+  "नाहि": {
+    "roman": "naahi",
+    "hi": "नाहि का भाव",
+    "en": "term: naahi"
+  },
+  "रतिआ": {
+    "roman": "ratia",
+    "hi": "रतिआ का भाव",
+    "en": "term: ratia"
+  },
+  "कांइ": {
+    "roman": "kaani",
+    "hi": "कांइ का भाव",
+    "en": "term: kaani"
+  },
+  "चिकड़ु": {
+    "roman": "chikadu",
+    "hi": "चिकड़ु का भाव",
+    "en": "term: chikadu"
+  },
+  "आखीऐ": {
+    "roman": "aakheeai",
+    "hi": "आखीऐ का भाव",
+    "en": "term: aakheeai"
+  },
+  "मती": {
+    "roman": "matee",
+    "hi": "मती का भाव",
+    "en": "term: matee"
+  },
+  "तोइ": {
+    "roman": "toi",
+    "hi": "तोइ का भाव",
+    "en": "term: toi"
+  },
+  "जागंदे": {
+    "roman": "jaagande",
+    "hi": "जागंदे का भाव",
+    "en": "term: jaagande"
+  },
+  "अलहु": {
+    "roman": "alahu",
+    "hi": "अलहु का भाव",
+    "en": "term: alahu"
+  },
+  "संदै": {
+    "roman": "sandai",
+    "hi": "संदै का भाव",
+    "en": "term: sandai"
+  },
+  "धरीआं": {
+    "roman": "dhareeaan",
+    "hi": "धरीआं का भाव",
+    "en": "term: dhareeaan"
+  },
+  "रंगावला": {
+    "roman": "rangaavala",
+    "hi": "रंगावला का भाव",
+    "en": "term: rangaavala"
+  },
+  "सचावां": {
+    "roman": "sachaavaan",
+    "hi": "सचावां का भाव",
+    "en": "term: sachaavaan"
+  },
+  "नाला": {
+    "roman": "naala",
+    "hi": "नाला का भाव",
+    "en": "term: naala"
+  },
+  "सोहणे": {
+    "roman": "sohane",
+    "hi": "सोहणे का भाव",
+    "en": "term: sohane"
+  },
+  "गहिले": {
+    "roman": "gahile",
+    "hi": "गहिले का भाव",
+    "en": "term: gahile"
+  },
+  "सहनिगे": {
+    "roman": "sahanige",
+    "hi": "सहनिगे का भाव",
+    "en": "term: sahanige"
+  },
+  "मुछां": {
+    "roman": "muchhaan",
+    "hi": "मूंछें",
+    "en": "the moustache"
+  },
+  "थीवहि": {
+    "roman": "theevahi",
+    "hi": "थीवहि का भाव",
+    "en": "term: theevahi"
+  },
+  "दाति": {
+    "roman": "daati",
+    "hi": "दाति का भाव",
+    "en": "term: daati"
+  },
+  "पकीआं": {
+    "roman": "pakeeaan",
+    "hi": "पकीआं का भाव",
+    "en": "term: pakeeaan"
+  },
+  "दीवी": {
+    "roman": "deevee",
+    "hi": "दीवी का भाव",
+    "en": "term: deevee"
+  },
+  "पातण": {
+    "roman": "paatan",
+    "hi": "पातण का भाव",
+    "en": "term: paatan"
+  },
+  "बीजै": {
+    "roman": "beejai",
+    "hi": "बीजै का भाव",
+    "en": "term: beejai"
+  },
+  "नैना": {
+    "roman": "naina",
+    "hi": "नैना का भाव",
+    "en": "term: naina"
+  },
+  "ऐथै": {
+    "roman": "aithai",
+    "hi": "ऐथै का भाव",
+    "en": "term: aithai"
+  },
+  "तिन्ह": {
+    "roman": "tinh",
+    "hi": "तिन्ह का भाव",
+    "en": "term: tinh"
+  },
+  "पाईं": {
+    "roman": "paaeen",
+    "hi": "पाईं का भाव",
+    "en": "term: paaeen"
+  },
+  "धुकणु": {
+    "roman": "dhukanu",
+    "hi": "धुकणु का भाव",
+    "en": "term: dhukanu"
+  },
+  "मेख": {
+    "roman": "mekh",
+    "hi": "मेख का भाव",
+    "en": "term: mekh"
+  },
+  "रुखां": {
+    "roman": "rukhaan",
+    "hi": "रुखां का भाव",
+    "en": "term: rukhaan"
+  },
+  "प्रीति": {
+    "roman": "preeti",
+    "hi": "प्रीति का भाव",
+    "en": "term: preeti"
+  },
+  "सुखी": {
+    "roman": "sukhee",
+    "hi": "सुखी का भाव",
+    "en": "term: sukhee"
+  },
+  "भाग": {
+    "roman": "bhaag",
+    "hi": "भाग का भाव",
+    "en": "term: bhaag"
+  },
+  "सबर": {
+    "roman": "sabar",
+    "hi": "सबर का भाव",
+    "en": "term: sabar"
+  },
+  "निवणु": {
+    "roman": "nivanu",
+    "hi": "निवणु का भाव",
+    "en": "term: nivanu"
+  },
+  "आखीं": {
+    "roman": "aakheen",
+    "hi": "आखीं का भाव",
+    "en": "term: aakheen"
+  },
+  "बपुड़ा": {
+    "roman": "bapuda",
+    "hi": "बपुड़ा का भाव",
+    "en": "term: bapuda"
+  },
+  "मणीआ": {
+    "roman": "maneea",
+    "hi": "मणीआ का भाव",
+    "en": "term: maneea"
+  },
+  "पाहि": {
+    "roman": "paahi",
+    "hi": "पाहि का भाव",
+    "en": "term: paahi"
+  },
+  "लदिआ": {
+    "roman": "ladia",
+    "hi": "लदिआ का भाव",
+    "en": "term: ladia"
+  },
+  "जाणा": {
+    "roman": "jaanaa",
+    "hi": "जाना/समझा",
+    "en": "realized"
+  },
+  "रुखड़ा": {
+    "roman": "rukhada",
+    "hi": "रुखड़ा का भाव",
+    "en": "term: rukhada"
+  },
+  "बिनु": {
+    "roman": "binu",
+    "hi": "बिनु का भाव",
+    "en": "term: binu"
+  },
+  "सेखा": {
+    "roman": "sekha",
+    "hi": "सेखा का भाव",
+    "en": "term: sekha"
+  },
+  "धणी": {
+    "roman": "dhanee",
+    "hi": "धणी का भाव",
+    "en": "term: dhanee"
+  },
+  "कि": {
+    "roman": "ki",
+    "hi": "कि का भाव",
+    "en": "term: ki"
+  },
+  "जिहबा": {
+    "roman": "jihaba",
+    "hi": "जिहबा का भाव",
+    "en": "term: jihaba"
+  },
+  "उडण": {
+    "roman": "udan",
+    "hi": "उडण का भाव",
+    "en": "term: udan"
+  },
+  "पतीणोहि": {
+    "roman": "pateenohi",
+    "hi": "पतीणोहि का भाव",
+    "en": "term: pateenohi"
+  },
+  "चुख": {
+    "roman": "chukh",
+    "hi": "चुख का भाव",
+    "en": "term: chukh"
+  },
+  "मैलु": {
+    "roman": "mailu",
+    "hi": "मैलु का भाव",
+    "en": "term: mailu"
+  },
+  "मुख": {
+    "roman": "mukh",
+    "hi": "मुख का भाव",
+    "en": "term: mukh"
+  },
+  "देवणा": {
+    "roman": "devana",
+    "hi": "देवणा का भाव",
+    "en": "term: devana"
+  },
+  "सभना": {
+    "roman": "sabhana",
+    "hi": "सभना का भाव",
+    "en": "term: sabhana"
+  },
+  "संगि": {
+    "roman": "sangi",
+    "hi": "संगि का भाव",
+    "en": "term: sangi"
+  },
+  "पलीआं": {
+    "roman": "paleeaan",
+    "hi": "पलीआं का भाव",
+    "en": "term: paleeaan"
+  },
+  "आपणा": {
+    "roman": "aapana",
+    "hi": "आपणा का भाव",
+    "en": "term: aapana"
+  },
+  "ऐसा": {
+    "roman": "aisa",
+    "hi": "ऐसा का भाव",
+    "en": "term: aisa"
+  },
+  "विसरिओहि": {
+    "roman": "visariohi",
+    "hi": "विसरिओहि का भाव",
+    "en": "term: visariohi"
+  },
+  "घरु": {
+    "roman": "gharu",
+    "hi": "घरु का भाव",
+    "en": "term: gharu"
+  },
+  "छपड़ी": {
+    "roman": "chhapadee",
+    "hi": "छपड़ी का भाव",
+    "en": "term: chhapadee"
+  },
+  "बलंदिआ": {
+    "roman": "balandia",
+    "hi": "बलंदिआ का भाव",
+    "en": "term: balandia"
+  },
+  "सदा": {
+    "roman": "sada",
+    "hi": "सदा का भाव",
+    "en": "term: sada"
+  },
+  "भै": {
+    "roman": "bhai",
+    "hi": "भै का भाव",
+    "en": "term: bhai"
+  },
+  "लजु": {
+    "roman": "laju",
+    "hi": "लजु का भाव",
+    "en": "term: laju"
+  },
+  "खूंडहि": {
+    "roman": "khoondahi",
+    "hi": "खूंडहि का भाव",
+    "en": "term: khoondahi"
+  },
+  "तेरा": {
+    "roman": "tera",
+    "hi": "तेरा का भाव",
+    "en": "term: tera"
+  },
+  "खाकू": {
+    "roman": "khaakoo",
+    "hi": "खाकू का भाव",
+    "en": "term: khaakoo"
+  },
+  "वेखु": {
+    "roman": "vekhu",
+    "hi": "वेखु का भाव",
+    "en": "term: vekhu"
+  },
+  "वति": {
+    "roman": "vati",
+    "hi": "वति का भाव",
+    "en": "term: vati"
+  },
+  "पिआला": {
+    "roman": "piaala",
+    "hi": "पिआला का भाव",
+    "en": "term: piaala"
+  },
+  "निताणा": {
+    "roman": "nitaana",
+    "hi": "निताणा का भाव",
+    "en": "term: nitaana"
+  },
+  "पए": {
+    "roman": "pae",
+    "hi": "पए का भाव",
+    "en": "term: pae"
+  },
+  "लेफु": {
+    "roman": "lephu",
+    "hi": "लेफु का भाव",
+    "en": "term: lephu"
+  },
+  "आवसी": {
+    "roman": "aavasee",
+    "hi": "आवसी का भाव",
+    "en": "term: aavasee"
+  },
+  "बपुड़े": {
+    "roman": "bapude",
+    "hi": "बपुड़े का भाव",
+    "en": "term: bapude"
+  },
+  "वासा": {
+    "roman": "vaasa",
+    "hi": "वासा का भाव",
+    "en": "term: vaasa"
+  },
+  "भेड़ी": {
+    "roman": "bhedee",
+    "hi": "भेड़ी का भाव",
+    "en": "term: bhedee"
+  },
+  "दरवेसु": {
+    "roman": "daravesu",
+    "hi": "दरवेसु का भाव",
+    "en": "term: daravesu"
+  },
+  "देखिआ": {
+    "roman": "dekhia",
+    "hi": "देखिआ का भाव",
+    "en": "term: dekhia"
+  },
+  "मीहाहु": {
+    "roman": "meehaahu",
+    "hi": "मीहाहु का भाव",
+    "en": "term: meehaahu"
+  },
+  "डिठो": {
+    "roman": "ditho",
+    "hi": "डिठो का भाव",
+    "en": "term: ditho"
+  },
+  "दुख": {
+    "roman": "dukh",
+    "hi": "दुख का भाव",
+    "en": "term: dukh"
+  },
+  "धातु": {
+    "roman": "dhaatu",
+    "hi": "धातु का भाव",
+    "en": "term: dhaatu"
+  },
+  "वगै": {
+    "roman": "vagai",
+    "hi": "वगै का भाव",
+    "en": "term: vagai"
+  },
+  "लहरी": {
+    "roman": "laharee",
+    "hi": "लहरी का भाव",
+    "en": "term: laharee"
+  },
+  "पिआरिआ": {
+    "roman": "piaaria",
+    "hi": "पिआरिआ का भाव",
+    "en": "term: piaaria"
+  },
+  "खता": {
+    "roman": "khata",
+    "hi": "खता का भाव",
+    "en": "term: khata"
+  },
+  "भी": {
+    "roman": "bhee",
+    "hi": "भी का भाव",
+    "en": "term: bhee"
+  },
+  "लोड़ीऐ": {
+    "roman": "lodeeai",
+    "hi": "लोड़ीऐ का भाव",
+    "en": "term: lodeeai"
+  },
+  "एहा": {
+    "roman": "eha",
+    "hi": "एहा का भाव",
+    "en": "term: eha"
+  },
+  "देइ": {
+    "roman": "dei",
+    "hi": "देइ का भाव",
+    "en": "term: dei"
+  },
+  "गुनहीं": {
+    "roman": "gunheen",
+    "hi": "गुनाहों/पापों से",
+    "en": "with dark sins"
+  },
+  "भर्या": {
+    "roman": "bharyaa",
+    "hi": "भरा हुआ",
+    "en": "brimming and full"
+  },
+  "न": {
+    "roman": "na",
+    "hi": "नहीं",
+    "en": "not / never"
+  },
+  "हाउं": {
+    "roman": "haaun",
+    "hi": "मैं स्वयं",
+    "en": "I myself"
+  },
+  "जाणै": {
+    "roman": "jaanai",
+    "hi": "जानता है",
+    "en": "knows/understands"
+  },
+  "किता": {
+    "roman": "kitaa",
+    "hi": "किया",
+    "en": "done"
+  },
+  "दिखु": {
+    "roman": "dikhu",
+    "hi": "देख",
+    "en": "behold"
+  },
+  "वेखहि": {
+    "roman": "vekhahi",
+    "hi": "देखते हो",
+    "en": "thou seest"
+  },
+  "वेखै": {
+    "roman": "vekhai",
+    "hi": "देखता है",
+    "en": "beholds"
+  },
+  "धौला": {
+    "roman": "dhaulaa",
+    "hi": "सफेद/श्वेत",
+    "en": "white / silver"
+  },
+  "दाढ़ी": {
+    "roman": "daadhee",
+    "hi": "दाढ़ी",
+    "en": "the beard"
+  },
+  "अगु": {
+    "roman": "agu",
+    "hi": "भविष्य/आगे",
+    "en": "the hereafter"
+  }
+}

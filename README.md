@@ -1,14 +1,14 @@
 # रहस्यवादी काव्य महाकोश (Mystic Poetry Archive)
-## The Grand Scholarly Trilingual Compendium of Indian Mystic Traditions (559 Masterpieces)
+## The Grand Scholarly Trilingual Compendium of Indian Mystic Traditions (1,111 Masterpieces)
 
 [![GitHub Pages](https://img.shields.io/badge/Live_Portal-Mystic_Poetry_Hub-f59e0b?style=for-the-badge&logo=github)](https://dg-code-source.github.io/mystic-poetry/)
-[![Total Compositions](https://img.shields.io/badge/Total_Works-559_Masterpieces-10b981?style=for-the-badge)](#)
+[![Total Compositions](https://img.shields.io/badge/Total_Works-1%2C111_Masterpieces-10b981?style=for-the-badge)](#)
 [![Trilingual Dimensions](https://img.shields.io/badge/Trilingual-Devanagari_%7C_Hindi_%7C_English-3b82f6?style=for-the-badge)](#)
 
 भारतीय उपमहाद्वीप के अमर सूफी दर्शन, निर्गुण भक्ति और समतावादी चेतना के महानतम संतों की अमर वाणी का प्रामाणिक, त्रिभाषी और दार्शनिक शोध महाकोश।
 
 🌐 **लाइव इंटरैक्टिव वेब पोर्टल (Live Grand Heritage Hub)**: [https://dg-code-source.github.io/mystic-poetry/](https://dg-code-source.github.io/mystic-poetry/)  
-*(सम्पूर्ण 559 रचनाओं में त्वरित खोज, पद-वार शब्दार्थ, छंदोबद्ध काव्यात्मक अनुवाद, दार्शनिक मीमांसा, डार्क/लाइट थीम एवं बुकमार्क संग्रह सहित)*
+*(सम्पूर्ण 1,111 रचनाओं में त्वरित खोज, पद-वार शब्दार्थ, छंदोबद्ध काव्यात्मक अनुवाद, दार्शनिक मीमांसा, डार्क/लाइट थीम एवं बुकमार्क संग्रह सहित)*
 
 ---
 
@@ -18,7 +18,9 @@
 |---|---|---|---|---|
 | **हज़रत बाबा बुल्ले शाह** | 1680–1757 | पंजाबी सूफी, अद्वैतवाद | **351** | [Bulleh_Shah_Kafian_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Kafian_Trilingual.md) |
 | **संत शिरोमणि रविदास जी** | 1377–1528 | निर्गुण भक्ति, बेगमपुरा समतावाद | **208** | [Sant_Ravidas_Shabad_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Shabad_Trilingual.md) |
-| **कुल संकलन (Archive Total)** | — | — | **559** | **सम्पूर्ण शोध ग्रंथ उपलब्ध** |
+| **बाबा शेख फरीद** | 1173–1266 | चिश्ती सूफी, आदि पंजाबी काव्य | **134** | [Sheikh_Farid_Salok_Trilingual.md](content/sheikh_farid/Sheikh_Farid_Salok_Trilingual.md) |
+| **संत शिरोमणि मीराबाई** | 1498–1547 | माधुर्य भाव, प्रेम-भक्ति | **418** | [Sant_Mirabai_Padavali_Trilingual.md](content/meerabai/Sant_Mirabai_Padavali_Trilingual.md) |
+| **कुल संकलन (Archive Total)** | — | — | **1,111** | **सम्पूर्ण शोध ग्रंथ उपलब्ध** |
 
 ---
 
@@ -33,11 +35,6 @@
    - **117 अमर पद (Padaavali Bhajans)** — माधुर्य, दैन्य, आत्मसमर्पण और सामाजिक क्रांति के 117 कालजयी भजन।
 3. **[Sant_Ravidas_Dohe_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Dohe_Trilingual.md)**:
    - **51 साखी दोहे (Sakhi Couplets)** — 'जनम जात मत पूछिए', 'मन चंगा तो कठौती में गंगा', 'रैदास एक ही नूर ते' जैसे नीति एवं समतावादी दोहे।
-
-### 🌟 गुणवत्ता मानक (Scholarly Quality Mandates)
-- **Zero Devanagari in English Gloss**: अंग्रेज़ी पदच्छेद कोष्ठकों में शून्य देवनागरी अक्षर (100% शुद्ध अंग्रेज़ी प्रतिशब्द)।
-- **Zero Self-Repeats in Hindi Gloss**: हिन्दी पदच्छेद में कोई भी पुनरावृत्त शब्द नहीं (उदा. `शब्द (शब्द)` पूर्णतः वर्जित)।
-- **6-स्तरीय संरचना**: (1) मूल देवनागरी पाठ, (2) हिन्दी पदच्छेद, (3) English Word-by-Word Gloss, (4) काव्यात्मक हिन्दी अनुवाद, (5) Poetic English Translation, (6) दार्शनिक एवं आध्यात्मिक मीमांसा।
 
 ---
 
@@ -55,14 +52,33 @@
 
 ---
 
+## 🌿 भाग 3: बाबा शेख फरीद (Baba Sheikh Farid — 134 Masterpieces)
+
+12वीं-13वीं सदी के महानतम चिश्ती सूफी संत एवं पंजाबी साहित्य के पितामह (Father of Punjabi Literature):
+
+### 📚 त्रिभाषी चिश्ती महाग्रंथ (Trilingual Chishti Sufi Works)
+1. **[Sheikh_Farid_Salok_Trilingual.md](content/sheikh_farid/Sheikh_Farid_Salok_Trilingual.md)** — सम्पूर्ण 130 सलोक (श्री गुरु ग्रंथ साहिब जी, अंग 1377–1384)
+2. **[Sheikh_Farid_Shabad_Trilingual.md](content/sheikh_farid/Sheikh_Farid_Shabad_Trilingual.md)** — 4 पावन शब्द (राग आसा एवं राग सूही)
+
+---
+
+## 🦚 भाग 4: संत शिरोमणि मीराबाई (Sant Mirabai — 418 Masterpieces)
+
+16वीं सदी के भक्ति आंदोलन की अमर प्रेमावतार संत कवयित्री, जिन्होंने राजसी वैभव और कुल-मर्यादाओं को त्यागकर 'गिरधर गोपाल' के चरणों में अखंड समर्पण किया:
+
+### 📚 त्रिभाषी प्रेम-भक्ति महाग्रंथ (Trilingual Bhakti Works)
+1. **[Sant_Mirabai_Padavali_Trilingual.md](content/meerabai/Sant_Mirabai_Padavali_Trilingual.md)** — सम्पूर्ण 418 अमर पद (9 भागों में संकलित राजस्थानी, डिंगल एवं ब्रजभाषा पद)
+
+---
+
 ## 🔮 आगामी विस्तार (Future Mystic Editions)
 
 यह महाकोश एक विस्तारशील मॉड्यूलर आर्किटेक्चर पर आधारित है, जिससे अन्य अमर संतों व ज्ञानियों की वाणी को सहज रूप से जोड़ा जा सके:
 - ☸️ **वेनरेबल अजहन चाह (1918–1992)** — थाई बौद्ध वन परंपरा (Dhamma Teachings)
 - ✍️ **संत कबीर दास (1398–1518)** — साखी, सबद, रमैनी एवं बीजक
 - ੴ **गुरु नानक देव जी (1469–1539)** — जपुजी साहिब, आसा दी वार
-- 🦚 **भक्त मीराबाई (1498–1547)** — माधुर्य भाव भक्ति पद
 - 🪕 **हज़रत अमीर खुसरो (1253–1325)** — हिंदवी दोहे, पहेलियां एवं कव्वालियां
+
 
 ---
 
@@ -77,23 +93,19 @@ mystic-poetry/
 │   └── js/app.js                        # मल्टी-पोएट स्टेट मैनेजमेंट, हैश रूटिंग, क्रॉस-सर्च
 ├── content/                             # संतों एवं सूफियों के प्रामाणिक शोध ग्रंथ
 │   ├── bulleh_shah/                     # बाबा बुल्ले शाह (351 रचनाएं - त्रिभाषी व मूल)
-│   │   ├── Bulleh_Shah_Kafian_Trilingual.md
-│   │   ├── ...
-│   │   └── raw/                         # मूल देवनागरी पाठ फाइलें
 │   ├── sant_ravidas/                    # संत रविदास (208 रचनाएं - 3 सम्पूर्ण त्रिभाषी ग्रंथ)
-│   │   ├── Sant_Ravidas_Shabad_Trilingual.md
-│   │   ├── Sant_Ravidas_Padaavali_Trilingual.md
-│   │   └── Sant_Ravidas_Dohe_Trilingual.md
+│   ├── sheikh_farid/                    # बाबा शेख फरीद (134 रचनाएं - 2 सम्पूर्ण त्रिभाषी ग्रंथ)
+│   │   ├── Sheikh_Farid_Salok_Trilingual.md
+│   │   └── Sheikh_Farid_Shabad_Trilingual.md
+│   ├── meerabai/                        # संत मीराबाई (418 रचनाएं - सम्पूर्ण पदावली)
+│   │   └── Sant_Mirabai_Padavali_Trilingual.md
 │   └── ajahn_chah/                      # अजहन चाह धम्म देशनाएं (Reserved)
 ├── data/                                # वेब डेटाबेस एवं ग्लोबल सर्च इंडेक्स
-│   ├── hub_manifest.js                  # महाकोश का मास्टर कैटलॉग (सभी संतों की मेटाडाटा)
+│   ├── hub_manifest.js                  # महाकोश का मास्टर कैटलॉग (सभी 4 संतों की मेटाडाटा)
 │   ├── bulleh_shah/                     # बुल्ले शाह वेब डेटा, मैनिफेस्ट एवं लेक्सिकॉन
-│   │   ├── manifest.js & kafian_data.js
-│   │   └── ...
 │   ├── sant_ravidas/                    # संत रविदास वेब डेटा, मैनिफेस्ट एवं लेक्सिकॉन
-│   │   ├── ravidas_manifest.js & ravidas_data.js
-│   │   ├── ravidas_data.json
-│   │   └── ...
+│   ├── sheikh_farid/                    # शेख फरीद farid_manifest.js, farid_data.js/json, लेक्सिकॉन
+│   ├── meerabai/                        # मीराबाई meerabai_manifest.js, meerabai_data.js/json, लेक्सिकॉन
 │   └── ajahn_chah/                      # अजहन चाह वेब डेटा स्टोर
 ├── docs/                                # मास्टर कार्य योजनाएं एवं भाषाई वास्तुकला
 │   ├── IMPLEMENTATION_PLAN.md
@@ -101,6 +113,8 @@ mystic-poetry/
 └── scripts/                             # संकलन, लेक्सिकॉन निर्माण एवं सत्यापन उपकरण
     ├── bulleh_shah/                     # बुल्ले शाह निष्कर्षण व पदच्छेद टूल्स
     ├── sant_ravidas/                    # संत रविदास अनुवाद इंजन व सत्यापन सुइट
+    ├── sheikh_farid/                    # शेख फरीद निष्कर्षण, लेक्सिकॉन, अनुवाद व सत्यापन
+    ├── meerabai/                        # मीराबाई निष्कर्षण, लेक्सिकॉन, अनुवाद व सत्यापन
     └── ajahn_chah/                      # अजहन चाह संकलन स्क्रिप्ट्स
 ```
 

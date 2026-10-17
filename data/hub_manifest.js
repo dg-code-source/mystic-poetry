@@ -6,7 +6,7 @@
 window.MYSTIC_POETS_HUB = {
   title: "रहस्यवादी काव्य महाकोश | Mystic Poetry Archive",
   subtitle: "भारतीय उपमहाद्वीप के सूफी, संत एवं रहस्यवादी कवियों का प्रामाणिक त्रिभाषी संकलन",
-  total_compositions: 559,
+  total_compositions: 1111,
   poets: [
     {
       id: "bulleh-shah",
@@ -52,6 +52,45 @@ window.MYSTIC_POETS_HUB = {
         { id: "padaavali", label: "अमर पद (भजन)", count: 117, desc: "प्रभु जी तुम चंदन हम पानी सहित 117 अमर भक्ति पद" },
         { id: "dohe", label: "साखी दोहे", count: 51, desc: "ऐसा चाहूँ राज मैं एवं जाति-विनाश के 51 क्रांतिकारी दोहे" }
       ]
+    },
+    {
+      id: "sheikh-farid",
+      name: "बाबा शेख फरीद",
+      name_en: "Baba Sheikh Farid",
+      era: "1173–1266 ई.",
+      tradition: "चिश्ती सूफी परंपरा एवं आदि पंजाबी काव्य (Chishti Sufi Tradition)",
+      region: "पाकपट्टन, पंजाब (Pakpattan, Punjab)",
+      total_works: 134,
+      emblem: "फ",
+      color: "hsl(165, 80%, 42%)",
+      accent: "rgba(16, 185, 129, 0.15)",
+      quote: "फरीदा जे तू अकलि लतीफु काले लिखु न लेख... आपनड़े गिरीवान महि सिरु नींवां करि देखु ।",
+      quote_en: "Farid, if thou hast refined intellect, write not dark deeds against others; bow thy head into thine own collar and search thine own self.",
+      quote_source: "सलोक 6 (गिरेबान में झांकना)",
+      description: "12वीं-13वीं सदी के महानतम चिश्ती सूफी संत और पंजाबी साहित्य के आदि-कवि। श्री गुरु ग्रंथ साहिब जी में 130 सलोक और 4 शब्द संकलित हैं, जो नश्वरता, आत्म-संयम, क्षमा और परवरदिगार के अनन्य प्रेम का संदेश देते हैं।",
+      genres: [
+        { id: "salok", label: "सलोक", count: 130, desc: "श्री गुरु ग्रंथ साहिब जी के 130 अमर सलोक (अंग 1377-1384)" },
+        { id: "shabad", label: "शब्द", count: 4, desc: "राग आसा एवं राग सूही के 4 पावन शब्द" }
+      ]
+    },
+    {
+      id: "meerabai",
+      name: "संत शिरोमणि मीराबाई",
+      name_en: "Sant Mirabai",
+      era: "1498–1547 ई.",
+      tradition: "माधुर्य भाव / प्रेम-लक्षणा भक्ति (Madhurya Bhakti)",
+      region: "मेवाड़ / वृंदावन / द्वारका (Rajasthan & Gujarat)",
+      total_works: 418,
+      emblem: "मी",
+      color: "hsl(330, 85%, 60%)",
+      accent: "rgba(244, 63, 94, 0.15)",
+      quote: "मेरे तो गिरधर गोपाल दूसरो न कोई... जाके सिर मोर मुकुट मेरो पति सोई ।",
+      quote_en: "Mine is only Girdhar Gopal, none other... He who wears the peacock crown is my true Lord.",
+      quote_source: "अमर पद (गिरधर गोपाल)",
+      description: "16वीं सदी की अमर प्रेमावतार संत कवयित्री, जिन्होंने राजसी वैभव, सामाजिक विषमताओं और रूढ़िवादी कुल-मर्यादाओं को त्यागकर 'गिरधर नागर' के चरणों में संपूर्ण समर्पण किया और प्रेम-भक्ति की अमर मंदाकिनी प्रवाहित की।",
+      genres: [
+        { id: "padaavali", label: "अमर पद", count: 418, desc: "राजस्थानी, डिंगल एवं ब्रजभाषा के 418 अमर भक्ति पद" }
+      ]
     }
   ],
   future_poets: [
@@ -74,15 +113,6 @@ window.MYSTIC_POETS_HUB = {
       highlight: "जपुजी साहिब, आसा दी वार, सिद्ध गोष्ठ"
     },
     {
-      name: "भक्त शिरोमणि मीराबाई",
-      name_en: "Mirabai",
-      era: "1498–1547 ई.",
-      tradition: "माधुर्य भाव प्रेम-भक्ति",
-      region: "मेवाड़ / वृंदावन / द्वारका",
-      emblem: "म",
-      highlight: "राग गोविंद, नरसी जी रो माहेरो, पद"
-    },
-    {
       name: "हज़रत अमीर खुसरो",
       name_en: "Amir Khusrau",
       era: "1253–1325 ई.",
@@ -93,3 +123,4 @@ window.MYSTIC_POETS_HUB = {
     }
   ]
 };
+

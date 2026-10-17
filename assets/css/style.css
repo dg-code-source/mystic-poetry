@@ -1437,6 +1437,14 @@ body {
   border-top: 4px solid var(--ravidas-primary);
 }
 
+.poet-card.farid-theme {
+  border-top: 4px solid hsl(165, 80%, 42%);
+}
+
+.poet-card.meerabai-theme {
+  border-top: 4px solid hsl(330, 85%, 60%);
+}
+
 .poet-card-header {
   display: flex;
   align-items: flex-start;
@@ -1628,6 +1636,26 @@ body {
 .poet-card.ravidas-theme .enter-archive-btn:hover {
   background: linear-gradient(135deg, var(--ravidas-glow), var(--ravidas-primary));
   box-shadow: 0 8px 24px var(--ravidas-shadow);
+}
+
+.poet-card.farid-theme .enter-archive-btn {
+  background: linear-gradient(135deg, hsl(165, 80%, 42%), hsl(165, 90%, 30%));
+  color: #fff;
+}
+
+.poet-card.farid-theme .enter-archive-btn:hover {
+  background: linear-gradient(135deg, hsl(165, 80%, 50%), hsl(165, 80%, 38%));
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.4);
+}
+
+.poet-card.meerabai-theme .enter-archive-btn {
+  background: linear-gradient(135deg, hsl(330, 85%, 60%), hsl(330, 85%, 45%));
+  color: #fff;
+}
+
+.poet-card.meerabai-theme .enter-archive-btn:hover {
+  background: linear-gradient(135deg, hsl(330, 85%, 68%), hsl(330, 85%, 52%));
+  box-shadow: 0 8px 24px rgba(244, 63, 94, 0.4);
 }
 
 /* Future Poets Section */
@@ -2140,4 +2168,48 @@ body[data-poet="sant-ravidas"] .translation-verse.english-verse {
 [data-theme="light"] body[data-poet="sant-ravidas"] .poem-title-en {
   color: var(--ravidas-text);
   font-weight: 700;
+}
+
+/* Baba Sheikh Farid Theme */
+[data-poet="sheikh-farid"] #sidebar-poet-emblem {
+  color: hsl(165, 80%, 42%) !important;
+}
+[data-poet="sheikh-farid"] .tab-btn.active {
+  background: linear-gradient(135deg, hsl(165, 80%, 42%), hsl(165, 90%, 30%));
+  color: #ffffff !important;
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.35);
+}
+[data-poet="sheikh-farid"] .kafi-genre-pill,
+[data-poet="sheikh-farid"] .genre-badge {
+  color: hsl(165, 80%, 42%);
+  background: rgba(16, 185, 129, 0.12);
+  border-color: rgba(16, 185, 129, 0.3);
+}
+[data-poet="sheikh-farid"] .kafi-item.active {
+  border-color: rgba(16, 185, 129, 0.4);
+}
+[data-poet="sheikh-farid"] .kafi-item.active .kafi-item-title {
+  color: hsl(165, 80%, 42%);
+}
+
+/* Sant Mirabai Theme */
+[data-poet="meerabai"] #sidebar-poet-emblem {
+  color: hsl(330, 85%, 60%) !important;
+}
+[data-poet="meerabai"] .tab-btn.active {
+  background: linear-gradient(135deg, hsl(330, 85%, 60%), hsl(330, 85%, 45%));
+  color: #ffffff !important;
+  box-shadow: 0 0 10px rgba(244, 63, 94, 0.35);
+}
+[data-poet="meerabai"] .kafi-genre-pill,
+[data-poet="meerabai"] .genre-badge {
+  color: hsl(330, 85%, 60%);
+  background: rgba(244, 63, 94, 0.12);
+  border-color: rgba(244, 63, 94, 0.3);
+}
+[data-poet="meerabai"] .kafi-item.active {
+  border-color: rgba(244, 63, 94, 0.4);
+}
+[data-poet="meerabai"] .kafi-item.active .kafi-item-title {
+  color: hsl(330, 85%, 60%);
 }
