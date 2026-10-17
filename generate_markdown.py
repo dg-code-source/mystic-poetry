@@ -4,9 +4,9 @@ import re
 import unicodedata
 
 urls = [
-    ('भाग 1 (काफ़ियां 1–50)', 'https://hindi-kavita.com/HindiKafianBabaBullheShah.php', 1, 50),
-    ('भाग 2 (काफ़ियां 51–100)', 'https://hindi-kavita.com/HindiKafianBabaBullheShahA.php', 51, 100),
-    ('भाग 3 (काफ़ियां 101–160)', 'https://hindi-kavita.com/HindiKafianBabaBullheShahB.php', 101, 160)
+    ('भाग 1 (काफ़ियां 1–50)', '', 1, 50),
+    ('भाग 2 (काफ़ियां 51–100)', '', 51, 100),
+    ('भाग 3 (काफ़ियां 101–160)', '', 101, 160)
 ]
 
 def gfm_slug(text):
@@ -65,10 +65,7 @@ for section_name, url, start_num, end_num in urls:
 md = []
 md.append('# बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां (1–160)')
 md.append('## Baba Bulleh Shah : Complete Kafian in Hindi\n')
-md.append('> **स्रोत (Sources):**  ')
-md.append('> 1. [HindiKafianBabaBullheShah.php (1–50)](https://hindi-kavita.com/HindiKafianBabaBullheShah.php)  ')
-md.append('> 2. [HindiKafianBabaBullheShahA.php (51–100)](https://hindi-kavita.com/HindiKafianBabaBullheShahA.php)  ')
-md.append('> 3. [HindiKafianBabaBullheShahB.php (101–160)](https://hindi-kavita.com/HindiKafianBabaBullheShahB.php)\n')
+md.append('> **प्रमाणिक संकलन:** बाबा बुल्ले शाह जी की 160 काफ़ियों का देवनागरी संकलन\n')
 md.append('---\n')
 md.append('## विषय-सूची (Table of Contents)\n')
 
@@ -83,7 +80,6 @@ md.append('---\n')
 
 for sec_name, sec_url, k_list in sections:
     md.append(f'# {sec_name}\n')
-    md.append(f'स्रोत: [{sec_url}]({sec_url})\n')
     for num, full_title, t_text, poem in k_list:
         md.append(f'## {full_title}\n')
         md.append(poem)

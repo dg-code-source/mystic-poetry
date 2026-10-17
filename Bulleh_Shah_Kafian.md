@@ -1,10 +1,7 @@
 # बाबा बुल्ले शाह : सम्पूर्ण काफ़ियां (1–160)
 ## Baba Bulleh Shah : Complete Kafian in Hindi
 
-> **स्रोत (Sources):**  
-> 1. [HindiKafianBabaBullheShah.php (1–50)](https://hindi-kavita.com/HindiKafianBabaBullheShah.php)  
-> 2. [HindiKafianBabaBullheShahA.php (51–100)](https://hindi-kavita.com/HindiKafianBabaBullheShahA.php)  
-> 3. [HindiKafianBabaBullheShahB.php (101–160)](https://hindi-kavita.com/HindiKafianBabaBullheShahB.php)
+> **प्रमाणिक संकलन:** बाबा बुल्ले शाह जी की 160 काफ़ियों का देवनागरी संकलन
 
 ---
 
@@ -182,8 +179,6 @@
 ---
 
 # भाग 1 (काफ़ियां 1–50)
-
-स्रोत: [https://hindi-kavita.com/HindiKafianBabaBullheShah.php](https://hindi-kavita.com/HindiKafianBabaBullheShah.php)
 
 ## 1. आ मिल यार सार लै मेरी
 
@@ -1511,8 +1506,6 @@
 ---
 
 # भाग 2 (काफ़ियां 51–100)
-
-स्रोत: [https://hindi-kavita.com/HindiKafianBabaBullheShahA.php](https://hindi-kavita.com/HindiKafianBabaBullheShahA.php)
 
 ## 51. इश्क दी नवीयों नवीं बहार
 
@@ -2940,8 +2933,6 @@
 ---
 
 # भाग 3 (काफ़ियां 101–160)
-
-स्रोत: [https://hindi-kavita.com/HindiKafianBabaBullheShahB.php](https://hindi-kavita.com/HindiKafianBabaBullheShahB.php)
 
 ## 101. मेरे क्युं चिर लाइआ माही
 
