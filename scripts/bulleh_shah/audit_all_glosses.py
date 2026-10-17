@@ -2,8 +2,10 @@ import sys
 import json
 import re
 
+import os
 sys.stdout.reconfigure(encoding='utf-8')
-data = json.load(open('data/kafian_data.json', encoding='utf-8'))
+data_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'bulleh_shah', 'kafian_data.json')
+data = json.load(open(data_path, encoding='utf-8'))
 print(f"Total keys in dataStore: {len(data)}")
 
 issues_by_genre = {}

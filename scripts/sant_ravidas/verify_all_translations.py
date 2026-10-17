@@ -8,9 +8,9 @@ sys.stdout.reconfigure(encoding='utf-8')
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 files = [
-    ("Sant_Ravidas_Shabad_Trilingual.md", "शब्द", 40),
-    ("Sant_Ravidas_Padaavali_Trilingual.md", "पद", 117),
-    ("Sant_Ravidas_Dohe_Trilingual.md", "दोहा", 51),
+    (os.path.join("content", "sant_ravidas", "Sant_Ravidas_Shabad_Trilingual.md"), "शब्द", 40),
+    (os.path.join("content", "sant_ravidas", "Sant_Ravidas_Padaavali_Trilingual.md"), "पद", 117),
+    (os.path.join("content", "sant_ravidas", "Sant_Ravidas_Dohe_Trilingual.md"), "दोहा", 51),
 ]
 
 all_passed = True

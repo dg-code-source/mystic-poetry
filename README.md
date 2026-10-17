@@ -16,8 +16,8 @@
 
 | महाकवि (Mystic Poet) | काल (Era) | परंपरा (Tradition) | कुल रचनाएं (Works) | त्रिभाषी शोध ग्रंथ (Trilingual Edition) |
 |---|---|---|---|---|
-| **हज़रत बाबा बुल्ले शाह** | 1680–1757 | पंजाबी सूफी, अद्वैतवाद | **351** | [Bulleh_Shah_Kafian_Trilingual.md](Bulleh_Shah_Kafian_Trilingual.md) |
-| **संत शिरोमणि रविदास जी** | 1377–1528 | निर्गुण भक्ति, बेगमपुरा समतावाद | **208** | [Sant_Ravidas_Shabad_Trilingual.md](Sant_Ravidas_Shabad_Trilingual.md) |
+| **हज़रत बाबा बुल्ले शाह** | 1680–1757 | पंजाबी सूफी, अद्वैतवाद | **351** | [Bulleh_Shah_Kafian_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Kafian_Trilingual.md) |
+| **संत शिरोमणि रविदास जी** | 1377–1528 | निर्गुण भक्ति, बेगमपुरा समतावाद | **208** | [Sant_Ravidas_Shabad_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Shabad_Trilingual.md) |
 | **कुल संकलन (Archive Total)** | — | — | **559** | **सम्पूर्ण शोध ग्रंथ उपलब्ध** |
 
 ---
@@ -27,11 +27,11 @@
 मध्यकालीन भक्ति आंदोलन के युगदृष्टा, बेगमपुरा की समतावादी चेतना के प्रवर्तक एवं निर्गुण भक्ति के प्रकाश-स्तंभ संत रविदास जी की समस्त 208 रचनाओं का संपूर्ण त्रिभाषी संस्करण:
 
 ### 📚 त्रिभाषी शोध महाग्रंथ (Standalone Trilingual Masterpieces)
-1. **[Sant_Ravidas_Shabad_Trilingual.md](Sant_Ravidas_Shabad_Trilingual.md)**:
+1. **[Sant_Ravidas_Shabad_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Shabad_Trilingual.md)**:
    - **40 आदि ग्रंथ शब्द (Sri Guru Granth Sahib Ji)** — राग सोरठ, राग धनाश्री, राग आसा, राग केदारा, राग मारू, राग गउड़ी, राग बिलावल, राग मलार आदि में निबद्ध 40 पवित्र शब्द।
-2. **[Sant_Ravidas_Padaavali_Trilingual.md](Sant_Ravidas_Padaavali_Trilingual.md)**:
+2. **[Sant_Ravidas_Padaavali_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Padaavali_Trilingual.md)**:
    - **117 अमर पद (Padaavali Bhajans)** — माधुर्य, दैन्य, आत्मसमर्पण और सामाजिक क्रांति के 117 कालजयी भजन।
-3. **[Sant_Ravidas_Dohe_Trilingual.md](Sant_Ravidas_Dohe_Trilingual.md)**:
+3. **[Sant_Ravidas_Dohe_Trilingual.md](content/sant_ravidas/Sant_Ravidas_Dohe_Trilingual.md)**:
    - **51 साखी दोहे (Sakhi Couplets)** — 'जनम जात मत पूछिए', 'मन चंगा तो कठौती में गंगा', 'रैदास एक ही नूर ते' जैसे नीति एवं समतावादी दोहे।
 
 ### 🌟 गुणवत्ता मानक (Scholarly Quality Mandates)
@@ -46,18 +46,19 @@
 18वीं सदी के महानतम पंजाबी सूफी संत, जिन्होंने बाह्य धार्मिक पाखंड और सामाजिक अहंकार को ध्वस्त कर 'वहदत-उल-वुजूद' (अद्वैत) का अमर शंखनाद किया:
 
 ### 📚 त्रिभाषी सूफी महाग्रंथ (Trilingual Sufi Works)
-1. **[Bulleh_Shah_Kafian_Trilingual.md](Bulleh_Shah_Kafian_Trilingual.md)** — सम्पूर्ण 160 काफ़ियां
-2. **[Bulleh_Shah_Dohre_Trilingual.md](Bulleh_Shah_Dohre_Trilingual.md)** — सम्पूर्ण 56 दोहरे
-3. **[Bulleh_Shah_Baranmah_Trilingual.md](Bulleh_Shah_Baranmah_Trilingual.md)** — बारहमाह (12 मास)
-4. **[Bulleh_Shah_Athwara_Trilingual.md](Bulleh_Shah_Athwara_Trilingual.md)** — अठवारा (सप्ताह के 7 दिन)
-5. **[Bulleh_Shah_Gandhan_Trilingual.md](Bulleh_Shah_Gandhan_Trilingual.md)** — 40 गन्धां (आध्यात्मिक विवाह की गाँठें)
-6. **[Bulleh_Shah_Siharfian_Trilingual.md](Bulleh_Shah_Siharfian_Trilingual.md)** — सीहरफ़ियां (3 चक्र, 76 पद)
+1. **[Bulleh_Shah_Kafian_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Kafian_Trilingual.md)** — सम्पूर्ण 160 काफ़ियां
+2. **[Bulleh_Shah_Dohre_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Dohre_Trilingual.md)** — सम्पूर्ण 56 दोहरे
+3. **[Bulleh_Shah_Baranmah_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Baranmah_Trilingual.md)** — बारहमाह (12 मास)
+4. **[Bulleh_Shah_Athwara_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Athwara_Trilingual.md)** — अठवारा (सप्ताह के 7 दिन)
+5. **[Bulleh_Shah_Gandhan_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Gandhan_Trilingual.md)** — 40 गन्धां (आध्यात्मिक विवाह की गाँठें)
+6. **[Bulleh_Shah_Siharfian_Trilingual.md](content/bulleh_shah/Bulleh_Shah_Siharfian_Trilingual.md)** — सीहरफ़ियां (3 चक्र, 76 पद)
 
 ---
 
 ## 🔮 आगामी विस्तार (Future Mystic Editions)
 
-यह महाकोश एक मॉड्यूलर आर्किटेक्चर पर आधारित है, जिससे अन्य अमर संतों की वाणी को सहज रूप से जोड़ा जा सके:
+यह महाकोश एक विस्तारशील मॉड्यूलर आर्किटेक्चर पर आधारित है, जिससे अन्य अमर संतों व ज्ञानियों की वाणी को सहज रूप से जोड़ा जा सके:
+- ☸️ **वेनरेबल अजहन चाह (1918–1992)** — थाई बौद्ध वन परंपरा (Dhamma Teachings)
 - ✍️ **संत कबीर दास (1398–1518)** — साखी, सबद, रमैनी एवं बीजक
 - ੴ **गुरु नानक देव जी (1469–1539)** — जपुजी साहिब, आसा दी वार
 - 🦚 **भक्त मीराबाई (1498–1547)** — माधुर्य भाव भक्ति पद
@@ -67,24 +68,40 @@
 
 ## 💻 तकनीकी संरचना एवं निर्देशिका (Architecture)
 
-```
+```text
 mystic-poetry/
 ├── index.html                           # Grand Heritage Hub एवं Multi-Poet Web Reader
 ├── README.md                            # परियोजना का विस्तृत शोध दस्तावेज़
 ├── assets/
 │   ├── css/style.css                    # प्रीमियम डार्क/गोल्ड/सैफ्रन सूफी-भक्ति डिज़ाइन सिस्टम
 │   └── js/app.js                        # मल्टी-पोएट स्टेट मैनेजमेंट, हैश रूटिंग, क्रॉस-सर्च
-├── data/
-│   ├── hub_manifest.js                  # महाकोश का मास्टर कैटलॉग (दोनों संतों की मेटाडाटा)
-│   ├── manifest.js & kafian_data.js     # बुल्ले शाह (351 रचनाएं)
-│   └── sant_ravidas/
-│       ├── ravidas_manifest.js          # संत रविदास (208 रचनाएं - मैनिफेस्ट)
-│       ├── ravidas_data.js              # संत रविदास (208 रचनाएं - वेब डिक्शनरी)
-│       ├── ravidas_data.json            # संत रविदास (1.66 MB संरचित JSON डेटाबेस)
-│       ├── ravidas_lexicon.json         # 4,379 प्रमाणित पदच्छेद लेक्सिकॉन (0 त्रुटी)
-│       └── raw/                         # मूल पाठ (shabad.json, dohe.json, padaavali.json)
-└── scripts/
-    └── sant_ravidas/                    # लेक्सिकॉन निर्माण, पदच्छेद इंजन एवं संकलन स्क्रिप्ट्स
+├── content/                             # संतों एवं सूफियों के प्रामाणिक शोध ग्रंथ
+│   ├── bulleh_shah/                     # बाबा बुल्ले शाह (351 रचनाएं - त्रिभाषी व मूल)
+│   │   ├── Bulleh_Shah_Kafian_Trilingual.md
+│   │   ├── ...
+│   │   └── raw/                         # मूल देवनागरी पाठ फाइलें
+│   ├── sant_ravidas/                    # संत रविदास (208 रचनाएं - 3 सम्पूर्ण त्रिभाषी ग्रंथ)
+│   │   ├── Sant_Ravidas_Shabad_Trilingual.md
+│   │   ├── Sant_Ravidas_Padaavali_Trilingual.md
+│   │   └── Sant_Ravidas_Dohe_Trilingual.md
+│   └── ajahn_chah/                      # अजहन चाह धम्म देशनाएं (Reserved)
+├── data/                                # वेब डेटाबेस एवं ग्लोबल सर्च इंडेक्स
+│   ├── hub_manifest.js                  # महाकोश का मास्टर कैटलॉग (सभी संतों की मेटाडाटा)
+│   ├── bulleh_shah/                     # बुल्ले शाह वेब डेटा, मैनिफेस्ट एवं लेक्सिकॉन
+│   │   ├── manifest.js & kafian_data.js
+│   │   └── ...
+│   ├── sant_ravidas/                    # संत रविदास वेब डेटा, मैनिफेस्ट एवं लेक्सिकॉन
+│   │   ├── ravidas_manifest.js & ravidas_data.js
+│   │   ├── ravidas_data.json
+│   │   └── ...
+│   └── ajahn_chah/                      # अजहन चाह वेब डेटा स्टोर
+├── docs/                                # मास्टर कार्य योजनाएं एवं भाषाई वास्तुकला
+│   ├── IMPLEMENTATION_PLAN.md
+│   └── TRANSLATION_PLAN.md
+└── scripts/                             # संकलन, लेक्सिकॉन निर्माण एवं सत्यापन उपकरण
+    ├── bulleh_shah/                     # बुल्ले शाह निष्कर्षण व पदच्छेद टूल्स
+    ├── sant_ravidas/                    # संत रविदास अनुवाद इंजन व सत्यापन सुइट
+    └── ajahn_chah/                      # अजहन चाह संकलन स्क्रिप्ट्स
 ```
 
 ---

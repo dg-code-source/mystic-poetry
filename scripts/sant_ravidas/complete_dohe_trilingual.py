@@ -20,7 +20,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RAW_PATH = os.path.join(BASE_DIR, "data", "sant_ravidas", "raw", "dohe.json")
-OUTPUT_MD = os.path.join(BASE_DIR, "Sant_Ravidas_Dohe_Trilingual.md")
+OUTPUT_MD = os.path.join(BASE_DIR, "content", "sant_ravidas", "Sant_Ravidas_Dohe_Trilingual.md")
 
 sys.path.append(os.path.join(BASE_DIR, "scripts", "sant_ravidas"))
 from ravidas_gloss_engine import generate_ravidas_gloss
