@@ -7,6 +7,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 lines = open('Sant_Ravidas_Padaavali_Trilingual.md', encoding='utf-8').readlines()
 en_errs = []
 hi_errs = []
+placeholder_errs = []
 en_count = 0
 hi_count = 0
 
@@ -22,6 +23,10 @@ for idx, l in enumerate(lines, 1):
         repeats = re.findall(r'([\u0900-\u097F]+)\s*\(\1\)', l)
         if repeats:
             hi_errs.append((idx, repeats, l[:100]))
+    elif 'संत रविदास जी इस अमर पद में प्रभु-प्रेम की अनन्यता' in l:
+        placeholder_errs.append((idx, 'Generic Hindi placeholder found', l[:100]))
+    elif 'In this celestial bhajan, Sant Ravidas guides the seeker' in l:
+        placeholder_errs.append((idx, 'Generic English placeholder found', l[:100]))
 
 print(f"Total English gloss lines audited: {en_count}")
 print(f"Devanagari errors in English gloss: {len(en_errs)}")
@@ -35,5 +40,10 @@ if hi_errs:
     for item in hi_errs[:5]:
         print(f"  Line {item[0]}: {item[1]} in {item[2]}")
 
-if len(en_errs) == 0 and len(hi_errs) == 0:
+print(f"Generic placeholders found: {len(placeholder_errs)}")
+if placeholder_errs:
+    for item in placeholder_errs[:5]:
+        print(f"  Line {item[0]}: {item[1]} in {item[2]}")
+
+if len(en_errs) == 0 and len(hi_errs) == 0 and len(placeholder_errs) == 0:
     print("SUCCESS: Sant_Ravidas_Padaavali_Trilingual.md has ZERO errors across all 117 Padas!")

@@ -22,6 +22,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 sys.path.append(os.path.join(BASE_DIR, "scripts", "sant_ravidas"))
 
 from ravidas_gloss_engine import generate_ravidas_gloss
+from dohe_translations_data import DOHE_DATA
+from shabad_translations_data import SHABAD_DATA
+from padaavali_translations_data import PADAAVALI_DATA
 
 RAW_SHABAD = os.path.join(BASE_DIR, "data", "sant_ravidas", "raw", "shabad.json")
 RAW_DOHE = os.path.join(BASE_DIR, "data", "sant_ravidas", "raw", "dohe.json")
@@ -35,10 +38,13 @@ shabads = json.load(open(RAW_SHABAD, encoding='utf-8'))
 dohe = json.load(open(RAW_DOHE, encoding='utf-8'))
 padas = json.load(open(RAW_PADA, encoding='utf-8'))
 
-# Import SHABAD_META
-from complete_shabad_trilingual import SHABAD_META, generate_shabad_commentary
-from complete_dohe_trilingual import DOHE_THEMES
-from complete_padaavali_trilingual import ICONIC_PADAS
+assert len(shabads) == 40, f"Expected 40 shabads, got {len(shabads)}"
+assert len(dohe) == 51, f"Expected 51 dohe, got {len(dohe)}"
+assert len(padas) == 117, f"Expected 117 padas, got {len(padas)}"
+
+assert len(SHABAD_DATA) == 40, f"Expected 40 in SHABAD_DATA, got {len(SHABAD_DATA)}"
+assert len(DOHE_DATA) == 51, f"Expected 51 in DOHE_DATA, got {len(DOHE_DATA)}"
+assert len(PADAAVALI_DATA) == 117, f"Expected 117 in PADAAVALI_DATA, got {len(PADAAVALI_DATA)}"
 
 all_items = []
 manifest = []
@@ -48,7 +54,10 @@ for item in shabads:
     s_id = item["id"]
     title = item["title"]
     clean_t = re.sub(r'^\d+\.\s*', '', title).strip()
-    meta = SHABAD_META.get(s_id, {"raga": "राग गउड़ी", "ang": 345, "theme": clean_t})
+    s_info = SHABAD_DATA[s_id]
+    raga = s_info.get("raga", "राग गउड़ी")
+    ang = s_info.get("ang", 345)
+    theme = s_info.get("theme", clean_t)
     lines = item.get("lines", [])
     
     hi_glosses = []
@@ -59,7 +68,9 @@ for item in shabads:
         hi_glosses.append(hg)
         en_glosses.append(eg)
         
-    hi_v, en_v, comm = generate_shabad_commentary(s_id, meta, lines)
+    hi_v = s_info["hi_v"].strip()
+    en_v = s_info["en_v"].strip()
+    comm = s_info["comm"].strip()
     uid = f"ravidas_shabad_{s_id}"
     
     entry = {
@@ -70,9 +81,9 @@ for item in shabads:
         "genre_label": "आदि ग्रंथ शब्द",
         "id": s_id,
         "title": f"शब्द {s_id}: {clean_t}",
-        "raga": meta["raga"],
-        "ang": meta["ang"],
-        "theme": meta["theme"],
+        "raga": raga,
+        "ang": ang,
+        "theme": theme,
         "first_line": lines[0] if lines else "",
         "lines": lines,
         "hindi_gloss": hi_glosses,
@@ -90,9 +101,9 @@ for item in shabads:
         "genre_label": "आदि ग्रंथ शब्द",
         "id": s_id,
         "title": f"शब्द {s_id}: {clean_t}",
-        "raga": meta["raga"],
-        "ang": meta["ang"],
-        "theme": meta["theme"],
+        "raga": raga,
+        "ang": ang,
+        "theme": theme,
         "first_line": lines[0] if lines else ""
     })
 
@@ -105,18 +116,11 @@ for item in dohe:
     first_l = lines[0] if lines else f"दोहा {d_id}"
     clean_fl = re.sub(r'[\d॥।]+$', '', first_l).strip()
     
-    theme_info = DOHE_THEMES.get(
-        d_id,
-        (f"आत्म-ज्ञान, सदाचार एवं प्रभु-भक्ति (दोहा {d_id})",
-         f"Self-Realization & Devotion (Couplet {d_id})",
-         f"""संत रविदास जी इस अमर दोहे में उपदेश देते हैं कि मनुष्य को सांसारिक अहंकार त्यागकर
-सच्चे हृदय से प्रभु की आराधना करनी चाहिए और समस्त मानवता के साथ समता का व्यवहार करना चाहिए।""",
-         f"""In this immortal sakhi, Sant Ravidas guides humanity to shed transient ego
-and embrace the eternal light of divine contemplation and universal love.""",
-         f"""### दार्शनिक विश्लेषण (Philosophical Commentary)
-1. **केंद्रीय संदेश**:
-   संत रविदास जी बाह्य आडंबरों, कुल-अभिमान और अंधविश्वास का खंडन कर अंतरात्मा की शुद्धि और निष्काम कर्म पर बल देते हैं।""")
-    )
+    d_info = DOHE_DATA[d_id]
+    theme_hi = d_info.get("theme_hi", f"आत्म-ज्ञान एवं भक्ति (दोहा {d_id})")
+    hi_v = d_info["hi_v"].strip()
+    en_v = d_info["en_v"].strip()
+    comm = d_info["comm"].strip()
     
     hi_glosses = []
     en_glosses = []
@@ -137,14 +141,14 @@ and embrace the eternal light of divine contemplation and universal love.""",
         "title": f"दोहा {d_id}: {clean_fl}",
         "raga": "",
         "ang": None,
-        "theme": theme_info[0],
+        "theme": theme_hi,
         "first_line": clean_fl,
         "lines": lines,
         "hindi_gloss": hi_glosses,
         "english_gloss": en_glosses,
-        "hindi_translation": theme_info[2],
-        "english_translation": theme_info[3],
-        "commentary": theme_info[4]
+        "hindi_translation": hi_v,
+        "english_translation": en_v,
+        "commentary": comm
     }
     all_items.append(entry)
     manifest.append({
@@ -157,7 +161,7 @@ and embrace the eternal light of divine contemplation and universal love.""",
         "title": f"दोहा {d_id}: {clean_fl}",
         "raga": "",
         "ang": None,
-        "theme": theme_info[0],
+        "theme": theme_hi,
         "first_line": clean_fl
     })
 
@@ -170,18 +174,20 @@ for item in padas:
     clean_t = re.sub(r'[\d॥।]+$', '', title).strip()
     lines = item.get("lines", [])
     
-    theme_info = ICONIC_PADAS.get(
-        p_id,
-        (f"आत्म-निवेदन, निर्गुण भक्ति एवं आत्म-साक्षात्कार (पद {p_id})",
-         f"Self-Surrender & Divine Contemplation (Pad {p_id})",
-         f"""संत रविदास जी इस अमर पद में प्रभु-प्रेम की अनन्यता, मन की शुद्धि और
-संसार की नश्वरता का बोध कराते हुए पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।""",
-         f"""In this celestial bhajan, Sant Ravidas guides the seeker to dissolve worldly illusion
-and merge into the pristine ocean of divine light and boundless compassion.""",
-         f"""### दार्शनिक विश्लेषण (Philosophical Commentary)
-1. **मूल आध्यात्मिक संदेश**:
-   संत रविदास जी बाह्य आडंबर, जातिगत अहंकार और कर्मकांडी अंधविश्वास को त्यागकर अंतःकरण की पवित्रता और प्रभु-नाम के अनन्य सिमरन पर बल देते हैं।""")
-    )
+    p_info = PADAAVALI_DATA[p_id]
+    theme_hi = p_info.get("theme_hi", f"आत्म-निवेदन एवं हरि-भक्ति (पद {p_id})")
+    hi_v = p_info["hi_v"].strip()
+    en_v = p_info["en_v"].strip()
+    comm = p_info["comm"].strip()
+    
+    # Try to extract Raga if present in lines
+    raga_match = None
+    for l in lines:
+        m = re.search(r'\((राग [^)]+)\)', l)
+        if m:
+            raga_match = m.group(1)
+            break
+    raga_str = raga_match if raga_match else "राग आधारित"
     
     hi_glosses = []
     en_glosses = []
@@ -200,16 +206,16 @@ and merge into the pristine ocean of divine light and boundless compassion.""",
         "genre_label": "अमर पद",
         "id": p_id,
         "title": f"पद {p_id}: {clean_t}",
-        "raga": "शास्त्रीय राग",
+        "raga": raga_str,
         "ang": None,
-        "theme": theme_info[0],
+        "theme": theme_hi,
         "first_line": lines[0] if lines else clean_t,
         "lines": lines,
         "hindi_gloss": hi_glosses,
         "english_gloss": en_glosses,
-        "hindi_translation": theme_info[2],
-        "english_translation": theme_info[3],
-        "commentary": theme_info[4]
+        "hindi_translation": hi_v,
+        "english_translation": en_v,
+        "commentary": comm
     }
     all_items.append(entry)
     manifest.append({
@@ -220,9 +226,9 @@ and merge into the pristine ocean of divine light and boundless compassion.""",
         "genre_label": "अमर पद",
         "id": p_id,
         "title": f"पद {p_id}: {clean_t}",
-        "raga": "शास्त्रीय राग",
+        "raga": raga_str,
         "ang": None,
-        "theme": theme_info[0],
+        "theme": theme_hi,
         "first_line": lines[0] if lines else clean_t
     })
 

@@ -11,42 +11,42 @@
 | 2 | [दूधु त बछरै थनहु बिटारिओ](#shabad-2) | राग गूजरी (Gujri) | Ang 525 | आंतरिक पूजा: बाह्य आडंबर का निषेध (True Inner Adoration vs Rituals) |
 | 3 | [माटी को पुतरा कैसे नचतु है](#shabad-3) | राग आसा (Asa) | Ang 487 | माटी का पुतला: संसार की मायावी बाजी (The Puppet of Clay and the Divine Puppeteer) |
 | 4 | [मेरी संगति पोच सोच दिनु राती](#shabad-4) | राग गउड़ी (Gauri) | Ang 345 | सत्संगति की महिमा (The Transforming Grace of Holy Fellowship) |
-| 5 | [नामु तेरो आरती मजनु मुरारे](#shabad-5) | राग आसा (Asa) | Ang 487 | हरि-प्रेम की अनन्य डोर (The Unbreakable Bond of Divine Love) |
-| 6 | [तोही मोही मोही तोही अंतरु कैसा](#shabad-6) | राग धनासरी (Dhanasri) | Ang 694 | आरती: नाम ही दीपक, नाम ही बाती (Cosmic Adoration through the Sacred Name) |
-| 7 | [तुम चंदन हम इरंड बापुरे संगि तुमारे बासा](#shabad-7) | राग सोरठि (Sorath) | Ang 657 | जब हम होते तब तू नाही (Ego Extinction: When I Am, Thou Art Not) |
-| 8 | [घट अवघट डूगर घणा इकु निरगुणु बैलु हमार](#shabad-8) | राग मारू (Maru) | Ang 1106 | ऐसी लाल तुझ बिनु कउनु करै (Cherisher of the Lowly: The Supreme Liberator) |
-| 9 | [कूपु भरिओ जैसे दादिरा कछु देसु बिदेसु न बूझ](#shabad-9) | राग गउड़ी बैरागणि (Gauri Bairagani) | Ang 345 | संसार की क्षणभंगुरता (The Transience of Worldly Life) |
-| 10 | [सतजुगि सतु तेता जगी दुआपरि पूजाचार](#shabad-10) | राग गउड़ी बैरागणि (Gauri Bairagani) | Ang 346 | अज्ञान की नींद से जागो (Awakening from the Slumber of Delusion) |
-| 11 | [म्रिग मीन भ्रिंग पतंग कुंचर एक दोख बिनास](#shabad-11) | राग आसा (Asa) | Ang 487 | सतगुरु की कृपा से भवसागर पार (Crossing the Cosmic Ocean by Guru's Grace) |
-| 12 | [संत तुझी तनु संगति प्रान](#shabad-12) | राग आसा (Asa) | Ang 488 | जन्म-मरण का चक्र और आत्म-साक्षात्कार (Transmigration and Direct Self-Realization) |
-| 13 | [कहा भइओ जउ तनु भइओ छिनु छिनु](#shabad-13) | राग आसा (Asa) | Ang 488 | हरि-कीर्तन ही परम औषधि (Divine Praises as the Sovereign Panacea) |
-| 14 | [हरि हरि हरि हरि हरि हरि हरे](#shabad-14) | राग गूजरी (Gujri) | Ang 525 | प्रेम-भक्ति का अनुपम रस (The Matchless Nectar of Loving Devotion) |
-| 15 | [जब हम होते तब तू नाही अब तूही मै नाही](#shabad-15) | राग सोरठि (Sorath) | Ang 657 | जल तरंग और कनक कुंडल (The Ocean and Waves: Non-Dual Oneness) |
-| 16 | [जउ हम बांधे मोह फास हम प्रेम बधनि तुम बाधे](#shabad-16) | राग सोरठि (Sorath) | Ang 658 | दीन-बंधु प्रभु की अगाध कृपा (Boundless Mercy of the Redeemer of the Meek) |
-| 17 | [दुलभ जनमु पुंन फल पाइओ बिरथा जात अबिबेकै](#shabad-17) | राग सोरठि (Sorath) | Ang 658 | कासी के प्रतिष्ठित पंडित और चर्मकार रविदास (The Cobbler and the Banaras Pundits) |
-| 18 | [सुख सागरु सुरतर चिंतामनि कामधेनु बसि जा के](#shabad-18) | राग सोरठि (Sorath) | Ang 658 | जाति-पांति के अभिमान का विध्वंस (Dismantling Caste Hierarchy and Pride) |
-| 19 | [जउ तुम गिरिवर तउ हम मोरा](#shabad-19) | राग सोरठि (Sorath) | Ang 659 | सुख-सागर प्रभु का अनन्य ध्यान (Meditation on the Ocean of Eternal Bliss) |
-| 20 | [जल की भीति पवन का थ्मभा रक्त बुंद का गारा](#shabad-20) | राग सोरठि (Sorath) | Ang 659 | संत नामदेव, कबीर और सधना का उद्धार (Redemption of Saints Namdev, Kabir, and Sadhna) |
-| 21 | [चमरटा गांठि न जनई](#shabad-21) | राग धनासरी (Dhanasri) | Ang 694 | प्रभु जी तुम स्वामी हम दासा (Lord, Thou Art Master, I Am Servant) |
-| 22 | [हम सरि दीनु दइआलु न तुम सरि अब पतीआरु किआ कीजै](#shabad-22) | राग धनासरी (Dhanasri) | Ang 694 | प्रभु-स्मरण बिना सब व्यर्थ (Without Divine Remembrance, All is Futile) |
-| 23 | [चित सिमरनु करउ नैन अविलोकनो स्रवन बानी सुजसु पूरि राखउ](#shabad-23) | राग जैतसरी (Jaitsari) | Ang 710 | भव-व्याधि और काम-क्रोध का निवारण (Healing Worldly Afflictions and Passions) |
-| 24 | [नाथ कछूअ न जानउ](#shabad-24) | राग सूही (Suhi) | Ang 793 | ऊंचे मंदिर सुंदर नारी: मायावी जाल (Mansions, Wealth, and the Illusion of Maya) |
-| 25 | [सह की सार सुहागनि जानै](#shabad-25) | राग सूही (Suhi) | Ang 793 | जो दिन आवहि सो दिन जाही (Every Day that Dawns Must Depart) |
-| 26 | [जो दिन आवहि सो दिन जाही](#shabad-26) | राग सूही (Suhi) | Ang 794 | एकै माटी के सब भांडे (All Vessels Fashioned from One Divine Clay) |
-| 27 | [ऊचे मंदर साल रसोई](#shabad-27) | राग बिलावलु (Bilaval) | Ang 858 | दारिद देखि सबु को हसै (The World Laughs at Poverty, But God Elevates) |
-| 28 | [दारिदु देखि सभ को हसै ऐसी दसा हमारी](#shabad-28) | राग बिलावलु (Bilaval) | Ang 858 | अविनाशी राम-नाम की ओट (The Refuge of the Imperishable Name) |
-| 29 | [जिह कुल साधु बैसनौ होइ](#shabad-29) | राग गौंड (Gaund) | Ang 875 | मुकंद मनोहर कृपा-निधान (Mukunda, the Compassionate Benefactor) |
-| 30 | [मुकंद मुकंद जपहु संसार](#shabad-30) | राग गौंड (Gaund) | Ang 875 | सतिनाम का अमृत रस (The Immortal Nectar of the True Name) |
-| 31 | [जे ओहु अठसठि तीर्थ न्हावै](#shabad-31) | राग रामकली (Ramkali) | Ang 973 | पढ़िए गुनिए तउ लउ (Reading Scriptures vs Living the Truth) |
-| 32 | [पड़ीऐ गुनीऐ नामु सभु सुनीऐ अनभउ भाउ न दरसै](#shabad-32) | राग मारू (Maru) | Ang 1106 | माधो का कहिए भ्रम ऐसा (O Madhava, What Illusion Bewitches the Mind) |
-| 33 | [ऐसी लाल तुझ बिनु कउनु करै](#shabad-33) | राग केदार (Kedara) | Ang 1124 | चार वेद और अष्टादश पुराण का सार (The Quintessence of Vedas and Puranas) |
-| 34 | [सुख सागर सुरितरु चिंतामनि कामधेन बसि जा के रे](#shabad-34) | राग भैरउ (Bhairav) | Ang 1167 | प्रह्लाद और अजामिल की मुक्ति (Salvation of Prahlada and Ajamila) |
-| 35 | [खटु करम कुल संजुगतु है हरि भगति हिरदै नाहि](#shabad-35) | राग वसंतु (Basant) | Ang 1196 | बसंत ऋतु और रूहानी बहार (Spiritual Springtime and Divine Bloom) |
-| 36 | [बिनु देखे उपजै नही आसा](#shabad-36) | राग मलाहर (Malar) | Ang 1293 | अमृत मेघ और विरह की वर्षा (Clouds of Nectar and the Rains of Longing) |
-| 37 | [तुझहि सुझंता कछू नाहि](#shabad-37) | राग मलाहर (Malar) | Ang 1293 | चर्मकार रविदास का सच्चा सत्संग (True Fellowship of Ravidas the Tanner) |
-| 38 | [नागर जनां मेरी जाति बिखिआत चमारं](#shabad-38) | राग मलाहर (Malar) | Ang 1293 | प्रभु-प्रेम की अखंड धारा (Unbroken Stream of Divine Love) |
-| 39 | [हरि जपत तेऊ जना पदम कवलास पति तास सम तुलि नही आन कोऊ](#shabad-39) | राग कान्हड़ा (Kanra) | Ang 1293 | परम पद की प्राप्ति (Attainment of the Supreme Spiritual Station) |
-| 40 | [मिलत पिआरो प्रान नाथु कवन भगति ते](#shabad-40) | सलोक (Salok) | Ang 1428 | हरि-सिमरन ही जीवन का सार (Remembrance of Hari as the Essence of Life) |
+| 5 | [नामु तेरो आरती मजनु मुरारे](#shabad-5) | राग आसा / धनासरी (Dhanasri) | Ang 694 | महा-आरती: नाम ही दीपक, नाम ही चंदन (The Cosmic Aarti of the Sacred Name) |
+| 6 | [तोही मोही मोही तोही अंतरु कैसा](#shabad-6) | राग सोरठि (Sorath) | Ang 658 | तोही मोही: जल-तरंग और कनक-कुंडल का अद्वैत (Non-Dual Union: The Wave and the Ocean) |
+| 7 | [तुम चंदन हम इरंड बापुरे संगि तुमारे बासा](#shabad-7) | राग आसा (Asa) | Ang 486 | चंदन और अरंड: सत्संगति से पावन सुगंध (Sandalwood and the Castor Plant) |
+| 8 | [घट अवघट डूगर घणा इकु निरगुणु बैलु हमार](#shabad-8) | राग गउड़ी (Gauri) | Ang 345 | राम-नाम का व्यापार: मजीठ का पक्का रंग (The Sacred Caravan of the Divine Merchant) |
+| 9 | [कूपु भरिओ जैसे दादिरा कछु देसु बिदेसु न बूझ](#shabad-9) | राग गउड़ी बैरागणि (Gauri Bairagani) | Ang 346 | कुएं का मेंढक: अज्ञान का कूप और ईश्वरीय आलोक (The Frog in the Well and Divine Light) |
+| 10 | [सतजुगि सतु तेता जगी दुआपरि पूजाचार](#shabad-10) | राग गउड़ी बैरागणि (Gauri Bairagani) | Ang 346 | चारों युगों का विधान: कलियुग में केवल नाम आधार (Four Ages: The Sacred Name in Kaliyuga) |
+| 11 | [म्रिग मीन भ्रिंग पतंग कुंचर एक दोख बिनास](#shabad-11) | राग आसा (Asa) | Ang 486 | पंच-विकार और अविद्या का नाश (The Five Senses and the Lamp of Wisdom) |
+| 12 | [संत तुझी तनु संगति प्रान](#shabad-12) | राग आसा (Asa) | Ang 486 | संत और भगवंत की अभिन्नता (Oneness of the Saint and the Supreme Lord) |
+| 13 | [कहा भइओ जउ तनु भइओ छिनु छिनु](#shabad-13) | राग आसा (Asa) | Ang 487 | अखंड प्रेम: देह छिद जाए, पर प्रीति न छूटे (Unshakeable Love Beyond Physical Pain) |
+| 14 | [हरि हरि हरि हरि हरि हरि हरे](#shabad-14) | राग आसा (Asa) | Ang 487 | हरि-सिमरन से युगों का उद्धार: कबीर और नामदेव की साखी (Redemption through Hari's Name) |
+| 15 | [जब हम होते तब तू नाही अब तूही मै नाही](#shabad-15) | राग सोरठि (Sorath) | Ang 657 | जब हम होते तब तू नाही: अहंकार की समाप्ति और अद्वैत (Extinction of Ego and Non-Dual Awakening) |
+| 16 | [जउ हम बांधे मोह फास हम प्रेम बधनि तुम बाधे](#shabad-16) | राग सोरठि (Sorath) | Ang 658 | प्रेम की डोरी बनाम मोह की फांसी (The Bond of Love vs The Trap of Delusion) |
+| 17 | [दुलभ जनमु पुंन फल पाइओ बिरथा जात अबिबेकै](#shabad-17) | राग सोरठि (Sorath) | Ang 658 | दुर्लभ मानव जन्म और अविवेक का संताप (The Rare Human Birth Lost to Ignorance) |
+| 18 | [सुख सागरु सुरतर चिंतामनि कामधेनु बसि जा के](#shabad-18) | राग सोरठि (Sorath) | Ang 658 | सुख-सागर प्रभु और नाम की सर्वोच्चता (The Ocean of Bliss and the Sovereignty of the Name) |
+| 19 | [जउ तुम गिरिवर तउ हम मोरा](#shabad-19) | राग सोरठि (Sorath) | Ang 659 | जउ तुम गिरिवर तउ हम मोरा: अनन्य प्रेम का संबंध (If Thou Art the Mountain, I Am the Peacock) |
+| 20 | [जल की भीति पवन का थ्मभा रक्त बुंद का गारा](#shabad-20) | राग सोरठि (Sorath) | Ang 659 | जल की भीति, पवन का खंभा: देह की क्षणभंगुरता (Wall of Water, Pillar of Air) |
+| 21 | [चमरटा गांठि न जनई](#shabad-21) | राग सोरठि (Sorath) | Ang 659 | सच्चा चर्मकार: सांसारिक जूते नहीं, राम-नाम की साधना (The True Cobbler) |
+| 22 | [हम सरि दीनु दइआलु न तुम सरि अब पतीआरु किआ कीजै](#shabad-22) | राग धनासरी (Dhanasri) | Ang 694 | हम सरि दीनु दइआलु न तुम सरि: पूर्ण शरणागति (None Humble Like Me, None Merciful Like Thee) |
+| 23 | [चित सिमरनु करउ नैन अविलोकनो स्रवन बानी सुजसु पूरि राखउ](#shabad-23) | राग धनासरी (Dhanasri) | Ang 694 | इंद्रियों का ईश्वरीय समर्पण और अनन्य प्रीति (Dedication of the Senses to the Divine) |
+| 24 | [नाथ कछूअ न जानउ](#shabad-24) | राग जैतसरी (Jaitsari) | Ang 710 | पंच-विकारों का द्रोह और प्रभु-शरणागति (Treachery of the Five Senses and Divine Refuge) |
+| 25 | [सह की सार सुहागनि जानै](#shabad-25) | राग सूही (Suhi) | Ang 793 | सुहागिन और दुहागिन: प्रेम का सच्चा विरह (The Blessed Bride and the Abandoned Soul) |
+| 26 | [जो दिन आवहि सो दिन जाही](#shabad-26) | राग सूही (Suhi) | Ang 793 | जो दिन आवहि सो दिन जाही: समय की गति और जीवन का कूच (The Passing Days and the Final March) |
+| 27 | [ऊचे मंदर साल रसोई](#shabad-27) | राग सूही (Suhi) | Ang 794 | ऊंचे मंदिर, सुंदर नारी: देह रूपी तृण-कुटीर (High Mansions and the Thatched Hut of Flesh) |
+| 28 | [दारिदु देखि सभ को हसै ऐसी दसा हमारी](#shabad-28) | राग बिलावलु (Bilaval) | Ang 858 | दारिद्र्य पर संसार का उपहास और प्रभु-कृपा की वर्षा (The World's Mockery and Divine Elevation) |
+| 29 | [जिह कुल साधु बैसनौ होइ](#shabad-29) | राग बिलावलु (Bilaval) | Ang 858 | साधु-कुल की पावनता: वर्ण-व्यवस्था का समूल नाश (The Sacred Lineage of the True Devotee) |
+| 30 | [मुकंद मुकंद जपहु संसार](#shabad-30) | राग गौंड (Gaund) | Ang 875 | मुकंद-मुकंद जपहु संसार: मुक्तिदाता प्रभु का सिमरन (Chant Mukunda, The Giver of Liberation) |
+| 31 | [जे ओहु अठसठि तीर्थ न्हावै](#shabad-31) | राग गौंड (Gaund) | Ang 875 | साधु की निंदा का महापाप (The Peril of Slandering the Saint) |
+| 32 | [पड़ीऐ गुनीऐ नामु सभु सुनीऐ अनभउ भाउ न दरसै](#shabad-32) | राग रामकली (Ramkali) | Ang 973 | अनुभव बिना शास्त्र-ज्ञान व्यर्थ है (Scriptural Learning without Direct Experience is Futile) |
+| 33 | [ऐसी लाल तुझ बिनु कउनु करै](#shabad-33) | राग मारू (Maru) | Ang 1106 | ऐसी लाल तुझ बिनु कउनु करै: गरीबों के सिर पर छत्र (Who Else but Thee, Cherisher of the Lowly) |
+| 34 | [सुख सागर सुरितरु चिंतामनि कामधेन बसि जा के रे](#shabad-34) | राग मारू (Maru) | Ang 1106 | अविनाशी राम-नाम का अमृत (The Nectar of the Imperishable Name) |
+| 35 | [खटु करम कुल संजुगतु है हरि भगति हिरदै नाहि](#shabad-35) | राग केदारा (Kedara) | Ang 1124 | षट्कर्म बनाम वाल्मीकि की भक्ति (Ritual Orthodoxy vs Valmiki's Devotion) |
+| 36 | [बिनु देखे उपजै नही आसा](#shabad-36) | राग भैरउ (Bhairav) | Ang 1167 | साक्षात्कार बिना आशा नहीं: दूध से मक्खन का ज्ञान (Inner Realization: Churning the Milk of Truth) |
+| 37 | [तुझहि सुझंता कछू नाहि](#shabad-37) | राग वसंतु (Basant) | Ang 1196 | भादों की कुकुरमुत्ता देह: कस्तूरी मृग का रूपक (The Fleeting Mushroom and the Musk Deer) |
+| 38 | [नागर जनां मेरी जाति बिखिआत चमारं](#shabad-38) | राग मलाहर (Malar) | Ang 1293 | नागर जनां मेरी जाति बिखिआत चमारं: आत्म-गौरव और समता (O Citizens! My Caste is Famed as Cobbler) |
+| 39 | [हरि जपत तेऊ जना पदम कवलास पति तास सम तुलि नही आन कोऊ](#shabad-39) | राग मलाहर (Malar) | Ang 1293 | हरि-भक्तों की महिमा: नामदेव और कबीर की साखी (Glory of Devotees: The Legacy of Namdev and Kabir) |
+| 40 | [मिलत पिआरो प्रान नाथु कवन भगति ते](#shabad-40) | सलोक (Salok) | Ang 1293 | साध-संगत से परम गति: जीवन की सच्ची हाट (Supreme Liberation through Holy Company) |
 
 ---
 
@@ -440,27 +440,35 @@ And my heart has bound its eternal love to the Master Puppeteer today!
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गउड़ी (Gauri) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मेरी संगति निकृष्ट रही है और रात-दिन चिंता में मेरा चित्त जलता रहा,
+मेरे कर्म कुटिल रहे और मेरा जन्म भी हीन कुल में हुआ।
+हे राम! हे जगत् के स्वामी! हे समस्त प्राणों के जीवन-आधार!
+मुझे कभी विस्मृत मत करना, मैं तेरा ही दीन सेवक हूँ।
+मेरी विपत्ति को हर लीजिए और अपने इस दास को सद्भाव प्रदान कीजिए,
+चाहे मेरा शरीर नष्ट ही क्यों न हो जाए, मैं आपके पावन चरणों को नहीं छोड़ूँगा।
+कहते हैं रविदास—हे प्रभु! मैं आपकी पवित्र साधु-सभा की शरण में आ पड़ा हूँ,
+अब कृपा कर अपने इस दास से शीघ्र मिलन कीजिए, रंचमात्र भी विलंब मत कीजिए।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गउड़ी (Gauri) and preserved on Ang 345 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Lowly has been my worldly company, burnt by sorrow night and day;
+Deceitful were my actions, lowly the birth where my cradle lay.
+O Ram! Sovereign Master of the world! Breath of every living soul!
+Cast me not from Thy remembrance; make Thy humble servant whole.
+Dispel my heavy affliction, bless Thy servant with Thy righteous grace,
+Though this mortal frame perish, from Thy lotus feet I shall never turn my face!
+Proclaims Ravidas: I have taken shelter in Thy sacred holy congregation,
+Delay no longer, O Lord, grant Thy servant swift union and salvation!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गउड़ी (Gauri))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 345 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (सत्संगति की महिमा (The Transforming Grace of Holy Fellowship))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **दैन्य-भाव की पराकाष्ठा (Supreme Humility)**:
+   रविदास जी अपने सामाजिक परिवेश और पूर्व संस्कारों का संकोच त्यागकर ईश्वर के सम्मुख पूर्ण निष्कपटता से शरणागत होते हैं।
+2. **सत्संगति का आश्रय**:
+   'परउ तेरी साभा'—साधु-संगत ही वह पावन क्षेत्र है जहाँ सांसारिक कलंक धुल जाते हैं और प्रभु की प्राप्ति होती है।
+3. **दृढ़ संकल्प**:
+   'चरण न छाडउ सरीर कल जाई'—प्राण भले ही चले जाएं, प्रभु-चरणों का अनन्य प्रेम कभी नहीं छूटेगा।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -468,7 +476,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-5"></a>
 ## शब्द 5: नामु तेरो आरती मजनु मुरारे
-**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 487 | **केंद्रीय भाव:** हरि-प्रेम की अनन्य डोर (The Unbreakable Bond of Divine Love)
+**राग:** राग आसा / धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** महा-आरती: नाम ही दीपक, नाम ही चंदन (The Cosmic Aarti of the Sacred Name)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -530,27 +538,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग आसा (Asa) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे मुरारी! आपका पावन नाम ही मेरी महा-आरती है और वही मेरा पवित्र स्नान है,
+हरि के सच्चे नाम के बिना संसार के समस्त बाह्य आडंबर और पसारे झूठे हैं।
+आपका नाम ही मेरा पूजा-आसन है, आपका नाम ही चंदन घिसने की सिल है, और आपका नाम ही केसर का छिड़काव है,
+आपका नाम ही पावन जल है, नाम ही सुगंधित चंदन है, जिसे घिसकर मैं आपके चरणों में अर्पित करता हूँ।
+आपका नाम ही मेरा दिव्य दीपक है, नाम ही उसकी पावन बाती है, और नाम रूपी तेल ही उसमें भरा है,
+आपके नाम की जो दिव्य ज्योति मैंने अंतर्मन में जलाई है, उससे समस्त भवन आलोकित हो उठे हैं।
+आपका नाम ही वह सूत का धागा है और नाम ही अठारह भार वनस्पतियों से परे अछूता पुष्प-हार है,
+हे प्रभु! आपका ही बनाया हुआ संसार आपको क्या अर्पित करूँ? आपका नाम ही आपके ऊपर चंवर ढोलता है।
+चारों वेद, अठारह पुराण, अड़सठ तीर्थ और चारों खानियों के जीव—सब इसी सांसारिक व्यवहार में उलझे हैं,
+कहते हैं रविदास—हे प्रभु! आपका नाम ही मेरी सच्ची आरती है, और आपका सत्य-नाम ही आपका परम भोग है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग आसा (Asa) and preserved on Ang 487 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Thy Sacred Name, O Lord Murari, is my supreme cosmic adoration and my cleansing bath,
+Devoid of Hari's Name, all worldly ritual displays are false upon the path.
+Thy Name is my sacred altar, Thy Name the grinding stone, Thy Name the saffron spray so rare,
+Thy Name is pristine water, Thy Name fragrant sandalwood that I rub and offer there.
+Thy Name is my earthen lamp, Thy Name the radiant wick, Thy Name the oil poured inside,
+Kindling the flame of Thy Sacred Name, all cosmic mansions are illuminated far and wide!
+Thy Name is the holy thread, Thy Name the unblemished garland of flowers beyond decay,
+All creation belongs to Thee; what can I offer Thee? Thy Name itself waves the royal whisk today!
+Ten organs, eighteen Puranas, sixty-eight shrines, and four species of birth run their worldly round,
+Proclaims Ravidas: Thy Name is my ultimate Aarti; in the True Name alone is Thy holy offering found!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग आसा (Asa))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 487 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (हरि-प्रेम की अनन्य डोर (The Unbreakable Bond of Divine Love))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **गुरु नानक देव जी की 'गगन मै थालु' के समकक्ष महा-आरती**:
+   यह शब्द श्री गुरु ग्रंथ साहिब जी में आरती के रूप में प्रतिदिन गाया जाता है। रविदास जी बाह्य थाली, दीपक और फूलों को व्यर्थ मानकर 'नाम' को ही संपूर्ण पूजा सामग्री घोषित करते हैं।
+2. **सृष्टि के जूठेपन का रहस्य**:
+   'भार अठारह सगल जूठारे'—प्रकृति के सभी फूल, जल और धूप पहले से ही जीवों द्वारा आस्वादित हैं; केवल प्रभु का अगम्य 'नाम' ही परम पवित्र और अछूता है।
+3. **अद्वैत पूजा**:
+   भगवान की दी हुई वस्तु भगवान को चढ़ाना अज्ञान है; आत्मा द्वारा नाम में लीन होना ही सच्ची पूजा है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -558,7 +578,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-6"></a>
 ## शब्द 6: तोही मोही मोही तोही अंतरु कैसा
-**राग:** राग धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** आरती: नाम ही दीपक, नाम ही बाती (Cosmic Adoration through the Sacred Name)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** तोही मोही: जल-तरंग और कनक-कुंडल का अद्वैत (Non-Dual Union: The Wave and the Ocean)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -610,27 +630,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग धनासरी (Dhanasri) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे प्रभु! तेरे और मेरे बीच, मेरे और तेरे बीच भला कैसा अंतर हो सकता है?
+हमारा संबंध तो स्वर्ण और कंगन, तथा जल और उसकी उठती तरंगों जैसा अभिन्न है।
+यदि हम अज्ञानी जीव पाप और भूलें न करते, हे अनंत परमात्मा!
+तो फिर संसार में आपका पावन नाम 'पतित-पावन' कैसे कहलाता?
+आप ही हमारे अंतर्यामी स्वामी हैं और घट-घट के नायक हैं,
+प्रभु से ही उसके सेवक की पहचान होती है, और सच्चे सेवक से ही प्रभु की महिमा जानी जाती है।
+हे परमात्मा! मुझे वह सम्यक आत्म-विचार प्रदान कीजिए जिससे मेरी काया आपकी आराधना करे,
+रविदास प्रार्थना करता है कि कोई ज्ञानी सद्गुरु मुझे यह परम समता और अद्वैत तत्व समझा दे।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग धनासरी (Dhanasri) and preserved on Ang 694 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Between Thee and me, between me and Thee, what difference can there ever be?
+As golden bracelets abide in gold, as rolling waves abide in the ocean sea!
+If we mortal beings had never sinned and strayed, O Infinite Lord Divine,
+How then would Thy sacred title of 'Redeemer of the Fallen' ever shine?
+Thou art the Supreme Leader, the Inward Ruler knowing all within,
+By the Lord is the servant recognized, and by the servant is revealed the King!
+Grant me that profound spiritual discernment, whereby my vessel may worship Thee in truth;
+Ravidas yearns: Let someone reveal this non-dual equanimity that redeems mortal youth!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग धनासरी (Dhanasri))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 694 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (आरती: नाम ही दीपक, नाम ही बाती (Cosmic Adoration through the Sacred Name))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **अद्वैत वेदांत का भक्ति-रूपांतरण**:
+   उपनिषदों के दो प्रसिद्ध दृष्टांत—'कनक-कटिक' (सोना और आभूषण) और 'जल-तरंग' (जल और लहर)—को रविदास जी ने भक्त और भगवान के अभेद संबंध को सिद्ध करने के लिए प्रयुक्त किया।
+2. **'पतित-पावन' तर्क**:
+   यह निर्गुण संतों का अनूठा 'उपालंभ' (प्रेम-भरी तार्किक चुनौती) है—यदि पापी न होते, तो पापी को तारने वाले ईश्वर की महिमा कैसे प्रकट होती?
+3. **परस्पर पूरकता**:
+   ईश्वर और भक्त एक-दूसरे के बिना अधूरे हैं; भक्त के बिना ईश्वर की दया का आश्रय कौन बनेगा?
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -638,7 +666,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-7"></a>
 ## शब्द 7: तुम चंदन हम इरंड बापुरे संगि तुमारे बासा
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 657 | **केंद्रीय भाव:** जब हम होते तब तू नाही (Ego Extinction: When I Am, Thou Art Not)
+**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 486 | **केंद्रीय भाव:** चंदन और अरंड: सत्संगति से पावन सुगंध (Sandalwood and the Castor Plant)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -690,27 +718,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे प्रभु! आप सुगंधित मलय चंदन हैं और हम तुच्छ अरंड के वृक्ष हैं, जो आपके समीप बसते हैं,
+आपकी दिव्य संगति के प्रभाव से एक नीच वृक्ष भी सुवासित होकर उच्च कोटि का बन गया।
+हे माधव! हम आपकी और आपके सत्संग की पावन शरण में आ पड़े हैं,
+हम अवगुणों के भंडार हैं और आप परोपकार और दया के अथाह सागर हैं।
+आप श्वेत और सुनहरे रेशम के समान उज्ज्वल हैं, और हम रेशम के कीट के समान दीन-हीन हैं,
+हे माधव! हम साधु-संगत में इस प्रकार मिलकर रहें, जैसे मधुमक्खियां छत्ते में रस से जुड़ी रहती हैं।
+मेरी जाति भी तुच्छ समझी गई, मेरी पंगत भी तुच्छ मानी गई, और मेरा जन्म भी हीन माना गया,
+चर्मकार रविदास पुकारता है—हे राजा राम! मैंने पहले आपकी सेवा नहीं की, अब अपनी शरण में ले लो।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 657 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Thou art the fragrant sandalwood, O Lord, and we the humble castor tree dwelling by Thy side;
+By Thy transforming fellowship, the lowly bush is sanctified and perfumed far and wide!
+O Madhava! We have sought Thy holy refuge and the sanctuary of Thy saintly band;
+We are full of frailties and flaws, while endless benevolence flows from Thy hand.
+Thou art pristine and golden silk so pure, and we the helpless silkworm small;
+May we abide in holy fellowship, O Madhava, as bees cling to the sweet honeycomb wall.
+Lowly is my caste, lowly my worldly rank, and lowly was the birth I bore;
+Proclaims Ravidas the tanner: O Sovereign Ram, I take refuge at Thy feet forevermore!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 657 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (जब हम होते तब तू नाही (Ego Extinction: When I Am, Thou Art Not))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **अरंड और चंदन का रूपक**:
+   अरंड एक गंधहीन और कांटेदार जंगली पौधा माना जाता है, किंतु चंदन के सान्निध्य में वह भी चंदन-तुल्य सुवासित हो जाता है। यह सत्संगति की क्रांतिकारी शक्ति का प्रतीक है।
+2. **जाति-दंश का आध्यात्मिक उत्तर**:
+   रविदास जी समाज द्वारा दिए गए अपमानजनक आख्यान ('जाती ओछा पाती ओछा') को स्वीकार करते हुए उसे प्रभु-भक्ति की सर्वोच्च ऊंचाई पर ले जाकर परास्त करते हैं।
+3. **मधुमक्खी और छत्ते का रूपक**:
+   साधु-संगत में प्रेम का अखंड सामंजस्य होना चाहिए।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -718,7 +754,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-8"></a>
 ## शब्द 8: घट अवघट डूगर घणा इकु निरगुणु बैलु हमार
-**राग:** राग मारू (Maru) | **आदि ग्रंथ अंग (Ang):** 1106 | **केंद्रीय भाव:** ऐसी लाल तुझ बिनु कउनु करै (Cherisher of the Lowly: The Supreme Liberator)
+**राग:** राग गउड़ी (Gauri) | **आदि ग्रंथ अंग (Ang):** 345 | **केंद्रीय भाव:** राम-नाम का व्यापार: मजीठ का पक्का रंग (The Sacred Caravan of the Divine Merchant)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -775,27 +811,38 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग मारू (Maru) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हृदय का यह दुर्गम मार्ग अत्यंत बीहड़ और कठिन पर्वतों से भरा है, और हमारे पास साधना रूपी एक दुर्बल बैल है,
+हे मुरारी! मेरी आपसे यही एक विनय है कि मेरी इस नाम-पूंजी की रक्षा कीजिए।
+क्या कोई राम का सच्चा व्यापारी बणजारा है? मेरा नाम-रूपी माल का काफिला (टांडा) लदकर चला जा रहा है!
+मैं तो उस घट-घट वासी राम का बणजारा हूँ, जो सहज भाव से सत्य का व्यापार करता हूँ,
+मैंने अपने हृदय पर राम-नाम रूपी अविनाशी धन लाद लिया है, जबकि संसार ने विष (माया) का भार लाद रखा है।
+हे इस लोक और परलोक के दानी लेखाकारों! जो चाहे सो व्यर्थ का हिसाब लिख लो,
+मुझे यमराज का कोई दंड छू भी नहीं सकता, क्योंकि मैंने संसार के समस्त प्रपंचों और जंजालों को त्याग दिया है।
+संसार का यह झूठा आकर्षण तो कुसुंभ के कच्चे रंग जैसा है, जो धूप लगते ही उड़ जाता है,
+चर्मकार रविदास कहता है—मेरे राम का प्रेम तो मजीठ के पक्के रंग जैसा है, जो कभी फीका नहीं पड़ता।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग मारू (Maru) and preserved on Ang 1106 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Steep and treacherous is the mountain pass of life, and our spiritual ox is frail and lean;
+Unto the Omnipresent Lord I raise my prayer: Guard my treasure of the Holy Name serene!
+Is there any merchant of the Supreme Lord? Behold, my sacred caravan is laden and sets out to start!
+I am a merchant of the Sovereign Ram, trading in spontaneous truth with an open heart.
+I have laden my vessel with the priceless wealth of Ram's Name, while the world carries poison and grief;
+O tax-collectors of this shore and the beyond, write whatever reckonings bring you relief!
+No rod of the Lord of Death can strike me now, for I have severed illusion's tangled maze;
+This worldly glitter is like the fleeting safflower dye, which swiftly fades before the gaze.
+Proclaims Ravidas the cobbler: The love of my Beloved Ram is dyed in steadfast madder red,
+Which never washes away, enduring luminous through life and dead!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग मारू (Maru))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1106 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (ऐसी लाल तुझ बिनु कउनु करै (Cherisher of the Lowly: The Supreme Liberator))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **बणजारे और व्यापार का रूपक**:
+   कबीर और गुरु नानक की परंपरा में जीवन को एक आध्यात्मिक व्यापार माना गया है। संसार माया (विष) का व्यापार करता है, जबकि संत 'राम-नाम' का शाश्वत व्यापार करते हैं।
+2. **कुसुंभ बनाम मजीठ का रंग**:
+   कुसुंभ (सफ्फ्लावर) का लाल रंग क्षणिक होता है, धोने पर छूट जाता है; मजीठ (मैडर रूट) का रंग अग्नि और जल में भी कभी नहीं छूटता। सांसारिक सुख कुसुंभ है, हरि-भक्ति मजीठ है।
+3. **यम-दंड से मुक्ति**:
+   जिसने अंतःकरण में नाम का धन संचित कर लिया, उसे मृत्यु या कर्मफल का कोई भय नहीं रहता।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -803,7 +850,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-9"></a>
 ## शब्द 9: कूपु भरिओ जैसे दादिरा कछु देसु बिदेसु न बूझ
-**राग:** राग गउड़ी बैरागणि (Gauri Bairagani) | **आदि ग्रंथ अंग (Ang):** 345 | **केंद्रीय भाव:** संसार की क्षणभंगुरता (The Transience of Worldly Life)
+**राग:** राग गउड़ी बैरागणि (Gauri Bairagani) | **आदि ग्रंथ अंग (Ang):** 346 | **केंद्रीय भाव:** कुएं का मेंढक: अज्ञान का कूप और ईश्वरीय आलोक (The Frog in the Well and Divine Light)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -850,27 +897,34 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गउड़ी बैरागणि (Gauri Bairagani) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जैसे कुएं में रहने वाला मेंढक बाहर के देश-विदेश और विशाल संसार के विषय में कुछ नहीं जानता,
+वैसे ही मेरा मन सांसारिक विषयों के मोह में बंधा है, मुझे इस भवसागर के आर-पार का कोई ज्ञान नहीं सूझता।
+हे समस्त चौदह भवनों के परम स्वामी! मुझ दीन को एक क्षण के लिए अपना दिव्य दर्शन करा दीजिए!
+हे माधव! सांसारिक भ्रमों के कारण मेरी मति मलिन हो गई है, आपकी अगम्य गति को मैं जान नहीं पा रहा हूँ,
+मुझ पर ऐसी कृपा कीजिए कि मेरा सारा अज्ञान-भ्रम मिट जाए, और मुझे वह सद्बुद्धि समझा दीजिए जिससे सत्य जान सकूँ।
+बड़े-बड़े योगीश्वर और तपस्वी भी आपके अपार गुणों का संपूर्ण वर्णन नहीं पा सकते,
+चर्मकार रविदास कहता है—प्रभु तो केवल अनन्य प्रेम-भक्ति के द्वारा ही सहज प्राप्त होते हैं।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गउड़ी बैरागणि (Gauri Bairagani) and preserved on Ang 345 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Like a frog confined within a dark and narrow well, knowing naught of foreign lands or boundless space,
+Even so my mind is bewitched by worldly delusion, seeing neither shore nor end of this earthly place.
+O Sovereign Ruler of all cosmic realms! Grant me Thy vision for a single blessed moment, I plead!
+My intellect has grown clouded, O Madhava; Thy transcendent state my finite senses cannot read.
+Shower Thy grace upon me, dispel this lingering veil of doubt, and bestow discerning wisdom clear;
+Great yogic masters fail to exhaust Thy limitless virtues, however far they peer.
+Proclaims Ravidas the tanner: Not through ascetic pride, but by pure loving devotion alone,
+Is the Unfathomable Lord revealed, and His infinite compassion known!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गउड़ी बैरागणि (Gauri Bairagani))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 345 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (संसार की क्षणभंगुरता (The Transience of Worldly Life))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **कूप-मंडूक का मनोवैज्ञानिक रूपक**:
+   संकीर्ण मानसिकता और अज्ञान में फंसे जीव की तुलना कुएं के मेंढक से की गई है, जो कुएं को ही संपूर्ण ब्रह्मांड मान लेता है।
+2. **सद्बुद्धि की याचना**:
+   रविदास जी भौतिक संपत्ति नहीं, बल्कि 'सुमति' (विवेक) मांगते हैं, जिससे भ्रम की निवृत्ति हो सके।
+3. **प्रेम-भक्ति की सर्वोच्चता**:
+   योगियों के हठयोग और ज्ञानियों के तर्क से जो अलभ्य है, वह प्रेम-भक्ति से सुलभ हो जाता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -878,7 +932,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-10"></a>
 ## शब्द 10: सतजुगि सतु तेता जगी दुआपरि पूजाचार
-**राग:** राग गउड़ी बैरागणि (Gauri Bairagani) | **आदि ग्रंथ अंग (Ang):** 346 | **केंद्रीय भाव:** अज्ञान की नींद से जागो (Awakening from the Slumber of Delusion)
+**राग:** राग गउड़ी बैरागणि (Gauri Bairagani) | **आदि ग्रंथ अंग (Ang):** 346 | **केंद्रीय भाव:** चारों युगों का विधान: कलियुग में केवल नाम आधार (Four Ages: The Sacred Name in Kaliyuga)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -985,27 +1039,55 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गउड़ी बैरागणि (Gauri Bairagani) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+सत्ययुग में सत्य आचरण, त्रेता में यज्ञ-अनुष्ठान, और द्वापर में विधिवत पूजा-अर्चना का विधान था,
+किंतु इन तीनों युगों के तीन नियमों के विपरीत, कलियुग में केवल और केवल प्रभु-नाम ही जीवन का एकमात्र आधार है।
+हे संतों! मैं इस भवसागर से पार कैसे उतरूँ? मुझे कोई तत्वदर्शी समझाकर नहीं बताता,
+जिससे मेरा यह जन्म-मरण का कष्टदायक आवागमन सदा के लिए विलीन हो जाए।
+संसार में लोग अनेक प्रकार के धर्मों और कर्मकांडों का निरूपण करते हैं, और सब बाह्य क्रियाओं में रत दिखाई देते हैं,
+किंतु ऐसा कौन-सा सच्चा कर्म है जिससे जीव पूर्ण मुक्त हो जाए और जिसे साधने से समस्त सिद्धियां प्राप्त हों?
+वेदों और पुराणों को सुनकर लोग कर्म और अकर्म का विचार करते हैं, फिर भी शंकाएं समाप्त नहीं होतीं,
+हृदय में सदा संदेह का वास बना रहता है; भला इन बाह्य विधियों से अहंकार का नाश कौन कर सकता है?
+बाहर से तो शरीर को जल से बार-बार धोकर स्वच्छ किया जाता है, किंतु अंतःकरण के भीतर नाना प्रकार के विकार भरे हैं,
+हाथी के स्नान करने जैसी इस बाह्य शुद्धि से भला अंतर्मन की वास्तविक शुद्धि कैसे हो सकती है?
+जैसे सूर्य का प्रकाश होते ही रात्रि का अंधकार मिट जाता है, यह गति सारा संसार जानता है,
+और जैसे पारस का स्पर्श होते ही तांबा बिना किसी विलंब के तत्काल शुद्ध स्वर्ण बन जाता है;
+वैसे ही जब पूर्व जन्मों के शुभ संस्कारों से परम पारस रूपी सद्गुरु का साक्षात्कार होता है,
+तब उन्मन अवस्था में मन परमात्मा से एकाकार हो जाता है और हृदय के वज्र-समान कठोर कपाट खुल जाते हैं।
+सच्ची भक्ति की युक्ति से मति निर्मल और सत्य-निष्ठ हो जाती है, और भ्रम तथा विकारों के सारे बंधन कट जाते हैं,
+तब सगुण और निर्गुण के एकत्व का बोध होकर मन उस परम आत्म-रस में लीन हो जाता है।
+मन को वश में करने के अनेक जतन किए गए, किंतु भ्रम की यह कठोर फांसी टालने से भी नहीं टलती,
+जब तक हृदय में सच्ची प्रेम-भक्ति प्रकट नहीं होती, तब तक रविदास का मन उदास और विरक्त ही रहता है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गउड़ी बैरागणि (Gauri Bairagani) and preserved on Ang 346 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+In the Golden Age reigned truth, in Treta sacrificial rites, in Dvapara ceremonial worship bold;
+Yet in this Dark Age of Kali, the Sacred Name alone is the anchor to hold!
+How shall I cross this fathomless ocean of worldly strife, O brothers tell?
+None explains unto me that supreme path which dissolves the wheel of birth and hell!
+Many diverse faiths and external rituals mortals display and preach abroad,
+Yet by what pure deed is the soul unchained, attaining the perfection of the Lord?
+Contemplating scriptures, Vedas, and Puranas, doubts still torment the human breast;
+Skepticism forever haunts the heart; who can slay this haughty ego and grant rest?
+Outwardly the body is washed with holy waters, while inside fester dark desires and pride;
+Like an elephant throwing dust upon itself after bathing, can such false purity abide?
+As the dark night vanishes the instant the golden sun pours down its ray,
+And as base copper turns to pure gold the moment it touches the philosopher's stone without delay;
+Even so, when through ancient destiny the seeker meets the Master, the Divine Touchstone rare,
+The mind ascends to transcendental heights, unlocking the adamantine gates of despair!
+Righteous devotion cleanses the understanding, cutting delusion's binding snare in twain;
+The soul tastes the nectar of Oneness where Saguna and Nirguna in unity reign.
+Endless austerities were practiced to curb the mind, yet the noose of illusion remains unloosed;
+Until spontaneous loving devotion dawns within, Ravidas stands detached, longing for the Beloved Truth!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गउड़ी बैरागणि (Gauri Bairagani))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 346 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (अज्ञान की नींद से जागो (Awakening from the Slumber of Delusion))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **युग-धर्म और नाम-स्मरण**:
+   तुलसीदास के 'कलयुग केवल नाम अधारा' के पूर्ववर्ती संत रविदास जी स्पष्ट करते हैं कि कलियुग में जटिल कर्मकांड निष्प्रभावी हैं; केवल नाम-सिमरन ही तारक है।
+2. **गज-स्नान का रूपक (Elephant Bath)**:
+   हाथी नदी में नहाने के तुरंत बाद अपनी सूंड से धूल अपने ऊपर डाल लेता है। आंतरिक शुद्धि के बिना तीर्थ-स्नान गज-स्नान के समान व्यर्थ है।
+3. **पारस-गुरु और वज्र-कपाट**:
+   सद्गुरु पारस हैं जो शिष्य के तांबे (अहंकार) को सोना बना देते हैं, जिससे अंतःकरण के 'बजर कपाट' (अहंकार के बंद द्वार) खुल जाते हैं।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1013,7 +1095,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-11"></a>
 ## शब्द 11: म्रिग मीन भ्रिंग पतंग कुंचर एक दोख बिनास
-**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 487 | **केंद्रीय भाव:** सतगुरु की कृपा से भवसागर पार (Crossing the Cosmic Ocean by Guru's Grace)
+**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 486 | **केंद्रीय भाव:** पंच-विकार और अविद्या का नाश (The Five Senses and the Lamp of Wisdom)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1075,27 +1157,41 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग आसा (Asa) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मृग नाद (ध्वनि) के, मीन रस (स्वाद) के, भौंरा गंध के, पतंगा रूप (अग्नि) के, और हाथी स्पर्श के एक-एक दोष से नष्ट हो जाते हैं;
+किंतु जिस मनुष्य के भीतर ये पांचों असाध्य दोष (काम, क्रोध, लोभ, मोह, अहंकार) एक साथ विद्यमान हों, उसकी मुक्ति की भला कितनी आशा हो सकती है?
+हे माधव! इस जीव ने अविद्या और अज्ञान से ही अपना हित मान लिया है,
+जिसके कारण उसके अंतःकरण का विवेक रूपी दीपक मलिन और बुझा हुआ हो गया है।
+पशु-पक्षी की तिर्यक योनियों में जीव अचेत रहकर जन्म लेते हैं, वे पाप और पुण्य के विचार से रहित हैं;
+किंतु यह अत्यंत दुर्लभ मानव-देह पाकर भी मनुष्य ने कुसंगति और ओछे आचरण को ही अपना रखा है।
+समस्त जीव-जंतु जहाँ-जहाँ भी विचरण करते हैं, वे अपने पूर्व कर्मों के बंधन में बंधे हुए भटकते हैं,
+काल की अटूट फांसी उन पर बंधी है, और सांसारिक उपायों से इससे छूटने का कोई मार्ग नहीं निकलता।
+रविदास प्रार्थना करता है—हे प्रभु! आपका यह दास अत्यंत विरक्त है, आप गुरु-ज्ञान देकर मेरे भ्रम की तपन को शांत कीजिए,
+हे भक्तों के भय को हरने वाले परमानंद प्रभु! अंत समय में मुझे अपनी पावन शरण प्रदान कीजिए।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग आसा (Asa) and preserved on Ang 487 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+The deer is snared by sound, the fish by taste, the bee by scent, the moth by radiant sight,
+The wild elephant falls trapped by touch alone—each slain by a single sensory appetite!
+Yet in whose frail heart all five incurable vices dwell together day and night,
+What hope of salvation remains for that mortal, lost in darkness devoid of light?
+O Madhava! This wayward soul has forged its love with ignorance and worldly deceit,
+Whereby the inner lamp of discerning wisdom lies dimmed in defeat!
+In sub-human forms creatures wander unawakened, unburdened by thought of sin or grace;
+Yet having attained this precious human jewel, man clings to vile company in haste!
+Sentient beings across the realms are driven helplessly by deeds of their own making,
+The inescapable noose of Death binds them tight, every earthly remedy forsaking.
+Proclaims Ravidas, Thy detached servant: Quench this burning fever through the Master's wisdom deep,
+O Dispeller of Devotees' Fear, Supreme Blissful Lord, grant salvation before the final sleep!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग आसा (Asa))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 487 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (सतगुरु की कृपा से भवसागर पार (Crossing the Cosmic Ocean by Guru's Grace))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **पंच-दोष का शास्त्रीय रूपक**:
+   भारतीय दर्शन में पांचों इंद्रियों के वशीभूत होकर नष्ट होने वाले पांच जीवों (मृग, मीन, भृंग, पतंग, कुंजर) का दृष्टांत देकर मनुष्य की दयनीय स्थिति का चित्रण किया गया है।
+2. **विवेक-दीप का बुझना**:
+   अविद्या के प्रभाव से मनुष्य का विवेक नष्ट हो जाता है, जिससे वह दुर्लभ मानव जन्म को व्यर्थ गंवा देता है।
+3. **'भै हरन परमानंद'**:
+   इन असाध्य विकारों से मुक्ति केवल परमात्मा के अनुग्रह और सद्गुरु के ज्ञान से ही संभव है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1103,7 +1199,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-12"></a>
 ## शब्द 12: संत तुझी तनु संगति प्रान
-**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 488 | **केंद्रीय भाव:** जन्म-मरण का चक्र और आत्म-साक्षात्कार (Transmigration and Direct Self-Realization)
+**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 486 | **केंद्रीय भाव:** संत और भगवंत की अभिन्नता (Oneness of the Saint and the Supreme Lord)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1160,27 +1256,38 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग आसा (Asa) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे प्रभु! संतजन ही आपका साक्षात शरीर हैं, और संतों की संगति ही आपके प्राण हैं,
+सद्गुरु के पूर्ण ज्ञान से यह जाना जा सकता है कि संत ही साक्षात देवाधिदेव के स्वरूप हैं।
+संतों की संगति और संतों के मुख से प्रभु-कथा का रस ही सर्वोत्तम अमृत है,
+हे देवाधिदेव! मुझे संतों के पावन चरणों का अनन्य प्रेम प्रदान कीजिए।
+संतों का पावन आचरण ही मेरा जीवन बने, संतों का मार्ग ही मेरा मार्ग बने, और मैं संतों की दासों जैसी सेवा करूँ।
+मैं आपसे भक्ति रूपी एक और चिंतामणि रत्न मांगता हूँ—
+कि मुझे कभी किसी असंत, दुराचारी और पापी जन की संगति में मत डालना।
+रविदास सत्य वचन कहता है—जो इस मर्म को जानता है, वह ज्ञानवान है,
+सच्चे संत और उस अनंत परमात्मा के बीच रंचमात्र भी कोई अंतर नहीं होता।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग आसा (Asa) and preserved on Ang 488 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+The enlightened saints are Thy very embodiment, O Lord, their fellowship Thy living breath;
+Through the True Master's wisdom, the holy saint is revealed as God transcending death!
+The communion of saints and the nectar of divine discourse from their lips divine,
+Bestow upon me, O Lord of Lords, that sublime love for holy fellowship may shine!
+Let the noble conduct of saints be my conduct, let the path of saints be my sacred way;
+To be the humble servant of Thy devotees is the supreme prayer I pray.
+One more wish I beseech from Thee—the wish-fulfilling jewel of devotion pure:
+Never cast me into the wretched company of wicked hypocrites, unrighteous and impure!
+Proclaims Ravidas: Whosoever understands this mystery knows the ultimate decree,
+Between the enlightened saint and the Infinite Lord, not the slightest divide can be!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग आसा (Asa))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 488 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (जन्म-मरण का चक्र और आत्म-साक्षात्कार (Transmigration and Direct Self-Realization))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **संत-महिमा की पराकाष्ठा**:
+   'संत अनंतहि अंतरु नाही'—भक्त और भगवान के बीच का द्वैत समाप्त हो जाता है। संत परमात्मा का ही सजीव रूप है।
+2. **कुसंग का निषेध**:
+   साधना की सबसे बड़ी रक्षा असंतों (पाखंडियों और दुर्जनों) की संगति से दूर रहना है।
+3. **भक्ति चिंतामणि**:
+   भक्ति सांसारिक फल की प्राप्ति के लिए नहीं, बल्कि स्वयं में सर्वोच्च रत्न (चिंतामणि) है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1188,7 +1295,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-13"></a>
 ## शब्द 13: कहा भइओ जउ तनु भइओ छिनु छिनु
-**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 488 | **केंद्रीय भाव:** हरि-कीर्तन ही परम औषधि (Divine Praises as the Sovereign Panacea)
+**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 487 | **केंद्रीय भाव:** अखंड प्रेम: देह छिद जाए, पर प्रीति न छूटे (Unshakeable Love Beyond Physical Pain)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1240,27 +1347,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग आसा (Asa) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+यदि मेरा यह नश्वर शरीर छिन्न-भिन्न होकर टुकड़े-टुकड़े भी हो जाए, तो क्या परवाह?
+तेरा यह दास तो केवल इस बात से डरता है कि कहीं तेरे चरणों का पावन प्रेम न छूट जाए!
+मेरे मन ने तो आपके पावन चरण-कमलों को ही अपना शाश्वत घर बना लिया है,
+नाम-रस का निरंतर पान करते हुए मैंने उस घट-घट वासी राम का अविनाशी धन प्राप्त कर लिया है।
+सांसारिक संपत्ति और विपत्ति तो माया के पर्दे मात्र हैं, जो आते और जाते रहते हैं,
+तेरा सच्चा दास इन सांसारिक सुख-दुखों के प्रपंचों में कभी लिप्त नहीं होता।
+तेरा यह सेवक तो आपके निश्छल प्रेम की पावन डोरी में दृढ़ता से बंधा हुआ है,
+रविदास कहता है—भला किस गुण के बल पर मैं इस मधुर प्रेम-बंधन से मुक्त होने की इच्छा करूँ?
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग आसा (Asa) and preserved on Ang 488 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+What does it matter if this mortal flesh be rent asunder and torn apart?
+Thy servant fears only lest Thy sacred love should ever depart from his heart!
+In Thy lotus feet alone, my wandering spirit has built its eternal home;
+Drinking the nectar of Thy Holy Name, the priceless wealth of Ram has become my own.
+Worldly fortune and worldly affliction are but passing veils of transient delusion;
+Thy faithful servant remains untainted, untouched by earthly sorrow or illusion.
+Bound firmly in the golden cord of Thy divine and unconditional love,
+Proclaims Ravidas: By what virtue would I ever seek release from this sweet bond from above?
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग आसा (Asa))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 488 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (हरि-कीर्तन ही परम औषधि (Divine Praises as the Sovereign Panacea))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **देह-भाव से मुक्ति (Transcendence of Body Consciousness)**:
+   रविदास जी घोषणा करते हैं कि शारीरिक कष्ट या मृत्यु भी प्रभु-प्रेम को डिगा नहीं सकते।
+2. **प्रेम की जेवरी (The Bond of Love)**:
+   संसार मोह की जंजीरों में बंधा है, जबकि भक्त प्रभु के प्रेम की पावन डोरी में बंधकर परम स्वतंत्र हो जाता है।
+3. **संपत्ति-विपत्ति में समभाव**:
+   सांसारिक लाभ और हानि को 'माया का पर्दा' मानकर साधक विचलित नहीं होता।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1268,7 +1383,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-14"></a>
 ## शब्द 14: हरि हरि हरि हरि हरि हरि हरे
-**राग:** राग गूजरी (Gujri) | **आदि ग्रंथ अंग (Ang):** 525 | **केंद्रीय भाव:** प्रेम-भक्ति का अनुपम रस (The Matchless Nectar of Loving Devotion)
+**राग:** राग आसा (Asa) | **आदि ग्रंथ अंग (Ang):** 487 | **केंद्रीय भाव:** हरि-सिमरन से युगों का उद्धार: कबीर और नामदेव की साखी (Redemption through Hari's Name)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1320,27 +1435,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गूजरी (Gujri) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हरि, हरि, हरि, हरि, निरंतर उस कृपालु हरि का ही सिमरन करो!
+हरि का स्मरण करके कितने ही दीन भक्त इस भवसागर से सहज ही तर गए।
+हरि के पावन नाम के प्रभाव से जुलाहा कबीर संसार में जगमगा उठे,
+और उनके जन्म-जन्मांतर के संचित कर्मों के सारे बही-खाते कट गए।
+बालक नामदेव ने जब प्रेम से प्रभु को दूध का कटोरा पिलाया,
+तो वे पुनः इस संसार में जन्म-मरण के संताप में नहीं आए।
+प्रभु का दास रविदास भी उसी राम के पावन रंग में पूर्णतः रंग गया है,
+और सद्गुरु की अगाध कृपा से वह कभी नरक और अज्ञान के गर्त में नहीं जाएगा।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गूजरी (Gujri) and preserved on Ang 525 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Chant Hari, Hari, Hari, Hari, ceaselessly contemplate the Merciful Lord alone!
+By meditating on Hari, countless humble seekers have crossed the ocean of the unknown.
+Through the wondrous power of Hari's Name, Kabir the weaver shone luminous and bright;
+The ledger of his past births' karmic debt was torn and banished into the night!
+When young Namdev offered the bowl of milk in pure devotion sincere,
+The Lord drank it, freeing him from rebirth's agony and fear.
+Servant Ravidas is likewise deeply dyed in the glorious hues of Ram's grace;
+By the True Master's blessing, hell can never claim his spirit or his place!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गूजरी (Gujri))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 525 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (प्रेम-भक्ति का अनुपम रस (The Matchless Nectar of Loving Devotion))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **संत-परंपरा की निरंतरता**:
+   रविदास जी कबीर और नामदेव जैसे समकालीन और पूर्ववर्ती संतों का आदरपूर्वक स्मरण करते हैं, जिन्होंने जातिगत सीमाओं को तोड़कर नाम-सिमरन से सर्वोच्च पद पाया।
+2. **कर्म-लेख का कटना**:
+   'काटे कागर'—जन्म-जन्मांतर के संचित कर्मों का लेखा-जोखा प्रभु के अनुग्रह से तत्काल समाप्त हो जाता है।
+3. **राम-रंग की स्थिरता**:
+   हरि के रंग में रंग जाने के बाद आत्मा जन्म-मरण और नरक के भय से मुक्त हो जाती है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1348,7 +1471,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-15"></a>
 ## शब्द 15: जब हम होते तब तू नाही अब तूही मै नाही
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 657 | **केंद्रीय भाव:** जल तरंग और कनक कुंडल (The Ocean and Waves: Non-Dual Oneness)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 657 | **केंद्रीय भाव:** जब हम होते तब तू नाही: अहंकार की समाप्ति और अद्वैत (Extinction of Ego and Non-Dual Awakening)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1410,27 +1533,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जब मेरे भीतर 'मैं' (अहंकार) का वास था, तब हे प्रभु! तेरा साक्षात्कार नहीं था; अब केवल 'तू ही तू' है और मेरा 'मैं' मिट चुका है!
+जैसे प्रचंड वायु के शांत होने पर समुद्र की उठती हुई लहरें विलीन होकर केवल जल ही जल रह जाती हैं।
+हे माधव! इस संसार के संबंध में यह कैसा विचित्र भ्रम फैला हुआ है,
+जैसा मनुष्य अज्ञानवश मानता है, वास्तव में सत्य वैसा बिल्कुल नहीं है।
+जैसे कोई राजा अपने स्वर्णिम सिंहासन पर सो जाए और स्वप्न में स्वयं को कंगाल भिखारी देखने लगे,
+साम्राज्य के विद्यमान रहते हुए भी वह स्वप्न के वियोग में दुख पाता है; ठीक ऐसी ही अज्ञानपूर्ण दशा हम जीवों की हो गई थी।
+जैसे रस्सी में विषैले सर्प का मिथ्या भ्रम हो जाता है, अब सद्गुरु ने मुझे उसका वास्तविक मर्म समझा दिया है,
+जैसे कंगन और कुंडल के अनेक आभूषणों में अज्ञानी भेद देखता है, किंतु अब यह समझ आ गया है कि मूल तत्व केवल स्वर्ण ही है।
+समस्त चराचर में एक ही स्वामी अनेक रूपों में प्रकट होकर रमण कर रहा है, और प्रत्येक घट में वही आत्मानंद भोग रहा है,
+रविदास कहता है—वह परमात्मा हमारे अपने हाथों से भी अधिक निकट है, अब जो सहज भाव से घटित हो रहा है, वही सत्य है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 657 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+When 'I' (the ego) held sway within, Thou wert not revealed; now Thou alone art, and my 'I' is completely stilled!
+As billows that rise on the deep ocean dissolve when the storm is calm, leaving only waters fulfilled.
+O Madhava! What strange illusion bewitches this earthly sphere?
+That which mortal minds imagine is not what truly abides here!
+A monarch sleeping upon his golden throne dreams he has become a beggar poor and bare;
+Possessing an empire yet weeping in imaginary grief—such was the plight of our soul's despair!
+Like the false terror of a serpent perceived in an innocent coiled rope, the mystery is now made clear;
+Like diverse bracelets of gold mistaken for distinct forms, the single Golden Essence doth appear!
+In all creation, the One Sovereign Lord manifests in myriad forms, enjoying bliss in every heart;
+Proclaims Ravidas: Closer than our own outstretched hand is the Lord; in spontaneous surrender play thy part!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 657 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (जल तरंग और कनक कुंडल (The Ocean and Waves: Non-Dual Oneness))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **'अहम्' का विसर्जन ही मोक्ष**:
+   यह शब्द अद्वैत वेदांत और सूफी 'फना' (अहंकार की मृत्यु) का सर्वोच्च शिखर है। जहाँ 'मैं' है वहाँ ईश्वर नहीं; जहाँ ईश्वर प्रकट होता है, वहाँ 'मैं' विलीन हो जाता है।
+2. **स्वप्न में रंक बने राजा का रूपक**:
+   जीव मूलतः सच्चिदानंद ब्रह्म है, किंतु अविद्या के स्वप्न में वह स्वयं को असहाय और दुखी मान बैठा है। जागरण होते ही वह पुनः सम्राट है।
+3. **रज्जु-सर्प न्याय**:
+   रस्सी में सांप का भ्रम प्रकाश होते ही नष्ट हो जाता है। ज्ञान होते ही जगत का प्रपंच ब्रह्म में समा जाता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1438,7 +1573,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-16"></a>
 ## शब्द 16: जउ हम बांधे मोह फास हम प्रेम बधनि तुम बाधे
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** दीन-बंधु प्रभु की अगाध कृपा (Boundless Mercy of the Redeemer of the Meek)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** प्रेम की डोरी बनाम मोह की फांसी (The Bond of Love vs The Trap of Delusion)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1500,27 +1635,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+यदि आपने हमें सांसारिक मोह-माया की फांसी में बांधा था, तो हमने भी आपको अपने अनन्य प्रेम के बंधन में बांध लिया है!
+अब आप हमारे प्रेम के बंधन से छूटने का जतन करके देखिए; हम तो आपका निरंतर स्मरण करके मोह से मुक्त हो चुके हैं!
+हे माधव! आप भली-भांति जानते हैं कि हमारे हृदय का प्रेम कैसा है,
+अब आप हमारे साथ भला क्या कर सकेंगे? हम तो आपके प्रेम में पूर्ण समर्पित हैं।
+मछली को जल से पकड़कर निकाला जाता है, काटा जाता है, और अनेक प्रकार से पकाया जाता है,
+टुकड़े-टुकड़े करके उसे भोजन बना लिया जाता है, फिर भी उसका जल के प्रति अनन्य प्रेम कभी समाप्त नहीं होता।
+यह परमात्मा किसी के पिता की बपौती नहीं है; वह तो केवल उसी का होता है जो सच्चे भाव से उससे प्रीति करता है,
+मोह का पर्दा संपूर्ण संसार पर छाया हुआ है, किंतु जो अनन्य भक्त हैं, वे इस संताप से सर्वथा मुक्त हैं।
+कहते हैं रविदास—जब हमारे हृदय में ऐसी अनन्य भक्ति उमड़ पड़ी है, तो अब हम किससे अपनी व्यथा कहें?
+जिस परमात्मा के दर्शन के लिए हमने रात-दिन आराधना की, यदि उसका साक्षात्कार न हो, तो यह विरह-दुख अब भी सहना पड़ रहा है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 658 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+If Thou didst bind us in the tangled web of worldly illusion, we have bound Thee in the cord of love divine!
+Strive now to break free from our embrace; we have already won release by worshipping at Thy shrine!
+O Madhava! Thou knowest full well the depth of our heart's sincere plea;
+What canst Thou do against us now, when our spirit is merged in Thee?
+The fish is caught from the waters, sliced, and cooked in diverse fire;
+Torn piece by piece and eaten as food, yet its dying thirst for water will never expire!
+The Sovereign King belongs to no man's hereditary pride; He belongs alone to love sincere;
+The veil of attachment blankets the world, yet the true devotee knows neither grief nor fear.
+Proclaims Ravidas: Such intense, consuming devotion has blossomed within, to whom shall I speak my sigh?
+If the Beloved for whom I pined remains unseen, in sweet agony of longing must I lie!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 658 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (दीन-बंधु प्रभु की अगाध कृपा (Boundless Mercy of the Redeemer of the Meek))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **भक्त की प्रेम-भरी चुनौती (Mystic Boldness)**:
+   रविदास जी ईश्वर को चुनौती देते हैं कि आपने हमें मोह में बांधा, हमने आपको प्रेम में बांध लिया—अब आप छूटकर दिखाइए। यह दास्य और माधुर्य भक्ति का अनूठा संगम है।
+2. **मीन (मछली) का अमर रूपक**:
+   मछली जल के बिना तड़पकर मर जाती है, पकने पर भी उसकी प्यास जल से ही जुड़ी रहती है। सच्चा भक्त शरीर के नाश होने पर भी प्रभु-प्रेम नहीं छोड़ता।
+3. **भगवान किसी की बपौती नहीं**:
+   'आपन बापै नाही किसी को'—ईश्वर पर किसी कुल, जाति या राजा का एकाधिकार नहीं है। वह केवल निष्कपट भाव का भूखा है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1528,7 +1675,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-17"></a>
 ## शब्द 17: दुलभ जनमु पुंन फल पाइओ बिरथा जात अबिबेकै
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** कासी के प्रतिष्ठित पंडित और चर्मकार रविदास (The Cobbler and the Banaras Pundits)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** दुर्लभ मानव जन्म और अविवेक का संताप (The Rare Human Birth Lost to Ignorance)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1580,27 +1727,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+पूर्व जन्मों के महान पुण्यों के फलस्वरूप यह दुर्लभ मानव जन्म प्राप्त हुआ था, किंतु अविवेक और अज्ञान के कारण यह व्यर्थ ही बीता जा रहा है,
+इंद्र राजा के समान भव्य महलों और राज-सिंहासन का सुख भी यदि मिल जाए, तो बताओ हरि-भक्ति के बिना उसका क्या मूल्य है?
+मनुष्य ने उस घट-घट वासी राजा राम के रस का कभी विचार ही नहीं किया,
+जिस दिव्य रस का एक घूंट पीते ही संसार के अन्य सभी तुच्छ रस सदा के लिए विस्मृत हो जाते हैं।
+जानते-बूझते हुए भी हम अज्ञानी और बावले बने रहे, और व्यर्थ की चिंताओं में हमारे अमूल्य दिन बीतते चले गए,
+विषय-वासनाओं की इंद्रियां अत्यंत बलवान हो गईं और हमारी विवेक-बुद्धि क्षीण पड़ गई, जिससे परमार्थ का कोई मार्ग न दिखा।
+हम कहते कुछ और हैं और आचरण कुछ और करते हैं, माया की इस अपार लीला की हमें कोई समझ नहीं पड़ती,
+रविदास कहता है—हे प्रभु! आपका यह दीन दास अत्यंत विरक्त है, अपने क्रोध को त्यागकर इस जीव पर अपनी अगाध दया कीजिए!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 658 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+As the blessed fruit of ancient virtue was this rare human embodiment gained,
+Yet through utter lack of discernment, its golden moments have vanished unprofaned!
+Though one attain the royal throne of Indra with all its heavenly grace,
+Without devotion to Hari, tell me, what worth has such transient place?
+Mortals never tasted the supreme nectar of Sovereign Ram within the soul,
+Drinking a drop of which, all other sensory flavors lose their hollow control!
+Knowing the truth yet acting like madmen, in pointless anxiety our days depart;
+The senses grow mighty and fierce, while the lamp of discernment is dimmed in the heart.
+We preach one doctrine with our lips, yet live another in hypocrisy and pride;
+The unfathomable web of delusion leaves our bewildered mind untried.
+Proclaims Ravidas, Thy humble and sorrowing servant: Cast aside Thy wrath, O Lord of grace,
+Shower Thy divine compassion upon this trembling soul in its final race!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 658 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (कासी के प्रतिष्ठित पंडित और चर्मकार रविदास (The Cobbler and the Banaras Pundits))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **मानव देह की अमूल्यता**:
+   चौरासी लाख योनियों के बाद मिला मानव जन्म आत्म-साक्षात्कार के लिए है, इसे विषय-भोगों में गंवाना आत्महत्या के समान है।
+2. **कथनी और करनी का द्वंद्व**:
+   'कहीअत आन अचरीअत अन'—पाखंड और दोहरे आचरण का संताप ही आध्यात्मिक पतन का कारण है।
+3. **'राजा राम को रसु'**:
+   ईश्वरीय रस की तुलना में देवराज इंद्र का सिंहासन भी तुच्छ और निरर्थक है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1608,7 +1767,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-18"></a>
 ## शब्द 18: सुख सागरु सुरतर चिंतामनि कामधेनु बसि जा के
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** जाति-पांति के अभिमान का विध्वंस (Dismantling Caste Hierarchy and Pride)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 658 | **केंद्रीय भाव:** सुख-सागर प्रभु और नाम की सर्वोच्चता (The Ocean of Bliss and the Sovereignty of the Name)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1660,27 +1819,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+वह परमात्मा सुखों का अथाह सागर है, कल्पवृक्ष, चिंतामणि रत्न और कामधेनु गाय सब जिसके वश में निवास करते हैं,
+चारों पुरुषार्थ (धर्म, अर्थ, काम, मोक्ष), अठारह सिद्धियां और नौ निधियां उस प्रभु की हथेली पर स्थित हैं।
+हे मेरी रसना! तू अन्य सभी व्यर्थ के प्रपंचों और वचनों की रचना को त्यागकर,
+निरंतर केवल हरि, हरि, हरि के पावन नाम का ही जप क्यों नहीं करती?
+वेदों और पुराणों के अनेक आख्यान और विधियां केवल चौंतीस अक्षरों की वर्णमाला के भीतर ही सिमटी हुई हैं,
+महर्षि वेदव्यास ने भी गहन विचार करके यही परम सत्य कहा है कि राम-नाम की बराबरी कोई दूसरा ग्रंथ नहीं कर सकता।
+जब समस्त सांसारिक उपाधियों और द्वंद्वों से रहित होकर सहज समाधि में बड़े भाग्य से प्रभु से लौ लग जाती है,
+तो रविदास कहता है—हृदय में आत्म-ज्ञान का ऐसा दिव्य प्रकाश होता है जिससे जन्म और मरण का सारा भय भाग जाता है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 658 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+The Supreme Lord is the Ocean of Boundless Bliss; the Wish-Fulfilling Tree, the Chintamani Gem, and the Celestial Cow dwell at His command;
+The four cardinal goals of life, the eighteen mystic powers, and the nine treasures rest within the palm of His hand!
+O my tongue! Discard all hollow prattle and eloquent worldly speech,
+Chant Hari, Hari, Hari alone, and the shores of eternal liberation reach!
+The diverse legends of Vedas, scriptures, and ancient rites are framed within thirty-four letters of the alphabet small;
+Sage Vyasa himself pondered and declared this supreme truth: Nothing equals Ram's Name in all!
+When unattached to worldly illusions, the soul merges in spontaneous contemplation by fortune rare,
+Proclaims Ravidas: Divine radiance dawns within the heart, banishing the dread of birth, death, and despair!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 658 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (जाति-पांति के अभिमान का विध्वंस (Dismantling Caste Hierarchy and Pride))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **नाम की सर्वोपरिता**:
+   वेदव्यास का प्रमाण देकर रविदास जी स्थापित करते हैं कि शास्त्र-ज्ञान चौंतीस अक्षरों का खेल है, जबकि 'राम-नाम' अक्षरों से परे साक्षात ब्रह्म है।
+2. **अलौकिक सिद्धियों की तुच्छता**:
+   चार पदार्थ (धर्म, अर्थ, काम, मोक्ष) और अष्ट सिद्धियां ईश्वर के चरणों की दासी हैं; भक्त सिद्धियां नहीं, स्वयं ईश्वर को चाहता है।
+3. **सहज समाधि**:
+   कठिन हठयोग के स्थान पर सहज भाव से चित्त का प्रभु में लीन होना ही सर्वोच्च अवस्था है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1688,7 +1855,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-19"></a>
 ## शब्द 19: जउ तुम गिरिवर तउ हम मोरा
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 659 | **केंद्रीय भाव:** सुख-सागर प्रभु का अनन्य ध्यान (Meditation on the Ocean of Eternal Bliss)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 659 | **केंद्रीय भाव:** जउ तुम गिरिवर तउ हम मोरा: अनन्य प्रेम का संबंध (If Thou Art the Mountain, I Am the Peacock)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1760,27 +1927,43 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे प्रभु! यदि आप विशाल पर्वत हैं, तो हम उस पर आनंद से नाचने वाले मयूर (मोर) हैं,
+यदि आप गगन के पूर्ण चंद्रमा हैं, तो हम आपके रूप को एकटक निहारने वाले चकोर पक्षी हैं।
+हे माधव! यदि आप हमारे प्रेम की डोरी नहीं तोड़ेंगे, तो हम अपनी ओर से इसे कभी नहीं तोड़ेंगे,
+भला आपसे अपनी प्रीति तोड़कर हम संसार में किसी दूसरे के साथ नाता कैसे जोड़ सकते हैं?
+यदि आप प्रकाशमान दीपक हैं, तो हम उसमें जलने वाली पवित्र बाती हैं,
+यदि आप पावन तीर्थ हैं, तो हम आपके दर्शन के लिए आने वाले निष्ठावान तीर्थयात्री हैं।
+हमने तो आपके साथ ही अपनी सच्ची और अविनाशी प्रीति जोड़ी है,
+आपसे नेह जोड़कर हमने संसार के समस्त नश्वर बंधनों से अपना नाता तोड़ लिया है।
+मैं जहाँ-जहाँ भी जाता हूँ, वहाँ-वहाँ केवल आपकी ही पावन सेवा में उपस्थित रहता हूँ,
+आपके समान कृपालु स्वामी संसार में कोई दूसरा नहीं है, न कोई अन्य देवता है।
+आपके पावन भजन और सिमरन से यमराज की कठोर फांसी तत्काल कट जाती है,
+इसी अनन्य प्रेम-भक्ति के भाव से रविदास निरंतर आपके चरणों का गुणगान करता है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 659 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+If Thou art the lush verdant mountain, O Lord, then I am the joyful peacock dancing free;
+If Thou art the radiant full moon, then I am the devoted chakor gazing ceaselessly at Thee!
+O Madhava! If Thou breakest not our bond of love, never shall I break it on my part;
+Severing my sacred bond with Thee, unto whom else in this wide universe could I bind my heart?
+If Thou art the burning earthen lamp, then I am the faithful wick within Thy light;
+If Thou art the holy pilgrimage shrine, then I am the pilgrim walking day and night.
+True, everlasting love have I forged with Thee, O Lord of grace;
+Binding my soul to Thee, I have severed all transient ties in this earthly place.
+Wherever my footsteps wander, there I abide in Thy sacred adoration and deed;
+There is no other Master like Thee, no other deity to answer the soul's deep need.
+By chanting Thy praises, the terrible noose of Death is shattered into dust;
+Singing in ecstasies of pure devotion, Ravidas places in Thee his eternal trust!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 659 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (सुख-सागर प्रभु का अनन्य ध्यान (Meditation on the Ocean of Eternal Bliss))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **भक्ति-साहित्य का अमर गीत**:
+   यह पद भारतीय संत-काव्य का सबसे प्रसिद्ध और मधुरतम पद है। पर्वत-मोर, चंद्र-चकोर, दीपक-बाती, और तीर्थ-यात्री के चार अमर रूपकों द्वारा अनन्य प्रेम की व्याख्या की गई है।
+2. **'तुम सिउ तोरि कवन सिउ जोरहि'**:
+   परमात्मा से संबंध जुड़ने का अर्थ है संसार के झूठे संबंधों का स्वतः छूट जाना।
+3. **सर्वत्र ईश्वर की सेवा**:
+   'जह जह जाउ तहा तेरी सेवा'—साधक के लिए समस्त कर्म और समस्त स्थान पूजा बन जाते हैं।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1788,7 +1971,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-20"></a>
 ## शब्द 20: जल की भीति पवन का थ्मभा रक्त बुंद का गारा
-**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 659 | **केंद्रीय भाव:** संत नामदेव, कबीर और सधना का उद्धार (Redemption of Saints Namdev, Kabir, and Sadhna)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 659 | **केंद्रीय भाव:** जल की भीति, पवन का खंभा: देह की क्षणभंगुरता (Wall of Water, Pillar of Air)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1860,27 +2043,43 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सोरठि (Sorath) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+पानी की यह देह-रूपी कच्ची दीवार है, श्वासों की चंचल पवन का खंभा है, और रक्त की बूंदों का गारा लगाकर इसे बनाया गया है,
+हड्डियों, मांस और नसों के इस पिंजरे के भीतर बेचारा जीवात्मा रूपी पक्षी अस्थाई रूप से वास कर रहा है।
+हे अज्ञानी प्राणी! तू संसार में 'मेरा-तेरा' का अहंकार क्यों करता है?
+यह जीवन तो केवल उस वृक्ष के समान है, जहाँ सांझ होते ही पंछी बसेरा करते हैं और भोर होते ही उड़ जाते हैं।
+तू ऊंची दीवारें चुनवाता है और गहरी नींव खुदवाता है,
+किंतु अंत में केवल साढ़े तीन हाथ भूमि ही तेरी वास्तविक सीमा होगी!
+तू अपने घुंघराले बालों को संवारता है और सिर पर टेढ़ी पगड़ी बांधकर इतराता है,
+किंतु अंत में यह सुंदर शरीर श्मशान में जलकर भस्म की एक ढेरी मात्र बन जाएगा।
+चाहे तेरे पास ऊंचे-ऊंचे राजमहल हों और सुंदर रमणियां हों,
+हरि के पावन नाम के बिना तू जीवन की इस अनमोल बाजी को हार चुका है।
+मेरी जाति भी संसार में कमीनी मानी गई, मेरी पंगत भी तुच्छ मानी गई, और मेरा जन्म भी हीन समझा गया,
+चर्मकार रविदास पुकारता है—हे राजा रामचंद्र! मैं तो केवल आपके पावन चरणों की शरण में आ पड़ा हूँ।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सोरठि (Sorath) and preserved on Ang 659 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+A frail wall of water, a trembling pillar of air, with mortar made of drops of blood;
+A cage of bones, flesh, and sinews where the poor soul-bird dwells amidst the transient flood!
+O mortal being! Why boastest thou of 'mine' and 'thine' in foolish pride?
+Like birds that roost upon a tree at dusk, and take to flight at morning tide!
+Thou buildest mighty walls and layest deep foundations in the sand,
+Yet only three-and-a-half cubits of earth shall mark Thy final piece of land!
+Thou stylest Thy handsome locks and wearest a jaunty turban tilted high,
+Yet this proud body shall reduce to a heap of lifeless ash beneath the sky!
+Though one possess magnificent palaces and beauteous maidens fair,
+Without the Sovereign Name of Ram, the game of life is lost to despair.
+Lowly is my caste, lowly my worldly rank, and despised was the birth I bore;
+Yet declares Ravidas the cobbler: O Sovereign King Ramachandra, I seek Thy refuge forevermore!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सोरठि (Sorath))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 659 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (संत नामदेव, कबीर और सधना का उद्धार (Redemption of Saints Namdev, Kabir, and Sadhna))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **शरीर-रचना का भौतिक यथार्थ**:
+   'जल की भीति पवन का थम्भा'—शरीर की नश्वरता को उजागर करने वाला यह अत्यंत मार्मिक रूपक है। पंचतत्व का यह ढांचा किसी भी क्षण ढह सकता है।
+2. **साढ़े तीन हाथ की सीमा**:
+   सिकंदर हो या साधारण जन, मृत्यु के बाद सबको साढ़े तीन हाथ जमीन ही मिलती है। अहंकार का इससे बड़ा उपचार नहीं हो सकता।
+3. **सामाजिक हीनता का आध्यात्मिक रूपांतरण**:
+   संसार जिस जाति और जन्म को हीन समझता है, रविदास जी उसे प्रभु की शरण में समर्पित करके स्वयं को अमर कर लेते हैं।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1888,7 +2087,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-21"></a>
 ## शब्द 21: चमरटा गांठि न जनई
-**राग:** राग धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** प्रभु जी तुम स्वामी हम दासा (Lord, Thou Art Master, I Am Servant)
+**राग:** राग सोरठि (Sorath) | **आदि ग्रंथ अंग (Ang):** 659 | **केंद्रीय भाव:** सच्चा चर्मकार: सांसारिक जूते नहीं, राम-नाम की साधना (The True Cobbler)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1940,27 +2139,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग धनासरी (Dhanasri) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+यह नन्हा चर्मकार सांसारिक जूतियों को गांठना नहीं जानता,
+फिर भी यह सारा संसार अपनी फटी हुई जूतियां गंठवाने इसी के पास चला आता है!
+मेरे पास न तो वह सुआ (आर) है जिससे चमड़े को सीऊं,
+और न ही चमड़ा काटने की वह रांपी है जिससे जूते का तला बनाऊं।
+लोग संसार में अपने झूठे संबंधों और कर्मों को गांठ-गांठकर अत्यंत दुखी और परेशान हो गए हैं,
+किंतु मैं तो बिना किसी कर्मकांड को गांठें सीधे परमात्मा के परम पद पर जा पहुंचा हूँ!
+रविदास निरंतर उस कृपालु राम के पावन नाम का ही जप करता है,
+अब मुझे यमराज और मृत्यु के भय से कोई सरोकार नहीं रह गया है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग धनासरी (Dhanasri) and preserved on Ang 694 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+This humble cobbler knows not how to stitch the worldly shoe,
+Yet all the world arrives at his door to have their sandals mended anew!
+I hold no awl wherewith to pierce the leather hides of pride,
+Nor have I any shoemaker's blade to carve out soles beside!
+Mortals patch and stitch worldly attachments, ending in bitter grief and woe;
+Yet without stitching any earthly craft, unto the Supreme Abode I go!
+Ravidas contemplates the Sacred Name of Ram with each unceasing breath,
+No business remains between my liberated soul and the grim Lord of Death!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग धनासरी (Dhanasri))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 694 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (प्रभु जी तुम स्वामी हम दासा (Lord, Thou Art Master, I Am Servant))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **श्रम का आध्यात्मिक रूपक (Mystic Metaphor of Shoemaking)**:
+   रविदास जी अपने चर्मकार कर्म को आध्यात्मिक प्रतीक बना देते हैं। संसार माया के फटे जूतों (सांसारिक वासनाओं) को गांठने में जीवन बर्बाद करता है; संत अंतरात्मा को ईश्वर से जोड़कर पूर्ण मुक्त हो जाते हैं।
+2. **बिना आर और रांपी का चर्मकार**:
+   आंतरिक साधना में बाह्य औजारों की नहीं, बल्कि नाम-स्मरण और निष्कपट हृदय की आवश्यकता होती है।
+3. **यम-भय से मुक्ति**:
+   जिसका नाता सीधे परमात्मा से जुड़ गया, उसे मृत्यु और कर्मफल का कोई भय नहीं रहता।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -1968,7 +2175,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-22"></a>
 ## शब्द 22: हम सरि दीनु दइआलु न तुम सरि अब पतीआरु किआ कीजै
-**राग:** राग धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** प्रभु-स्मरण बिना सब व्यर्थ (Without Divine Remembrance, All is Futile)
+**राग:** राग धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** हम सरि दीनु दइआलु न तुम सरि: पूर्ण शरणागति (None Humble Like Me, None Merciful Like Thee)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2010,27 +2217,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग धनासरी (Dhanasri) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मेरे समान इस संसार में कोई दीन और असहाय नहीं है, और आपके समान कोई परम कृपालु नहीं है; अब इस सत्य की और क्या परीक्षा की जाए?
+हे प्रभु! आपकी अमृतवाणी सुनकर मेरा मन पूर्णतः शांत हो गया है, अब अपने इस दास को अपना पूर्ण स्वरूप प्रदान कीजिए।
+मैं उस घट-घट वासी रमईया राम के पावन चरणों पर बार-बार बलिहारी जाता हूँ,
+हे मेरे स्वामी! भला किस कारण से आप मुझसे मौन साधकर अबोल बने हुए हैं?
+हे माधव! न जाने कितने जन्मों से हम आपसे बिछड़े हुए भटक रहे थे, किंतु यह मानव जन्म केवल आपके चरणों के लेखे लगा है,
+रविदास कहता है—मैं आपके पावन दर्शन की आस लगाए जी रहा हूँ, आपके दर्शन किए बहुत लंबा समय बीत गया है!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग धनासरी (Dhanasri) and preserved on Ang 694 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+None is so utterly destitute as me, none so boundless in mercy as Thee;
+What further trial or testament, O Lord, need there ever be?
+Thy comforting words have won my heart, dissolving all worldly fear;
+Bestow Thy full perfection now upon Thy servant dear!
+I surrender my breath and being unto that All-Pervading King;
+Why dost Thou remain silent, O Lord, withholding the grace I sing?
+For countless births we wandered apart in separation's deep night,
+Yet this present birth is consecrated wholly to Thy celestial light!
+Proclaims Ravidas: I live solely on the longing hope to behold Thy face,
+Eons have passed since my weeping eyes drank in Thy divine embrace!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग धनासरी (Dhanasri))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 694 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (प्रभु-स्मरण बिना सब व्यर्थ (Without Divine Remembrance, All is Futile))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **भक्त और भगवान की परस्पर पूरकता**:
+   'हम सरि दीनु दइआलु न तुम सरि'—संत काव्य की सबसे प्रसिद्ध विनय-पंक्ति है। यदि भक्त परम दीन है, तो परमात्मा परम दयालु है; दोनों का मिलन स्वाभाविक है।
+2. **दीर्घ विरह का अंत**:
+   'बहुत जनम बिछुरे थे माधउ'—आत्मा अनेक योनियों के वियोग के बाद इस मानव जन्म में परमात्मा से मिलने आई है।
+3. **सच्ची व्याकुलता**:
+   ईश्वर की 'अबोलता' (मौन) भक्त के विरह को और तीव्र करती है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2038,7 +2253,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-23"></a>
 ## शब्द 23: चित सिमरनु करउ नैन अविलोकनो स्रवन बानी सुजसु पूरि राखउ
-**राग:** राग जैतसरी (Jaitsari) | **आदि ग्रंथ अंग (Ang):** 710 | **केंद्रीय भाव:** भव-व्याधि और काम-क्रोध का निवारण (Healing Worldly Afflictions and Passions)
+**राग:** राग धनासरी (Dhanasri) | **आदि ग्रंथ अंग (Ang):** 694 | **केंद्रीय भाव:** इंद्रियों का ईश्वरीय समर्पण और अनन्य प्रीति (Dedication of the Senses to the Divine)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2080,27 +2295,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग जैतसरी (Jaitsari) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मेरा चित्त निरंतर आपका सिमरन करे, मेरे नेत्र केवल आपके रूप का दर्शन करें, और मेरे कान आपकी अमृतवाणी और पावन सुयश से भरे रहें,
+मेरा मन रूपी भौंरा आपके पावन चरण-कमलों का रसपान करे, उन्हें हृदय में धारण रखे, और मेरी रसना अमृत राम-नाम का उच्चारण करे।
+हे गोविंद! आपके साथ मेरी यह पावन प्रीति कभी घटने न पाए,
+मैंने तो अपना सर्वस्व और अपने प्राणों की बाजी लगाकर इस अनमोल ईश्वरीय प्रेम को मोल लिया है!
+साधु-संतों की संगति के बिना हृदय में सच्चा प्रेम उत्पन्न नहीं होता, और प्रेम के बिना आपकी सच्ची भक्ति कभी संभव नहीं है,
+रविदास प्रभु से केवल यही एक प्रार्थना करता है—हे राजा राम! अपने इस दीन दास की लाज और प्रतिष्ठा को सदा बनाए रखना!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग जैतसरी (Jaitsari) and preserved on Ang 710 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Let my inner consciousness remember Thee, let mine eyes behold Thy form so sweet,
+Let mine ears be filled with Thy glorious praise, and let my mind bow at Thy lotus feet!
+May my soul become a honeybee resting in the chamber of Thy sacred grace,
+While my tongue chants the immortal nectar of Ram's Name in every place!
+Let not my holy love for Govind ever diminish, fade, or die;
+I purchased this priceless divine treasure at the cost of my life's own sigh!
+Without holy fellowship, sacred love never awakens within the breast,
+And devoid of divine love, no true adoration can ever stand the test!
+Proclaims Ravidas: Unto the Sovereign King I raise this humble plea:
+Preserve the honor of Thy servant, O Ram, through all eternity!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग जैतसरी (Jaitsari))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 710 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (भव-व्याधि और काम-क्रोध का निवारण (Healing Worldly Afflictions and Passions))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **इंद्रियों का उदात्तीकरण (Sublimation of Senses)**:
+   आंख, कान, जिह्वा और चित्त को विषय-विकारों से हटाकर परमात्मा के चरणों में समर्पित करना ही भक्ति योग है।
+2. **प्राणों के मोल पर प्रेम**:
+   'मोलि महगी लई जीअ सटै'—सच्चा प्रेम सस्ता नहीं होता; इसके लिए अहंकार और प्राणों का समर्पण करना पड़ता है।
+3. **सत्संगति प्रेम की जननी**:
+   बिना साधु-संगत के प्रेम नहीं उपजता, और बिना प्रेम के भक्ति असंभव है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2108,7 +2331,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-24"></a>
 ## शब्द 24: नाथ कछूअ न जानउ
-**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 793 | **केंद्रीय भाव:** ऊंचे मंदिर सुंदर नारी: मायावी जाल (Mansions, Wealth, and the Illusion of Maya)
+**राग:** राग जैतसरी (Jaitsari) | **आदि ग्रंथ अंग (Ang):** 710 | **केंद्रीय भाव:** पंच-विकारों का द्रोह और प्रभु-शरणागति (Treachery of the Five Senses and Divine Refuge)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2190,27 +2413,47 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सूही (Suhi) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे नाथ! मैं अज्ञानी जीव कुछ भी नहीं जानता,
+मेरा यह चंचल मन सांसारिक माया के हाथों में बिक चुका है!
+आप तो संपूर्ण जगत के स्वामी और परम सद्गुरु कहलाते हैं,
+और हम इस कलियुग के विकारों में लिप्त कामी जीव कहलाते हैं।
+इन पांच विकारों (काम, क्रोध, लोभ, मोह, अहंकार) ने मेरे मन को बिगाड़ कर भ्रष्ट कर दिया है,
+और पल-पल मुझे उस कृपालु हरि से दूर और विमुख कर दिया है।
+मैं जिधर भी देखता हूँ, उधर केवल दुखों और संतापों का ही ढेर दिखाई देता है,
+शास्त्र और वेद भी इसके साक्षी हैं, फिर भी यह अज्ञानी मन सत्य पर विश्वास नहीं करता।
+ऋषि गौतम की पत्नी अहिल्या और स्वयं देवराज इंद्र तथा उमापति शिव भी काम के प्रभाव से कलंकित हुए,
+इंद्र का सिर सहस्र भवों से आच्छादित हुआ और वे अपमानित होकर धरती पर आए।
+इन पांच विकार रूपी दूतों ने इस मूर्ख जीव को बुरी तरह मारकर आहत कर दिया है,
+किंतु यह मन इतना निर्लज्ज है कि बार-बार ठोकर खाकर भी अपनी हठ से नहीं हारता।
+रविदास कहता है—हे प्रभु! अब मैं क्या करूँ और किस प्रकार इस संकट से निकलूँ?
+रघुनाथ की पावन शरण को छोड़कर मुझ असहाय के लिए संसार में दूसरा कौन-सा आश्रय है?
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सूही (Suhi) and preserved on Ang 793 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+O Master! I know nothing of spiritual wisdom or celestial art;
+Unto the hands of worldly delusion, I have sold my wandering heart!
+Thou art acclaimed the Supreme Master and Guru of all creation wide,
+While we are known as creatures of Kaliyuga, steeped in lust and pride.
+These five inner thieves have corrupted and spoiled my understanding completely;
+Every fleeting second they drag my soul away from Hari's presence so sweetly!
+Wherever I turn my gaze, an ocean of agony and sorrow appears;
+Even the scriptures testify to this, yet this foolish mind sheds no repentant tears!
+Gautama's spouse was led astray, and proud Indra bore the mark of shame;
+Even great gods trembled before desire's fierce, consuming flame!
+These five inner adversaries have struck down this foolish soul in defeat;
+Yet so utterly shameless is this mind that it clings still to deceit!
+Proclaims Ravidas: What shall I do, O Lord, and whither shall I flee?
+Save for the sanctuary of Raghunath, who else can shelter me?
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सूही (Suhi))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 793 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (ऊंचे मंदिर सुंदर नारी: मायावी जाल (Mansions, Wealth, and the Illusion of Maya))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **पंच-विकारों की भीषणता**:
+   काम, क्रोध आदि को रविदास जी 'दूत' और 'डाकू' कहते हैं, जिन्होंने बड़े-बड़े देवताओं (इंद्र, अहिल्या आख्यान) को भी नहीं बख्शा।
+2. **आत्म-निरीक्षण की ईमानदारी**:
+   रविदास जी अपने मन की दुर्बलताओं को छिपाते नहीं, बल्कि ईश्वर के सामने नग्न सत्य रखकर शरणागत होते हैं।
+3. **रघुनाथ ही एकमात्र रक्षक**:
+   जब सारे मानवीय उपाय विफल हो जाते हैं, तब केवल ईश्वर की कृपा ही उद्धार करती है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2218,7 +2461,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-25"></a>
 ## शब्द 25: सह की सार सुहागनि जानै
-**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 793 | **केंद्रीय भाव:** जो दिन आवहि सो दिन जाही (Every Day that Dawns Must Depart)
+**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 793 | **केंद्रीय भाव:** सुहागिन और दुहागिन: प्रेम का सच्चा विरह (The Blessed Bride and the Abandoned Soul)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2300,27 +2543,47 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सूही (Suhi) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+अपने प्रियतम प्रभु के वास्तविक मूल्य को वही सौभाग्यवती सुहागिन जीवात्मा जानती है,
+जो अपने समस्त अहंकार को त्यागकर निरंतर ईश्वरीय सुख और परमानंद का आस्वादन करती है।
+वह अपना तन और मन सब प्रभु को अर्पित कर देती है और रंचमात्र भी परदा या दुराव नहीं रखती,
+वह अपने प्रियतम के अतिरिक्त संसार में किसी दूसरे को न देखती है, न किसी की बात सुनती है।
+वह सुहागिन भला उस अभागन के दुख को कैसे जान सकती है,
+जिसके अंतःकरण में कभी प्रभु-प्रेम का विरह-दर्द उठा ही नहीं?
+वह दुहागिन आत्मा अत्यंत दुखी है और दोनों लोकों (इहलोक और परलोक) से भ्रष्ट हो चुकी है,
+जिसने अपने जीवन में उस अविनाशी स्वामी की निरंतर अनन्य भक्ति नहीं की।
+परलोक का वह 'पुल-सिरात' मार्ग अत्यंत दुर्गम, संकरा और कष्टदायक है,
+जहाँ न कोई सखा होगा, न कोई संगी-साथी; जीव को वहाँ अकेले ही गमन करना होगा।
+यह दुखी और विरह-पीड़ित दास आपके पावन द्वार पर आ खड़ा हुआ है,
+मेरे हृदय में आपके दर्शन की अगाध प्यास है, किंतु अभी तक मुझे कोई उत्तर नहीं मिला।
+रविदास प्रार्थना करता है—हे प्रभु! मैं तो केवल आपकी पावन शरण में आ पड़ा हूँ,
+जैसे आप उचित समझें, वैसे ही मेरी परम गति और उद्धार कीजिए!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सूही (Suhi) and preserved on Ang 793 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+The blessed soul-bride alone comprehends the boundless worth of her Divine Spouse;
+Shedding all ego, she enjoys celestial ecstasies within His heavenly house!
+Surrendering body and mind unto Him, she keeps no secret veil between;
+Save for her Beloved Lord, nothing else in this universe is heard or seen!
+How can one who never felt the agonizing wound of divine love inside,
+Ever comprehend the secret yearning tears of the abandoned bride?
+Wretched and forlorn is the unfaithful soul, cast out from both worlds in pain,
+Who never adored the Eternal Master with unbroken love's sweet strain!
+The razor-sharp bridge of Pul-Sirat in the beyond is narrow, steep, and drear;
+No companion walks beside the traveler, walking in loneliness and fear!
+Afflicted by thirsting agony, Thy humble servant stands before Thy door;
+Yet no welcoming answer has returned to soothe my heart's core!
+Proclaims Ravidas: In Thy holy refuge alone I have cast my trembling fate;
+As it pleaseth Thee, O Lord, redeem my soul and unlock the golden gate!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सूही (Suhi))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 793 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (जो दिन आवहि सो दिन जाही (Every Day that Dawns Must Depart))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **सूफी और भारतीय रहस्यवाद का समन्वय**:
+   'पुल-सिरात' (इस्लामी रहस्यवाद का तीक्ष्ण पुल) और 'सुहागिन-दुहागिन' (भारतीय भक्ति का रूपक) का अद्भुत संगम।
+2. **प्रेम-दर्द की अनिवार्यता**:
+   'जा कै अंतरि दरदु न पाई'—जब तक ईश्वर के लिए अंतर्मन में विरह का दर्द नहीं होगा, तब तक मिलन का आनंद संभव नहीं।
+3. **पूर्ण आत्म-समर्पण**:
+   'जिउ जानहु तिउ करु गति मेरी'—भक्त अपनी मुक्ति का तरीका भी ईश्वर की इच्छा पर छोड़ देता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2328,7 +2591,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-26"></a>
 ## शब्द 26: जो दिन आवहि सो दिन जाही
-**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 794 | **केंद्रीय भाव:** एकै माटी के सब भांडे (All Vessels Fashioned from One Divine Clay)
+**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 793 | **केंद्रीय भाव:** जो दिन आवहि सो दिन जाही: समय की गति और जीवन का कूच (The Passing Days and the Final March)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2410,27 +2673,47 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग सूही (Suhi) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जो-जो दिन आते हैं, वे सब दिन बीतते चले जाते हैं;
+मनुष्य को अंततः इस संसार से कूच करना ही है, यहाँ कोई भी सदा स्थिर रहने वाला नहीं है।
+हमारे आगे-आगे सारा संसार चला जा रहा है और हमें भी एक दिन अवश्य चलना होगा,
+सिर के ऊपर मृत्यु का साया मंडरा रहा है और बहुत दूर की अनजानी यात्रा पर जाना है।
+हे नादान और अज्ञानी जीव! तू मोह की नींद में क्यों सोया पड़ा है? अब तो जाग जा!
+तूने इस नश्वर संसार के झूठे जीवन को ही शाश्वत सत्य मान रखा है!
+जिस परमात्मा ने तुझे यह जीवन प्रदान किया है, वही तुझे प्रतिदिन की आजीविका (रिज़क) भी देता है,
+और वही प्रत्येक घट के भीतर अपनी दिव्य सत्ता की हाट चला रहा है।
+अपने भीतर के 'मैं' और 'मेरा' के अहंकार को त्यागकर उस एक प्रभु की सच्ची बंदगी कर,
+और सवेरे ही (समय रहते) अपने हृदय में उस पावन नाम को संभालकर रख ले।
+तेरा सारा जीवन बीत गया, किंतु तूने परलोक के मार्ग की कोई तैयारी नहीं की,
+अब जीवन की सांझ ढल चुकी है और दसों दिशाओं में अज्ञान का अंधकार छा गया है।
+रविदास अंत में कहता है—हे सांसारिक मोह में पागल बने मनुष्य!
+तू उस अविनाशी परमात्मा का स्मरण क्यों नहीं करता, जबकि यह सारा संसार नष्ट होने वाला है?
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग सूही (Suhi) and preserved on Ang 794 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Each day that dawns swiftly passes away into the forgotten past;
+We must pack our tents and march away; nothing in this realm can last!
+The caravan of souls is moving ahead, and we too must join the stride;
+A distant, uncharted journey awaits, with death hovering at our side!
+Why slumberest thou in delusion's lap, O foolish mortal, wake up today!
+Hast thou mistaken this ephemeral world for an eternal home to stay?
+The Sovereign Lord who gave thee breath provides thy daily bread and grain;
+Within every living vessel, He manages creation's vast domain!
+Perform heartfelt adoration, abandon the arrogance of 'I' and 'mine';
+Cherish the Sacred Name in thy breast while the morning sun doth shine!
+The span of earthly life has slipped away, leaving the path unprepared and bare;
+Dusk has fallen upon the horizon, drowning all ten realms in dark despair!
+Proclaims Ravidas in the final hour unto this frenzied, heedless world:
+Why contemplate not the Imperishable Lord, before mortal banners are furled?
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग सूही (Suhi))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 794 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (एकै माटी के सब भांडे (All Vessels Fashioned from One Divine Clay))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **काल की गति का बोध (Transience of Time)**:
+   समय निरंतर बहती नदी है। प्रत्येक बीतता दिन जीवन को मृत्यु के निकट ले जा रहा है।
+2. **संसार एक सराय**:
+   'करना कूचु रहनु थिरु नाही'—जीवन एक अस्थाई पड़ाव है, जहाँ से हर किसी को कूच करना है।
+3. **अहंकार-मुक्ति की चेतावनी**:
+   'छाडि मै मेरा'—जब तक 'मैं' और 'मेरा' का भ्रम नहीं टूटेगा, तब तक मृत्यु का भय बना रहेगा।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2438,7 +2721,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-27"></a>
 ## शब्द 27: ऊचे मंदर साल रसोई
-**राग:** राग बिलावलु (Bilaval) | **आदि ग्रंथ अंग (Ang):** 858 | **केंद्रीय भाव:** दारिद देखि सबु को हसै (The World Laughs at Poverty, But God Elevates)
+**राग:** राग सूही (Suhi) | **आदि ग्रंथ अंग (Ang):** 794 | **केंद्रीय भाव:** ऊंचे मंदिर, सुंदर नारी: देह रूपी तृण-कुटीर (High Mansions and the Thatched Hut of Flesh)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2500,27 +2783,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग बिलावलु (Bilaval) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मनुष्य चाहे कितने भी ऊंचे-ऊंचे भव्य राजमहल बनवा ले, और कितनी ही सुंदर रसोई और भोजनशालाएं सजा ले;
+किंतु मृत्यु के पश्चात इस देह को घर में एक घड़ी भी रखने की अनुमति नहीं होती!
+यह मानव शरीर तो केवल सूखी घास की टट्टी (छप्पर) के समान अत्यंत क्षणभंगुर है,
+जैसे ही अग्नि लगती है, घास जलकर भस्म हो जाती है और सब माटी में मिल जाता है।
+संसार के सगे भाई-बंधु, कुटुंब और मित्र, जिन्हें मनुष्य अपना सर्वस्व समझता है,
+वे ही मृत्यु होते ही कहने लगते हैं—'इसे शीघ्रता से घर से बाहर निकालो!'
+जिस घर की पत्नी को मनुष्य अपने हृदय से लगाकर रखता था,
+वही पत्नी मृत्यु के बाद शव को 'भूत-भूत' कहकर भय से भागने लगती है।
+रविदास कहता है—इस नश्वर संसार के मोह ने समस्त जगत को लूट लिया है,
+किंतु हमने तो उस एक अविनाशी राम का नाम पुकारकर अपने आपको सदा के लिए मुक्त कर लिया है!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग बिलावलु (Bilaval) and preserved on Ang 858 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Though one erect soaring palaces high, with spacious banquet halls of delight;
+When breath departs, not for a single fleeting hour may the corpse abide in sight!
+This mortal vessel is but a fragile screen of dry and brittle grass;
+When the spark ignites, the straw is burnt, and into dust all splendors pass!
+The kinsmen, brothers, and closest friends, cherished through life with tender care,
+Are the first to cry: 'Carry him outside into the courtyard bare!'
+The wedded wife who clung so close to his bosom in embrace so sweet,
+Now flees in shuddering terror, crying: 'A ghost! A ghost!' upon the street!
+Proclaims Ravidas: Worldly attachment has plundered the entire mortal race,
+Yet uttering the One Sacred Name of Ram, I have won eternal liberation and grace!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग बिलावलु (Bilaval))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 858 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (दारिद देखि सबु को हसै (The World Laughs at Poverty, But God Elevates))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **सांसारिक संबंधों की यथार्थता**:
+   मृत्यु के बाद सबसे प्रिय स्वजन भी शरीर को अपवित्र मानकर घर से निकालने की जल्दी करते हैं। रविदास जी सांसारिक मोह के इस कठोर यथार्थ को अनावृत करते हैं।
+2. **घास की टाटी (Thatched Screen)**:
+   मानव शरीर केवल सूखी घास की दीवार है; अहंकार करने के लिए इसमें कुछ भी ठोस नहीं है।
+3. **राम-नाम की ओट**:
+   समस्त संसार मोह द्वारा लूटा गया, केवल राम-नाम का आश्रय लेने वाला ही बच सका।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2528,7 +2823,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-28"></a>
 ## शब्द 28: दारिदु देखि सभ को हसै ऐसी दसा हमारी
-**राग:** राग बिलावलु (Bilaval) | **आदि ग्रंथ अंग (Ang):** 858 | **केंद्रीय भाव:** अविनाशी राम-नाम की ओट (The Refuge of the Imperishable Name)
+**राग:** राग बिलावलु (Bilaval) | **आदि ग्रंथ अंग (Ang):** 858 | **केंद्रीय भाव:** दारिद्र्य पर संसार का उपहास और प्रभु-कृपा की वर्षा (The World's Mockery and Divine Elevation)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2580,27 +2875,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग बिलावलु (Bilaval) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मेरी घोर दरिद्रता और हीन अवस्था को देखकर यह सारा संसार मुझ पर हंसता और उपहास करता था,
+किंतु हे प्रभु! आज आपकी अहैतुकी कृपा से समस्त अठारह सिद्धियां मेरे हाथों की हथेली पर खेल रही हैं!
+हे संसार के जन्म-मरण के भय को खंडन करने वाले राम! आप भली-भांति जानते हैं कि मैं कुछ भी नहीं हूँ,
+समस्त प्राणी आपकी पावन शरण में हैं, और आप ही सबकी समस्त मनोकामनाओं को पूर्ण करने वाले स्वामी हैं।
+जो जीव आपकी सच्ची शरण में आ जाता है, उसके सिर पर सांसारिक पापों और कर्मों का कोई भार नहीं रह जाता,
+आपकी कृपा से ऊंच और नीच दोनों इस अपवित्र और कष्टदायक संसार-सागर से सहज ही तर जाते हैं।
+रविदास कहता है—उस अव्यक्त प्रभु की अकथनीय कथा का मैं कहाँ तक अधिक विस्तार करूँ?
+हे परमात्मा! आप जैसे हैं, वैसे केवल आप ही हैं; आपकी तुलना करने के लिए संसार में कोई दूसरी उपमा नहीं दी जा सकती!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग बिलावलु (Bilaval) and preserved on Ang 858 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Beholding my abject poverty and lowly state, the haughty world laughed in scornful glee;
+Yet today, by Thy sovereign grace, O Lord, all eighteen mystic powers rest in the palm of me!
+Thou knowest full well, O Destroyer of Worldly Fear, that of myself I am nothing at all;
+All sentient creatures seek Thy holy refuge; Thou fulfillest the deepest yearning of all!
+Whoever surrenders wholly unto Thy sanctuary bears no heavy burden of karmic dread;
+By Thy transforming mercy, the high and the lowly alike across the worldly sea are led.
+Proclaims Ravidas: Why should I multiply words of Thy fathomless, unutterable mystery?
+As Thou art, Thou alone art Thyself; no earthly simile can match Thy celestial majesty!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग बिलावलु (Bilaval))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 858 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (अविनाशी राम-नाम की ओट (The Refuge of the Imperishable Name))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **उपेक्षितों का ईश्वरीय उत्थान (Divine Elevation of the Downtrodden)**:
+   रविदास जी का जीवन इस बात का प्रमाण है कि समाज जिस पर हंसता है, ईश्वर उसे सिर का ताज बना देता है।
+2. **'तू जानत मै किछु नही'**:
+   परम सिद्धि और ख्याति मिलने पर भी निरहंकारिता का भाव—यह रविदास के चरित्र की सर्वोच्च विशेषता है।
+3. **अकथ कथा**:
+   परमात्मा अनुपम है; उसकी तुलना किसी सांसारिक वस्तु से नहीं हो सकती।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2608,7 +2911,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-29"></a>
 ## शब्द 29: जिह कुल साधु बैसनौ होइ
-**राग:** राग गौंड (Gaund) | **आदि ग्रंथ अंग (Ang):** 875 | **केंद्रीय भाव:** मुकंद मनोहर कृपा-निधान (Mukunda, the Compassionate Benefactor)
+**राग:** राग बिलावलु (Bilaval) | **आदि ग्रंथ अंग (Ang):** 858 | **केंद्रीय भाव:** साधु-कुल की पावनता: वर्ण-व्यवस्था का समूल नाश (The Sacred Lineage of the True Devotee)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2660,27 +2963,37 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गौंड (Gaund) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जिस किसी भी कुल में सच्चा साधु और परमात्मा का अनन्य वैष्णव भक्त जन्म लेता है,
+चाहे वह किसी भी वर्ण का हो या अवर्ण (अछूत) हो, चाहे कंगाल रंक हो या राजा—समस्त संसार में उसकी पावन सुगंध विख्यात हो जाती है!
+चाहे वह ब्राह्मण हो, वैश्य हो, शूद्र हो, क्षत्रिय हो, डोम हो, चांडाल हो, या म्लेच्छ ही क्यों न माना गया हो;
+भगवान के पावन भजन के प्रभाव से वह स्वयं तो परम पवित्र होता ही है, साथ ही अपने मातृ-कुल और पितृ-कुल दोनों को भवसागर से तार देता है!
+धन्य है वह पावन गांव, धन्य है वह पावन स्थान, और धन्य है वह पवित्र कुटुंब तथा उसके सभी स्वजन,
+जिन्होंने प्रभु के सार-रस का पान कर लिया, सांसारिक तुच्छ रसों को त्याग दिया, और आत्म-रस में मग्न होकर माया के विष को नष्ट कर दिया।
+संसार के बड़े-बड़े पंडित, शूरवीर, छत्रपति सम्राट और राजा भी उस प्रभु के सच्चे भक्त की बराबरी कभी नहीं कर सकते;
+रविदास कहता है—जैसे कमल का पत्ता जल के समीप रहकर भी जल के लेप से सर्वथा अछूता रहता है, वैसे ही वे धन्य भक्त संसार में रहकर भी निर्लेप जीवन जीते हैं!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गौंड (Gaund) and preserved on Ang 875 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+In whichever family a true saint and devoted servant of the Lord is born,
+Be he of high caste or out-caste, a penniless beggar or monarch adorned—the fragrance of his sanctity fills the universe from night till morn!
+Be he Brahmin, Vaishya, Shudra, Kshatriya, Dom, Chandal, or deemed of barbarian breed;
+Through sincere adoration of the Divine, he sanctifies himself and redeems both maternal and paternal lineage indeed!
+Blessed is that village, blessed is that sacred spot, blessed is that holy household in every place,
+Who drank the Quintessential Nectar of Truth, renouncing sensory poisons to merge in ecstatic grace!
+Scholars, mighty warriors, emperors with royal umbrellas, and kings of earthly land,
+Can never equal the exalted spiritual stature where the humble devotee doth stand!
+As the lotus leaf floats upon the water, completely untouched by the surrounding wave,
+Proclaims Ravidas: Such holy souls walk through this transient world, immaculate, free, and brave!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गौंड (Gaund))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 875 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (मुकंद मनोहर कृपा-निधान (Mukunda, the Compassionate Benefactor))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **जाति-प्रथा पर रविदास जी का सबसे बड़ा वैचारिक प्रहार**:
+   यह शब्द भक्ति आंदोलन का मैग्ना कार्टा (घोषणापत्र) है। ब्राह्मण से लेकर चांडाल और म्लेच्छ तक—जो हरि का भजन करता है, वह श्रेष्ठतम है।
+2. **भक्त राजाओं से भी श्रेष्ठ**:
+   'पंडित सूर छत्रपति राजा भगत बराबरि अउरु न कोइ'—सांसारिक सत्ता और पुस्तकीय ज्ञान भक्ति के सामने तुच्छ हैं।
+3. **कमल-पत्र का रूपक**:
+   सच्चा साधक संसार में रहता है, किंतु सांसारिकता उसके भीतर प्रवेश नहीं कर पाती।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2688,7 +3001,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-30"></a>
 ## शब्द 30: मुकंद मुकंद जपहु संसार
-**राग:** राग गौंड (Gaund) | **आदि ग्रंथ अंग (Ang):** 875 | **केंद्रीय भाव:** सतिनाम का अमृत रस (The Immortal Nectar of the True Name)
+**राग:** राग गौंड (Gaund) | **आदि ग्रंथ अंग (Ang):** 875 | **केंद्रीय भाव:** मुकंद-मुकंद जपहु संसार: मुक्तिदाता प्रभु का सिमरन (Chant Mukunda, The Giver of Liberation)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2790,27 +3103,55 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग गौंड (Gaund) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे संसार के लोगो! उस परम मुक्तिदाता मुकुंद (परमात्मा) के पावन नाम का निरंतर जप करो!
+मुकुंद के स्मरण के बिना यह मनुष्य शरीर व्यर्थ में नष्ट होकर मिट्टी में मिल जाएगा।
+वही मुकुंद समस्त जीवों को भव-बंधन से मुक्ति देने वाला सच्चा दाता है,
+और वही मुकुंद हमारा वास्तविक माता और पिता है।
+जीते जी भी उस मुकुंद का सिमरन करो, और मृत्यु के समय भी मुकुंद का ही ध्यान रहे;
+उस मुकुंद के सच्चे सेवक के हृदय में सदा परमानंद और शांति का वास रहता है।
+वह मुकुंद ही हमारे प्राणों का सच्चा आधार और जीवन है,
+मुकुंद का निरंतर जप करने से मस्तक पर प्रभु-कृपा का दिव्य तिलक लग जाता है।
+सच्चा वैरागी सदा उस मुकुंद की ही पावन सेवा-आराधना करता है,
+और वही मुकुंद दुर्बल और निर्धनों के लिए सबसे बड़ा अविनाशी धन बन जाता है।
+जब वह अकेला मुकुंद जीव पर अपना उपकार और कृपा कर देता है,
+तो फिर यह सारा विरोधी संसार भला हमारा क्या अनिष्ट कर सकता है?
+उस परमात्मा ने मेरी सारी सामाजिक जातिगत हीनता को मिटाकर मुझे अपने दिव्य दरबार में स्थान दे दिया है,
+हे मुकुंद! आप ही युगों-युगों से अपने भक्तों को भवसागर से तारने वाले परम समर्थ प्रभु हैं।
+हृदय में आत्म-ज्ञान का उदय हुआ और परमात्मा के दिव्य प्रकाश का साक्षात्कार हुआ,
+प्रभु ने अहैतुकी कृपा करके इस कीट-समान तुच्छ दास को अपना बना लिया।
+रविदास कहता है—अब मेरी संसार की सारी तृष्णा और वासनाएं सदा के लिए समाप्त हो गई हैं,
+अब तो मैं निरंतर मुकुंद का ही जप करता हूँ और उसी परमपिता की पावन सेवा में लीन रहता हूँ।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग गौंड (Gaund) and preserved on Ang 875 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Chant Mukunda, Mukunda, O people of the world, with unceasing devotion and praise!
+Devoid of Mukunda's Name, this human form is squandered in vain and fades!
+That very Mukunda is the Sovereign Bestower of liberation and spiritual release;
+That very Mukunda is our true Mother and Father, bringing everlasting peace.
+In life meditate on Mukunda, in the hour of death remember Mukunda alone;
+Unto His faithful servant, eternal ecstatic bliss is made known!
+Mukunda, Mukunda is the living breath and heartbeat of our frame;
+Chanting Mukunda's praises, the mark of divine favor illumes our brow with flame.
+The true renunciant serves Mukunda with a pure and steadfast soul;
+That very Mukunda is the supreme treasure that makes the destitute whole!
+When that Single Mukunda bestows His benevolent grace and shielding arm,
+What can this hostile, prejudiced world ever do to cause us harm?
+He erased the stigma of my lowly caste, seating me within His royal court above;
+Thou art Mukunda, O Lord, who through the ages savest Thy seekers with love!
+Wisdom has blossomed within my consciousness, radiant light illumes the night;
+In boundless mercy, the Lord embraced this worm-like servant in His sight.
+Proclaims Ravidas: All burning thirsts and worldly cravings have vanished away;
+Contemplating Mukunda, I abide in His sacred service both night and day!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग गौंड (Gaund))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 875 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (सतिनाम का अमृत रस (The Immortal Nectar of the True Name))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **'मुकुंद'—मुक्तिदाता ब्रह्म**:
+   मुकुंद (मुक्ति देने वाले) की महिमा गाते हुए रविदास जी स्पष्ट करते हैं कि ईश्वर ही माता, पिता और परम सखा है।
+2. **जाति-कलंक का ईश्वरीय विसर्जन**:
+   'मेटी जाति हूए दरबारि'—जब ईश्वर ने अपनी कृपा से रविदास को अपने दरबार में प्रतिष्ठित कर दिया, तो संसार की बनाई जाति व्यवस्था निष्प्रभावी हो गई।
+3. **'हमरा कहा करै संसारु'**:
+   जिसका रक्षक परमात्मा है, उसे सामाजिक बहिष्कार या उत्पीड़न का कोई भय नहीं रहता।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2818,7 +3159,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-31"></a>
 ## शब्द 31: जे ओहु अठसठि तीर्थ न्हावै
-**राग:** राग रामकली (Ramkali) | **आदि ग्रंथ अंग (Ang):** 973 | **केंद्रीय भाव:** पढ़िए गुनिए तउ लउ (Reading Scriptures vs Living the Truth)
+**राग:** राग गौंड (Gaund) | **आदि ग्रंथ अंग (Ang):** 875 | **केंद्रीय भाव:** साधु की निंदा का महापाप (The Peril of Slandering the Saint)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2920,27 +3261,55 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग रामकली (Ramkali) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+चाहे कोई मनुष्य अड़सठ तीर्थों में जाकर पवित्र स्नान करे,
+चाहे वह बारह ज्योतिर्लिंगों या शिलाओं की विधिपूर्वक पूजा करवाए;
+चाहे वह प्यासों के लिए कुएं और तालाब खुदवाकर दान करे,
+किंतु यदि वह किसी सच्चे साधु-संत की निंदा करता है, तो उसके ये समस्त पुण्यकर्म सर्वथा व्यर्थ चले जाते हैं!
+साधु-संतों की निंदा करने वाला पापी भला इस संसार-सागर से कैसे तर सकता है?
+यह निश्चित रूप से जान लो कि वह अंत में घोर नरक के संताप में ही गिरता है!
+चाहे कोई कुरुक्षेत्र में जाकर सूर्यग्रहण के पावन पर्व पर महादान करे,
+और अपनी सुसज्जित पत्नी को भी समस्त आभूषणों सहित दान में अर्पित कर दे;
+चाहे वह अपने कानों से समस्त स्मृतियों और शास्त्रों का श्रवण करे,
+किंतु यदि उसके हृदय में संतों के प्रति द्वेष और निंदा है, तो कोई भी पुण्य उसे बचा नहीं सकता।
+चाहे वह अनेक प्रकार के स्वादिष्ट भोजनों का विशाल भंडारा करवाए,
+और विशाल यज्ञ-मंडप बनाकर भूमि-दान की महान शोभा प्राप्त करे;
+चाहे वह अपना काम बिगाड़कर दूसरों का काम संवारे,
+किंतु यदि वह साधु की निंदा करता है, तो वह बार-बार अनेक कष्टदायक योनियों में भटकता है।
+हे संसार के लोगो! तुम व्यर्थ में संतों की निंदा क्यों करते हो?
+निंदक का पाप और पतन तो संसार में प्रत्यक्ष रूप से दिखाई दे जाता है!
+रविदास कहता है—हमने संतों के चरित्र और शास्त्रों के मर्म को भली-भांति विचार कर देखा है,
+साधु की निंदा करने वाला पापी अंततः घोर नरक में ही गमन करता है।
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग रामकली (Ramkali) and preserved on Ang 973 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Though one bathe at all sixty-eight holy pilgrimage shrines in rigorous rite,
+Though one arrange formal worship before twelve sacred stones day and night;
+Though one dig wells and construct water reservoirs for travelers across the land,
+If he slanders a saint of God, all his merits crumble into barren sand!
+How can the slanderer of a holy saint ever cross the sea of death and despair?
+Know this for an absolute truth: Into the deepest pits of hell he shall fare!
+Though he perform charity at Kurukshetra during the solar eclipse so grand,
+Surrendering his wedded bride adorned in gold with an open hand;
+Though he listen attentively to all the sacred smritis with devout ear,
+If he harbors malice and slanders the righteous, no virtue shall hold him dear!
+Though he distribute lavish feasts and delicacies without measure or count,
+Earning renown by gifting fertile lands upon the pavilion mount;
+Though he neglect his own interest to labor for another's gain and renown,
+If he slanders a saint, through countless agonizing births he is dragged down!
+Why slander the holy, O people of the world? Desist from this poisonous art!
+The slanderer's degradation is laid bare before the cosmic heart.
+Proclaims Ravidas after deep contemplation upon the sacred truth well-tried:
+The slanderer of the holy saint departs into hell, stripped of dignity and pride!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग रामकली (Ramkali))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 973 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (पढ़िए गुनिए तउ लउ (Reading Scriptures vs Living the Truth))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **साधु-निंदा का विनाशकारी प्रभाव**:
+   भारतीय भक्ति-परंपरा (कबीर, नानक, रविदास) में संतों की निंदा को सबसे बड़ा आध्यात्मिक अपराध माना गया है।
+2. **कर्मकांड बनाम संत-अपराध**:
+   तीर्थ-स्नान, कुरुक्षेत्र में ग्रहण-दान, भूमि-दान जैसे विशाल कर्मकांड भी साधु के प्रति किए गए द्वेष के फल को नहीं काट सकते।
+3. **सद्भाव की अनिवार्यता**:
+   साधना की पहली शर्त अंतःकरण में संतों और सत्पुरुषों के प्रति आदर और विनम्रता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -2948,7 +3317,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-32"></a>
 ## शब्द 32: पड़ीऐ गुनीऐ नामु सभु सुनीऐ अनभउ भाउ न दरसै
-**राग:** राग मारू (Maru) | **आदि ग्रंथ अंग (Ang):** 1106 | **केंद्रीय भाव:** माधो का कहिए भ्रम ऐसा (O Madhava, What Illusion Bewitches the Mind)
+**राग:** राग रामकली (Ramkali) | **आदि ग्रंथ अंग (Ang):** 973 | **केंद्रीय भाव:** अनुभव बिना शास्त्र-ज्ञान व्यर्थ है (Scriptural Learning without Direct Experience is Futile)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3000,27 +3369,37 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग मारू (Maru) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+मनुष्य शास्त्रों को पढ़ता है, उनका मनन करता है, और कानों से प्रभु-नाम भी सुनता है, किंतु जब तक हृदय में साक्षात आत्म-अनुभव और प्रेम का दर्शन नहीं होता, तब तक सब व्यर्थ है;
+जैसे पारस पत्थर का स्पर्श किए बिना लोहा भला कभी शुद्ध स्वर्ण में कैसे परिवर्तित हो सकता है?
+हे परमात्मा! मेरे मन की यह संशय-ग्रंथि (संदेह की गांठ) अभी तक नहीं छूटी है,
+काम, क्रोध, माया, मद और मत्सर (ईर्ष्या)—इन पांचों आंतरिक लुटेरों ने मिलकर मेरे अंतःकरण को लूट लिया है!
+लोग अहंकार में कहते हैं—'हम बहुत बड़े कवि हैं, हम उच्च कुलीन हैं, हम महान पंडित हैं, हम योगी और संन्यासी हैं;
+हम परम ज्ञानी हैं, गुणवान हैं, शूरवीर हैं और बड़े दानवीर हैं'—मनुष्य की यह अहंकारी बुद्धि कभी नष्ट नहीं होती!
+रविदास कहता है—ये सब अज्ञानी जीव सत्य को नहीं समझते, और पागलों के समान सांसारिक भ्रम में भटके हुए हैं;
+मेरे जीवन, प्राण और आत्म-धन का एकमात्र सच्चा आधार तो केवल और केवल नारायण का पावन नाम ही है!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग मारू (Maru) and preserved on Ang 1106 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Mortals read the scriptures, contemplate doctrine, and hear the Sacred Name proclaimed abroad,
+Yet without direct inner realization and divine love, they behold not the living Lord!
+How can base iron ever be transmuted into pure and radiant gold,
+Unless it touches the philosopher's stone with a surrender bold?
+O Divine Lord! The stubborn knot of doubt within my heart remains unsevered still;
+Lust, wrath, delusion, pride, and envy have combined to plunder my soul at will!
+Mortals boast in vanity: 'We are renowned poets, we are noble-born, we are scholars wise;
+We are yogis, ascetics, warriors, and patrons beneath the skies!'—Alas, this haughty ego never dies!
+Proclaims Ravidas: These foolish mortals comprehend not the truth, wandering like madmen in the maze;
+The Sacred Name of Narayana alone is my life, my breath, and my eternal wealth through all my days!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग मारू (Maru))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1106 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (माधो का कहिए भ्रम ऐसा (O Madhava, What Illusion Bewitches the Mind))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **पारस और लोहे का अमर दृष्टांत**:
+   पुस्तकीय ज्ञान लोहे जैसा है; जब तक सद्गुरु और ईश्वर के साक्षात्कार (पारस) का स्पर्श नहीं होता, तब तक जीवन स्वर्ण नहीं बनता।
+2. **विद्वत्ता और कुल के अहंकार का खंडन**:
+   'हम बड कबि कुलीन हम पंडित'—रविदास जी उन सभी उपाधियों को अहंकार की बीमारी बताते हैं जो मनुष्य को ईश्वर से दूर करती हैं।
+3. **'अनभउ भाउ' (अनुभव भाव)**:
+   परम सत्य पुस्तकों में नहीं, आत्मा के प्रत्यक्ष अनुभव में प्रकाशित होता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3028,7 +3407,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-33"></a>
 ## शब्द 33: ऐसी लाल तुझ बिनु कउनु करै
-**राग:** राग केदार (Kedara) | **आदि ग्रंथ अंग (Ang):** 1124 | **केंद्रीय भाव:** चार वेद और अष्टादश पुराण का सार (The Quintessence of Vedas and Puranas)
+**राग:** राग मारू (Maru) | **आदि ग्रंथ अंग (Ang):** 1106 | **केंद्रीय भाव:** ऐसी लाल तुझ बिनु कउनु करै: गरीबों के सिर पर छत्र (Who Else but Thee, Cherisher of the Lowly)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3070,27 +3449,37 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग केदार (Kedara) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे मेरे प्रियतम परमात्मा (लाल)! आपके सिवा ऐसा अगाध और अलौकिक कार्य संसार में भला दूसरा कौन कर सकता है?
+मेरा स्वामी तो दीन-दुखियों पर दया करने वाला 'गरीब-निवाजु' है, जिसने मुझ जैसे अछूत के मस्तक पर भी राजाओं जैसा छत्र धारण करा दिया!
+जिस दीन अछूत के स्पर्श मात्र से सारा संसार छुआछूत मानकर दूर भागता था,
+हे प्रभु! आपने उसी दीन सेवक पर अपनी कृपा की वर्षा कर दी।
+मेरा गोविंद नीचों को भी उच्च पद पर प्रतिष्ठित कर देता है, और वह संसार के किसी भी दंभी या अत्याचारी से रंचमात्र भी नहीं डरता!
+आपके पावन नाम की महिमा से नामदेव, कबीर, त्रिलोचन, सधना कसाई और सैन नाई जैसे उपेक्षित जन भवसागर से पार उतर गए;
+कहते हैं रविदास—हे संतजनो! ध्यानपूर्वक सुनो, कृपालु हरि के अनुग्रह से संसार के समस्त असम्भव कार्य भी सहज ही सिद्ध हो जाते हैं!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग केदार (Kedara) and preserved on Ang 1124 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Such wondrous grace, O Beloved Lord, who else in this universe could ever bestow?
+My Sovereign Master is the 'Cherisher of the Poor', raising the humble from depths below,
+Placing the royal canopy of spiritual majesty upon my outcast brow!
+He whose very touch defiled the haughty world in their arrogant pride—
+Upon that very servant, O Lord, Thy boundless compassion poured like a tide!
+My Govind elevates the lowly to the highest pinnacle of grace;
+He fears no mortal tyrant, no king, no priest in any time or place!
+By Thy Name were Namdev, Kabir, Trilochan, Sadhna, and Sain redeemed;
+Through divine love alone, their radiant glory across the world has gleamed!
+Proclaims Ravidas: Listen, O holy saints! Through the grace of the Beloved Lord,
+Every impossible longing of the soul is fulfilled in divine accord!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग केदार (Kedara))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1124 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (चार वेद और अष्टादश पुराण का सार (The Quintessence of Vedas and Puranas))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **रविदास दर्शन का सर्वाधिक लोकप्रिय और क्रांतिकारी शब्द**:
+   यह भजन सामाजिक न्याय, आत्म-सम्मान और भक्ति का अमर घोषणापत्र है। छुआछूत के शिकार चर्मकार के सिर पर परमात्मा द्वारा 'छत्र' (राजसी मुकुट) रखना सामंतवाद पर सबसे बड़ा प्रहार है।
+2. **'गरीब निवाजु' (Cherisher of the Downtrodden)**:
+   ईश्वर का सबसे सुंदर गुण यह है कि वह निर्बलों, दीनों और शोषितों का पक्षधर है।
+3. **शूद्र संतों की अमर परंपरा**:
+   कबीर (जुलाहा), नामदेव (दर्जी), सधना (कसाई), सैन (नाई) और रविदास (चर्मकार)—इन सभी वंचित पृष्ठभूमि के संतों का उल्लेख कर रविदास जी ने सिद्ध किया कि भक्ति में जाति कोई बाधा नहीं है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3098,7 +3487,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-34"></a>
 ## शब्द 34: सुख सागर सुरितरु चिंतामनि कामधेन बसि जा के रे
-**राग:** राग भैरउ (Bhairav) | **आदि ग्रंथ अंग (Ang):** 1167 | **केंद्रीय भाव:** प्रह्लाद और अजामिल की मुक्ति (Salvation of Prahlada and Ajamila)
+**राग:** राग मारू (Maru) | **आदि ग्रंथ अंग (Ang):** 1106 | **केंद्रीय भाव:** अविनाशी राम-नाम का अमृत (The Nectar of the Imperishable Name)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3150,27 +3539,35 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग भैरउ (Bhairav) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+वह परमात्मा सुखों का असीम सागर है; कल्पवृक्ष, चिंतामणि रत्न और कामधेनु सब उसके वश में निवास करते हैं,
+चारों पदार्थ (धर्म, अर्थ, काम, मोक्ष), आठों महा-सिद्धियां और नौ निधियां उस प्रभु की हथेली पर विराजमान हैं।
+हे मेरी रसना! तू अन्य सभी व्यर्थ के प्रपंचों और सांसारिक वचनों की रचना को छोड़कर,
+निरंतर केवल हरि, हरि, हरि के पावन नाम का ही जप क्यों नहीं करती?
+नाना प्रकार के आख्यान, पुराण, और वेदों की समस्त विधियां केवल चौंतीस अक्षरों की वर्णमाला में ही बंधी हैं,
+महर्षि वेदव्यास ने भी गहन विचार करके यही परमार्थ कहा है कि राम-नाम की समानता कोई दूसरा नहीं कर सकता।
+जब सांसारिक उपाधियों और द्वंद्वों से मुक्त होकर सहज समाधि में बड़े भाग्य से प्रभु-प्रेम की लौ लग जाती है,
+तो रविदास कहता है—अपने इस विरक्त दास के हृदय में ऐसा ज्ञान प्रकाशित हुआ है जिससे जन्म और मरण का सारा भय सदा के लिए भाग गया है!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग भैरउ (Bhairav) and preserved on Ang 1167 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+The Supreme Lord is the Ocean of Boundless Bliss; the Wish-Fulfilling Tree, the Chintamani Gem, and the Celestial Cow dwell at His command;
+The four cardinal goals of life, the eight great mystic powers, and the nine treasures rest within the palm of His hand!
+O my tongue! Discard all hollow prattle and eloquent worldly speech,
+Chant Hari, Hari, Hari alone, and the shores of eternal liberation reach!
+The diverse legends of Vedas, scriptures, and ancient rites are framed within thirty-four letters of the alphabet small;
+Sage Vyasa himself pondered and declared this supreme truth: Nothing equals Ram's Name in all!
+When unattached to worldly illusions, the soul merges in spontaneous contemplation by fortune rare,
+Proclaims Ravidas: Divine radiance dawns within the heart of Thy humble servant, banishing the dread of birth, death, and despair!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग भैरउ (Bhairav))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1167 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (प्रह्लाद और अजामिल की मुक्ति (Salvation of Prahlada and Ajamila))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **नाम-स्मरण की एकाग्रता**:
+   समस्त सांसारिक और शास्त्रीय वचनों को छोड़कर केवल एक 'हरि' नाम का जप ही मुक्ति का सीधा मार्ग है।
+2. **वेदव्यास का साक्ष्य**:
+   वेदों के रचयिता व्यास ने स्वयं स्वीकार किया कि राम-नाम का रस शास्त्रों के ज्ञान से कहीं ऊंचा है।
+3. **जन्म-मरण के भय का नाश**:
+   ईश्वरीय प्रकाश अंतःकरण में होते ही मृत्यु का भय विलीन हो जाता है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3178,7 +3575,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-35"></a>
 ## शब्द 35: खटु करम कुल संजुगतु है हरि भगति हिरदै नाहि
-**राग:** राग वसंतु (Basant) | **आदि ग्रंथ अंग (Ang):** 1196 | **केंद्रीय भाव:** बसंत ऋतु और रूहानी बहार (Spiritual Springtime and Divine Bloom)
+**राग:** राग केदारा (Kedara) | **आदि ग्रंथ अंग (Ang):** 1124 | **केंद्रीय भाव:** षट्कर्म बनाम वाल्मीकि की भक्ति (Ritual Orthodoxy vs Valmiki's Devotion)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3230,27 +3627,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग वसंतु (Basant) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+कोई मनुष्य चाहे उच्च कुल में जन्मा हो और छहों वैदिक कर्मों का निष्ठा से पालन करता हो, किंतु यदि उसके हृदय में हरि की सच्ची भक्ति नहीं है;
+और यदि उसे प्रभु के चरण-कमलों का ध्यान और भगवत्-चर्चा प्रिय नहीं लगती, तो वह ज्ञानी कहलाने पर भी एक चांडाल (श्वपच) के समान ही हीन है!
+हे अज्ञानी मन! तू सावधान होकर सोच और समझ; तू महर्षि वाल्मीकि के जीवन की ओर क्यों नहीं देखता?
+वे पूर्व में किस जाति के थे और हरि की अनन्य प्रेम-भक्ति के प्रभाव से किस अमर और पूज्य पद पर प्रतिष्ठित हो गए?
+श्वपच (कुत्तों को पालने वाला चांडाल) भी यदि भगवान से सच्चा प्रेम जोड़ लेता है,
+तो बेचारे संसारी लोग उसकी क्या प्रशंसा करेंगे, उसका यश तो तीनों लोकों में गूंजने लगता है!
+अजामिल जैसा पापी, पिंगला जैसी वेश्या, शिकारी लुब्धक और गजराज—ये सब प्रभु के पावन नाम के प्रभाव से तरकर हरि के धाम पहुंचे;
+रविदास कहता है—जब ऐसे-ऐसे कुटिल और दुर्मति जीव भी तर गए, तो हे रविदास! तू उस कृपालु प्रभु की भक्ति से भला क्यों नहीं तरेगा?
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग वसंतु (Basant) and preserved on Ang 1196 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Though one be born of high lineage and strictly observe all six orthodox priestly rites,
+Yet if loving devotion to Hari abides not within his heart, he dwells in spiritual nights!
+If he cherishes not the Lord's lotus feet nor loves divine discourse so dear,
+He is equal to the lowest outcast, whatever haughty titles he may wear!
+Reflect and awaken, O heedless and slumbering mind! Look upon Sage Valmiki of ancient days;
+From what lowly origins did he spring, yet ascended to supreme immortality through Ram's praise?
+Even a despised dog-keeper, outcast from society, if he binds his heart to Krishna in pure love,
+What can feeble mortals praise of him? His renown echoes through the three worlds above!
+Ajamila the sinner, Pingala the fallen courtezan, the callous hunter, and the elephant in the lake—
+All were redeemed and entered Hari's presence for the Sacred Name's sake!
+Proclaims Ravidas: When such hardened sinners were lifted into grace through Thy compassion deep,
+Why shouldst thou doubt, O Ravidas, that the Lord shall awaken thee from mortal sleep?
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग वसंतु (Basant))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1196 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (बसंत ऋतु और रूहानी बहार (Spiritual Springtime and Divine Bloom))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **षट्कर्मों की निरर्थकता**:
+   यज्ञ, अध्ययन, दान आदि छह कर्मों का दंभ भरने वाले यदि भक्ति-विहीन हैं, तो वे चांडाल के समान हैं। भक्ति ही मनुष्य को श्रेष्ठ बनाती है।
+2. **वाल्मीकि का ऐतिहासिक उदाहरण**:
+   रविदास जी वाल्मीकि का दृष्टांत देकर रूढ़िवादियों को निरुत्तर करते हैं कि जन्म नहीं, प्रभु-भक्ति ही व्यक्ति को महर्षि बनाती है।
+3. **पतित-उद्धार की आशा**:
+   अजामिल, पिंगला, गज और गणिका का उद्धार सिद्ध करता है कि ईश्वर का द्वार सबके लिए समान रूप से खुला है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3258,7 +3667,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-36"></a>
 ## शब्द 36: बिनु देखे उपजै नही आसा
-**राग:** राग मलाहर (Malar) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** अमृत मेघ और विरह की वर्षा (Clouds of Nectar and the Rains of Longing)
+**राग:** राग भैरउ (Bhairav) | **आदि ग्रंथ अंग (Ang):** 1167 | **केंद्रीय भाव:** साक्षात्कार बिना आशा नहीं: दूध से मक्खन का ज्ञान (Inner Realization: Churning the Milk of Truth)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3360,27 +3769,55 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग मलाहर (Malar) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जब तक अंतरात्मा में सत्य का साक्षात दर्शन नहीं होता, तब तक सच्ची निष्ठा और आशा उत्पन्न नहीं होती,
+और जो कुछ भी बाहर आंखों से दिखाई देता है, वह सब नश्वर है और एक दिन अवश्य विनष्ट होने वाला है।
+जो निष्काम भाव से और ओंकार रूपी वर्ण सहित उस प्रभु-नाम का निरंतर जप करता है,
+वास्तव में वही सच्चा निष्काम योगी और सिद्ध साधक है।
+यदि कोई मनुष्य अंतर्मुखी होकर उस सर्वव्यापी राम का साक्षात्कार कर लेता है,
+तो वह पारस के स्पर्श के समान हो जाता है, और उसके मन का सारा द्वंद्व सदा के लिए मिट जाता है।
+वही सच्चा मुनि है जो अपने मन की समस्त दुविधा और संशयों को भस्म कर देता है,
+और बिना किसी बाहरी इंद्रिय-द्वार के तीनों लोकों में रमण करने वाले परमात्मा में समा जाता है।
+मन का स्वभाव तो विषय-वासनाओं की ओर दौड़ने का है, सब उसी के अनुसार आचरण करते हैं,
+किंतु जो स्वयं को कर्ता न मानकर साक्षी बन जाता है, वह निर्भय अवस्था को प्राप्त कर लेता है।
+फल लगने के उद्देश्य से ही वृक्षों और वनस्पतियों में फूल खिलते हैं,
+और जैसे ही फल लग जाता है, वैसे ही फूल मुरझाकर स्वतः समाप्त हो जाता है;
+ठीक वैसे ही आत्म-ज्ञान की प्राप्ति के लिए साधक कर्म और साधना का अभ्यास करता है,
+किंतु जैसे ही ज्ञान का दिव्य सूर्य उदय होता है, वैसे ही सारे कर्मकांड स्वतः विलीन हो जाते हैं!
+जैसे बुद्धिमान मनुष्य दूध से घी निकालने के लिए दही को मथता है,
+वैसे ही जो तत्व का मंथन करता है, वह जीते-जी मुक्त होकर सदा निर्वाण-पद में निवास करता है।
+रविदास कहता है—यह सर्वोच्च वैराग्य की अवस्था है;
+हे अभागे जीव! तू अपने हृदय में बसे उस घट-घट वासी राम का जप क्यों नहीं करता?
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग मलाहर (Malar) and preserved on Ang 1293 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Until the Divine Truth is directly beheld within, no steadfast spiritual hope can arise;
+And whatever is visible to mortal eyes must perish beneath changing skies!
+Whoever meditates upon the Sacred Name with selfless love and devotion pure,
+That person alone is the true, desireless yogi, steadfast and sure!
+If a soul contemplates the Indwelling Ram in direct inner sight,
+Like the touch of the philosopher's stone, all duality vanishes into light!
+He alone is the true silent sage who slays the wavering doubts of his mind;
+Transcending mortal sensory gates, he merges in the Lord of humankind!
+The natural impulse of the restless mind is to chase after sensory pleasure every day;
+Yet he who rests in the Fearless Lord allows not illusion to lead him astray.
+To yield sweet fruit, the orchard blossoms in fragrant flowers fair,
+Yet when the ripe fruit appears, the blossoms wither away into air!
+Even so, rituals and religious practices are performed to attain wisdom's grace,
+Yet when divine illumination dawns within, all outer rituals leave no trace!
+As a wise seeker churns the curd to extract the pure golden ghee,
+So the sage churns the truth, attaining living liberation (Jivanmukti) blissful and free!
+Proclaims Ravidas: This is the pinnacle of supreme detachment from worldly strife;
+O unfortunate soul! Why chantest thou not the Name of Ram who is the breath of life?
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग मलाहर (Malar))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1293 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (अमृत मेघ और विरह की वर्षा (Clouds of Nectar and the Rains of Longing))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **फूल और फल का रूपक (The Flower and the Fruit)**:
+   कर्म और अनुष्ठान केवल फूल हैं, आत्म-ज्ञान फल है। जब फल आ जाता है, तो फूल अपने आप गिर जाता है। ज्ञान होने पर कर्मकांडों की आवश्यकता नहीं रहती।
+2. **दही और मक्खन (Churning the Truth)**:
+   संसार में ब्रह्म छिपा हुआ है जैसे दूध में मक्खन। साधना के मंथन से जब मक्खन (तत्व) अलग हो जाता है, तो वह छाछ (माया) में मिलकर भी नहीं डूबता।
+3. **'जीवन्मुक्ति' (Living Liberation)**:
+   रविदास जी मृत्यु के बाद नहीं, जीते-जी मुक्ति (जीवन्मुक्त अवस्था) पर बल देते हैं।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3388,7 +3825,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-37"></a>
 ## शब्द 37: तुझहि सुझंता कछू नाहि
-**राग:** राग मलाहर (Malar) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** चर्मकार रविदास का सच्चा सत्संग (True Fellowship of Ravidas the Tanner)
+**राग:** राग वसंतु (Basant) | **आदि ग्रंथ अंग (Ang):** 1196 | **केंद्रीय भाव:** भादों की कुकुरमुत्ता देह: कस्तूरी मृग का रूपक (The Fleeting Mushroom and the Musk Deer)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3490,27 +3927,55 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग मलाहर (Malar) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+तुझे अपनी नश्वर स्थिति का रंचमात्र भी भान नहीं है,
+तू अपने सुंदर वस्त्रों और ठाठ-बाट को देखकर अहंकार में फूला नहीं समाता!
+अहंकारी मनुष्य को इस संसार में कोई स्थायी ठौर नहीं मिलता,
+तेरी गर्दन के ऊपर मृत्यु रूपी कौआ निरंतर मंडरा रहा है और काल की पुकार कर रहा है!
+हे पगली जीवात्मा! तू किस बात पर इतना घमंड करती है?
+तू तो भादों के महीने में उगने वाले कुकुरमुत्ते (छत्रक) के समान अत्यंत क्षणभंगुर है, जो जितनी जल्दी उगता है उतनी ही जल्दी नष्ट हो जाता है!
+जैसे कस्तूरी मृग अपनी नाभि में बसी सुगंध के रहस्य को नहीं पहचान पाता,
+और उस सुगंध को खोजने के लिए वनों और प्रदेशों में भटकता फिरता है;
+ठीक वैसे ही जो मनुष्य अपनी देह के भीतर बसे आत्म-तत्व का विचार कर लेता है,
+उसे यमराज का कोई दूत कभी सता या दुखी नहीं कर सकता।
+तू अपने पुत्र और स्त्री के मोह में अंधा होकर अहंकार करता है,
+किंतु अंत में वह परमात्मा तुझसे तेरे संपूर्ण जीवन का एक-एक लेखा मांगेगा!
+किए हुए कुकर्मों का दुख इस जीव को अकेले ही भोगना पड़ेगा,
+उस समय 'हाय मेरे प्रियतम! हाय मेरे बंधु!' पुकारने से कोई सहायता नहीं मिलने वाली।
+यदि तू सच्चे साधु-संतों की पावन शरण ग्रहण कर ले,
+तो तेरे करोड़ों जन्मों के संचित पाप तत्काल मिट जाएंगे।
+रविदास कहता है—जो मनुष्य उस परमात्मा के पावन नाम का निरंतर जप करता है,
+उसका न कोई जातिगत बंधन रहता है, न कोई जन्म-मरण का संताप, और न किसी योनि में भटकने का भय रहता है!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग मलाहर (Malar) and preserved on Ang 1293 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Thou perceivest not the impending doom that hangs over thy mortal state;
+Beholding thy fine garments, thou art puffed up with vanity great!
+No lasting refuge awaits the proud; vain glory turns to dust and stone;
+Above thy head, the raven of Death croaks for thy flesh and bone!
+Why art thou so crazed with pride, O foolish and bewildered soul?
+Like a fragile mushroom sprouting in the autumn rains, fleeting beyond control!
+As the musk-deer knows not the fragrant perfume dwelling in its own navel deep,
+And roams through distant forests and thorny wilderness to weep;
+Even so, whoever contemplates the Divine Spirit residing in his own frame,
+Shall never be tormented by the minions of Death or suffer karmic shame!
+Thou boastest in pride over wife, children, and possessions vast and vain,
+Yet the Supreme Master shall demand a strict reckoning of thy gain!
+The suffering of thy sinful deeds must be borne by thy soul alone,
+Then unto whom wilt thou cry: 'O my beloved, save me!' when all are flown?
+If thou seekest the sanctuary of the holy and enlightened saints today,
+Thy countless millions of sins shall be erased and washed away!
+Proclaims Ravidas: Whosoever contemplates the Sacred Name with devotion whole,
+Neither caste, nor birth, nor fear of reincarnation can ever bind that soul!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग मलाहर (Malar))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1293 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (चर्मकार रविदास का सच्चा सत्संग (True Fellowship of Ravidas the Tanner))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **भादों का छत्रक (Mushroom Metaphor)**:
+   मनुष्य का शरीर और ऐश्वर्य बरसात के कुकुरमुत्ते की तरह है—जो एक दिन में उगता है और दूसरे दिन सड़कर नष्ट हो जाता है।
+2. **कस्तूरी मृग का रूपक**:
+   ईश्वर मनुष्य के भीतर ही विद्यमान है, जैसे कस्तूरी हिरण की नाभि में होती है। बाहर भटकना अज्ञान है।
+3. **व्यक्तिगत उत्तरदायित्व**:
+   परिवार और धन यहीं छूट जाएंगे; अपने कर्मों का फल जीव को अकेले ही भुगतना होगा। केवल नाम-सिमरन ही सच्चा साथी है।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3518,7 +3983,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-38"></a>
 ## शब्द 38: नागर जनां मेरी जाति बिखिआत चमारं
-**राग:** राग मलाहर (Malar) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** प्रभु-प्रेम की अखंड धारा (Unbroken Stream of Divine Love)
+**राग:** राग मलाहर (Malar) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** नागर जनां मेरी जाति बिखिआत चमारं: आत्म-गौरव और समता (O Citizens! My Caste is Famed as Cobbler)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3570,27 +4035,39 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग मलाहर (Malar) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+हे नगर के प्रतिष्ठित नागरिको! सुनो, मेरी जाति तो संसार में 'चमार' के नाम से विख्यात है,
+किंतु मेरे हृदय के भीतर निरंतर उस परम कृपालु राम और गोविंद के पावन गुणों का मंथन होता रहता है!
+गंगा के पवित्र जल से भी यदि मदिरा (शराब) बनाई जाए, तो संतजन कभी उसका पान नहीं करते;
+किंतु वही अपवित्र मदिरा या अन्य कोई भी अशुद्ध जल जब गंगा की पावन धारा में मिल जाता है, तो वह गंगाजल बनकर पवित्र हो जाता है, उसमें कोई भेद नहीं रहता।
+ताड़ के वृक्ष को अपवित्र माना जाता है, और जब उससे कागज बनाया जाता है तो लोग उसे भी अपवित्र समझते हैं;
+किंतु जब उसी कागज पर भगवान की पावन भक्ति और भागवत के श्लोक लिख दिए जाते हैं, तो वही कागज पूज्य बन जाता है और लोग उसे शीश नवाकर प्रणाम करते हैं!
+मेरी जाति के लोग बनारस (काशी) के आस-पास नित्य मृत पशुओं को ढोने का कार्य करते हैं,
+किंतु हे प्रभु! आज आपके पावन नाम की शरण में आने के कारण, वही काशी के प्रधान ब्राह्मण भी आपके इस दास रविदास को दंडवत प्रणाम करते हैं!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग मलाहर (Malar) and preserved on Ang 1293 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+O citizens of the town! My caste is famously known across the land as a cobbler, a worker of hide;
+Yet within my purified heart, the sublime virtues of Ram and Govind ceaselessly abide!
+Even if intoxicating wine be brewed from the sacred waters of the holy Ganges river,
+The enlightened saints of God will never touch it, turning away with a shiver!
+Yet when that very wine or any foul stream pours into the Ganges' boundless flow,
+It becomes the sacred Ganges water itself; no separate foulness can it show!
+The palmyra tree is deemed impure, and paper made from its fibers considered mean;
+Yet when the sacred praises of the Divine and verses of the Bhagavata are inscribed upon that screen,
+Mankind bows down in reverence, worshipping that very paper with devout adoration keen!
+The folk of my community daily haul dead cattle around the outskirts of Banaras town;
+Yet behold, O Lord! Seeking the sanctuary of Thy Holy Name, Ravidas has won renown—
+Even the proudest, foremost Brahmins now prostrate in humble reverence before Thy servant, bowing down!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग मलाहर (Malar))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1293 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (प्रभु-प्रेम की अखंड धारा (Unbroken Stream of Divine Love))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **रविदास जी का सबसे शक्तिशाली स्वाभिमान-गीत**:
+   संत रविदास अपनी चमार जाति को छिपाते नहीं, बल्कि गर्व से उद्घोष करते हैं—'मेरी जाति बिखिआत चमारं'। यह शोषित वर्ग में स्वाभिमान जगाने की अद्भुत मिसाल है।
+2. **गंगा और मदिरा का रूपक**:
+   अपवित्र वस्तु भी जब गंगा (ईश्वर) में मिलती है, तो गंगा बन जाती है। भक्ति में लीन होते ही सामाजिक हीनता समाप्त होकर आत्मा ब्रह्म-रूप हो जाती है।
+3. **कागज और भागवत का दृष्टांत**:
+   ताड़ का पत्ता और कागज अपवित्र माने जाते थे, पर जब उन पर प्रभु का नाम लिखा गया तो वे पूज्य ग्रंथ बन गए। इसी प्रकार चमार रविदास प्रभु-नाम के स्पर्श से जगत-वंद्य हो गए।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3598,7 +4075,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-39"></a>
 ## शब्द 39: हरि जपत तेऊ जना पदम कवलास पति तास सम तुलि नही आन कोऊ
-**राग:** राग कान्हड़ा (Kanra) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** परम पद की प्राप्ति (Attainment of the Supreme Spiritual Station)
+**राग:** राग मलाहर (Malar) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** हरि-भक्तों की महिमा: नामदेव और कबीर की साखी (Glory of Devotees: The Legacy of Namdev and Kabir)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3650,27 +4127,40 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द राग कान्हड़ा (Kanra) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+जो भी जन उस कृपालु हरि का निरंतर जप करते हैं, वे साक्षात कमलाकंत लक्ष्मीपति भगवान के समान पूज्य हो जाते हैं; उनकी बराबरी करने वाला संसार में कोई दूसरा नहीं है!
+वह एक ही परमात्मा अनेक रूपों में विस्तार पाकर समस्त ब्रह्मांड में भरपूर समाया हुआ है।
+जिस भक्त के घर भागवत की कथा लिखी जाती है और जिसके हृदय में केवल प्रभु ही दिखाई देते हैं, उस नामदेव की जाति संसार में अछूत छीपा (दर्जी) मानी जाती थी;
+किंतु महर्षि व्यास और सनकादिक ऋषियों के ग्रंथों में उनकी महिमा लिखी गई है, और सातों द्वीपों में संत नामदेव के नाम की कीर्ति जगमगा रही है!
+जिस कुल में ईद और बकरीद पर गो-हत्या की जाती थी, और जिनके पूर्वज शेख, शहीद और पीरों को मानते थे;
+जिसके पिता ने ऐसा व्यवहार किया, किंतु उसी जुलाहे के घर ऐसा पुत्र पैदा हुआ जो तीनों लोकों में संत कबीर के नाम से प्रसिद्ध हो गया!
+और जिसके कुटुंब के सभी चमार बंधु आज भी बनारस के आस-पास मृत पशुओं को ढोते फिरते हैं;
+काशी के आचारवान श्रेष्ठ ब्राह्मण भी आज उसी कुल में जन्मे दास रविदास के चरणों में दंडवत प्रणाम करते हैं!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in राग कान्हड़ा (Kanra) and preserved on Ang 1293 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+Those humble souls who contemplate Hari become equal to the Supreme Lord of Lakshmi divine;
+None in all the universe can rival their glory, none can surpass their shrine!
+The Single Supreme Reality has expanded in myriad forms, filling all space with grace;
+Behold the tailor Namdev, whose caste was deemed untouchable in the market-place—
+Yet in his home the divine word of God was written, seeing only the Beloved around!
+In the sacred works of Vyasa and Sanaka his praise is sung, through all seven continents his fame doth resound!
+In whose lineage cows were slain on Eid and Bakrid according to ancestral creed,
+Where ancestral elders followed pirs and sheikhs in outward religious deed—
+Though the father lived such life, such a radiant son was born in that weaver's frame,
+That through all three cosmic worlds shines the glorious, immortal light of Kabir's name!
+And in whose family the humble kinsmen still haul dead cattle around Banaras day by day;
+Even the strict and ritualistic Brahmins now prostrate in the dust where his feet make their way—
+Unto that very lineage belongs Ravidas, the humble servant of Thy servants, walking the holy way!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (राग कान्हड़ा (Kanra))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1293 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (परम पद की प्राप्ति (Attainment of the Supreme Spiritual Station))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **शूद्र संतों की सामाजिक विजय का ऐतिहासिक दस्तावेज**:
+   रविदास जी नामदेव (छीपा), कबीर (जुलाहा) और स्वयं अपने (चमार) उदाहरण देकर सिद्ध करते हैं कि भक्ति ने भारत के सामाजिक पदानुक्रम को उलट दिया।
+2. **ब्राह्मणों का नतमस्तक होना**:
+   'आचार सहित बिप्र करहि डंडउति'—जो ब्राह्मण अछूतों की छाया से भी बचते थे, वे ज्ञान और भक्ति के प्रभाव से रविदास के चरणों में दंडवत करने लगे। यह क्रांति तलवार से नहीं, सत्य और प्रेम से आई।
+3. **'दासान दासा' (दास का भी दास)**:
+   इतने बड़े सम्मान के बाद भी रविदास जी स्वयं को संतों के दासों का दास घोषित करते हैं।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
@@ -3678,7 +4168,7 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 
 <a name="shabad-40"></a>
 ## शब्द 40: मिलत पिआरो प्रान नाथु कवन भगति ते
-**राग:** सलोक (Salok) | **आदि ग्रंथ अंग (Ang):** 1428 | **केंद्रीय भाव:** हरि-सिमरन ही जीवन का सार (Remembrance of Hari as the Essence of Life)
+**राग:** सलोक (Salok) | **आदि ग्रंथ अंग (Ang):** 1293 | **केंद्रीय भाव:** साध-संगत से परम गति: जीवन की सच्ची हाट (Supreme Liberation through Holy Company)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3690,76 +4180,6 @@ the soul attains eternal liberation by merging in the pristine contemplation of 
 झूठै बनजि उठि ही गई हाटिओ ॥2॥
 कहु रविदास भइओ जब लेखो ॥
 जोई जोई कीनो सोई सोई देखिओ ॥3॥1॥3॥1293॥
-संत/गुरु रविदास जी से संबंधित कहानियाँ
-footer {
-width: 100%;
-background: #fff;
-border-top: 1px solid #d7d7d7;
-font-family: Arial, sans-serif;
-height: 80px;
-float: left;
-margin-top: 15px;
-}
-#___gcse_0 {
-float: left;
-}
-footer a {
-display: inline !important;
-line-height: 80px;
-}
-/* Layout Positioning Helpers */
-.pull-left {
-float: left;
-}
-.pull-right {
-float: right;
-}
-@media only screen and (max-width: 480px) {
-.header {
-border-bottom: 1px solid #d7d7d7;
-}
-.container {
-width: 90%;
-}
-footer {
-font-size: 12px;
-height: auto; /* FIXED: Prevents content cutting off on small mobile devices */
-padding: 15px 0;
-}
-footer a {
-line-height: normal !important;
-}
-}
-.nav {
-float: right;
-width: 100%;
-}
-.nav ul {
-margin: 0px;
-margin-top: 10px;
-font-family: Arial, sans-serif;
-float: left;
-width: 100%;
-padding: 0px;
-}
-.nav ul li {
-float: left;
-margin-left: 30px;
-list-style: none;
-line-height: 28px;
-color: #0294f9;
-margin: 0px;
-width: 100%;
-}
-(function() {
-var cx = '000436866180928962958:5pzruqlhzp4';
-var gcse = document.createElement('script');
-gcse.type = 'text/javascript';
-gcse.async = true;
-gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(gcse, s);
-})();
 ```
 
 ### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
@@ -3796,311 +4216,40 @@ s.parentNode.insertBefore(gcse, s);
 - **हिन्दी शब्दार्थ:** जोई (जो कोई भी) जोई (जो कोई भी) कीनो (क्या (लोग/समूह) संबंधी) सोई (वही) सोई (वही) देखिओ (देखकर संबंधी)  
 - **English Gloss:** jo-ee (whosoever) jo-ee (whosoever) keeno (what (folk/plural) related) soee (the very same) soee (the very same) dekhio (beholding related)  
 
-**चरण 9:** `संत/गुरु रविदास जी से संबंधित कहानियाँ`  
-- **हिन्दी शब्दार्थ:** संत/गुरु (संत/गुरु रूप) रविदास (संत रविदास जी) जी (परम आदरणीय प्रभु) से (से/द्वारा) संबंधित (नातेदार/सगे-संबंधी) कहानियाँ (क्या/कहाँ संबंधी)  
-- **English Gloss:** santaguru (santaguru) ravidaas (Sant Ravidas) jee (Revered Lord) se (from/by) sambandhit (relatives/kinsfolk) kahaaniyaan (what/where related)  
-
-**चरण 10:** `footer {`  
-- **हिन्दी शब्दार्थ:** footer (footer रूप) { ({ रूप)  
-- **English Gloss:** footer (footer) { ({)  
-
-**चरण 11:** `width: 100%;`  
-- **हिन्दी शब्दार्थ:** width (width रूप) : %; (%; रूप)  
-- **English Gloss:** width (width) : %; (%;)  
-
-**चरण 12:** `background: #fff;`  
-- **हिन्दी शब्दार्थ:** background (background रूप) : #fff; (#fff; रूप)  
-- **English Gloss:** background (background) : #fff; (#fff;)  
-
-**चरण 13:** `border-top: 1px solid #d7d7d7;`  
-- **हिन्दी शब्दार्थ:** border (border रूप) - top (top रूप) : px (px रूप) solid (solid रूप) #ddd; (#ddd; रूप)  
-- **English Gloss:** border (border) - top (top) : px (px) solid (solid) #ddd; (#ddd;)  
-
-**चरण 14:** `font-family: Arial, sans-serif;`  
-- **हिन्दी शब्दार्थ:** font (font रूप) - family (family रूप) : Arial (Arial रूप) , sans (sans रूप) - serif; (serif; रूप)  
-- **English Gloss:** font (font) - family (family) : Arial (Arial) , sans (sans) - serif; (serif;)  
-
-**चरण 15:** `height: 80px;`  
-- **हिन्दी शब्दार्थ:** height (height रूप) : px; (px; रूप)  
-- **English Gloss:** height (height) : px; (px;)  
-
-**चरण 16:** `float: left;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : left; (left; रूप)  
-- **English Gloss:** float (float) : left; (left;)  
-
-**चरण 17:** `margin-top: 15px;`  
-- **हिन्दी शब्दार्थ:** margin (margin रूप) - top (top रूप) : px; (px; रूप)  
-- **English Gloss:** margin (margin) - top (top) : px; (px;)  
-
-**चरण 18:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 19:** `#___gcse_0 {`  
-- **हिन्दी शब्दार्थ:** #___gcse_ (#___gcse_ रूप) { ({ रूप)  
-- **English Gloss:** #___gcse_ (#___gcse_) { ({)  
-
-**चरण 20:** `float: left;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : left; (left; रूप)  
-- **English Gloss:** float (float) : left; (left;)  
-
-**चरण 21:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 22:** `footer a {`  
-- **हिन्दी शब्दार्थ:** footer (footer रूप) a (a रूप) { ({ रूप)  
-- **English Gloss:** footer (footer) a (a) { ({)  
-
-**चरण 23:** `display: inline !important;`  
-- **हिन्दी शब्दार्थ:** display (display रूप) : inline (inline रूप) ! important; (important; रूप)  
-- **English Gloss:** display (display) : inline (inline) ! important; (important;)  
-
-**चरण 24:** `line-height: 80px;`  
-- **हिन्दी शब्दार्थ:** line (line रूप) - height (height रूप) : px; (px; रूप)  
-- **English Gloss:** line (line) - height (height) : px; (px;)  
-
-**चरण 25:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 26:** `/* Layout Positioning Helpers */`  
-- **हिन्दी शब्दार्थ:** /* (/* रूप) Layout (Layout रूप) Positioning (Positioning रूप) Helpers (Helpers रूप) */ (*/ रूप)  
-- **English Gloss:** /* (/*) Layout (Layout) Positioning (Positioning) Helpers (Helpers) */ (*/)  
-
-**चरण 27:** `.pull-left {`  
-- **हिन्दी शब्दार्थ:** . pull (pull रूप) - left (left रूप) { ({ रूप)  
-- **English Gloss:** . pull (pull) - left (left) { ({)  
-
-**चरण 28:** `float: left;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : left; (left; रूप)  
-- **English Gloss:** float (float) : left; (left;)  
-
-**चरण 29:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 30:** `.pull-right {`  
-- **हिन्दी शब्दार्थ:** . pull (pull रूप) - right (right रूप) { ({ रूप)  
-- **English Gloss:** . pull (pull) - right (right) { ({)  
-
-**चरण 31:** `float: right;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : right; (right; रूप)  
-- **English Gloss:** float (float) : right; (right;)  
-
-**चरण 32:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 33:** `@media only screen and (max-width: 480px) {`  
-- **हिन्दी शब्दार्थ:** @media (@media रूप) only (only रूप) screen (screen रूप) and (and रूप) ( max (max रूप) - width (width रूप) : px (px रूप) ) { ({ रूप)  
-- **English Gloss:** @media (@media) only (only) screen (screen) and (and) ( max (max) - width (width) : px (px) ) { ({)  
-
-**चरण 34:** `.header {`  
-- **हिन्दी शब्दार्थ:** . header (header रूप) { ({ रूप)  
-- **English Gloss:** . header (header) { ({)  
-
-**चरण 35:** `border-bottom: 1px solid #d7d7d7;`  
-- **हिन्दी शब्दार्थ:** border (border रूप) - bottom (bottom रूप) : px (px रूप) solid (solid रूप) #ddd; (#ddd; रूप)  
-- **English Gloss:** border (border) - bottom (bottom) : px (px) solid (solid) #ddd; (#ddd;)  
-
-**चरण 36:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 37:** `.container {`  
-- **हिन्दी शब्दार्थ:** . container (container रूप) { ({ रूप)  
-- **English Gloss:** . container (container) { ({)  
-
-**चरण 38:** `width: 90%;`  
-- **हिन्दी शब्दार्थ:** width (width रूप) : %; (%; रूप)  
-- **English Gloss:** width (width) : %; (%;)  
-
-**चरण 39:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 40:** `footer {`  
-- **हिन्दी शब्दार्थ:** footer (footer रूप) { ({ रूप)  
-- **English Gloss:** footer (footer) { ({)  
-
-**चरण 41:** `font-size: 12px;`  
-- **हिन्दी शब्दार्थ:** font (font रूप) - size (size रूप) : px; (px; रूप)  
-- **English Gloss:** font (font) - size (size) : px; (px;)  
-
-**चरण 42:** `height: auto; /* FIXED: Prevents content cutting off on small mobile devices */`  
-- **हिन्दी शब्दार्थ:** height (height रूप) : auto; (auto; रूप) /* (/* रूप) FIXED (FIXED रूप) : Prevents (Prevents रूप) content (content रूप) cutting (cutting रूप) off (off रूप) on (on रूप) small (small रूप) mobile (mobile रूप) devices (devices रूप) */ (*/ रूप)  
-- **English Gloss:** height (height) : auto; (auto;) /* (/*) FIXED (FIXED) : Prevents (Prevents) content (content) cutting (cutting) off (off) on (on) small (small) mobile (mobile) devices (devices) */ (*/)  
-
-**चरण 43:** `padding: 15px 0;`  
-- **हिन्दी शब्दार्थ:** padding (padding रूप) : px (px रूप) ; (; रूप)  
-- **English Gloss:** padding (padding) : px (px) ; (;)  
-
-**चरण 44:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 45:** `footer a {`  
-- **हिन्दी शब्दार्थ:** footer (footer रूप) a (a रूप) { ({ रूप)  
-- **English Gloss:** footer (footer) a (a) { ({)  
-
-**चरण 46:** `line-height: normal !important;`  
-- **हिन्दी शब्दार्थ:** line (line रूप) - height (height रूप) : normal (normal रूप) ! important; (important; रूप)  
-- **English Gloss:** line (line) - height (height) : normal (normal) ! important; (important;)  
-
-**चरण 47:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 48:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 49:** `.nav {`  
-- **हिन्दी शब्दार्थ:** . nav (nav रूप) { ({ रूप)  
-- **English Gloss:** . nav (nav) { ({)  
-
-**चरण 50:** `float: right;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : right; (right; रूप)  
-- **English Gloss:** float (float) : right; (right;)  
-
-**चरण 51:** `width: 100%;`  
-- **हिन्दी शब्दार्थ:** width (width रूप) : %; (%; रूप)  
-- **English Gloss:** width (width) : %; (%;)  
-
-**चरण 52:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 53:** `.nav ul {`  
-- **हिन्दी शब्दार्थ:** . nav (nav रूप) ul (ul रूप) { ({ रूप)  
-- **English Gloss:** . nav (nav) ul (ul) { ({)  
-
-**चरण 54:** `margin: 0px;`  
-- **हिन्दी शब्दार्थ:** margin (margin रूप) : px; (px; रूप)  
-- **English Gloss:** margin (margin) : px; (px;)  
-
-**चरण 55:** `margin-top: 10px;`  
-- **हिन्दी शब्दार्थ:** margin (margin रूप) - top (top रूप) : px; (px; रूप)  
-- **English Gloss:** margin (margin) - top (top) : px; (px;)  
-
-**चरण 56:** `font-family: Arial, sans-serif;`  
-- **हिन्दी शब्दार्थ:** font (font रूप) - family (family रूप) : Arial (Arial रूप) , sans (sans रूप) - serif; (serif; रूप)  
-- **English Gloss:** font (font) - family (family) : Arial (Arial) , sans (sans) - serif; (serif;)  
-
-**चरण 57:** `float: left;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : left; (left; रूप)  
-- **English Gloss:** float (float) : left; (left;)  
-
-**चरण 58:** `width: 100%;`  
-- **हिन्दी शब्दार्थ:** width (width रूप) : %; (%; रूप)  
-- **English Gloss:** width (width) : %; (%;)  
-
-**चरण 59:** `padding: 0px;`  
-- **हिन्दी शब्दार्थ:** padding (padding रूप) : px; (px; रूप)  
-- **English Gloss:** padding (padding) : px; (px;)  
-
-**चरण 60:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 61:** `.nav ul li {`  
-- **हिन्दी शब्दार्थ:** . nav (nav रूप) ul (ul रूप) li (li रूप) { ({ रूप)  
-- **English Gloss:** . nav (nav) ul (ul) li (li) { ({)  
-
-**चरण 62:** `float: left;`  
-- **हिन्दी शब्दार्थ:** float (float रूप) : left; (left; रूप)  
-- **English Gloss:** float (float) : left; (left;)  
-
-**चरण 63:** `margin-left: 30px;`  
-- **हिन्दी शब्दार्थ:** margin (margin रूप) - left (left रूप) : px; (px; रूप)  
-- **English Gloss:** margin (margin) - left (left) : px; (px;)  
-
-**चरण 64:** `list-style: none;`  
-- **हिन्दी शब्दार्थ:** list (list रूप) - style (style रूप) : none; (none; रूप)  
-- **English Gloss:** list (list) - style (style) : none; (none;)  
-
-**चरण 65:** `line-height: 28px;`  
-- **हिन्दी शब्दार्थ:** line (line रूप) - height (height रूप) : px; (px; रूप)  
-- **English Gloss:** line (line) - height (height) : px; (px;)  
-
-**चरण 66:** `color: #0294f9;`  
-- **हिन्दी शब्दार्थ:** color (color रूप) : #f; (#f; रूप)  
-- **English Gloss:** color (color) : #f; (#f;)  
-
-**चरण 67:** `margin: 0px;`  
-- **हिन्दी शब्दार्थ:** margin (margin रूप) : px; (px; रूप)  
-- **English Gloss:** margin (margin) : px; (px;)  
-
-**चरण 68:** `width: 100%;`  
-- **हिन्दी शब्दार्थ:** width (width रूप) : %; (%; रूप)  
-- **English Gloss:** width (width) : %; (%;)  
-
-**चरण 69:** `}`  
-- **हिन्दी शब्दार्थ:** } (} रूप)  
-- **English Gloss:** } (})  
-
-**चरण 70:** `(function() {`  
-- **हिन्दी शब्दार्थ:** ( function (function रूप) () { ({ रूप)  
-- **English Gloss:** ( function (function) () { ({)  
-
-**चरण 71:** `var cx = '000436866180928962958:5pzruqlhzp4';`  
-- **हिन्दी शब्दार्थ:** var (var रूप) cx (cx रूप) = (= रूप) ' : pzruqlhzp (pzruqlhzp रूप) ' ; (; रूप)  
-- **English Gloss:** var (var) cx (cx) = (=) ' : pzruqlhzp (pzruqlhzp) ' ; (;)  
-
-**चरण 72:** `var gcse = document.createElement('script');`  
-- **हिन्दी शब्दार्थ:** var (var रूप) gcse (gcse रूप) = (= रूप) document (document रूप) . createElement (createElement रूप) (' script (script रूप) ') ; (; रूप)  
-- **English Gloss:** var (var) gcse (gcse) = (=) document (document) . createElement (createElement) (' script (script) ') ; (;)  
-
-**चरण 73:** `gcse.type = 'text/javascript';`  
-- **हिन्दी शब्दार्थ:** gcse (gcse रूप) . type (type रूप) = (= रूप) ' text/javascript (text/javascript रूप) ' ; (; रूप)  
-- **English Gloss:** gcse (gcse) . type (type) = (=) ' text/javascript (text/javascript) ' ; (;)  
-
-**चरण 74:** `gcse.async = true;`  
-- **हिन्दी शब्दार्थ:** gcse (gcse रूप) . async (async रूप) = (= रूप) true; (true; रूप)  
-- **English Gloss:** gcse (gcse) . async (async) = (=) true; (true;)  
-
-**चरण 75:** `gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;`  
-- **हिन्दी शब्दार्थ:** gcse (gcse रूप) . src (src रूप) = (= रूप) ' https (https रूप) : //cse (//cse रूप) . google (google रूप) . com/cse (com/cse रूप) . js (js रूप) ? cx= (cx= रूप) ' + (+ रूप) cx; (cx; रूप)  
-- **English Gloss:** gcse (gcse) . src (src) = (=) ' https (https) : //cse (//cse) . google (google) . com/cse (com/cse) . js (js) ? cx= (cx=) ' + (+) cx; (cx;)  
-
-**चरण 76:** `var s = document.getElementsByTagName('script')[0];`  
-- **हिन्दी शब्दार्थ:** var (var रूप) s (s रूप) = (= रूप) document (document रूप) . getElementsByTagName (getElementsByTagName रूप) (' script (script रूप) ') []; ([]; रूप)  
-- **English Gloss:** var (var) s (s) = (=) document (document) . getElementsByTagName (getElementsByTagName) (' script (script) ') []; ([];)  
-
-**चरण 77:** `s.parentNode.insertBefore(gcse, s);`  
-- **हिन्दी शब्दार्थ:** s (s रूप) . parentNode (parentNode रूप) . insertBefore (insertBefore रूप) ( gcse (gcse रूप) , s (s रूप) ) ; (; रूप)  
-- **English Gloss:** s (s) . parentNode (parentNode) . insertBefore (insertBefore) ( gcse (gcse) , s (s) ) ; (;)  
-
-**चरण 78:** `})();`  
-- **हिन्दी शब्दार्थ:** } (} रूप) )() ; (; रूप)  
-- **English Gloss:** } (}) )() ; (;)  
-
 ### ✍️ पद्यानुवाद (Poetic Translations)
 
 #### 🇮🇳 हिन्दी काव्यानुवाद
 ```text
-श्री गुरु ग्रंथ साहिब जी में अंकित संत रविदास जी का यह अमर शब्द सलोक (Salok) में निबद्ध है।
-इसमें संत रविदास जी सांसारिक मोह-माया, जातिगत अभिमान और नश्वर अहंकार का त्याग कर
-सर्वव्यापी, दयालु और समतावादी परमात्मा के चरणों में पूर्ण आत्म-समर्पण की प्रेरणा देते हैं।
-जो जीव हरि-नाम का आश्रय लेता है, वह इस संसार रूपी भवसागर को सहज ही पार कर जाता है।
+भला किस प्रकार की भक्ति करने से उस प्राण-प्रिय परमात्मा का साक्षात मिलन हो सकता है?
+साधु-संतों की संगति करने से ही उस परम गति और मुक्ति की प्राप्ति होती है!
+मैं इस नश्वर देह रूपी मैले कपड़ों को भला कब तक धोता रहूँ?
+और अज्ञान की यह जो भारी नींद आ रही है, इसमें मैं कब तक अचेत होकर सोता रहूँ?
+संसार में मैंने मोह-माया से जो-जो झूठे रिश्ते-नाते जोड़े, वे सब कपड़े की तरह फटकर जीर्ण-शीर्ण हो गए;
+और जब मैंने इस संसार की झूठी दुकानदारी का व्यापार किया, तो वह दुकान ही उठ गई और सब कुछ नष्ट हो गया!
+रविदास कहता है—जब अंत समय में उस परमात्मा के दरबार में जीवन का सच्चा हिसाब-किताब हुआ,
+तो मनुष्य ने जो-जो कर्म इस संसार में किए थे, वही-वही कर्म उसके सामने प्रत्यक्ष प्रकट होकर आ खड़े हुए!
 ```
 
 #### 🇬🇧 Poetic English Translation
 ```text
-Composed in सलोक (Salok) and preserved on Ang 1428 of Sri Guru Granth Sahib Ji,
-this sacred hymn reveals Sant Ravidas Ji's profound message of unconditional surrender to the Supreme.
-Transcending the illusions of caste, worldly status, and egoic pride,
-the soul attains eternal liberation by merging in the pristine contemplation of the Divine.
+By what manner of loving devotion is the Beloved Lord of Life attained within?
+Through the holy fellowship of saints alone is supreme liberation won over sin!
+How long shall I wash these soiled garments of mortal flesh and transient clay?
+And how long shall I slumber in this heavy sleep of ignorance, drifting away?
+Whatever false earthly attachments I stitched and bound together in illusion's pride,
+Tore asunder like worn-out rags, leaving nothing to abide!
+Trading in the false marketplace of worldly greed, the entire shop has closed and fled;
+Proclaims Ravidas: When the final reckoning was made before the Sovereign Lord instead,
+Whatever deeds a mortal performed on earth, stood revealed before him, living or dead!
 ```
 
-### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
-1. **राग एवं शास्त्रीय विधान (सलोक (Salok))**:
-   यह पवित्र शब्द श्री गुरु ग्रंथ साहिब जी के पावन अंग 1428 पर संकलित है। संत रविदास जी ने इसे शास्त्रीय राग में निबद्ध कर आत्मा की परम पुकार बनाया है।
-2. **मूल केंद्रीय विचार (हरि-सिमरन ही जीवन का सार (Remembrance of Hari as the Essence of Life))**:
-   संत रविदास जी सामाजिक पाखंड, बाह्य कर्मकांड और वर्ण-व्यवस्था की संकीर्णताओं को नकारते हुए विशुद्ध अंतःकरण, सदाचार और ईश्वरीय प्रेम को ही मोक्ष का एकमात्र मार्ग घोषित करते हैं।
-3. **सद्गुरु कृपा और नाम-सिमरन**:
-   संत रविदास का स्पष्ट दर्शन है कि जाति या कुल से कोई महान नहीं होता; केवल प्रभु-भक्ति और समतामूलक आचरण से ही मानव जन्म सफल होता है।
+### दार्शनिक विश्लेषण (Philosophical Commentary)
+1. **मैले कपड़े और अज्ञान की नींद**:
+   शरीर को सजाना मैले कपड़े धोने जैसा है; मुख्य कार्य अंतर्मन की अज्ञान-निद्रा को तोड़ना है।
+2. **संसार की झूठी हाट (False Shop of the World)**:
+   सांसारिक रिश्ते और संपत्ति उस कपड़े की तरह हैं जो फट जाते हैं। झूठी दुकानदारी अंत में दिवालिया बना देती है।
+3. **अंतिम कर्म-लेखा (The Final Reckoning)**:
+   श्री गुरु ग्रंथ साहिब जी में संकलित रविदास जी की वाणी का यह अंतिम शब्द मनुष्य को सचेत करता है कि परमात्मा के दरबार में केवल कर्मों का सच्चा हिसाब होता है; अतः साधु-संगत करके नाम की कमाई कर लो।
 
 [⬆️ वापस विषय-सूची पर जाएं](#-विषय-सूची-table-of-contents---40-shabad)
 
