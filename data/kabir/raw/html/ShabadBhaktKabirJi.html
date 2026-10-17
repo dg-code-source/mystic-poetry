@@ -1,0 +1,582 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="Shabd Bhakt Kabir Ji in Hindi." />
+<meta name="description" content="Shabd Bhakt Kabir Ji in Hindi." />
+
+<title>Shabd Bhakt Kabir Ji in Hindi</title>
+
+<link rel="canonical" href="https://hindi-kavita.com/ShabadBhaktKabirJi.php"><style>
+* { box-sizing: border-box; }
+body { margin: 0; width: 100%; font-family: Arial, sans-serif; line-height: 1.5; background-color: #f4f4f4; }
+.container { width: 90%; max-width: 1200px; margin: 20px auto; display: flex; flex-wrap: wrap; gap: 20px; border: 2px solid #0000FF; padding: 25px; background-color: #ffffff; }
+h1 { color: #0000FF; margin-top: 0; margin-bottom: 20px; }
+</style><link rel="preload" href="author.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="author.css"></noscript>
+
+</head>
+
+<body>
+﻿<style>
+/* =================================================================
+   1. बेस स्टाइल और हेडर लेआउट (Reset & Header Core)
+   ================================================================= */
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 10px 0px;
+    box-shadow: 0px 1px 3px rgba(215, 215, 215, 0.3);
+    position: relative;
+    z-index: 9999999;
+    box-sizing: border-box;
+}
+
+.header .container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* लोगो स्टाइल */
+.header .logo {
+    width: 160px;
+    height: 48px;
+    display: block;
+    text-decoration: none;
+    flex-shrink: 0;
+}
+
+.header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* लोगो के टेक्स्ट को छुपाना */
+.header .logo #unicodeenglishlogo,
+.header .logo #unicodehindilogo {
+    display: none !important;
+}
+
+/* =================================================================
+   2. डेस्कटॉप नेविगेशन मेनू (Desktop Navigation)
+   ================================================================= */
+.header .menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    background-color: #fff;
+}
+
+.header .menu li {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.header .menu li a {
+    display: block;
+    padding: 8px 0px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 600;
+    font-size: 17px;
+    transition: color 0.2s ease;
+}
+
+/* होवर करने पर नीला रंग */
+.header .menu li a:hover,
+.header .menu li.active a {
+    color: #0056b3 !important;
+}
+
+/* =================================================================
+   3. मोबाइल मेनू बटन (Hamburger Icon)
+   ================================================================= */
+.header .menu-btn { display: none; }
+
+.header .menu-icon {
+    cursor: pointer;
+    display: none;
+    padding: 10px;
+    position: relative;
+    user-select: none;
+}
+
+.header .menu-icon .navicon {
+    background: #333;
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 22px;
+    transition: background .2s ease-out;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+    background: #333;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.header .menu-icon .navicon:before { top: 6px; }
+.header .menu-icon .navicon:after { top: -6px; }
+
+/* चेक होने पर X आकार */
+.header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
+.header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
+.header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
+
+/* =================================================================
+   4. मीडिया क्वेरीज़ (Responsive)
+   ================================================================= */
+
+@media only screen and (max-width: 1100px) {
+    .header .container { width: 90%; }
+    .header .logo { width: 150px; height: 45px; }
+    .header .menu li { margin-left: 20px; }
+}
+
+@media only screen and (max-width: 1025px) {
+    .header .menu {
+        display: block;
+        width: 100%;
+        max-height: 0px;
+        overflow: hidden;
+        opacity: 0;
+        transition: max-height 0.35s ease-out, opacity 0.2s ease;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .header .menu li {
+        float: none;
+        border-bottom: 1px solid #f5f5f5;
+        margin-left: 0px;
+    }
+    .header .menu li a { padding: 12px 0px; font-size: 16px; }
+    .header .menu-icon { display: block; }
+    .header .menu-btn:checked ~ .menu {
+        max-height: 450px;
+        opacity: 1;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header .container { width: 95%; }
+    .header .logo { width: 135px; height: 40px; }
+}
+
+/* कंटेंट रैपर स्टेबलाइजर */
+.content {
+    padding-top: 20px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.content .container {
+    width: 80%;
+    margin: auto;
+}
+
+/* क्लियरफ़िक्स स्टेबलाइजर */
+.header::after,
+.header .container::after, 
+.content .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E5JZMPECWS', { 'cookie_domain': 'auto', 'anonymize_ip': true });
+</script>
+
+<header class="header">
+    <div class="container">
+        <a href="https://hindi-kavita.com/" class="logo"><img src="hindi-kavita-logo.png" alt="Hindi Kavita"></a>
+        
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        
+        <ul class="menu">
+            <li><a href="https://hindi-kavita.com">Home</a></li>
+            <li><a href="HindiPoetry.php">Hindi Poetry</a></li>
+            <li><a href="HindiPunjabiKavita.php">Punjabi Poetry</a></li>
+            <li><a href="https://hindikahani.hindi-kavita.com">Hindi Stories</a></li>
+            <li><a href="hindikavitacontactus.php">Contact Us</a></li> 
+        </ul>
+    </div>
+</header>
+
+<div class="content">
+    <div class="container"><main id="main-content" role="main">
+<div class="hk-wrapper">
+<div class="section">
+<div class="left">
+<h1>Shabd Bhakt Kabir Ji in Hindi</h1>
+<h2>शब्द भक्त कबीर जी</h2>
+</div>
+<div class="list">
+<ul>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir11"> Aape Pavak Aape Pavna</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir65"> Aiso Ihu Sansar Pekhna</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir106"> Alhu Ek Maseet Basat Hai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir63"> Amal Sirano Lekha Dena</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir43"> Antar Mail Je Tirath Navai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir5"> Avar Mooye Kia Sog Kareejai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir107"> Awal Allah Noor Upaia</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir54"> Bahu Parpanch Kar Par Dhan Liavai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir78"> Baneh Basey Kiu Paaiai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir32"> Barah Baras Baalpan Beete</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir62"> Bed Kateb Iftra Bhai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir108"> Bed Kateb Kaho Mat Jhoothe</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir9"> Bed Ki Putri Simrit Bhai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir48"> Bed Puran Sabhai Mat Sun Kai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir56"> Bhookhe Bhagat Na Keejai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir71"> Bhuja Baandh Bhila Kar Daario</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir66"> Bidia Na Parau Baad Nahi Janau</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir46"> But Pooj Pooj Hindu Mooye</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir87"> Chaar Din Apni Naubat Chale Bajaye</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir44"> Chaar Paav Due Sing Gung Mukh</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir83"> Deen Bisario Re Diwane</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir81"> Dehi Gaava Jiu Dhar Mahtau</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir10"> Dei Muhar Lagam Pehrawau</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir17"> Dekhau Bhai Gyan Ki Aai Aandhi</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir74"> Dhan Gupal Dhan Gurdev</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir58"> Din Te Pahar Pahar Te Gharian</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir49"> Duye Duye Lochan Pekha</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir35"> Gagan Nagar Ik Boond Na Barkhai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir26"> Gaj Saadhe Tai Tai Dhotian</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir91"> Ganga Kai Sang Salita Bigri</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir98"> Gang Gusain Gehar Gambhir</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir4"> Garbh Vaas Mah Kul Nahi Jaati</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir67"> Grihu Taj Ban Khand Jaaiai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir30"> Haj Hamari Gomti Teer</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir39"> Ham Ghar Soot Tanai Nit Tana</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir34"> Ham Maskeen Khudaai Bande</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir105"> Har Bin Kaun Sahai Man Ka</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir18"> Har Jas Sunai Na Har Gun Gavai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir27"> Hindu Turak Kaha Te Aaye</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir53"> Hridai Kapat Mukh Giani</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir60"> Inder Lok Siv Lokai Jaibo</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir47"> Jab Jariai Tab Hoe Bhasam Tan</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir96"> Jab Lag Meri Meri Karai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir28"> Jab Lag Tel Deeve Mukh Baati</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir50"> Ja Ke Nigam Doodh Ke Thata</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir15"> Jal Hai Sootak Thal Hai Sootak</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir1"> Janani Jaanat Sut Bada Hot Hai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir19"> Jeewat Pittar Na Manai Kou</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir16"> Jhagra Ek Nibero Ram</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir51"> Jih Bajh Na Jia Jaai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir6"> Jih Kul Poot Na Gian Bichari</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir75"> Jih Mukh Bed Gaaitri Niksai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir12"> Jih Sir Rach Rach Baadhat Paag</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir80"> Jin Garh Kot Keeye Kanchan Ke</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir59"> Jo Jan Bhau Bhagat Kachhu Janai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir7"> Jo Jan Leh Khasam Ka Nao</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir33"> Kaahu Deene Paat Patamber</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir85"> Kaam Krodh Trisna Ke Leene</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir103"> Kahan Nar Garbas Thori Baat</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir37"> Kaha Suan Ko Simrit Sunaae</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir41"> Karwat Bhala Na Karwat Teri</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir14"> Kaun Ko Poot Pita Ko Ka Ko</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir3"> Kia Jap Kia Tap Kia Brat Pooja</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir52"> Kia Pariai Kia Guniai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir42"> Kori Ko Kaahu Maram Na Jana</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir24"> Lakh Chaurasih Ji Jon Meh</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir38"> Lanka Sa Kot Samund See Khaai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir92"> Maathe Tilak Hath Mala Bana</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir89"> Maila Brahma Maila Indu</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir90"> Man Kar Makka Kibla Kar Dehi</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir23"> Man Re Chhado Bharam Pargat Hoe</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir102"> Mata Joothi Pita Bhi Jootha</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir99"> Mauli Dharti Maulia Akaas</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir76"> Mundra Mon Daia Kar Jholi</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir45"> Mus Mus Rovai Kabir Ki Maai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir88"> Naange Aawan Naange Jana</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir2"> Nagan Phirat Jau Paaiai Jog</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir72"> Na Ihu Maanas Na Ihu Deo</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir70"> Naroo Marai Nar Kaam Na Aavai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir25"> Nindo Nindo Mo Kau Log Nindo</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir94"> Nirdhan Aadar Koi Na Dei</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir68"> Nit Uth Kori Gagar Aanai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir8"> Oay Jo Deesai Ambar Taare</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir31"> Paati Torai Malini</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir77"> Pandia Kawan Kumat Tum Laage</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir100"> Pandit Jan Maate Parh Puran</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir101"> Prahlad Pathaye Parhan Saal</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir82"> Rajan Kaun Tumarai Aavai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir104"> Rajasram Mit Nahi Jaani Teri</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir20"> Ram Japo Ji Aise Aise</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir61"> Ram Simar Ram Simar Ram Simar Bhai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir13"> Re Ji Nilaj Laaj Tohi Naahi</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir22"> Re Man Tero Koe Nahi</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir40"> Roja Dharai Manavai Allah</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir97"> Sabh Koi Chalan Kehat Hai Uhan</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir57"> Sanak Sanand Mahes Samana</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir69"> Sant Milai Kichhu Suniai Kahiai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir55"> Santo Man Pavnai Sukh Bania</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir36"> Sarpani Te Upar Nahi Balia</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir95"> So Mullan Jo Man Siu Larai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir109"> Sunn Sandhia Teri Dev Devakar</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir21"> Surag Baas Na Baachheeai</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir29"> Sut Apradh Karat Hai Jete</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir86"> Tedhi Paag Tedhe Chale</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir64"> Thaake Nain Sravan Sun Thaake</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir73"> Toote Taage Nikhuti Paan</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir79"> Udak Samund Salal Ki Saakhia</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir93"> Ulat Jaat Kul Dou Bisari</a></li>
+<li><a href="HindiShabadBhagatKabir.php#BhagatKabir84"> Ustat Ninda Dou Bibarjit</a></li>
+</ul>
+</div></div></div>
+</main>
+<!-- FIXED: Closes the content-main and container divs opened at the bottom of header.php -->
+
+    </div>
+
+</div>
+
+
+
+<style>
+
+    footer {
+
+        width: 100%;
+
+        background: #fff;
+
+        border-top: 1px solid #d7d7d7;
+
+        font-family: Arial, sans-serif;
+
+        height: 80px;
+
+        float: left;
+
+        margin-top: 15px;
+
+    }
+
+    
+
+    #___gcse_0 {
+
+        float: left;
+
+    }
+
+    
+
+    footer a {
+
+        display: inline !important;
+
+        line-height: 80px;
+
+    }
+
+
+
+    /* Layout Positioning Helpers */
+
+    .pull-left {
+
+        float: left;
+
+    }
+
+    
+
+    .pull-right {
+
+        float: right;
+
+    }
+
+
+
+    @media only screen and (max-width: 480px) {
+
+        .header {
+
+            border-bottom: 1px solid #d7d7d7;
+
+        }
+
+        
+
+        .container {
+
+            width: 90%;
+
+        }
+
+
+
+        footer {
+
+            font-size: 12px;
+
+            height: auto; /* FIXED: Prevents content cutting off on small mobile devices */
+
+            padding: 15px 0;
+
+        }
+
+
+
+        footer a {
+
+            line-height: normal !important;
+
+        }
+
+    }
+
+     
+
+    .nav {
+
+        float: right;
+
+        width: 100%;
+
+    } 
+
+
+
+    .nav ul {
+
+        margin: 0px;
+
+        margin-top: 10px;
+
+        font-family: Arial, sans-serif;
+
+        float: left;
+
+        width: 100%;
+
+        padding: 0px;
+
+    }
+
+
+
+    .nav ul li {
+
+        float: left;
+
+        margin-left: 30px;
+
+        list-style: none;
+
+        line-height: 28px;
+
+        color: #0294f9;
+
+        margin: 0px;
+
+        width: 100%;
+
+    } 
+
+</style>
+
+
+
+<!-- Google Custom Search Engine Bar -->
+
+<div class="container" style="padding-bottom: 30px; clear: both;">
+
+    <script>
+
+      (function() {
+
+        var cx = '000436866180928962958:5pzruqlhzp4';
+
+        var gcse = document.createElement('script');
+
+        gcse.type = 'text/javascript';
+
+        gcse.async = true;
+
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+        var s = document.getElementsByTagName('script')[0];
+
+        s.parentNode.insertBefore(gcse, s);
+
+      })();
+
+    </script>
+
+    <gcse:search></gcse:search>
+
+</div>
+
+
+
+<!-- Footer Navigation Bar Area -->
+
+<footer>
+
+    <div class="container">
+
+        <div class="pull-right">
+
+            <a href="hindikavitacontactus.php" style="color: black; font-weight: bold;">Contact Us</a>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+<!-- Google Analytics Tracking Script Integration -->
+
+﻿<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E5JZMPECWS', { 
+      'cookie_domain': 'auto', 
+      'anonymize_ip': true 
+  });
+</script> 
+
+</body>
+</html>
+
+
+     

@@ -6,7 +6,7 @@
 window.MYSTIC_POETS_HUB = {
   title: "रहस्यवादी काव्य महाकोश | Mystic Poetry Archive",
   subtitle: "भारतीय उपमहाद्वीप के सूफी, संत एवं रहस्यवादी कवियों का प्रामाणिक त्रिभाषी संकलन",
-  total_compositions: 1111,
+  total_compositions: 1673,
   poets: [
     {
       id: "bulleh-shah",
@@ -91,18 +91,33 @@ window.MYSTIC_POETS_HUB = {
       genres: [
         { id: "padaavali", label: "अमर पद", count: 418, desc: "राजस्थानी, डिंगल एवं ब्रजभाषा के 418 अमर भक्ति पद" }
       ]
+    },
+    {
+      id: "sant-kabir",
+      name: "संत कबीर दास",
+      name_en: "Sant Kabir Das",
+      era: "1398–1518 ई.",
+      tradition: "निर्गुण ज्ञानमार्गी एवं सधुक्कड़ी परंपरा (Nirguna Bhakti Tradition)",
+      region: "वाराणसी / मगहर (Kashi & Maghar)",
+      total_works: 562,
+      emblem: "क",
+      color: "hsl(215, 90%, 55%)",
+      accent: "rgba(59, 130, 246, 0.15)",
+      quote: "अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे... एक नूर ते सभु जगु उपजिआ कउन भले को मंदे ।",
+      quote_en: "First, the Divine created the primordial Light, and all beings of Nature were born; From that single Light the entire cosmos emerged—who then is noble, and who to scorn?",
+      quote_source: "शब्द 107 (अवलि अलह नूरु उपाइआ)",
+      description: "15वीं सदी के महानतम निर्गुण संत, दार्शनिक और युगप्रवर्तक समाज-सुधारक, जिन्होंने बाह्य आडंबरों, धार्मिक पाखंडों और जाति-पांति के बंधनों को तोड़कर 'घट-घट वासी' राम और सहज अद्वैत ज्ञान की अमर वाणी प्रवाहित की।",
+      genres: [
+        { id: "shabad", label: "आदि ग्रंथ शब्द", count: 149, desc: "श्री गुरु ग्रंथ साहिब जी में संकलित 149 रागबद्ध शब्द" },
+        { id: "salok", label: "आदि ग्रंथ सलोक", count: 245, desc: "श्री गुरु ग्रंथ साहिब जी के 245 अमर सलोक एवं पराकाष्ठा सलोक" },
+        { id: "doha", label: "अमर दोहे", count: 84, desc: "धीरे-धीरे रे मना एवं माटी कहे कुम्हार से सहित 84 कालजयी दोहे" },
+        { id: "ramaini", label: "रमैणी", count: 8, desc: "बावनी, सतपदी, अष्टपदी, दुपदी सहित 8 दार्शनिक रमैणी" },
+        { id: "sakhi", label: "ग्रंथावली साखी अंग", count: 59, desc: "श्यामसुंदर दास संपादित ग्रंथावली के 59 साखी अंग (935 साखियाँ)" },
+        { id: "pad", label: "ग्रंथावली पद राग", count: 17, desc: "17 रागों में निबद्ध 407 अमर शास्त्रीय पद" }
+      ]
     }
   ],
   future_poets: [
-    {
-      name: "संत कबीर दास",
-      name_en: "Sant Kabir",
-      era: "1398–1518 ई.",
-      tradition: "निर्गुण ज्ञानमार्गी परंपरा",
-      region: "मगहर / काशी",
-      emblem: "क",
-      highlight: "साखी, सबद, रमैनी एवं बीजक"
-    },
     {
       name: "गुरु नानक देव जी",
       name_en: "Guru Nanak Dev Ji",
@@ -111,6 +126,15 @@ window.MYSTIC_POETS_HUB = {
       region: "करतारपुर, पंजाब",
       emblem: "ੴ",
       highlight: "जपुजी साहिब, आसा दी वार, सिद्ध गोष्ठ"
+    },
+    {
+      name: "वारिस शाह",
+      name_en: "Waris Shah",
+      era: "1722–1798 ई.",
+      tradition: "किस्सा हीर वारिस शाह एवं पंजाबी सूफी काव्य",
+      region: "जांडियाला शेर खां, पंजाब",
+      emblem: "व",
+      highlight: "हीर वारिस शाह, पंजाबी भाषा का शेक्सपियर"
     },
     {
       name: "हज़रत अमीर खुसरो",

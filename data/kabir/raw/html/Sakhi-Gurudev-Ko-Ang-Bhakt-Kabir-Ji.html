@@ -1,0 +1,622 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="साखी - गुरुदेव कौ अंग : भक्त कबीर जी (हिन्दी कविता)." />
+<meta name="description" content="साखी - गुरुदेव कौ अंग : भक्त कबीर जी (हिन्दी कविता)." />
+
+<title>साखी - गुरुदेव कौ अंग : भक्त कबीर जी (हिन्दी कविता)</title>
+
+<link rel="canonical" href="https://hindi-kavita.com/Sakhi-Gurudev-Ko-Ang-Bhakt-Kabir-Ji.php"><style>
+* { box-sizing: border-box; }
+body { margin: 0; width: 100%; font-family: Arial, sans-serif; line-height: 1.5; background-color: #f4f4f4; }
+.container { width: 90%; max-width: 1200px; margin: 20px auto; display: flex; flex-wrap: wrap; gap: 20px; border: 2px solid #0000FF; padding: 25px; background-color: #ffffff; }
+h1 { color: #0000FF; margin-top: 0; margin-bottom: 20px; }
+</style><link rel="preload" href="author.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="author.css"></noscript>
+
+</head>
+
+<body>
+﻿<style>
+/* =================================================================
+   1. बेस स्टाइल और हेडर लेआउट (Reset & Header Core)
+   ================================================================= */
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 10px 0px;
+    box-shadow: 0px 1px 3px rgba(215, 215, 215, 0.3);
+    position: relative;
+    z-index: 9999999;
+    box-sizing: border-box;
+}
+
+.header .container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* लोगो स्टाइल */
+.header .logo {
+    width: 160px;
+    height: 48px;
+    display: block;
+    text-decoration: none;
+    flex-shrink: 0;
+}
+
+.header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* लोगो के टेक्स्ट को छुपाना */
+.header .logo #unicodeenglishlogo,
+.header .logo #unicodehindilogo {
+    display: none !important;
+}
+
+/* =================================================================
+   2. डेस्कटॉप नेविगेशन मेनू (Desktop Navigation)
+   ================================================================= */
+.header .menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    background-color: #fff;
+}
+
+.header .menu li {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.header .menu li a {
+    display: block;
+    padding: 8px 0px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 600;
+    font-size: 17px;
+    transition: color 0.2s ease;
+}
+
+/* होवर करने पर नीला रंग */
+.header .menu li a:hover,
+.header .menu li.active a {
+    color: #0056b3 !important;
+}
+
+/* =================================================================
+   3. मोबाइल मेनू बटन (Hamburger Icon)
+   ================================================================= */
+.header .menu-btn { display: none; }
+
+.header .menu-icon {
+    cursor: pointer;
+    display: none;
+    padding: 10px;
+    position: relative;
+    user-select: none;
+}
+
+.header .menu-icon .navicon {
+    background: #333;
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 22px;
+    transition: background .2s ease-out;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+    background: #333;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.header .menu-icon .navicon:before { top: 6px; }
+.header .menu-icon .navicon:after { top: -6px; }
+
+/* चेक होने पर X आकार */
+.header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
+.header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
+.header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
+
+/* =================================================================
+   4. मीडिया क्वेरीज़ (Responsive)
+   ================================================================= */
+
+@media only screen and (max-width: 1100px) {
+    .header .container { width: 90%; }
+    .header .logo { width: 150px; height: 45px; }
+    .header .menu li { margin-left: 20px; }
+}
+
+@media only screen and (max-width: 1025px) {
+    .header .menu {
+        display: block;
+        width: 100%;
+        max-height: 0px;
+        overflow: hidden;
+        opacity: 0;
+        transition: max-height 0.35s ease-out, opacity 0.2s ease;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .header .menu li {
+        float: none;
+        border-bottom: 1px solid #f5f5f5;
+        margin-left: 0px;
+    }
+    .header .menu li a { padding: 12px 0px; font-size: 16px; }
+    .header .menu-icon { display: block; }
+    .header .menu-btn:checked ~ .menu {
+        max-height: 450px;
+        opacity: 1;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header .container { width: 95%; }
+    .header .logo { width: 135px; height: 40px; }
+}
+
+/* कंटेंट रैपर स्टेबलाइजर */
+.content {
+    padding-top: 20px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.content .container {
+    width: 80%;
+    margin: auto;
+}
+
+/* क्लियरफ़िक्स स्टेबलाइजर */
+.header::after,
+.header .container::after, 
+.content .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E5JZMPECWS', { 'cookie_domain': 'auto', 'anonymize_ip': true });
+</script>
+
+<header class="header">
+    <div class="container">
+        <a href="https://hindi-kavita.com/" class="logo"><img src="hindi-kavita-logo.png" alt="Hindi Kavita"></a>
+        
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        
+        <ul class="menu">
+            <li><a href="https://hindi-kavita.com">Home</a></li>
+            <li><a href="HindiPoetry.php">Hindi Poetry</a></li>
+            <li><a href="HindiPunjabiKavita.php">Punjabi Poetry</a></li>
+            <li><a href="https://hindikahani.hindi-kavita.com">Hindi Stories</a></li>
+            <li><a href="hindikavitacontactus.php">Contact Us</a></li> 
+        </ul>
+    </div>
+</header>
+
+<div class="content">
+    <div class="container"><main id="main-content" role="main">
+<div class="hk-wrapper">
+<div class="section">
+<div class="left">
+<h1>साखी - गुरुदेव कौ अंग : भक्त कबीर जी</h1>
+<h2>Sakhi - Gurudev Ko Ang : Bhakt Kabir Ji in Hindi</h2>
+<pre><font size=4>
+<p><p>(टिप्पणियों के संबंध में स्पष्टीकरण : 
+'क' - संवत् 1561 में लिखी हस्तलिखित प्रति, 
+'ख' - संवत् 1881 में लिखी गयी प्रति)
+
+सतगुर सवाँन को सगा, सोधी सईं न दाति।
+हरिजी सवाँन को हितू, हरिजन सईं न जाति॥1॥
+
+बलिहारी गुर आपणैं द्यौं हाड़ी कै बार।
+जिनि मानिष तैं देवता, करत न लागी बार॥2॥
+
+<strong>टिप्पणी:&nbsp;</strong>क-ख-देवता के आगे &lsquo;कया&rsquo; पाठ है जो अनावश्यक है।
+
+सतगुर की महिमा, अनँत, अनँत किया उपगार।
+लोचन अनँत उघाड़िया, अनँत दिखावणहार॥3॥
+
+राम नाम के पटतरे, देबे कौ कुछ नाहिं।
+क्या ले गुर सन्तोषिए, हौंस रही मन माहिं॥4॥
+
+सतगुर के सदकै करूँ, दिल अपणी का साछ।
+सतगुर हम स्यूँ लड़ि पड़ा महकम मेरा बाछ॥5॥
+
+<strong>टिप्पणी:&nbsp;</strong>ख-सदकै करौं। ख-साच। तुक मिलाने के लिऐ &lsquo;साछ&rsquo; &lsquo;साक्ष&rsquo; लिखा है।
+
+सतगुर लई कमाँण करि, बाँहण लागा तीर।
+एक जु बाह्यां प्रीति सूँ, भीतरि रह्या सरीर॥6॥
+
+सतगुर साँवा सूरिवाँ, सबद जू बाह्या एक।
+लागत ही में मिलि गया, पढ़ा कलेजै छेक॥7॥
+
+सतगुर मार्&zwnj;या बाण भरि, धरि करि सूधी मूठि।
+अंगि उघाड़ै लागिया, गई दवा सूँ फूंटि॥8॥
+
+हँसै न बोलै उनमनी, चंचल मेल्ह्या मारि।
+कहै कबीर भीतरि भिद्या, सतगुर कै हथियार॥9॥
+
+गूँगा हूवा बावला, बहरा हुआ कान।
+पाऊँ थै पंगुल भया, सतगुर मार्&zwnj;या बाण॥10॥
+
+पीछे लागा जाइ था, लोक वेद के साथि।
+आगै थैं सतगुर मिल्या, दीपक दीया हाथि॥11॥
+
+दीपक दीया तेल भरि, बाती दई अघट्ट।
+पूरा किया बिसाहूणाँ, बहुरि न आँवौं हट्ट॥12॥
+
+<strong>(टिप्पणी:&nbsp;</strong>क-ख-अघट, हट।)
+
+ग्यान प्रकास्या गुर मिल्या, सो जिनि बीसरि जाइ।
+जब गोबिंद कृपा करी, तब गुर मिलिया आइ॥13॥
+
+(टिप्पणी: क-गोब्यंद।)
+
+कबीर गुर गरवा मिल्या, रलि गया आटैं लूँण।
+जाति पाँति कुल सब मिटै, नांव धरोगे कौण॥14॥
+
+जाका गुर भी अंधला, चेला खरा निरंध।
+अंधा अंधा ठेलिया, दून्यूँ कूप पड़ंत॥15॥
+
+<strong>(टिप्पणी:&nbsp;</strong>क-चेला हैजा चंद (? है गा अंध)।)
+
+नाँ गुर मिल्या न सिष भया, लालच खेल्या डाव।
+दुन्यूँ बूड़े धार मैं, चढ़ि पाथर की नाव॥16॥
+
+चौसठ दीवा जोइ करि, चौदह चन्दा माँहि।
+तिहिं धरि किसकौ चानिणौं, जिहि घरि गोबिंद नाहिं॥17॥
+
+<strong>टिप्पणी:</strong>&nbsp;ख-चाँरिणौं। ख-तिहि...जिहि।
+
+निस अधियारी कारणैं, चौरासी लख चंद।
+अति आतुर ऊदै किया, तऊ दिष्टि नहिं मंद॥18॥
+
+भली भई जू गुर मिल्या, नहीं तर होती हाँणि।
+दीपक दिष्टि पतंग ज्यूँ, पड़ता पूरी जाँणि॥19॥
+
+माया दीपक नर पतंग, भ्रमि भ्रमि इवै पड़ंत।
+कहै कबीर गुर ग्यान थैं, एक आध उबरंत॥20॥
+
+सतगुर बपुरा क्या करै, जे सिषही माँहै चूक।
+भावै त्यूँ प्रमोधि ले, ज्यूँ वंसि बजाई फूक॥21॥
+
+<strong>टिप्पणी:</strong>&nbsp;ख-प्रमोदिए। जाँणे बास जनाई कूद।
+
+संसै खाया सकल जुग, संसा किनहुँ न खद्ध।
+जे बेधे गुर अष्षिरां, तिनि संसा चुणि चुणि खद्ध॥22॥
+
+(टिप्पणी: ख-सैल जुग।)
+
+चेतनि चौकी बैसि करि, सतगुर दीन्हाँ धीर।
+निरभै होइ निसंक भजि, केवल कहै कबीर॥23॥
+
+सतगुर मिल्या त का भयां, जे मनि पाड़ी भोल।
+पासि बिनंठा कप्पड़ा, क्या करै बिचारी चोल॥24॥
+
+बूड़े थे परि ऊबरे, गुर की लहरि चमंकि।
+भेरा देख्या जरजरा, (तब) ऊतरि पड़े फरंकि॥25॥
+
+<strong>टिप्पणी:&nbsp;</strong>ख-जाजरा। इस दोहे के आगे ख प्रति में यह दोहा है-
+
+कबीर सब जग यों भ्रम्या फिरै ज्यूँ रामे का रोज।
+सतगुर थैं सोधी भई, तब पाया हरि का षोज॥27॥
+
+गुरु गोविन्द तौ एक है, दूजा यह आकार।
+आपा मेट जीवत मरै, तो पावै करतार॥26॥
+
+कबीर सतगुर नाँ मिल्या, रही अधूरी सीप।
+स्वांग जती का पहरि करि, घरि घरि माँगै भीष॥27॥
+
+<strong>टिप्पणी:</strong>&nbsp;इसके आगे ख प्रति में यह दोहा है-
+
+कबीर सतगुर ना मिल्या, सुणी अधूरी सीष।
+मुँड मुँडावै मुकति कूँ, चालि न सकई वीष॥29॥
+
+सतगुर साँचा सूरिवाँ, तातै लोहिं लुहार।
+कसणो दे कंचन किया, ताई लिया ततसार॥28॥
+
+<strong>(टिप्पणी:&nbsp;</strong>ख-सतगुर मेरा सूरिवाँ।)
+
+थापणि पाई थिति भई, सतगुर दीन्हीं धीर।
+कबीर हीरा बणजिया, मानसरोवर तीर॥29॥
+
+<strong>टिप्पणी:&nbsp;</strong>इसके आगे ख प्रति में यह दोहा है-
+
+कबीर हीरा बणजिया, हिरदे उकठी खाणि।
+पारब्रह्म क्रिपा करी सतगुर भये सुजाँण॥
+
+निहचल निधि मिलाइ तत, सतगुर साहस धीर।
+निपजी मैं साझी घणाँ, बांटै नहीं कबीर॥30॥
+
+चौपड़ि माँडी चौहटै, अरध उरध बाजार।
+कहै कबीरा राम जन, खेलौ संत विचार॥31॥
+
+पासा पकड़ा प्रेम का, सारी किया सरीर।
+सतगुर दावा बताइया, खेलै दास कबीर॥32॥
+
+सतगुर हम सूँ रीझि करि, एक कह्या प्रसंग।
+बरस्या बादल प्रेम का भीजि गया अब अंग॥33॥
+
+कबीर बादल प्रेम का, हम परि बरष्या आइ।
+अंतरि भीगी आत्माँ हरी भई बनराइ॥34॥
+
+<strong>(टिप्पणी:</strong>&nbsp;ख-में नहीं हैं।)
+
+पूरे सूँ परचा भया, सब दुख मेल्या दूरि।
+निर्मल कीन्हीं आत्माँ ताथैं सदा हजूरि॥35॥
+
+<strong>(टिप्पणी:</strong>&nbsp;ख-में नहीं है।)
+</pre>
+<div class="links-container">
+<ul>
+<li><a href="HindiBhagatKabir.php"> मुख्य पृष्ठ : काव्य रचनाएँ : भक्त कबीर जी</a></li>
+<li><a href="https://hindi-kavita.com/"> मुख्य पृष्ठ : हिन्दी कविता वेबसाइट (hindi-kavita.com)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- FIXED: Closes the content-main and container divs opened at the bottom of header.php -->
+
+    </div>
+
+</div>
+
+
+
+<style>
+
+    footer {
+
+        width: 100%;
+
+        background: #fff;
+
+        border-top: 1px solid #d7d7d7;
+
+        font-family: Arial, sans-serif;
+
+        height: 80px;
+
+        float: left;
+
+        margin-top: 15px;
+
+    }
+
+    
+
+    #___gcse_0 {
+
+        float: left;
+
+    }
+
+    
+
+    footer a {
+
+        display: inline !important;
+
+        line-height: 80px;
+
+    }
+
+
+
+    /* Layout Positioning Helpers */
+
+    .pull-left {
+
+        float: left;
+
+    }
+
+    
+
+    .pull-right {
+
+        float: right;
+
+    }
+
+
+
+    @media only screen and (max-width: 480px) {
+
+        .header {
+
+            border-bottom: 1px solid #d7d7d7;
+
+        }
+
+        
+
+        .container {
+
+            width: 90%;
+
+        }
+
+
+
+        footer {
+
+            font-size: 12px;
+
+            height: auto; /* FIXED: Prevents content cutting off on small mobile devices */
+
+            padding: 15px 0;
+
+        }
+
+
+
+        footer a {
+
+            line-height: normal !important;
+
+        }
+
+    }
+
+     
+
+    .nav {
+
+        float: right;
+
+        width: 100%;
+
+    } 
+
+
+
+    .nav ul {
+
+        margin: 0px;
+
+        margin-top: 10px;
+
+        font-family: Arial, sans-serif;
+
+        float: left;
+
+        width: 100%;
+
+        padding: 0px;
+
+    }
+
+
+
+    .nav ul li {
+
+        float: left;
+
+        margin-left: 30px;
+
+        list-style: none;
+
+        line-height: 28px;
+
+        color: #0294f9;
+
+        margin: 0px;
+
+        width: 100%;
+
+    } 
+
+</style>
+
+
+
+<!-- Google Custom Search Engine Bar -->
+
+<div class="container" style="padding-bottom: 30px; clear: both;">
+
+    <script>
+
+      (function() {
+
+        var cx = '000436866180928962958:5pzruqlhzp4';
+
+        var gcse = document.createElement('script');
+
+        gcse.type = 'text/javascript';
+
+        gcse.async = true;
+
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+        var s = document.getElementsByTagName('script')[0];
+
+        s.parentNode.insertBefore(gcse, s);
+
+      })();
+
+    </script>
+
+    <gcse:search></gcse:search>
+
+</div>
+
+
+
+<!-- Footer Navigation Bar Area -->
+
+<footer>
+
+    <div class="container">
+
+        <div class="pull-right">
+
+            <a href="hindikavitacontactus.php" style="color: black; font-weight: bold;">Contact Us</a>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+<!-- Google Analytics Tracking Script Integration -->
+
+﻿<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E5JZMPECWS', { 
+      'cookie_domain': 'auto', 
+      'anonymize_ip': true 
+  });
+</script> 
+
+</body>
+</html>
+

@@ -1,0 +1,664 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="दोहे : भक्त कबीर जी (हिन्दी कविता)." />
+<meta name="description" content="दोहे : भक्त कबीर जी (हिन्दी कविता)." />
+
+<title>दोहे : भक्त कबीर जी (हिन्दी कविता)</title>
+
+<link rel="canonical" href="https://hindi-kavita.com/HindiDoheBhagatKabir.php"><style>
+* { box-sizing: border-box; }
+body { margin: 0; width: 100%; font-family: Arial, sans-serif; line-height: 1.5; background-color: #f4f4f4; }
+.container { width: 90%; max-width: 1200px; margin: 20px auto; display: flex; flex-wrap: wrap; gap: 20px; border: 2px solid #0000FF; padding: 25px; background-color: #ffffff; }
+h1 { color: #0000FF; margin-top: 0; margin-bottom: 20px; }
+</style><link rel="preload" href="author.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="author.css"></noscript>
+
+</head>
+
+<body>
+﻿<style>
+/* =================================================================
+   1. बेस स्टाइल और हेडर लेआउट (Reset & Header Core)
+   ================================================================= */
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 10px 0px;
+    box-shadow: 0px 1px 3px rgba(215, 215, 215, 0.3);
+    position: relative;
+    z-index: 9999999;
+    box-sizing: border-box;
+}
+
+.header .container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* लोगो स्टाइल */
+.header .logo {
+    width: 160px;
+    height: 48px;
+    display: block;
+    text-decoration: none;
+    flex-shrink: 0;
+}
+
+.header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* लोगो के टेक्स्ट को छुपाना */
+.header .logo #unicodeenglishlogo,
+.header .logo #unicodehindilogo {
+    display: none !important;
+}
+
+/* =================================================================
+   2. डेस्कटॉप नेविगेशन मेनू (Desktop Navigation)
+   ================================================================= */
+.header .menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    background-color: #fff;
+}
+
+.header .menu li {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.header .menu li a {
+    display: block;
+    padding: 8px 0px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 600;
+    font-size: 17px;
+    transition: color 0.2s ease;
+}
+
+/* होवर करने पर नीला रंग */
+.header .menu li a:hover,
+.header .menu li.active a {
+    color: #0056b3 !important;
+}
+
+/* =================================================================
+   3. मोबाइल मेनू बटन (Hamburger Icon)
+   ================================================================= */
+.header .menu-btn { display: none; }
+
+.header .menu-icon {
+    cursor: pointer;
+    display: none;
+    padding: 10px;
+    position: relative;
+    user-select: none;
+}
+
+.header .menu-icon .navicon {
+    background: #333;
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 22px;
+    transition: background .2s ease-out;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+    background: #333;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.header .menu-icon .navicon:before { top: 6px; }
+.header .menu-icon .navicon:after { top: -6px; }
+
+/* चेक होने पर X आकार */
+.header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
+.header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
+.header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
+
+/* =================================================================
+   4. मीडिया क्वेरीज़ (Responsive)
+   ================================================================= */
+
+@media only screen and (max-width: 1100px) {
+    .header .container { width: 90%; }
+    .header .logo { width: 150px; height: 45px; }
+    .header .menu li { margin-left: 20px; }
+}
+
+@media only screen and (max-width: 1025px) {
+    .header .menu {
+        display: block;
+        width: 100%;
+        max-height: 0px;
+        overflow: hidden;
+        opacity: 0;
+        transition: max-height 0.35s ease-out, opacity 0.2s ease;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .header .menu li {
+        float: none;
+        border-bottom: 1px solid #f5f5f5;
+        margin-left: 0px;
+    }
+    .header .menu li a { padding: 12px 0px; font-size: 16px; }
+    .header .menu-icon { display: block; }
+    .header .menu-btn:checked ~ .menu {
+        max-height: 450px;
+        opacity: 1;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header .container { width: 95%; }
+    .header .logo { width: 135px; height: 40px; }
+}
+
+/* कंटेंट रैपर स्टेबलाइजर */
+.content {
+    padding-top: 20px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.content .container {
+    width: 80%;
+    margin: auto;
+}
+
+/* क्लियरफ़िक्स स्टेबलाइजर */
+.header::after,
+.header .container::after, 
+.content .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E5JZMPECWS', { 'cookie_domain': 'auto', 'anonymize_ip': true });
+</script>
+
+<header class="header">
+    <div class="container">
+        <a href="https://hindi-kavita.com/" class="logo"><img src="hindi-kavita-logo.png" alt="Hindi Kavita"></a>
+        
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        
+        <ul class="menu">
+            <li><a href="https://hindi-kavita.com">Home</a></li>
+            <li><a href="HindiPoetry.php">Hindi Poetry</a></li>
+            <li><a href="HindiPunjabiKavita.php">Punjabi Poetry</a></li>
+            <li><a href="https://hindikahani.hindi-kavita.com">Hindi Stories</a></li>
+            <li><a href="hindikavitacontactus.php">Contact Us</a></li> 
+        </ul>
+    </div>
+</header>
+
+<div class="content">
+    <div class="container"><main id="main-content" role="main">
+<div class="hk-wrapper">
+<div class="section">
+<div class="left">
+<h1>दोहे : भक्त कबीर जी</h1>
+<h2>Dohe Bhagat Kabir Ji in Hindi</h2>
+<h3 align=left>अ</h3> 
+<p>अन्तर्यामी एक तुम, आत्मा के आधार ।<br/> 
+जो तुम छोड़ो हाथ तो, कौन उतारे पार ॥<br/>
+<h3 align=left>आ</h3> 
+<p>आया था किस काम को, तू सोया चादर तान ।<br/> 
+सुरत सम्भाल ए गाफिला, अपना आप पहचान ॥<br/><br/>
+आए हैं सो जाएँगे, राजा रंक फकीर ।<br/> 
+एक सिंहासन चढ़ि चले, एक बँधे जात जंजीर ॥<br/>
+<h3 align=left>ऊ</h3> 
+<p>ऊँचे पानी न टिके, नीचे ही ठहराय ।<br/> 
+नीचा हो सो भर पिए, ऊँचा प्यासा जाय ॥<br/>
+<h3 align=left>ऐ</h3> 
+<p>ऐसी वाणी बोलीए, मन का आपा खोय ।<br/> 
+औरन को शीतल करे, आपहुं  शीतल होय ॥<br/>
+<h3 align=left>क</h3> 
+<p>कबिरा माला मनहि की, और संसारी भेख ।<br/> 
+माला फेरे हरि मिले, गले रहट के देख ॥<br/><br/>
+कबिरा यह तन जात है, सके तो ठौर लगा ।<br/> 
+कै सेवा कर साधु की, कै गोविंद गुन गा ॥<br/><br/>
+कबीरा जपनी काठ की, क्या दिखलावे लोय ।<br/> 
+ह्रदय नाम न जपेगा, यह जपनी क्या होय ॥<br/><br/>
+कबीरा ते नर अन्ध हैं, गुरु को कहते और ।<br/>
+हरि रूठे गुरु ठौर है, गुरु रुठै नहीं ठौर ॥<br/><br/>
+कबीरा धीरज के धरे, हाथी मन भर खाय ।<br/> 
+टूट एक के कारने, स्वान घरै घर जाय ॥<br/><br/>
+कबीरा सोया क्या करे, उठि न भजे भगवान ।<br/> 
+जम जब घर ले जायेंगे, पड़ी रहेगी म्यान ॥<br/><br/>
+कहता तो बहुत मिला, गहता मिला न कोय ।<br/> 
+सो कहता वह जान दे, जो नहिं गहता होय ॥<br/><br/>
+कहना सो कह दिया, अब कुछ कहा न जाय ।<br/> 
+एक रहा दूजा गया, दरिया लहर समाय ॥<br/><br/>
+कामी, क्रोधी, लालची, इनसे भक्ति न होय ।<br/> 
+भक्ति करे कोइ सूरमा, जाति वरन कुल खोय ॥<br/><br/>
+काया काठी काल घुन, जतन-जतन सो खाय ।<br/> 
+काया वैद ईश बस, मर्म न काहू पाय ॥<br/><br/>
+काल करे सो आज कर, आज करे सो अब ।<br/> 
+पल में प्रलय होएगी, बहुरि करेगा कब ॥<br/><br/>
+कुटिल वचन सबसे बुरा, जारि करे तन छार ।<br/> 
+साधु वचन जल रूप है, बरसे अमृत धार ॥<br/><br/>
+क्या भरोसा देह का, बिनस जात छिन मांहि ।<br/> 
+साँस-सांस सुमरिन करो और यत्न कुछ नांहि ॥<br/><br/>
+<h3 align=left>ग</h3> 
+<p>गारी ही सों ऊपजे, कलह कष्ट और मींच ।<br/> 
+हारि चले सो साधु है, लागि चले सो नींच ॥<br/><br/>
+गुरु गोविन्द दोनों खड़े, काके लागूं पाँय ।<br/> 
+बलिहारी गुरु आपनो, गोविंद दियो बताय ॥<br/>
+<h3 align=left>छ</h3> 
+<p>छिन ही चढ़े छिन उतरे, सो तो प्रेम न होय ।<br/> 
+अघट प्रेम पिंजरे बसे, प्रेम कहावे सोय ॥<br/><br/>
+छीर रूप सतनाम है, नीर रूप व्यवहार ।<br/> 
+हंस रूप कोई साधु है, सत का छाननहार ॥<br/>
+<h3 align=left>ज</h3> 
+<p>जग में बैरी कोई नहीं, जो मन शीतल होय ।<br/> 
+यह आपा जो डाल दे, दया करे सब कोय ॥<br/><br/>
+जब मैं था तब गुरु नहीं, अब गुरु हैं मैं नाय ।<br/> 
+प्रेम गली अति साँकरी, ता में दो न समाय ॥<br/><br/>
+जब लग नाता जगत का, तब लग भक्ति न होय ।<br/> 
+नाता तोड़े हरि भजे, भगत कहावे सोय ॥<br/><br/>
+जब लगि भगति सकाम है, तब लग निष्फल सेव ।<br/> 
+कह कबीर वह क्यों मिले, निष्कामी तज देव ॥<br/><br/>
+जब ही नाम हिरदे धरा, भया पाप का नाश ।<br/>
+मानो चिंगारी आग की, परी पुरानी घास ॥<br/><br/>
+जब ही नाम ह्रदय धरयो, भयो पाप का नाश ।<br/> 
+मानो चिनगी अग्नि की, परि पुरानी घास ॥<br/><br/>
+जल ज्यों प्यारा माहरी, लोभी प्यारा दाम ।<br/> 
+माता प्यारा बारका, भगति प्यारा नाम ॥<br/><br/>
+जहाँ आपा तहाँ आपदा, जहाँ संशय तहाँ रोग ।<br/> 
+कह कबीर यह क्यों मिटें, चारों दीर्घ रोग ॥<br/><br/>
+जहाँ दया तहाँ धर्म है, जहाँ लोभ तहाँ पाप ।<br/> 
+जहाँ क्रोध तहाँ पाप है, जहाँ क्षमा तहाँ आप ॥<br/><br/>
+जा कारण जग ढूंढिया, सो तो घट ही माहिं ।<br/> 
+परदा दिया भरम का, ताते सूझे नाहिं ॥<br/><br/>
+जागन में सोवन करे, साधन में लौ लाय ।<br/> 
+सूरत डोर लागी रहे, तार टूट नाहिं जाय ॥<br/><br/>
+जाति न पूछो साधु की, पूछि लीजिए ज्ञान ।<br/> 
+मोल करो तलवार का, पड़ी रहन दो म्यान ॥<br/><br/>
+जो तोको कांटा बुवे, ताहि बोय तू फूल ।<br/> 
+तोको फूल के फूल है, वाको है त्रिशूल ॥<br/><br/>
+ज्यों तिल मांही तेल है, ज्यों चकमक में आग ।<br/> 
+तेरा सांई तुझमें है, जाग सके तो जाग ॥<br/>
+<h3 align=left>त</h3> 
+<p>तन बोहत मन काग है, लक्ष योजन उड़ जाय ।<br/> 
+कबहु के धर्म अगम दयी, कबहुं गगन समाय ॥<br/><br/>
+तब लग तारा जगमगे, जब लग उगे न सूर ।<br/> 
+तब लग जीव जग कर्मवश, ज्यों लग ज्ञान न पूर ॥<br/><br/>
+तिनका कबहुँ न निंदिये, जो पाँयन तर होय ।<br/> 
+कबहुँ उड़ आँखिन परे, पीर घनेरी होय ॥<br/><br/>
+तीरथ गये ते एक फल, सन्त मिले फल चार ।<br/> 
+सत्गुरु मिले अनेक फल, कहे कबीर विचार ॥<br/><br/>
+तेरा साँई तुझमें है, ज्यों पहुपन में बास ।<br/> 
+कस्तूरी का हिरन ज्यों, फिर-फिर ढ़ूँढ़त घास ॥<br/><br/>
+<h3 align=left>द</h3> 
+<p>दया कौन पर कीजिये, का पर निर्दय होय ।<br/> 
+सांई के सब जीव हैं, कीरी कुंजर दोय ॥<br/><br/>
+दस द्वारे का पिंजरा, ता में पंछी कौन ।<br/> 
+रहे को अचरज है, गए अचम्भा कौन ॥<br/><br/>
+दान दिए धन ना घटे, नदी न घटे नीर ।<br/> 
+अपनी आँखों देख लो, यों कह गए कबीर ॥<br/><br/>
+दिल का महरम ना मिला, जो मिला सो गर्जी ।<br/> 
+कह कबीर आसमान फटा, क्योंकर सीवे दर्जी ॥<br/><br/>
+दुख में सुमरिन सब करे, सुख में करे न कोय ।<br/> 
+जो सुख में सुमरिन करे, दुख काहे को होय ॥<br/><br/>
+दुर्बल को न सताइए, जाकी मोटी हाय ।<br/> 
+बिना जीभ की हाय से, लोह भस्म हो जाय ॥<br/><br/>
+दुर्लभ मानुष जन्म है, होय न बारम्बार ।<br/> 
+तरुवर ज्यों पत्ता झड़े, बहुरि न लागे डार ॥<br/>
+<h3 align=left>ध</h3> 
+<p>धीरे-धीरे रे मना, धीरे सब कुछ होय ।<br/> 
+माली सींचे सौ घड़ा, ॠतु आए फल होय ॥<br/>
+<h3 align=left>न</h3> 
+<p>नहीं शीतल है चन्द्रमा, हिंम नहीं शीतल होय ।<br/> 
+कबीरा शीतल सन्त जन, नाम सनेही सोय ॥<br/><br/>
+नींद निशानी मौत की, उठ कबीरा जाग ।<br/> 
+और रसायन छांड़ि के, नाम रसायन लाग ॥<br/>
+<h3 align=left>प</h3> 
+<p>पतिवृता मैली भली, काली कुचल कुरूप ।<br/> 
+पतिवृता के रूप पर, वारो कोटि सरूप ॥<br/><br/>
+प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिकाय ।<br/> 
+राजा-परजा जेहि रुचें, शीश देई ले जाय ॥<br/><br/>
+प्रेम प्याला जो पिये, शीश दक्षिणा देय ।<br/> 
+लोभी शीश न दे सके, नाम प्रेम का लेय ॥<br/><br/>
+पाँच पहर धन्धे गया, तीन पहर गया सोय ।<br/> 
+एक पहर हरि नाम बिन, मुक्ति कैसे होय ॥<br/>
+<h3 align=left>फ</h3> 
+<p>फल कारण सेवा करे, करे न मन से काम ।<br/> 
+कहे कबीर सेवक नहीं, चाहै चौगुना दाम ॥<br/><br/>
+फूटी आँख विवेक की, लखे ना सन्त असन्त ।<br/> 
+जाके संग दस-बीस हैं, ताको नाम महन्त ॥<br/>
+<h3 align=left>ब</h3> 
+<p>बलिहारी गुरु आपनो, घड़ी-घड़ी सौ सौ बार ।<br/> 
+मानुष से देवता किया करत न लागी बार ॥<br/><br/>
+बाजीगर का बांदरा, ऐसा जीव मन के साथ ।<br/> 
+नाना नाच दिखाय कर, राखे अपने साथ ॥<br/><br/>
+बानी से पह्चानिये, साम चोर की घात ।<br/> 
+अन्दर की करनी से सब, निकले मुँह कई बात ॥<br/><br/>
+बाहर क्या दिखलाईए, अन्तर जपिए राम ।<br/>
+कहा काज संसार से, तुझे धनी से काम ॥<br/><br/>
+बैद मुआ रोगी मुआ, मुआ सकल संसार ।<br/>
+एक कबीरा ना मुआ, जेहि के राम अधार ॥<br/>
+<h3 align=left>भ</h3> 
+<p>भक्ति गेंद चौगान की, भावे कोई ले जाय ।<br/> 
+कह कबीर कुछ भेद नाहिं, कहां रंक कहां राय ॥<br/>
+<h3 align=left>म</h3> 
+<p>माटी कहे कुम्हार से, तू क्या रौंदे मोहि ।<br/> 
+इक दिन ऐसा आएगा, मैं रौंदूंगी तोहि ॥<br/><br/>
+माया छाया एक सी, बिरला जाने कोय ।<br/> 
+भगतां के पीछे लगे, सम्मुख भागे सोय ॥<br/><br/>
+माया मरी न मन मरा, मर-मर गए शरीर ।<br/> 
+आशा तृष्णा न मरी, कह गए दास कबीर ॥<br/><br/>
+मार्ग चलते जो गिरा, ताकों नाहि दोष ।<br/> 
+जो कबिरा बैठा रहे, तो सिर करड़े दोष ॥<br/><br/>
+माला फेरत जुग भया, फिरा न मन का फेर ।<br/> 
+कर का मन का डार दे, मन का मनका फेर ॥<br/><br/>
+माँगन मरण समान है, मति माँगो कोई भीख ।<br/> 
+माँगन से मरना भला, यह सतगुरु की सीख ॥<br/><br/>
+मैं अपराधी जन्म का, नख-सिख भरा विकार ।<br/> 
+तुम दाता दु:ख भंजना, मेरी करो सम्हार ॥<br/>
+<h3 align=left>र</h3> 
+<p>रात गंवाई सोय के, दिवस गंवाया खाय ।<br/> 
+हीरा जन्म अमोल है, कौड़ी बदले जाय ॥<br/>
+<h3 align=left>ल</h3> 
+<p>लागी लगन छूटे नाहिं, जीभ चोंच जरि जाय ।<br/> 
+मीठा कहा अंगार में, जाहि चकोर चबाय ॥<br/><br/>
+लूट सके तो लूट ले, राम नाम की लूट ।<br/> 
+पाछे फिरे पछताओगे, प्राण जाहिं जब छूट ॥<br/>
+<h3 align=left>श</h3> 
+<p>शीलवन्त सबसे बड़ा, सब रतनन की खान ।<br/> 
+तीन लोक की सम्पदा, रही शील में आन ॥<br/>
+<h3 align=left>स</h3> 
+<p>सब ते लघुताई भली, लघुता ते सब होय ।<br/> 
+जैसे दूज का चन्द्रमा, शीश नवे सब कोय ॥<br/><br/>
+साईं इतना दीजिये, जा में कुटुम समाय ।<br/> 
+मैं भी भूखा न रहूँ, साधु ना भूखा जाय ॥<br/><br/>
+साधु ऐसा चाहिए, जैसा सूप सुभाय ।<br/> 
+सार-सार को गहि रहे, थोथ देइ उड़ाय ॥<br/><br/>
+सुख में सुमरिन ना किया, दु:ख में किया याद ।<br/> 
+कह कबीर ता दास की, कौन सुने फरियाद ॥<br/><br/>
+सुख सागर का शील है, कोई न पावे थाह ।<br/> 
+शब्द बिना साधु नहीं, द्रव्य बिना नहीं शाह ॥<br/><br/>
+सुमरित सुरत जगाय कर, मुख से कछु न बोल ।<br/> 
+बाहर का पट बन्द कर, अन्दर का पट खोल ॥<br/><br/>
+सुमरिन में मन लाइए, जैसे नाद कुरंग ।<br/> 
+कहै कबीर बिसरे नहीं, प्रान तजे तेहि संग ॥<br/><br/>
+सोया साधु जगाइए, करे नाम का जाप ।<br/> 
+यह तीनों सोते भले, साकित सिंह और साँप ॥<br/><br/>
+संत ही ते सत बांटई, रोटी में ते टूक ।<br/> 
+कहे कबीर ता दास को, कबहूँ न आवे चूक ॥<br/>
+<h3 align=left>ह</h3> 
+<p>हीरा वहाँ न खोलिये, जहाँ कुंजड़ों की हाट ।<br/> 
+बांधो चुप की पोटरी, लागहु अपनी बाट ॥<br/>
+<div class="links-container">
+<ul>
+<li><a href="HindiBhagatKabir.php"> मुख्य पृष्ठ : काव्य रचनाएँ : भक्त कबीर जी</a></li>
+<li><a href="https://hindi-kavita.com/"> मुख्य पृष्ठ : हिन्दी कविता वेबसाइट (hindi-kavita.com)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- FIXED: Closes the content-main and container divs opened at the bottom of header.php -->
+
+    </div>
+
+</div>
+
+
+
+<style>
+
+    footer {
+
+        width: 100%;
+
+        background: #fff;
+
+        border-top: 1px solid #d7d7d7;
+
+        font-family: Arial, sans-serif;
+
+        height: 80px;
+
+        float: left;
+
+        margin-top: 15px;
+
+    }
+
+    
+
+    #___gcse_0 {
+
+        float: left;
+
+    }
+
+    
+
+    footer a {
+
+        display: inline !important;
+
+        line-height: 80px;
+
+    }
+
+
+
+    /* Layout Positioning Helpers */
+
+    .pull-left {
+
+        float: left;
+
+    }
+
+    
+
+    .pull-right {
+
+        float: right;
+
+    }
+
+
+
+    @media only screen and (max-width: 480px) {
+
+        .header {
+
+            border-bottom: 1px solid #d7d7d7;
+
+        }
+
+        
+
+        .container {
+
+            width: 90%;
+
+        }
+
+
+
+        footer {
+
+            font-size: 12px;
+
+            height: auto; /* FIXED: Prevents content cutting off on small mobile devices */
+
+            padding: 15px 0;
+
+        }
+
+
+
+        footer a {
+
+            line-height: normal !important;
+
+        }
+
+    }
+
+     
+
+    .nav {
+
+        float: right;
+
+        width: 100%;
+
+    } 
+
+
+
+    .nav ul {
+
+        margin: 0px;
+
+        margin-top: 10px;
+
+        font-family: Arial, sans-serif;
+
+        float: left;
+
+        width: 100%;
+
+        padding: 0px;
+
+    }
+
+
+
+    .nav ul li {
+
+        float: left;
+
+        margin-left: 30px;
+
+        list-style: none;
+
+        line-height: 28px;
+
+        color: #0294f9;
+
+        margin: 0px;
+
+        width: 100%;
+
+    } 
+
+</style>
+
+
+
+<!-- Google Custom Search Engine Bar -->
+
+<div class="container" style="padding-bottom: 30px; clear: both;">
+
+    <script>
+
+      (function() {
+
+        var cx = '000436866180928962958:5pzruqlhzp4';
+
+        var gcse = document.createElement('script');
+
+        gcse.type = 'text/javascript';
+
+        gcse.async = true;
+
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+        var s = document.getElementsByTagName('script')[0];
+
+        s.parentNode.insertBefore(gcse, s);
+
+      })();
+
+    </script>
+
+    <gcse:search></gcse:search>
+
+</div>
+
+
+
+<!-- Footer Navigation Bar Area -->
+
+<footer>
+
+    <div class="container">
+
+        <div class="pull-right">
+
+            <a href="hindikavitacontactus.php" style="color: black; font-weight: bold;">Contact Us</a>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+<!-- Google Analytics Tracking Script Integration -->
+
+﻿<script async src="https://www.googletagmanager.com/gtag/js?id=G-E5JZMPECWS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E5JZMPECWS', { 
+      'cookie_domain': 'auto', 
+      'anonymize_ip': true 
+  });
+</script> 
+
+</body>
+</html>

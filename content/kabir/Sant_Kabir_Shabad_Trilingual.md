@@ -1,0 +1,9907 @@
+# संत कबीर: संपूर्ण 149 शब्द (Sant Kabir: Complete 149 Shabads)
+### त्रिभाषी संपूर्ण महाग्रंथ: मूल देवनागरी, पदच्छेद, शब्दार्थ, काव्यानुवाद एवं दार्शनिक मीमांसा
+> **ग्रंथ परिचय**: सिखों के परम पावन धर्मग्रंथ **'श्री गुरु ग्रंथ साहिब जी' (SGGS)** में दर्ज भक्त कबीर जी के संपूर्ण 149 पावन शब्द। प्रत्येक शब्द रागबद्ध, त्रिभाषी शब्दार्थ, छंदोबद्ध पद्यानुवाद और निर्गुण भक्ति की दार्शनिक व्याख्या से परिपूर्ण है।
+
+---
+## 📜 विषय-सूची (Table of Contents - 149 Masterpieces)
+
+| क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
+|---|---|---|
+| 1 | [शब्द 1: जननी जानत सुतु बडा होतु है](#shabad-1) | Shabad 1: Jananaee Jaanata Sautau Badaa Haotau Haai |
+| 2 | [शब्द 2: नगन फिरत जौ पाईऐ जोगु](#shabad-2) | Shabad 2: Nagana Phairata Jaau Paaeeai Jaogau |
+| 3 | [शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा](#shabad-3) | Shabad 3: Kaiaa Japau Kaiaa Tapau Kaiaa Barata Paoojaa |
+| 4 | [शब्द 4: गरभ वास महि कुलु नही जाती](#shabad-4) | Shabad 4: Garabha Vaasa Mahai Kaulau Nahaee Jaataee |
+| 5 | [शब्द 5: अवर मूए किआ सोगु करीजै](#shabad-5) | Shabad 5: Avara Maooe Kaiaa Saogau Karaeejaai |
+| 6 | [शब्द 6: जिह कुलि पूतु न गिआन बीचारी](#shabad-6) | Shabad 6: Jaiha Kaulai Paootau Na Gaiaana Baeechaaraee |
+| 7 | [शब्द 7: जो जन लेहि खसम का नाउ](#shabad-7) | Shabad 7: Jao Jana Laehai Khasama Kaa Naau |
+| 8 | [शब्द 8: ओइ जु दीसहि अम्बरि तारे](#shabad-8) | Shabad 8: Oi Jau Daeesahai Amabarai Taarae |
+| 9 | [शब्द 9: बेद की पुत्री सिम्रिति भाई](#shabad-9) | Shabad 9: Baeda Kaee Pautaraee Saimaraitai Bhaaee |
+| 10 | [शब्द 10: देइ मुहार लगामु पहिरावउ](#shabad-10) | Shabad 10: Daei Mauhaara Lagaamau Pahairaavau |
+| 11 | [शब्द 11: आपे पावकु आपे पवना](#shabad-11) | Shabad 11: Aapae Paavakau Aapae Pavanaa |
+| 12 | [शब्द 12: जिह सिरि रचि रचि बाधत पाग](#shabad-12) | Shabad 12: Jaiha Sairai Rachai Rachai Baadhata Paaga |
+| 13 | [शब्द 13: रे जीअ निलज लाज तोहि नाही](#shabad-13) | Shabad 13: Rae Jaeea Nailaja Laaja Taohai Naahaee |
+| 14 | [शब्द 14: कउनु को पूतु पिता को का को](#shabad-14) | Shabad 14: Kaunau Kao Paootau Paitaa Kao Kaa Kao |
+| 15 | [शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई](#shabad-15) | Shabad 15: Jalai Haai Saootakau Thalai Haai Saootakau Saootaka |
+| 16 | [शब्द 16: झगरा एकु निबेरहु राम](#shabad-16) | Shabad 16: Jhagaraa Ekau Naibaerahau Raama |
+| 17 | [शब्द 17: देखौ भाई ग्यान की आई आंधी](#shabad-17) | Shabad 17: Daekhaau Bhaaee Gayaana Kaee Aaee Aandhaee |
+| 18 | [शब्द 18: हरि जसु सुनहि न हरि गुन गावहि](#shabad-18) | Shabad 18: Harai Jasau Saunahai Na Harai Gauna Gaavahai |
+| 19 | [शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही](#shabad-19) | Shabad 19: Jaeevata Paitara Na Maanaai Kaooo Maooen Sairaa |
+| 20 | [शब्द 20: राम जपउ जीअ ऐसे ऐसे](#shabad-20) | Shabad 20: Raama Japau Jaeea Aisae Aisae |
+| 21 | [शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु](#shabad-21) | Shabad 21: Sauraga Baasau Na Baachhaeeai Daraeeai Na Narakai |
+| 22 | [शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु](#shabad-22) | Shabad 22: Rae Mana Taerao Kaoi Nahaee Khainchai Laei Ja |
+| 23 | [शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे](#shabad-23) | Shabad 23: Mana Rae Chhaadahau Bharamau Paragata Haoi Naacha |
+| 24 | [शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे](#shabad-24) | Shabad 24: Lakha Chauraasaeeha Jaeea Jaonai Mahai Bharamata |
+| 25 | [शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ](#shabad-25) | Shabad 25: Naindau Naindau Mao Kau Laogau Naindau |
+| 27 | [शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई](#shabad-27) | Shabad 27: Haindaoo Tauraka Kahaa Tae Aae Kainai Eha Ra |
+| 28 | [शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥](#shabad-28) | Shabad 28: Jaba Lagau Taelau Daeevae Maukhai Baataee Taba |
+| 29 | [शब्द 29: सुतु अपराध करत है जेते](#shabad-29) | Shabad 29: Sautau Aparaadha Karata Haai Jaetae |
+| 30 | [शब्द 30: हज हमारी गोमती तीर](#shabad-30) | Shabad 30: Haja Hamaaraee Gaomataee Taeera |
+| 31 | [शब्द 31: पाती तोरै मालिनी पाती पाती जीउ](#shabad-31) | Shabad 31: Paataee Taoraai Maalainaee Paataee Paataee Jaeeu |
+| 32 | [शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ](#shabad-32) | Shabad 32: Baaraha Barasa Baalapana Baeetae Baeesa Barasa Kachha |
+| 33 | [शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा](#shabad-33) | Shabad 33: Kaahaoo Daeenahae Paata Patamabara Kaahaoo Pala |
+| 34 | [शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै](#shabad-34) | Shabad 34: Hama Masakaeena Khaudaaee Bandae Tauma Raajasau |
+| 35 | [शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना](#shabad-35) | Shabad 35: Gagana Nagarai Ika Baoonda Na Barakhaai Naadau Ka |
+| 36 | [शब्द 36: सरपनी ते ऊपरि नही बलीआ](#shabad-36) | Shabad 36: Sarapanaee Tae Ooparai Nahaee Balaeeaa |
+| 37 | [शब्द 37: कहा सुआन कउ सिम्रिति सुनाए](#shabad-37) | Shabad 37: Kahaa Sauaana Kau Saimaraitai Saunaae |
+| 38 | [शब्द 38: लंका सा कोटु समुंद सी खाई](#shabad-38) | Shabad 38: Lankaa Saa Kaotau Samaunda Saee Khaaee |
+| 39 | [शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे](#shabad-39) | Shabad 39: Hama Gharai Saootau Tanahai Naita Taanaa Kanthai |
+| 40 | [शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै](#shabad-40) | Shabad 40: Raojaa Dharaai Manaavaai Alahau Sauaadatai Jaeea |
+| 41 | [शब्द 41: करवतु भला न करवट तेरी](#shabad-41) | Shabad 41: Karavatau Bhalaa Na Karavata Taeraee |
+| 42 | [शब्द 42: कोरी को काहू मरमु न जानां](#shabad-42) | Shabad 42: Kaoraee Kao Kaahaoo Maramau Na Jaanaan |
+| 43 | [शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां](#shabad-43) | Shabad 43: Antarai Maailau Jae Taeeratha Naavaai Taisau Ba |
+| 44 | [शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै](#shabad-44) | Shabad 44: Chaarai Paava Daui Sainga Gaunga Maukha Taba |
+| 45 | [शब्द 45: मुसि मुसि रोवै कबीर की माई](#shabad-45) | Shabad 45: Mausai Mausai Raovaai Kabaeera Kaee Maaee |
+| 46 | [शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई](#shabad-46) | Shabad 46: Bauta Paoojai Paoojai Haindaoo Maooe Tauraka Ma |
+| 47 | [शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई](#shabad-47) | Shabad 47: Jaba Jaraeeai Taba Haoi Bhasama Tanau Rahaai Kaira |
+| 48 | [शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा](#shabad-48) | Shabad 48: Baeda Pauraana Sabhaai Mata Saunai Kaai Karaee Ka |
+| 49 | [शब्द 49: दुइ दुइ लोचन पेखा](#shabad-49) | Shabad 49: Daui Daui Laochana Paekhaa |
+| 50 | [शब्द 50: जा के निगम दूध के ठाटा](#shabad-50) | Shabad 50: Jaa Kae Naigama Daoodha Kae Thaataa |
+| 51 | [शब्द 51: जिह बाझु न जीआ जाई](#shabad-51) | Shabad 51: Jaiha Baajhau Na Jaeeaa Jaaee |
+| 52 | [शब्द 52: किआ पड़ीऐ किआ गुनीऐ](#shabad-52) | Shabad 52: Kaiaa Paड़eeai Kaiaa Gaunaeeai |
+| 53 | [शब्द 53: ह्रिदै कपटु मुख गिआनी](#shabad-53) | Shabad 53: Haraidaai Kapatau Maukha Gaiaanaee |
+| 54 | [शब्द 54: बहु परपंच करि पर धनु लिआवै](#shabad-54) | Shabad 54: Bahau Parapancha Karai Para Dhanau Laiaavaai |
+| 55 | [शब्द 55: संतहु मन पवनै सुखु बनिआ](#shabad-55) | Shabad 55: Santahau Mana Pavanaai Saukhau Banaiaa |
+| 56 | [शब्द 56: भूखे भगति न कीजै](#shabad-56) | Shabad 56: Bhaookhae Bhagatai Na Kaeejaai |
+| 57 | [शब्द 57: सनक सनंद महेस समानां](#shabad-57) | Shabad 57: Sanaka Sananda Mahaesa Samaanaan |
+| 58 | [शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै](#shabad-58) | Shabad 58: Daina Tae Pahara Pahara Tae Gharaeeaan Aava Ghataai |
+| 59 | [शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो](#shabad-59) | Shabad 59: Jao Janau Bhaau Bhagatai Kachhau Jaanaai Taa Kau |
+| 60 | [शब्द 60: इंद्र लोक सिव लोकहि जैबो](#shabad-60) | Shabad 60: Indara Laoka Saiva Laokahai Jaaibao |
+| 61 | [शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई](#shabad-61) | Shabad 61: Raama Saimarai Raama Saimarai Raama Saimarai |
+| 62 | [शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ](#shabad-62) | Shabad 62: Baeda Kataeba Iphataraa Bhaaee Daila Kaa Phaikara |
+| 63 | [शब्द 63: अमलु सिरानो लेखा देना](#shabad-63) | Shabad 63: Amalau Sairaanao Laekhaa Daenaa |
+| 64 | [शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ](#shabad-64) | Shabad 64: Thaakae Naaina Saravana Saunai Thaakae Thaakaee |
+| 65 | [शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे](#shabad-65) | Shabad 65: Aisao Ihau Sansaarau Paekhanaa Rahanau Na Kao |
+| 66 | [शब्द 66: बिदिआ न परउ बादु नही जानउ](#shabad-66) | Shabad 66: Baidaiaa Na Parau Baadau Nahaee Jaanau |
+| 67 | [शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा](#shabad-67) | Shabad 67: Garaihau Tajai Bana Khanda Jaaeeai Chaunai Khaa |
+| 68 | [शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ](#shabad-68) | Shabad 68: Naita Uthai Kaoraee Gaagarai Aanaai Laeepata Jaee |
+| 69 | [शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ](#shabad-69) | Shabad 69: Santau Mailaai Kaichhau Saunaeeai Kahaeeai |
+| 70 | [शब्द 70: नरू मरै नरु कामि न आवै](#shabad-70) | Shabad 70: Naraoo Maraai Narau Kaamai Na Aavaai |
+| 71 | [शब्द 71: भुजा बांधि भिला करि डारिओ](#shabad-71) | Shabad 71: Bhaujaa Baandhai Bhailaa Karai Daaraio |
+| 72 | [शब्द 72: ना इहु मानसु ना इहु देउ](#shabad-72) | Shabad 72: Naa Ihau Maanasau Naa Ihau Daeu |
+| 73 | [शब्द 73: तूटे तागे निखुटी पानि](#shabad-73) | Shabad 73: Taootae Taagae Naikhautaee Paanai |
+| 74 | [शब्द 74: धंनु गुपाल धंनु गुरदेव](#shabad-74) | Shabad 74: Dhannau Gaupaala Dhannau Gauradaeva |
+| 75 | [शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै](#shabad-75) | Shabad 75: Jaiha Maukha Baedau Gaaitaraee Naikasaai Sao |
+| 76 | [शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे](#shabad-76) | Shabad 76: Maundaraa Maonai Daiaa Karai Jhaolaee Patara |
+| 77 | [शब्द 77: पडीआ कवन कुमति तुम लागे](#shabad-77) | Shabad 77: Padaeeaa Kavana Kaumatai Tauma Laagae |
+| 78 | [शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार](#shabad-78) | Shabad 78: Banahai Basae Kaiu Paaeeai Jau Lau Manahau Na |
+| 79 | [शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे](#shabad-79) | Shabad 79: Udaka Samaunda Salala Kaee Saakhaiaa Nadaee Taran |
+| 80 | [शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु](#shabad-80) | Shabad 80: Jainai Gaड़ Kaota Kaeee Kanchana Kae Chhaodai Ga |
+| 81 | [शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना](#shabad-81) | Shabad 81: Daehaee Gaavaa Jaeeu Dhara Mahatau Basahai Pancha |
+| 82 | [शब्द 82: राजन कउनु तुमारै आवै](#shabad-82) | Shabad 82: Raajana Kaunau Taumaaraai Aavaai |
+| 83 | [शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे](#shabad-83) | Shabad 83: Daeenau Baisaaraio Rae Daivaanae Daeenau Bai |
+| 84 | [शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना](#shabad-84) | Shabad 84: Usatatai Naindaa Daooo Baibarajaita Tajahau Ma |
+| 85 | [शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी](#shabad-85) | Shabad 85: Kaama Karaodha Taraisanaa Kae Laeenae Gatai |
+| 86 | [शब्द 86: टेढी पाग टेढे चले लागे बीरे खान](#shabad-86) | Shabad 86: Taedhaee Paaga Taedhae Chalae Laagae Baeerae Khaa |
+| 87 | [शब्द 87: चारि दिन अपनी नउबति चले बजाइ](#shabad-87) | Shabad 87: Chaarai Daina Apanaee Naubatai Chalae Bajaai |
+| 88 | [शब्द 88: नांगे आवनु नांगे जाना](#shabad-88) | Shabad 88: Naangae Aavanau Naangae Jaanaa |
+| 89 | [शब्द 89: मैला ब्रहमा मैला इंदु](#shabad-89) | Shabad 89: Maailaa Barahamaa Maailaa Indau |
+| 90 | [शब्द 90: मनु करि मका किबला करि देही](#shabad-90) | Shabad 90: Manau Karai Makaa Kaibalaa Karai Daehaee |
+| 91 | [शब्द 91: गंगा कै संगि सलिता बिगरी](#shabad-91) | Shabad 91: Gangaa Kaai Sangai Salaitaa Baigaraee |
+| 92 | [शब्द 92: माथे तिलकु हथि माला बानां](#shabad-92) | Shabad 92: Maathae Tailakau Hathai Maalaa Baanaan |
+| 93 | [शब्द 93: उलटि जाति कुल दोऊ बिसारी](#shabad-93) | Shabad 93: Ulatai Jaatai Kaula Daooo Baisaaraee |
+| 94 | [शब्द 94: निरधन आदरु कोई न देइ](#shabad-94) | Shabad 94: Nairadhana Aadarau Kaoee Na Daei |
+| 95 | [शब्द 95: सो मुलां जो मन सिउ लरै](#shabad-95) | Shabad 95: Sao Maulaan Jao Mana Saiu Laraai |
+| 96 | [शब्द 96: जब लगु मेरी मेरी करै](#shabad-96) | Shabad 96: Jaba Lagau Maeraee Maeraee Karaai |
+| 97 | [शब्द 97: सभु कोई चलन कहत है ऊहां](#shabad-97) | Shabad 97: Sabhau Kaoee Chalana Kahata Haai Oohaan |
+| 98 | [शब्द 98: गंग गुसाइनि गहिर ग्मभीर](#shabad-98) | Shabad 98: Ganga Gausaainai Gahaira Gamabhaeera |
+| 99 | [शब्द 99: मउली धरती मउलिआ अकासु](#shabad-99) | Shabad 99: Maulaee Dharataee Maulaiaa Akaasau |
+| 100 | [शब्द 100: पंडित जन माते पड़्हि पुरान](#shabad-100) | Shabad 100: Pandaita Jana Maatae Paड़hai Pauraana |
+| 101 | [शब्द 101: प्रहलाद पठाए पड़न साल](#shabad-101) | Shabad 101: Parahalaada Pathaae Paड़na Saala |
+| 102 | [शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे](#shabad-102) | Shabad 102: Maataa Jaoothaee Paitaa Bhaee Jaoothaa Jaoothae Haee |
+| 103 | [शब्द 103: कहा नर गरबसि थोरी बात](#shabad-103) | Shabad 103: Kahaa Nara Garabasai Thaoraee Baata |
+| 104 | [शब्द 104: राजास्रम मिति नही जानी तेरी](#shabad-104) | Shabad 104: Raajaasarama Maitai Nahaee Jaanaee Taeraee |
+| 105 | [शब्द 105: हरि बिनु कउनु सहाई मन का](#shabad-105) | Shabad 105: Harai Bainau Kaunau Sahaaee Mana Kaa |
+| 106 | [शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा](#shabad-106) | Shabad 106: Alahau Ekau Masaeetai Basatau Haai Avarau Mau |
+| 107 | [शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे](#shabad-107) | Shabad 107: Avalai Alaha Naoorau Upaaiaa Kaudaratai Kae |
+| 108 | [शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै](#shabad-108) | Shabad 108: Baeda Kataeba Kahahau Mata Jhaoothae Jhaoothaa Jao |
+| 109 | [शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई](#shabad-109) | Shabad 109: Saunna Sandhaiaa Taeraee Daeva Daevaakara Adhapa |
+| 110 | [शब्द 110: कोऊ हरि समानि नही राजा ॥](#shabad-110) | Shabad 110: Kaooo Harai Samaanai Nahaee Raajaa |
+| 111 | [शब्द 111: राखि लेहु हम ते बिगरी](#shabad-111) | Shabad 111: Raakhai Laehau Hama Tae Baigaraee |
+| 112 | [शब्द 112: दरमादे ठाढे दरबारि](#shabad-112) | Shabad 112: Daramaadae Thaadhae Darabaarai |
+| 113 | [शब्द 113: डंडा मुंद्रा खिंथा आधारी](#shabad-113) | Shabad 113: Dandaa Maundaraa Khainthaa Aadhaaraee |
+| 114 | [शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे](#shabad-114) | Shabad 114: Inahai Maaiaa Jagadaeesa Gausaaee Taumaharae |
+| 115 | [शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप](#shabad-115) | Shabad 115: Saraeera Saraovara Bhaeetarae Aachhaai Kamala Anaoopa |
+| 116 | [शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी](#shabad-116) | Shabad 116: Janama Marana Kaa Bharamau Gaiaa Gaobaida Laiva |
+| 117 | [शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव](#shabad-117) | Shabad 117: Charana Kamala Jaa Kaai Raidaai Basahai Sao Janau |
+| 118 | [शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले](#shabad-118) | Shabad 118: Aakaasai Gaganau Paataalai Gaganau Haai Chahau |
+| 119 | [शब्द 119: खसमु मरै तउ नारि न रोवै](#shabad-119) | Shabad 119: Khasamau Maraai Tau Naarai Na Raovaai |
+| 120 | [शब्द 120: ग्रिहि सोभा जा कै रे नाहि](#shabad-120) | Shabad 120: Garaihai Saobhaa Jaa Kaai Rae Naahai |
+| 121 | [शब्द 121: जैसे मंदर महि बलहर ना ठाहरै](#shabad-121) | Shabad 121: Jaaisae Mandara Mahai Balahara Naa Thaaharaai |
+| 122 | [शब्द 122: कूटनु सोइ जु मन कउ कूटै](#shabad-122) | Shabad 122: Kaootanau Saoi Jau Mana Kau Kaootaai |
+| 123 | [शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे](#shabad-123) | Shabad 123: Kaaiaa Kalaalanai Laahanai Maelau Gaura Kaa |
+| 124 | [शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा](#shabad-124) | Shabad 124: Gauड़u Karai Gaiaanau Dhaiaanau Karai Mahaooaa |
+| 125 | [शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी](#shabad-125) | Shabad 125: Taoon Maerao Maerau Parabatau Sauaamaee Ota Ga |
+| 126 | [शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी](#shabad-126) | Shabad 126: Santaa Maanau Daootaa Daanau Iha Kautavaaraee |
+| 127 | [शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ](#shabad-127) | Shabad 127: Taravarau Ekau Ananta Daara Saakhaa Pauhapa Pa |
+| 128 | [शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ](#shabad-128) | Shabad 128: Kavana Kaaja Sairajae Jaga Bhaeetarai Janamai Kava |
+| 129 | [शब्द 129: जिह सिमरनि होइ मुकति दुआरु](#shabad-129) | Shabad 129: Jaiha Saimaranai Haoi Maukatai Dauaarau |
+| 130 | [शब्द 130: बंधचि बंधनु पाइआ](#shabad-130) | Shabad 130: Bandhachai Bandhanau Paaiaa |
+| 131 | [शब्द 131: चंदु सूरजु दुइ जोति सरूपु](#shabad-131) | Shabad 131: Chandau Saoorajau Daui Jaotai Saraoopau |
+| 132 | [शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई](#shabad-132) | Shabad 132: Daunaeeaa Hausaeeaara Baedaara Jaagata Mausaeeata |
+| 133 | [शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज](#shabad-133) | Shabad 133: Raidhai Saidhai Jaa Kau Phauraee Taba Kaahaoo Sa |
+| 134 | [शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु](#shabad-134) | Shabad 134: Jau Taumaha Mao Kau Daoorai Karata Hau Tau |
+| 135 | [शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े](#shabad-135) | Shabad 135: Anabhau Kainaai Na Daekhaiaa Baairaagaeeaड़e |
+| 136 | [शब्द 136: रामु सिमरु पछुताहिगा मन](#shabad-136) | Shabad 136: Raamau Saimarau Pachhautaahaigaa Mana |
+| 137 | [शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी](#shabad-137) | Shabad 137: Kainahaee Banajaiaa Kaansaee Taanbaa Kainahaee |
+| 138 | [शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ](#shabad-138) | Shabad 138: Raee Kalavaarai Gavaarai Maoodha Matai Ulatao Pa |
+| 139 | [शब्द 139: इहु धनु मेरे हरि को नाउ](#shabad-139) | Shabad 139: Ihau Dhanau Maerae Harai Kao Naau |
+| 140 | [शब्द 140: गुर सेवा ते भगति कमाई](#shabad-140) | Shabad 140: Gaura Saevaa Tae Bhagatai Kamaaee |
+| 141 | [शब्द 141: सिव की पुरी बसै बुधि सारु](#shabad-141) | Shabad 141: Saiva Kaee Pauraee Basaai Baudhai Saarau |
+| 142 | [शब्द 142: जल महि मीन माइआ के बेधे](#shabad-142) | Shabad 142: Jala Mahai Maeena Maaiaa Kae Baedhae |
+| 143 | [शब्द 143: सतरि सैइ सलार है जा के](#shabad-143) | Shabad 143: Satarai Saaii Salaara Haai Jaa Kae |
+| 144 | [शब्द 144: किउ लीजै गढु बंका भाई](#shabad-144) | Shabad 144: Kaiu Laeejaai Gadhau Bankaa Bhaaee |
+| 145 | [शब्द 145: अगम द्रुगम गड़ि रचिओ बास](#shabad-145) | Shabad 145: Agama Daraugama Gaड़i Rachaio Baasa |
+| 146 | [शब्द 146: कोटि सूर जा कै परगास](#shabad-146) | Shabad 146: Kaotai Saoora Jaa Kaai Paragaasa |
+| 147 | [शब्द 147: जोइ खसमु है जाइआ](#shabad-147) | Shabad 147: Jaoi Khasamau Haai Jaaiaa |
+| 148 | [शब्द 148: इसु तन मन मधे मदन चोर](#shabad-148) | Shabad 148: Isau Tana Mana Madhae Madana Chaora |
+| 149 | [शब्द 149: नाइकु एकु बनजारे पाच](#shabad-149) | Shabad 149: Naaikau Ekau Banajaarae Paacha |
+| 150 | [शब्द 150: सुरह की जैसी तेरी चाल](#shabad-150) | Shabad 150: Sauraha Kaee Jaaisaee Taeraee Chaala |
+
+---
+
+<a name="shabad-1"></a>
+## शब्द 1: जननी जानत सुतु बडा होतु है
+**English Title:** Shabad 1: Jananaee Jaanata Sautau Badaa Haotau Haai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जननी जानत सुतु बडा होतु है इतना कु न जानै जि दिन दिन अवध घटतु है ॥
+मोर मोर करि अधिक लाडु धरि पेखत ही जमराउ हसै ॥१॥
+ऐसा तैं जगु भरमि लाइआ ॥
+कैसे बूझै जब मोहिआ है माइआ ॥१॥ रहाउ ॥
+कहत कबीर छोडि बिखिआ रस इतु संगति निहचउ मरणा ॥
+रमईआ जपहु प्राणी अनत जीवण बाणी इन बिधि भव सागरु तरणा ॥२॥
+जां तिसु भावै ता लागै भाउ ॥
+भरमु भुलावा विचहु जाइ ॥
+उपजै सहजु गिआन मति जागै ॥
+गुर प्रसादि अंतरि लिव लागै ॥३॥
+इतु संगति नाही मरणा ॥
+हुकमु पछाणि ता खसमै मिलणा ॥१॥ रहाउ दूजा ॥91॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जननी (जननी का आध्यात्मिक भाव) जानत (प्राण/जीवन संबंधी) सुतु (पुत्र/बेटा) बडा (महान/विशाल) होतु (दुखों से) है (है कि) इतना (इतना का आध्यात्मिक भाव) कु (कु का आध्यात्मिक भाव) न (नहीं) जानै (प्राण/जीवन (करता है/ने)) जि (ज (सधुक्कड़ी भाव)) दिन (दिवस) दिन (दिवस) अवध (आयु, जीवनकाल) घटतु (घटतु का आध्यात्मिक भाव) है (है कि) ॥
+मोर (मेरा/मयूर) मोर (मेरा/मयूर) करि (करके/हाथ से) अधिक (अधिक (सधुक्कड़ी भाव)) लाडु (लाडु का आध्यात्मिक भाव) धरि (धरकर/धारण करके) पेखत (पेखत का आध्यात्मिक भाव) ही (केवल/मात्र) जमराउ (यमराज, मृत्यु का देवता) हसै (हंसता है/उपहास करता है) ॥ ॥
+ऐसा (ऐसा/इस प्रकार का) तैं (से) जगु (सम्पूर्ण जगत/संसार) भरमि (भ्रम) लाइआ (लाइआ का आध्यात्मिक भाव) ॥
+कैसे (किस प्रकार) बूझै (समझता/जानता (करता है/होता है)) जब (जिस समय/जब) मोहिआ (मोहिआ का आध्यात्मिक भाव) है (है कि) माइआ (माया/भ्रम) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) छोडि (छोडि का आध्यात्मिक भाव) बिखिआ (विषय-विकार, माया) रस (अमृत-रस) इतु (इधर) संगति (सत्संग/साधु-संगत) निहचउ (निहचउ का आध्यात्मिक भाव) मरणा (मृत्यु) ॥
+रमईआ (सर्वव्यापी राम, ईश्वर) जपहु (स्मरण/जाप (से/द्वारा)) प्राणी (प्राणी का आध्यात्मिक भाव) अनत (अनत (सधुक्कड़ी भाव)) जीवण (जीवण का आध्यात्मिक भाव) बाणी (बाणी का आध्यात्मिक भाव) इन (इन सब को) बिधि (विधि/रीति) भव (संसार/भवसागर) सागरु (संसार रूपी सागर) तरणा (तरणा का आध्यात्मिक भाव) ॥ ॥
+जां (ज (सधुक्कड़ी भाव)) तिसु (उसको) भावै (जैसा मन चाहे) ता (उस पर/उसका) लागै (प्रेम-संबंध/लगन (करता है/ने)) भाउ (भाव/मूल्य) ॥
+भरमु (भ्रम) भुलावा (भुलावा का आध्यात्मिक भाव) विचहु (विचहु का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) ॥
+उपजै (उत्पन्न होता है) सहजु (स्वाभाविक शांति, परम संतुलन) गिआन (आत्मज्ञान/विवेक) मति (बुद्धि/समझ) जागै (जागकर) ॥
+गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) अंतरि (हृदय के भीतर) लिव (एकतार ध्यान/सुरति) लागै (प्रेम-संबंध/लगन (करता है/ने)) ॥ ॥
+इतु (इधर) संगति (सत्संग/साधु-संगत) नाही (नहीं) मरणा (मृत्यु) ॥
+हुकमु (हुकमु का आध्यात्मिक भाव) पछाणि (पछाणि का आध्यात्मिक भाव) ता (उस पर/उसका) खसमै (स्वामी, पति-परमेश्वर) मिलणा (मिलणा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) दूजा (दूसरे को) ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jananee (jananee) jaanat (life/soul related) sutu (son) bada (great/large) hotu (griefs) hai (is) itana (itana) ku (ku) n (not) jaanai (life/soul (does/by)) ji (j (spiritual sense)) din (day) din (day) avadh (span of life, worldly lifespan) ghatatu (ghatatu) hai (is) .
+mor (mine/peacock) mor (mine/peacock) kari (having done/with hands) adhik (adhik (spiritual sense)) laadu (laadu) dhari (having held/placed) pekhat (pekhat) hee (alone/only) jamaraau (Lord of Death, mortality) hasai (laughs/scoffs) . .
+aisa (such/like this) tain (from) jagu (the world/mortal realm) bharami (illusion/doubt) laaia (laaia) .
+kaise (how) boojhai (comprehends (does/becomes)) jab (at the time when) mohia (mohia) hai (is) maaia (cosmic illusion) . . rahaau (pause for reflection, foundational theme) .
+kahat (speaking/saying) kabeer (Sant Kabir) chhodi (chhodi) bikhia (sensory poison, worldly illusions) ras (nectar) itu (here) sangati (holy company) nihachau (nihachau) marana (death) .
+ramaeea (all-pervading Divine Rama) japahu (chanting/meditation (from/by)) praanee (praanee) anat (anat (spiritual sense)) jeevan (jeevan) baanee (baanee) in (unto all these) bidhi (manner/way) bhav (ocean of mortal existence) saagaru (ocean of life) tarana (tarana) . .
+jaan (j (spiritual sense)) tisu (unto that one) bhaavai (as pleases the heart) ta (upon that/his) laagai (spark of love/attachment (does/by)) bhaau (prices) .
+bharamu (illusion/doubt) bhulaava (bhulaava) vichahu (vichahu) jaai (whose/when (in/having done)) .
+upajai (springs forth/arises) sahaju (spontaneous spiritual equilibrium, effortless bliss) giaan (spiritual wisdom) mati (intellect/mind) jaagai (awakened) .
+gur (of the Master) prasaadi (divine grace (in/having done)) antari (within the heart) liv (unbroken divine absorption) laagai (spark of love/attachment (does/by)) . .
+itu (here) sangati (holy company) naahee (not) marana (death) .
+hukamu (hukamu) pachhaani (pachhaani) ta (upon that/his) khasamai (Master, the Divine Spouse) milana (milana) . . rahaau (pause for reflection, foundational theme) dooja (second) . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जननी जानत सुतु बडा होतु है इतना कु न जानै जि दिन दिन अवध घटतु है—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jananeejaanatasutubadaahotuhaiitanaakunajaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 1: जननी जानत सुतु बडा होतु है'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-2"></a>
+## शब्द 2: नगन फिरत जौ पाईऐ जोगु
+**English Title:** Shabad 2: Nagana Phairata Jaau Paaeeai Jaogau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+नगन फिरत जौ पाईऐ जोगु ॥
+बन का मिरगु मुकति सभु होगु ॥१॥
+किआ नागे किआ बाधे चाम ॥
+जब नही चीनसि आतम राम ॥१॥ रहाउ ॥
+मूड मुंडाए जौ सिधि पाई ॥
+मुकती भेड न गईआ काई ॥२॥
+बिंदु राखि जौ तरीऐ भाई ॥
+खुसरै किउ न परम गति पाई ॥३॥
+कहु कबीर सुनहु नर भाई ॥
+राम नाम बिनु किनि गति पाई ॥४॥४॥324॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+नगन (नग्न, दिगंबर) फिरत (फिरत का आध्यात्मिक भाव) जौ (यदि/जब) पाईऐ (पाईऐ का आध्यात्मिक भाव) जोगु (योग/साधना) ॥
+बन (वन/जंगल) का (का/संबंध-सूचक) मिरगु (मृग, हिरण) मुकति (मुक्ति/मोक्ष) सभु (सब कुछ/सम्पूर्ण) होगु (होगु का आध्यात्मिक भाव) ॥ ॥
+किआ (क्या) नागे (नाग (सधुक्कड़ी भाव)) किआ (क्या) बाधे (बाध लिए/बांधे हुए) चाम (चाम का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) नही (नहीं) चीनसि (पहचानना, जानना) आतम (अंतरात्मा, आत्म-स्वरूप) राम (सर्वव्यापी परमात्मा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+मूड (मस्तक, सिर) मुंडाए (मुंडाए का आध्यात्मिक भाव) जौ (यदि/जब) सिधि (आध्यात्मिक सिद्धि, पूर्णता) पाई (प्राप्त कर लिया) ॥
+मुकती (मुकती (सधुक्कड़ी भाव)) भेड (भेड का आध्यात्मिक भाव) न (नहीं) गईआ (गईआ का आध्यात्मिक भाव) काई (कोई) ॥ ॥
+बिंदु (बिंदु का आध्यात्मिक भाव) राखि (राखि का आध्यात्मिक भाव) जौ (यदि/जब) तरीऐ (तरीऐ का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+खुसरै (नपुंसक, अक्षम) किउ (अथवा) न (नहीं) परम (सर्वोच्च/परम) गति (परम गति/मुक्ति) पाई (प्राप्त कर लिया) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) नर (पुरुष/मनुष्य) भाई (हे भाई!/हे मित्र!) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) बिनु (बिना/रहित) किनि (किन लोगों ने/किनको (में/करके)) गति (परम गति/मुक्ति) पाई (प्राप्त कर लिया) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+nagan (naked, unclad ascetic) phirat (phirat) jau (if/when) paaeeai (paaeeai) jogu (spiritual yoga/union) .
+ban (forest) ka (of) miragu (deer of the forest) mukati (spiritual liberation) sabhu (everything/all) hogu (hogu) . .
+kia (what) naage (naag (spiritual sense)) kia (what) baadhe (shackled) chaam (chaam) .
+jab (at the time when) nahee (not) cheenasi (recognize, spiritually discern) aatam (inner soul, divine self) raam (The All-Pervading Lord (Ram)) . . rahaau (pause for reflection, foundational theme) .
+mood (head, shaven scalp) mundaae (mundaae) jau (if/when) sidhi (spiritual perfection, mystical power) paaee (have found/attained) .
+mukatee (mukatee (spiritual sense)) bhed (bhed) n (not) gaeea (gaeea) kaaee (any) . .
+bindu (bindu) raakhi (raakhi) jau (if/when) tareeai (tareeai) bhaaee (O brother!) .
+khusarai (impotent, unable) kiu (or is it) n (not) param (supreme/highest) gati (spiritual emancipation) paaee (have found/attained) . .
+kahu (tell) kabeer (Sant Kabir) sunahu (hearing (from/by)) nar (man/mortal) bhaaee (O brother!) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) kini (by whom/unto whom (in/having done)) gati (spiritual emancipation) paaee (have found/attained) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+यदि नंगे घूमने से ही प्रभु-योग मिल जाता,
+तो वन का प्रत्येक हिरन सहज ही मुक्त हो जाता।
+क्या नंगे रहना और क्या चमड़े के वस्त्र धारण करना,
+जब तक अंतरात्मा में प्रभु-राम को नहीं पहचाना।
+
+#### 🇬🇧 Lyrical English Verse Translation
+If roaming naked were the way to attain union with the Divine,
+Then every wild deer of the forest would easily cross liberation's line.
+What matters shedding clothes, or wearing deer-skins so fine,
+If the inner soul has not recognized the indwelling Beloved Divine?
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+Kabir systematically deconstructs external asceticism and superficial physical mortification. True spirituality is an inward transformation of consciousness and love, rather than theatrical external displays such as renouncing clothing or shaving heads.
+
+---
+
+<a name="shabad-3"></a>
+## शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा
+**English Title:** Shabad 3: Kaiaa Japau Kaiaa Tapau Kaiaa Barata Paoojaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+किआ जपु किआ तपु किआ ब्रत पूजा ॥
+जा कै रिदै भाउ है दूजा ॥१॥
+रे जन मनु माधउ सिउ लाईऐ ॥
+चतुराई न चतुरभुजु पाईऐ ॥ रहाउ ॥
+परहरु लोभु अरु लोकाचारु ॥
+परहरु कामु क्रोधु अहंकारु ॥२॥
+करम करत बधे अहमेव ॥
+मिलि पाथर की करही सेव ॥३॥
+कहु कबीर भगति करि पाइआ ॥
+भोले भाइ मिले रघुराइआ ॥४॥६॥324॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+किआ (क्या) जपु (स्मरण/जाप) किआ (क्या) तपु (तपस्या/तप) किआ (क्या) ब्रत (ब्रत (सधुक्कड़ी भाव)) पूजा (आराधना/पूजा) ॥
+जा (जिसका/जब) कै (के/का) रिदै (हृदय में) भाउ (भाव/मूल्य) है (है कि) दूजा (दूसरे को) ॥ ॥
+रे (रा (रज़ा व समर्पण)) जन (भक्त/सेवक) मनु (मन/अंतःकरण) माधउ (माधव, परमेश्वर) सिउ (से/साथ) लाईऐ (लाईऐ का आध्यात्मिक भाव) ॥
+चतुराई (चतुराई का आध्यात्मिक भाव) न (नहीं) चतुरभुजु (चार भुजाओं वाले भगवान, प्रभु) पाईऐ (पाईऐ का आध्यात्मिक भाव) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+परहरु (परहरु का आध्यात्मिक भाव) लोभु (लालच, तृष्णा) अरु (और) लोकाचारु (लोकाचारु का आध्यात्मिक भाव) ॥
+परहरु (परहरु का आध्यात्मिक भाव) कामु (काम-वासना/कर्म संबंधी) क्रोधु (गुस्सा, कोप) अहंकारु (घमंड, आत्म-मुग्धता) ॥ ॥
+करम (कर्मकांड) करत (करते) बधे (बधे का आध्यात्मिक भाव) अहमेव (अहंकार, गर्व) ॥
+मिलि (मिलो संबंधी) पाथर (पाथर का आध्यात्मिक भाव) की (की/संबंध-सूचक) करही (करही का आध्यात्मिक भाव) सेव (सेवा/समर्पण) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) भगति (प्रेम-भक्ति) करि (करके/हाथ से) पाइआ (पा लिया है) ॥
+भोले (भोले का आध्यात्मिक भाव) भाइ (भाइ का आध्यात्मिक भाव) मिले (मुझे प्राप्त हो) रघुराइआ (रघुराइआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kia (what) japu (chanting/meditation) kia (what) tapu (austerity/penance) kia (what) brat (brat (spiritual sense)) pooja (worship/devotion) .
+ja (whose/when) kai (of) ridai (in the heart) bhaau (prices) hai (is) dooja (second) . .
+re (Re (Divine Will)) jan (devotee/humble servant) manu (mind/inner spirit) maadhau (Madhava, Divine Lord) siu (with/from) laaeeai (laaeeai) .
+chaturaaee (chaturaaee) n (not) chaturabhuju (Four-armed Lord, Almighty) paaeeai (paaeeai) . rahaau (pause for reflection, foundational theme) .
+paraharu (paraharu) lobhu (greed, insatiable craving) aru (and) lokaachaaru (lokaachaaru) .
+paraharu (paraharu) kaamu (carnal desire/work related) krodhu (anger, wrath) ahankaaru (egotism, pride of self) . .
+karam (rituals) karat (doing) badhe (badhe) ahamev (egotism, false pride) .
+mili (meet related) paathar (paathar) kee (of) karahee (karahee) sev (humble service/devotion) . .
+kahu (tell) kabeer (Sant Kabir) bhagati (loving devotion) kari (having done/with hands) paaia (have found) .
+bhole (bhole) bhaai (bhaai) mile (to obtain) raghuraaia (raghuraaia) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! किआ जपु किआ तपु किआ ब्रत पूजा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kiaajapukiaatapukiaabratapooja—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-4"></a>
+## शब्द 4: गरभ वास महि कुलु नही जाती
+**English Title:** Shabad 4: Garabha Vaasa Mahai Kaulau Nahaee Jaataee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गरभ वास महि कुलु नही जाती ॥
+ब्रहम बिंदु ते सभ उतपाती ॥१॥
+कहु रे पंडित बामन कब के होए ॥
+बामन कहि कहि जनमु मत खोए ॥१॥ रहाउ ॥
+जौ तूं ब्राहमणु ब्रहमणी जाइआ ॥
+तउ आन बाट काहे नही आइआ ॥२॥
+तुम कत ब्राहमण हम कत सूद ॥
+हम कत लोहू तुम कत दूध ॥३॥
+कहु कबीर जो ब्रहमु बीचारै ॥
+सो ब्राहमणु कहीअतु है हमारै ॥४॥७॥324॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गरभ (गरभ का आध्यात्मिक भाव) वास (वास का आध्यात्मिक भाव) महि (में/भीतर) कुलु (समस्त) नही (नहीं) जाती (जाती नहीं/दूर नहीं होती संबंधी) ॥
+ब्रहम (ब्रहम का आध्यात्मिक भाव) बिंदु (बिंदु का आध्यात्मिक भाव) ते (से/द्वारा) सभ (सब) उतपाती (उतपाती का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) रे (रा (रज़ा व समर्पण)) पंडित (पंडित/शास्त्रज्ञ) बामन (बामन का आध्यात्मिक भाव) कब (कब (सधुक्कड़ी भाव)) के (के/संबंध-सूचक) होए (होए का आध्यात्मिक भाव) ॥
+बामन (बामन का आध्यात्मिक भाव) कहि (से (को/में)) कहि (से (को/में)) जनमु (मानव जन्म) मत (और मति का रहस्य) खोए (खोए का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जौ (यदि/जब) तूं (तू/हे प्रभु!) ब्राहमणु (ब्राहमणु का आध्यात्मिक भाव) ब्रहमणी (ब्रहमणी का आध्यात्मिक भाव) जाइआ (जाइआ का आध्यात्मिक भाव) ॥
+तउ (तब/तो भी) आन (आकर) बाट (बाट का आध्यात्मिक भाव) काहे (किसलिए/क्यों) नही (नहीं) आइआ (आया) ॥ ॥
+तुम (आप/तुम) कत (कहाँ/क्यों) ब्राहमण (ब्राहमण का आध्यात्मिक भाव) हम (हम सब प्राणी) कत (कहाँ/क्यों) सूद (शूद्र, श्रमिक वर्ण) ॥
+हम (हम सब प्राणी) कत (कहाँ/क्यों) लोहू (लोहू का आध्यात्मिक भाव) तुम (आप/तुम) कत (कहाँ/क्यों) दूध (दूध (सधुक्कड़ी भाव)) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) जो (जिससे) ब्रहमु (ब्रहमु का आध्यात्मिक भाव) बीचारै (बीचारै का आध्यात्मिक भाव) ॥
+सो (वह/वही) ब्राहमणु (ब्राहमणु का आध्यात्मिक भाव) कहीअतु (कहा जाता है) है (है कि) हमारै (हमारा) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+garabh (garabh) vaas (vaas) mahi (within/in) kulu (all/entire) nahee (not) jaatee (departs/is erased related) .
+braham (braham) bindu (bindu) te (from/by) sabh (all) utapaatee (utapaatee) . .
+kahu (tell) re (Re (Divine Will)) pandit (learned scholar/priest) baaman (baaman) kab (kab (spiritual sense)) ke (of) hoe (hoe) .
+baaman (baaman) kahi (from (unto/in)) kahi (from (unto/in)) janamu (human birth) mat (wisdom) khoe (khoe) . . rahaau (pause for reflection, foundational theme) .
+jau (if/when) toon (Thou) braahamanu (braahamanu) brahamanee (brahamanee) jaaia (jaaia) .
+tau (then/still) aan (coming) baat (baat) kaahe (wherefore/why) nahee (not) aaia (came/arrived) . .
+tum (You/Thou) kat (where/why) braahaman (braahaman) ham (we mortal beings) kat (where/why) sood (Shudra, humble working class) .
+ham (we mortal beings) kat (where/why) lohoo (lohoo) tum (You/Thou) kat (where/why) doodh (doodh (spiritual sense)) . .
+kahu (tell) kabeer (Sant Kabir) jo (that) brahamu (brahamu) beechaarai (beechaarai) .
+so (that/the same) braahamanu (braahamanu) kaheeatu (it is said) hai (is) hamaarai (our) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गरभ वास महि कुलु नही जाती—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! garabhavaasamahikulunaheejaatee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 4: गरभ वास महि कुलु नही जाती'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-5"></a>
+## शब्द 5: अवर मूए किआ सोगु करीजै
+**English Title:** Shabad 5: Avara Maooe Kaiaa Saogau Karaeejaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अवर मूए किआ सोगु करीजै ॥
+तउ कीजै जउ आपन जीजै ॥१॥
+मै न मरउ मरिबो संसारा ॥
+अब मोहि मिलिओ है जीआवनहारा ॥१॥ रहाउ ॥
+इआ देही परमल महकंदा ॥
+ता सुख बिसरे परमानंदा ॥२॥
+कूअटा एकु पंच पनिहारी ॥
+टूटी लाजु भरै मति हारी ॥३॥
+कहु कबीर इक बुधि बीचारी ॥
+ना ओहु कूअटा ना पनिहारी ॥४॥१२॥325॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अवर (अन्य/दूसरा) मूए (मूए का आध्यात्मिक भाव) किआ (क्या) सोगु (सोगु का आध्यात्मिक भाव) करीजै (की जाए) ॥
+तउ (तब/तो भी) कीजै (कीजिए) जउ (यदि/जब) आपन (स्वयं/परमात्मा (लोग/समूह)) जीजै (जीजै का आध्यात्मिक भाव) ॥ ॥
+मै (मैं/मैंने) न (नहीं) मरउ (मरउ का आध्यात्मिक भाव) मरिबो (मरिबो का आध्यात्मिक भाव) संसारा (जगत् संबंधी) ॥
+अब (अब/इस समय) मोहि (मुझको/मुझे) मिलिओ (मिलिओ का आध्यात्मिक भाव) है (है कि) जीआवनहारा (जीआवनहारा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+इआ (इआ का आध्यात्मिक भाव) देही (काया/शरीर) परमल (परमल का आध्यात्मिक भाव) महकंदा (महकंदा का आध्यात्मिक भाव) ॥
+ता (उस पर/उसका) सुख (सच्चा सुख) बिसरे (बिसरे का आध्यात्मिक भाव) परमानंदा (सर्वोच्च पाठ संबंधी) ॥ ॥
+कूअटा (कूअटा का आध्यात्मिक भाव) एकु (एक ही अद्वैत ब्रह्म) पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) पनिहारी (पनिहारी का आध्यात्मिक भाव) ॥
+टूटी (टूटी का आध्यात्मिक भाव) लाजु (लाजु का आध्यात्मिक भाव) भरै (भरै का आध्यात्मिक भाव) मति (बुद्धि/समझ) हारी (हार गई) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) इक (एक ही) बुधि (बुद्धि/मति) बीचारी (बीचारी (सधुक्कड़ी भाव)) ॥
+ना (नहीं) ओहु (वह परमात्मा/जीव) कूअटा (कूअटा का आध्यात्मिक भाव) ना (नहीं) पनिहारी (पनिहारी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+avar (other/another) mooe (mooe) kia (what) sogu (sogu) kareejai (should be done) .
+tau (then/still) keejai (please do) jau (if/when) aapan (Himself/oneself (folk/plural)) jeejai (jeejai) . .
+mai (I/by me) n (not) marau (marau) maribo (maribo) sansaara (world related) .
+ab (now) mohi (unto me) milio (milio) hai (is) jeeaavanahaara (jeeaavanahaara) . . rahaau (pause for reflection, foundational theme) .
+ia (ia) dehee (mortal body/frame) paramal (paramal) mahakanda (mahakanda) .
+ta (upon that/his) sukh (true bliss) bisare (bisare) paramaananda (supreme related) . .
+kooata (kooata) eku (The One Supreme Lord) panch (five vices) panihaaree (panihaaree) .
+tootee (tootee) laaju (laaju) bharai (bharai) mati (intellect/mind) haaree (lost/surrendered) . .
+kahu (tell) kabeer (Sant Kabir) ik (in one) budhi (intellect/wit) beechaaree (beechaaree (spiritual sense)) .
+na (not) ohu (that Lord/soul) kooata (kooata) na (not) panihaaree (panihaaree) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अवर मूए किआ सोगु करीजै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! avaramooekiaasogukareejai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 5: अवर मूए किआ सोगु करीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-6"></a>
+## शब्द 6: जिह कुलि पूतु न गिआन बीचारी
+**English Title:** Shabad 6: Jaiha Kaulai Paootau Na Gaiaana Baeechaaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिह कुलि पूतु न गिआन बीचारी ॥
+बिधवा कस न भई महतारी ॥१॥
+जिह नर राम भगति नहि साधी ॥
+जनमत कस न मुओ अपराधी ॥१॥ रहाउ ॥
+मुचु मुचु गरभ गए कीन बचिआ ॥
+बुडभुज रूप जीवे जग मझिआ ॥२॥
+कहु कबीर जैसे सुंदर सरूप ॥
+नाम बिना जैसे कुबज कुरूप ॥३॥२५॥328॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिह (जिस) कुलि (समस्त) पूतु (पुत्र/बेटा) न (नहीं) गिआन (आत्मज्ञान/विवेक) बीचारी (बीचारी (सधुक्कड़ी भाव)) ॥
+बिधवा (बिधवा का आध्यात्मिक भाव) कस (कस (सधुक्कड़ी भाव)) न (नहीं) भई (हो गई) महतारी (महतारी का आध्यात्मिक भाव) ॥ ॥
+जिह (जिस) नर (पुरुष/मनुष्य) राम (सर्वव्यापी परमात्मा) भगति (प्रेम-भक्ति) नहि (नहीं (को/में)) साधी (साधी (सधुक्कड़ी भाव)) ॥
+जनमत (जनमत का आध्यात्मिक भाव) कस (कस (सधुक्कड़ी भाव)) न (नहीं) मुओ (मुओ का आध्यात्मिक भाव) अपराधी (अपराधी (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+मुचु (मुचु का आध्यात्मिक भाव) मुचु (मुचु का आध्यात्मिक भाव) गरभ (गरभ का आध्यात्मिक भाव) गए (बीतते) कीन (क्या (लोग/समूह)) बचिआ (बचिआ का आध्यात्मिक भाव) ॥
+बुडभुज (बुडभुज का आध्यात्मिक भाव) रूप (स्वरूप) जीवे (प्राणी/जीवात्मा) जग (संसार) मझिआ (मझिआ का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) जैसे (जिस प्रकार) सुंदर (मनोहर/सुंदर) सरूप (स्वरूप/दिव्य रूप) ॥
+नाम (परम पावन नाम) बिना (बिना/रहित) जैसे (जिस प्रकार) कुबज (कुबज का आध्यात्मिक भाव) कुरूप (कुरूप का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jih (which) kuli (all/entire) pootu (son) n (not) giaan (spiritual wisdom) beechaaree (beechaaree (spiritual sense)) .
+bidhava (bidhava) kas (kas (spiritual sense)) n (not) bhaee (became) mahataaree (mahataaree) . .
+jih (which) nar (man/mortal) raam (The All-Pervading Lord (Ram)) bhagati (loving devotion) nahi (not/nor (unto/in)) saadhee (saadhee (spiritual sense)) .
+janamat (janamat) kas (kas (spiritual sense)) n (not) muo (muo) aparaadhee (aparaadhee (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+muchu (muchu) muchu (muchu) garabh (garabh) gae (went) keen (what (folk/plural)) bachia (bachia) .
+budabhuj (budabhuj) roop (form) jeeve (living soul/creature) jag (world's) majhia (majhia) . .
+kahu (tell) kabeer (Sant Kabir) jaise (just as) sundar (beautiful/wondrous) saroop (true spiritual form) .
+naam (Divine Name) bina (without) jaise (just as) kubaj (kubaj) kuroop (kuroop) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिह कुलि पूतु न गिआन बीचारी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jihakulipootunagiaanabeechaaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 6: जिह कुलि पूतु न गिआन बीचारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-7"></a>
+## शब्द 7: जो जन लेहि खसम का नाउ
+**English Title:** Shabad 7: Jao Jana Laehai Khasama Kaa Naau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जो जन लेहि खसम का नाउ ॥
+तिन कै सद बलिहारै जाउ ॥१॥
+सो निरमलु निरमल हरि गुन गावै ॥
+सो भाई मेरै मनि भावै ॥१॥ रहाउ ॥
+जिह घट रामु रहिआ भरपूरि ॥
+तिन की पग पंकज हम धूरि ॥२॥
+जाति जुलाहा मति का धीरु ॥
+सहजि सहजि गुण रमै कबीरु ॥३॥२६॥328॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जो (जिससे) जन (भक्त/सेवक) लेहि (लेते हैं) खसम (स्वामी, पति-परमेश्वर) का (का/संबंध-सूचक) नाउ (नाम) ॥
+तिन (उन्होंने/उनका) कै (के/का) सद (पुकार/आवाज) बलिहारै (बलिहारै का आध्यात्मिक भाव) जाउ (जिसका/जब) ॥ ॥
+सो (वह/वही) निरमलु (निरमलु का आध्यात्मिक भाव) निरमल (निरमल का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) गुन (गुण/पुण्य) गावै (गाता है) ॥
+सो (वह/वही) भाई (हे भाई!/हे मित्र!) मेरै (मेर (सधुक्कड़ी भाव)) मनि (मन में) भावै (जैसा मन चाहे) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जिह (जिस) घट (हृदय/शरीर) रामु (राम नाम की संबंधी) रहिआ (रहिआ का आध्यात्मिक भाव) भरपूरि (सर्वत्र परिपूर्ण) ॥
+तिन (उन्होंने/उनका) की (की/संबंध-सूचक) पग (पैर) पंकज (पंकज का आध्यात्मिक भाव) हम (हम सब प्राणी) धूरि (धूलि/रज) ॥ ॥
+जाति (जन्मना जाति/वर्ण) जुलाहा (बुनकर, वस्त्र निर्माता) मति (बुद्धि/समझ) का (का/संबंध-सूचक) धीरु (धीरु का आध्यात्मिक भाव) ॥
+सहजि (सहज अवस्था में) सहजि (सहज अवस्था में) गुण (सद्गुण/महिमा) रमै (रमै (सधुक्कड़ी भाव)) कबीरु (संत कबीर जी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jo (that) jan (devotee/humble servant) lehi (they take) khasam (Master, the Divine Spouse) ka (of) naau (name) .
+tin (they/them) kai (of) sad (call/summons) balihaarai (balihaarai) jaau (whose/when) . .
+so (that/the same) niramalu (niramalu) niramal (niramal) hari (The Lord who dispels grief (Hari)) gun (virtues/merits) gaavai (sings in praise) .
+so (that/the same) bhaaee (O brother!) merai (mer (spiritual sense)) mani (in the mind) bhaavai (as pleases the heart) . . rahaau (pause for reflection, foundational theme) .
+jih (which) ghat (body/inner temple) raamu (Lord Rama's related) rahia (rahia) bharapoori (pervading in fullness) .
+tin (they/them) kee (of) pag (foot) pankaj (pankaj) ham (we mortal beings) dhoori (dust) . .
+jaati (caste/social division) julaaha (weaver, artisan of consciousness) mati (intellect/mind) ka (of) dheeru (dheeru) .
+sahaji (in spontaneous poise) sahaji (in spontaneous poise) gun (virtues/divine attributes) ramai (ramai (spiritual sense)) kabeeru (Sant Kabir) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जो जन लेहि खसम का नाउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jojanalehikhasamakaanaau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 7: जो जन लेहि खसम का नाउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-8"></a>
+## शब्द 8: ओइ जु दीसहि अम्बरि तारे
+**English Title:** Shabad 8: Oi Jau Daeesahai Amabarai Taarae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ओइ जु दीसहि अम्बरि तारे ॥
+किनि ओइ चीते चीतनहारे ॥१॥
+कहु रे पंडित अम्बरु का सिउ लागा ॥
+बूझै बूझनहारु सभागा ॥१॥ रहाउ ॥
+सूरज चंदु करहि उजीआरा ॥
+सभ महि पसरिआ ब्रहम पसारा ॥२॥
+कहु कबीर जानैगा सोइ ॥
+हिरदै रामु मुखि रामै होइ ॥३॥२९॥329॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ओइ (वे सब) जु (जो/जो कोई) दीसहि (दीसहि का आध्यात्मिक भाव) अम्बरि (अम्बरि का आध्यात्मिक भाव) तारे (तार दिए/उद्धार किया) ॥
+किनि (किन लोगों ने/किनको (में/करके)) ओइ (वे सब) चीते (चीते का आध्यात्मिक भाव) चीतनहारे (चीतनहारे का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) रे (रा (रज़ा व समर्पण)) पंडित (पंडित/शास्त्रज्ञ) अम्बरु (अम्बरु का आध्यात्मिक भाव) का (का/संबंध-सूचक) सिउ (से/साथ) लागा (लगा/लीन हुआ) ॥
+बूझै (समझता/जानता (करता है/होता है)) बूझनहारु (बूझनहारु का आध्यात्मिक भाव) सभागा (सभाग (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सूरज (सूरज का आध्यात्मिक भाव) चंदु (चंद्रमा) करहि (करते हैं) उजीआरा (उजीआरा का आध्यात्मिक भाव) ॥
+सभ (सब) महि (में/भीतर) पसरिआ (पसरिआ का आध्यात्मिक भाव) ब्रहम (ब्रहम का आध्यात्मिक भाव) पसारा (संसार का फैलाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) जानैगा (जानैगा का आध्यात्मिक भाव) सोइ (वह (में/करके)) ॥
+हिरदै (हृदय में) रामु (राम नाम की संबंधी) मुखि (चेहरा (में/करके)) रामै (सर्वव्यापी परमात्मा) होइ (होकर) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+oi (they all) ju (who/whoever) deesahi (deesahi) ambari (ambari) taare (redeemed/saved) .
+kini (by whom/unto whom (in/having done)) oi (they all) cheete (cheete) cheetanahaare (cheetanahaare) . .
+kahu (tell) re (Re (Divine Will)) pandit (learned scholar/priest) ambaru (ambaru) ka (of) siu (with/from) laaga (attached/engaged) .
+boojhai (comprehends (does/becomes)) boojhanahaaru (boojhanahaaru) sabhaaga (sabhaag (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+sooraj (sooraj) chandu (radiant moon) karahi (they do) ujeeaara (ujeeaara) .
+sabh (all) mahi (within/in) pasaria (pasaria) braham (braham) pasaara (world's expanse) . .
+kahu (tell) kabeer (Sant Kabir) jaanaiga (jaanaiga) soi (that (in/having done)) .
+hiradai (in the heart) raamu (Lord Rama's related) mukhi (face (in/having done)) raamai (The All-Pervading Lord (Ram)) hoi (having become) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ओइ जु दीसहि अम्बरि तारे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! oijudeesahiambaritaare—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 8: ओइ जु दीसहि अम्बरि तारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-9"></a>
+## शब्द 9: बेद की पुत्री सिम्रिति भाई
+**English Title:** Shabad 9: Baeda Kaee Pautaraee Saimaraitai Bhaaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बेद की पुत्री सिम्रिति भाई ॥
+सांकल जेवरी लै है आई ॥१॥
+आपन नगरु आप ते बाधिआ ॥
+मोह कै फाधि काल सरु सांधिआ ॥१॥ रहाउ ॥
+कटी न कटै तूटि नह जाई ॥
+सा सापनि होइ जग कउ खाई ॥२॥
+हम देखत जिनि सभु जगु लूटिआ ॥
+कहु कबीर मै राम कहि छूटिआ ॥३॥३०॥329॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बेद (वेदों) की (की/संबंध-सूचक) पुत्री (बेटा/पुत्र) सिम्रिति (स्मृति शास्त्र) भाई (हे भाई!/हे मित्र!) ॥
+सांकल (सांकल का आध्यात्मिक भाव) जेवरी (रस्सी/बंधन की डोरी) लै (ले) है (है कि) आई (आई है) ॥ ॥
+आपन (स्वयं/परमात्मा (लोग/समूह)) नगरु (नगर/संसार रूपी शहर) आप (स्वयं/परमात्मा) ते (से/द्वारा) बाधिआ (बाधिआ का आध्यात्मिक भाव) ॥
+मोह (सांसारिक आसक्ति) कै (के/का) फाधि (फाधि का आध्यात्मिक भाव) काल (काल/मृत्यु) सरु (सिर/सरोवर) सांधिआ (सांधिआ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कटी (कटी का आध्यात्मिक भाव) न (नहीं) कटै (काटकर/नष्ट कर (करता है/होता है)) तूटि (तूटि का आध्यात्मिक भाव) नह (नहीं) जाई (जाओ) ॥
+सा (वह/उसकी) सापनि (सापनि का आध्यात्मिक भाव) होइ (होकर) जग (संसार) कउ (को) खाई (खाई/खड्डा) ॥ ॥
+हम (हम सब प्राणी) देखत (देखकर (करते हुए)) जिनि (मत/जिसने) सभु (सब कुछ/सम्पूर्ण) जगु (सम्पूर्ण जगत/संसार) लूटिआ (लूट लिया) ॥
+कहु (बताओ) कबीर (संत कबीर जी) मै (मैं/मैंने) राम (सर्वव्यापी परमात्मा) कहि (से (को/में)) छूटिआ (मुक्त हो गया) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bed (Vedas) kee (of) putree (son) simriti (Smriti scriptures) bhaaee (O brother!) .
+saankal (saankal) jevaree (rope/shackle) lai (bringing) hai (is) aaee (has come) . .
+aapan (Himself/oneself (folk/plural)) nagaru (city/town) aap (Himself/oneself) te (from/by) baadhia (baadhia) .
+moh (worldly attachment) kai (of) phaadhi (phaadhi) kaal (death/time) saru (head/lake) saandhia (saandhia) . . rahaau (pause for reflection, foundational theme) .
+katee (katee) n (not) katai (severing/cutting (does/becomes)) tooti (tooti) nah (not) jaaee (slip away) .
+sa (that/she) saapani (saapani) hoi (having become) jag (world's) kau (unto) khaaee (trench/consumed) . .
+ham (we mortal beings) dekhat (beholding (while doing)) jini (do not/who) sabhu (everything/all) jagu (the world/mortal realm) lootia (plundered/robbed) .
+kahu (tell) kabeer (Sant Kabir) mai (I/by me) raam (The All-Pervading Lord (Ram)) kahi (from (unto/in)) chhootia (was liberated) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बेद की पुत्री सिम्रिति भाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bedakeeputreesimritibhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 9: बेद की पुत्री सिम्रिति भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-10"></a>
+## शब्द 10: देइ मुहार लगामु पहिरावउ
+**English Title:** Shabad 10: Daei Mauhaara Lagaamau Pahairaavau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+देइ मुहार लगामु पहिरावउ ॥
+सगल त जीनु गगन दउरावउ ॥१॥
+अपनै बीचारि असवारी कीजै ॥
+सहज कै पावड़ै पगु धरि लीजै ॥१॥ रहाउ ॥
+चलु रे बैकुंठ तुझहि ले तारउ ॥
+हिचहि त प्रेम कै चाबुक मारउ ॥२॥
+कहत कबीर भले असवारा ॥
+बेद कतेब ते रहहि निरारा ॥३॥३१॥329॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+देइ (के/पास (में/करके)) मुहार (मुहार का आध्यात्मिक भाव) लगामु (लगामु का आध्यात्मिक भाव) पहिरावउ (पहिरावउ का आध्यात्मिक भाव) ॥
+सगल (संपूर्ण/समस्त) त (तो फिर/निश्चय ही) जीनु (जीनु का आध्यात्मिक भाव) गगन (ब्रह्मरंध्र, आंतरिक आकाश) दउरावउ (दउरावउ का आध्यात्मिक भाव) ॥ ॥
+अपनै (अपनै का आध्यात्मिक भाव) बीचारि (चारों संबंधी) असवारी (असवारी का आध्यात्मिक भाव) कीजै (कीजिए) ॥
+सहज (स्वाभाविक शांति, परम संतुलन) कै (के/का) पावड़ै (पावड़ै का आध्यात्मिक भाव) पगु (पैर) धरि (धरकर/धारण करके) लीजै (लीजिए/ग्रहण करें) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+चलु (चल पड़/प्रस्थान कर) रे (रा (रज़ा व समर्पण)) बैकुंठ (बैकुंठ (सधुक्कड़ी भाव)) तुझहि (तुझे (को/में)) ले (लेकर) तारउ (तारउ का आध्यात्मिक भाव) ॥
+हिचहि (हिचहि का आध्यात्मिक भाव) त (तो फिर/निश्चय ही) प्रेम (परम प्रेम/इश्क) कै (के/का) चाबुक (चाबुक का आध्यात्मिक भाव) मारउ (मारउ का आध्यात्मिक भाव) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) भले (भल (सधुक्कड़ी भाव)) असवारा (असवारा का आध्यात्मिक भाव) ॥
+बेद (वेदों) कतेब (पवित्र आसमानी धर्मग्रंथ) ते (से/द्वारा) रहहि (रहहि का आध्यात्मिक भाव) निरारा (निरारा का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+dei (of/unto (in/having done)) muhaar (muhaar) lagaamu (lagaamu) pahiraavau (pahiraavau) .
+sagal (all/entire) t (then indeed) jeenu (jeenu) gagan (crown chakra, the inner celestial sky) dauraavau (dauraavau) . .
+apanai (apanai) beechaari (four related) asavaaree (asavaaree) keejai (please do) .
+sahaj (spontaneous spiritual equilibrium, effortless bliss) kai (of) paavadai (paavadai) pagu (foot) dhari (having held/placed) leejai (please receive/take) . . rahaau (pause for reflection, foundational theme) .
+chalu (depart/walk forth) re (Re (Divine Will)) baikunth (baikunth (spiritual sense)) tujhahi (thee (unto/in)) le (taking/having taken) taarau (taarau) .
+hichahi (hichahi) t (then indeed) prem (Divine Love) kai (of) chaabuk (chaabuk) maarau (maarau) . .
+kahat (speaking/saying) kabeer (Sant Kabir) bhale (bhal (spiritual sense)) asavaara (asavaara) .
+bed (Vedas) kateb (holy scriptures) te (from/by) rahahi (rahahi) niraara (niraara) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! देइ मुहार लगामु पहिरावउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! deimuhaaralagaamupahiraavau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 10: देइ मुहार लगामु पहिरावउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-11"></a>
+## शब्द 11: आपे पावकु आपे पवना
+**English Title:** Shabad 11: Aapae Paavakau Aapae Pavanaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+आपे पावकु आपे पवना ॥
+जारै खसमु त राखै कवना ॥१॥
+राम जपत तनु जरि की न जाइ ॥
+राम नाम चितु रहिआ समाइ ॥१॥ रहाउ ॥
+का को जरै काहि होइ हानि ॥
+नट वट खेलै सारिगपानि ॥२॥
+कहु कबीर अखर दुइ भाखि ॥
+होइगा खसमु त लेइगा राखि ॥३॥३३॥329॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+आपे (स्वयं/परमात्मा) पावकु (अग्नि, अनल) आपे (स्वयं/परमात्मा) पवना (वायु, प्राण) ॥
+जारै (जारै का आध्यात्मिक भाव) खसमु (स्वामी, पति-परमेश्वर) त (तो फिर/निश्चय ही) राखै (रक्षा करता है) कवना (कौन/कैसा) ॥ ॥
+राम (सर्वव्यापी परमात्मा) जपत (जपते हुए) तनु (नश्वर शरीर/देह) जरि (जरि का आध्यात्मिक भाव) की (की/संबंध-सूचक) न (नहीं) जाइ (जिसका/जब (में/करके)) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) चितु (चित्त/मन) रहिआ (रहिआ का आध्यात्मिक भाव) समाइ (समाकर/लीन होकर) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+का (का/संबंध-सूचक) को (को/की ओर) जरै (सहन कर (करता है/होता है)) काहि (का/संबंध-सूचक (को/में)) होइ (होकर) हानि (हानि का आध्यात्मिक भाव) ॥
+नट (नट का आध्यात्मिक भाव) वट (वट का आध्यात्मिक भाव) खेलै (खेलै (सधुक्कड़ी भाव)) सारिगपानि (सारिगपानि का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) अखर (अक्षर/अविनाशी शब्द) दुइ (दो (द्वैत)) भाखि (भाखि का आध्यात्मिक भाव) ॥
+होइगा (होइगा का आध्यात्मिक भाव) खसमु (स्वामी, पति-परमेश्वर) त (तो फिर/निश्चय ही) लेइगा (लेइगा का आध्यात्मिक भाव) राखि (राखि का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+aape (Himself/oneself) paavaku (fire, flame of consciousness) aape (Himself/oneself) pavana (wind, breath of life) .
+jaarai (jaarai) khasamu (Master, the Divine Spouse) t (then indeed) raakhai (preserves/protects) kavana (who/what) . .
+raam (The All-Pervading Lord (Ram)) japat (while chanting) tanu (mortal body) jari (jari) kee (of) n (not) jaai (whose/when (in/having done)) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) chitu (inner mind) rahia (rahia) samaai (absorbed/merged) . . rahaau (pause for reflection, foundational theme) .
+ka (of) ko (unto/toward) jarai (endure (does/becomes)) kaahi (of (unto/in)) hoi (having become) haani (haani) .
+nat (nat) vat (vat) khelai (khelai (spiritual sense)) saarigapaani (saarigapaani) . .
+kahu (tell) kabeer (Sant Kabir) akhar (imperishable word/letter) dui (two/duality) bhaakhi (bhaakhi) .
+hoiga (hoiga) khasamu (Master, the Divine Spouse) t (then indeed) leiga (leiga) raakhi (raakhi) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! आपे पावकु आपे पवना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! aapepaavakuaapepavana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 11: आपे पावकु आपे पवना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-12"></a>
+## शब्द 12: जिह सिरि रचि रचि बाधत पाग
+**English Title:** Shabad 12: Jaiha Sairai Rachai Rachai Baadhata Paaga
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिह सिरि रचि रचि बाधत पाग ॥
+सो सिरु चुंच सवारहि काग ॥१॥
+इसु तन धन को किआ गरबईआ ॥
+राम नामु काहे न द्रिड़्हीआ ॥१॥ रहाउ ॥
+कहत कबीर सुनहु मन मेरे ॥
+इही हवाल होहिगे तेरे ॥२॥३५॥330॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिह (जिस) सिरि (शीश संबंधी) रचि (रचि का आध्यात्मिक भाव) रचि (रचि का आध्यात्मिक भाव) बाधत (बाधत का आध्यात्मिक भाव) पाग (पगड़ी/दस्तार) ॥
+सो (वह/वही) सिरु (शीश) चुंच (चुंच का आध्यात्मिक भाव) सवारहि (सवारहि का आध्यात्मिक भाव) काग (काग का आध्यात्मिक भाव) ॥ ॥
+इसु (इस संसारी) तन (शरीर के) धन (संपदा) को (को/की ओर) किआ (क्या) गरबईआ (गरबईआ का आध्यात्मिक भाव) ॥
+राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) काहे (किसलिए/क्यों) न (नहीं) द्रिड़्हीआ (द्रिड़्हीआ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) मन (मन/चित्त) मेरे (पर मेरे) ॥
+इही (ये) हवाल (हवाल का आध्यात्मिक भाव) होहिगे (होहिगे का आध्यात्मिक भाव) तेरे (तेरे विरह के) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jih (which) siri (head related) rachi (rachi) rachi (rachi) baadhat (baadhat) paag (turban) .
+so (that/the same) siru (head) chunch (chunch) savaarahi (savaarahi) kaag (kaag) . .
+isu (this) tan (body) dhan (wealth) ko (unto/toward) kia (what) garabaeea (garabaeea) .
+raam (The All-Pervading Lord (Ram)) naamu (True Name) kaahe (wherefore/why) n (not) dridheea (dridheea) . . rahaau (pause for reflection, foundational theme) .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) man (mind/inner consciousness) mere (my) .
+ihee (these) havaal (havaal) hohige (hohige) tere (in Your) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिह सिरि रचि रचि बाधत पाग—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jihasirirachirachibaadhatapaaga—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 12: जिह सिरि रचि रचि बाधत पाग'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-13"></a>
+## शब्द 13: रे जीअ निलज लाज तोहि नाही
+**English Title:** Shabad 13: Rae Jaeea Nailaja Laaja Taohai Naahaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+रे जीअ निलज लाज तोहि नाही ॥
+हरि तजि कत काहू के जांही ॥१॥ रहाउ ॥
+जा को ठाकुरु ऊचा होई ॥
+सो जनु पर घर जात न सोही ॥१॥
+सो साहिबु रहिआ भरपूरि ॥
+सदा संगि नाही हरि दूरि ॥२॥
+कवला चरन सरन है जा के ॥
+कहु जन का नाही घर ता के ॥३॥
+सभु कोऊ कहै जासु की बाता ॥
+सो सम्रथु निज पति है दाता ॥४॥
+कहै कबीरु पूरन जग सोई ॥
+जा के हिरदै अवरु न होई ॥५॥३८॥330॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+रे (रा (रज़ा व समर्पण)) जीअ (जीवात्मा/प्राण) निलज (निलज (सधुक्कड़ी भाव)) लाज (लाज का आध्यात्मिक भाव) तोहि (तुझको/तुम्हें) नाही (नहीं) ॥
+हरि (दुख-हर्ता परमात्मा) तजि (त्यागकर/छोड़कर) कत (कहाँ/क्यों) काहू (किसी को/किसी से) के (के/संबंध-सूचक) जांही (जांही का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जा (जिसका/जब) को (को/की ओर) ठाकुरु (ठाकुरद्वारा/मंदिर संबंधी) ऊचा (उच्च/सर्वोच्च) होई (तय हुआ) ॥
+सो (वह/वही) जनु (मानो/जैसे कि) पर (किन्तु/परन्तु) घर (आशियाना) जात (जाती नहीं/दूर नहीं होती) न (नहीं) सोही (सोही का आध्यात्मिक भाव) ॥ ॥
+सो (वह/वही) साहिबु (स्वामी/प्रभु) रहिआ (रहिआ का आध्यात्मिक भाव) भरपूरि (सर्वत्र परिपूर्ण) ॥
+सदा (सर्वदा/सदा) संगि (संगत में/सान्निध्य में) नाही (नहीं) हरि (दुख-हर्ता परमात्मा) दूरि (दूर/फासले पर) ॥ ॥
+कवला (कवल (सधुक्कड़ी भाव)) चरन (कमल-चरण) सरन (शरण/आश्रय) है (है कि) जा (जिसका/जब) के (के/संबंध-सूचक) ॥
+कहु (बताओ) जन (भक्त/सेवक) का (का/संबंध-सूचक) नाही (नहीं) घर (आशियाना) ता (उस पर/उसका) के (के/संबंध-सूचक) ॥ ॥
+सभु (सब कुछ/सम्पूर्ण) कोऊ (कोई भी) कहै (पुकारे) जासु (जिसका) की (की/संबंध-सूचक) बाता (कथन) ॥
+सो (वह/वही) सम्रथु (सम्रथु का आध्यात्मिक भाव) निज (अपना/स्वयं का) पति (स्वामी) है (है कि) दाता (सर्व-प्रदाता प्रभु) ॥ ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) पूरन (परिपूर्ण परमात्मा) जग (संसार) सोई (वही) ॥
+जा (जिसका/जब) के (के/संबंध-सूचक) हिरदै (हृदय में) अवरु (कोई दूसरा/अन्य) न (नहीं) होई (तय हुआ) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+re (Re (Divine Will)) jeea (living soul/breath) nilaj (nilaj (spiritual sense)) laaj (laaj) tohi (unto thee) naahee (not) .
+hari (The Lord who dispels grief (Hari)) taji (having renounced) kat (where/why) kaahoo (anyone/anyone's) ke (of) jaanhee (jaanhee) . . rahaau (pause for reflection, foundational theme) .
+ja (whose/when) ko (unto/toward) thaakuru (temple related) oocha (high/exalted) hoee (transpired) .
+so (that/the same) janu (as if/devotee) par (but/upon) ghar (home/refuge) jaat (departs/is erased) n (not) sohee (sohee) . .
+so (that/the same) saahibu (Lord/Master) rahia (rahia) bharapoori (pervading in fullness) .
+sada (always/eternally) sangi (in company of) naahee (not) hari (The Lord who dispels grief (Hari)) doori (far/distant) . .
+kavala (kaval (spiritual sense)) charan (lotus feet) saran (shelter/refuge) hai (is) ja (whose/when) ke (of) .
+kahu (tell) jan (devotee/humble servant) ka (of) naahee (not) ghar (home/refuge) ta (upon that/his) ke (of) . .
+sabhu (everything/all) kooo (anyone) kahai (chants) jaasu (whose) kee (of) baata (word/matter) .
+so (that/the same) samrathu (samrathu) nij (one's own/inner) pati (Lord) hai (is) daata (Supreme Giver/Benefactor) . .
+kahai (chants) kabeeru (Sant Kabir) pooran (All-Pervading Lord) jag (world's) soee (the very same) .
+ja (whose/when) ke (of) hiradai (in the heart) avaru (another/any other) n (not) hoee (transpired) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! रे जीअ निलज लाज तोहि नाही—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! rejeeanilajalaajatohinaahee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 13: रे जीअ निलज लाज तोहि नाही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-14"></a>
+## शब्द 14: कउनु को पूतु पिता को का को
+**English Title:** Shabad 14: Kaunau Kao Paootau Paitaa Kao Kaa Kao
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कउनु को पूतु पिता को का को ॥
+कउनु मरै को देइ संतापो ॥१॥
+हरि ठग जग कउ ठगउरी लाई ॥
+हरि के बिओग कैसे जीअउ मेरी माई ॥१॥ रहाउ ॥
+कउन को पुरखु कउन की नारी ॥
+इआ तत लेहु सरीर बिचारी ॥२॥
+कहि कबीर ठग सिउ मनु मानिआ ॥
+गई ठगउरी ठगु पहिचानिआ ॥३॥३९॥330॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कउनु (कौन) को (को/की ओर) पूतु (पुत्र/बेटा) पिता (पितृ जन/पूर्वज) को (को/की ओर) का (का/संबंध-सूचक) को (को/की ओर) ॥
+कउनु (कौन) मरै (मर नहीं (करता है/होता है)) को (को/की ओर) देइ (के/पास (में/करके)) संतापो (संतापो का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) ठग (ठग का आध्यात्मिक भाव) जग (संसार) कउ (को) ठगउरी (ठगउरी का आध्यात्मिक भाव) लाई (मारी है) ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) बिओग (बिओग का आध्यात्मिक भाव) कैसे (किस प्रकार) जीअउ (जीअउ का आध्यात्मिक भाव) मेरी (मेरी जीवन-) माई (हे माता!/हे सखी!) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कउन (कउन का आध्यात्मिक भाव) को (को/की ओर) पुरखु (पुरखु का आध्यात्मिक भाव) कउन (कउन का आध्यात्मिक भाव) की (की/संबंध-सूचक) नारी (स्त्री/माया) ॥
+इआ (इआ का आध्यात्मिक भाव) तत (तत्व/परम सत्य) लेहु (लो/स्वीकार करो) सरीर (मानव शरीर/देह) बिचारी (विचार/मंथन) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) ठग (ठग का आध्यात्मिक भाव) सिउ (से/साथ) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥
+गई (गई अपनी) ठगउरी (ठगउरी का आध्यात्मिक भाव) ठगु (ठगु का आध्यात्मिक भाव) पहिचानिआ (पहिचानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaunu (who) ko (unto/toward) pootu (son) pita (ancestors/forefathers) ko (unto/toward) ka (of) ko (unto/toward) .
+kaunu (who) marai (dies (does/becomes)) ko (unto/toward) dei (of/unto (in/having done)) santaapo (santaapo) . .
+hari (The Lord who dispels grief (Hari)) thag (thag) jag (world's) kau (unto) thagauree (thagauree) laaee (struck) .
+hari (The Lord who dispels grief (Hari)) ke (of) biog (biog) kaise (how) jeeau (jeeau) meree (my life's) maaee (O mother/O friend!) . . rahaau (pause for reflection, foundational theme) .
+kaun (kaun) ko (unto/toward) purakhu (purakhu) kaun (kaun) kee (of) naaree (woman/Maya) .
+ia (ia) tat (essence/Truth) lehu (take ye/receive) sareer (mortal body) bichaaree (contemplation/thought) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) thag (thag) siu (with/from) manu (mind/inner spirit) maania (maania) .
+gaee (became) thagauree (thagauree) thagu (thagu) pahichaania (pahichaania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कउनु को पूतु पिता को का को—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kaunukopootupitaakokaako—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 14: कउनु को पूतु पिता को का को'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-15"></a>
+## शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई
+**English Title:** Shabad 15: Jalai Haai Saootakau Thalai Haai Saootakau Saootaka
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जलि है सूतकु थलि है सूतकु सूतक ओपति होई ॥
+जनमे सूतकु मूए फुनि सूतकु सूतक परज बिगोई ॥१॥
+कहु रे पंडीआ कउन पवीता ॥
+ऐसा गिआनु जपहु मेरे मीता ॥१॥ रहाउ ॥
+नैनहु सूतकु बैनहु सूतकु सूतकु स्रवनी होई ॥
+ऊठत बैठत सूतकु लागै सूतकु परै रसोई ॥२॥
+फासन की बिधि सभु कोऊ जानै छूटन की इकु कोई ॥
+कहि कबीर रामु रिदै बिचारै सूतकु तिनै न होई ॥३॥४१॥331॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जलि (जल में) है (है कि) सूतकु (सूतकु का आध्यात्मिक भाव) थलि (थल (सधुक्कड़ी भाव)) है (है कि) सूतकु (सूतकु का आध्यात्मिक भाव) सूतक (सूतक का आध्यात्मिक भाव) ओपति (ओपति का आध्यात्मिक भाव) होई (तय हुआ) ॥
+जनमे (जन्म संबंधी) सूतकु (सूतकु का आध्यात्मिक भाव) मूए (मूए का आध्यात्मिक भाव) फुनि (पुनः/फिर) सूतकु (सूतकु का आध्यात्मिक भाव) सूतक (सूतक का आध्यात्मिक भाव) परज (परज का आध्यात्मिक भाव) बिगोई (बिगोई का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) रे (रा (रज़ा व समर्पण)) पंडीआ (पंडीआ का आध्यात्मिक भाव) कउन (कउन का आध्यात्मिक भाव) पवीता (पवीता का आध्यात्मिक भाव) ॥
+ऐसा (ऐसा/इस प्रकार का) गिआनु (दिव्य ज्ञान) जपहु (स्मरण/जाप (से/द्वारा)) मेरे (पर मेरे) मीता (हे सखा/मित्र) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+नैनहु (नैनहु का आध्यात्मिक भाव) सूतकु (सूतकु का आध्यात्मिक भाव) बैनहु (बैनहु का आध्यात्मिक भाव) सूतकु (सूतकु का आध्यात्मिक भाव) सूतकु (सूतकु का आध्यात्मिक भाव) स्रवनी (कानों से) होई (तय हुआ) ॥
+ऊठत (ऊठत का आध्यात्मिक भाव) बैठत (बैठत का आध्यात्मिक भाव) सूतकु (सूतकु का आध्यात्मिक भाव) लागै (प्रेम-संबंध/लगन (करता है/ने)) सूतकु (सूतकु का आध्यात्मिक भाव) परै (किन्तु/परन्तु (करता है/ने)) रसोई (वही है संबंधी) ॥ ॥
+फासन (फासन का आध्यात्मिक भाव) की (की/संबंध-सूचक) बिधि (विधि/रीति) सभु (सब कुछ/सम्पूर्ण) कोऊ (कोई भी) जानै (प्राण/जीवन (करता है/ने)) छूटन (मुक्ति/छूटने का मार्ग) की (की/संबंध-सूचक) इकु (एक/अद्वितीय) कोई (कोई भी जन) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) रामु (राम नाम की संबंधी) रिदै (हृदय में) बिचारै (विचार/मंथन (करता है/होता है)) सूतकु (सूतकु का आध्यात्मिक भाव) तिनै (उन्होंने/उनका) न (नहीं) होई (तय हुआ) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jali (in water) hai (is) sootaku (sootaku) thali (thal (spiritual sense)) hai (is) sootaku (sootaku) sootak (sootak) opati (opati) hoee (transpired) .
+janame (birth related) sootaku (sootaku) mooe (mooe) phuni (again/moreover) sootaku (sootaku) sootak (sootak) paraj (paraj) bigoee (bigoee) . .
+kahu (tell) re (Re (Divine Will)) pandeea (pandeea) kaun (kaun) paveeta (paveeta) .
+aisa (such/like this) giaanu (divine wisdom) japahu (chanting/meditation (from/by)) mere (my) meeta (O Friend) . . rahaau (pause for reflection, foundational theme) .
+nainahu (nainahu) sootaku (sootaku) bainahu (bainahu) sootaku (sootaku) sootaku (sootaku) sravanee (with the ears) hoee (transpired) .
+oothat (oothat) baithat (baithat) sootaku (sootaku) laagai (spark of love/attachment (does/by)) sootaku (sootaku) parai (but/upon (does/by)) rasoee (is he related) . .
+phaasan (phaasan) kee (of) bidhi (manner/way) sabhu (everything/all) kooo (anyone) jaanai (life/soul (does/by)) chhootan (liberation/release) kee (of) iku (one/sole) koee (anyone) .
+kahi (from (unto/in)) kabeer (Sant Kabir) raamu (Lord Rama's related) ridai (in the heart) bichaarai (contemplation/thought (does/becomes)) sootaku (sootaku) tinai (they/them) n (not) hoee (transpired) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जलि है सूतकु थलि है सूतकु सूतक ओपति होई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jalihaisootakuthalihaisootakusootakaopatihoee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-16"></a>
+## शब्द 16: झगरा एकु निबेरहु राम
+**English Title:** Shabad 16: Jhagaraa Ekau Naibaerahau Raama
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+झगरा एकु निबेरहु राम ॥
+जउ तुम अपने जन सौ कामु ॥१॥ रहाउ ॥
+इहु मनु बडा कि जा सउ मनु मानिआ ॥
+रामु बडा कै रामहि जानिआ ॥१॥
+ब्रहमा बडा कि जासु उपाइआ ॥
+बेदु बडा कि जहां ते आइआ ॥२॥
+कहि कबीर हउ भइआ उदासु ॥
+तीरथु बडा कि हरि का दासु ॥३॥४२॥331॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+झगरा (झगरा का आध्यात्मिक भाव) एकु (एक ही अद्वैत ब्रह्म) निबेरहु (निबेरहु का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) ॥
+जउ (यदि/जब) तुम (आप/तुम) अपने (अपने/स्वयं के) जन (भक्त/सेवक) सौ (से) कामु (काम-वासना/कर्म संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+इहु (यह) मनु (मन/अंतःकरण) बडा (महान/विशाल) कि (अथवा) जा (जिसका/जब) सउ (से) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥
+रामु (राम नाम की संबंधी) बडा (महान/विशाल) कै (के/का) रामहि (सर्वव्यापी परमात्मा (को/में)) जानिआ (जानिआ का आध्यात्मिक भाव) ॥ ॥
+ब्रहमा (ब्रहमा का आध्यात्मिक भाव) बडा (महान/विशाल) कि (अथवा) जासु (जिसका) उपाइआ (उत्पन्न किया, सृजन किया) ॥
+बेदु (वेदों) बडा (महान/विशाल) कि (अथवा) जहां (जहाँ/जिस स्थान पर) ते (से/द्वारा) आइआ (आया) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) हउ (मैं/अहंभाव) भइआ (हुआ/हो गया) उदासु (विषादग्रस्त/विरक्त) ॥
+तीरथु (तीर्थ) बडा (महान/विशाल) कि (अथवा) हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) दासु (अनन्य सेवक/भक्त) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jhagara (jhagara) eku (The One Supreme Lord) niberahu (niberahu) raam (The All-Pervading Lord (Ram)) .
+jau (if/when) tum (You/Thou) apane (one's own) jan (devotee/humble servant) sau (from/with) kaamu (carnal desire/work related) . . rahaau (pause for reflection, foundational theme) .
+ihu (this) manu (mind/inner spirit) bada (great/large) ki (or is it) ja (whose/when) sau (from/with) manu (mind/inner spirit) maania (maania) .
+raamu (Lord Rama's related) bada (great/large) kai (of) raamahi (The All-Pervading Lord (Ram) (unto/in)) jaania (jaania) . .
+brahama (brahama) bada (great/large) ki (or is it) jaasu (whose) upaaia (created, manifested into being) .
+bedu (Vedas) bada (great/large) ki (or is it) jahaan (wherever) te (from/by) aaia (came/arrived) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) bhaia (became) udaasu (sorrowful/detached) .
+teerathu (pilgrimage shrine) bada (great/large) ki (or is it) hari (The Lord who dispels grief (Hari)) ka (of) daasu (devoted servant) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! झगरा एकु निबेरहु राम—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jhagaraaekuniberahuraama—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 16: झगरा एकु निबेरहु राम'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-17"></a>
+## शब्द 17: देखौ भाई ग्यान की आई आंधी
+**English Title:** Shabad 17: Daekhaau Bhaaee Gayaana Kaee Aaee Aandhaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+देखौ भाई ग्यान की आई आंधी ॥
+सभै उडानी भ्रम की टाटी रहै न माइआ बांधी ॥१॥ रहाउ ॥
+दुचिते की दुइ थूनि गिरानी मोह बलेडा टूटा ॥
+तिसना छानि परी धर ऊपरि दुरमति भांडा फूटा ॥१॥
+आंधी पाछे जो जलु बरखै तिहि तेरा जनु भीनां ॥
+कहि कबीर मनि भइआ प्रगासा उदै भानु जब चीना ॥२॥४३॥331॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+देखौ (देखकर (को/ने)) भाई (हे भाई!/हे मित्र!) ग्यान (आत्मज्ञान, विवेक) की (की/संबंध-सूचक) आई (आई है) आंधी (आंधी का आध्यात्मिक भाव) ॥
+सभै (सब कुछ) उडानी (उडानी का आध्यात्मिक भाव) भ्रम (भ्रांति/संशय/अज्ञान) की (की/संबंध-सूचक) टाटी (घास-फूस की टटिया/दीवार) रहै (रहे/सदा रहे) न (नहीं) माइआ (माया/भ्रम) बांधी (बांधी का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दुचिते (दुचिते का आध्यात्मिक भाव) की (की/संबंध-सूचक) दुइ (दो (द्वैत)) थूनि (थूनि का आध्यात्मिक भाव) गिरानी (गिरानी का आध्यात्मिक भाव) मोह (सांसारिक आसक्ति) बलेडा (बलेडा का आध्यात्मिक भाव) टूटा (टूटा का आध्यात्मिक भाव) ॥
+तिसना (तिसना का आध्यात्मिक भाव) छानि (छानि का आध्यात्मिक भाव) परी (पड़ी हुई) धर (धर का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) दुरमति (दुर्बुद्धि/कुमति) भांडा (भांडा का आध्यात्मिक भाव) फूटा (फूटा (सधुक्कड़ी भाव)) ॥ ॥
+आंधी (आंधी का आध्यात्मिक भाव) पाछे (पीछे) जो (जिससे) जलु (पवित्र जल) बरखै (बरखै का आध्यात्मिक भाव) तिहि (उस) तेरा (तेरा/प्रभु का) जनु (मानो/जैसे कि) भीनां (भीनां का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) मनि (मन में) भइआ (हुआ/हो गया) प्रगासा (दिव्य प्रकाश) उदै (उदै (सधुक्कड़ी भाव)) भानु (भानु का आध्यात्मिक भाव) जब (जिस समय/जब) चीना (चीना का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+dekhau (beholding (unto/by)) bhaaee (O brother!) gyaan (divine wisdom, supreme spiritual knowledge) kee (of) aaee (has come) aandhee (aandhee) .
+sabhai (everything/all) udaanee (udaanee) bhram (illusion/doubt) kee (of) taatee (thatched reed screen) rahai (may abide/remain) n (not) maaia (cosmic illusion) baandhee (baandhee) . . rahaau (pause for reflection, foundational theme) .
+duchite (duchite) kee (of) dui (two/duality) thooni (thooni) giraanee (giraanee) moh (worldly attachment) baleda (baleda) toota (toota) .
+tisana (tisana) chhaani (chhaani) paree (fallen/lying) dhar (dhar) oopari (upon) duramati (evil-mindedness/folly) bhaanda (bhaanda) phoota (phoota (spiritual sense)) . .
+aandhee (aandhee) paachhe (behind/afterwards) jo (that) jalu (pure water) barakhai (barakhai) tihi (that) tera (thine/Lord's) janu (as if/devotee) bheenaan (bheenaan) .
+kahi (from (unto/in)) kabeer (Sant Kabir) mani (in the mind) bhaia (became) pragaasa (divine radiance) udai (udai (spiritual sense)) bhaanu (bhaanu) jab (at the time when) cheena (cheena) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! देखौ भाई ग्यान की आई आंधी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! dekhaubhaaeegyaanakeeaaeeaandhee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 17: देखौ भाई ग्यान की आई आंधी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-18"></a>
+## शब्द 18: हरि जसु सुनहि न हरि गुन गावहि
+**English Title:** Shabad 18: Harai Jasau Saunahai Na Harai Gauna Gaavahai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हरि जसु सुनहि न हरि गुन गावहि ॥
+बातन ही असमानु गिरावहि ॥१॥
+ऐसे लोगन सिउ किआ कहीऐ ॥
+जो प्रभ कीए भगति ते बाहज तिन ते सदा डराने रहीऐ ॥१॥ रहाउ ॥
+आपि न देहि चुरू भरि पानी ॥
+तिह निंदहि जिह गंगा आनी ॥२॥
+बैठत उठत कुटिलता चालहि ॥
+आपु गए अउरन हू घालहि ॥३॥
+छाडि कुचरचा आन न जानहि ॥
+ब्रहमा हू को कहिओ न मानहि ॥४॥
+आपु गए अउरन हू खोवहि ॥
+आगि लगाइ मंदर मै सोवहि ॥५॥
+अवरन हसत आप हहि कांने ॥
+तिन कउ देखि कबीर लजाने ॥६॥१॥४४॥332॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हरि (दुख-हर्ता परमात्मा) जसु (यश/कीर्ति) सुनहि (सुनहि का आध्यात्मिक भाव) न (नहीं) हरि (दुख-हर्ता परमात्मा) गुन (गुण/पुण्य) गावहि (गावहि का आध्यात्मिक भाव) ॥
+बातन (बातन का आध्यात्मिक भाव) ही (केवल/मात्र) असमानु (असमानु का आध्यात्मिक भाव) गिरावहि (गिरावहि का आध्यात्मिक भाव) ॥ ॥
+ऐसे (इस प्रकार) लोगन (लोगन का आध्यात्मिक भाव) सिउ (से/साथ) किआ (क्या) कहीऐ (कहिए) ॥
+जो (जिससे) प्रभ (परमेश्वर/प्रभु) कीए (किए/बनाए) भगति (प्रेम-भक्ति) ते (से/द्वारा) बाहज (बाहज का आध्यात्मिक भाव) तिन (उन्होंने/उनका) ते (से/द्वारा) सदा (सर्वदा/सदा) डराने (डराने का आध्यात्मिक भाव) रहीऐ (रहना चाहिए) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आपि (स्वयं/परमात्मा) न (नहीं) देहि (दो) चुरू (चुरू का आध्यात्मिक भाव) भरि (आंसुओं से भर (में/करके)) पानी (शीतल जल) ॥
+तिह (उस/उनका) निंदहि (निंदहि का आध्यात्मिक भाव) जिह (जिस) गंगा (पवित्र गंगा नदी/शुद्ध अंतःकरण) आनी (आकर) ॥ ॥
+बैठत (बैठत का आध्यात्मिक भाव) उठत (उठत का आध्यात्मिक भाव) कुटिलता (कपट/कुटिलता) चालहि (चालहि का आध्यात्मिक भाव) ॥
+आपु (स्वयं) गए (बीतते) अउरन (अउरन का आध्यात्मिक भाव) हू (भी) घालहि (घालहि का आध्यात्मिक भाव) ॥ ॥
+छाडि (छोड़कर) कुचरचा (कुचरचा का आध्यात्मिक भाव) आन (आकर) न (नहीं) जानहि (प्राण/जीवन (को/में)) ॥
+ब्रहमा (ब्रहमा का आध्यात्मिक भाव) हू (भी) को (को/की ओर) कहिओ (से (को/में) संबंधी) न (नहीं) मानहि (मानहि का आध्यात्मिक भाव) ॥ ॥
+आपु (स्वयं) गए (बीतते) अउरन (अउरन का आध्यात्मिक भाव) हू (भी) खोवहि (खोवहि का आध्यात्मिक भाव) ॥
+आगि (आगि का आध्यात्मिक भाव) लगाइ (लगाइ का आध्यात्मिक भाव) मंदर (महल/मंदिर) मै (मैं/मैंने) सोवहि (सोवहि का आध्यात्मिक भाव) ॥ ॥
+अवरन (वर्ण-रहित/अन्य जन) हसत (हसत का आध्यात्मिक भाव) आप (स्वयं/परमात्मा) हहि (हैं) कांने (कांने का आध्यात्मिक भाव) ॥
+तिन (उन्होंने/उनका) कउ (को) देखि (देखकर संबंधी) कबीर (संत कबीर जी) लजाने (लजाने का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+hari (The Lord who dispels grief (Hari)) jasu (glory/praise) sunahi (sunahi) n (not) hari (The Lord who dispels grief (Hari)) gun (virtues/merits) gaavahi (gaavahi) .
+baatan (baatan) hee (alone/only) asamaanu (asamaanu) giraavahi (giraavahi) . .
+aise (like this) logan (logan) siu (with/from) kia (what) kaheeai (one should speak) .
+jo (that) prabh (Supreme Lord) keee (done/fashioned) bhagati (loving devotion) te (from/by) baahaj (baahaj) tin (they/them) te (from/by) sada (always/eternally) daraane (daraane) raheeai (one should abide) . . rahaau (pause for reflection, foundational theme) .
+aapi (Himself/oneself) n (not) dehi (give) churoo (churoo) bhari (welled up (in/having done)) paanee (water) .
+tih (that/their) nindahi (nindahi) jih (which) ganga (Holy Ganges/pure inner spirit) aanee (coming) . .
+baithat (baithat) uthat (uthat) kutilata (deceit/wickedness) chaalahi (chaalahi) .
+aapu (oneself) gae (went) auran (auran) hoo (even/also) ghaalahi (ghaalahi) . .
+chhaadi (having left) kucharacha (kucharacha) aan (coming) n (not) jaanahi (life/soul (unto/in)) .
+brahama (brahama) hoo (even/also) ko (unto/toward) kahio (from (unto/in) related) n (not) maanahi (maanahi) . .
+aapu (oneself) gae (went) auran (auran) hoo (even/also) khovahi (khovahi) .
+aagi (aagi) lagaai (lagaai) mandar (palaces/mansions) mai (I/by me) sovahi (sovahi) . .
+avaran (casteless/others) hasat (hasat) aap (Himself/oneself) hahi (they are) kaanne (kaanne) .
+tin (they/them) kau (unto) dekhi (beholding related) kabeer (Sant Kabir) lajaane (lajaane) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हरि जसु सुनहि न हरि गुन गावहि—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! harijasusunahinaharigunagaavahi—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 18: हरि जसु सुनहि न हरि गुन गावहि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-19"></a>
+## शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही
+**English Title:** Shabad 19: Jaeevata Paitara Na Maanaai Kaooo Maooen Sairaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जीवत पितर न मानै कोऊ मूएं सिराध कराही ॥
+पितर भी बपुरे कहु किउ पावहि कऊआ कूकर खाही ॥१॥
+मो कउ कुसलु बतावहु कोई ॥
+कुसलु कुसलु करते जगु बिनसै कुसलु भी कैसे होई ॥१॥ रहाउ ॥
+माटी के करि देवी देवा तिसु आगै जीउ देही ॥
+ऐसे पितर तुमारे कहीअहि आपन कहिआ न लेही ॥२॥
+सरजीउ काटहि निरजीउ पूजहि अंत काल कउ भारी ॥
+राम नाम की गति नही जानी भै डूबे संसारी ॥३॥
+देवी देवा पूजहि डोलहि पारब्रहमु नही जाना ॥
+कहत कबीर अकुलु नही चेतिआ बिखिआ सिउ लपटाना ॥४॥१॥४५॥332॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जीवत (जीवित रहते हुए) पितर (पितर का आध्यात्मिक भाव) न (नहीं) मानै (अहंकार (करता है/ने)) कोऊ (कोई भी) मूएं (मूएं का आध्यात्मिक भाव) सिराध (सिराध का आध्यात्मिक भाव) कराही (कराही का आध्यात्मिक भाव) ॥
+पितर (पितर का आध्यात्मिक भाव) भी (इसके अतिरिक्त/भी) बपुरे (नगर संबंधी) कहु (बताओ) किउ (अथवा) पावहि (पाते हैं) कऊआ (कऊआ का आध्यात्मिक भाव) कूकर (कूकर का आध्यात्मिक भाव) खाही (खाही का आध्यात्मिक भाव) ॥ ॥
+मो (मुझे/मुझको) कउ (को) कुसलु (कुसलु का आध्यात्मिक भाव) बतावहु (बतावहु का आध्यात्मिक भाव) कोई (कोई भी जन) ॥
+कुसलु (कुसलु का आध्यात्मिक भाव) कुसलु (कुसलु का आध्यात्मिक भाव) करते (करते का आध्यात्मिक भाव) जगु (सम्पूर्ण जगत/संसार) बिनसै (बिनसै (सधुक्कड़ी भाव)) कुसलु (कुसलु का आध्यात्मिक भाव) भी (इसके अतिरिक्त/भी) कैसे (किस प्रकार) होई (तय हुआ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+माटी (मृत्तिका, नश्वर देह) के (के/संबंध-सूचक) करि (करके/हाथ से) देवी (प्रभु/परमेश्वर) देवा (हे देवाधिदेव!) तिसु (उसको) आगै (आगै (सधुक्कड़ी भाव)) जीउ (मन/जी) देही (काया/शरीर) ॥
+ऐसे (इस प्रकार) पितर (पितर का आध्यात्मिक भाव) तुमारे (तुमने संबंधी) कहीअहि (कहीअहि का आध्यात्मिक भाव) आपन (स्वयं/परमात्मा (लोग/समूह)) कहिआ (कहिआ का आध्यात्मिक भाव) न (नहीं) लेही (लेही का आध्यात्मिक भाव) ॥ ॥
+सरजीउ (सरजीउ का आध्यात्मिक भाव) काटहि (काटहि का आध्यात्मिक भाव) निरजीउ (निरजीउ का आध्यात्मिक भाव) पूजहि (पूजहि का आध्यात्मिक भाव) अंत (रहस्य) काल (काल/मृत्यु) कउ (को) भारी (कठिन/गंभीर) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) की (की/संबंध-सूचक) गति (परम गति/मुक्ति) नही (नहीं) जानी (के प्यारे) भै (भय/डर) डूबे (डूबे का आध्यात्मिक भाव) संसारी (संसारी (सधुक्कड़ी भाव)) ॥ ॥
+देवी (प्रभु/परमेश्वर) देवा (हे देवाधिदेव!) पूजहि (पूजहि का आध्यात्मिक भाव) डोलहि (डोलहि का आध्यात्मिक भाव) पारब्रहमु (पारब्रहमु का आध्यात्मिक भाव) नही (नहीं) जाना (जाना/प्रस्थान करना) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) अकुलु (अकुलु का आध्यात्मिक भाव) नही (नहीं) चेतिआ (चेतिआ का आध्यात्मिक भाव) बिखिआ (विषय-विकार, माया) सिउ (से/साथ) लपटाना (लपटाना का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jeevat (while living) pitar (pitar) n (not) maanai (pride (does/by)) kooo (anyone) mooen (mooen) siraadh (siraadh) karaahee (karaahee) .
+pitar (pitar) bhee (also/even) bapure (city related) kahu (tell) kiu (or is it) paavahi (they obtain) kaooa (kaooa) kookar (kookar) khaahee (khaahee) . .
+mo (unto me) kau (unto) kusalu (kusalu) bataavahu (bataavahu) koee (anyone) .
+kusalu (kusalu) kusalu (kusalu) karate (karate) jagu (the world/mortal realm) binasai (binasai (spiritual sense)) kusalu (kusalu) bhee (also/even) kaise (how) hoee (transpired) . . rahaau (pause for reflection, foundational theme) .
+maatee (clay, mortal human vessel) ke (of) kari (having done/with hands) devee (Divine Lord) deva (O Divine Lord!) tisu (unto that one) aagai (aagai (spiritual sense)) jeeu (heart/mind) dehee (mortal body/frame) .
+aise (like this) pitar (pitar) tumaare (you related) kaheeahi (kaheeahi) aapan (Himself/oneself (folk/plural)) kahia (kahia) n (not) lehee (lehee) . .
+sarajeeu (sarajeeu) kaatahi (kaatahi) nirajeeu (nirajeeu) poojahi (poojahi) ant (inner core) kaal (death/time) kau (unto) bhaaree (heavy/severe) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) kee (of) gati (spiritual emancipation) nahee (not) jaanee (darling) bhai (fear/dread) doobe (doobe) sansaaree (sansaaree (spiritual sense)) . .
+devee (Divine Lord) deva (O Divine Lord!) poojahi (poojahi) dolahi (dolahi) paarabrahamu (paarabrahamu) nahee (not) jaana (to depart) .
+kahat (speaking/saying) kabeer (Sant Kabir) akulu (akulu) nahee (not) chetia (chetia) bikhia (sensory poison, worldly illusions) siu (with/from) lapataana (lapataana) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जीवत पितर न मानै कोऊ मूएं सिराध कराही—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jeevatapitaranamaanaikooomooensiraadhakaraahee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-20"></a>
+## शब्द 20: राम जपउ जीअ ऐसे ऐसे
+**English Title:** Shabad 20: Raama Japau Jaeea Aisae Aisae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+राम जपउ जीअ ऐसे ऐसे ॥
+ध्रू प्रहिलाद जपिओ हरि जैसे ॥१॥
+दीन दइआल भरोसे तेरे ॥
+सभु परवारु चड़ाइआ बेड़े ॥१॥ रहाउ ॥
+जा तिसु भावै ता हुकमु मनावै ॥
+इस बेड़े कउ पारि लघावै ॥२॥
+गुर परसादि ऐसी बुधि समानी ॥
+चूकि गई फिरि आवन जानी ॥३॥
+कहु कबीर भजु सारिगपानी ॥
+उरवारि पारि सभ एको दानी ॥४॥२॥१०॥६१॥337॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+राम (सर्वव्यापी परमात्मा) जपउ (जपउ का आध्यात्मिक भाव) जीअ (जीवात्मा/प्राण) ऐसे (इस प्रकार) ऐसे (इस प्रकार) ॥
+ध्रू (ध्रू (सधुक्कड़ी भाव)) प्रहिलाद (प्रहिलाद का आध्यात्मिक भाव) जपिओ (जपिओ का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) जैसे (जिस प्रकार) ॥ ॥
+दीन (निर्बल, असहाय, धर्म) दइआल (दइआल का आध्यात्मिक भाव) भरोसे (भरोस (सधुक्कड़ी भाव)) तेरे (तेरे विरह के) ॥
+सभु (सब कुछ/सम्पूर्ण) परवारु (परवारु का आध्यात्मिक भाव) चड़ाइआ (चड़ाइआ का आध्यात्मिक भाव) बेड़े (बेड़े का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जा (जिसका/जब) तिसु (उसको) भावै (जैसा मन चाहे) ता (उस पर/उसका) हुकमु (हुकमु का आध्यात्मिक भाव) मनावै (मनावै का आध्यात्मिक भाव) ॥
+इस (इस संसारी) बेड़े (बेड़े का आध्यात्मिक भाव) कउ (को) पारि (भवसागर से पार, मुक्ति) लघावै (लघावै का आध्यात्मिक भाव) ॥ ॥
+गुर (गुरु के) परसादि (कृपा/अनुग्रह से) ऐसी (इस विरह रूपी) बुधि (बुद्धि/मति) समानी (समा गई/व्याप्त हुई) ॥
+चूकि (चूकि का आध्यात्मिक भाव) गई (गई अपनी) फिरि (फिर भी (में/करके)) आवन (आवन का आध्यात्मिक भाव) जानी (के प्यारे) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) भजु (भजु का आध्यात्मिक भाव) सारिगपानी (सारिगपानी का आध्यात्मिक भाव) ॥
+उरवारि (इस पार/संसार-तट) पारि (भवसागर से पार, मुक्ति) सभ (सब) एको (एको (सधुक्कड़ी भाव)) दानी (दान/खैरात) ॥ ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raam (The All-Pervading Lord (Ram)) japau (japau) jeea (living soul/breath) aise (like this) aise (like this) .
+dhroo (dhroo (spiritual sense)) prahilaad (prahilaad) japio (japio) hari (The Lord who dispels grief (Hari)) jaise (just as) . .
+deen (the meek, the righteous cause) daiaal (daiaal) bharose (bharos (spiritual sense)) tere (in Your) .
+sabhu (everything/all) paravaaru (paravaaru) chadaaia (chadaaia) bede (bede) . . rahaau (pause for reflection, foundational theme) .
+ja (whose/when) tisu (unto that one) bhaavai (as pleases the heart) ta (upon that/his) hukamu (hukamu) manaavai (manaavai) .
+is (this) bede (bede) kau (unto) paari (across the ocean of rebirth, ultimate liberation) laghaavai (laghaavai) . .
+gur (of the Master) parasaadi (by divine grace) aisee (such) budhi (intellect/wit) samaanee (permeated within) .
+chooki (chooki) gaee (became) phiri (then (in/having done)) aavan (aavan) jaanee (darling) . .
+kahu (tell) kabeer (Sant Kabir) bhaju (bhaju) saarigapaanee (saarigapaanee) .
+uravaari (this mortal shore) paari (across the ocean of rebirth, ultimate liberation) sabh (all) eko (eko (spiritual sense)) daanee (charity/alms) . . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! राम जपउ जीअ ऐसे ऐसे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raamajapaujeeaaiseaise—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 20: राम जपउ जीअ ऐसे ऐसे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-21"></a>
+## शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु
+**English Title:** Shabad 21: Sauraga Baasau Na Baachhaeeai Daraeeai Na Narakai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु ॥
+होना है सो होई है मनहि न कीजै आस ॥१॥
+रमईआ गुन गाईऐ ॥
+जा ते पाईऐ परम निधानु ॥१॥ रहाउ ॥
+किआ जपु किआ तपु संजमो किआ बरतु किआ इसनानु ॥
+जब लगु जुगति न जानीऐ भाउ भगति भगवान ॥२॥
+स्मपै देखि न हरखीऐ बिपति देखि न रोइ ॥
+जिउ स्मपै तिउ बिपति है बिध ने रचिआ सो होइ ॥३॥
+कहि कबीर अब जानिआ संतन रिदै मझारि ॥
+सेवक सो सेवा भले जिह घट बसै मुरारि ॥४॥१॥१२॥६३॥337॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सुरग (सुरग का आध्यात्मिक भाव) बासु (सुगंध संबंधी) न (नहीं) बाछीऐ (बाछीऐ का आध्यात्मिक भाव) डरीऐ (डरीऐ का आध्यात्मिक भाव) न (नहीं) नरकि (दोज़ख़ संबंधी) निवासु (बिना/निवास) ॥
+होना (होना का आध्यात्मिक भाव) है (है कि) सो (वह/वही) होई (तय हुआ) है (है कि) मनहि (मनहि का आध्यात्मिक भाव) न (नहीं) कीजै (कीजिए) आस (आशा) ॥ ॥
+रमईआ (सर्वव्यापी राम, ईश्वर) गुन (गुण/पुण्य) गाईऐ (गाईऐ का आध्यात्मिक भाव) ॥
+जा (जिसका/जब) ते (से/द्वारा) पाईऐ (पाईऐ का आध्यात्मिक भाव) परम (सर्वोच्च/परम) निधानु (निधानु का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+किआ (क्या) जपु (स्मरण/जाप) किआ (क्या) तपु (तपस्या/तप) संजमो (संजम (सधुक्कड़ी भाव)) किआ (क्या) बरतु (बरतु का आध्यात्मिक भाव) किआ (क्या) इसनानु (इसनानु का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) जुगति (युक्ति/साधना-विधि) न (नहीं) जानीऐ (प्राण/जीवन संबंधी) भाउ (भाव/मूल्य) भगति (प्रेम-भक्ति) भगवान (परमात्मा/भगवान) ॥ ॥
+स्मपै (स्मपै का आध्यात्मिक भाव) देखि (देखकर संबंधी) न (नहीं) हरखीऐ (हरखीऐ का आध्यात्मिक भाव) बिपति (स्वामी संबंधी) देखि (देखकर संबंधी) न (नहीं) रोइ (रोइ का आध्यात्मिक भाव) ॥
+जिउ (जैसे/ज्यों) स्मपै (स्मपै का आध्यात्मिक भाव) तिउ (वैसे/त्यों) बिपति (स्वामी संबंधी) है (है कि) बिध (बिध का आध्यात्मिक भाव) ने (नहीं) रचिआ (रचिआ का आध्यात्मिक भाव) सो (वह/वही) होइ (होकर) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) अब (अब/इस समय) जानिआ (जानिआ का आध्यात्मिक भाव) संतन (संतन का आध्यात्मिक भाव) रिदै (हृदय में) मझारि (मझारि का आध्यात्मिक भाव) ॥
+सेवक (अनन्य सेवक/दास) सो (वह/वही) सेवा (समर्पित भक्ति) भले (भल (सधुक्कड़ी भाव)) जिह (जिस) घट (हृदय/शरीर) बसै (निवास करे/बसे) मुरारि (मुरारी/परमेश्वर) ॥ ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+surag (surag) baasu (fragrance related) n (not) baachheeai (baachheeai) dareeai (dareeai) n (not) naraki (hell related) nivaasu (without dwelling) .
+hona (hona) hai (is) so (that/the same) hoee (transpired) hai (is) manahi (manahi) n (not) keejai (please do) aas (hope) . .
+ramaeea (all-pervading Divine Rama) gun (virtues/merits) gaaeeai (gaaeeai) .
+ja (whose/when) te (from/by) paaeeai (paaeeai) param (supreme/highest) nidhaanu (nidhaanu) . . rahaau (pause for reflection, foundational theme) .
+kia (what) japu (chanting/meditation) kia (what) tapu (austerity/penance) sanjamo (sanjam (spiritual sense)) kia (what) baratu (baratu) kia (what) isanaanu (isanaanu) .
+jab (at the time when) lagu (cling to/attach) jugati (spiritual method/skill) n (not) jaaneeai (life/soul related) bhaau (prices) bhagati (loving devotion) bhagavaan (Supreme Lord/God) . .
+smapai (smapai) dekhi (beholding related) n (not) harakheeai (harakheeai) bipati (Lord related) dekhi (beholding related) n (not) roi (roi) .
+jiu (just as) smapai (smapai) tiu (in that manner) bipati (Lord related) hai (is) bidh (bidh) ne (not) rachia (rachia) so (that/the same) hoi (having become) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) ab (now) jaania (jaania) santan (santan) ridai (in the heart) majhaari (majhaari) .
+sevak (devoted servant) so (that/the same) seva (devoted service) bhale (bhal (spiritual sense)) jih (which) ghat (body/inner temple) basai (may dwell/reside) muraari (Lord Murari) . . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! suragabaasunabaachheeaidareeainanarakinivaasu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-22"></a>
+## शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु
+**English Title:** Shabad 22: Rae Mana Taerao Kaoi Nahaee Khainchai Laei Ja
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु ॥
+बिरख बसेरो पंखि को तैसो इहु संसारु ॥१॥
+राम रसु पीआ रे ॥
+जिह रस बिसरि गए रस अउर ॥१॥ रहाउ ॥
+अउर मुए किआ रोईऐ जउ आपा थिरु न रहाइ ॥
+जो उपजै सो बिनसि है दुखु करि रोवै बलाइ ॥२॥
+जह की उपजी तह रची पीवत मरदन लाग ॥
+कहि कबीर चिति चेतिआ राम सिमरि बैराग ॥३॥२॥१३॥६४॥337॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) तेरो (तेरा) कोइ (को/की ओर (में/करके)) नही (नहीं) खिंचि (खिंचि का आध्यात्मिक भाव) लेइ (लेकर (में/करके)) जिनि (मत/जिसने) भारु (बोझ संबंधी) ॥
+बिरख (बिरख (सधुक्कड़ी भाव)) बसेरो (बसेरो का आध्यात्मिक भाव) पंखि (पक्षी/चिड़िया) को (को/की ओर) तैसो (तैसो का आध्यात्मिक भाव) इहु (यह) संसारु (संसार) ॥ ॥
+राम (सर्वव्यापी परमात्मा) रसु (हरि-नाम का अमृत रस) पीआ (पान किया/पिया) रे (रा (रज़ा व समर्पण)) ॥
+जिह (जिस) रस (अमृत-रस) बिसरि (बिसरि का आध्यात्मिक भाव) गए (बीतते) रस (अमृत-रस) अउर (अन्य/दूसरा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+अउर (अन्य/दूसरा) मुए (मुए का आध्यात्मिक भाव) किआ (क्या) रोईऐ (रोईऐ का आध्यात्मिक भाव) जउ (यदि/जब) आपा (अहंकार, स्व-भाव) थिरु (स्थिर/अविचल) न (नहीं) रहाइ (रहाइ का आध्यात्मिक भाव) ॥
+जो (जिससे) उपजै (उत्पन्न होता है) सो (वह/वही) बिनसि (नष्ट होकर) है (है कि) दुखु (दुख/संताप) करि (करके/हाथ से) रोवै (रोवै का आध्यात्मिक भाव) बलाइ (बलाइ का आध्यात्मिक भाव) ॥ ॥
+जह (जहाँ/जिस स्थान पर) की (की/संबंध-सूचक) उपजी (उपजी (सधुक्कड़ी भाव)) तह (वहाँ) रची (रची (सधुक्कड़ी भाव)) पीवत (पीवत (सधुक्कड़ी भाव)) मरदन (मरदन का आध्यात्मिक भाव) लाग (प्रेम-संबंध/लगन) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) चिति (चित्त/ध्यान) चेतिआ (चेतिआ का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) सिमरि (सिमरि का आध्यात्मिक भाव) बैराग (वैराग्य/विरक्ति) ॥ ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+re (Re (Divine Will)) man (mind/inner consciousness) tero (thy/thine) koi (unto/to (in/having done)) nahee (not) khinchi (khinchi) lei (taking/having taken (in/having done)) jini (do not/who) bhaaru (heavy burden related) .
+birakh (birakh (spiritual sense)) basero (basero) pankhi (bird) ko (unto/toward) taiso (taiso) ihu (this) sansaaru (the world) . .
+raam (The All-Pervading Lord (Ram)) rasu (nectar of divine essence) peea (drank nectar) re (Re (Divine Will)) .
+jih (which) ras (nectar) bisari (bisari) gae (went) ras (nectar) aur (other/another) . . rahaau (pause for reflection, foundational theme) .
+aur (other/another) mue (mue) kia (what) roeeai (roeeai) jau (if/when) aapa (egotism, individual vanity) thiru (steadfast/eternal) n (not) rahaai (rahaai) .
+jo (that) upajai (springs forth/arises) so (that/the same) binasi (having perished) hai (is) dukhu (sorrow/misery) kari (having done/with hands) rovai (rovai) balaai (balaai) . .
+jah (wherever) kee (of) upajee (upajee (spiritual sense)) tah (there) rachee (rachee (spiritual sense)) peevat (peevat (spiritual sense)) maradan (maradan) laag (spark of love/attachment) .
+kahi (from (unto/in)) kabeer (Sant Kabir) chiti (consciousness/attention) chetia (chetia) raam (The All-Pervading Lord (Ram)) simari (simari) bairaag (detachment/renunciation) . . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! remanaterokoinaheekhinchileijinibhaaru—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-23"></a>
+## शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे
+**English Title:** Shabad 23: Mana Rae Chhaadahau Bharamau Paragata Haoi Naacha
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे ॥
+सूरु कि सनमुख रन ते डरपै सती कि सांचै भांडे ॥१॥
+डगमग छाडि रे मन बउरा ॥
+अब तउ जरे मरे सिधि पाईऐ लीनो हाथि संधउरा ॥१॥ रहाउ ॥
+काम क्रोध माइआ के लीने इआ बिधि जगतु बिगूता ॥
+कहि कबीर राजा राम न छोडउ सगल ऊच ते ऊचा ॥२॥२॥१७॥६८॥338॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मन (मन/चित्त) रे (रा (रज़ा व समर्पण)) छाडहु (छाडहु का आध्यात्मिक भाव) भरमु (भ्रम) प्रगट (प्रगट (सधुक्कड़ी भाव)) होइ (होकर) नाचहु (नाचहु का आध्यात्मिक भाव) इआ (इआ का आध्यात्मिक भाव) माइआ (माया/भ्रम) के (के/संबंध-सूचक) डांडे (डांडे का आध्यात्मिक भाव) ॥
+सूरु (सूअर/विषय-विकार) कि (अथवा) सनमुख (सनमुख (सधुक्कड़ी भाव)) रन (रन का आध्यात्मिक भाव) ते (से/द्वारा) डरपै (डरता है/भयभीत होता है) सती (सत्य/सदाचार) कि (अथवा) सांचै (सांचै का आध्यात्मिक भाव) भांडे (भांडे का आध्यात्मिक भाव) ॥ ॥
+डगमग (डोलना, विचलित होना) छाडि (छोड़कर) रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) बउरा (बउरा का आध्यात्मिक भाव) ॥
+अब (अब/इस समय) तउ (तब/तो भी) जरे (जरे का आध्यात्मिक भाव) मरे (मरे का आध्यात्मिक भाव) सिधि (आध्यात्मिक सिद्धि, पूर्णता) पाईऐ (पाईऐ का आध्यात्मिक भाव) लीनो (लीन (सधुक्कड़ी भाव)) हाथि (कर संबंधी) संधउरा (संधउरा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+काम (कामना/वासना) क्रोध (क्रोध/गुस्सा) माइआ (माया/भ्रम) के (के/संबंध-सूचक) लीने (ले लिए/स्वीकार किए) इआ (इआ का आध्यात्मिक भाव) बिधि (विधि/रीति) जगतु (संसार संबंधी) बिगूता (बिगूता का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) राजा (आदर्श शासन/राज संबंधी) राम (सर्वव्यापी परमात्मा) न (नहीं) छोडउ (छोडउ का आध्यात्मिक भाव) सगल (संपूर्ण/समस्त) ऊच (उच्च/सर्वोच्च) ते (से/द्वारा) ऊचा (उच्च/सर्वोच्च) ॥ ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+man (mind/inner consciousness) re (Re (Divine Will)) chhaadahu (chhaadahu) bharamu (illusion/doubt) pragat (pragat (spiritual sense)) hoi (having become) naachahu (naachahu) ia (ia) maaia (cosmic illusion) ke (of) daande (daande) .
+sooru (wild boars/base vices) ki (or is it) sanamukh (sanamukh (spiritual sense)) ran (ran) te (from/by) darapai (fears/trembles) satee (Truth/righteousness) ki (or is it) saanchai (saanchai) bhaande (bhaande) . .
+dagamag (wavering, trembling in doubt) chhaadi (having left) re (Re (Divine Will)) man (mind/inner consciousness) baura (baura) .
+ab (now) tau (then/still) jare (jare) mare (mare) sidhi (spiritual perfection, mystical power) paaeeai (paaeeai) leeno (leen (spiritual sense)) haathi (hand related) sandhaura (sandhaura) . . rahaau (pause for reflection, foundational theme) .
+kaam (lust/desire) krodh (wrath/anger) maaia (cosmic illusion) ke (of) leene (accepted/taken) ia (ia) bidhi (manner/way) jagatu (of the world related) bigoota (bigoota) .
+kahi (from (unto/in)) kabeer (Sant Kabir) raaja (realm/kingdom related) raam (The All-Pervading Lord (Ram)) n (not) chhodau (chhodau) sagal (all/entire) ooch (high/exalted) te (from/by) oocha (high/exalted) . . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! manarechhaadahubharamupragatahoinaachahuiaamaaia—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-24"></a>
+## शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे
+**English Title:** Shabad 24: Lakha Chauraasaeeha Jaeea Jaonai Mahai Bharamata
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे ॥
+भगति हेति अवतारु लीओ है भागु बडो बपुरा को रे ॥१॥
+तुम्ह जु कहत हउ नंद को नंदनु नंद सु नंदनु का को रे ॥
+धरनि अकासु दसो दिस नाही तब इहु नंदु कहा थो रे ॥१॥ रहाउ ॥
+संकटि नही परै जोनि नही आवै नामु निरंजन जा को रे ॥
+कबीर को सुआमी ऐसो ठाकुरु जा कै माई न बापो रे ॥२॥१९॥७०॥338॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+लख (लख का आध्यात्मिक भाव) चउरासीह (चउरासीह का आध्यात्मिक भाव) जीअ (जीवात्मा/प्राण) जोनि (जिससे (के/में)) महि (में/भीतर) भ्रमत (भ्रांति/संशय/अज्ञान (करते हुए)) नंदु (नंदु का आध्यात्मिक भाव) बहु (अनेक) थाको (थाको का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+भगति (प्रेम-भक्ति) हेति (स्नेह/प्रीति) अवतारु (अवतार/प्रकट रूप) लीओ (लीओ का आध्यात्मिक भाव) है (है कि) भागु (किस्मत) बडो (विशाल/महान) बपुरा (अमर नगर/धाम संबंधी) को (को/की ओर) रे (रा (रज़ा व समर्पण)) ॥ ॥
+तुम्ह (तुम/आप) जु (जो/जो कोई) कहत (कहते हुए) हउ (मैं/अहंभाव) नंद (नंद का आध्यात्मिक भाव) को (को/की ओर) नंदनु (नंदनु का आध्यात्मिक भाव) नंद (नंद का आध्यात्मिक भाव) सु (वह) नंदनु (नंदनु का आध्यात्मिक भाव) का (का/संबंध-सूचक) को (को/की ओर) रे (रा (रज़ा व समर्पण)) ॥
+धरनि (रखकर (के/में)) अकासु (गगन/आकाश) दसो (दस इंद्रियां/संख्या दस) दिस (दिशा) नाही (नहीं) तब (उस समय/तब) इहु (यह) नंदु (नंदु का आध्यात्मिक भाव) कहा (क्या/कहाँ) थो (थो का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+संकटि (विपत्ति/संकट) नही (नहीं) परै (किन्तु/परन्तु (करता है/ने)) जोनि (जिससे (के/में)) नही (नहीं) आवै (आता है) नामु (सत्य-नाम) निरंजन (मायातीत, निर्लेप) जा (जिसका/जब) को (को/की ओर) रे (रा (रज़ा व समर्पण)) ॥
+कबीर (संत कबीर जी) को (को/की ओर) सुआमी (स्वामी/परमात्मा) ऐसो (ऐसो का आध्यात्मिक भाव) ठाकुरु (ठाकुरद्वारा/मंदिर संबंधी) जा (जिसका/जब) कै (के/का) माई (हे माता!/हे सखी!) न (नहीं) बापो (पिता) रे (रा (रज़ा व समर्पण)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+lakh (lakh) chauraaseeh (chauraaseeh) jeea (living soul/breath) joni (that (of/in)) mahi (within/in) bhramat (illusion/doubt (while doing)) nandu (nandu) bahu (many) thaako (thaako) re (Re (Divine Will)) .
+bhagati (loving devotion) heti (love/affection) avataaru (divine incarnation) leeo (leeo) hai (is) bhaagu (fortune/destiny) bado (great) bapura (eternal city/realm related) ko (unto/toward) re (Re (Divine Will)) . .
+tumh (You/Thou) ju (who/whoever) kahat (speaking/saying) hau (I/ego) nand (nand) ko (unto/toward) nandanu (nandanu) nand (nand) su (that) nandanu (nandanu) ka (of) ko (unto/toward) re (Re (Divine Will)) .
+dharani (placing (of/in)) akaasu (celestial firmament) daso (ten) dis (direction) naahee (not) tab (at that time/then) ihu (this) nandu (nandu) kaha (what/where) tho (tho) re (Re (Divine Will)) . . rahaau (pause for reflection, foundational theme) .
+sankati (crisis/adversity) nahee (not) parai (but/upon (does/by)) joni (that (of/in)) nahee (not) aavai (comes/arrives) naamu (True Name) niranjan (immaculate, untainted by Maya) ja (whose/when) ko (unto/toward) re (Re (Divine Will)) .
+kabeer (Sant Kabir) ko (unto/toward) suaamee (Lord/Master) aiso (aiso) thaakuru (temple related) ja (whose/when) kai (of) maaee (O mother/O friend!) n (not) baapo (father) re (Re (Divine Will)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! lakhachauraaseehajeeajonimahibhramatanandubahuth—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-25"></a>
+## शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ
+**English Title:** Shabad 25: Naindau Naindau Mao Kau Laogau Naindau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+निंदउ निंदउ मो कउ लोगु निंदउ ॥
+निंदा जन कउ खरी पिआरी ॥
+निंदा बापु निंदा महतारी ॥१॥ रहाउ ॥
+निंदा होइ त बैकुंठि जाईऐ ॥
+नामु पदारथु मनहि बसाईऐ ॥
+रिदै सुध जउ निंदा होइ ॥
+हमरे कपरे निंदकु धोइ ॥१॥
+निंदा करै सु हमरा मीतु ॥
+निंदक माहि हमारा चीतु ॥
+निंदकु सो जो निंदा होरै ॥
+हमरा जीवनु निंदकु लोरै ॥२॥
+निंदा हमरी प्रेम पिआरु ॥
+निंदा हमरा करै उधारु ॥
+जन कबीर कउ निंदा सारु ॥
+निंदकु डूबा हम उतरे पारि ॥३॥२०॥७१॥339॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+निंदउ (निंदउ का आध्यात्मिक भाव) निंदउ (निंदउ का आध्यात्मिक भाव) मो (मुझे/मुझको) कउ (को) लोगु (संसार के लोग) निंदउ (निंदउ का आध्यात्मिक भाव) ॥
+निंदा (अपकीर्ति/निंदा) जन (भक्त/सेवक) कउ (को) खरी (सच्ची/शुद्ध) पिआरी (ईश्वरीय प्रेम) ॥
+निंदा (अपकीर्ति/निंदा) बापु (पिता) निंदा (अपकीर्ति/निंदा) महतारी (महतारी का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+निंदा (अपकीर्ति/निंदा) होइ (होकर) त (तो फिर/निश्चय ही) बैकुंठि (बैकुंठ (सधुक्कड़ी भाव)) जाईऐ (जाईऐ का आध्यात्मिक भाव) ॥
+नामु (सत्य-नाम) पदारथु (पदारथ (सधुक्कड़ी भाव)) मनहि (मनहि का आध्यात्मिक भाव) बसाईऐ (बसाईऐ का आध्यात्मिक भाव) ॥
+रिदै (हृदय में) सुध (चेतना) जउ (यदि/जब) निंदा (अपकीर्ति/निंदा) होइ (होकर) ॥
+हमरे (हमरे का आध्यात्मिक भाव) कपरे (दूर संबंधी) निंदकु (निंदक जन) धोइ (धोइ का आध्यात्मिक भाव) ॥ ॥
+निंदा (अपकीर्ति/निंदा) करै (करके (करता है/ने)) सु (वह) हमरा (हमारा) मीतु (सच्चा मित्र/सखा) ॥
+निंदक (निंदा करने वाला) माहि (में/अंदर) हमारा (हम भक्तों का) चीतु (चीतु का आध्यात्मिक भाव) ॥
+निंदकु (निंदक जन) सो (वह/वही) जो (जिससे) निंदा (अपकीर्ति/निंदा) होरै (होरै का आध्यात्मिक भाव) ॥
+हमरा (हमारा) जीवनु (जीना संबंधी) निंदकु (निंदक जन) लोरै (लोरै का आध्यात्मिक भाव) ॥ ॥
+निंदा (अपकीर्ति/निंदा) हमरी (हमारी) प्रेम (परम प्रेम/इश्क) पिआरु (ईश्वरीय प्रेम) ॥
+निंदा (अपकीर्ति/निंदा) हमरा (हमारा) करै (करके (करता है/ने)) उधारु (उधारु का आध्यात्मिक भाव) ॥
+जन (भक्त/सेवक) कबीर (संत कबीर जी) कउ (को) निंदा (अपकीर्ति/निंदा) सारु (तत्व, अमृत) ॥
+निंदकु (निंदक जन) डूबा (डूबा का आध्यात्मिक भाव) हम (हम सब प्राणी) उतरे (उतरे का आध्यात्मिक भाव) पारि (भवसागर से पार, मुक्ति) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+nindau (nindau) nindau (nindau) mo (unto me) kau (unto) logu (worldly folk) nindau (nindau) .
+ninda (slander/evil-speaking) jan (devotee/humble servant) kau (unto) kharee (true/genuine) piaaree (divine love) .
+ninda (slander/evil-speaking) baapu (father) ninda (slander/evil-speaking) mahataaree (mahataaree) . . rahaau (pause for reflection, foundational theme) .
+ninda (slander/evil-speaking) hoi (having become) t (then indeed) baikunthi (baikunth (spiritual sense)) jaaeeai (jaaeeai) .
+naamu (True Name) padaarathu (padaarath (spiritual sense)) manahi (manahi) basaaeeai (basaaeeai) .
+ridai (in the heart) sudh (awareness) jau (if/when) ninda (slander/evil-speaking) hoi (having become) .
+hamare (hamare) kapare (aside related) nindaku (scoffer/slanderer) dhoi (dhoi) . .
+ninda (slander/evil-speaking) karai (doing (does/by)) su (that) hamara (our/ours) meetu (true friend/companion) .
+nindak (slanderer) maahi (within) hamaara (our/ours) cheetu (cheetu) .
+nindaku (scoffer/slanderer) so (that/the same) jo (that) ninda (slander/evil-speaking) horai (horai) .
+hamara (our/ours) jeevanu (life related) nindaku (scoffer/slanderer) lorai (lorai) . .
+ninda (slander/evil-speaking) hamaree (our) prem (Divine Love) piaaru (divine love) .
+ninda (slander/evil-speaking) hamara (our/ours) karai (doing (does/by)) udhaaru (udhaaru) .
+jan (devotee/humble servant) kabeer (Sant Kabir) kau (unto) ninda (slander/evil-speaking) saaru (essence, supreme truth) .
+nindaku (scoffer/slanderer) dooba (dooba) ham (we mortal beings) utare (utare) paari (across the ocean of rebirth, ultimate liberation) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! निंदउ निंदउ मो कउ लोगु निंदउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! nindaunindaumokaulogunindau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-27"></a>
+## शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई
+**English Title:** Shabad 27: Haindaoo Tauraka Kahaa Tae Aae Kainai Eha Ra
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हिंदू तुरक कहा ते आए किनि एह राह चलाई ॥
+दिल महि सोचि बिचारि कवादे भिसत दोजक किनि पाई ॥१॥
+काजी तै कवन कतेब बखानी ॥
+पड़्हत गुनत ऐसे सभ मारे किनहूं खबरि न जानी ॥१॥ रहाउ ॥
+सकति सनेहु करि सुंनति करीऐ मै न बदउगा भाई ॥
+जउ रे खुदाइ मोहि तुरकु करैगा आपन ही कटि जाई ॥२॥
+सुंनति कीए तुरकु जे होइगा अउरत का किआ करीऐ ॥
+अरध सरीरी नारि न छोडै ता ते हिंदू ही रहीऐ ॥३॥
+छाडि कतेब रामु भजु बउरे जुलम करत है भारी ॥
+कबीरै पकरी टेक राम की तुरक रहे पचिहारी ॥४॥८॥477॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हिंदू (हिंदू जन) तुरक (मुसलमान/तुर्क) कहा (क्या/कहाँ) ते (से/द्वारा) आए (आए का आध्यात्मिक भाव) किनि (किन लोगों ने/किनको (में/करके)) एह (ये सब) राह (राह का आध्यात्मिक भाव) चलाई (चलाई का आध्यात्मिक भाव) ॥
+दिल (हृदय) महि (में/भीतर) सोचि (चिंता/फिक्र (में/करके)) बिचारि (चारों संबंधी) कवादे (कवादे का आध्यात्मिक भाव) भिसत (भिसत का आध्यात्मिक भाव) दोजक (दोजक का आध्यात्मिक भाव) किनि (किन लोगों ने/किनको (में/करके)) पाई (प्राप्त कर लिया) ॥ ॥
+काजी (न्यायाधीश, धर्मगुरु) तै (तूने/से) कवन (कौन/कैसा) कतेब (पवित्र आसमानी धर्मग्रंथ) बखानी (बखानी का आध्यात्मिक भाव) ॥
+पड़्हत (पड़्हत का आध्यात्मिक भाव) गुनत (गुनत का आध्यात्मिक भाव) ऐसे (इस प्रकार) सभ (सब) मारे (प्रियतम के विरह के) किनहूं (किनहूं का आध्यात्मिक भाव) खबरि (खबरि का आध्यात्मिक भाव) न (नहीं) जानी (के प्यारे) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सकति (सकति (सधुक्कड़ी भाव)) सनेहु (सनेह (सधुक्कड़ी भाव)) करि (करके/हाथ से) सुंनति (सुंनति का आध्यात्मिक भाव) करीऐ (करीऐ का आध्यात्मिक भाव) मै (मैं/मैंने) न (नहीं) बदउगा (बदउगा का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+जउ (यदि/जब) रे (रा (रज़ा व समर्पण)) खुदाइ (खुदाइ का आध्यात्मिक भाव) मोहि (मुझको/मुझे) तुरकु (मुसलमान/तुर्क) करैगा (करैगा का आध्यात्मिक भाव) आपन (स्वयं/परमात्मा (लोग/समूह)) ही (केवल/मात्र) कटि (काटकर/नष्ट करके) जाई (जाओ) ॥ ॥
+सुंनति (सुंनति का आध्यात्मिक भाव) कीए (किए/बनाए) तुरकु (मुसलमान/तुर्क) जे (यदि) होइगा (होइगा का आध्यात्मिक भाव) अउरत (अउरत का आध्यात्मिक भाव) का (का/संबंध-सूचक) किआ (क्या) करीऐ (करीऐ का आध्यात्मिक भाव) ॥
+अरध (अरध का आध्यात्मिक भाव) सरीरी (मानव शरीर/देह) नारि (स्त्री/नारी) न (नहीं) छोडै (छोडै का आध्यात्मिक भाव) ता (उस पर/उसका) ते (से/द्वारा) हिंदू (हिंदू जन) ही (केवल/मात्र) रहीऐ (रहना चाहिए) ॥ ॥
+छाडि (छोड़कर) कतेब (पवित्र आसमानी धर्मग्रंथ) रामु (राम नाम की संबंधी) भजु (भजु का आध्यात्मिक भाव) बउरे (बावरे/पागल) जुलम (जुलम का आध्यात्मिक भाव) करत (करते) है (है कि) भारी (कठिन/गंभीर) ॥
+कबीरै (संत कबीर जी) पकरी (पकरी का आध्यात्मिक भाव) टेक (स्थायी पंक्ति, मूल भाव) राम (सर्वव्यापी परमात्मा) की (की/संबंध-सूचक) तुरक (मुसलमान/तुर्क) रहे (रहे हैं पर) पचिहारी (पचिहारी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+hindoo (Hindu) turak (Muslim/Turk) kaha (what/where) te (from/by) aae (aae) kini (by whom/unto whom (in/having done)) eh (these) raah (raah) chalaaee (chalaaee) .
+dil (heart) mahi (within/in) sochi (anxiety/worry (in/having done)) bichaari (four related) kavaade (kavaade) bhisat (bhisat) dojak (dojak) kini (by whom/unto whom (in/having done)) paaee (have found/attained) . .
+kaajee (Qazi, Islamic theologian) tai (by thee/from) kavan (who/what) kateb (holy scriptures) bakhaanee (bakhaanee) .
+padhat (padhat) gunat (gunat) aise (like this) sabh (all) maare (afflicted by) kinahoon (kinahoon) khabari (khabari) n (not) jaanee (darling) . . rahaau (pause for reflection, foundational theme) .
+sakati (sakati (spiritual sense)) sanehu (saneh (spiritual sense)) kari (having done/with hands) sunnati (sunnati) kareeai (kareeai) mai (I/by me) n (not) badauga (badauga) bhaaee (O brother!) .
+jau (if/when) re (Re (Divine Will)) khudaai (khudaai) mohi (unto me) turaku (Muslim/Turk) karaiga (karaiga) aapan (Himself/oneself (folk/plural)) hee (alone/only) kati (having severed/destroyed) jaaee (slip away) . .
+sunnati (sunnati) keee (done/fashioned) turaku (Muslim/Turk) je (if) hoiga (hoiga) aurat (aurat) ka (of) kia (what) kareeai (kareeai) .
+aradh (aradh) sareeree (mortal body) naari (woman/spouse) n (not) chhodai (chhodai) ta (upon that/his) te (from/by) hindoo (Hindu) hee (alone/only) raheeai (one should abide) . .
+chhaadi (having left) kateb (holy scriptures) raamu (Lord Rama's related) bhaju (bhaju) baure (insane/deluded) julam (julam) karat (doing) hai (is) bhaaree (heavy/severe) .
+kabeerai (Sant Kabir) pakaree (pakaree) tek (refrain, central thematic anchor) raam (The All-Pervading Lord (Ram)) kee (of) turak (Muslim/Turk) rahe (remain) pachihaaree (pachihaaree) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हिंदू तुरक कहा ते आए किनि एह राह चलाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! hindooturakakahaateaaekinieharaahachalaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-28"></a>
+## शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥
+**English Title:** Shabad 28: Jaba Lagau Taelau Daeevae Maukhai Baataee Taba
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥
+तेल जले बाती ठहरानी सूंना मंदरु होई ॥१॥
+रे बउरे तुहि घरी न राखै कोई ॥
+तूं राम नामु जपि सोई ॥१॥ रहाउ ॥
+का की मात पिता कहु का को कवन पुरख की जोई ॥
+घट फूटे कोऊ बात न पूछै काढहु काढहु होई ॥२॥
+देहुरी बैठी माता रोवै खटीआ ले गए भाई ॥
+लट छिटकाए तिरीआ रोवै हंसु इकेला जाई ॥३॥
+कहत कबीर सुनहु रे संतहु भै सागर कै ताई ॥
+इसु बंदे सिरि जुलमु होत है जमु नही हटै गुसाई ॥४॥९॥478॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जब (जिस समय/जब) लगु (लगो/समीप आओ) तेलु (दीपक का तेल) दीवे (दीवे का आध्यात्मिक भाव) मुखि (चेहरा (में/करके)) बाती (दीप की वर्तिका/बाती) तब (उस समय/तब) सूझै (समझ/दृष्टि (करता है/होता है)) सभु (सब कुछ/सम्पूर्ण) कोई (कोई भी जन) ॥
+तेल (तेल का आध्यात्मिक भाव) जले (पानी) बाती (दीप की वर्तिका/बाती) ठहरानी (ठहरानी का आध्यात्मिक भाव) सूंना (सूंना का आध्यात्मिक भाव) मंदरु (महल/मंदिर) होई (तय हुआ) ॥ ॥
+रे (रा (रज़ा व समर्पण)) बउरे (बावरे/पागल) तुहि (तुझे) घरी (घड़ी/क्षण) न (नहीं) राखै (रक्षा करता है) कोई (कोई भी जन) ॥
+तूं (तू/हे प्रभु!) राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) जपि (जप करके) सोई (वही) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+का (का/संबंध-सूचक) की (की/संबंध-सूचक) मात (मात का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) कहु (बताओ) का (का/संबंध-सूचक) को (को/की ओर) कवन (कौन/कैसा) पुरख (पुरख का आध्यात्मिक भाव) की (की/संबंध-सूचक) जोई (जो कोई भी) ॥
+घट (हृदय/शरीर) फूटे (फूटे का आध्यात्मिक भाव) कोऊ (कोई भी) बात (कथन) न (नहीं) पूछै (पूछै का आध्यात्मिक भाव) काढहु (काढहु का आध्यात्मिक भाव) काढहु (काढहु का आध्यात्मिक भाव) होई (तय हुआ) ॥ ॥
+देहुरी (देहुरी का आध्यात्मिक भाव) बैठी (बैठी का आध्यात्मिक भाव) माता (जननी/माता) रोवै (रोवै का आध्यात्मिक भाव) खटीआ (खटीआ का आध्यात्मिक भाव) ले (लेकर) गए (बीतते) भाई (हे भाई!/हे मित्र!) ॥
+लट (लट का आध्यात्मिक भाव) छिटकाए (छिटकाए का आध्यात्मिक भाव) तिरीआ (तिरीआ का आध्यात्मिक भाव) रोवै (रोवै का आध्यात्मिक भाव) हंसु (हंसु का आध्यात्मिक भाव) इकेला (अकेला/एकाकी) जाई (जाओ) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) भै (भय/डर) सागर (भवसागर/समुद्र) कै (के/का) ताई (ताई का आध्यात्मिक भाव) ॥
+इसु (इस संसारी) बंदे (मनुष्य, सेवक) सिरि (शीश संबंधी) जुलमु (जुलमु का आध्यात्मिक भाव) होत (दुखों से) है (है कि) जमु (यमराज/मृत्यु) नही (नहीं) हटै (हटै का आध्यात्मिक भाव) गुसाई (गुसाई का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jab (at the time when) lagu (cling to/attach) telu (lamp oil) deeve (deeve) mukhi (face (in/having done)) baatee (lamp-wick) tab (at that time/then) soojhai (spiritual insight (does/becomes)) sabhu (everything/all) koee (anyone) .
+tel (tel) jale (water) baatee (lamp-wick) thaharaanee (thaharaanee) soonna (soonna) mandaru (palaces/mansions) hoee (transpired) . .
+re (Re (Divine Will)) baure (insane/deluded) tuhi (thee) gharee (moment/instant) n (not) raakhai (preserves/protects) koee (anyone) .
+toon (Thou) raam (The All-Pervading Lord (Ram)) naamu (True Name) japi (having chanted/meditated) soee (the very same) . . rahaau (pause for reflection, foundational theme) .
+ka (of) kee (of) maat (maat) pita (ancestors/forefathers) kahu (tell) ka (of) ko (unto/toward) kavan (who/what) purakh (purakh) kee (of) joee (whosoever) .
+ghat (body/inner temple) phoote (phoote) kooo (anyone) baat (word/matter) n (not) poochhai (poochhai) kaadhahu (kaadhahu) kaadhahu (kaadhahu) hoee (transpired) . .
+dehuree (dehuree) baithee (baithee) maata (mother) rovai (rovai) khateea (khateea) le (taking/having taken) gae (went) bhaaee (O brother!) .
+lat (lat) chhitakaae (chhitakaae) tireea (tireea) rovai (rovai) hansu (hansu) ikela (solitary/alone) jaaee (slip away) . .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) bhai (fear/dread) saagar (ocean/sea) kai (of) taaee (taaee) .
+isu (this) bande (beings, servants of God) siri (head related) julamu (julamu) hot (griefs) hai (is) jamu (Yamraj/Death) nahee (not) hatai (hatai) gusaaee (gusaaee) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jabalaguteludeevemukhibaateetabasoojhaisabhuk—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-29"></a>
+## शब्द 29: सुतु अपराध करत है जेते
+**English Title:** Shabad 29: Sautau Aparaadha Karata Haai Jaetae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सुतु अपराध करत है जेते ॥
+जननी चीति न राखसि तेते ॥१॥
+रामईआ हउ बारिकु तेरा ॥
+काहे न खंडसि अवगनु मेरा ॥१॥ रहाउ ॥
+जे अति क्रोप करे करि धाइआ ॥
+ता भी चीति न राखसि माइआ ॥२॥
+चिंत भवनि मनु परिओ हमारा ॥
+नाम बिना कैसे उतरसि पारा ॥३॥
+देहि बिमल मति सदा सरीरा ॥
+सहजि सहजि गुन रवै कबीरा ॥४॥३॥१२॥478॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सुतु (पुत्र/बेटा) अपराध (अपराध का आध्यात्मिक भाव) करत (करते) है (है कि) जेते (जितने) ॥
+जननी (जननी का आध्यात्मिक भाव) चीति (चीति का आध्यात्मिक भाव) न (नहीं) राखसि (राखसि का आध्यात्मिक भाव) तेते (तेते का आध्यात्मिक भाव) ॥ ॥
+रामईआ (राम नाम की संबंधी) हउ (मैं/अहंभाव) बारिकु (बारिकु का आध्यात्मिक भाव) तेरा (तेरा/प्रभु का) ॥
+काहे (किसलिए/क्यों) न (नहीं) खंडसि (खंडसि का आध्यात्मिक भाव) अवगनु (अवगनु का आध्यात्मिक भाव) मेरा (मेरा/अधीन) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जे (यदि) अति (अत्यंत/बहुत) क्रोप (क्रोप का आध्यात्मिक भाव) करे (करता है) करि (करके/हाथ से) धाइआ (धाइआ का आध्यात्मिक भाव) ॥
+ता (उस पर/उसका) भी (इसके अतिरिक्त/भी) चीति (चीति का आध्यात्मिक भाव) न (नहीं) राखसि (राखसि का आध्यात्मिक भाव) माइआ (माया/भ्रम) ॥ ॥
+चिंत (चिंता/फिक्र) भवनि (लोक/सदन) मनु (मन/अंतःकरण) परिओ (परिओ का आध्यात्मिक भाव) हमारा (हम भक्तों का) ॥
+नाम (परम पावन नाम) बिना (बिना/रहित) कैसे (किस प्रकार) उतरसि (उतरसि का आध्यात्मिक भाव) पारा (पारा (सधुक्कड़ी भाव)) ॥ ॥
+देहि (दो) बिमल (निर्मल/स्वच्छ) मति (बुद्धि/समझ) सदा (सर्वदा/सदा) सरीरा (मानव शरीर/देह) ॥
+सहजि (सहज अवस्था में) सहजि (सहज अवस्था में) गुन (गुण/पुण्य) रवै (रमता है/स्मरण करता है) कबीरा (संत कबीर जी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sutu (son) aparaadh (aparaadh) karat (doing) hai (is) jete (as many as) .
+jananee (jananee) cheeti (cheeti) n (not) raakhasi (raakhasi) tete (tete) . .
+raamaeea (Lord Rama's related) hau (I/ego) baariku (baariku) tera (thine/Lord's) .
+kaahe (wherefore/why) n (not) khandasi (khandasi) avaganu (avaganu) mera (my/mine) . . rahaau (pause for reflection, foundational theme) .
+je (if) ati (exceedingly/greatly) krop (krop) kare (makes) kari (having done/with hands) dhaaia (dhaaia) .
+ta (upon that/his) bhee (also/even) cheeti (cheeti) n (not) raakhasi (raakhasi) maaia (cosmic illusion) . .
+chint (anxiety/worry) bhavani (cosmic mansion/realm) manu (mind/inner spirit) pario (pario) hamaara (our/ours) .
+naam (Divine Name) bina (without) kaise (how) utarasi (utarasi) paara (paara (spiritual sense)) . .
+dehi (give) bimal (pure/unblemished) mati (intellect/mind) sada (always/eternally) sareera (mortal body) .
+sahaji (in spontaneous poise) sahaji (in spontaneous poise) gun (virtues/merits) ravai (abides/chants) kabeera (Sant Kabir) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सुतु अपराध करत है जेते—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sutuaparaadhakaratahaijete—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 29: सुतु अपराध करत है जेते'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-30"></a>
+## शब्द 30: हज हमारी गोमती तीर
+**English Title:** Shabad 30: Haja Hamaaraee Gaomataee Taeera
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हज हमारी गोमती तीर ॥
+जहा बसहि पीत्मबर पीर ॥१॥
+वाहु वाहु किआ खूबु गावता है ॥
+हरि का नामु मेरै मनि भावता है ॥१॥ रहाउ ॥
+नारद सारद करहि खवासी ॥
+पासि बैठी बीबी कवला दासी ॥२॥
+कंठे माला जिहवा रामु ॥
+सहंस नामु लै लै करउ सलामु ॥३॥
+कहत कबीर राम गुन गावउ ॥
+हिंदू तुरक दोऊ समझावउ ॥४॥४॥१३॥478॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हज (हज का आध्यात्मिक भाव) हमारी (मेरी) गोमती (गोमती का आध्यात्मिक भाव) तीर (बाण) ॥
+जहा (जहाँ) बसहि (बसते हैं) पीत्मबर (पीत्मबर का आध्यात्मिक भाव) पीर (सद्गुरु) ॥ ॥
+वाहु (वाहु का आध्यात्मिक भाव) वाहु (वाहु का आध्यात्मिक भाव) किआ (क्या) खूबु (सुंदर/उत्कृष्ट) गावता (गावत (सधुक्कड़ी भाव)) है (है कि) ॥
+हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) नामु (सत्य-नाम) मेरै (मेर (सधुक्कड़ी भाव)) मनि (मन में) भावता (भावता का आध्यात्मिक भाव) है (है कि) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+नारद (देवर्षि नारद) सारद (सारद का आध्यात्मिक भाव) करहि (करते हैं) खवासी (खवासी का आध्यात्मिक भाव) ॥
+पासि (समीप/पास में) बैठी (बैठी का आध्यात्मिक भाव) बीबी (बीबी का आध्यात्मिक भाव) कवला (कवल (सधुक्कड़ी भाव)) दासी (अनन्य सेवक/भक्त) ॥ ॥
+कंठे (कंठे का आध्यात्मिक भाव) माला (जपमाला/सुमिरनी) जिहवा (जिहवा का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) ॥
+सहंस (सहंस (सधुक्कड़ी भाव)) नामु (सत्य-नाम) लै (ले) लै (ले) करउ (करके) सलामु (सलामु का आध्यात्मिक भाव) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) राम (सर्वव्यापी परमात्मा) गुन (गुण/पुण्य) गावउ (गावउ का आध्यात्मिक भाव) ॥
+हिंदू (हिंदू जन) तुरक (मुसलमान/तुर्क) दोऊ (दोनों को) समझावउ (समझावउ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+haj (haj) hamaaree (my) gomatee (gomatee) teer (arrow) .
+jaha (wherever) basahi (dwell) peetmabar (peetmabar) peer (spiritual master) . .
+vaahu (vaahu) vaahu (vaahu) kia (what) khoobu (wondrous/beauteous) gaavata (gaavat (spiritual sense)) hai (is) .
+hari (The Lord who dispels grief (Hari)) ka (of) naamu (True Name) merai (mer (spiritual sense)) mani (in the mind) bhaavata (bhaavata) hai (is) . . rahaau (pause for reflection, foundational theme) .
+naarad (Narada the divine sage) saarad (saarad) karahi (they do) khavaasee (khavaasee) .
+paasi (near/close to) baithee (baithee) beebee (beebee) kavala (kaval (spiritual sense)) daasee (devoted servant) . .
+kanthe (kanthe) maala (rosary of beads) jihava (jihava) raamu (Lord Rama's related) .
+sahans (sahans (spiritual sense)) naamu (True Name) lai (bringing) lai (bringing) karau (doing) salaamu (salaamu) . .
+kahat (speaking/saying) kabeer (Sant Kabir) raam (The All-Pervading Lord (Ram)) gun (virtues/merits) gaavau (gaavau) .
+hindoo (Hindu) turak (Muslim/Turk) dooo (both) samajhaavau (samajhaavau) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हज हमारी गोमती तीर—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! hajahamaareegomateeteera—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 30: हज हमारी गोमती तीर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-31"></a>
+## शब्द 31: पाती तोरै मालिनी पाती पाती जीउ
+**English Title:** Shabad 31: Paataee Taoraai Maalainaee Paataee Paataee Jaeeu
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+पाती तोरै मालिनी पाती पाती जीउ ॥
+जिसु पाहन कउ पाती तोरै सो पाहन निरजीउ ॥१॥
+भूली मालनी है एउ ॥
+सतिगुरु जागता है देउ ॥१॥ रहाउ ॥
+ब्रहमु पाती बिसनु डारी फूल संकरदेउ ॥
+तीनि देव प्रतखि तोरहि करहि किस की सेउ ॥२॥
+पाखान गढि कै मूरति कीन्ही दे कै छाती पाउ ॥
+जे एह मूरति साची है तउ गड़्हणहारे खाउ ॥३॥
+भातु पहिति अरु लापसी करकरा कासारु ॥
+भोगनहारे भोगिआ इसु मूरति के मुख छारु ॥४॥
+मालिनि भूली जगु भुलाना हम भुलाने नाहि ॥
+कहु कबीर हम राम राखे क्रिपा करि हरि राइ ॥५॥१॥१४॥479॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+पाती (पत्ते/छिलके संबंधी) तोरै (तेरा/तुम्हारी (करता है/होता है)) मालिनी (मालिनी का आध्यात्मिक भाव) पाती (पत्ते/छिलके संबंधी) पाती (पत्ते/छिलके संबंधी) जीउ (मन/जी) ॥
+जिसु (जिसके विरह में) पाहन (पाहन का आध्यात्मिक भाव) कउ (को) पाती (पत्ते/छिलके संबंधी) तोरै (तेरा/तुम्हारी (करता है/होता है)) सो (वह/वही) पाहन (पाहन का आध्यात्मिक भाव) निरजीउ (निरजीउ का आध्यात्मिक भाव) ॥ ॥
+भूली (भूली का आध्यात्मिक भाव) मालनी (मालनी का आध्यात्मिक भाव) है (है कि) एउ (एउ का आध्यात्मिक भाव) ॥
+सतिगुरु (सच्चे सद्गुरु) जागता (जागता का आध्यात्मिक भाव) है (है कि) देउ (देउ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+ब्रहमु (ब्रहमु का आध्यात्मिक भाव) पाती (पत्ते/छिलके संबंधी) बिसनु (बिसन (सधुक्कड़ी भाव)) डारी (छोड़ देना, त्यागना) फूल (फूलों का) संकरदेउ (संकरदेउ का आध्यात्मिक भाव) ॥
+तीनि (तीन (गुण/लोक)) देव (प्रभु/परमेश्वर) प्रतखि (प्रतखि का आध्यात्मिक भाव) तोरहि (तोड़ते हैं) करहि (करते हैं) किस (किस जन को/किसको) की (की/संबंध-सूचक) सेउ (सेउ का आध्यात्मिक भाव) ॥ ॥
+पाखान (पाखान का आध्यात्मिक भाव) गढि (गढि का आध्यात्मिक भाव) कै (के/का) मूरति (छवि (में/करके)) कीन्ही (कीन्ह (सधुक्कड़ी भाव)) दे (के/पास) कै (के/का) छाती (छाती का आध्यात्मिक भाव) पाउ (पाउ का आध्यात्मिक भाव) ॥
+जे (यदि) एह (ये सब) मूरति (छवि (में/करके)) साची (सत्य/सच्ची) है (है कि) तउ (तब/तो भी) गड़्हणहारे (गड़्हणहारे का आध्यात्मिक भाव) खाउ (खाउ का आध्यात्मिक भाव) ॥ ॥
+भातु (भातु का आध्यात्मिक भाव) पहिति (पहिति का आध्यात्मिक भाव) अरु (और) लापसी (लापसी का आध्यात्मिक भाव) करकरा (करकरा का आध्यात्मिक भाव) कासारु (कासारु का आध्यात्मिक भाव) ॥
+भोगनहारे (भोगनहारे का आध्यात्मिक भाव) भोगिआ (भोगिआ का आध्यात्मिक भाव) इसु (इस संसारी) मूरति (छवि (में/करके)) के (के/संबंध-सूचक) मुख (चेहरा) छारु (छारु का आध्यात्मिक भाव) ॥ ॥
+मालिनि (मालिनि का आध्यात्मिक भाव) भूली (भूली का आध्यात्मिक भाव) जगु (सम्पूर्ण जगत/संसार) भुलाना (भुलाना (सधुक्कड़ी भाव)) हम (हम सब प्राणी) भुलाने (भुलाने का आध्यात्मिक भाव) नाहि (नहीं) ॥
+कहु (बताओ) कबीर (संत कबीर जी) हम (हम सब प्राणी) राम (सर्वव्यापी परमात्मा) राखे (राखे का आध्यात्मिक भाव) क्रिपा (कृपा/अनुग्रह) करि (करके/हाथ से) हरि (दुख-हर्ता परमात्मा) राइ (राइ (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+paatee (layers of leaves related) torai (thy/thine (does/becomes)) maalinee (maalinee) paatee (layers of leaves related) paatee (layers of leaves related) jeeu (heart/mind) .
+jisu (for whom) paahan (paahan) kau (unto) paatee (layers of leaves related) torai (thy/thine (does/becomes)) so (that/the same) paahan (paahan) nirajeeu (nirajeeu) . .
+bhoolee (bhoolee) maalanee (maalanee) hai (is) eu (eu) .
+satiguru (True Divine Master) jaagata (jaagata) hai (is) deu (deu) . . rahaau (pause for reflection, foundational theme) .
+brahamu (brahamu) paatee (layers of leaves related) bisanu (bisan (spiritual sense)) daaree (discard, cast away) phool (blossoms') sankaradeu (sankaradeu) .
+teeni (three) dev (Divine Lord) pratakhi (pratakhi) torahi (they break) karahi (they do) kis (unto whom/whom) kee (of) seu (seu) . .
+paakhaan (paakhaan) gadhi (gadhi) kai (of) moorati (form (in/having done)) keenhee (keenh (spiritual sense)) de (of/unto) kai (of) chhaatee (chhaatee) paau (paau) .
+je (if) eh (these) moorati (form (in/having done)) saachee (true/genuine) hai (is) tau (then/still) gadhanahaare (gadhanahaare) khaau (khaau) . .
+bhaatu (bhaatu) pahiti (pahiti) aru (and) laapasee (laapasee) karakara (karakara) kaasaaru (kaasaaru) .
+bhoganahaare (bhoganahaare) bhogia (bhogia) isu (this) moorati (form (in/having done)) ke (of) mukh (face) chhaaru (chhaaru) . .
+maalini (maalini) bhoolee (bhoolee) jagu (the world/mortal realm) bhulaana (bhulaana (spiritual sense)) ham (we mortal beings) bhulaane (bhulaane) naahi (not) .
+kahu (tell) kabeer (Sant Kabir) ham (we mortal beings) raam (The All-Pervading Lord (Ram)) raakhe (raakhe) kripa (grace/mercy) kari (having done/with hands) hari (The Lord who dispels grief (Hari)) raai (raai (spiritual sense)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! पाती तोरै मालिनी पाती पाती जीउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! paateetoraimaalineepaateepaateejeeu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 31: पाती तोरै मालिनी पाती पाती जीउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-32"></a>
+## शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ
+**English Title:** Shabad 32: Baaraha Barasa Baalapana Baeetae Baeesa Barasa Kachha
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ ॥
+तीस बरस कछु देव न पूजा फिरि पछुताना बिरधि भइओ ॥१॥
+मेरी मेरी करते जनमु गइओ ॥
+साइरु सोखि भुजं बलइओ ॥१॥ रहाउ ॥
+सूके सरवरि पालि बंधावै लूणै खेति हथ वारि करै ॥
+आइओ चोरु तुरंतह ले गइओ मेरी राखत मुगधु फिरै ॥२॥
+चरन सीसु कर क्मपन लागे नैनी नीरु असार बहै ॥
+जिहवा बचनु सुधु नही निकसै तब रे धरम की आस करै ॥३॥
+हरि जीउ क्रिपा करै लिव लावै लाहा हरि हरि नामु लीओ ॥
+गुर परसादी हरि धनु पाइओ अंते चलदिआ नालि चलिओ ॥४॥
+कहत कबीर सुनहु रे संतहु अनु धनु कछूऐ लै न गइओ ॥
+आई तलब गोपाल राइ की माइआ मंदर छोडि चलिओ ॥५॥२॥१५॥479॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बारह (द्वार) बरस (वर्ष/साल) बालपन (बालपन का आध्यात्मिक भाव) बीते (बीते का आध्यात्मिक भाव) बीस (बीस (सधुक्कड़ी भाव)) बरस (वर्ष/साल) कछु (कुछ भी) तपु (तपस्या/तप) न (नहीं) कीओ (किया) ॥
+तीस (तीस का आध्यात्मिक भाव) बरस (वर्ष/साल) कछु (कुछ भी) देव (प्रभु/परमेश्वर) न (नहीं) पूजा (आराधना/पूजा) फिरि (फिर भी (में/करके)) पछुताना (पछुताना का आध्यात्मिक भाव) बिरधि (बिरधि (सधुक्कड़ी भाव)) भइओ (हुआ) ॥ ॥
+मेरी (मेरी जीवन-) मेरी (मेरी जीवन-) करते (करते का आध्यात्मिक भाव) जनमु (मानव जन्म) गइओ (गया) ॥
+साइरु (साइर (सधुक्कड़ी भाव)) सोखि (सोखि का आध्यात्मिक भाव) भुजं (भुज (सधुक्कड़ी भाव)) बलइओ (बलइओ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सूके (सूके का आध्यात्मिक भाव) सरवरि (सरवरि का आध्यात्मिक भाव) पालि (निभाओ) बंधावै (बंधावै का आध्यात्मिक भाव) लूणै (लूणै का आध्यात्मिक भाव) खेति (युद्धभूमि, संसार) हथ (हथ का आध्यात्मिक भाव) वारि (न्योछावर) करै (करके (करता है/ने)) ॥
+आइओ (आइओ का आध्यात्मिक भाव) चोरु (चोरु का आध्यात्मिक भाव) तुरंतह (तुरंतह का आध्यात्मिक भाव) ले (लेकर) गइओ (गया) मेरी (मेरी जीवन-) राखत (राखत का आध्यात्मिक भाव) मुगधु (मुगध (सधुक्कड़ी भाव)) फिरै (फिरै का आध्यात्मिक भाव) ॥ ॥
+चरन (कमल-चरण) सीसु (सिर पर संबंधी) कर (करके) क्मपन (क्मपन का आध्यात्मिक भाव) लागे (लगती है) नैनी (नेत्रों से) नीरु (जल, पानी) असार (असार का आध्यात्मिक भाव) बहै (बैठ (करता है/होता है)) ॥
+जिहवा (जिहवा का आध्यात्मिक भाव) बचनु (वाणी) सुधु (चेतना) नही (नहीं) निकसै (निकसै का आध्यात्मिक भाव) तब (उस समय/तब) रे (रा (रज़ा व समर्पण)) धरम (धर्म) की (की/संबंध-सूचक) आस (आशा) करै (करके (करता है/ने)) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) जीउ (मन/जी) क्रिपा (कृपा/अनुग्रह) करै (करके (करता है/ने)) लिव (एकतार ध्यान/सुरति) लावै (लगाता है) लाहा (लाहा का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) हरि (दुख-हर्ता परमात्मा) नामु (सत्य-नाम) लीओ (लीओ का आध्यात्मिक भाव) ॥
+गुर (गुरु के) परसादी (परसाद (सधुक्कड़ी भाव)) हरि (दुख-हर्ता परमात्मा) धनु (धन/संपत्ति) पाइओ (प्राप्त किया) अंते (रहस्य) चलदिआ (चलदिआ का आध्यात्मिक भाव) नालि (नालि का आध्यात्मिक भाव) चलिओ (चलिओ का आध्यात्मिक भाव) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) अनु (अन्य/दूसरा) धनु (धन/संपत्ति) कछूऐ (कछूऐ का आध्यात्मिक भाव) लै (ले) न (नहीं) गइओ (गया) ॥
+आई (आई है) तलब (तलब का आध्यात्मिक भाव) गोपाल (गोपाल (सधुक्कड़ी भाव)) राइ (राइ (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) माइआ (माया/भ्रम) मंदर (महल/मंदिर) छोडि (छोडि का आध्यात्मिक भाव) चलिओ (चलिओ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+baarah (door) baras (years) baalapan (baalapan) beete (beete) bees (bees (spiritual sense)) baras (years) kachhu (anything/something) tapu (austerity/penance) n (not) keeo (created/done) .
+tees (tees) baras (years) kachhu (anything/something) dev (Divine Lord) n (not) pooja (worship/devotion) phiri (then (in/having done)) pachhutaana (pachhutaana) biradhi (biradhi (spiritual sense)) bhaio (occurred/became) . .
+meree (my life's) meree (my life's) karate (karate) janamu (human birth) gaio (departed) .
+saairu (saair (spiritual sense)) sokhi (sokhi) bhujan (bhuj (spiritual sense)) balaio (balaio) . . rahaau (pause for reflection, foundational theme) .
+sooke (sooke) saravari (saravari) paali (preserve/honor) bandhaavai (bandhaavai) loonai (loonai) kheti (battlefield of life and mind) hath (hath) vaari (sacrifice) karai (doing (does/by)) .
+aaio (aaio) choru (choru) turantah (turantah) le (taking/having taken) gaio (departed) meree (my life's) raakhat (raakhat) mugadhu (mugadh (spiritual sense)) phirai (phirai) . .
+charan (lotus feet) seesu (on head related) kar (doing) kmapan (kmapan) laage (it touches) nainee (eyes) neeru (water, flowing stream) asaar (asaar) bahai (heart (does/becomes)) .
+jihava (jihava) bachanu (word) sudhu (awareness) nahee (not) nikasai (nikasai) tab (at that time/then) re (Re (Divine Will)) dharam (righteousness) kee (of) aas (hope) karai (doing (does/by)) . .
+hari (The Lord who dispels grief (Hari)) jeeu (heart/mind) kripa (grace/mercy) karai (doing (does/by)) liv (unbroken divine absorption) laavai (applies/attaches) laaha (laaha) hari (The Lord who dispels grief (Hari)) hari (The Lord who dispels grief (Hari)) naamu (True Name) leeo (leeo) .
+gur (of the Master) parasaadee (parasaad (spiritual sense)) hari (The Lord who dispels grief (Hari)) dhanu (wealth/riches) paaio (attained/found) ante (inner core) chaladia (chaladia) naali (naali) chalio (chalio) . .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) anu (other/alien) dhanu (wealth/riches) kachhooai (kachhooai) lai (bringing) n (not) gaio (departed) .
+aaee (has come) talab (talab) gopaal (gopaal (spiritual sense)) raai (raai (spiritual sense)) kee (of) maaia (cosmic illusion) mandar (palaces/mansions) chhodi (chhodi) chalio (chalio) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! baarahabarasabaalapanabeetebeesabarasakachhutapunakee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-33"></a>
+## शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा
+**English Title:** Shabad 33: Kaahaoo Daeenahae Paata Patamabara Kaahaoo Pala
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+काहू दीन्हे पाट पट्मबर काहू पलघ निवारा ॥
+काहू गरी गोदरी नाही काहू खान परारा ॥१॥
+अहिरख वादु न कीजै रे मन ॥
+सुक्रितु करि करि लीजै रे मन ॥१॥ रहाउ ॥
+कुम्हारै एक जु माटी गूंधी बहु बिधि बानी लाई ॥
+काहू महि मोती मुकताहल काहू बिआधि लगाई ॥२॥
+सूमहि धनु राखन कउ दीआ मुगधु कहै धनु मेरा ॥
+जम का डंडु मूंड महि लागै खिन महि करै निबेरा ॥३॥
+हरि जनु ऊतमु भगतु सदावै आगिआ मनि सुखु पाई ॥
+जो तिसु भावै सति करि मानै भाणा मंनि वसाई ॥४॥
+कहै कबीरु सुनहु रे संतहु मेरी मेरी झूठी ॥
+चिरगट फारि चटारा लै गइओ तरी तागरी छूटी ॥५॥३॥१६॥479॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+काहू (किसी को/किसी से) दीन्हे (दीन्हे का आध्यात्मिक भाव) पाट (पाट का आध्यात्मिक भाव) पट्मबर (पट्मबर का आध्यात्मिक भाव) काहू (किसी को/किसी से) पलघ (पलघ का आध्यात्मिक भाव) निवारा (निवारा का आध्यात्मिक भाव) ॥
+काहू (किसी को/किसी से) गरी (गरी का आध्यात्मिक भाव) गोदरी (गोदरी का आध्यात्मिक भाव) नाही (नहीं) काहू (किसी को/किसी से) खान (खान का आध्यात्मिक भाव) परारा (परारा का आध्यात्मिक भाव) ॥ ॥
+अहिरख (अहिरख का आध्यात्मिक भाव) वादु (वादु का आध्यात्मिक भाव) न (नहीं) कीजै (कीजिए) रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) ॥
+सुक्रितु (सुक्रितु का आध्यात्मिक भाव) करि (करके/हाथ से) करि (करके/हाथ से) लीजै (लीजिए/ग्रहण करें) रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कुम्हारै (माटी गढ़ने वाला, परम विधाता) एक (समान/एक जैसे) जु (जो/जो कोई) माटी (मृत्तिका, नश्वर देह) गूंधी (गूंधी का आध्यात्मिक भाव) बहु (अनेक) बिधि (विधि/रीति) बानी (वाणी/संत-वचन) लाई (मारी है) ॥
+काहू (किसी को/किसी से) महि (में/भीतर) मोती (सच्चे मुक्ता/मोती) मुकताहल (मुकताहल का आध्यात्मिक भाव) काहू (किसी को/किसी से) बिआधि (बिआधि का आध्यात्मिक भाव) लगाई (लगाया है) ॥ ॥
+सूमहि (सूमहि का आध्यात्मिक भाव) धनु (धन/संपत्ति) राखन (राखन का आध्यात्मिक भाव) कउ (को) दीआ (दीपक/दिया) मुगधु (मुगध (सधुक्कड़ी भाव)) कहै (पुकारे) धनु (धन/संपत्ति) मेरा (मेरा/अधीन) ॥
+जम (यमराज/मृत्यु) का (का/संबंध-सूचक) डंडु (दंड/सजा) मूंड (मूंड का आध्यात्मिक भाव) महि (में/भीतर) लागै (प्रेम-संबंध/लगन (करता है/ने)) खिन (खिन का आध्यात्मिक भाव) महि (में/भीतर) करै (करके (करता है/ने)) निबेरा (निबेरा का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) जनु (मानो/जैसे कि) ऊतमु (ऊतमु का आध्यात्मिक भाव) भगतु (सच्चा भक्त) सदावै (सदावै का आध्यात्मिक भाव) आगिआ (आगिआ का आध्यात्मिक भाव) मनि (मन में) सुखु (सच्चा सुख) पाई (प्राप्त कर लिया) ॥
+जो (जिससे) तिसु (उसको) भावै (जैसा मन चाहे) सति (सत्य/सच्चा) करि (करके/हाथ से) मानै (अहंकार (करता है/ने)) भाणा (भाणा का आध्यात्मिक भाव) मंनि (मंनि का आध्यात्मिक भाव) वसाई (वसाई का आध्यात्मिक भाव) ॥ ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) मेरी (मेरी जीवन-) मेरी (मेरी जीवन-) झूठी (झूठी (सधुक्कड़ी भाव)) ॥
+चिरगट (चिरगट का आध्यात्मिक भाव) फारि (फार (सधुक्कड़ी भाव)) चटारा (चटारा का आध्यात्मिक भाव) लै (ले) गइओ (गया) तरी (वृक्ष/पेड़) तागरी (तागरी का आध्यात्मिक भाव) छूटी (छूटी (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaahoo (anyone/anyone's) deenhe (deenhe) paat (paat) patmabar (patmabar) kaahoo (anyone/anyone's) palagh (palagh) nivaara (nivaara) .
+kaahoo (anyone/anyone's) garee (garee) godaree (godaree) naahee (not) kaahoo (anyone/anyone's) khaan (khaan) paraara (paraara) . .
+ahirakh (ahirakh) vaadu (vaadu) n (not) keejai (please do) re (Re (Divine Will)) man (mind/inner consciousness) .
+sukritu (sukritu) kari (having done/with hands) kari (having done/with hands) leejai (please receive/take) re (Re (Divine Will)) man (mind/inner consciousness) . . rahaau (pause for reflection, foundational theme) .
+kumhaarai (potter, Divine Creator) ek (equal and one) ju (who/whoever) maatee (clay, mortal human vessel) goondhee (goondhee) bahu (many) bidhi (manner/way) baanee (divine speech/utterance) laaee (struck) .
+kaahoo (anyone/anyone's) mahi (within/in) motee (pure pearl) mukataahal (mukataahal) kaahoo (anyone/anyone's) biaadhi (biaadhi) lagaaee (forged) . .
+soomahi (soomahi) dhanu (wealth/riches) raakhan (raakhan) kau (unto) deea (lamp/gave) mugadhu (mugadh (spiritual sense)) kahai (chants) dhanu (wealth/riches) mera (my/mine) .
+jam (Yamraj/Death) ka (of) dandu (punishment/rod) moond (moond) mahi (within/in) laagai (spark of love/attachment (does/by)) khin (khin) mahi (within/in) karai (doing (does/by)) nibera (nibera) . .
+hari (The Lord who dispels grief (Hari)) janu (as if/devotee) ootamu (ootamu) bhagatu (true devotee) sadaavai (sadaavai) aagia (aagia) mani (in the mind) sukhu (true bliss) paaee (have found/attained) .
+jo (that) tisu (unto that one) bhaavai (as pleases the heart) sati (truth/true) kari (having done/with hands) maanai (pride (does/by)) bhaana (bhaana) manni (manni) vasaaee (vasaaee) . .
+kahai (chants) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) meree (my life's) meree (my life's) jhoothee (jhoothee (spiritual sense)) .
+chiragat (chiragat) phaari (phaar (spiritual sense)) chataara (chataara) lai (bringing) gaio (departed) taree (tree) taagaree (taagaree) chhootee (chhootee (spiritual sense)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! काहू दीन्हे पाट पट्मबर काहू पलघ निवारा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kaahoodeenhepaatapatmabarakaahoopalaghanivaara—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-34"></a>
+## शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै
+**English Title:** Shabad 34: Hama Masakaeena Khaudaaee Bandae Tauma Raajasau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हम मसकीन खुदाई बंदे तुम राजसु मनि भावै ॥
+अलह अवलि दीन को साहिबु जोरु नही फुरमावै ॥१॥
+काजी बोलिआ बनि नही आवै ॥१॥ रहाउ ॥
+रोजा धरै निवाज गुजारै कलमा भिसति न होई ॥
+सतरि काबा घट ही भीतरि जे करि जानै कोई ॥२॥
+निवाज सोई जो निआउ बिचारै कलमा अकलहि जानै ॥
+पाचहु मुसि मुसला बिछावै तब तउ दीनु पछानै ॥३॥
+खसमु पछानि तरस करि जीअ महि मारि मणी करि फीकी ॥
+आपु जनाइ अवर कउ जानै तब होइ भिसत सरीकी ॥४॥
+माटी एक भेख धरि नाना ता महि ब्रहमु पछाना ॥
+कहै कबीरा भिसत छोडि करि दोजक सिउ मनु माना ॥५॥४॥१७॥480॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हम (हम सब प्राणी) मसकीन (मसकीन का आध्यात्मिक भाव) खुदाई (परमात्मा के) बंदे (मनुष्य, सेवक) तुम (आप/तुम) राजसु (राजसु का आध्यात्मिक भाव) मनि (मन में) भावै (जैसा मन चाहे) ॥
+अलह (अल्लाह, परमेश्वर, एक परमात्मा) अवलि (सर्वप्रथम, आदि) दीन (निर्बल, असहाय, धर्म) को (को/की ओर) साहिबु (स्वामी/प्रभु) जोरु (जोरु का आध्यात्मिक भाव) नही (नहीं) फुरमावै (फुरमावै का आध्यात्मिक भाव) ॥ ॥
+काजी (न्यायाधीश, धर्मगुरु) बोलिआ (बोलिआ का आध्यात्मिक भाव) बनि (बनकर/वन में) नही (नहीं) आवै (आता है) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+रोजा (रोजा का आध्यात्मिक भाव) धरै (रखकर (करता है/ने)) निवाज (निवाज (सधुक्कड़ी भाव)) गुजारै (गुजारै का आध्यात्मिक भाव) कलमा (कलमा का आध्यात्मिक भाव) भिसति (भिसति का आध्यात्मिक भाव) न (नहीं) होई (तय हुआ) ॥
+सतरि (सतरि का आध्यात्मिक भाव) काबा (काबा का आध्यात्मिक भाव) घट (हृदय/शरीर) ही (केवल/मात्र) भीतरि (भीतर/हृदय में) जे (यदि) करि (करके/हाथ से) जानै (प्राण/जीवन (करता है/ने)) कोई (कोई भी जन) ॥ ॥
+निवाज (निवाज (सधुक्कड़ी भाव)) सोई (वही) जो (जिससे) निआउ (निआउ का आध्यात्मिक भाव) बिचारै (विचार/मंथन (करता है/होता है)) कलमा (कलमा का आध्यात्मिक भाव) अकलहि (अकलहि का आध्यात्मिक भाव) जानै (प्राण/जीवन (करता है/ने)) ॥
+पाचहु (पाचहु का आध्यात्मिक भाव) मुसि (मुसि का आध्यात्मिक भाव) मुसला (मुसला का आध्यात्मिक भाव) बिछावै (बिछावै का आध्यात्मिक भाव) तब (उस समय/तब) तउ (तब/तो भी) दीनु (दीन-हीन/निर्धन) पछानै (पछानै का आध्यात्मिक भाव) ॥ ॥
+खसमु (स्वामी, पति-परमेश्वर) पछानि (पछानि का आध्यात्मिक भाव) तरस (दया) करि (करके/हाथ से) जीअ (जीवात्मा/प्राण) महि (में/भीतर) मारि (मारकर) मणी (मणी का आध्यात्मिक भाव) करि (करके/हाथ से) फीकी (फीकी का आध्यात्मिक भाव) ॥
+आपु (स्वयं) जनाइ (जनाइ का आध्यात्मिक भाव) अवर (अन्य/दूसरा) कउ (को) जानै (प्राण/जीवन (करता है/ने)) तब (उस समय/तब) होइ (होकर) भिसत (भिसत का आध्यात्मिक भाव) सरीकी (सरीकी का आध्यात्मिक भाव) ॥ ॥
+माटी (मृत्तिका, नश्वर देह) एक (समान/एक जैसे) भेख (पाखंडी भेष) धरि (धरकर/धारण करके) नाना (अनेक प्रकार के) ता (उस पर/उसका) महि (में/भीतर) ब्रहमु (ब्रहमु का आध्यात्मिक भाव) पछाना (पछाना का आध्यात्मिक भाव) ॥
+कहै (पुकारे) कबीरा (संत कबीर जी) भिसत (भिसत का आध्यात्मिक भाव) छोडि (छोडि का आध्यात्मिक भाव) करि (करके/हाथ से) दोजक (दोजक का आध्यात्मिक भाव) सिउ (से/साथ) मनु (मन/अंतःकरण) माना (माना का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ham (we mortal beings) masakeen (masakeen) khudaaee (be carefree) bande (beings, servants of God) tum (You/Thou) raajasu (raajasu) mani (in the mind) bhaavai (as pleases the heart) .
+alah (Allah, the One Supreme Divine) avali (first of all, in the beginning) deen (the meek, the righteous cause) ko (unto/toward) saahibu (Lord/Master) joru (joru) nahee (not) phuramaavai (phuramaavai) . .
+kaajee (Qazi, Islamic theologian) bolia (bolia) bani (becoming/in forest) nahee (not) aavai (comes/arrives) . . rahaau (pause for reflection, foundational theme) .
+roja (roja) dharai (placing (does/by)) nivaaj (nivaaj (spiritual sense)) gujaarai (gujaarai) kalama (kalama) bhisati (bhisati) n (not) hoee (transpired) .
+satari (satari) kaaba (kaaba) ghat (body/inner temple) hee (alone/only) bheetari (within the heart) je (if) kari (having done/with hands) jaanai (life/soul (does/by)) koee (anyone) . .
+nivaaj (nivaaj (spiritual sense)) soee (the very same) jo (that) niaau (niaau) bichaarai (contemplation/thought (does/becomes)) kalama (kalama) akalahi (akalahi) jaanai (life/soul (does/by)) .
+paachahu (paachahu) musi (musi) musala (musala) bichhaavai (bichhaavai) tab (at that time/then) tau (then/still) deenu (lowly/meek) pachhaanai (pachhaanai) . .
+khasamu (Master, the Divine Spouse) pachhaani (pachhaani) taras (pity) kari (having done/with hands) jeea (living soul/breath) mahi (within/in) maari (striking/killing) manee (manee) kari (having done/with hands) pheekee (pheekee) .
+aapu (oneself) janaai (janaai) avar (other/another) kau (unto) jaanai (life/soul (does/by)) tab (at that time/then) hoi (having become) bhisat (bhisat) sareekee (sareekee) . .
+maatee (clay, mortal human vessel) ek (equal and one) bhekh (guises/robes) dhari (having held/placed) naana (various/manifold) ta (upon that/his) mahi (within/in) brahamu (brahamu) pachhaana (pachhaana) .
+kahai (chants) kabeera (Sant Kabir) bhisat (bhisat) chhodi (chhodi) kari (having done/with hands) dojak (dojak) siu (with/from) manu (mind/inner spirit) maana (maana) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हम मसकीन खुदाई बंदे तुम राजसु मनि भावै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! hamamasakeenakhudaaeebandetumaraajasumanibhaavai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-35"></a>
+## शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना
+**English Title:** Shabad 35: Gagana Nagarai Ika Baoonda Na Barakhaai Naadau Ka
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गगन नगरि इक बूंद न बरखै नादु कहा जु समाना ॥
+पारब्रहम परमेसुर माधो परम हंसु ले सिधाना ॥१॥
+बाबा बोलते ते कहा गए देही के संगि रहते ॥
+सुरति माहि जो निरते करते कथा बारता कहते ॥१॥ रहाउ ॥
+बजावनहारो कहा गइओ जिनि इहु मंदरु कीन्हा ॥
+साखी सबदु सुरति नही उपजै खिंचि तेजु सभु लीन्हा ॥२॥
+स्रवनन बिकल भए संगि तेरे इंद्री का बलु थाका ॥
+चरन रहे कर ढरकि परे है मुखहु न निकसै बाता ॥३॥
+थाके पंच दूत सभ तसकर आप आपणै भ्रमते ॥
+थाका मनु कुंचर उरु थाका तेजु सूतु धरि रमते ॥४॥
+मिरतक भए दसै बंद छूटे मित्र भाई सभ छोरे ॥
+कहत कबीरा जो हरि धिआवै जीवत बंधन तोरे ॥५॥५॥१८॥480॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गगन (ब्रह्मरंध्र, आंतरिक आकाश) नगरि (नगरि (सधुक्कड़ी भाव)) इक (एक ही) बूंद (अमृत की बूंद) न (नहीं) बरखै (बरखै का आध्यात्मिक भाव) नादु (ध्वनि, संगीत) कहा (क्या/कहाँ) जु (जो/जो कोई) समाना (समाहित होना) ॥
+पारब्रहम (पारब्रहम का आध्यात्मिक भाव) परमेसुर (परमेसुर (सधुक्कड़ी भाव)) माधो (माधव प्रभु) परम (सर्वोच्च/परम) हंसु (हंसु का आध्यात्मिक भाव) ले (लेकर) सिधाना (सिधाना का आध्यात्मिक भाव) ॥ ॥
+बाबा (बाबा का आध्यात्मिक भाव) बोलते (बोलते का आध्यात्मिक भाव) ते (से/द्वारा) कहा (क्या/कहाँ) गए (बीतते) देही (काया/शरीर) के (के/संबंध-सूचक) संगि (संगत में/सान्निध्य में) रहते (रहता हुआ/आचरण) ॥
+सुरति (चेतना/होश (में/करके)) माहि (में/अंदर) जो (जिससे) निरते (निरते का आध्यात्मिक भाव) करते (करते का आध्यात्मिक भाव) कथा (हरि-कथा/प्रवचन) बारता (बारता का आध्यात्मिक भाव) कहते (कहते हैं) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बजावनहारो (बजावनहारो का आध्यात्मिक भाव) कहा (क्या/कहाँ) गइओ (गया) जिनि (मत/जिसने) इहु (यह) मंदरु (महल/मंदिर) कीन्हा (कीन्हा (सधुक्कड़ी भाव)) ॥
+साखी (साक्षी, प्रत्यक्ष प्रमाण) सबदु (ईश्वरीय शब्द, अनाहत ध्वनि) सुरति (चेतना/होश (में/करके)) नही (नहीं) उपजै (उत्पन्न होता है) खिंचि (खिंचि का आध्यात्मिक भाव) तेजु (तेज (सधुक्कड़ी भाव)) सभु (सब कुछ/सम्पूर्ण) लीन्हा (लीन्ह (सधुक्कड़ी भाव)) ॥ ॥
+स्रवनन (स्रवनन का आध्यात्मिक भाव) बिकल (बिकल (सधुक्कड़ी भाव)) भए (हो गए) संगि (संगत में/सान्निध्य में) तेरे (तेरे विरह के) इंद्री (इंद्रियां/विषय-वासना) का (का/संबंध-सूचक) बलु (न्योछावर/बलिहारी) थाका (थाका का आध्यात्मिक भाव) ॥
+चरन (कमल-चरण) रहे (रहे हैं पर) कर (करके) ढरकि (ढरकि का आध्यात्मिक भाव) परे (दूर) है (है कि) मुखहु (मुखहु का आध्यात्मिक भाव) न (नहीं) निकसै (निकसै का आध्यात्मिक भाव) बाता (कथन) ॥ ॥
+थाके (थाके (सधुक्कड़ी भाव)) पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) दूत (दूत का आध्यात्मिक भाव) सभ (सब) तसकर (तसकर का आध्यात्मिक भाव) आप (स्वयं/परमात्मा) आपणै (आपण (सधुक्कड़ी भाव)) भ्रमते (भ्रांति/संशय/अज्ञान (करते हुए)) ॥
+थाका (थाका का आध्यात्मिक भाव) मनु (मन/अंतःकरण) कुंचर (हाथी (स्पर्श-लोभी)) उरु (उर (सधुक्कड़ी भाव)) थाका (थाका का आध्यात्मिक भाव) तेजु (तेज (सधुक्कड़ी भाव)) सूतु (सूतु का आध्यात्मिक भाव) धरि (धरकर/धारण करके) रमते (रमत (सधुक्कड़ी भाव)) ॥ ॥
+मिरतक (मिरतक का आध्यात्मिक भाव) भए (हो गए) दसै (दस इंद्रियां/संख्या दस) बंद (बंद का आध्यात्मिक भाव) छूटे (मुक्त हो गए) मित्र (मित्र का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) सभ (सब) छोरे (छोरे का आध्यात्मिक भाव) ॥
+कहत (कहते हुए) कबीरा (संत कबीर जी) जो (जिससे) हरि (दुख-हर्ता परमात्मा) धिआवै (धिआवै का आध्यात्मिक भाव) जीवत (जीवित रहते हुए) बंधन (सांसारिक बंधन) तोरे (तेरे) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+gagan (crown chakra, the inner celestial sky) nagari (nagari (spiritual sense)) ik (in one) boond (drop of nectar) n (not) barakhai (barakhai) naadu (musical sound, primordial resonance) kaha (what/where) ju (who/whoever) samaana (to merge/permeate) .
+paarabraham (paarabraham) paramesur (paramesur (spiritual sense)) maadho (Lord Madhava) param (supreme/highest) hansu (hansu) le (taking/having taken) sidhaana (sidhaana) . .
+baaba (baaba) bolate (bolate) te (from/by) kaha (what/where) gae (went) dehee (mortal body/frame) ke (of) sangi (in company of) rahate (abiding/conduct) .
+surati (consciousness/mind (in/having done)) maahi (within) jo (that) nirate (nirate) karate (karate) katha (divine discourse) baarata (baarata) kahate (they say) . . rahaau (pause for reflection, foundational theme) .
+bajaavanahaaro (bajaavanahaaro) kaha (what/where) gaio (departed) jini (do not/who) ihu (this) mandaru (palaces/mansions) keenha (keenha (spiritual sense)) .
+saakhee (witness, spiritual testimony) sabadu (Divine Word, sacred mystical sound) surati (consciousness/mind (in/having done)) nahee (not) upajai (springs forth/arises) khinchi (khinchi) teju (tej (spiritual sense)) sabhu (everything/all) leenha (leenh (spiritual sense)) . .
+sravanan (sravanan) bikal (bikal (spiritual sense)) bhae (became) sangi (in company of) tere (in Your) indree (sensory organs) ka (of) balu (sacrificed) thaaka (thaaka) .
+charan (lotus feet) rahe (remain) kar (doing) dharaki (dharaki) pare (aside) hai (is) mukhahu (mukhahu) n (not) nikasai (nikasai) baata (word/matter) . .
+thaake (thaake (spiritual sense)) panch (five vices) doot (doot) sabh (all) tasakar (tasakar) aap (Himself/oneself) aapanai (aapan (spiritual sense)) bhramate (illusion/doubt (while doing)) .
+thaaka (thaaka) manu (mind/inner spirit) kunchar (elephant (craving touch)) uru (ur (spiritual sense)) thaaka (thaaka) teju (tej (spiritual sense)) sootu (sootu) dhari (having held/placed) ramate (ramat (spiritual sense)) . .
+miratak (miratak) bhae (became) dasai (ten) band (band) chhoote (became liberated) mitr (mitr) bhaaee (O brother!) sabh (all) chhore (chhore) .
+kahat (speaking/saying) kabeera (Sant Kabir) jo (that) hari (The Lord who dispels grief (Hari)) dhiaavai (dhiaavai) jeevat (while living) bandhan (worldly shackles) tore (thy/thine) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गगन नगरि इक बूंद न बरखै नादु कहा जु समाना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! gagananagariikaboondanabarakhainaadukahaajusamaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-36"></a>
+## शब्द 36: सरपनी ते ऊपरि नही बलीआ
+**English Title:** Shabad 36: Sarapanaee Tae Ooparai Nahaee Balaeeaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सरपनी ते ऊपरि नही बलीआ ॥
+जिनि ब्रहमा बिसनु महादेउ छलीआ ॥१॥
+मारु मारु स्रपनी निरमल जलि पैठी ॥
+जिनि त्रिभवणु डसीअले गुर प्रसादि डीठी ॥१॥ रहाउ ॥
+स्रपनी स्रपनी किआ कहहु भाई ॥
+जिनि साचु पछानिआ तिनि स्रपनी खाई ॥२॥
+स्रपनी ते आन छूछ नही अवरा ॥
+स्रपनी जीती कहा करै जमरा ॥३॥
+इह स्रपनी ता की कीती होई ॥
+बलु अबलु किआ इस ते होई ॥४॥
+इह बसती ता बसत सरीरा ॥
+गुर प्रसादि सहजि तरे कबीरा ॥५॥६॥१९॥480॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सरपनी (सरपनी का आध्यात्मिक भाव) ते (से/द्वारा) ऊपरि (ऊपर/पर) नही (नहीं) बलीआ (बलीआ का आध्यात्मिक भाव) ॥
+जिनि (मत/जिसने) ब्रहमा (ब्रहमा का आध्यात्मिक भाव) बिसनु (बिसन (सधुक्कड़ी भाव)) महादेउ (महादेउ का आध्यात्मिक भाव) छलीआ (छलीआ का आध्यात्मिक भाव) ॥ ॥
+मारु (मारकर) मारु (मारकर) स्रपनी (स्रपनी का आध्यात्मिक भाव) निरमल (निरमल का आध्यात्मिक भाव) जलि (जल में) पैठी (पैठी का आध्यात्मिक भाव) ॥
+जिनि (मत/जिसने) त्रिभवणु (त्रिभवणु का आध्यात्मिक भाव) डसीअले (डसीअले का आध्यात्मिक भाव) गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) डीठी (डीठी का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+स्रपनी (स्रपनी का आध्यात्मिक भाव) स्रपनी (स्रपनी का आध्यात्मिक भाव) किआ (क्या) कहहु (कहकर (से/द्वारा)) भाई (हे भाई!/हे मित्र!) ॥
+जिनि (मत/जिसने) साचु (साच (सधुक्कड़ी भाव)) पछानिआ (पछानिआ का आध्यात्मिक भाव) तिनि (उन्होंने/उनका (में/करके)) स्रपनी (स्रपनी का आध्यात्मिक भाव) खाई (खाई/खड्डा) ॥ ॥
+स्रपनी (स्रपनी का आध्यात्मिक भाव) ते (से/द्वारा) आन (आकर) छूछ (छूछ का आध्यात्मिक भाव) नही (नहीं) अवरा (अन्य लोग) ॥
+स्रपनी (स्रपनी का आध्यात्मिक भाव) जीती (जीती का आध्यात्मिक भाव) कहा (क्या/कहाँ) करै (करके (करता है/ने)) जमरा (जमरा का आध्यात्मिक भाव) ॥ ॥
+इह (ये) स्रपनी (स्रपनी का आध्यात्मिक भाव) ता (उस पर/उसका) की (की/संबंध-सूचक) कीती (कीती का आध्यात्मिक भाव) होई (तय हुआ) ॥
+बलु (न्योछावर/बलिहारी) अबलु (अबलु का आध्यात्मिक भाव) किआ (क्या) इस (इस संसारी) ते (से/द्वारा) होई (तय हुआ) ॥ ॥
+इह (ये) बसती (वस्तु/सामग्री) ता (उस पर/उसका) बसत (वस्तु/सामग्री) सरीरा (मानव शरीर/देह) ॥
+गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) सहजि (सहज अवस्था में) तरे (पार तर गए) कबीरा (संत कबीर जी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sarapanee (sarapanee) te (from/by) oopari (upon) nahee (not) baleea (baleea) .
+jini (do not/who) brahama (brahama) bisanu (bisan (spiritual sense)) mahaadeu (mahaadeu) chhaleea (chhaleea) . .
+maaru (striking/killing) maaru (striking/killing) srapanee (srapanee) niramal (niramal) jali (in water) paithee (paithee) .
+jini (do not/who) tribhavanu (tribhavanu) daseeale (daseeale) gur (of the Master) prasaadi (divine grace (in/having done)) deethee (deethee) . . rahaau (pause for reflection, foundational theme) .
+srapanee (srapanee) srapanee (srapanee) kia (what) kahahu (saying (from/by)) bhaaee (O brother!) .
+jini (do not/who) saachu (saach (spiritual sense)) pachhaania (pachhaania) tini (they/them (in/having done)) srapanee (srapanee) khaaee (trench/consumed) . .
+srapanee (srapanee) te (from/by) aan (coming) chhoochh (chhoochh) nahee (not) avara (others) .
+srapanee (srapanee) jeetee (jeetee) kaha (what/where) karai (doing (does/by)) jamara (jamara) . .
+ih (these) srapanee (srapanee) ta (upon that/his) kee (of) keetee (keetee) hoee (transpired) .
+balu (sacrificed) abalu (abalu) kia (what) is (this) te (from/by) hoee (transpired) . .
+ih (these) basatee (goods/commodity) ta (upon that/his) basat (goods/commodity) sareera (mortal body) .
+gur (of the Master) prasaadi (divine grace (in/having done)) sahaji (in spontaneous poise) tare (crossed over/saved) kabeera (Sant Kabir) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सरपनी ते ऊपरि नही बलीआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sarapaneeteooparinaheebaleea—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 36: सरपनी ते ऊपरि नही बलीआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-37"></a>
+## शब्द 37: कहा सुआन कउ सिम्रिति सुनाए
+**English Title:** Shabad 37: Kahaa Sauaana Kau Saimaraitai Saunaae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कहा सुआन कउ सिम्रिति सुनाए ॥
+कहा साकत पहि हरि गुन गाए ॥१॥
+राम राम राम रमे रमि रहीऐ ॥
+साकत सिउ भूलि नही कहीऐ ॥१॥ रहाउ ॥
+कऊआ कहा कपूर चराए ॥
+कह बिसीअर कउ दूधु पीआए ॥२॥
+सतसंगति मिलि बिबेक बुधि होई ॥
+पारसु परसि लोहा कंचनु सोई ॥३॥
+साकतु सुआनु सभु करे कराइआ ॥
+जो धुरि लिखिआ सु करम कमाइआ ॥४॥
+अम्रितु लै लै नीमु सिंचाई ॥
+कहत कबीर उआ को सहजु न जाई ॥५॥७॥२०॥481॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कहा (क्या/कहाँ) सुआन (श्वान/कुत्ता) कउ (को) सिम्रिति (स्मृति शास्त्र) सुनाए (सुनाए का आध्यात्मिक भाव) ॥
+कहा (क्या/कहाँ) साकत (साकत का आध्यात्मिक भाव) पहि (पहि का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) गुन (गुण/पुण्य) गाए (गाए का आध्यात्मिक भाव) ॥ ॥
+राम (सर्वव्यापी परमात्मा) राम (सर्वव्यापी परमात्मा) राम (सर्वव्यापी परमात्मा) रमे (रमे का आध्यात्मिक भाव) रमि (रमण करके/लीन होकर) रहीऐ (रहना चाहिए) ॥
+साकत (साकत का आध्यात्मिक भाव) सिउ (से/साथ) भूलि (भूलकर/विस्मृत होकर) नही (नहीं) कहीऐ (कहिए) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कऊआ (कऊआ का आध्यात्मिक भाव) कहा (क्या/कहाँ) कपूर (कपूर का आध्यात्मिक भाव) चराए (चराए का आध्यात्मिक भाव) ॥
+कह (कहकर) बिसीअर (बिसीअर का आध्यात्मिक भाव) कउ (को) दूधु (दूध/क्षीर) पीआए (पीआए का आध्यात्मिक भाव) ॥ ॥
+सतसंगति (सत्संगति संबंधी) मिलि (मिलो संबंधी) बिबेक (विवेक/सत्य-असत्य का ज्ञान) बुधि (बुद्धि/मति) होई (तय हुआ) ॥
+पारसु (भवसागर पार संबंधी) परसि (स्पर्श (में/करके)) लोहा (लोहा धातु (जो पारस से स्वर्ण बने)) कंचनु (शुद्ध कंचन/स्वर्ण) सोई (वही) ॥ ॥
+साकतु (साकतु का आध्यात्मिक भाव) सुआनु (श्वान/कुत्ता) सभु (सब कुछ/सम्पूर्ण) करे (करता है) कराइआ (कराइआ का आध्यात्मिक भाव) ॥
+जो (जिससे) धुरि (धुरि का आध्यात्मिक भाव) लिखिआ (लिखिआ का आध्यात्मिक भाव) सु (वह) करम (कर्मकांड) कमाइआ (कमाइआ का आध्यात्मिक भाव) ॥ ॥
+अम्रितु (अमर-रस/अमृत) लै (ले) लै (ले) नीमु (नीमु का आध्यात्मिक भाव) सिंचाई (सिंचाई का आध्यात्मिक भाव) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) उआ (उआ का आध्यात्मिक भाव) को (को/की ओर) सहजु (स्वाभाविक शांति, परम संतुलन) न (नहीं) जाई (जाओ) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaha (what/where) suaan (dog) kau (unto) simriti (Smriti scriptures) sunaae (sunaae) .
+kaha (what/where) saakat (saakat) pahi (pahi) hari (The Lord who dispels grief (Hari)) gun (virtues/merits) gaae (gaae) . .
+raam (The All-Pervading Lord (Ram)) raam (The All-Pervading Lord (Ram)) raam (The All-Pervading Lord (Ram)) rame (rame) rami (absorbed in divine remembrance) raheeai (one should abide) .
+saakat (saakat) siu (with/from) bhooli (having forgotten) nahee (not) kaheeai (one should speak) . . rahaau (pause for reflection, foundational theme) .
+kaooa (kaooa) kaha (what/where) kapoor (kapoor) charaae (charaae) .
+kah (saying) biseear (biseear) kau (unto) doodhu (milk) peeaae (peeaae) . .
+satasangati (holy communion related) mili (meet related) bibek (spiritual discernment) budhi (intellect/wit) hoee (transpired) .
+paarasu (across shore related) parasi (touch (in/having done)) loha (iron metal) kanchanu (pure gold) soee (the very same) . .
+saakatu (saakatu) suaanu (dog) sabhu (everything/all) kare (makes) karaaia (karaaia) .
+jo (that) dhuri (dhuri) likhia (likhia) su (that) karam (rituals) kamaaia (kamaaia) . .
+amritu (divine nectar of immortality) lai (bringing) lai (bringing) neemu (neemu) sinchaaee (sinchaaee) .
+kahat (speaking/saying) kabeer (Sant Kabir) ua (ua) ko (unto/toward) sahaju (spontaneous spiritual equilibrium, effortless bliss) n (not) jaaee (slip away) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कहा सुआन कउ सिम्रिति सुनाए—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kahaasuaanakausimritisunaae—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 37: कहा सुआन कउ सिम्रिति सुनाए'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-38"></a>
+## शब्द 38: लंका सा कोटु समुंद सी खाई
+**English Title:** Shabad 38: Lankaa Saa Kaotau Samaunda Saee Khaaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+लंका सा कोटु समुंद सी खाई ॥
+तिह रावन घर खबरि न पाई ॥१॥
+किआ मागउ किछु थिरु न रहाई ॥
+देखत नैन चलिओ जगु जाई ॥१॥ रहाउ ॥
+इकु लखु पूत सवा लखु नाती ॥
+तिह रावन घर दीआ न बाती ॥२॥
+चंदु सूरजु जा के तपत रसोई ॥
+बैसंतरु जा के कपरे धोई ॥३॥
+गुरमति रामै नामि बसाई ॥
+असथिरु रहै न कतहूं जाई ॥४॥
+कहत कबीर सुनहु रे लोई ॥
+राम नाम बिनु मुकति न होई ॥५॥८॥२१॥481॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+लंका (लंका का आध्यात्मिक भाव) सा (वह/उसकी) कोटु (कोटु का आध्यात्मिक भाव) समुंद (समुंद का आध्यात्मिक भाव) सी (स (सधुक्कड़ी भाव)) खाई (खाई/खड्डा) ॥
+तिह (उस/उनका) रावन (रावन का आध्यात्मिक भाव) घर (आशियाना) खबरि (खबरि का आध्यात्मिक भाव) न (नहीं) पाई (प्राप्त कर लिया) ॥ ॥
+किआ (क्या) मागउ (मांगता हूँ) किछु (कुछ भी/तनिक) थिरु (स्थिर/अविचल) न (नहीं) रहाई (रहाई का आध्यात्मिक भाव) ॥
+देखत (देखकर (करते हुए)) नैन (नेत्रों से) चलिओ (चलिओ का आध्यात्मिक भाव) जगु (सम्पूर्ण जगत/संसार) जाई (जाओ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+इकु (एक/अद्वितीय) लखु (लखु का आध्यात्मिक भाव) पूत (पुत्र/बेटा) सवा (सवा का आध्यात्मिक भाव) लखु (लखु का आध्यात्मिक भाव) नाती (नाती का आध्यात्मिक भाव) ॥
+तिह (उस/उनका) रावन (रावन का आध्यात्मिक भाव) घर (आशियाना) दीआ (दीपक/दिया) न (नहीं) बाती (दीप की वर्तिका/बाती) ॥ ॥
+चंदु (चंद्रमा) सूरजु (सूरजु का आध्यात्मिक भाव) जा (जिसका/जब) के (के/संबंध-सूचक) तपत (तपत का आध्यात्मिक भाव) रसोई (वही है संबंधी) ॥
+बैसंतरु (बैसंतरु का आध्यात्मिक भाव) जा (जिसका/जब) के (के/संबंध-सूचक) कपरे (दूर संबंधी) धोई (धोई का आध्यात्मिक भाव) ॥ ॥
+गुरमति (गुरमति का आध्यात्मिक भाव) रामै (सर्वव्यापी परमात्मा) नामि (परम पावन नाम) बसाई (बसाई का आध्यात्मिक भाव) ॥
+असथिरु (असथिरु का आध्यात्मिक भाव) रहै (रहे/सदा रहे) न (नहीं) कतहूं (कतहूं का आध्यात्मिक भाव) जाई (जाओ) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) लोई (काली कमली, फकीरों का ऊनी कम्बल) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) बिनु (बिना/रहित) मुकति (मुक्ति/मोक्ष) न (नहीं) होई (तय हुआ) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+lanka (lanka) sa (that/she) kotu (kotu) samund (samund) see (s (spiritual sense)) khaaee (trench/consumed) .
+tih (that/their) raavan (raavan) ghar (home/refuge) khabari (khabari) n (not) paaee (have found/attained) . .
+kia (what) maagau (I beg/pray for) kichhu (anything/a little) thiru (steadfast/eternal) n (not) rahaaee (rahaaee) .
+dekhat (beholding (while doing)) nain (eyes) chalio (chalio) jagu (the world/mortal realm) jaaee (slip away) . . rahaau (pause for reflection, foundational theme) .
+iku (one/sole) lakhu (lakhu) poot (son) sava (sava) lakhu (lakhu) naatee (naatee) .
+tih (that/their) raavan (raavan) ghar (home/refuge) deea (lamp/gave) n (not) baatee (lamp-wick) . .
+chandu (radiant moon) sooraju (sooraju) ja (whose/when) ke (of) tapat (tapat) rasoee (is he related) .
+baisantaru (baisantaru) ja (whose/when) ke (of) kapare (aside related) dhoee (dhoee) . .
+guramati (guramati) raamai (The All-Pervading Lord (Ram)) naami (Divine Name) basaaee (basaaee) .
+asathiru (asathiru) rahai (may abide/remain) n (not) katahoon (katahoon) jaaee (slip away) . .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) loee (coarse dark wool blanket of dervishes) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) mukati (spiritual liberation) n (not) hoee (transpired) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! लंका सा कोटु समुंद सी खाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! lankaasaakotusamundaseekhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 38: लंका सा कोटु समुंद सी खाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-39"></a>
+## शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे
+**English Title:** Shabad 39: Hama Gharai Saootau Tanahai Naita Taanaa Kanthai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे ॥
+तुम्ह तउ बेद पड़हु गाइत्री गोबिंदु रिदै हमारे ॥१॥
+मेरी जिहबा बिसनु नैन नाराइन हिरदै बसहि गोबिंदा ॥
+जम दुआर जब पूछसि बवरे तब किआ कहसि मुकंदा ॥१॥ रहाउ ॥
+हम गोरू तुम गुआर गुसाई जनम जनम रखवारे ॥
+कबहूं न पारि उतारि चराइहु कैसे खसम हमारे ॥२॥
+तूं बाम्हनु मै कासीक जुलहा बूझहु मोर गिआना ॥
+तुम्ह तउ जाचे भूपति राजे हरि सउ मोर धिआना ॥३॥४॥२६॥482॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हम (हम सब प्राणी) घरि (आशियाना (में/करके)) सूतु (सूतु का आध्यात्मिक भाव) तनहि (तनहि का आध्यात्मिक भाव) नित (नित्य/प्रतिदिन) ताना (लंबाई के धागे, विस्तार) कंठि (कंठि का आध्यात्मिक भाव) जनेऊ (जनेऊ का आध्यात्मिक भाव) तुमारे (तुमने संबंधी) ॥
+तुम्ह (तुम/आप) तउ (तब/तो भी) बेद (वेदों) पड़हु (पड़हु का आध्यात्मिक भाव) गाइत्री (गाइत्री का आध्यात्मिक भाव) गोबिंदु (गोविंद/परमात्मा) रिदै (हृदय में) हमारे (हम सेवकों के) ॥ ॥
+मेरी (मेरी जीवन-) जिहबा (जिहबा का आध्यात्मिक भाव) बिसनु (बिसन (सधुक्कड़ी भाव)) नैन (नेत्रों से) नाराइन (भगवान नारायण) हिरदै (हृदय में) बसहि (बसते हैं) गोबिंदा (गोविंद/परमात्मा) ॥
+जम (यमराज/मृत्यु) दुआर (दुआर का आध्यात्मिक भाव) जब (जिस समय/जब) पूछसि (पूछसि का आध्यात्मिक भाव) बवरे (बवरे का आध्यात्मिक भाव) तब (उस समय/तब) किआ (क्या) कहसि (कहसि का आध्यात्मिक भाव) मुकंदा (मुकुंद/मुक्तिदाता प्रभु) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हम (हम सब प्राणी) गोरू (गोरू का आध्यात्मिक भाव) तुम (आप/तुम) गुआर (गुआर का आध्यात्मिक भाव) गुसाई (गुसाई का आध्यात्मिक भाव) जनम (जन्म/जीवन) जनम (जन्म/जीवन) रखवारे (रखवारे का आध्यात्मिक भाव) ॥
+कबहूं (कबहूं (सधुक्कड़ी भाव)) न (नहीं) पारि (भवसागर से पार, मुक्ति) उतारि (उतारि का आध्यात्मिक भाव) चराइहु (चराइहु का आध्यात्मिक भाव) कैसे (किस प्रकार) खसम (स्वामी, पति-परमेश्वर) हमारे (हम सेवकों के) ॥ ॥
+तूं (तू/हे प्रभु!) बाम्हनु (बाम्हनु का आध्यात्मिक भाव) मै (मैं/मैंने) कासीक (कासीक का आध्यात्मिक भाव) जुलहा (जुलहा का आध्यात्मिक भाव) बूझहु (बूझहु का आध्यात्मिक भाव) मोर (मेरा/मयूर) गिआना (आत्मज्ञान/विवेक) ॥
+तुम्ह (तुम/आप) तउ (तब/तो भी) जाचे (जाचे का आध्यात्मिक भाव) भूपति (भूपति का आध्यात्मिक भाव) राजे (आदर्श शासन/राज संबंधी) हरि (दुख-हर्ता परमात्मा) सउ (से) मोर (मेरा/मयूर) धिआना (धिआना का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ham (we mortal beings) ghari (home/refuge (in/having done)) sootu (sootu) tanahi (tanahi) nit (daily/ever) taana (warp of the cosmic fabric) kanthi (kanthi) janeoo (janeoo) tumaare (you related) .
+tumh (You/Thou) tau (then/still) bed (Vedas) padahu (padahu) gaaitree (gaaitree) gobindu (Lord Govind) ridai (in the heart) hamaare (ours/of us devotees) . .
+meree (my life's) jihaba (jihaba) bisanu (bisan (spiritual sense)) nain (eyes) naaraain (Lord Narayana) hiradai (in the heart) basahi (dwell) gobinda (Lord Govind) .
+jam (Yamraj/Death) duaar (duaar) jab (at the time when) poochhasi (poochhasi) bavare (bavare) tab (at that time/then) kia (what) kahasi (kahasi) mukanda (Lord Mukunda/Liberator) . . rahaau (pause for reflection, foundational theme) .
+ham (we mortal beings) goroo (goroo) tum (You/Thou) guaar (guaar) gusaaee (gusaaee) janam (birth/life) janam (birth/life) rakhavaare (rakhavaare) .
+kabahoon (kabahoon (spiritual sense)) n (not) paari (across the ocean of rebirth, ultimate liberation) utaari (utaari) charaaihu (charaaihu) kaise (how) khasam (Master, the Divine Spouse) hamaare (ours/of us devotees) . .
+toon (Thou) baamhanu (baamhanu) mai (I/by me) kaaseek (kaaseek) julaha (julaha) boojhahu (boojhahu) mor (mine/peacock) giaana (spiritual wisdom) .
+tumh (You/Thou) tau (then/still) jaache (jaache) bhoopati (bhoopati) raaje (realm/kingdom related) hari (The Lord who dispels grief (Hari)) sau (from/with) mor (mine/peacock) dhiaana (dhiaana) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! hamagharisootutanahinitataanaakanthijaneootuma—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-40"></a>
+## शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै
+**English Title:** Shabad 40: Raojaa Dharaai Manaavaai Alahau Sauaadatai Jaeea
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+रोजा धरै मनावै अलहु सुआदति जीअ संघारै ॥
+आपा देखि अवर नही देखै काहे कउ झख मारै ॥१॥
+काजी साहिबु एकु तोही महि तेरा सोचि बिचारि न देखै ॥
+खबरि न करहि दीन के बउरे ता ते जनमु अलेखै ॥१॥ रहाउ ॥
+साचु कतेब बखानै अलहु नारि पुरखु नही कोई ॥
+पढे गुने नाही कछु बउरे जउ दिल महि खबरि न होई ॥२॥
+अलहु गैबु सगल घट भीतरि हिरदै लेहु बिचारी ॥
+हिंदू तुरक दुहूं महि एकै कहै कबीर पुकारी ॥३॥७॥२९॥483॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+रोजा (रोजा का आध्यात्मिक भाव) धरै (रखकर (करता है/ने)) मनावै (मनावै का आध्यात्मिक भाव) अलहु (अल्लाह, परमेश्वर, एक परमात्मा) सुआदति (सुआदति का आध्यात्मिक भाव) जीअ (जीवात्मा/प्राण) संघारै (संघारै का आध्यात्मिक भाव) ॥
+आपा (अहंकार, स्व-भाव) देखि (देखकर संबंधी) अवर (अन्य/दूसरा) नही (नहीं) देखै (देखकर (करता है/ने)) काहे (किसलिए/क्यों) कउ (को) झख (झख का आध्यात्मिक भाव) मारै (मारकर) ॥ ॥
+काजी (न्यायाधीश, धर्मगुरु) साहिबु (स्वामी/प्रभु) एकु (एक ही अद्वैत ब्रह्म) तोही (तुझमें/तेरे साथ) महि (में/भीतर) तेरा (तेरा/प्रभु का) सोचि (चिंता/फिक्र (में/करके)) बिचारि (चारों संबंधी) न (नहीं) देखै (देखकर (करता है/ने)) ॥
+खबरि (खबरि का आध्यात्मिक भाव) न (नहीं) करहि (करते हैं) दीन (निर्बल, असहाय, धर्म) के (के/संबंध-सूचक) बउरे (बावरे/पागल) ता (उस पर/उसका) ते (से/द्वारा) जनमु (मानव जन्म) अलेखै (अलेखै का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+साचु (साच (सधुक्कड़ी भाव)) कतेब (पवित्र आसमानी धर्मग्रंथ) बखानै (बखानै का आध्यात्मिक भाव) अलहु (अल्लाह, परमेश्वर, एक परमात्मा) नारि (स्त्री/नारी) पुरखु (पुरखु का आध्यात्मिक भाव) नही (नहीं) कोई (कोई भी जन) ॥
+पढे (पढे का आध्यात्मिक भाव) गुने (गुण/पुण्य) नाही (नहीं) कछु (कुछ भी) बउरे (बावरे/पागल) जउ (यदि/जब) दिल (हृदय) महि (में/भीतर) खबरि (खबरि का आध्यात्मिक भाव) न (नहीं) होई (तय हुआ) ॥ ॥
+अलहु (अल्लाह, परमेश्वर, एक परमात्मा) गैबु (गैबु का आध्यात्मिक भाव) सगल (संपूर्ण/समस्त) घट (हृदय/शरीर) भीतरि (भीतर/हृदय में) हिरदै (हृदय में) लेहु (लो/स्वीकार करो) बिचारी (विचार/मंथन) ॥
+हिंदू (हिंदू जन) तुरक (मुसलमान/तुर्क) दुहूं (दुहूं का आध्यात्मिक भाव) महि (में/भीतर) एकै (समान/एक जैसे (करता है/ने)) कहै (पुकारे) कबीर (संत कबीर जी) पुकारी (गुहार) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+roja (roja) dharai (placing (does/by)) manaavai (manaavai) alahu (Allah, the One Supreme Divine) suaadati (suaadati) jeea (living soul/breath) sanghaarai (sanghaarai) .
+aapa (egotism, individual vanity) dekhi (beholding related) avar (other/another) nahee (not) dekhai (beholding (does/by)) kaahe (wherefore/why) kau (unto) jhakh (jhakh) maarai (striking/killing) . .
+kaajee (Qazi, Islamic theologian) saahibu (Lord/Master) eku (The One Supreme Lord) tohee (in Thee) mahi (within/in) tera (thine/Lord's) sochi (anxiety/worry (in/having done)) bichaari (four related) n (not) dekhai (beholding (does/by)) .
+khabari (khabari) n (not) karahi (they do) deen (the meek, the righteous cause) ke (of) baure (insane/deluded) ta (upon that/his) te (from/by) janamu (human birth) alekhai (alekhai) . . rahaau (pause for reflection, foundational theme) .
+saachu (saach (spiritual sense)) kateb (holy scriptures) bakhaanai (bakhaanai) alahu (Allah, the One Supreme Divine) naari (woman/spouse) purakhu (purakhu) nahee (not) koee (anyone) .
+padhe (padhe) gune (virtues/merits) naahee (not) kachhu (anything/something) baure (insane/deluded) jau (if/when) dil (heart) mahi (within/in) khabari (khabari) n (not) hoee (transpired) . .
+alahu (Allah, the One Supreme Divine) gaibu (gaibu) sagal (all/entire) ghat (body/inner temple) bheetari (within the heart) hiradai (in the heart) lehu (take ye/receive) bichaaree (contemplation/thought) .
+hindoo (Hindu) turak (Muslim/Turk) duhoon (duhoon) mahi (within/in) ekai (equal and one (does/by)) kahai (chants) kabeer (Sant Kabir) pukaaree (cry/call) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! रोजा धरै मनावै अलहु सुआदति जीअ संघारै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! rojaadharaimanaavaialahusuaadatijeeasanghaarai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-41"></a>
+## शब्द 41: करवतु भला न करवट तेरी
+**English Title:** Shabad 41: Karavatau Bhalaa Na Karavata Taeraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+करवतु भला न करवट तेरी ॥
+लागु गले सुनु बिनती मेरी ॥१॥
+हउ वारी मुखु फेरि पिआरे ॥
+करवटु दे मो कउ काहे कउ मारे ॥१॥ रहाउ ॥
+जउ तनु चीरहि अंगु न मोरउ ॥
+पिंडु परै तउ प्रीति न तोरउ ॥२॥
+हम तुम बीचु भइओ नही कोई ॥
+तुमहि सु कंत नारि हम सोई ॥३॥
+कहतु कबीरु सुनहु रे लोई ॥
+अब तुमरी परतीति न होई ॥४॥२॥३५॥484॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+करवतु (करवतु का आध्यात्मिक भाव) भला (अच्छा ही) न (नहीं) करवट (करवट का आध्यात्मिक भाव) तेरी (तेरी/आपकी) ॥
+लागु (प्रेम-संबंध/लगन) गले (कंठ में/गले में) सुनु (सुनु का आध्यात्मिक भाव) बिनती (बिनती का आध्यात्मिक भाव) मेरी (मेरी जीवन-) ॥ ॥
+हउ (मैं/अहंभाव) वारी (न्योछावर) मुखु (चेहरा) फेरि (फिर) पिआरे (ईश्वरीय प्रेम) ॥
+करवटु (करवटु का आध्यात्मिक भाव) दे (के/पास) मो (मुझे/मुझको) कउ (को) काहे (किसलिए/क्यों) कउ (को) मारे (प्रियतम के विरह के) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जउ (यदि/जब) तनु (नश्वर शरीर/देह) चीरहि (चीरहि का आध्यात्मिक भाव) अंगु (शरीर के अंग-प्रत्यंग) न (नहीं) मोरउ (मोरउ का आध्यात्मिक भाव) ॥
+पिंडु (पिंडु का आध्यात्मिक भाव) परै (किन्तु/परन्तु (करता है/ने)) तउ (तब/तो भी) प्रीति (प्रेम संबंधी) न (नहीं) तोरउ (तोरउ का आध्यात्मिक भाव) ॥ ॥
+हम (हम सब प्राणी) तुम (आप/तुम) बीचु (बीचु का आध्यात्मिक भाव) भइओ (हुआ) नही (नहीं) कोई (कोई भी जन) ॥
+तुमहि (आप/तुम (को/में)) सु (वह) कंत (कंत का आध्यात्मिक भाव) नारि (स्त्री/नारी) हम (हम सब प्राणी) सोई (वही) ॥ ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) लोई (काली कमली, फकीरों का ऊनी कम्बल) ॥
+अब (अब/इस समय) तुमरी (तुमरी का आध्यात्मिक भाव) परतीति (परतीति का आध्यात्मिक भाव) न (नहीं) होई (तय हुआ) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+karavatu (karavatu) bhala (well/fortunate) n (not) karavat (karavat) teree (Thine) .
+laagu (spark of love/attachment) gale (at the throat/around neck) sunu (sunu) binatee (binatee) meree (my life's) . .
+hau (I/ego) vaaree (sacrifice) mukhu (face) pheri (again) piaare (divine love) .
+karavatu (karavatu) de (of/unto) mo (unto me) kau (unto) kaahe (wherefore/why) kau (unto) maare (afflicted by) . . rahaau (pause for reflection, foundational theme) .
+jau (if/when) tanu (mortal body) cheerahi (cheerahi) angu (every limb/pore of body) n (not) morau (morau) .
+pindu (pindu) parai (but/upon (does/by)) tau (then/still) preeti (love related) n (not) torau (torau) . .
+ham (we mortal beings) tum (You/Thou) beechu (beechu) bhaio (occurred/became) nahee (not) koee (anyone) .
+tumahi (You/Thou (unto/in)) su (that) kant (kant) naari (woman/spouse) ham (we mortal beings) soee (the very same) . .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) loee (coarse dark wool blanket of dervishes) .
+ab (now) tumaree (tumaree) parateeti (parateeti) n (not) hoee (transpired) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! करवतु भला न करवट तेरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! karavatubhalaanakaravatateree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 41: करवतु भला न करवट तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-42"></a>
+## शब्द 42: कोरी को काहू मरमु न जानां
+**English Title:** Shabad 42: Kaoraee Kao Kaahaoo Maramau Na Jaanaan
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कोरी को काहू मरमु न जानां ॥
+सभु जगु आनि तनाइओ तानां ॥१॥ रहाउ ॥
+जब तुम सुनि ले बेद पुरानां ॥
+तब हम इतनकु पसरिओ तानां ॥१॥
+धरनि अकास की करगह बनाई ॥
+चंदु सूरजु दुइ साथ चलाई ॥२॥
+पाई जोरि बात इक कीनी तह तांती मनु मानां ॥
+जोलाहे घरु अपना चीन्हां घट ही रामु पछानां ॥३॥
+कहतु कबीरु कारगह तोरी ॥
+सूतै सूत मिलाए कोरी ॥४॥३॥३६॥484॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कोरी (कोरी का आध्यात्मिक भाव) को (को/की ओर) काहू (किसी को/किसी से) मरमु (गूढ़ रहस्य/मर्म) न (नहीं) जानां (प्राण/जीवन (बहुवचन)) ॥
+सभु (सब कुछ/सम्पूर्ण) जगु (सम्पूर्ण जगत/संसार) आनि (आकर) तनाइओ (तनाइओ का आध्यात्मिक भाव) तानां (तानां का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) तुम (आप/तुम) सुनि (श्रवण करके/सुनकर) ले (लेकर) बेद (वेदों) पुरानां (अमर नगर/धाम (लोग/समूह)) ॥
+तब (उस समय/तब) हम (हम सब प्राणी) इतनकु (इतनकु का आध्यात्मिक भाव) पसरिओ (पसरिओ का आध्यात्मिक भाव) तानां (तानां का आध्यात्मिक भाव) ॥ ॥
+धरनि (रखकर (के/में)) अकास (गगन/आकाश) की (की/संबंध-सूचक) करगह (करगह का आध्यात्मिक भाव) बनाई (बनाई का आध्यात्मिक भाव) ॥
+चंदु (चंद्रमा) सूरजु (सूरजु का आध्यात्मिक भाव) दुइ (दो (द्वैत)) साथ (संग) चलाई (चलाई का आध्यात्मिक भाव) ॥ ॥
+पाई (प्राप्त कर लिया) जोरि (हाथ जोड़कर) बात (कथन) इक (एक ही) कीनी (क्या (लोग/समूह) संबंधी) तह (वहाँ) तांती (तांती का आध्यात्मिक भाव) मनु (मन/अंतःकरण) मानां (मानां का आध्यात्मिक भाव) ॥
+जोलाहे (जोलाहे का आध्यात्मिक भाव) घरु (आशियाना) अपना (अपना/स्वयं का) चीन्हां (चीन्हां का आध्यात्मिक भाव) घट (हृदय/शरीर) ही (केवल/मात्र) रामु (राम नाम की संबंधी) पछानां (पछानां का आध्यात्मिक भाव) ॥ ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) कारगह (कारगह का आध्यात्मिक भाव) तोरी (तेरी) ॥
+सूतै (सूतै का आध्यात्मिक भाव) सूत (सूत का आध्यात्मिक भाव) मिलाए (मिलाए का आध्यात्मिक भाव) कोरी (कोरी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+koree (koree) ko (unto/toward) kaahoo (anyone/anyone's) maramu (inner secret/mystery) n (not) jaanaan (life/soul (plural)) .
+sabhu (everything/all) jagu (the world/mortal realm) aani (coming) tanaaio (tanaaio) taanaan (taanaan) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) tum (You/Thou) suni (having heard/listened) le (taking/having taken) bed (Vedas) puraanaan (eternal city/realm (folk/plural)) .
+tab (at that time/then) ham (we mortal beings) itanaku (itanaku) pasario (pasario) taanaan (taanaan) . .
+dharani (placing (of/in)) akaas (celestial firmament) kee (of) karagah (karagah) banaaee (banaaee) .
+chandu (radiant moon) sooraju (sooraju) dui (two/duality) saath (company) chalaaee (chalaaee) . .
+paaee (have found/attained) jori (with folded hands) baat (word/matter) ik (in one) keenee (what (folk/plural) related) tah (there) taantee (taantee) manu (mind/inner spirit) maanaan (maanaan) .
+jolaahe (jolaahe) gharu (home/refuge) apana (one's own) cheenhaan (cheenhaan) ghat (body/inner temple) hee (alone/only) raamu (Lord Rama's related) pachhaanaan (pachhaanaan) . .
+kahatu (speaking/saying) kabeeru (Sant Kabir) kaaragah (kaaragah) toree (thy) .
+sootai (sootai) soot (soot) milaae (milaae) koree (koree) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कोरी को काहू मरमु न जानां—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! koreekokaahoomaramunajaanaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 42: कोरी को काहू मरमु न जानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-43"></a>
+## शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां
+**English Title:** Shabad 43: Antarai Maailau Jae Taeeratha Naavaai Taisau Ba
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां ॥
+लोक पतीणे कछू न होवै नाही रामु अयाना ॥१॥
+पूजहु रामु एकु ही देवा ॥
+साचा नावणु गुर की सेवा ॥१॥ रहाउ ॥
+जल कै मजनि जे गति होवै नित नित मेंडुक नावहि ॥
+जैसे मेंडुक तैसे ओइ नर फिरि फिरि जोनी आवहि ॥२॥
+मनहु कठोरु मरै बानारसि नरकु न बांचिआ जाई ॥
+हरि का संतु मरै हाड़्मबै त सगली सैन तराई ॥३॥
+दिनसु न रैनि बेदु नही सासत्र तहा बसै निरंकारा ॥
+कहि कबीर नर तिसहि धिआवहु बावरिआ संसारा ॥४॥४॥३७॥484॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अंतरि (हृदय के भीतर) मैलु (मैलु का आध्यात्मिक भाव) जे (यदि) तीरथ (तीर्थ) नावै (नौका/साधन) तिसु (उसको) बैकुंठ (बैकुंठ (सधुक्कड़ी भाव)) न (नहीं) जानां (प्राण/जीवन (बहुवचन)) ॥
+लोक (संसारी लोग) पतीणे (पतीणे का आध्यात्मिक भाव) कछू (कुछ) न (नहीं) होवै (होता है) नाही (नहीं) रामु (राम नाम की संबंधी) अयाना (अयाना का आध्यात्मिक भाव) ॥ ॥
+पूजहु (पूजहु का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) एकु (एक ही अद्वैत ब्रह्म) ही (केवल/मात्र) देवा (हे देवाधिदेव!) ॥
+साचा (साच (सधुक्कड़ी भाव)) नावणु (नावणु का आध्यात्मिक भाव) गुर (गुरु के) की (की/संबंध-सूचक) सेवा (समर्पित भक्ति) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जल (पानी) कै (के/का) मजनि (मजनि का आध्यात्मिक भाव) जे (यदि) गति (परम गति/मुक्ति) होवै (होता है) नित (नित्य/प्रतिदिन) नित (नित्य/प्रतिदिन) मेंडुक (मेंडुक का आध्यात्मिक भाव) नावहि (नावहि का आध्यात्मिक भाव) ॥
+जैसे (जिस प्रकार) मेंडुक (मेंडुक का आध्यात्मिक भाव) तैसे (उसी प्रकार) ओइ (वे सब) नर (पुरुष/मनुष्य) फिरि (फिर भी (में/करके)) फिरि (फिर भी (में/करके)) जोनी (योनि/जन्म-चक्र) आवहि (आते हैं) ॥ ॥
+मनहु (मनहु का आध्यात्मिक भाव) कठोरु (कठोरु का आध्यात्मिक भाव) मरै (मर नहीं (करता है/होता है)) बानारसि (बानारसि का आध्यात्मिक भाव) नरकु (दोज़ख़) न (नहीं) बांचिआ (बांचिआ का आध्यात्मिक भाव) जाई (जाओ) ॥
+हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) संतु (संत/महात्मा) मरै (मर नहीं (करता है/होता है)) हाड़्मबै (हाड़्मबै का आध्यात्मिक भाव) त (तो फिर/निश्चय ही) सगली (सम्पूर्ण/समस्त) सैन (संत सैन जी) तराई (तराई का आध्यात्मिक भाव) ॥ ॥
+दिनसु (दिनसु का आध्यात्मिक भाव) न (नहीं) रैनि (रात (में/करके)) बेदु (वेदों) नही (नहीं) सासत्र (सासत्र का आध्यात्मिक भाव) तहा (वहाँ पर) बसै (निवास करे/बसे) निरंकारा (निरंकारा का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) नर (पुरुष/मनुष्य) तिसहि (तिसहि का आध्यात्मिक भाव) धिआवहु (धिआवहु का आध्यात्मिक भाव) बावरिआ (बावरिआ का आध्यात्मिक भाव) संसारा (जगत् संबंधी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+antari (within the heart) mailu (mailu) je (if) teerath (pilgrimage shrine) naavai (boat/vessel of truth) tisu (unto that one) baikunth (baikunth (spiritual sense)) n (not) jaanaan (life/soul (plural)) .
+lok (worldly people) pateene (pateene) kachhoo (anything) n (not) hovai (happens/becomes) naahee (not) raamu (Lord Rama's related) ayaana (ayaana) . .
+poojahu (poojahu) raamu (Lord Rama's related) eku (The One Supreme Lord) hee (alone/only) deva (O Divine Lord!) .
+saacha (saach (spiritual sense)) naavanu (naavanu) gur (of the Master) kee (of) seva (devoted service) . . rahaau (pause for reflection, foundational theme) .
+jal (water) kai (of) majani (majani) je (if) gati (spiritual emancipation) hovai (happens/becomes) nit (daily/ever) nit (daily/ever) menduk (menduk) naavahi (naavahi) .
+jaise (just as) menduk (menduk) taise (in that manner) oi (they all) nar (man/mortal) phiri (then (in/having done)) phiri (then (in/having done)) jonee (wombs/transmigration) aavahi (they arrive) . .
+manahu (manahu) kathoru (kathoru) marai (dies (does/becomes)) baanaarasi (baanaarasi) naraku (hell) n (not) baanchia (baanchia) jaaee (slip away) .
+hari (The Lord who dispels grief (Hari)) ka (of) santu (holy saint) marai (dies (does/becomes)) haadmabai (haadmabai) t (then indeed) sagalee (entire/whole) sain (Sant Sain) taraaee (taraaee) . .
+dinasu (dinasu) n (not) raini (night (in/having done)) bedu (Vedas) nahee (not) saasatr (saasatr) taha (there) basai (may dwell/reside) nirankaara (nirankaara) .
+kahi (from (unto/in)) kabeer (Sant Kabir) nar (man/mortal) tisahi (tisahi) dhiaavahu (dhiaavahu) baavaria (baavaria) sansaara (world related) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! antarimailujeteerathanaavaitisubaikunthanaja—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-44"></a>
+## शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै
+**English Title:** Shabad 44: Chaarai Paava Daui Sainga Gaunga Maukha Taba
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै ॥
+ऊठत बैठत ठेगा परिहै तब कत मूड लुकईहै ॥१॥
+हरि बिनु बैल बिराने हुईहै ॥
+फाटे नाकन टूटे काधन कोदउ को भुसु खईहै ॥१॥ रहाउ ॥
+सारो दिनु डोलत बन महीआ अजहु न पेट अघईहै ॥
+जन भगतन को कहो न मानो कीओ अपनो पईहै ॥२॥
+दुख सुख करत महा भ्रमि बूडो अनिक जोनि भरमईहै ॥
+रतन जनमु खोइओ प्रभु बिसरिओ इहु अउसरु कत पईहै ॥३॥
+भ्रमत फिरत तेलक के कपि जिउ गति बिनु रैनि बिहईहै ॥
+कहत कबीर राम नाम बिनु मूंड धुने पछुतईहै ॥४॥१॥524॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+चारि (चारों संबंधी) पाव (पाव का आध्यात्मिक भाव) दुइ (दो (द्वैत)) सिंग (सिंग का आध्यात्मिक भाव) गुंग (गुंग का आध्यात्मिक भाव) मुख (चेहरा) तब (उस समय/तब) कैसे (किस प्रकार) गुन (गुण/पुण्य) गईहै (गईहै का आध्यात्मिक भाव) ॥
+ऊठत (ऊठत का आध्यात्मिक भाव) बैठत (बैठत का आध्यात्मिक भाव) ठेगा (ठेगा का आध्यात्मिक भाव) परिहै (परिहै का आध्यात्मिक भाव) तब (उस समय/तब) कत (कहाँ/क्यों) मूड (मस्तक, सिर) लुकईहै (लुकईहै का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) बिनु (बिना/रहित) बैल (बैल (सधुक्कड़ी भाव)) बिराने (बिराने का आध्यात्मिक भाव) हुईहै (हुईहै का आध्यात्मिक भाव) ॥
+फाटे (फाटे (सधुक्कड़ी भाव)) नाकन (नाकन का आध्यात्मिक भाव) टूटे (टूटे का आध्यात्मिक भाव) काधन (काधन का आध्यात्मिक भाव) कोदउ (कोदउ का आध्यात्मिक भाव) को (को/की ओर) भुसु (भुसु का आध्यात्मिक भाव) खईहै (खईहै का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सारो (तत्व, अमृत) दिनु (दिवस संबंधी) डोलत (डोलत का आध्यात्मिक भाव) बन (वन/जंगल) महीआ (महीआ का आध्यात्मिक भाव) अजहु (आज भी/अब भी) न (नहीं) पेट (पेट का आध्यात्मिक भाव) अघईहै (अघईहै का आध्यात्मिक भाव) ॥
+जन (भक्त/सेवक) भगतन (भगतन का आध्यात्मिक भाव) को (को/की ओर) कहो (कहकर) न (नहीं) मानो (मानो/जैसे कि) कीओ (किया) अपनो (अपनो का आध्यात्मिक भाव) पईहै (पईहै का आध्यात्मिक भाव) ॥ ॥
+दुख (कष्ट/संताप) सुख (सच्चा सुख) करत (करते) महा (अत्यंत/महान) भ्रमि (भ्रांति/संशय/अज्ञान (में/करके)) बूडो (बूडो का आध्यात्मिक भाव) अनिक (अनेक/नाना प्रकार) जोनि (जिससे (के/में)) भरमईहै (भरमईहै का आध्यात्मिक भाव) ॥
+रतन (अमूल्य रत्न) जनमु (मानव जन्म) खोइओ (खोइओ का आध्यात्मिक भाव) प्रभु (परमेश्वर/प्रभु) बिसरिओ (विस्मृत हो गया/भूल गया) इहु (यह) अउसरु (अउसरु का आध्यात्मिक भाव) कत (कहाँ/क्यों) पईहै (पईहै का आध्यात्मिक भाव) ॥ ॥
+भ्रमत (भ्रांति/संशय/अज्ञान (करते हुए)) फिरत (फिरत का आध्यात्मिक भाव) तेलक (तेलक का आध्यात्मिक भाव) के (के/संबंध-सूचक) कपि (कपि का आध्यात्मिक भाव) जिउ (जैसे/ज्यों) गति (परम गति/मुक्ति) बिनु (बिना/रहित) रैनि (रात (में/करके)) बिहईहै (बिहईहै का आध्यात्मिक भाव) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) बिनु (बिना/रहित) मूंड (मूंड का आध्यात्मिक भाव) धुने (धुने का आध्यात्मिक भाव) पछुतईहै (पछुतईहै का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+chaari (four related) paav (paav) dui (two/duality) sing (sing) gung (gung) mukh (face) tab (at that time/then) kaise (how) gun (virtues/merits) gaeehai (gaeehai) .
+oothat (oothat) baithat (baithat) thega (thega) parihai (parihai) tab (at that time/then) kat (where/why) mood (head, shaven scalp) lukaeehai (lukaeehai) . .
+hari (The Lord who dispels grief (Hari)) binu (without/devoid of) bail (bail (spiritual sense)) biraane (biraane) hueehai (hueehai) .
+phaate (phaate (spiritual sense)) naakan (naakan) toote (toote) kaadhan (kaadhan) kodau (kodau) ko (unto/toward) bhusu (bhusu) khaeehai (khaeehai) . . rahaau (pause for reflection, foundational theme) .
+saaro (essence, supreme truth) dinu (day related) dolat (dolat) ban (forest) maheea (maheea) ajahu (even today/still) n (not) pet (pet) aghaeehai (aghaeehai) .
+jan (devotee/humble servant) bhagatan (bhagatan) ko (unto/toward) kaho (saying) n (not) maano (as if/suppose) keeo (created/done) apano (apano) paeehai (paeehai) . .
+dukh (pain/suffering) sukh (true bliss) karat (doing) maha (great/supreme) bhrami (illusion/doubt (in/having done)) boodo (boodo) anik (manifold/countless) joni (that (of/in)) bharamaeehai (bharamaeehai) .
+ratan (gem) janamu (human birth) khoio (khoio) prabhu (Supreme Lord) bisario (forgotten/strayed) ihu (this) ausaru (ausaru) kat (where/why) paeehai (paeehai) . .
+bhramat (illusion/doubt (while doing)) phirat (phirat) telak (telak) ke (of) kapi (kapi) jiu (just as) gati (spiritual emancipation) binu (without/devoid of) raini (night (in/having done)) bihaeehai (bihaeehai) .
+kahat (speaking/saying) kabeer (Sant Kabir) raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) moond (moond) dhune (dhune) pachhutaeehai (pachhutaeehai) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! chaaripaavaduisingagungamukhatabakaisegunag—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-45"></a>
+## शब्द 45: मुसि मुसि रोवै कबीर की माई
+**English Title:** Shabad 45: Mausai Mausai Raovaai Kabaeera Kaee Maaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मुसि मुसि रोवै कबीर की माई ॥
+ए बारिक कैसे जीवहि रघुराई ॥१॥
+तनना बुनना सभु तजिओ है कबीर ॥
+हरि का नामु लिखि लीओ सरीर ॥१॥ रहाउ ॥
+जब लगु तागा बाहउ बेही ॥
+तब लगु बिसरै रामु सनेही ॥२॥
+ओछी मति मेरी जाति जुलाहा ॥
+हरि का नामु लहिओ मै लाहा ॥३॥
+कहत कबीर सुनहु मेरी माई ॥
+हमरा इन का दाता एकु रघुराई ॥४॥२॥524॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मुसि (मुसि का आध्यात्मिक भाव) मुसि (मुसि का आध्यात्मिक भाव) रोवै (रोवै का आध्यात्मिक भाव) कबीर (संत कबीर जी) की (की/संबंध-सूचक) माई (हे माता!/हे सखी!) ॥
+ए (ये सब) बारिक (बारिक का आध्यात्मिक भाव) कैसे (किस प्रकार) जीवहि (जीवहि का आध्यात्मिक भाव) रघुराई (रघुराई का आध्यात्मिक भाव) ॥ ॥
+तनना (तनना का आध्यात्मिक भाव) बुनना (बुनना का आध्यात्मिक भाव) सभु (सब कुछ/सम्पूर्ण) तजिओ (तजिओ का आध्यात्मिक भाव) है (है कि) कबीर (संत कबीर जी) ॥
+हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) नामु (सत्य-नाम) लिखि (लिखकर) लीओ (लीओ का आध्यात्मिक भाव) सरीर (मानव शरीर/देह) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) तागा (धागा/सूत) बाहउ (बाहउ का आध्यात्मिक भाव) बेही (बेही का आध्यात्मिक भाव) ॥
+तब (उस समय/तब) लगु (लगो/समीप आओ) बिसरै (बिसरै (सधुक्कड़ी भाव)) रामु (राम नाम की संबंधी) सनेही (सनेही (सधुक्कड़ी भाव)) ॥ ॥
+ओछी (ओछी (सधुक्कड़ी भाव)) मति (बुद्धि/समझ) मेरी (मेरी जीवन-) जाति (जन्मना जाति/वर्ण) जुलाहा (बुनकर, वस्त्र निर्माता) ॥
+हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) नामु (सत्य-नाम) लहिओ (लहिओ का आध्यात्मिक भाव) मै (मैं/मैंने) लाहा (लाहा का आध्यात्मिक भाव) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) मेरी (मेरी जीवन-) माई (हे माता!/हे सखी!) ॥
+हमरा (हमारा) इन (इन सब को) का (का/संबंध-सूचक) दाता (सर्व-प्रदाता प्रभु) एकु (एक ही अद्वैत ब्रह्म) रघुराई (रघुराई का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+musi (musi) musi (musi) rovai (rovai) kabeer (Sant Kabir) kee (of) maaee (O mother/O friend!) .
+e (these) baarik (baarik) kaise (how) jeevahi (jeevahi) raghuraaee (raghuraaee) . .
+tanana (tanana) bunana (bunana) sabhu (everything/all) tajio (tajio) hai (is) kabeer (Sant Kabir) .
+hari (The Lord who dispels grief (Hari)) ka (of) naamu (True Name) likhi (having inscribed) leeo (leeo) sareer (mortal body) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) lagu (cling to/attach) taaga (thread) baahau (baahau) behee (behee) .
+tab (at that time/then) lagu (cling to/attach) bisarai (bisarai (spiritual sense)) raamu (Lord Rama's related) sanehee (sanehee (spiritual sense)) . .
+ochhee (ochhee (spiritual sense)) mati (intellect/mind) meree (my life's) jaati (caste/social division) julaaha (weaver, artisan of consciousness) .
+hari (The Lord who dispels grief (Hari)) ka (of) naamu (True Name) lahio (lahio) mai (I/by me) laaha (laaha) . .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) meree (my life's) maaee (O mother/O friend!) .
+hamara (our/ours) in (unto all these) ka (of) daata (Supreme Giver/Benefactor) eku (The One Supreme Lord) raghuraaee (raghuraaee) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मुसि मुसि रोवै कबीर की माई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! musimusirovaikabeerakeemaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 45: मुसि मुसि रोवै कबीर की माई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-46"></a>
+## शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई
+**English Title:** Shabad 46: Bauta Paoojai Paoojai Haindaoo Maooe Tauraka Ma
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई ॥
+ओइ ले जारे ओइ ले गाडे तेरी गति दुहू न पाई ॥१॥
+मन रे संसारु अंध गहेरा ॥
+चहु दिस पसरिओ है जम जेवरा ॥१॥ रहाउ ॥
+कबित पड़े पड़ि कबिता मूए कपड़ केदारै जाई ॥
+जटा धारि धारि जोगी मूए तेरी गति इनहि न पाई ॥२॥
+दरबु संचि संचि राजे मूए गडि ले कंचन भारी ॥
+बेद पड़े पड़ि पंडित मूए रूपु देखि देखि नारी ॥३॥
+राम नाम बिनु सभै बिगूते देखहु निरखि सरीरा ॥
+हरि के नाम बिनु किनि गति पाई कहि उपदेसु कबीरा ॥४॥१॥654॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बुत (बुत का आध्यात्मिक भाव) पूजि (सच्ची पूजा/अर्चन (में/करके)) पूजि (सच्ची पूजा/अर्चन (में/करके)) हिंदू (हिंदू जन) मूए (मूए का आध्यात्मिक भाव) तुरक (मुसलमान/तुर्क) मूए (मूए का आध्यात्मिक भाव) सिरु (शीश) नाई (नाई (सधुक्कड़ी भाव)) ॥
+ओइ (वे सब) ले (लेकर) जारे (जारे का आध्यात्मिक भाव) ओइ (वे सब) ले (लेकर) गाडे (गाडे का आध्यात्मिक भाव) तेरी (तेरी/आपकी) गति (परम गति/मुक्ति) दुहू (दुहू का आध्यात्मिक भाव) न (नहीं) पाई (प्राप्त कर लिया) ॥ ॥
+मन (मन/चित्त) रे (रा (रज़ा व समर्पण)) संसारु (संसार) अंध (अंध का आध्यात्मिक भाव) गहेरा (गहेरा का आध्यात्मिक भाव) ॥
+चहु (और (से/द्वारा)) दिस (दिशा) पसरिओ (पसरिओ का आध्यात्मिक भाव) है (है कि) जम (यमराज/मृत्यु) जेवरा (जेवरा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कबित (कबित का आध्यात्मिक भाव) पड़े (पड़े का आध्यात्मिक भाव) पड़ि (पड़ि का आध्यात्मिक भाव) कबिता (कबिता का आध्यात्मिक भाव) मूए (मूए का आध्यात्मिक भाव) कपड़ (कपड़ का आध्यात्मिक भाव) केदारै (केदार राग) जाई (जाओ) ॥
+जटा (जटा का आध्यात्मिक भाव) धारि (धार (सधुक्कड़ी भाव)) धारि (धार (सधुक्कड़ी भाव)) जोगी (योगी) मूए (मूए का आध्यात्मिक भाव) तेरी (तेरी/आपकी) गति (परम गति/मुक्ति) इनहि (इनहि का आध्यात्मिक भाव) न (नहीं) पाई (प्राप्त कर लिया) ॥ ॥
+दरबु (दरबु का आध्यात्मिक भाव) संचि (संचि का आध्यात्मिक भाव) संचि (संचि का आध्यात्मिक भाव) राजे (आदर्श शासन/राज संबंधी) मूए (मूए का आध्यात्मिक भाव) गडि (गडि का आध्यात्मिक भाव) ले (लेकर) कंचन (स्वर्ण, सोना) भारी (कठिन/गंभीर) ॥
+बेद (वेदों) पड़े (पड़े का आध्यात्मिक भाव) पड़ि (पड़ि का आध्यात्मिक भाव) पंडित (पंडित/शास्त्रज्ञ) मूए (मूए का आध्यात्मिक भाव) रूपु (स्वरूप) देखि (देखकर संबंधी) देखि (देखकर संबंधी) नारी (स्त्री/माया) ॥ ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) बिनु (बिना/रहित) सभै (सब कुछ) बिगूते (बिगूते का आध्यात्मिक भाव) देखहु (देखहु का आध्यात्मिक भाव) निरखि (निरखि (सधुक्कड़ी भाव)) सरीरा (मानव शरीर/देह) ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) नाम (परम पावन नाम) बिनु (बिना/रहित) किनि (किन लोगों ने/किनको (में/करके)) गति (परम गति/मुक्ति) पाई (प्राप्त कर लिया) कहि (से (को/में)) उपदेसु (उपदेस (सधुक्कड़ी भाव)) कबीरा (संत कबीर जी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+but (but) pooji (true worship (in/having done)) pooji (true worship (in/having done)) hindoo (Hindu) mooe (mooe) turak (Muslim/Turk) mooe (mooe) siru (head) naaee (naaee (spiritual sense)) .
+oi (they all) le (taking/having taken) jaare (jaare) oi (they all) le (taking/having taken) gaade (gaade) teree (Thine) gati (spiritual emancipation) duhoo (duhoo) n (not) paaee (have found/attained) . .
+man (mind/inner consciousness) re (Re (Divine Will)) sansaaru (the world) andh (andh) gahera (gahera) .
+chahu (and (from/by)) dis (direction) pasario (pasario) hai (is) jam (Yamraj/Death) jevara (jevara) . . rahaau (pause for reflection, foundational theme) .
+kabit (kabit) pade (pade) padi (padi) kabita (kabita) mooe (mooe) kapad (kapad) kedaarai (Kedara musical measure) jaaee (slip away) .
+jata (jata) dhaari (dhaar (spiritual sense)) dhaari (dhaar (spiritual sense)) jogee (yogi) mooe (mooe) teree (Thine) gati (spiritual emancipation) inahi (inahi) n (not) paaee (have found/attained) . .
+darabu (darabu) sanchi (sanchi) sanchi (sanchi) raaje (realm/kingdom related) mooe (mooe) gadi (gadi) le (taking/having taken) kanchan (gold, pure wealth) bhaaree (heavy/severe) .
+bed (Vedas) pade (pade) padi (padi) pandit (learned scholar/priest) mooe (mooe) roopu (form) dekhi (beholding related) dekhi (beholding related) naaree (woman/Maya) . .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) sabhai (everything/all) bigoote (bigoote) dekhahu (dekhahu) nirakhi (nirakhi (spiritual sense)) sareera (mortal body) .
+hari (The Lord who dispels grief (Hari)) ke (of) naam (Divine Name) binu (without/devoid of) kini (by whom/unto whom (in/having done)) gati (spiritual emancipation) paaee (have found/attained) kahi (from (unto/in)) upadesu (upades (spiritual sense)) kabeera (Sant Kabir) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! butapoojipoojihindoomooeturakamooesiruna—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-47"></a>
+## शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई
+**English Title:** Shabad 47: Jaba Jaraeeai Taba Haoi Bhasama Tanau Rahaai Kaira
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई ॥
+काची गागरि नीरु परतु है इआ तन की इहै बडाई ॥१॥
+काहे भईआ फिरतौ फूलिआ फूलिआ ॥
+जब दस मास उरध मुख रहता सो दिनु कैसे भूलिआ ॥१॥ रहाउ ॥
+जिउ मधु माखी तिउ सठोरि रसु जोरि जोरि धनु कीआ ॥
+मरती बार लेहु लेहु करीऐ भूतु रहन किउ दीआ ॥२॥
+देहुरी लउ बरी नारि संगि भई आगै सजन सुहेला ॥
+मरघट लउ सभु लोगु कुट्मबु भइओ आगै हंसु अकेला ॥३॥
+कहतु कबीर सुनहु रे प्रानी परे काल ग्रस कूआ ॥
+झूठी माइआ आपु बंधाइआ जिउ नलनी भ्रमि सूआ ॥४॥२॥654॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जब (जिस समय/जब) जरीऐ (जरीऐ का आध्यात्मिक भाव) तब (उस समय/तब) होइ (होकर) भसम (राख) तनु (नश्वर शरीर/देह) रहै (रहे/सदा रहे) किरम (किरम का आध्यात्मिक भाव) दल (समूह/दल/पंखुड़ियां) खाई (खाई/खड्डा) ॥
+काची (काची (सधुक्कड़ी भाव)) गागरि (गागरि का आध्यात्मिक भाव) नीरु (जल, पानी) परतु (किन्तु/परन्तु (करते हुए)) है (है कि) इआ (इआ का आध्यात्मिक भाव) तन (शरीर के) की (की/संबंध-सूचक) इहै (ये (करता है/ने)) बडाई (बडाई का आध्यात्मिक भाव) ॥ ॥
+काहे (किसलिए/क्यों) भईआ (भईआ का आध्यात्मिक भाव) फिरतौ (फिरते हैं (को/ने)) फूलिआ (फूलिआ का आध्यात्मिक भाव) फूलिआ (फूलिआ का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) दस (दस इंद्रियां/संख्या दस) मास (मांस) उरध (उरध (सधुक्कड़ी भाव)) मुख (चेहरा) रहता (रहता हुआ/आचरण) सो (वह/वही) दिनु (दिवस संबंधी) कैसे (किस प्रकार) भूलिआ (भूलिआ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जिउ (जैसे/ज्यों) मधु (मधु का आध्यात्मिक भाव) माखी (माखी (सधुक्कड़ी भाव)) तिउ (वैसे/त्यों) सठोरि (सठोरि का आध्यात्मिक भाव) रसु (हरि-नाम का अमृत रस) जोरि (हाथ जोड़कर) जोरि (हाथ जोड़कर) धनु (धन/संपत्ति) कीआ (किया) ॥
+मरती (मरते हुए) बार (द्वार) लेहु (लो/स्वीकार करो) लेहु (लो/स्वीकार करो) करीऐ (करीऐ का आध्यात्मिक भाव) भूतु (पंचभूत (तत्व)/भूतकाल) रहन (रहन का आध्यात्मिक भाव) किउ (अथवा) दीआ (दीपक/दिया) ॥ ॥
+देहुरी (देहुरी का आध्यात्मिक भाव) लउ (तक/लौ) बरी (बरी (सधुक्कड़ी भाव)) नारि (स्त्री/नारी) संगि (संगत में/सान्निध्य में) भई (हो गई) आगै (आगै (सधुक्कड़ी भाव)) सजन (सजन का आध्यात्मिक भाव) सुहेला (सुहेला का आध्यात्मिक भाव) ॥
+मरघट (मरघट का आध्यात्मिक भाव) लउ (तक/लौ) सभु (सब कुछ/सम्पूर्ण) लोगु (संसार के लोग) कुट्मबु (कुटुम्ब/परिवार) भइओ (हुआ) आगै (आगै (सधुक्कड़ी भाव)) हंसु (हंसु का आध्यात्मिक भाव) अकेला (अकेला (सधुक्कड़ी भाव)) ॥ ॥
+कहतु (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) प्रानी (प्राण/जीवन संबंधी) परे (दूर) काल (काल/मृत्यु) ग्रस (ग्रस का आध्यात्मिक भाव) कूआ (कूआ का आध्यात्मिक भाव) ॥
+झूठी (झूठी (सधुक्कड़ी भाव)) माइआ (माया/भ्रम) आपु (स्वयं) बंधाइआ (बंधाइआ का आध्यात्मिक भाव) जिउ (जैसे/ज्यों) नलनी (नलनी का आध्यात्मिक भाव) भ्रमि (भ्रांति/संशय/अज्ञान (में/करके)) सूआ (सूआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jab (at the time when) jareeai (jareeai) tab (at that time/then) hoi (having become) bhasam (ashes) tanu (mortal body) rahai (may abide/remain) kiram (kiram) dal (host/petals) khaaee (trench/consumed) .
+kaachee (kaachee (spiritual sense)) gaagari (gaagari) neeru (water, flowing stream) paratu (but/upon (while doing)) hai (is) ia (ia) tan (body) kee (of) ihai (these (does/by)) badaaee (badaaee) . .
+kaahe (wherefore/why) bhaeea (bhaeea) phiratau (wandering (unto/by)) phoolia (phoolia) phoolia (phoolia) .
+jab (at the time when) das (ten) maas (flesh) uradh (uradh (spiritual sense)) mukh (face) rahata (abiding/conduct) so (that/the same) dinu (day related) kaise (how) bhoolia (bhoolia) . . rahaau (pause for reflection, foundational theme) .
+jiu (just as) madhu (madhu) maakhee (maakhee (spiritual sense)) tiu (in that manner) sathori (sathori) rasu (nectar of divine essence) jori (with folded hands) jori (with folded hands) dhanu (wealth/riches) keea (did/created) .
+maratee (while dying) baar (door) lehu (take ye/receive) lehu (take ye/receive) kareeai (kareeai) bhootu (five elements/past) rahan (rahan) kiu (or is it) deea (lamp/gave) . .
+dehuree (dehuree) lau (until/flame) baree (baree (spiritual sense)) naari (woman/spouse) sangi (in company of) bhaee (became) aagai (aagai (spiritual sense)) sajan (sajan) suhela (suhela) .
+maraghat (maraghat) lau (until/flame) sabhu (everything/all) logu (worldly folk) kutmabu (family/household) bhaio (occurred/became) aagai (aagai (spiritual sense)) hansu (hansu) akela (akela (spiritual sense)) . .
+kahatu (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) praanee (life-breath/soul related) pare (aside) kaal (death/time) gras (gras) kooa (kooa) .
+jhoothee (jhoothee (spiritual sense)) maaia (cosmic illusion) aapu (oneself) bandhaaia (bandhaaia) jiu (just as) nalanee (nalanee) bhrami (illusion/doubt (in/having done)) sooa (sooa) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jabajareeaitabahoibhasamatanurahaikiramadalakhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-48"></a>
+## शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा
+**English Title:** Shabad 48: Baeda Pauraana Sabhaai Mata Saunai Kaai Karaee Ka
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बेद पुरान सभै मत सुनि कै करी करम की आसा ॥
+काल ग्रसत सभ लोग सिआने उठि पंडित पै चले निरासा ॥१॥
+मन रे सरिओ न एकै काजा ॥
+भजिओ न रघुपति राजा ॥१॥ रहाउ ॥
+बन खंड जाइ जोगु तपु कीनो कंद मूलु चुनि खाइआ ॥
+नादी बेदी सबदी मोनी जम के पटै लिखाइआ ॥२॥
+भगति नारदी रिदै न आई काछि कूछि तनु दीना ॥
+राग रागनी डि्मभ होइ बैठा उनि हरि पहि किआ लीना ॥३॥
+परिओ कालु सभै जग ऊपर माहि लिखे भ्रम गिआनी ॥
+कहु कबीर जन भए खालसे प्रेम भगति जिह जानी ॥४॥३॥654॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बेद (वेदों) पुरान (अमर नगर/धाम (लोग/समूह)) सभै (सब कुछ) मत (और मति का रहस्य) सुनि (श्रवण करके/सुनकर) कै (के/का) करी (की) करम (कर्मकांड) की (की/संबंध-सूचक) आसा (आशा राग/कामना) ॥
+काल (काल/मृत्यु) ग्रसत (ग्रसत का आध्यात्मिक भाव) सभ (सब) लोग (संसार के लोग) सिआने (सिआने का आध्यात्मिक भाव) उठि (उठकर/जागकर) पंडित (पंडित/शास्त्रज्ञ) पै (पड़) चले (चले/प्रस्थान करे) निरासा (निरास (सधुक्कड़ी भाव)) ॥ ॥
+मन (मन/चित्त) रे (रा (रज़ा व समर्पण)) सरिओ (सरिओ का आध्यात्मिक भाव) न (नहीं) एकै (समान/एक जैसे (करता है/ने)) काजा (कार्य/प्रयोजन) ॥
+भजिओ (भजिओ का आध्यात्मिक भाव) न (नहीं) रघुपति (रघुपति का आध्यात्मिक भाव) राजा (आदर्श शासन/राज संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बन (वन/जंगल) खंड (शर्करा/टुकड़ा) जाइ (जिसका/जब (में/करके)) जोगु (योग/साधना) तपु (तपस्या/तप) कीनो (क्या (लोग/समूह) संबंधी) कंद (कंद का आध्यात्मिक भाव) मूलु (जड़) चुनि (चुनकर/एकत्र करके) खाइआ (खाइआ का आध्यात्मिक भाव) ॥
+नादी (ध्वनि, संगीत) बेदी (वेदों) सबदी (ईश्वरीय शब्द, अनाहत ध्वनि) मोनी (मोनी का आध्यात्मिक भाव) जम (यमराज/मृत्यु) के (के/संबंध-सूचक) पटै (कपाट, पर्दा) लिखाइआ (लिखाइआ का आध्यात्मिक भाव) ॥ ॥
+भगति (प्रेम-भक्ति) नारदी (देवर्षि नारद) रिदै (हृदय में) न (नहीं) आई (आई है) काछि (काछि का आध्यात्मिक भाव) कूछि (कूछि का आध्यात्मिक भाव) तनु (नश्वर शरीर/देह) दीना (निर्बल, असहाय, धर्म) ॥
+राग (राग/संगीत-पद्धति) रागनी (रागनी का आध्यात्मिक भाव) डि्मभ (डि्मभ का आध्यात्मिक भाव) होइ (होकर) बैठा (बैठा का आध्यात्मिक भाव) उनि (उन (सधुक्कड़ी भाव)) हरि (दुख-हर्ता परमात्मा) पहि (पहि का आध्यात्मिक भाव) किआ (क्या) लीना (लीना (सधुक्कड़ी भाव)) ॥ ॥
+परिओ (परिओ का आध्यात्मिक भाव) कालु (काल/मृत्यु) सभै (सब कुछ) जग (संसार) ऊपर (ऊपर/मस्तक पर) माहि (में/अंदर) लिखे (लिखे का आध्यात्मिक भाव) भ्रम (भ्रांति/संशय/अज्ञान) गिआनी (ज्ञानी/तत्वदर्शी) ॥
+कहु (बताओ) कबीर (संत कबीर जी) जन (भक्त/सेवक) भए (हो गए) खालसे (खालसे का आध्यात्मिक भाव) प्रेम (परम प्रेम/इश्क) भगति (प्रेम-भक्ति) जिह (जिस) जानी (के प्यारे) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bed (Vedas) puraan (eternal city/realm (folk/plural)) sabhai (everything/all) mat (wisdom) suni (having heard/listened) kai (of) karee (performed/did) karam (rituals) kee (of) aasa (Asa raga/hope) .
+kaal (death/time) grasat (grasat) sabh (all) log (worldly people) siaane (siaane) uthi (having arisen) pandit (learned scholar/priest) pai (falling) chale (departs/walks) niraasa (niraas (spiritual sense)) . .
+man (mind/inner consciousness) re (Re (Divine Will)) sario (sario) n (not) ekai (equal and one (does/by)) kaaja (work/purpose) .
+bhajio (bhajio) n (not) raghupati (raghupati) raaja (realm/kingdom related) . . rahaau (pause for reflection, foundational theme) .
+ban (forest) khand (sugar/portion) jaai (whose/when (in/having done)) jogu (spiritual yoga/union) tapu (austerity/penance) keeno (what (folk/plural) related) kand (kand) moolu (root/origin) chuni (having chosen/picked) khaaia (khaaia) .
+naadee (musical sound, primordial resonance) bedee (Vedas) sabadee (Divine Word, sacred mystical sound) monee (monee) jam (Yamraj/Death) ke (of) patai (veil, inner door) likhaaia (likhaaia) . .
+bhagati (loving devotion) naaradee (Narada the divine sage) ridai (in the heart) n (not) aaee (has come) kaachhi (kaachhi) koochhi (koochhi) tanu (mortal body) deena (the meek, the righteous cause) .
+raag (raga/musical melody) raaganee (raaganee) dimabh (dimabh) hoi (having become) baitha (baitha) uni (un (spiritual sense)) hari (The Lord who dispels grief (Hari)) pahi (pahi) kia (what) leena (leena (spiritual sense)) . .
+pario (pario) kaalu (death/time) sabhai (everything/all) jag (world's) oopar (above/upon) maahi (within) likhe (likhe) bhram (illusion/doubt) giaanee (wise sage/knower) .
+kahu (tell) kabeer (Sant Kabir) jan (devotee/humble servant) bhae (became) khaalase (khaalase) prem (Divine Love) bhagati (loving devotion) jih (which) jaanee (darling) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बेद पुरान सभै मत सुनि कै करी करम की आसा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bedapuraanasabhaimatasunikaikareekaramakeeaasa—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-49"></a>
+## शब्द 49: दुइ दुइ लोचन पेखा
+**English Title:** Shabad 49: Daui Daui Laochana Paekhaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+दुइ दुइ लोचन पेखा ॥
+हउ हरि बिनु अउरु न देखा ॥
+नैन रहे रंगु लाई ॥
+अब बे गल कहनु न जाई ॥१॥
+हमरा भरमु गइआ भउ भागा ॥
+जब राम नाम चितु लागा ॥१॥ रहाउ ॥
+बाजीगर डंक बजाई ॥
+सभ खलक तमासे आई ॥
+बाजीगर स्वांगु सकेला ॥
+अपने रंग रवै अकेला ॥२॥
+कथनी कहि भरमु न जाई ॥
+सभ कथि कथि रही लुकाई ॥
+जा कउ गुरमुखि आपि बुझाई ॥
+ता के हिरदै रहिआ समाई ॥३॥
+गुर किंचत किरपा कीनी ॥
+सभु तनु मनु देह हरि लीनी ॥
+कहि कबीर रंगि राता ॥
+मिलिओ जगजीवन दाता ॥४॥४॥655॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+दुइ (दो (द्वैत)) दुइ (दो (द्वैत)) लोचन (आंखें) पेखा (देखा) ॥
+हउ (मैं/अहंभाव) हरि (दुख-हर्ता परमात्मा) बिनु (बिना/रहित) अउरु (अन्य/दूसरा) न (नहीं) देखा (देखा/अवलोकन किया) ॥
+नैन (नेत्रों से) रहे (रहे हैं पर) रंगु (ईश्वरीय प्रेम का रंग) लाई (मारी है) ॥
+अब (अब/इस समय) बे (वे लोग) गल (गल का आध्यात्मिक भाव) कहनु (कहना/कथन) न (नहीं) जाई (जाओ) ॥ ॥
+हमरा (हमारा) भरमु (भ्रम) गइआ (गया) भउ (भउ का आध्यात्मिक भाव) भागा (भागा (सधुक्कड़ी भाव)) ॥
+जब (जिस समय/जब) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) चितु (चित्त/मन) लागा (लगा/लीन हुआ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बाजीगर (जादूगर/बाजीगर प्रभु) डंक (डंक का आध्यात्मिक भाव) बजाई (बजाई का आध्यात्मिक भाव) ॥
+सभ (सब) खलक (सृष्टि, संसार) तमासे (तमासे का आध्यात्मिक भाव) आई (आई है) ॥
+बाजीगर (जादूगर/बाजीगर प्रभु) स्वांगु (नाट्य रूप/स्वांग) सकेला (सकेला का आध्यात्मिक भाव) ॥
+अपने (अपने/स्वयं के) रंग (परम आनंद के) रवै (रमता है/स्मरण करता है) अकेला (अकेला (सधुक्कड़ी भाव)) ॥ ॥
+कथनी (कथन (सधुक्कड़ी भाव)) कहि (से (को/में)) भरमु (भ्रम) न (नहीं) जाई (जाओ) ॥
+सभ (सब) कथि (कथि का आध्यात्मिक भाव) कथि (कथि का आध्यात्मिक भाव) रही (हो रही हूँ) लुकाई (लुकाई का आध्यात्मिक भाव) ॥
+जा (जिसका/जब) कउ (को) गुरमुखि (गुरमुखि का आध्यात्मिक भाव) आपि (स्वयं/परमात्मा) बुझाई (बुझा दिया) ॥
+ता (उस पर/उसका) के (के/संबंध-सूचक) हिरदै (हृदय में) रहिआ (रहिआ का आध्यात्मिक भाव) समाई (समाई (सधुक्कड़ी भाव)) ॥ ॥
+गुर (गुरु के) किंचत (किंचत का आध्यात्मिक भाव) किरपा (कृपा) कीनी (क्या (लोग/समूह) संबंधी) ॥
+सभु (सब कुछ/सम्पूर्ण) तनु (नश्वर शरीर/देह) मनु (मन/अंतःकरण) देह (दो) हरि (दुख-हर्ता परमात्मा) लीनी (लीन (सधुक्कड़ी भाव)) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) रंगि (प्रेम-रंग में) राता (रंगा हुआ/लीन) ॥
+मिलिओ (मिलिओ का आध्यात्मिक भाव) जगजीवन (जगजीवन (सधुक्कड़ी भाव)) दाता (सर्व-प्रदाता प्रभु) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+dui (two/duality) dui (two/duality) lochan (eyes) pekha (saw/beheld) .
+hau (I/ego) hari (The Lord who dispels grief (Hari)) binu (without/devoid of) auru (other/another) n (not) dekha (beheld/saw) .
+nain (eyes) rahe (remain) rangu (color of divine ecstasy) laaee (struck) .
+ab (now) be (they) gal (gal) kahanu (saying/utterance) n (not) jaaee (slip away) . .
+hamara (our/ours) bharamu (illusion/doubt) gaia (went/departed) bhau (bhau) bhaaga (bhaaga (spiritual sense)) .
+jab (at the time when) raam (The All-Pervading Lord (Ram)) naam (Divine Name) chitu (inner mind) laaga (attached/engaged) . . rahaau (pause for reflection, foundational theme) .
+baajeegar (master magician/juggler) dank (dank) bajaaee (bajaaee) .
+sabh (all) khalak (creation, the created world) tamaase (tamaase) aaee (has come) .
+baajeegar (master magician/juggler) svaangu (disguise/masquerade) sakela (sakela) .
+apane (one's own) rang (in ecstasy) ravai (abides/chants) akela (akela (spiritual sense)) . .
+kathanee (kathan (spiritual sense)) kahi (from (unto/in)) bharamu (illusion/doubt) n (not) jaaee (slip away) .
+sabh (all) kathi (kathi) kathi (kathi) rahee (remain) lukaaee (lukaaee) .
+ja (whose/when) kau (unto) guramukhi (guramukhi) aapi (Himself/oneself) bujhaaee (extinguished) .
+ta (upon that/his) ke (of) hiradai (in the heart) rahia (rahia) samaaee (samaaee (spiritual sense)) . .
+gur (of the Master) kinchat (kinchat) kirapa (grace) keenee (what (folk/plural) related) .
+sabhu (everything/all) tanu (mortal body) manu (mind/inner spirit) deh (give) hari (The Lord who dispels grief (Hari)) leenee (leen (spiritual sense)) .
+kahi (from (unto/in)) kabeer (Sant Kabir) rangi (in the color of love) raata (dyed in divine love) .
+milio (milio) jagajeevan (jagajeevan (spiritual sense)) daata (Supreme Giver/Benefactor) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! दुइ दुइ लोचन पेखा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! duiduilochanapekha—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 49: दुइ दुइ लोचन पेखा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-50"></a>
+## शब्द 50: जा के निगम दूध के ठाटा
+**English Title:** Shabad 50: Jaa Kae Naigama Daoodha Kae Thaataa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जा के निगम दूध के ठाटा ॥
+समुंदु बिलोवन कउ माटा ॥
+ता की होहु बिलोवनहारी ॥
+किउ मेटै गो छाछि तुहारी ॥१॥
+चेरी तू रामु न करसि भतारा ॥
+जगजीवन प्रान अधारा ॥१॥ रहाउ ॥
+तेरे गलहि तउकु पग बेरी ॥
+तू घर घर रमईऐ फेरी ॥
+तू अजहु न चेतसि चेरी ॥
+तू जमि बपुरी है हेरी ॥२॥
+प्रभ करन करावनहारी ॥
+किआ चेरी हाथ बिचारी ॥
+सोई सोई जागी ॥
+जितु लाई तितु लागी ॥३॥
+चेरी तै सुमति कहां ते पाई ॥
+जा ते भ्रम की लीक मिटाई ॥
+सु रसु कबीरै जानिआ ॥
+मेरो गुर प्रसादि मनु मानिआ ॥४॥५॥655॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जा (जिसका/जब) के (के/संबंध-सूचक) निगम (वेद/शास्त्र) दूध (दूध (सधुक्कड़ी भाव)) के (के/संबंध-सूचक) ठाटा (ठाटा का आध्यात्मिक भाव) ॥
+समुंदु (समुंदु का आध्यात्मिक भाव) बिलोवन (बिलोवन का आध्यात्मिक भाव) कउ (को) माटा (माटा का आध्यात्मिक भाव) ॥
+ता (उस पर/उसका) की (की/संबंध-सूचक) होहु (होह (सधुक्कड़ी भाव)) बिलोवनहारी (बिलोवनहारी का आध्यात्मिक भाव) ॥
+किउ (अथवा) मेटै (मेटै का आध्यात्मिक भाव) गो (गो का आध्यात्मिक भाव) छाछि (छाछि का आध्यात्मिक भाव) तुहारी (तुहारी का आध्यात्मिक भाव) ॥ ॥
+चेरी (चेरी का आध्यात्मिक भाव) तू (तू/परमात्मा) रामु (राम नाम की संबंधी) न (नहीं) करसि (करसि (सधुक्कड़ी भाव)) भतारा (भतारा का आध्यात्मिक भाव) ॥
+जगजीवन (जगजीवन (सधुक्कड़ी भाव)) प्रान (प्राण/जीवन) अधारा (अभाव/धारा (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तेरे (तेरे विरह के) गलहि (गलहि का आध्यात्मिक भाव) तउकु (तउकु का आध्यात्मिक भाव) पग (पैर) बेरी (बेर का फल/समय) ॥
+तू (तू/परमात्मा) घर (आशियाना) घर (आशियाना) रमईऐ (रमईऐ का आध्यात्मिक भाव) फेरी (फिर) ॥
+तू (तू/परमात्मा) अजहु (आज भी/अब भी) न (नहीं) चेतसि (चेतन करता है/स्मरण करता है) चेरी (चेरी का आध्यात्मिक भाव) ॥
+तू (तू/परमात्मा) जमि (यमराज/मृत्यु) बपुरी (बपुरी का आध्यात्मिक भाव) है (है कि) हेरी (हेरी का आध्यात्मिक भाव) ॥ ॥
+प्रभ (परमेश्वर/प्रभु) करन (करन का आध्यात्मिक भाव) करावनहारी (करावनहारी का आध्यात्मिक भाव) ॥
+किआ (क्या) चेरी (चेरी का आध्यात्मिक भाव) हाथ (कर) बिचारी (विचार/मंथन) ॥
+सोई (वही) सोई (वही) जागी (जागकर) ॥
+जितु (जिधर) लाई (मारी है) तितु (उधर) लागी (प्रेम की लगन/विरहाग्नि) ॥ ॥
+चेरी (चेरी का आध्यात्मिक भाव) तै (तूने/से) सुमति (सद्बुद्धि, पवित्र मति) कहां (कहकर) ते (से/द्वारा) पाई (प्राप्त कर लिया) ॥
+जा (जिसका/जब) ते (से/द्वारा) भ्रम (भ्रांति/संशय/अज्ञान) की (की/संबंध-सूचक) लीक (लीक (सधुक्कड़ी भाव)) मिटाई (नष्ट हो गया) ॥
+सु (वह) रसु (हरि-नाम का अमृत रस) कबीरै (संत कबीर जी) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+मेरो (मेरा/मुझ दीन का) गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ja (whose/when) ke (of) nigam (Vedic scriptures) doodh (doodh (spiritual sense)) ke (of) thaata (thaata) .
+samundu (samundu) bilovan (bilovan) kau (unto) maata (maata) .
+ta (upon that/his) kee (of) hohu (hoh (spiritual sense)) bilovanahaaree (bilovanahaaree) .
+kiu (or is it) metai (metai) go (go) chhaachhi (chhaachhi) tuhaaree (tuhaaree) . .
+cheree (cheree) too (Thou) raamu (Lord Rama's related) n (not) karasi (karasi (spiritual sense)) bhataara (bhataara) .
+jagajeevan (jagajeevan (spiritual sense)) praan (life-breath/soul) adhaara (un-dhaara (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+tere (in Your) galahi (galahi) tauku (tauku) pag (foot) beree (wild plum/times) .
+too (Thou) ghar (home/refuge) ghar (home/refuge) ramaeeai (ramaeeai) pheree (again) .
+too (Thou) ajahu (even today/still) n (not) chetasi (remembers/awakens) cheree (cheree) .
+too (Thou) jami (Yamraj/Death) bapuree (bapuree) hai (is) heree (heree) . .
+prabh (Supreme Lord) karan (karan) karaavanahaaree (karaavanahaaree) .
+kia (what) cheree (cheree) haath (hand) bichaaree (contemplation/thought) .
+soee (the very same) soee (the very same) jaagee (awakened) .
+jitu (wherever) laaee (struck) titu (thither) laagee (flame of longing) . .
+cheree (cheree) tai (by thee/from) sumati (good intellect, righteous wisdom) kahaan (saying) te (from/by) paaee (have found/attained) .
+ja (whose/when) te (from/by) bhram (illusion/doubt) kee (of) leek (leek (spiritual sense)) mitaaee (effaced) .
+su (that) rasu (nectar of divine essence) kabeerai (Sant Kabir) jaania (jaania) .
+mero (my/mine) gur (of the Master) prasaadi (divine grace (in/having done)) manu (mind/inner spirit) maania (maania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जा के निगम दूध के ठाटा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jaakenigamadoodhakethaata—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 50: जा के निगम दूध के ठाटा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-51"></a>
+## शब्द 51: जिह बाझु न जीआ जाई
+**English Title:** Shabad 51: Jaiha Baajhau Na Jaeeaa Jaaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिह बाझु न जीआ जाई ॥
+जउ मिलै त घाल अघाई ॥
+सद जीवनु भलो कहांही ॥
+मूए बिनु जीवनु नाही ॥१॥
+अब किआ कथीऐ गिआनु बीचारा ॥
+निज निरखत गत बिउहारा ॥१॥ रहाउ ॥
+घसि कुंकम चंदनु गारिआ ॥
+बिनु नैनहु जगतु निहारिआ ॥
+पूति पिता इकु जाइआ ॥
+बिनु ठाहर नगरु बसाइआ ॥२॥
+जाचक जन दाता पाइआ ॥
+सो दीआ न जाई खाइआ ॥
+छोडिआ जाइ न मूका ॥
+अउरन पहि जाना चूका ॥३॥
+जो जीवन मरना जानै ॥
+सो पंच सैल सुख मानै ॥
+कबीरै सो धनु पाइआ ॥
+हरि भेटत आपु मिटाइआ ॥४॥६॥655॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिह (जिस) बाझु (बाझु का आध्यात्मिक भाव) न (नहीं) जीआ (जीआ का आध्यात्मिक भाव) जाई (जाओ) ॥
+जउ (यदि/जब) मिलै (प्राप्त हो/मिलता है) त (तो फिर/निश्चय ही) घाल (घाल का आध्यात्मिक भाव) अघाई (अघाई का आध्यात्मिक भाव) ॥
+सद (पुकार/आवाज) जीवनु (जीना संबंधी) भलो (भल (सधुक्कड़ी भाव)) कहांही (कहांही का आध्यात्मिक भाव) ॥
+मूए (मूए का आध्यात्मिक भाव) बिनु (बिना/रहित) जीवनु (जीना संबंधी) नाही (नहीं) ॥ ॥
+अब (अब/इस समय) किआ (क्या) कथीऐ (कथीऐ का आध्यात्मिक भाव) गिआनु (दिव्य ज्ञान) बीचारा (बीचारा का आध्यात्मिक भाव) ॥
+निज (अपना/स्वयं का) निरखत (रहित/मृत्यु-पत्र को) गत (चाल) बिउहारा (पराजय/माला संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+घसि (घिसकर) कुंकम (कुंकम का आध्यात्मिक भाव) चंदनु (सुगंधित चंदन) गारिआ (गारिआ का आध्यात्मिक भाव) ॥
+बिनु (बिना/रहित) नैनहु (नैनहु का आध्यात्मिक भाव) जगतु (संसार संबंधी) निहारिआ (निहारिआ का आध्यात्मिक भाव) ॥
+पूति (पुत्र/बेटा) पिता (पितृ जन/पूर्वज) इकु (एक/अद्वितीय) जाइआ (जाइआ का आध्यात्मिक भाव) ॥
+बिनु (बिना/रहित) ठाहर (ठाहर का आध्यात्मिक भाव) नगरु (नगर/संसार रूपी शहर) बसाइआ (बसाइआ का आध्यात्मिक भाव) ॥ ॥
+जाचक (जाचक का आध्यात्मिक भाव) जन (भक्त/सेवक) दाता (सर्व-प्रदाता प्रभु) पाइआ (पा लिया है) ॥
+सो (वह/वही) दीआ (दीपक/दिया) न (नहीं) जाई (जाओ) खाइआ (खाइआ का आध्यात्मिक भाव) ॥
+छोडिआ (छोडिआ का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) न (नहीं) मूका (मूका का आध्यात्मिक भाव) ॥
+अउरन (अउरन का आध्यात्मिक भाव) पहि (पहि का आध्यात्मिक भाव) जाना (जाना/प्रस्थान करना) चूका (चूका का आध्यात्मिक भाव) ॥ ॥
+जो (जिससे) जीवन (जीना) मरना (मरण का प्रपंच) जानै (प्राण/जीवन (करता है/ने)) ॥
+सो (वह/वही) पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) सैल (स्वच्छंद विचरण/सैर) सुख (सच्चा सुख) मानै (अहंकार (करता है/ने)) ॥
+कबीरै (संत कबीर जी) सो (वह/वही) धनु (धन/संपत्ति) पाइआ (पा लिया है) ॥
+हरि (दुख-हर्ता परमात्मा) भेटत (भेटत का आध्यात्मिक भाव) आपु (स्वयं) मिटाइआ (मिटाइआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jih (which) baajhu (baajhu) n (not) jeea (jeea) jaaee (slip away) .
+jau (if/when) milai (is obtained/received) t (then indeed) ghaal (ghaal) aghaaee (aghaaee) .
+sad (call/summons) jeevanu (life related) bhalo (bhal (spiritual sense)) kahaanhee (kahaanhee) .
+mooe (mooe) binu (without/devoid of) jeevanu (life related) naahee (not) . .
+ab (now) kia (what) katheeai (katheeai) giaanu (divine wisdom) beechaara (beechaara) .
+nij (one's own/inner) nirakhat (free from letter/decree) gat (step) biuhaara (defeat/garland related) . . rahaau (pause for reflection, foundational theme) .
+ghasi (having rubbed) kunkam (kunkam) chandanu (fragrant sandalwood) gaaria (gaaria) .
+binu (without/devoid of) nainahu (nainahu) jagatu (of the world related) nihaaria (nihaaria) .
+pooti (son) pita (ancestors/forefathers) iku (one/sole) jaaia (jaaia) .
+binu (without/devoid of) thaahar (thaahar) nagaru (city/town) basaaia (basaaia) . .
+jaachak (jaachak) jan (devotee/humble servant) daata (Supreme Giver/Benefactor) paaia (have found) .
+so (that/the same) deea (lamp/gave) n (not) jaaee (slip away) khaaia (khaaia) .
+chhodia (chhodia) jaai (whose/when (in/having done)) n (not) mooka (mooka) .
+auran (auran) pahi (pahi) jaana (to depart) chooka (chooka) . .
+jo (that) jeevan (life) marana (death) jaanai (life/soul (does/by)) .
+so (that/the same) panch (five vices) sail (free strolling/wander) sukh (true bliss) maanai (pride (does/by)) .
+kabeerai (Sant Kabir) so (that/the same) dhanu (wealth/riches) paaia (have found) .
+hari (The Lord who dispels grief (Hari)) bhetat (bhetat) aapu (oneself) mitaaia (mitaaia) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिह बाझु न जीआ जाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jihabaajhunajeeaajaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 51: जिह बाझु न जीआ जाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-52"></a>
+## शब्द 52: किआ पड़ीऐ किआ गुनीऐ
+**English Title:** Shabad 52: Kaiaa Paड़eeai Kaiaa Gaunaeeai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+किआ पड़ीऐ किआ गुनीऐ ॥
+किआ बेद पुरानां सुनीऐ ॥
+पड़े सुने किआ होई ॥
+जउ सहज न मिलिओ सोई ॥१॥
+हरि का नामु न जपसि गवारा ॥
+किआ सोचहि बारं बारा ॥१॥ रहाउ ॥
+अंधिआरे दीपकु चहीऐ ॥
+इक बसतु अगोचर लहीऐ ॥
+बसतु अगोचर पाई ॥
+घटि दीपकु रहिआ समाई ॥२॥
+कहि कबीर अब जानिआ ॥
+जब जानिआ तउ मनु मानिआ ॥
+मन माने लोगु न पतीजै ॥
+न पतीजै तउ किआ कीजै ॥३॥७॥655॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+किआ (क्या) पड़ीऐ (पड़ जाएं/गिरें) किआ (क्या) गुनीऐ (गुण/पुण्य संबंधी) ॥
+किआ (क्या) बेद (वेदों) पुरानां (अमर नगर/धाम (लोग/समूह)) सुनीऐ (सुनना चाहिए) ॥
+पड़े (पड़े का आध्यात्मिक भाव) सुने (सुने का आध्यात्मिक भाव) किआ (क्या) होई (तय हुआ) ॥
+जउ (यदि/जब) सहज (स्वाभाविक शांति, परम संतुलन) न (नहीं) मिलिओ (मिलिओ का आध्यात्मिक भाव) सोई (वही) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) का (का/संबंध-सूचक) नामु (सत्य-नाम) न (नहीं) जपसि (जप करता है) गवारा (गवारा (सधुक्कड़ी भाव)) ॥
+किआ (क्या) सोचहि (सोचहि का आध्यात्मिक भाव) बारं (द्वार) बारा (द्वार) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+अंधिआरे (अंधिआरे का आध्यात्मिक भाव) दीपकु (प्रकाशमान दीप) चहीऐ (चहीऐ का आध्यात्मिक भाव) ॥
+इक (एक ही) बसतु (वस्तु/सामग्री) अगोचर (इंद्रियों से परे) लहीऐ (लहीऐ का आध्यात्मिक भाव) ॥
+बसतु (वस्तु/सामग्री) अगोचर (इंद्रियों से परे) पाई (प्राप्त कर लिया) ॥
+घटि (घट में/हृदय के भीतर) दीपकु (प्रकाशमान दीप) रहिआ (रहिआ का आध्यात्मिक भाव) समाई (समाई (सधुक्कड़ी भाव)) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) अब (अब/इस समय) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) जानिआ (जानिआ का आध्यात्मिक भाव) तउ (तब/तो भी) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥
+मन (मन/चित्त) माने (माने का आध्यात्मिक भाव) लोगु (संसार के लोग) न (नहीं) पतीजै (पतीजै का आध्यात्मिक भाव) ॥
+न (नहीं) पतीजै (पतीजै का आध्यात्मिक भाव) तउ (तब/तो भी) किआ (क्या) कीजै (कीजिए) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kia (what) padeeai (one falls into) kia (what) guneeai (virtues/merits related) .
+kia (what) bed (Vedas) puraanaan (eternal city/realm (folk/plural)) suneeai (one should listen) .
+pade (pade) sune (sune) kia (what) hoee (transpired) .
+jau (if/when) sahaj (spontaneous spiritual equilibrium, effortless bliss) n (not) milio (milio) soee (the very same) . .
+hari (The Lord who dispels grief (Hari)) ka (of) naamu (True Name) n (not) japasi (chants/meditates) gavaara (gavaara (spiritual sense)) .
+kia (what) sochahi (sochahi) baaran (door) baara (door) . . rahaau (pause for reflection, foundational theme) .
+andhiaare (andhiaare) deepaku (lamp/flame) chaheeai (chaheeai) .
+ik (in one) basatu (goods/commodity) agochar (beyond sensory perception) laheeai (laheeai) .
+basatu (goods/commodity) agochar (beyond sensory perception) paaee (have found/attained) .
+ghati (within the heart) deepaku (lamp/flame) rahia (rahia) samaaee (samaaee (spiritual sense)) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) ab (now) jaania (jaania) .
+jab (at the time when) jaania (jaania) tau (then/still) manu (mind/inner spirit) maania (maania) .
+man (mind/inner consciousness) maane (maane) logu (worldly folk) n (not) pateejai (pateejai) .
+n (not) pateejai (pateejai) tau (then/still) kia (what) keejai (please do) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! किआ पड़ीऐ किआ गुनीऐ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kiaapadeeaikiaaguneeai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 52: किआ पड़ीऐ किआ गुनीऐ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-53"></a>
+## शब्द 53: ह्रिदै कपटु मुख गिआनी
+**English Title:** Shabad 53: Haraidaai Kapatau Maukha Gaiaanaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ह्रिदै कपटु मुख गिआनी ॥
+झूठे कहा बिलोवसि पानी ॥१॥
+कांइआ मांजसि कउन गुनां ॥
+जउ घट भीतरि है मलनां ॥१॥ रहाउ ॥
+लउकी अठसठि तीरथ न्हाई ॥
+कउरापनु तऊ न जाई ॥२॥
+कहि कबीर बीचारी ॥
+भव सागरु तारि मुरारी ॥३॥८॥656॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ह्रिदै (ह्रिदै का आध्यात्मिक भाव) कपटु (कपटु का आध्यात्मिक भाव) मुख (चेहरा) गिआनी (ज्ञानी/तत्वदर्शी) ॥
+झूठे (मिथ्यावादी) कहा (क्या/कहाँ) बिलोवसि (बिलोवसि का आध्यात्मिक भाव) पानी (शीतल जल) ॥ ॥
+कांइआ (कांइआ का आध्यात्मिक भाव) मांजसि (मांजसि का आध्यात्मिक भाव) कउन (कउन का आध्यात्मिक भाव) गुनां (गुण/पुण्य) ॥
+जउ (यदि/जब) घट (हृदय/शरीर) भीतरि (भीतर/हृदय में) है (है कि) मलनां (मलकर/लेप कर (लोग/समूह)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+लउकी (लउकी का आध्यात्मिक भाव) अठसठि (अड़सठ तीर्थ) तीरथ (तीर्थ) न्हाई (न्हाई का आध्यात्मिक भाव) ॥
+कउरापनु (कउरापनु का आध्यात्मिक भाव) तऊ (तथापि/तो भी) न (नहीं) जाई (जाओ) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) बीचारी (बीचारी (सधुक्कड़ी भाव)) ॥
+भव (संसार/भवसागर) सागरु (संसार रूपी सागर) तारि (तार दो/उद्धार करो) मुरारी (मुरारी (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+hridai (hridai) kapatu (kapatu) mukh (face) giaanee (wise sage/knower) .
+jhoothe (liars) kaha (what/where) bilovasi (bilovasi) paanee (water) . .
+kaania (kaania) maanjasi (maanjasi) kaun (kaun) gunaan (virtues/merits) .
+jau (if/when) ghat (body/inner temple) bheetari (within the heart) hai (is) malanaan (anointing/rubbing (folk/plural)) . . rahaau (pause for reflection, foundational theme) .
+laukee (laukee) athasathi (sixty-eight holy pilgrimages) teerath (pilgrimage shrine) nhaaee (nhaaee) .
+kauraapanu (kauraapanu) taoo (yet/still) n (not) jaaee (slip away) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) beechaaree (beechaaree (spiritual sense)) .
+bhav (ocean of mortal existence) saagaru (ocean of life) taari (redeem/ferry across) muraaree (muraaree (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ह्रिदै कपटु मुख गिआनी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! hridaikapatumukhagiaanee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 53: ह्रिदै कपटु मुख गिआनी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-54"></a>
+## शब्द 54: बहु परपंच करि पर धनु लिआवै
+**English Title:** Shabad 54: Bahau Parapancha Karai Para Dhanau Laiaavaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बहु परपंच करि पर धनु लिआवै ॥
+सुत दारा पहि आनि लुटावै ॥१॥
+मन मेरे भूले कपटु न कीजै ॥
+अंति निबेरा तेरे जीअ पहि लीजै ॥१॥ रहाउ ॥
+छिनु छिनु तनु छीजै जरा जनावै ॥
+तब तेरी ओक कोई पानीओ न पावै ॥२॥
+कहतु कबीरु कोई नही तेरा ॥
+हिरदै रामु की न जपहि सवेरा ॥३॥९॥656॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बहु (अनेक) परपंच (परपंच (सधुक्कड़ी भाव)) करि (करके/हाथ से) पर (किन्तु/परन्तु) धनु (धन/संपत्ति) लिआवै (लिआवै का आध्यात्मिक भाव) ॥
+सुत (पुत्र/बेटा) दारा (दारा (सधुक्कड़ी भाव)) पहि (पहि का आध्यात्मिक भाव) आनि (आकर) लुटावै (लुटावै का आध्यात्मिक भाव) ॥ ॥
+मन (मन/चित्त) मेरे (पर मेरे) भूले (भूले (सधुक्कड़ी भाव)) कपटु (कपटु का आध्यात्मिक भाव) न (नहीं) कीजै (कीजिए) ॥
+अंति (रहस्य (में/करके)) निबेरा (निबेरा का आध्यात्मिक भाव) तेरे (तेरे विरह के) जीअ (जीवात्मा/प्राण) पहि (पहि का आध्यात्मिक भाव) लीजै (लीजिए/ग्रहण करें) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+छिनु (क्षण भर/पल) छिनु (क्षण भर/पल) तनु (नश्वर शरीर/देह) छीजै (छीजै का आध्यात्मिक भाव) जरा (जरा का आध्यात्मिक भाव) जनावै (जनावै (सधुक्कड़ी भाव)) ॥
+तब (उस समय/तब) तेरी (तेरी/आपकी) ओक (ओक का आध्यात्मिक भाव) कोई (कोई भी जन) पानीओ (पानीओ का आध्यात्मिक भाव) न (नहीं) पावै (प्राप्त करता है) ॥ ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) कोई (कोई भी जन) नही (नहीं) तेरा (तेरा/प्रभु का) ॥
+हिरदै (हृदय में) रामु (राम नाम की संबंधी) की (की/संबंध-सूचक) न (नहीं) जपहि (स्मरण/जाप (को/में)) सवेरा (प्रातःकाल/सवेरा) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bahu (many) parapanch (parapanch (spiritual sense)) kari (having done/with hands) par (but/upon) dhanu (wealth/riches) liaavai (liaavai) .
+sut (son) daara (daara (spiritual sense)) pahi (pahi) aani (coming) lutaavai (lutaavai) . .
+man (mind/inner consciousness) mere (my) bhoole (bhoole (spiritual sense)) kapatu (kapatu) n (not) keejai (please do) .
+anti (inner core (in/having done)) nibera (nibera) tere (in Your) jeea (living soul/breath) pahi (pahi) leejai (please receive/take) . . rahaau (pause for reflection, foundational theme) .
+chhinu (single instant/moment) chhinu (single instant/moment) tanu (mortal body) chheejai (chheejai) jara (jara) janaavai (janaavai (spiritual sense)) .
+tab (at that time/then) teree (Thine) ok (ok) koee (anyone) paaneeo (paaneeo) n (not) paavai (attains/realizes) . .
+kahatu (speaking/saying) kabeeru (Sant Kabir) koee (anyone) nahee (not) tera (thine/Lord's) .
+hiradai (in the heart) raamu (Lord Rama's related) kee (of) n (not) japahi (chanting/meditation (unto/in)) savera (morning/dawn) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बहु परपंच करि पर धनु लिआवै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bahuparapanchakariparadhanuliaavai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 54: बहु परपंच करि पर धनु लिआवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-55"></a>
+## शब्द 55: संतहु मन पवनै सुखु बनिआ
+**English Title:** Shabad 55: Santahau Mana Pavanaai Saukhau Banaiaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+संतहु मन पवनै सुखु बनिआ ॥
+किछु जोगु परापति गनिआ ॥ रहाउ ॥
+गुरि दिखलाई मोरी ॥
+जितु मिरग पड़त है चोरी ॥
+मूंदि लीए दरवाजे ॥
+बाजीअले अनहद बाजे ॥१॥
+कु्मभ कमलु जलि भरिआ ॥
+जलु मेटिआ ऊभा करिआ ॥
+कहु कबीर जन जानिआ ॥
+जउ जानिआ तउ मनु मानिआ ॥२॥१०॥656॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+संतहु (हे संत जनो!) मन (मन/चित्त) पवनै (वायु) सुखु (सच्चा सुख) बनिआ (बनिआ का आध्यात्मिक भाव) ॥
+किछु (कुछ भी/तनिक) जोगु (योग/साधना) परापति (परापति का आध्यात्मिक भाव) गनिआ (गनिआ का आध्यात्मिक भाव) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+गुरि (गुरु के) दिखलाई (दिखलाई का आध्यात्मिक भाव) मोरी (मेरी) ॥
+जितु (जिधर) मिरग (मिरग का आध्यात्मिक भाव) पड़त (पड़त का आध्यात्मिक भाव) है (है कि) चोरी (चोरी का आध्यात्मिक भाव) ॥
+मूंदि (मूंदि का आध्यात्मिक भाव) लीए (लीए का आध्यात्मिक भाव) दरवाजे (दरवाजे का आध्यात्मिक भाव) ॥
+बाजीअले (बाजीअले का आध्यात्मिक भाव) अनहद (अनाहत, अखंड ईश्वरीय नाद) बाजे (बाजे का आध्यात्मिक भाव) ॥ ॥
+कु्मभ (कु्मभ का आध्यात्मिक भाव) कमलु (पद्म/कमल पुष्प) जलि (जल में) भरिआ (भरिआ का आध्यात्मिक भाव) ॥
+जलु (पवित्र जल) मेटिआ (मेटिआ का आध्यात्मिक भाव) ऊभा (ऊभा का आध्यात्मिक भाव) करिआ (करिआ का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) जन (भक्त/सेवक) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+जउ (यदि/जब) जानिआ (जानिआ का आध्यात्मिक भाव) तउ (तब/तो भी) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+santahu (O holy saints!) man (mind/inner consciousness) pavanai (wind) sukhu (true bliss) bania (bania) .
+kichhu (anything/a little) jogu (spiritual yoga/union) paraapati (paraapati) gania (gania) . rahaau (pause for reflection, foundational theme) .
+guri (of the Master) dikhalaaee (dikhalaaee) moree (mine) .
+jitu (wherever) mirag (mirag) padat (padat) hai (is) choree (choree) .
+moondi (moondi) leee (leee) daravaaje (daravaaje) .
+baajeeale (baajeeale) anahad (unstruck celestial music, unstruck divine vibration) baaje (baaje) . .
+kumabh (kumabh) kamalu (lotus flower) jali (in water) bharia (bharia) .
+jalu (pure water) metia (metia) oobha (oobha) karia (karia) .
+kahu (tell) kabeer (Sant Kabir) jan (devotee/humble servant) jaania (jaania) .
+jau (if/when) jaania (jaania) tau (then/still) manu (mind/inner spirit) maania (maania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! संतहु मन पवनै सुखु बनिआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! santahumanapavanaisukhubania—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 55: संतहु मन पवनै सुखु बनिआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-56"></a>
+## शब्द 56: भूखे भगति न कीजै
+**English Title:** Shabad 56: Bhaookhae Bhagatai Na Kaeejaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+भूखे भगति न कीजै ॥
+यह माला अपनी लीजै ॥
+हउ मांगउ संतन रेना ॥
+मै नाही किसी का देना ॥१॥
+माधो कैसी बनै तुम संगे ॥
+आपि न देहु त लेवउ मंगे ॥ रहाउ ॥
+दुइ सेर मांगउ चूना ॥
+पाउ घीउ संगि लूना ॥
+अध सेरु मांगउ दाले ॥
+मो कउ दोनउ वखत जिवाले ॥२॥
+खाट मांगउ चउपाई ॥
+सिरहाना अवर तुलाई ॥
+ऊपर कउ मांगउ खींधा ॥
+तेरी भगति करै जनु थींधा ॥३॥
+मै नाही कीता लबो ॥
+इकु नाउ तेरा मै फबो ॥
+कहि कबीर मनु मानिआ ॥
+मनु मानिआ तउ हरि जानिआ ॥४॥११॥656॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+भूखे (भूखे का आध्यात्मिक भाव) भगति (प्रेम-भक्ति) न (नहीं) कीजै (कीजिए) ॥
+यह (यह संसार/यह देह) माला (जपमाला/सुमिरनी) अपनी (अपनी (सधुक्कड़ी भाव)) लीजै (लीजिए/ग्रहण करें) ॥
+हउ (मैं/अहंभाव) मांगउ (मांगउ का आध्यात्मिक भाव) संतन (संतन का आध्यात्मिक भाव) रेना (रेना का आध्यात्मिक भाव) ॥
+मै (मैं/मैंने) नाही (नहीं) किसी (किसी भी जन की) का (का/संबंध-सूचक) देना (देना का आध्यात्मिक भाव) ॥ ॥
+माधो (माधव प्रभु) कैसी (कैसी (सधुक्कड़ी भाव)) बनै (वन/जंगल) तुम (आप/तुम) संगे (संग/साथ) ॥
+आपि (स्वयं/परमात्मा) न (नहीं) देहु (के/पास (से/द्वारा)) त (तो फिर/निश्चय ही) लेवउ (लेवउ का आध्यात्मिक भाव) मंगे (मंगे का आध्यात्मिक भाव) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दुइ (दो (द्वैत)) सेर (सेर का आध्यात्मिक भाव) मांगउ (मांगउ का आध्यात्मिक भाव) चूना (चूना का आध्यात्मिक भाव) ॥
+पाउ (पाउ का आध्यात्मिक भाव) घीउ (घीउ का आध्यात्मिक भाव) संगि (संगत में/सान्निध्य में) लूना (लूना का आध्यात्मिक भाव) ॥
+अध (अध (सधुक्कड़ी भाव)) सेरु (सेरु का आध्यात्मिक भाव) मांगउ (मांगउ का आध्यात्मिक भाव) दाले (दाले का आध्यात्मिक भाव) ॥
+मो (मुझे/मुझको) कउ (को) दोनउ (दोनउ का आध्यात्मिक भाव) वखत (वखत का आध्यात्मिक भाव) जिवाले (जिवाले का आध्यात्मिक भाव) ॥ ॥
+खाट (खाट का आध्यात्मिक भाव) मांगउ (मांगउ का आध्यात्मिक भाव) चउपाई (चउपाई का आध्यात्मिक भाव) ॥
+सिरहाना (सिरहाना का आध्यात्मिक भाव) अवर (अन्य/दूसरा) तुलाई (तुलाई का आध्यात्मिक भाव) ॥
+ऊपर (ऊपर/मस्तक पर) कउ (को) मांगउ (मांगउ का आध्यात्मिक भाव) खींधा (खींधा का आध्यात्मिक भाव) ॥
+तेरी (तेरी/आपकी) भगति (प्रेम-भक्ति) करै (करके (करता है/ने)) जनु (मानो/जैसे कि) थींधा (थींधा का आध्यात्मिक भाव) ॥ ॥
+मै (मैं/मैंने) नाही (नहीं) कीता (किया है) लबो (लबो का आध्यात्मिक भाव) ॥
+इकु (एक/अद्वितीय) नाउ (नाम) तेरा (तेरा/प्रभु का) मै (मैं/मैंने) फबो (फबो का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥
+मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) तउ (तब/तो भी) हरि (दुख-हर्ता परमात्मा) जानिआ (जानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bhookhe (bhookhe) bhagati (loving devotion) n (not) keejai (please do) .
+yah (this realm/this body) maala (rosary of beads) apanee (apanee (spiritual sense)) leejai (please receive/take) .
+hau (I/ego) maangau (maangau) santan (santan) rena (rena) .
+mai (I/by me) naahee (not) kisee (anyone's) ka (of) dena (dena) . .
+maadho (Lord Madhava) kaisee (kaisee (spiritual sense)) banai (forest) tum (You/Thou) sange (with/in company) .
+aapi (Himself/oneself) n (not) dehu (of/unto (from/by)) t (then indeed) levau (levau) mange (mange) . rahaau (pause for reflection, foundational theme) .
+dui (two/duality) ser (ser) maangau (maangau) choona (choona) .
+paau (paau) gheeu (gheeu) sangi (in company of) loona (loona) .
+adh (adh (spiritual sense)) seru (seru) maangau (maangau) daale (daale) .
+mo (unto me) kau (unto) donau (donau) vakhat (vakhat) jivaale (jivaale) . .
+khaat (khaat) maangau (maangau) chaupaaee (chaupaaee) .
+sirahaana (sirahaana) avar (other/another) tulaaee (tulaaee) .
+oopar (above/upon) kau (unto) maangau (maangau) kheendha (kheendha) .
+teree (Thine) bhagati (loving devotion) karai (doing (does/by)) janu (as if/devotee) theendha (theendha) . .
+mai (I/by me) naahee (not) keeta (made) labo (labo) .
+iku (one/sole) naau (name) tera (thine/Lord's) mai (I/by me) phabo (phabo) .
+kahi (from (unto/in)) kabeer (Sant Kabir) manu (mind/inner spirit) maania (maania) .
+manu (mind/inner spirit) maania (maania) tau (then/still) hari (The Lord who dispels grief (Hari)) jaania (jaania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! भूखे भगति न कीजै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bhookhebhagatinakeejai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 56: भूखे भगति न कीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-57"></a>
+## शब्द 57: सनक सनंद महेस समानां
+**English Title:** Shabad 57: Sanaka Sananda Mahaesa Samaanaan
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सनक सनंद महेस समानां ॥
+सेखनागि तेरो मरमु न जानां ॥१॥
+संतसंगति रामु रिदै बसाई ॥१॥ रहाउ ॥
+हनूमान सरि गरुड़ समानां ॥
+सुरपति नरपति नही गुन जानां ॥२॥
+चारि बेद अरु सिम्रिति पुरानां ॥
+कमलापति कवला नही जानां ॥३॥
+कहि कबीर सो भरमै नाही ॥
+पग लगि राम रहै सरनांही ॥४॥१॥691॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सनक (सनक ऋषि) सनंद (सनंद का आध्यात्मिक भाव) महेस (महेस का आध्यात्मिक भाव) समानां (समानां का आध्यात्मिक भाव) ॥
+सेखनागि (सेखनागि का आध्यात्मिक भाव) तेरो (तेरा) मरमु (गूढ़ रहस्य/मर्म) न (नहीं) जानां (प्राण/जीवन (बहुवचन)) ॥ ॥
+संतसंगति (संतसंगति का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) रिदै (हृदय में) बसाई (बसाई का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हनूमान (हनूमान का आध्यात्मिक भाव) सरि (समान/बराबर) गरुड़ (गरुड़ का आध्यात्मिक भाव) समानां (समानां का आध्यात्मिक भाव) ॥
+सुरपति (सुरपति का आध्यात्मिक भाव) नरपति (स्वामी संबंधी) नही (नहीं) गुन (गुण/पुण्य) जानां (प्राण/जीवन (बहुवचन)) ॥ ॥
+चारि (चारों संबंधी) बेद (वेदों) अरु (और) सिम्रिति (स्मृति शास्त्र) पुरानां (अमर नगर/धाम (लोग/समूह)) ॥
+कमलापति (कमलापति का आध्यात्मिक भाव) कवला (कवल (सधुक्कड़ी भाव)) नही (नहीं) जानां (प्राण/जीवन (बहुवचन)) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) सो (वह/वही) भरमै (भ्रम) नाही (नहीं) ॥
+पग (पैर) लगि (लगकर/तक) राम (सर्वव्यापी परमात्मा) रहै (रहे/सदा रहे) सरनांही (सरनांही का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sanak (Sanaka the sage) sanand (sanand) mahes (mahes) samaanaan (samaanaan) .
+sekhanaagi (sekhanaagi) tero (thy/thine) maramu (inner secret/mystery) n (not) jaanaan (life/soul (plural)) . .
+santasangati (santasangati) raamu (Lord Rama's related) ridai (in the heart) basaaee (basaaee) . . rahaau (pause for reflection, foundational theme) .
+hanoomaan (hanoomaan) sari (equal/like) garud (garud) samaanaan (samaanaan) .
+surapati (surapati) narapati (Lord related) nahee (not) gun (virtues/merits) jaanaan (life/soul (plural)) . .
+chaari (four related) bed (Vedas) aru (and) simriti (Smriti scriptures) puraanaan (eternal city/realm (folk/plural)) .
+kamalaapati (kamalaapati) kavala (kaval (spiritual sense)) nahee (not) jaanaan (life/soul (plural)) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) so (that/the same) bharamai (illusion/doubt) naahee (not) .
+pag (foot) lagi (attached to/until) raam (The All-Pervading Lord (Ram)) rahai (may abide/remain) saranaanhee (saranaanhee) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सनक सनंद महेस समानां—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sanakasanandamahesasamaanaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 57: सनक सनंद महेस समानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-58"></a>
+## शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै
+**English Title:** Shabad 58: Daina Tae Pahara Pahara Tae Gharaeeaan Aava Ghataai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै ॥
+कालु अहेरी फिरै बधिक जिउ कहहु कवन बिधि कीजै ॥१॥
+सो दिनु आवन लागा ॥
+मात पिता भाई सुत बनिता कहहु कोऊ है का का ॥१॥ रहाउ ॥
+जब लगु जोति काइआ महि बरतै आपा पसू न बूझै ॥
+लालच करै जीवन पद कारन लोचन कछू न सूझै ॥२॥
+कहत कबीर सुनहु रे प्रानी छोडहु मन के भरमा ॥
+केवल नामु जपहु रे प्रानी परहु एक की सरनां ॥३॥२॥692॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+दिन (दिवस) ते (से/द्वारा) पहर (पहर का आध्यात्मिक भाव) पहर (पहर का आध्यात्मिक भाव) ते (से/द्वारा) घरीआं (घरीआं का आध्यात्मिक भाव) आव (आव (सधुक्कड़ी भाव)) घटै (हृदय/अंतःकरण (करता है/ने)) तनु (नश्वर शरीर/देह) छीजै (छीजै का आध्यात्मिक भाव) ॥
+कालु (काल/मृत्यु) अहेरी (अहेरी का आध्यात्मिक भाव) फिरै (फिरै का आध्यात्मिक भाव) बधिक (बधिक का आध्यात्मिक भाव) जिउ (जैसे/ज्यों) कहहु (कहकर (से/द्वारा)) कवन (कौन/कैसा) बिधि (विधि/रीति) कीजै (कीजिए) ॥ ॥
+सो (वह/वही) दिनु (दिवस संबंधी) आवन (आवन का आध्यात्मिक भाव) लागा (लगा/लीन हुआ) ॥
+मात (मात का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) भाई (हे भाई!/हे मित्र!) सुत (पुत्र/बेटा) बनिता (बनिता का आध्यात्मिक भाव) कहहु (कहकर (से/द्वारा)) कोऊ (कोई भी) है (है कि) का (का/संबंध-सूचक) का (का/संबंध-सूचक) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) जोति (दिव्य ज्योति/प्रकाश) काइआ (काइआ का आध्यात्मिक भाव) महि (में/भीतर) बरतै (बरतै का आध्यात्मिक भाव) आपा (अहंकार, स्व-भाव) पसू (पसू का आध्यात्मिक भाव) न (नहीं) बूझै (समझता/जानता (करता है/होता है)) ॥
+लालच (लालच का आध्यात्मिक भाव) करै (करके (करता है/ने)) जीवन (जीना) पद (पद/स्थान/भजन) कारन (कार्य (लोग/समूह)) लोचन (आंखें) कछू (कुछ) न (नहीं) सूझै (समझ/दृष्टि (करता है/होता है)) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) प्रानी (प्राण/जीवन संबंधी) छोडहु (छोडहु का आध्यात्मिक भाव) मन (मन/चित्त) के (के/संबंध-सूचक) भरमा (भ्रम) ॥
+केवल (एकमात्र/विशुद्ध) नामु (सत्य-नाम) जपहु (स्मरण/जाप (से/द्वारा)) रे (रा (रज़ा व समर्पण)) प्रानी (प्राण/जीवन संबंधी) परहु (परहु का आध्यात्मिक भाव) एक (समान/एक जैसे) की (की/संबंध-सूचक) सरनां (शरण/आश्रय (बहुवचन)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+din (day) te (from/by) pahar (pahar) pahar (pahar) te (from/by) ghareeaan (ghareeaan) aav (aav (spiritual sense)) ghatai (heart/inner being (does/by)) tanu (mortal body) chheejai (chheejai) .
+kaalu (death/time) aheree (aheree) phirai (phirai) badhik (badhik) jiu (just as) kahahu (saying (from/by)) kavan (who/what) bidhi (manner/way) keejai (please do) . .
+so (that/the same) dinu (day related) aavan (aavan) laaga (attached/engaged) .
+maat (maat) pita (ancestors/forefathers) bhaaee (O brother!) sut (son) banita (banita) kahahu (saying (from/by)) kooo (anyone) hai (is) ka (of) ka (of) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) lagu (cling to/attach) joti (divine radiance/light) kaaia (kaaia) mahi (within/in) baratai (baratai) aapa (egotism, individual vanity) pasoo (pasoo) n (not) boojhai (comprehends (does/becomes)) .
+laalach (laalach) karai (doing (does/by)) jeevan (life) pad (spiritual station/hymn) kaaran (work/deed (folk/plural)) lochan (eyes) kachhoo (anything) n (not) soojhai (spiritual insight (does/becomes)) . .
+kahat (speaking/saying) kabeer (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) praanee (life-breath/soul related) chhodahu (chhodahu) man (mind/inner consciousness) ke (of) bharama (illusion/doubt) .
+keval (solely/pure) naamu (True Name) japahu (chanting/meditation (from/by)) re (Re (Divine Will)) praanee (life-breath/soul related) parahu (parahu) ek (equal and one) kee (of) saranaan (shelter/refuge (plural)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! dinatepaharapaharateghareeaanaavaghataitanuchheejai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-59"></a>
+## शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो
+**English Title:** Shabad 59: Jao Janau Bhaau Bhagatai Kachhau Jaanaai Taa Kau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो ॥
+जिउ जलु जल महि पैसि न निकसै तिउ ढुरि मिलिओ जुलाहो ॥१॥
+हरि के लोगा मै तउ मति का भोरा ॥
+जउ तनु कासी तजहि कबीरा रमईऐ कहा निहोरा ॥१॥ रहाउ ॥
+कहतु कबीरु सुनहु रे लोई भरमि न भूलहु कोई ॥
+किआ कासी किआ ऊखरु मगहरु रामु रिदै जउ होई ॥२॥३॥692॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जो (जिससे) जनु (मानो/जैसे कि) भाउ (भाव/मूल्य) भगति (प्रेम-भक्ति) कछु (कुछ भी) जानै (प्राण/जीवन (करता है/ने)) ता (उस पर/उसका) कउ (को) अचरजु (अचरजु का आध्यात्मिक भाव) काहो (काहो का आध्यात्मिक भाव) ॥
+जिउ (जैसे/ज्यों) जलु (पवित्र जल) जल (पानी) महि (में/भीतर) पैसि (पैसि का आध्यात्मिक भाव) न (नहीं) निकसै (निकसै का आध्यात्मिक भाव) तिउ (वैसे/त्यों) ढुरि (ढुरि का आध्यात्मिक भाव) मिलिओ (मिलिओ का आध्यात्मिक भाव) जुलाहो (जुलाहो का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) लोगा (संसार के लोग) मै (मैं/मैंने) तउ (तब/तो भी) मति (बुद्धि/समझ) का (का/संबंध-सूचक) भोरा (सवेरा) ॥
+जउ (यदि/जब) तनु (नश्वर शरीर/देह) कासी (कासी (सधुक्कड़ी भाव)) तजहि (तजहि का आध्यात्मिक भाव) कबीरा (संत कबीर जी) रमईऐ (रमईऐ का आध्यात्मिक भाव) कहा (क्या/कहाँ) निहोरा (निहोरा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) लोई (काली कमली, फकीरों का ऊनी कम्बल) भरमि (भ्रम) न (नहीं) भूलहु (भूलहु का आध्यात्मिक भाव) कोई (कोई भी जन) ॥
+किआ (क्या) कासी (कासी (सधुक्कड़ी भाव)) किआ (क्या) ऊखरु (ऊखरु का आध्यात्मिक भाव) मगहरु (मगहरु का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) रिदै (हृदय में) जउ (यदि/जब) होई (तय हुआ) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jo (that) janu (as if/devotee) bhaau (prices) bhagati (loving devotion) kachhu (anything/something) jaanai (life/soul (does/by)) ta (upon that/his) kau (unto) acharaju (acharaju) kaaho (kaaho) .
+jiu (just as) jalu (pure water) jal (water) mahi (within/in) paisi (paisi) n (not) nikasai (nikasai) tiu (in that manner) dhuri (dhuri) milio (milio) julaaho (julaaho) . .
+hari (The Lord who dispels grief (Hari)) ke (of) loga (worldly people) mai (I/by me) tau (then/still) mati (intellect/mind) ka (of) bhora (dawn) .
+jau (if/when) tanu (mortal body) kaasee (kaasee (spiritual sense)) tajahi (tajahi) kabeera (Sant Kabir) ramaeeai (ramaeeai) kaha (what/where) nihora (nihora) . . rahaau (pause for reflection, foundational theme) .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) loee (coarse dark wool blanket of dervishes) bharami (illusion/doubt) n (not) bhoolahu (bhoolahu) koee (anyone) .
+kia (what) kaasee (kaasee (spiritual sense)) kia (what) ookharu (ookharu) magaharu (magaharu) raamu (Lord Rama's related) ridai (in the heart) jau (if/when) hoee (transpired) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jojanubhaaubhagatikachhujaanaitaakauacharajukaah—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-60"></a>
+## शब्द 60: इंद्र लोक सिव लोकहि जैबो
+**English Title:** Shabad 60: Indara Laoka Saiva Laokahai Jaaibao
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+इंद्र लोक सिव लोकहि जैबो ॥
+ओछे तप करि बाहुरि ऐबो ॥१॥
+किआ मांगउ किछु थिरु नाही ॥
+राम नाम रखु मन माही ॥१॥ रहाउ ॥
+सोभा राज बिभै बडिआई ॥
+अंति न काहू संग सहाई ॥२॥
+पुत्र कलत्र लछमी माइआ ॥
+इन ते कहु कवनै सुखु पाइआ ॥३॥
+कहत कबीर अवर नही कामा ॥
+हमरै मन धन राम को नामा ॥४॥४॥692॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+इंद्र (देवराज इंद्र) लोक (संसारी लोग) सिव (सिव (सधुक्कड़ी भाव)) लोकहि (लोकहि का आध्यात्मिक भाव) जैबो (जैबो का आध्यात्मिक भाव) ॥
+ओछे (तुच्छ जन) तप (तपस्या/साधना) करि (करके/हाथ से) बाहुरि (बाहुरि का आध्यात्मिक भाव) ऐबो (ऐबो का आध्यात्मिक भाव) ॥ ॥
+किआ (क्या) मांगउ (मांगउ का आध्यात्मिक भाव) किछु (कुछ भी/तनिक) थिरु (स्थिर/अविचल) नाही (नहीं) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) रखु (रखु का आध्यात्मिक भाव) मन (मन/चित्त) माही (प्रियतम (रांझा)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सोभा (शोभा/महिमा) राज (आदर्श शासन/राज) बिभै (बिभै का आध्यात्मिक भाव) बडिआई (बडिआई का आध्यात्मिक भाव) ॥
+अंति (रहस्य (में/करके)) न (नहीं) काहू (किसी को/किसी से) संग (संग/साथ) सहाई (सहाई का आध्यात्मिक भाव) ॥ ॥
+पुत्र (बेटा/पुत्र) कलत्र (पत्नी/स्त्री) लछमी (लछमी का आध्यात्मिक भाव) माइआ (माया/भ्रम) ॥
+इन (इन सब को) ते (से/द्वारा) कहु (बताओ) कवनै (कौन-सी (करता है/ने)) सुखु (सच्चा सुख) पाइआ (पा लिया है) ॥ ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) अवर (अन्य/दूसरा) नही (नहीं) कामा (काम-वासना/कर्म संबंधी) ॥
+हमरै (हमरै का आध्यात्मिक भाव) मन (मन/चित्त) धन (संपदा) राम (सर्वव्यापी परमात्मा) को (को/की ओर) नामा (परम पावन नाम संबंधी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+indr (Indra the king of gods) lok (worldly people) siv (siv (spiritual sense)) lokahi (lokahi) jaibo (jaibo) .
+ochhe (petty people) tap (austerity/penance) kari (having done/with hands) baahuri (baahuri) aibo (aibo) . .
+kia (what) maangau (maangau) kichhu (anything/a little) thiru (steadfast/eternal) naahee (not) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) rakhu (rakhu) man (mind/inner consciousness) maahee (Beloved) . . rahaau (pause for reflection, foundational theme) .
+sobha (glory/splendor) raaj (realm/kingdom) bibhai (bibhai) badiaaee (badiaaee) .
+anti (inner core (in/having done)) n (not) kaahoo (anyone/anyone's) sang (with/in company) sahaaee (sahaaee) . .
+putr (son) kalatr (wife/spouse) lachhamee (lachhamee) maaia (cosmic illusion) .
+in (unto all these) te (from/by) kahu (tell) kavanai (which/what (does/by)) sukhu (true bliss) paaia (have found) . .
+kahat (speaking/saying) kabeer (Sant Kabir) avar (other/another) nahee (not) kaama (carnal desire/work related) .
+hamarai (hamarai) man (mind/inner consciousness) dhan (wealth) raam (The All-Pervading Lord (Ram)) ko (unto/toward) naama (Divine Name related) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! इंद्र लोक सिव लोकहि जैबो—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! indralokasivalokahijaibo—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 60: इंद्र लोक सिव लोकहि जैबो'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-61"></a>
+## शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई
+**English Title:** Shabad 61: Raama Saimarai Raama Saimarai Raama Saimarai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+राम सिमरि राम सिमरि राम सिमरि भाई ॥
+राम नाम सिमरन बिनु बूडते अधिकाई ॥१॥ रहाउ ॥
+बनिता सुत देह ग्रेह स्मपति सुखदाई ॥
+इन्ह मै कछु नाहि तेरो काल अवध आई ॥१॥
+अजामल गज गनिका पतित करम कीने ॥
+तेऊ उतरि पारि परे राम नाम लीने ॥२॥
+सूकर कूकर जोनि भ्रमे तऊ लाज न आई ॥
+राम नाम छाडि अम्रित काहे बिखु खाई ॥३॥
+तजि भरम करम बिधि निखेध राम नामु लेही ॥
+गुर प्रसादि जन कबीर रामु करि सनेही ॥४॥५॥692॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+राम (सर्वव्यापी परमात्मा) सिमरि (सिमरि का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) सिमरि (सिमरि का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) सिमरि (सिमरि का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) सिमरन (सिमरन का आध्यात्मिक भाव) बिनु (बिना/रहित) बूडते (बूडते का आध्यात्मिक भाव) अधिकाई (अधिकाई (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बनिता (बनिता का आध्यात्मिक भाव) सुत (पुत्र/बेटा) देह (दो) ग्रेह (ग्रेह (सधुक्कड़ी भाव)) स्मपति (स्वामी संबंधी) सुखदाई (सुखदाई का आध्यात्मिक भाव) ॥
+इन्ह (इन्ह का आध्यात्मिक भाव) मै (मैं/मैंने) कछु (कुछ भी) नाहि (नहीं) तेरो (तेरा) काल (काल/मृत्यु) अवध (आयु, जीवनकाल) आई (आई है) ॥ ॥
+अजामल (अजामिल) गज (गजराज (हाथी)) गनिका (गनिका (सधुक्कड़ी भाव)) पतित (स्वामी संबंधी) करम (कर्मकांड) कीने (क्या (लोग/समूह)) ॥
+तेऊ (वे भी) उतरि (उतरकर (में/करके)) पारि (भवसागर से पार, मुक्ति) परे (दूर) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) लीने (ले लिए/स्वीकार किए) ॥ ॥
+सूकर (सूकर (सधुक्कड़ी भाव)) कूकर (कूकर का आध्यात्मिक भाव) जोनि (जिससे (के/में)) भ्रमे (भ्रांति/संशय/अज्ञान) तऊ (तथापि/तो भी) लाज (लाज का आध्यात्मिक भाव) न (नहीं) आई (आई है) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) छाडि (छोड़कर) अम्रित (अम्रित का आध्यात्मिक भाव) काहे (किसलिए/क्यों) बिखु (हलाहल विष) खाई (खाई/खड्डा) ॥ ॥
+तजि (त्यागकर/छोड़कर) भरम (भ्रम) करम (कर्मकांड) बिधि (विधि/रीति) निखेध (निखेध का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) लेही (लेही का आध्यात्मिक भाव) ॥
+गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) जन (भक्त/सेवक) कबीर (संत कबीर जी) रामु (राम नाम की संबंधी) करि (करके/हाथ से) सनेही (सनेही (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raam (The All-Pervading Lord (Ram)) simari (simari) raam (The All-Pervading Lord (Ram)) simari (simari) raam (The All-Pervading Lord (Ram)) simari (simari) bhaaee (O brother!) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) simaran (simaran) binu (without/devoid of) boodate (boodate) adhikaaee (adhikaaee (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+banita (banita) sut (son) deh (give) greh (greh (spiritual sense)) smapati (Lord related) sukhadaaee (sukhadaaee) .
+inh (inh) mai (I/by me) kachhu (anything/something) naahi (not) tero (thy/thine) kaal (death/time) avadh (span of life, worldly lifespan) aaee (has come) . .
+ajaamal (Ajamila) gaj (the elephant king (Gajendra)) ganika (ganika (spiritual sense)) patit (Lord related) karam (rituals) keene (what (folk/plural)) .
+teoo (they too) utari (descending (in/having done)) paari (across the ocean of rebirth, ultimate liberation) pare (aside) raam (The All-Pervading Lord (Ram)) naam (Divine Name) leene (accepted/taken) . .
+sookar (sookar (spiritual sense)) kookar (kookar) joni (that (of/in)) bhrame (illusion/doubt) taoo (yet/still) laaj (laaj) n (not) aaee (has come) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) chhaadi (having left) amrit (amrit) kaahe (wherefore/why) bikhu (deadly poison) khaaee (trench/consumed) . .
+taji (having renounced) bharam (illusion/doubt) karam (rituals) bidhi (manner/way) nikhedh (nikhedh) raam (The All-Pervading Lord (Ram)) naamu (True Name) lehee (lehee) .
+gur (of the Master) prasaadi (divine grace (in/having done)) jan (devotee/humble servant) kabeer (Sant Kabir) raamu (Lord Rama's related) kari (having done/with hands) sanehee (sanehee (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! राम सिमरि राम सिमरि राम सिमरि भाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raamasimariraamasimariraamasimaribhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-62"></a>
+## शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ
+**English Title:** Shabad 62: Baeda Kataeba Iphataraa Bhaaee Daila Kaa Phaikara
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बेद कतेब इफतरा भाई दिल का फिकरु न जाइ ॥
+टुकु दमु करारी जउ करहु हाजिर हजूरि खुदाइ ॥१॥
+बंदे खोजु दिल हर रोज ना फिरु परेसानी माहि ॥
+इह जु दुनीआ सिहरु मेला दसतगीरी नाहि ॥१॥ रहाउ ॥
+दरोगु पड़ि पड़ि खुसी होइ बेखबर बादु बकाहि ॥
+हकु सचु खालकु खलक मिआने सिआम मूरति नाहि ॥२॥
+असमान ‍िम्याने लहंग दरीआ गुसल करदन बूद ॥
+करि फकरु दाइम लाइ चसमे जह तहा मउजूदु ॥३॥
+अलाह पाकं पाक है सक करउ जे दूसर होइ ॥
+कबीर करमु करीम का उहु करै जानै सोइ ॥४॥१॥727॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बेद (वेदों) कतेब (पवित्र आसमानी धर्मग्रंथ) इफतरा (इफतरा का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) दिल (हृदय) का (का/संबंध-सूचक) फिकरु (फिकर (सधुक्कड़ी भाव)) न (नहीं) जाइ (जिसका/जब (में/करके)) ॥
+टुकु (टुकु का आध्यात्मिक भाव) दमु (सांस) करारी (करारी का आध्यात्मिक भाव) जउ (यदि/जब) करहु (करके (से/द्वारा)) हाजिर (हाजिर का आध्यात्मिक भाव) हजूरि (हजूर (सधुक्कड़ी भाव)) खुदाइ (खुदाइ का आध्यात्मिक भाव) ॥ ॥
+बंदे (मनुष्य, सेवक) खोजु (खोजु का आध्यात्मिक भाव) दिल (हृदय) हर (भगवान/हरि) रोज (रोज का आध्यात्मिक भाव) ना (नहीं) फिरु (फिरु का आध्यात्मिक भाव) परेसानी (परेसानी का आध्यात्मिक भाव) माहि (में/अंदर) ॥
+इह (ये) जु (जो/जो कोई) दुनीआ (नश्वर संसार) सिहरु (सिहरु का आध्यात्मिक भाव) मेला (मिलन/संयोग) दसतगीरी (दसतगीरी का आध्यात्मिक भाव) नाहि (नहीं) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दरोगु (दरोगु का आध्यात्मिक भाव) पड़ि (पड़ि का आध्यात्मिक भाव) पड़ि (पड़ि का आध्यात्मिक भाव) खुसी (खुसी का आध्यात्मिक भाव) होइ (होकर) बेखबर (बेखबर का आध्यात्मिक भाव) बादु (बादु का आध्यात्मिक भाव) बकाहि (बकाहि का आध्यात्मिक भाव) ॥
+हकु (सत्य) सचु (परम सत्य/सच्चा प्रभु) खालकु (खालकु का आध्यात्मिक भाव) खलक (सृष्टि, संसार) मिआने (मिआने का आध्यात्मिक भाव) सिआम (सिआम का आध्यात्मिक भाव) मूरति (छवि (में/करके)) नाहि (नहीं) ॥ ॥
+असमान (असमान का आध्यात्मिक भाव) ‍िम्याने (‍िम्याने का आध्यात्मिक भाव) लहंग (लहंग का आध्यात्मिक भाव) दरीआ (दरीआ का आध्यात्मिक भाव) गुसल (गुसल का आध्यात्मिक भाव) करदन (करदन का आध्यात्मिक भाव) बूद (बूद का आध्यात्मिक भाव) ॥
+करि (करके/हाथ से) फकरु (फकरु का आध्यात्मिक भाव) दाइम (दाइम का आध्यात्मिक भाव) लाइ (लगाकर (में/करके)) चसमे (चसमे का आध्यात्मिक भाव) जह (जहाँ/जिस स्थान पर) तहा (वहाँ पर) मउजूदु (मउजूदु का आध्यात्मिक भाव) ॥ ॥
+अलाह (अलाह का आध्यात्मिक भाव) पाकं (पाकं का आध्यात्मिक भाव) पाक (पाक का आध्यात्मिक भाव) है (है कि) सक (सक का आध्यात्मिक भाव) करउ (करके) जे (यदि) दूसर (दूसर (सधुक्कड़ी भाव)) होइ (होकर) ॥
+कबीर (संत कबीर जी) करमु (कर्मकांड संबंधी) करीम (कृपालु प्रभु को) का (का/संबंध-सूचक) उहु (वह) करै (करके (करता है/ने)) जानै (प्राण/जीवन (करता है/ने)) सोइ (वह (में/करके)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bed (Vedas) kateb (holy scriptures) iphatara (iphatara) bhaaee (O brother!) dil (heart) ka (of) phikaru (phikar (spiritual sense)) n (not) jaai (whose/when (in/having done)) .
+tuku (tuku) damu (breath/moment) karaaree (karaaree) jau (if/when) karahu (doing (from/by)) haajir (haajir) hajoori (hajoor (spiritual sense)) khudaai (khudaai) . .
+bande (beings, servants of God) khoju (khoju) dil (heart) har (Lord Hari/God) roj (roj) na (not) phiru (phiru) paresaanee (paresaanee) maahi (within) .
+ih (these) ju (who/whoever) duneea (mortal world) siharu (siharu) mela (union/conjunction) dasatageeree (dasatageeree) naahi (not) . . rahaau (pause for reflection, foundational theme) .
+darogu (darogu) padi (padi) padi (padi) khusee (khusee) hoi (having become) bekhabar (bekhabar) baadu (baadu) bakaahi (bakaahi) .
+haku (truth/divine right) sachu (The Ultimate Truth) khaalaku (khaalaku) khalak (creation, the created world) miaane (miaane) siaam (siaam) moorati (form (in/having done)) naahi (not) . .
+asamaan (asamaan) imyaane (imyaane) lahang (lahang) dareea (dareea) gusal (gusal) karadan (karadan) bood (bood) .
+kari (having done/with hands) phakaru (phakaru) daaim (daaim) laai (applying/placing (in/having done)) chasame (chasame) jah (wherever) taha (there) maujoodu (maujoodu) . .
+alaah (alaah) paakan (paakan) paak (paak) hai (is) sak (sak) karau (doing) je (if) doosar (doosar (spiritual sense)) hoi (having become) .
+kabeer (Sant Kabir) karamu (rituals related) kareem (Bountiful Lord) ka (of) uhu (that) karai (doing (does/by)) jaanai (life/soul (does/by)) soi (that (in/having done)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बेद कतेब इफतरा भाई दिल का फिकरु न जाइ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bedakatebaiphataraabhaaeedilakaaphikarunajaai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-63"></a>
+## शब्द 63: अमलु सिरानो लेखा देना
+**English Title:** Shabad 63: Amalau Sairaanao Laekhaa Daenaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अमलु सिरानो लेखा देना ॥
+आए कठिन दूत जम लेना ॥
+किआ तै खटिआ कहा गवाइआ ॥
+चलहु सिताब दीबानि बुलाइआ ॥१॥
+चलु दरहालु दीवानि बुलाइआ ॥
+हरि फुरमानु दरगह का आइआ ॥१॥ रहाउ ॥
+करउ अरदासि गाव किछु बाकी ॥
+लेउ निबेरि आजु की राती ॥
+किछु भी खरचु तुम्हारा सारउ ॥
+सुबह निवाज सराइ गुजारउ ॥२॥
+साधसंगि जा कउ हरि रंगु लागा ॥
+धनु धनु सो जनु पुरखु सभागा ॥
+ईत ऊत जन सदा सुहेले ॥
+जनमु पदारथु जीति अमोले ॥३॥
+जागतु सोइआ जनमु गवाइआ ॥
+मालु धनु जोरिआ भइआ पराइआ ॥
+कहु कबीर तेई नर भूले ॥
+खसमु बिसारि माटी संगि रूले ॥४॥३॥792॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अमलु (अमलु का आध्यात्मिक भाव) सिरानो (शीश संबंधी) लेखा (हिसाब-किताब) देना (देना का आध्यात्मिक भाव) ॥
+आए (आए का आध्यात्मिक भाव) कठिन (दुर्गम/कठिन) दूत (दूत का आध्यात्मिक भाव) जम (यमराज/मृत्यु) लेना (लेना का आध्यात्मिक भाव) ॥
+किआ (क्या) तै (तूने/से) खटिआ (खटिआ का आध्यात्मिक भाव) कहा (क्या/कहाँ) गवाइआ (गवाइआ का आध्यात्मिक भाव) ॥
+चलहु (चलहु का आध्यात्मिक भाव) सिताब (सिताब का आध्यात्मिक भाव) दीबानि (दीबानि का आध्यात्मिक भाव) बुलाइआ (बुलाइआ का आध्यात्मिक भाव) ॥ ॥
+चलु (चल पड़/प्रस्थान कर) दरहालु (दरहाल (सधुक्कड़ी भाव)) दीवानि (दीवानि का आध्यात्मिक भाव) बुलाइआ (बुलाइआ का आध्यात्मिक भाव) ॥
+हरि (दुख-हर्ता परमात्मा) फुरमानु (फुरमानु का आध्यात्मिक भाव) दरगह (दरगह का आध्यात्मिक भाव) का (का/संबंध-सूचक) आइआ (आया) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+करउ (करके) अरदासि (अरदास (सधुक्कड़ी भाव)) गाव (गाव का आध्यात्मिक भाव) किछु (कुछ भी/तनिक) बाकी (बाकी का आध्यात्मिक भाव) ॥
+लेउ (लेउ का आध्यात्मिक भाव) निबेरि (निबेरि का आध्यात्मिक भाव) आजु (आज (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) राती (रात्रि/रात) ॥
+किछु (कुछ भी/तनिक) भी (इसके अतिरिक्त/भी) खरचु (खरचु का आध्यात्मिक भाव) तुम्हारा (तुम्हारा (सधुक्कड़ी भाव)) सारउ (सारउ का आध्यात्मिक भाव) ॥
+सुबह (सुबह का आध्यात्मिक भाव) निवाज (निवाज (सधुक्कड़ी भाव)) सराइ (सराइ का आध्यात्मिक भाव) गुजारउ (गुजारउ का आध्यात्मिक भाव) ॥ ॥
+साधसंगि (साधसंगि का आध्यात्मिक भाव) जा (जिसका/जब) कउ (को) हरि (दुख-हर्ता परमात्मा) रंगु (ईश्वरीय प्रेम का रंग) लागा (लगा/लीन हुआ) ॥
+धनु (धन/संपत्ति) धनु (धन/संपत्ति) सो (वह/वही) जनु (मानो/जैसे कि) पुरखु (पुरखु का आध्यात्मिक भाव) सभागा (सभाग (सधुक्कड़ी भाव)) ॥
+ईत (ईत का आध्यात्मिक भाव) ऊत (ऊत का आध्यात्मिक भाव) जन (भक्त/सेवक) सदा (सर्वदा/सदा) सुहेले (सुहेले का आध्यात्मिक भाव) ॥
+जनमु (मानव जन्म) पदारथु (पदारथ (सधुक्कड़ी भाव)) जीति (जीति (सधुक्कड़ी भाव)) अमोले (अमोले का आध्यात्मिक भाव) ॥ ॥
+जागतु (जागतु का आध्यात्मिक भाव) सोइआ (वह (में/करके) संबंधी) जनमु (मानव जन्म) गवाइआ (गवाइआ का आध्यात्मिक भाव) ॥
+मालु (सम्पत्ति-कर/माल) धनु (धन/संपत्ति) जोरिआ (जोरिआ का आध्यात्मिक भाव) भइआ (हुआ/हो गया) पराइआ (पराइआ का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) तेई (तेई का आध्यात्मिक भाव) नर (पुरुष/मनुष्य) भूले (भूले (सधुक्कड़ी भाव)) ॥
+खसमु (स्वामी, पति-परमेश्वर) बिसारि (बिसारि (सधुक्कड़ी भाव)) माटी (मृत्तिका, नश्वर देह) संगि (संगत में/सान्निध्य में) रूले (रूले का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+amalu (amalu) siraano (head related) lekha (reckoning/account of deeds) dena (dena) .
+aae (aae) kathin (difficult/arduous) doot (doot) jam (Yamraj/Death) lena (lena) .
+kia (what) tai (by thee/from) khatia (khatia) kaha (what/where) gavaaia (gavaaia) .
+chalahu (chalahu) sitaab (sitaab) deebaani (deebaani) bulaaia (bulaaia) . .
+chalu (depart/walk forth) darahaalu (darahaal (spiritual sense)) deevaani (deevaani) bulaaia (bulaaia) .
+hari (The Lord who dispels grief (Hari)) phuramaanu (phuramaanu) daragah (daragah) ka (of) aaia (came/arrived) . . rahaau (pause for reflection, foundational theme) .
+karau (doing) aradaasi (aradaas (spiritual sense)) gaav (gaav) kichhu (anything/a little) baakee (baakee) .
+leu (leu) niberi (niberi) aaju (aaj (spiritual sense)) kee (of) raatee (night) .
+kichhu (anything/a little) bhee (also/even) kharachu (kharachu) tumhaara (tumhaara (spiritual sense)) saarau (saarau) .
+subah (subah) nivaaj (nivaaj (spiritual sense)) saraai (saraai) gujaarau (gujaarau) . .
+saadhasangi (saadhasangi) ja (whose/when) kau (unto) hari (The Lord who dispels grief (Hari)) rangu (color of divine ecstasy) laaga (attached/engaged) .
+dhanu (wealth/riches) dhanu (wealth/riches) so (that/the same) janu (as if/devotee) purakhu (purakhu) sabhaaga (sabhaag (spiritual sense)) .
+eet (eet) oot (oot) jan (devotee/humble servant) sada (always/eternally) suhele (suhele) .
+janamu (human birth) padaarathu (padaarath (spiritual sense)) jeeti (jeeti (spiritual sense)) amole (amole) . .
+jaagatu (jaagatu) soia (that (in/having done) related) janamu (human birth) gavaaia (gavaaia) .
+maalu (property tax/levy) dhanu (wealth/riches) joria (joria) bhaia (became) paraaia (paraaia) .
+kahu (tell) kabeer (Sant Kabir) teee (teee) nar (man/mortal) bhoole (bhoole (spiritual sense)) .
+khasamu (Master, the Divine Spouse) bisaari (bisaari (spiritual sense)) maatee (clay, mortal human vessel) sangi (in company of) roole (roole) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अमलु सिरानो लेखा देना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! amalusiraanolekhaadena—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 63: अमलु सिरानो लेखा देना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-64"></a>
+## शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ
+**English Title:** Shabad 64: Thaakae Naaina Saravana Saunai Thaakae Thaakaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ ॥
+जरा हाक दी सभ मति थाकी एक न थाकसि माइआ ॥१॥
+बावरे तै गिआन बीचारु न पाइआ ॥
+बिरथा जनमु गवाइआ ॥१॥ रहाउ ॥
+तब लगु प्रानी तिसै सरेवहु जब लगु घट महि सासा ॥
+जे घटु जाइ त भाउ न जासी हरि के चरन निवासा ॥२॥
+जिस कउ सबदु बसावै अंतरि चूकै तिसहि पिआसा ॥
+हुकमै बूझै चउपड़ि खेलै मनु जिणि ढाले पासा ॥३॥
+जो जन जानि भजहि अबिगत कउ तिन का कछू न नासा ॥
+कहु कबीर ते जन कबहु न हारहि ढालि जु जानहि पासा ॥४॥४॥793॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+थाके (थाके (सधुक्कड़ी भाव)) नैन (नेत्रों से) स्रवन (कर्ण/कान) सुनि (श्रवण करके/सुनकर) थाके (थाके (सधुक्कड़ी भाव)) थाकी (थक गई) सुंदरि (मनोहर/सुंदर (में/करके)) काइआ (काइआ का आध्यात्मिक भाव) ॥
+जरा (जरा का आध्यात्मिक भाव) हाक (हाक का आध्यात्मिक भाव) दी (दी का आध्यात्मिक भाव) सभ (सब) मति (बुद्धि/समझ) थाकी (थक गई) एक (समान/एक जैसे) न (नहीं) थाकसि (थाकसि का आध्यात्मिक भाव) माइआ (माया/भ्रम) ॥ ॥
+बावरे (बावरा/भटका हुआ) तै (तूने/से) गिआन (आत्मज्ञान/विवेक) बीचारु (चारों संबंधी) न (नहीं) पाइआ (पा लिया है) ॥
+बिरथा (व्यर्थ/निष्फल) जनमु (मानव जन्म) गवाइआ (गवाइआ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तब (उस समय/तब) लगु (लगो/समीप आओ) प्रानी (प्राण/जीवन संबंधी) तिसै (उसका/उसको) सरेवहु (सरेवहु का आध्यात्मिक भाव) जब (जिस समय/जब) लगु (लगो/समीप आओ) घट (हृदय/शरीर) महि (में/भीतर) सासा (सासा (सधुक्कड़ी भाव)) ॥
+जे (यदि) घटु (हृदय/शरीर) जाइ (जिसका/जब (में/करके)) त (तो फिर/निश्चय ही) भाउ (भाव/मूल्य) न (नहीं) जासी (जास (सधुक्कड़ी भाव)) हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) चरन (कमल-चरण) निवासा (निवास/धाम) ॥ ॥
+जिस (जिसके विरह में) कउ (को) सबदु (ईश्वरीय शब्द, अनाहत ध्वनि) बसावै (बसावै का आध्यात्मिक भाव) अंतरि (हृदय के भीतर) चूकै (चूकै का आध्यात्मिक भाव) तिसहि (तिसहि का आध्यात्मिक भाव) पिआसा (प्यास/तृष्णा) ॥
+हुकमै (हुकमै का आध्यात्मिक भाव) बूझै (समझता/जानता (करता है/होता है)) चउपड़ि (चउपड़ि का आध्यात्मिक भाव) खेलै (खेलै (सधुक्कड़ी भाव)) मनु (मन/अंतःकरण) जिणि (जिणि का आध्यात्मिक भाव) ढाले (ढाले का आध्यात्मिक भाव) पासा (चौपड़ का पासा) ॥ ॥
+जो (जिससे) जन (भक्त/सेवक) जानि (जिसका/जब (के/में)) भजहि (भजहि का आध्यात्मिक भाव) अबिगत (अबिगत (सधुक्कड़ी भाव)) कउ (को) तिन (उन्होंने/उनका) का (का/संबंध-सूचक) कछू (कुछ) न (नहीं) नासा (नासा (सधुक्कड़ी भाव)) ॥
+कहु (बताओ) कबीर (संत कबीर जी) ते (से/द्वारा) जन (भक्त/सेवक) कबहु (कभी भी) न (नहीं) हारहि (हारहि का आध्यात्मिक भाव) ढालि (ढालि का आध्यात्मिक भाव) जु (जो/जो कोई) जानहि (प्राण/जीवन (को/में)) पासा (चौपड़ का पासा) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+thaake (thaake (spiritual sense)) nain (eyes) sravan (ears/listening) suni (having heard/listened) thaake (thaake (spiritual sense)) thaakee (became weary) sundari (beautiful/wondrous (in/having done)) kaaia (kaaia) .
+jara (jara) haak (haak) dee (dee) sabh (all) mati (intellect/mind) thaakee (became weary) ek (equal and one) n (not) thaakasi (thaakasi) maaia (cosmic illusion) . .
+baavare (bewildered/mad) tai (by thee/from) giaan (spiritual wisdom) beechaaru (four related) n (not) paaia (have found) .
+biratha (fruitless/in vain) janamu (human birth) gavaaia (gavaaia) . . rahaau (pause for reflection, foundational theme) .
+tab (at that time/then) lagu (cling to/attach) praanee (life-breath/soul related) tisai (that one/his) sarevahu (sarevahu) jab (at the time when) lagu (cling to/attach) ghat (body/inner temple) mahi (within/in) saasa (saasa (spiritual sense)) .
+je (if) ghatu (body/inner temple) jaai (whose/when (in/having done)) t (then indeed) bhaau (prices) n (not) jaasee (jaas (spiritual sense)) hari (The Lord who dispels grief (Hari)) ke (of) charan (lotus feet) nivaasa (abode/dwelling) . .
+jis (for whom) kau (unto) sabadu (Divine Word, sacred mystical sound) basaavai (basaavai) antari (within the heart) chookai (chookai) tisahi (tisahi) piaasa (thirst/spiritual longing) .
+hukamai (hukamai) boojhai (comprehends (does/becomes)) chaupadi (chaupadi) khelai (khelai (spiritual sense)) manu (mind/inner spirit) jini (jini) dhaale (dhaale) paasa (dice of destiny) . .
+jo (that) jan (devotee/humble servant) jaani (whose/when (of/in)) bhajahi (bhajahi) abigat (abigat (spiritual sense)) kau (unto) tin (they/them) ka (of) kachhoo (anything) n (not) naasa (naasa (spiritual sense)) .
+kahu (tell) kabeer (Sant Kabir) te (from/by) jan (devotee/humble servant) kabahu (ever/sometimes) n (not) haarahi (haarahi) dhaali (dhaali) ju (who/whoever) jaanahi (life/soul (unto/in)) paasa (dice of destiny) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! thaakenainasravanasunithaakethaakeesundarikaai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-65"></a>
+## शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे
+**English Title:** Shabad 65: Aisao Ihau Sansaarau Paekhanaa Rahanau Na Kao
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे ॥
+सूधे सूधे रेगि चलहु तुम नतर कुधका दिवईहै रे ॥१॥ रहाउ ॥
+बारे बूढे तरुने भईआ सभहू जमु लै जईहै रे ॥
+मानसु बपुरा मूसा कीनो मीचु बिलईआ खईहै रे ॥१॥
+धनवंता अरु निरधन मनई ता की कछू न कानी रे ॥
+राजा परजा सम करि मारै ऐसो कालु बडानी रे ॥२॥
+हरि के सेवक जो हरि भाए तिन्ह की कथा निरारी रे ॥
+आवहि न जाहि न कबहू मरते पारब्रहम संगारी रे ॥३॥
+पुत्र कलत्र लछिमी माइआ इहै तजहु जीअ जानी रे ॥
+कहत कबीरु सुनहु रे संतहु मिलिहै सारिगपानी रे ॥४॥१॥855॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ऐसो (ऐसो का आध्यात्मिक भाव) इहु (यह) संसारु (संसार) पेखना (पेखना का आध्यात्मिक भाव) रहनु (रहना/आचरण) न (नहीं) कोऊ (कोई भी) पईहै (पईहै का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+सूधे (सूधे का आध्यात्मिक भाव) सूधे (सूधे का आध्यात्मिक भाव) रेगि (रेगि का आध्यात्मिक भाव) चलहु (चलहु का आध्यात्मिक भाव) तुम (आप/तुम) नतर (नतर का आध्यात्मिक भाव) कुधका (कुधका का आध्यात्मिक भाव) दिवईहै (दिवईहै का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बारे (द्वार) बूढे (बूढे का आध्यात्मिक भाव) तरुने (तरुन (सधुक्कड़ी भाव)) भईआ (भईआ का आध्यात्मिक भाव) सभहू (सभहू का आध्यात्मिक भाव) जमु (यमराज/मृत्यु) लै (ले) जईहै (जईहै का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+मानसु (मानसु का आध्यात्मिक भाव) बपुरा (अमर नगर/धाम संबंधी) मूसा (मूसा का आध्यात्मिक भाव) कीनो (क्या (लोग/समूह) संबंधी) मीचु (मीचु का आध्यात्मिक भाव) बिलईआ (बिलईआ का आध्यात्मिक भाव) खईहै (खईहै का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥
+धनवंता (धनवंता का आध्यात्मिक भाव) अरु (और) निरधन (निरधन का आध्यात्मिक भाव) मनई (मनई का आध्यात्मिक भाव) ता (उस पर/उसका) की (की/संबंध-सूचक) कछू (कुछ) न (नहीं) कानी (तिनके ही) रे (रा (रज़ा व समर्पण)) ॥
+राजा (आदर्श शासन/राज संबंधी) परजा (परजा का आध्यात्मिक भाव) सम (समान भाव से) करि (करके/हाथ से) मारै (मारकर) ऐसो (ऐसो का आध्यात्मिक भाव) कालु (काल/मृत्यु) बडानी (बडानी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) सेवक (अनन्य सेवक/दास) जो (जिससे) हरि (दुख-हर्ता परमात्मा) भाए (भाए का आध्यात्मिक भाव) तिन्ह (उन्होंने) की (की/संबंध-सूचक) कथा (हरि-कथा/प्रवचन) निरारी (निरारी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+आवहि (आते हैं) न (नहीं) जाहि (जिसका/जब (को/में)) न (नहीं) कबहू (कबहू का आध्यात्मिक भाव) मरते (मरते हुए) पारब्रहम (पारब्रहम का आध्यात्मिक भाव) संगारी (संगारी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥
+पुत्र (बेटा/पुत्र) कलत्र (पत्नी/स्त्री) लछिमी (लछिमी का आध्यात्मिक भाव) माइआ (माया/भ्रम) इहै (ये (करता है/ने)) तजहु (तजहु का आध्यात्मिक भाव) जीअ (जीवात्मा/प्राण) जानी (के प्यारे) रे (रा (रज़ा व समर्पण)) ॥
+कहत (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) मिलिहै (मिलिहै का आध्यात्मिक भाव) सारिगपानी (सारिगपानी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+aiso (aiso) ihu (this) sansaaru (the world) pekhana (pekhana) rahanu (living/abiding) n (not) kooo (anyone) paeehai (paeehai) re (Re (Divine Will)) .
+soodhe (soodhe) soodhe (soodhe) regi (regi) chalahu (chalahu) tum (You/Thou) natar (natar) kudhaka (kudhaka) divaeehai (divaeehai) re (Re (Divine Will)) . . rahaau (pause for reflection, foundational theme) .
+baare (door) boodhe (boodhe) tarune (tarun (spiritual sense)) bhaeea (bhaeea) sabhahoo (sabhahoo) jamu (Yamraj/Death) lai (bringing) jaeehai (jaeehai) re (Re (Divine Will)) .
+maanasu (maanasu) bapura (eternal city/realm related) moosa (moosa) keeno (what (folk/plural) related) meechu (meechu) bilaeea (bilaeea) khaeehai (khaeehai) re (Re (Divine Will)) . .
+dhanavanta (dhanavanta) aru (and) niradhan (niradhan) manaee (manaee) ta (upon that/his) kee (of) kachhoo (anything) n (not) kaanee (twigs/straws) re (Re (Divine Will)) .
+raaja (realm/kingdom related) paraja (paraja) sam (with equal dignity) kari (having done/with hands) maarai (striking/killing) aiso (aiso) kaalu (death/time) badaanee (badaanee) re (Re (Divine Will)) . .
+hari (The Lord who dispels grief (Hari)) ke (of) sevak (devoted servant) jo (that) hari (The Lord who dispels grief (Hari)) bhaae (bhaae) tinh (they) kee (of) katha (divine discourse) niraaree (niraaree) re (Re (Divine Will)) .
+aavahi (they arrive) n (not) jaahi (whose/when (unto/in)) n (not) kabahoo (kabahoo) marate (while dying) paarabraham (paarabraham) sangaaree (sangaaree) re (Re (Divine Will)) . .
+putr (son) kalatr (wife/spouse) lachhimee (lachhimee) maaia (cosmic illusion) ihai (these (does/by)) tajahu (tajahu) jeea (living soul/breath) jaanee (darling) re (Re (Divine Will)) .
+kahat (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) milihai (milihai) saarigapaanee (saarigapaanee) re (Re (Divine Will)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! aisoihusansaarupekhanaarahanunakooopaeehaire—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-66"></a>
+## शब्द 66: बिदिआ न परउ बादु नही जानउ
+**English Title:** Shabad 66: Baidaiaa Na Parau Baadau Nahaee Jaanau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बिदिआ न परउ बादु नही जानउ ॥
+हरि गुन कथत सुनत बउरानो ॥१॥
+मेरे बाबा मै बउरा सभ खलक सैआनी मै बउरा ॥
+मै बिगरिओ बिगरै मति अउरा ॥१॥ रहाउ ॥
+आपि न बउरा राम कीओ बउरा ॥
+सतिगुरु जारि गइओ भ्रमु मोरा ॥२॥
+मै बिगरे अपनी मति खोई ॥
+मेरे भरमि भूलउ मति कोई ॥३॥
+सो बउरा जो आपु न पछानै ॥
+आपु पछानै त एकै जानै ॥४॥
+अबहि न माता सु कबहु न माता ॥
+कहि कबीर रामै रंगि राता ॥५॥२॥855॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बिदिआ (बिदिआ का आध्यात्मिक भाव) न (नहीं) परउ (किन्तु/परन्तु) बादु (बादु का आध्यात्मिक भाव) नही (नहीं) जानउ (प्राण/जीवन) ॥
+हरि (दुख-हर्ता परमात्मा) गुन (गुण/पुण्य) कथत (कथत का आध्यात्मिक भाव) सुनत (सुनकर (करते हुए)) बउरानो (बउरानो का आध्यात्मिक भाव) ॥ ॥
+मेरे (पर मेरे) बाबा (बाबा का आध्यात्मिक भाव) मै (मैं/मैंने) बउरा (बउरा का आध्यात्मिक भाव) सभ (सब) खलक (सृष्टि, संसार) सैआनी (सैआनी का आध्यात्मिक भाव) मै (मैं/मैंने) बउरा (बउरा का आध्यात्मिक भाव) ॥
+मै (मैं/मैंने) बिगरिओ (बिगरिओ का आध्यात्मिक भाव) बिगरै (बिगरै का आध्यात्मिक भाव) मति (बुद्धि/समझ) अउरा (अन्य/दूसरा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आपि (स्वयं/परमात्मा) न (नहीं) बउरा (बउरा का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) कीओ (किया) बउरा (बउरा का आध्यात्मिक भाव) ॥
+सतिगुरु (सच्चे सद्गुरु) जारि (जारि (सधुक्कड़ी भाव)) गइओ (गया) भ्रमु (भ्रम/संशय) मोरा (मयूर/मोर) ॥ ॥
+मै (मैं/मैंने) बिगरे (बिगरे का आध्यात्मिक भाव) अपनी (अपनी (सधुक्कड़ी भाव)) मति (बुद्धि/समझ) खोई (खो दिया/त्याग दिया) ॥
+मेरे (पर मेरे) भरमि (भ्रम) भूलउ (भूलउ का आध्यात्मिक भाव) मति (बुद्धि/समझ) कोई (कोई भी जन) ॥ ॥
+सो (वह/वही) बउरा (बउरा का आध्यात्मिक भाव) जो (जिससे) आपु (स्वयं) न (नहीं) पछानै (पछानै का आध्यात्मिक भाव) ॥
+आपु (स्वयं) पछानै (पछानै का आध्यात्मिक भाव) त (तो फिर/निश्चय ही) एकै (समान/एक जैसे (करता है/ने)) जानै (प्राण/जीवन (करता है/ने)) ॥ ॥
+अबहि (अबहि का आध्यात्मिक भाव) न (नहीं) माता (जननी/माता) सु (वह) कबहु (कभी भी) न (नहीं) माता (जननी/माता) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) रामै (सर्वव्यापी परमात्मा) रंगि (प्रेम-रंग में) राता (रंगा हुआ/लीन) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bidia (bidia) n (not) parau (but/upon) baadu (baadu) nahee (not) jaanau (life/soul) .
+hari (The Lord who dispels grief (Hari)) gun (virtues/merits) kathat (kathat) sunat (hearing (while doing)) bauraano (bauraano) . .
+mere (my) baaba (baaba) mai (I/by me) baura (baura) sabh (all) khalak (creation, the created world) saiaanee (saiaanee) mai (I/by me) baura (baura) .
+mai (I/by me) bigario (bigario) bigarai (bigarai) mati (intellect/mind) aura (other/another) . . rahaau (pause for reflection, foundational theme) .
+aapi (Himself/oneself) n (not) baura (baura) raam (The All-Pervading Lord (Ram)) keeo (created/done) baura (baura) .
+satiguru (True Divine Master) jaari (jaari (spiritual sense)) gaio (departed) bhramu (illusion/doubt) mora (dancing peacock) . .
+mai (I/by me) bigare (bigare) apanee (apanee (spiritual sense)) mati (intellect/mind) khoee (lost/eradicated) .
+mere (my) bharami (illusion/doubt) bhoolau (bhoolau) mati (intellect/mind) koee (anyone) . .
+so (that/the same) baura (baura) jo (that) aapu (oneself) n (not) pachhaanai (pachhaanai) .
+aapu (oneself) pachhaanai (pachhaanai) t (then indeed) ekai (equal and one (does/by)) jaanai (life/soul (does/by)) . .
+abahi (abahi) n (not) maata (mother) su (that) kabahu (ever/sometimes) n (not) maata (mother) .
+kahi (from (unto/in)) kabeer (Sant Kabir) raamai (The All-Pervading Lord (Ram)) rangi (in the color of love) raata (dyed in divine love) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बिदिआ न परउ बादु नही जानउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bidiaanaparaubaadunaheejaanau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 66: बिदिआ न परउ बादु नही जानउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-67"></a>
+## शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा
+**English Title:** Shabad 67: Garaihau Tajai Bana Khanda Jaaeeai Chaunai Khaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा ॥
+अजहु बिकार न छोडई पापी मनु मंदा ॥१॥
+किउ छूटउ कैसे तरउ भवजल निधि भारी ॥
+राखु राखु मेरे बीठुला जनु सरनि तुम्हारी ॥१॥ रहाउ ॥
+बिखै बिखै की बासना तजीअ नह जाई ॥
+अनिक जतन करि राखीऐ फिरि फिरि लपटाई ॥२॥
+जरा जीवन जोबनु गइआ किछु कीआ न नीका ॥
+इहु जीअरा निरमोलको कउडी लगि मीका ॥३॥
+कहु कबीर मेरे माधवा तू सरब बिआपी ॥
+तुम समसरि नाही दइआलु मोहि समसरि पापी ॥४॥३॥855॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ग्रिहु (गृह/घर) तजि (त्यागकर/छोड़कर) बन (वन/जंगल) खंड (शर्करा/टुकड़ा) जाईऐ (जाईऐ का आध्यात्मिक भाव) चुनि (चुनकर/एकत्र करके) खाईऐ (खाईऐ का आध्यात्मिक भाव) कंदा (कंदा का आध्यात्मिक भाव) ॥
+अजहु (आज भी/अब भी) बिकार (कार्य संबंधी) न (नहीं) छोडई (छोडई का आध्यात्मिक भाव) पापी (पापी/दोषी) मनु (मन/अंतःकरण) मंदा (मंद (सधुक्कड़ी भाव)) ॥ ॥
+किउ (अथवा) छूटउ (छूटउ का आध्यात्मिक भाव) कैसे (किस प्रकार) तरउ (तरउ का आध्यात्मिक भाव) भवजल (भवजल का आध्यात्मिक भाव) निधि (नौ निधियां/खजाना) भारी (कठिन/गंभीर) ॥
+राखु (रक्षा करो/शरण दो) राखु (रक्षा करो/शरण दो) मेरे (पर मेरे) बीठुला (बीठुला का आध्यात्मिक भाव) जनु (मानो/जैसे कि) सरनि (सिर/सरोवर (के/में)) तुम्हारी (आपकी/तुम्हारी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बिखै (बिखै का आध्यात्मिक भाव) बिखै (बिखै का आध्यात्मिक भाव) की (की/संबंध-सूचक) बासना (बासना का आध्यात्मिक भाव) तजीअ (तजीअ का आध्यात्मिक भाव) नह (नहीं) जाई (जाओ) ॥
+अनिक (अनेक/नाना प्रकार) जतन (प्रयत्न) करि (करके/हाथ से) राखीऐ (राखीऐ का आध्यात्मिक भाव) फिरि (फिर भी (में/करके)) फिरि (फिर भी (में/करके)) लपटाई (लपटाई का आध्यात्मिक भाव) ॥ ॥
+जरा (जरा का आध्यात्मिक भाव) जीवन (जीना) जोबनु (जोबन (सधुक्कड़ी भाव)) गइआ (गया) किछु (कुछ भी/तनिक) कीआ (किया) न (नहीं) नीका (नीका (सधुक्कड़ी भाव)) ॥
+इहु (यह) जीअरा (जीअरा का आध्यात्मिक भाव) निरमोलको (निरमोलको का आध्यात्मिक भाव) कउडी (कउडी का आध्यात्मिक भाव) लगि (लगकर/तक) मीका (मीका का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) मेरे (पर मेरे) माधवा (माधव/ईश्वर संबंधी) तू (तू/परमात्मा) सरब (सबको) बिआपी (बिआपी का आध्यात्मिक भाव) ॥
+तुम (आप/तुम) समसरि (समान/तुल्य) नाही (नहीं) दइआलु (परम दयालु प्रभु) मोहि (मुझको/मुझे) समसरि (समान/तुल्य) पापी (पापी/दोषी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+grihu (house/home) taji (having renounced) ban (forest) khand (sugar/portion) jaaeeai (jaaeeai) chuni (having chosen/picked) khaaeeai (khaaeeai) kanda (kanda) .
+ajahu (even today/still) bikaar (work/deed related) n (not) chhodaee (chhodaee) paapee (sinner/transgressor) manu (mind/inner spirit) manda (mand (spiritual sense)) . .
+kiu (or is it) chhootau (chhootau) kaise (how) tarau (tarau) bhavajal (bhavajal) nidhi (treasure/spiritual wealth) bhaaree (heavy/severe) .
+raakhu (protect/shelter) raakhu (protect/shelter) mere (my) beethula (beethula) janu (as if/devotee) sarani (head/lake (of/in)) tumhaaree (Thine) . . rahaau (pause for reflection, foundational theme) .
+bikhai (bikhai) bikhai (bikhai) kee (of) baasana (baasana) tajeea (tajeea) nah (not) jaaee (slip away) .
+anik (manifold/countless) jatan (efforts) kari (having done/with hands) raakheeai (raakheeai) phiri (then (in/having done)) phiri (then (in/having done)) lapataaee (lapataaee) . .
+jara (jara) jeevan (life) jobanu (joban (spiritual sense)) gaia (went/departed) kichhu (anything/a little) keea (did/created) n (not) neeka (neeka (spiritual sense)) .
+ihu (this) jeeara (jeeara) niramolako (niramolako) kaudee (kaudee) lagi (attached to/until) meeka (meeka) . .
+kahu (tell) kabeer (Sant Kabir) mere (my) maadhava (Lord Madhava related) too (Thou) sarab (with all) biaapee (biaapee) .
+tum (You/Thou) samasari (equal/alike) naahee (not) daiaalu (Compassionate Lord) mohi (unto me) samasari (equal/alike) paapee (sinner/transgressor) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! grihutajibanakhandajaaeeaichunikhaaeeaikanda—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-68"></a>
+## शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ
+**English Title:** Shabad 68: Naita Uthai Kaoraee Gaagarai Aanaai Laeepata Jaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+नित उठि कोरी गागरि आनै लीपत जीउ गइओ ॥
+ताना बाना कछू न सूझै हरि हरि रसि लपटिओ ॥१॥
+हमारे कुल कउने रामु कहिओ ॥
+जब की माला लई निपूते तब ते सुखु न भइओ ॥१॥ रहाउ ॥
+सुनहु जिठानी सुनहु दिरानी अचरजु एकु भइओ ॥
+सात सूत इनि मुडींए खोए इहु मुडीआ किउ न मुइओ ॥२॥
+सरब सुखा का एकु हरि सुआमी सो गुरि नामु दइओ ॥
+संत प्रहलाद की पैज जिनि राखी हरनाखसु नख बिदरिओ ॥३॥
+घर के देव पितर की छोडी गुर को सबदु लइओ ॥
+कहत कबीरु सगल पाप खंडनु संतह लै उधरिओ ॥४॥४॥856॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+नित (नित्य/प्रतिदिन) उठि (उठकर/जागकर) कोरी (कोरी का आध्यात्मिक भाव) गागरि (गागरि का आध्यात्मिक भाव) आनै (आकर) लीपत (लीपत का आध्यात्मिक भाव) जीउ (मन/जी) गइओ (गया) ॥
+ताना (लंबाई के धागे, विस्तार) बाना (चौड़ाई के धागे, प्रपंच) कछू (कुछ) न (नहीं) सूझै (समझ/दृष्टि (करता है/होता है)) हरि (दुख-हर्ता परमात्मा) हरि (दुख-हर्ता परमात्मा) रसि (रस में/आनंद में) लपटिओ (लपटिओ का आध्यात्मिक भाव) ॥ ॥
+हमारे (हम सेवकों के) कुल (समस्त) कउने (कउने का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) कहिओ (से (को/में) संबंधी) ॥
+जब (जिस समय/जब) की (की/संबंध-सूचक) माला (जपमाला/सुमिरनी) लई (ली) निपूते (निपूते का आध्यात्मिक भाव) तब (उस समय/तब) ते (से/द्वारा) सुखु (सच्चा सुख) न (नहीं) भइओ (हुआ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सुनहु (सुनकर (से/द्वारा)) जिठानी (जिठानी का आध्यात्मिक भाव) सुनहु (सुनकर (से/द्वारा)) दिरानी (दिरानी का आध्यात्मिक भाव) अचरजु (अचरजु का आध्यात्मिक भाव) एकु (एक ही अद्वैत ब्रह्म) भइओ (हुआ) ॥
+सात (सात का आध्यात्मिक भाव) सूत (सूत का आध्यात्मिक भाव) इनि (इन सब को) मुडींए (मुडींए का आध्यात्मिक भाव) खोए (खोए का आध्यात्मिक भाव) इहु (यह) मुडीआ (मुडीआ का आध्यात्मिक भाव) किउ (अथवा) न (नहीं) मुइओ (मुइओ का आध्यात्मिक भाव) ॥ ॥
+सरब (सबको) सुखा (सच्चा सुख) का (का/संबंध-सूचक) एकु (एक ही अद्वैत ब्रह्म) हरि (दुख-हर्ता परमात्मा) सुआमी (स्वामी/परमात्मा) सो (वह/वही) गुरि (गुरु के) नामु (सत्य-नाम) दइओ (दइओ का आध्यात्मिक भाव) ॥
+संत (संत/महात्मा) प्रहलाद (प्रहलाद (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) पैज (प्रतिज्ञा/लाज) जिनि (मत/जिसने) राखी (राखी का आध्यात्मिक भाव) हरनाखसु (हरनाखसु का आध्यात्मिक भाव) नख (नख (सधुक्कड़ी भाव)) बिदरिओ (बिदरिओ का आध्यात्मिक भाव) ॥ ॥
+घर (आशियाना) के (के/संबंध-सूचक) देव (प्रभु/परमेश्वर) पितर (पितर का आध्यात्मिक भाव) की (की/संबंध-सूचक) छोडी (छोडी का आध्यात्मिक भाव) गुर (गुरु के) को (को/की ओर) सबदु (ईश्वरीय शब्द, अनाहत ध्वनि) लइओ (लइओ का आध्यात्मिक भाव) ॥
+कहत (कहते हुए) कबीरु (संत कबीर जी) सगल (संपूर्ण/समस्त) पाप (पाप/अधर्माचरण) खंडनु (शर्करा/टुकड़ा (लोग/समूह)) संतह (संत/महात्मा) लै (ले) उधरिओ (उधरिओ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+nit (daily/ever) uthi (having arisen) koree (koree) gaagari (gaagari) aanai (coming) leepat (leepat) jeeu (heart/mind) gaio (departed) .
+taana (warp of the cosmic fabric) baana (weft of the cosmic fabric) kachhoo (anything) n (not) soojhai (spiritual insight (does/becomes)) hari (The Lord who dispels grief (Hari)) hari (The Lord who dispels grief (Hari)) rasi (in divine nectar) lapatio (lapatio) . .
+hamaare (ours/of us devotees) kul (all/entire) kaune (kaune) raamu (Lord Rama's related) kahio (from (unto/in) related) .
+jab (at the time when) kee (of) maala (rosary of beads) laee (took) nipoote (nipoote) tab (at that time/then) te (from/by) sukhu (true bliss) n (not) bhaio (occurred/became) . . rahaau (pause for reflection, foundational theme) .
+sunahu (hearing (from/by)) jithaanee (jithaanee) sunahu (hearing (from/by)) diraanee (diraanee) acharaju (acharaju) eku (The One Supreme Lord) bhaio (occurred/became) .
+saat (saat) soot (soot) ini (unto all these) mudeene (mudeene) khoe (khoe) ihu (this) mudeea (mudeea) kiu (or is it) n (not) muio (muio) . .
+sarab (with all) sukha (true bliss) ka (of) eku (The One Supreme Lord) hari (The Lord who dispels grief (Hari)) suaamee (Lord/Master) so (that/the same) guri (of the Master) naamu (True Name) daio (daio) .
+sant (holy saint) prahalaad (prahalaad (spiritual sense)) kee (of) paij (pledge/honor) jini (do not/who) raakhee (raakhee) haranaakhasu (haranaakhasu) nakh (nakh (spiritual sense)) bidario (bidario) . .
+ghar (home/refuge) ke (of) dev (Divine Lord) pitar (pitar) kee (of) chhodee (chhodee) gur (of the Master) ko (unto/toward) sabadu (Divine Word, sacred mystical sound) laio (laio) .
+kahat (speaking/saying) kabeeru (Sant Kabir) sagal (all/entire) paap (sin/transgression) khandanu (sugar/portion (folk/plural)) santah (holy saint) lai (bringing) udhario (udhario) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! नित उठि कोरी गागरि आनै लीपत जीउ गइओ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! nitauthikoreegaagariaanaileepatajeeugaio—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-69"></a>
+## शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ
+**English Title:** Shabad 69: Santau Mailaai Kaichhau Saunaeeai Kahaeeai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+संतु मिलै किछु सुनीऐ कहीऐ ॥
+मिलै असंतु मसटि करि रहीऐ ॥१॥
+बाबा बोलना किआ कहीऐ ॥
+जैसे राम नाम रवि रहीऐ ॥१॥ रहाउ ॥
+संतन सिउ बोले उपकारी ॥
+मूरख सिउ बोले झख मारी ॥२॥
+बोलत बोलत बढहि बिकारा ॥
+बिनु बोले किआ करहि बीचारा ॥३॥
+कहु कबीर छूछा घटु बोलै ॥
+भरिआ होइ सु कबहु न डोलै ॥४॥१॥870॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+संतु (संत/महात्मा) मिलै (प्राप्त हो/मिलता है) किछु (कुछ भी/तनिक) सुनीऐ (सुनना चाहिए) कहीऐ (कहिए) ॥
+मिलै (प्राप्त हो/मिलता है) असंतु (दुष्ट/अधर्मी) मसटि (मसटि का आध्यात्मिक भाव) करि (करके/हाथ से) रहीऐ (रहना चाहिए) ॥ ॥
+बाबा (बाबा का आध्यात्मिक भाव) बोलना (बोलना का आध्यात्मिक भाव) किआ (क्या) कहीऐ (कहिए) ॥
+जैसे (जिस प्रकार) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) रवि (सूर्य/भास्कर) रहीऐ (रहना चाहिए) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+संतन (संतन का आध्यात्मिक भाव) सिउ (से/साथ) बोले (वाणी/वचन) उपकारी (कार्य संबंधी) ॥
+मूरख (मूरख का आध्यात्मिक भाव) सिउ (से/साथ) बोले (वाणी/वचन) झख (झख का आध्यात्मिक भाव) मारी (मारकर) ॥ ॥
+बोलत (बोलत का आध्यात्मिक भाव) बोलत (बोलत का आध्यात्मिक भाव) बढहि (बढहि का आध्यात्मिक भाव) बिकारा (कार्य संबंधी) ॥
+बिनु (बिना/रहित) बोले (वाणी/वचन) किआ (क्या) करहि (करते हैं) बीचारा (बीचारा का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) छूछा (छूछा का आध्यात्मिक भाव) घटु (हृदय/शरीर) बोलै (वाणी/वचन (करता है/ने)) ॥
+भरिआ (भरिआ का आध्यात्मिक भाव) होइ (होकर) सु (वह) कबहु (कभी भी) न (नहीं) डोलै (डोलै (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+santu (holy saint) milai (is obtained/received) kichhu (anything/a little) suneeai (one should listen) kaheeai (one should speak) .
+milai (is obtained/received) asantu (wicked/unrighteous) masati (masati) kari (having done/with hands) raheeai (one should abide) . .
+baaba (baaba) bolana (bolana) kia (what) kaheeai (one should speak) .
+jaise (just as) raam (The All-Pervading Lord (Ram)) naam (Divine Name) ravi (sun/radiance) raheeai (one should abide) . . rahaau (pause for reflection, foundational theme) .
+santan (santan) siu (with/from) bole (word/speech) upakaaree (work/deed related) .
+moorakh (moorakh) siu (with/from) bole (word/speech) jhakh (jhakh) maaree (striking/killing) . .
+bolat (bolat) bolat (bolat) badhahi (badhahi) bikaara (work/deed related) .
+binu (without/devoid of) bole (word/speech) kia (what) karahi (they do) beechaara (beechaara) . .
+kahu (tell) kabeer (Sant Kabir) chhoochha (chhoochha) ghatu (body/inner temple) bolai (word/speech (does/by)) .
+bharia (bharia) hoi (having become) su (that) kabahu (ever/sometimes) n (not) dolai (dolai (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! संतु मिलै किछु सुनीऐ कहीऐ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! santumilaikichhusuneeaikaheeai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-70"></a>
+## शब्द 70: नरू मरै नरु कामि न आवै
+**English Title:** Shabad 70: Naraoo Maraai Narau Kaamai Na Aavaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+नरू मरै नरु कामि न आवै ॥
+पसू मरै दस काज सवारै ॥१॥
+अपने करम की गति मै किआ जानउ ॥
+मै किआ जानउ बाबा रे ॥१॥ रहाउ ॥
+हाड जले जैसे लकरी का तूला ॥
+केस जले जैसे घास का पूला ॥२॥
+कहु कबीर तब ही नरु जागै ॥
+जम का डंडु मूंड महि लागै ॥३॥२॥870॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+नरू (नरू का आध्यात्मिक भाव) मरै (मर नहीं (करता है/होता है)) नरु (पुरुष/मनुष्य) कामि (कामना/वासना) न (नहीं) आवै (आता है) ॥
+पसू (पसू का आध्यात्मिक भाव) मरै (मर नहीं (करता है/होता है)) दस (दस इंद्रियां/संख्या दस) काज (कार्य/प्रयोजन) सवारै (सवारै का आध्यात्मिक भाव) ॥ ॥
+अपने (अपने/स्वयं के) करम (कर्मकांड) की (की/संबंध-सूचक) गति (परम गति/मुक्ति) मै (मैं/मैंने) किआ (क्या) जानउ (प्राण/जीवन) ॥
+मै (मैं/मैंने) किआ (क्या) जानउ (प्राण/जीवन) बाबा (बाबा का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हाड (अस्थियां/हड्डियां) जले (पानी) जैसे (जिस प्रकार) लकरी (लकरी का आध्यात्मिक भाव) का (का/संबंध-सूचक) तूला (तूला का आध्यात्मिक भाव) ॥
+केस (केस का आध्यात्मिक भाव) जले (पानी) जैसे (जिस प्रकार) घास (तृण/घास) का (का/संबंध-सूचक) पूला (पूला का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) तब (उस समय/तब) ही (केवल/मात्र) नरु (पुरुष/मनुष्य) जागै (जागकर) ॥
+जम (यमराज/मृत्यु) का (का/संबंध-सूचक) डंडु (दंड/सजा) मूंड (मूंड का आध्यात्मिक भाव) महि (में/भीतर) लागै (प्रेम-संबंध/लगन (करता है/ने)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+naroo (naroo) marai (dies (does/becomes)) naru (man/mortal) kaami (lust/desire) n (not) aavai (comes/arrives) .
+pasoo (pasoo) marai (dies (does/becomes)) das (ten) kaaj (work/purpose) savaarai (savaarai) . .
+apane (one's own) karam (rituals) kee (of) gati (spiritual emancipation) mai (I/by me) kia (what) jaanau (life/soul) .
+mai (I/by me) kia (what) jaanau (life/soul) baaba (baaba) re (Re (Divine Will)) . . rahaau (pause for reflection, foundational theme) .
+haad (bones) jale (water) jaise (just as) lakaree (lakaree) ka (of) toola (toola) .
+kes (kes) jale (water) jaise (just as) ghaas (grass/straw) ka (of) poola (poola) . .
+kahu (tell) kabeer (Sant Kabir) tab (at that time/then) hee (alone/only) naru (man/mortal) jaagai (awakened) .
+jam (Yamraj/Death) ka (of) dandu (punishment/rod) moond (moond) mahi (within/in) laagai (spark of love/attachment (does/by)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! नरू मरै नरु कामि न आवै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! naroomarainarukaaminaaavai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 70: नरू मरै नरु कामि न आवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-71"></a>
+## शब्द 71: भुजा बांधि भिला करि डारिओ
+**English Title:** Shabad 71: Bhaujaa Baandhai Bhailaa Karai Daaraio
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+भुजा बांधि भिला करि डारिओ ॥
+हसती क्रोपि मूंड महि मारिओ ॥
+हसति भागि कै चीसा मारै ॥
+इआ मूरति कै हउ बलिहारै ॥१॥
+आहि मेरे ठाकुर तुमरा जोरु ॥
+काजी बकिबो हसती तोरु ॥१॥ रहाउ ॥
+रे महावत तुझु डारउ काटि ॥
+इसहि तुरावहु घालहु साटि ॥
+हसति न तोरै धरै धिआनु ॥
+वा कै रिदै बसै भगवानु ॥२॥
+किआ अपराधु संत है कीन्हा ॥
+बांधि पोट कुंचर कउ दीन्हा ॥
+कुंचरु पोट लै लै नमसकारै ॥
+बूझी नही काजी अंधिआरै ॥३॥
+तीनि बार पतीआ भरि लीना ॥
+मन कठोरु अजहू न पतीना ॥
+कहि कबीर हमरा गोबिंदु ॥
+चउथे पद महि जन की जिंदु ॥४॥१॥४॥870॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+भुजा (भुज (सधुक्कड़ी भाव)) बांधि (बांधि का आध्यात्मिक भाव) भिला (भिला का आध्यात्मिक भाव) करि (करके/हाथ से) डारिओ (डारिओ का आध्यात्मिक भाव) ॥
+हसती (हसती का आध्यात्मिक भाव) क्रोपि (क्रोपि का आध्यात्मिक भाव) मूंड (मूंड का आध्यात्मिक भाव) महि (में/भीतर) मारिओ (मार दिया) ॥
+हसति (हसति का आध्यात्मिक भाव) भागि (किस्मत संबंधी) कै (के/का) चीसा (चीसा का आध्यात्मिक भाव) मारै (मारकर) ॥
+इआ (इआ का आध्यात्मिक भाव) मूरति (छवि (में/करके)) कै (के/का) हउ (मैं/अहंभाव) बलिहारै (बलिहारै का आध्यात्मिक भाव) ॥ ॥
+आहि (आओ (को/में)) मेरे (पर मेरे) ठाकुर (ठाकुरद्वारा/मंदिर) तुमरा (तुमरा का आध्यात्मिक भाव) जोरु (जोरु का आध्यात्मिक भाव) ॥
+काजी (न्यायाधीश, धर्मगुरु) बकिबो (बकिबो का आध्यात्मिक भाव) हसती (हसती का आध्यात्मिक भाव) तोरु (तेरा/तुम्हारी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+रे (रा (रज़ा व समर्पण)) महावत (महावत का आध्यात्मिक भाव) तुझु (तुझे) डारउ (डारउ का आध्यात्मिक भाव) काटि (काटकर) ॥
+इसहि (इसहि का आध्यात्मिक भाव) तुरावहु (तुरावहु का आध्यात्मिक भाव) घालहु (घालहु का आध्यात्मिक भाव) साटि (साटि (सधुक्कड़ी भाव)) ॥
+हसति (हसति का आध्यात्मिक भाव) न (नहीं) तोरै (तेरा/तुम्हारी (करता है/होता है)) धरै (रखकर (करता है/ने)) धिआनु (धिआनु का आध्यात्मिक भाव) ॥
+वा (और) कै (के/का) रिदै (हृदय में) बसै (निवास करे/बसे) भगवानु (परमात्मा/भगवान) ॥ ॥
+किआ (क्या) अपराधु (अपराधु का आध्यात्मिक भाव) संत (संत/महात्मा) है (है कि) कीन्हा (कीन्हा (सधुक्कड़ी भाव)) ॥
+बांधि (बांधि का आध्यात्मिक भाव) पोट (पोट का आध्यात्मिक भाव) कुंचर (हाथी (स्पर्श-लोभी)) कउ (को) दीन्हा (दीन्हा का आध्यात्मिक भाव) ॥
+कुंचरु (हाथी (स्पर्श-लोभी) संबंधी) पोट (पोट का आध्यात्मिक भाव) लै (ले) लै (ले) नमसकारै (नमसकारै का आध्यात्मिक भाव) ॥
+बूझी (बूझी (सधुक्कड़ी भाव)) नही (नहीं) काजी (न्यायाधीश, धर्मगुरु) अंधिआरै (अंधिआरै का आध्यात्मिक भाव) ॥ ॥
+तीनि (तीन (गुण/लोक)) बार (द्वार) पतीआ (पतीआ का आध्यात्मिक भाव) भरि (आंसुओं से भर (में/करके)) लीना (लीना (सधुक्कड़ी भाव)) ॥
+मन (मन/चित्त) कठोरु (कठोरु का आध्यात्मिक भाव) अजहू (अब भी) न (नहीं) पतीना (पतीना का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) हमरा (हमारा) गोबिंदु (गोविंद/परमात्मा) ॥
+चउथे (चउथे का आध्यात्मिक भाव) पद (पद/स्थान/भजन) महि (में/भीतर) जन (भक्त/सेवक) की (की/संबंध-सूचक) जिंदु (जिंदु का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bhuja (bhuj (spiritual sense)) baandhi (baandhi) bhila (bhila) kari (having done/with hands) daario (daario) .
+hasatee (hasatee) kropi (kropi) moond (moond) mahi (within/in) maario (slain/vanquished) .
+hasati (hasati) bhaagi (fortune/destiny related) kai (of) cheesa (cheesa) maarai (striking/killing) .
+ia (ia) moorati (form (in/having done)) kai (of) hau (I/ego) balihaarai (balihaarai) . .
+aahi (come (unto/in)) mere (my) thaakur (temple) tumara (tumara) joru (joru) .
+kaajee (Qazi, Islamic theologian) bakibo (bakibo) hasatee (hasatee) toru (thy/thine) . . rahaau (pause for reflection, foundational theme) .
+re (Re (Divine Will)) mahaavat (mahaavat) tujhu (thee) daarau (daarau) kaati (having severed/cut) .
+isahi (isahi) turaavahu (turaavahu) ghaalahu (ghaalahu) saati (saati (spiritual sense)) .
+hasati (hasati) n (not) torai (thy/thine (does/becomes)) dharai (placing (does/by)) dhiaanu (dhiaanu) .
+va (and) kai (of) ridai (in the heart) basai (may dwell/reside) bhagavaanu (Supreme Lord/God) . .
+kia (what) aparaadhu (aparaadhu) sant (holy saint) hai (is) keenha (keenha (spiritual sense)) .
+baandhi (baandhi) pot (pot) kunchar (elephant (craving touch)) kau (unto) deenha (deenha) .
+kuncharu (elephant (craving touch) related) pot (pot) lai (bringing) lai (bringing) namasakaarai (namasakaarai) .
+boojhee (boojhee (spiritual sense)) nahee (not) kaajee (Qazi, Islamic theologian) andhiaarai (andhiaarai) . .
+teeni (three) baar (door) pateea (pateea) bhari (welled up (in/having done)) leena (leena (spiritual sense)) .
+man (mind/inner consciousness) kathoru (kathoru) ajahoo (even now) n (not) pateena (pateena) .
+kahi (from (unto/in)) kabeer (Sant Kabir) hamara (our/ours) gobindu (Lord Govind) .
+chauthe (chauthe) pad (spiritual station/hymn) mahi (within/in) jan (devotee/humble servant) kee (of) jindu (jindu) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! भुजा बांधि भिला करि डारिओ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bhujaabaandhibhilaakaridaario—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 71: भुजा बांधि भिला करि डारिओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-72"></a>
+## शब्द 72: ना इहु मानसु ना इहु देउ
+**English Title:** Shabad 72: Naa Ihau Maanasau Naa Ihau Daeu
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ना इहु मानसु ना इहु देउ ॥
+ना इहु जती कहावै सेउ ॥
+ना इहु जोगी ना अवधूता ॥
+ना इसु माइ न काहू पूता ॥१॥
+इआ मंदर महि कौन बसाई ॥
+ता का अंतु न कोऊ पाई ॥१॥ रहाउ ॥
+ना इहु गिरही ना ओदासी ॥
+ना इहु राज न भीख मंगासी ॥
+ना इसु पिंडु न रकतू राती ॥
+ना इहु ब्रहमनु ना इहु खाती ॥२॥
+ना इहु तपा कहावै सेखु ॥
+ना इहु जीवै न मरता देखु ॥
+इसु मरते कउ जे कोऊ रोवै ॥
+जो रोवै सोई पति खोवै ॥३॥
+गुर प्रसादि मै डगरो पाइआ ॥
+जीवन मरनु दोऊ मिटवाइआ ॥
+कहु कबीर इहु राम की अंसु ॥
+जस कागद पर मिटै न मंसु ॥४॥२॥५॥871॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ना (नहीं) इहु (यह) मानसु (मानसु का आध्यात्मिक भाव) ना (नहीं) इहु (यह) देउ (देउ का आध्यात्मिक भाव) ॥
+ना (नहीं) इहु (यह) जती (जती (सधुक्कड़ी भाव)) कहावै (कहावै का आध्यात्मिक भाव) सेउ (सेउ का आध्यात्मिक भाव) ॥
+ना (नहीं) इहु (यह) जोगी (योगी) ना (नहीं) अवधूता (अवधूता का आध्यात्मिक भाव) ॥
+ना (नहीं) इसु (इस संसारी) माइ (माइ (सधुक्कड़ी भाव)) न (नहीं) काहू (किसी को/किसी से) पूता (पुत्र/बेटा) ॥ ॥
+इआ (इआ का आध्यात्मिक भाव) मंदर (महल/मंदिर) महि (में/भीतर) कौन (कौन व्यक्ति/किसे) बसाई (बसाई का आध्यात्मिक भाव) ॥
+ता (उस पर/उसका) का (का/संबंध-सूचक) अंतु (रहस्य) न (नहीं) कोऊ (कोई भी) पाई (प्राप्त कर लिया) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+ना (नहीं) इहु (यह) गिरही (गिरही का आध्यात्मिक भाव) ना (नहीं) ओदासी (ओदासी का आध्यात्मिक भाव) ॥
+ना (नहीं) इहु (यह) राज (आदर्श शासन/राज) न (नहीं) भीख (भीख का आध्यात्मिक भाव) मंगासी (मंगासी का आध्यात्मिक भाव) ॥
+ना (नहीं) इसु (इस संसारी) पिंडु (पिंडु का आध्यात्मिक भाव) न (नहीं) रकतू (रकतू का आध्यात्मिक भाव) राती (रात्रि/रात) ॥
+ना (नहीं) इहु (यह) ब्रहमनु (ब्रहमन (सधुक्कड़ी भाव)) ना (नहीं) इहु (यह) खाती (खाते हुए/भोगते हुए) ॥ ॥
+ना (नहीं) इहु (यह) तपा (तपस्या/साधना) कहावै (कहावै का आध्यात्मिक भाव) सेखु (शेख/सूफी बुजुर्ग) ॥
+ना (नहीं) इहु (यह) जीवै (प्राणी/जीवात्मा (करता है/होता है)) न (नहीं) मरता (मरते हुए) देखु (देखकर) ॥
+इसु (इस संसारी) मरते (मरते हुए) कउ (को) जे (यदि) कोऊ (कोई भी) रोवै (रोवै का आध्यात्मिक भाव) ॥
+जो (जिससे) रोवै (रोवै का आध्यात्मिक भाव) सोई (वही) पति (स्वामी) खोवै (खोवै का आध्यात्मिक भाव) ॥ ॥
+गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) मै (मैं/मैंने) डगरो (डगरो का आध्यात्मिक भाव) पाइआ (पा लिया है) ॥
+जीवन (जीना) मरनु (मृत्यु/मरण) दोऊ (दोनों को) मिटवाइआ (मिटवाइआ का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) इहु (यह) राम (सर्वव्यापी परमात्मा) की (की/संबंध-सूचक) अंसु (अंस (सधुक्कड़ी भाव)) ॥
+जस (यश/कीर्ति) कागद (पत्र/कागज़) पर (किन्तु/परन्तु) मिटै (मिटकर (करता है/होता है)) न (नहीं) मंसु (मंसु का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+na (not) ihu (this) maanasu (maanasu) na (not) ihu (this) deu (deu) .
+na (not) ihu (this) jatee (jatee (spiritual sense)) kahaavai (kahaavai) seu (seu) .
+na (not) ihu (this) jogee (yogi) na (not) avadhoota (avadhoota) .
+na (not) isu (this) maai (maai (spiritual sense)) n (not) kaahoo (anyone/anyone's) poota (son) . .
+ia (ia) mandar (palaces/mansions) mahi (within/in) kaun (who) basaaee (basaaee) .
+ta (upon that/his) ka (of) antu (inner core) n (not) kooo (anyone) paaee (have found/attained) . . rahaau (pause for reflection, foundational theme) .
+na (not) ihu (this) girahee (girahee) na (not) odaasee (odaasee) .
+na (not) ihu (this) raaj (realm/kingdom) n (not) bheekh (bheekh) mangaasee (mangaasee) .
+na (not) isu (this) pindu (pindu) n (not) rakatoo (rakatoo) raatee (night) .
+na (not) ihu (this) brahamanu (brahaman (spiritual sense)) na (not) ihu (this) khaatee (while consuming) . .
+na (not) ihu (this) tapa (austerity/penance) kahaavai (kahaavai) sekhu (Sheikh/Sufi elder) .
+na (not) ihu (this) jeevai (living soul/creature (does/becomes)) n (not) marata (while dying) dekhu (beholding) .
+isu (this) marate (while dying) kau (unto) je (if) kooo (anyone) rovai (rovai) .
+jo (that) rovai (rovai) soee (the very same) pati (Lord) khovai (khovai) . .
+gur (of the Master) prasaadi (divine grace (in/having done)) mai (I/by me) dagaro (dagaro) paaia (have found) .
+jeevan (life) maranu (death/mortality) dooo (both) mitavaaia (mitavaaia) .
+kahu (tell) kabeer (Sant Kabir) ihu (this) raam (The All-Pervading Lord (Ram)) kee (of) ansu (ans (spiritual sense)) .
+jas (glory/praise) kaagad (letter) par (but/upon) mitai (being erased (does/becomes)) n (not) mansu (mansu) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ना इहु मानसु ना इहु देउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! naaihumaanasunaaihudeu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 72: ना इहु मानसु ना इहु देउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-73"></a>
+## शब्द 73: तूटे तागे निखुटी पानि
+**English Title:** Shabad 73: Taootae Taagae Naikhautaee Paanai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+तूटे तागे निखुटी पानि ॥
+दुआर ऊपरि झिलकावहि कान ॥
+कूच बिचारे फूए फाल ॥
+इआ मुंडीआ सिरि चढिबो काल ॥१॥
+इहु मुंडीआ सगलो द्रबु खोई ॥
+आवत जात नाक सर होई ॥१॥ रहाउ ॥
+तुरी नारि की छोडी बाता ॥
+राम नाम वा का मनु राता ॥
+लरिकी लरिकन खैबो नाहि ॥
+मुंडीआ अनदिनु धापे जाहि ॥२॥
+इक दुइ मंदरि इक दुइ बाट ॥
+हम कउ साथरु उन कउ खाट ॥
+मूड पलोसि कमर बधि पोथी ॥
+हम कउ चाबनु उन कउ रोटी ॥३॥
+मुंडीआ मुंडीआ हूए एक ॥
+ए मुंडीआ बूडत की टेक ॥
+सुनि अंधली लोई बेपीरि ॥
+इन्ह मुंडीअन भजि सरनि कबीर ॥४॥३॥६॥871॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+तूटे (तूटे का आध्यात्मिक भाव) तागे (तागे का आध्यात्मिक भाव) निखुटी (निखुटी का आध्यात्मिक भाव) पानि (बड़ा भारी (लोग/समूह)) ॥
+दुआर (दुआर का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) झिलकावहि (झिलकावहि का आध्यात्मिक भाव) कान (तिनके ही) ॥
+कूच (प्रस्थान, महाप्रयाण, कूच करना) बिचारे (विचार/मंथन) फूए (फूए का आध्यात्मिक भाव) फाल (फाल का आध्यात्मिक भाव) ॥
+इआ (इआ का आध्यात्मिक भाव) मुंडीआ (मुंडीआ का आध्यात्मिक भाव) सिरि (शीश संबंधी) चढिबो (चढिबो का आध्यात्मिक भाव) काल (काल/मृत्यु) ॥ ॥
+इहु (यह) मुंडीआ (मुंडीआ का आध्यात्मिक भाव) सगलो (संपूर्ण/समस्त) द्रबु (द्रबु का आध्यात्मिक भाव) खोई (खो दिया/त्याग दिया) ॥
+आवत (आवत का आध्यात्मिक भाव) जात (जाती नहीं/दूर नहीं होती) नाक (नाक का आध्यात्मिक भाव) सर (सिर/सरोवर) होई (तय हुआ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तुरी (तुरी का आध्यात्मिक भाव) नारि (स्त्री/नारी) की (की/संबंध-सूचक) छोडी (छोडी का आध्यात्मिक भाव) बाता (कथन) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) वा (और) का (का/संबंध-सूचक) मनु (मन/अंतःकरण) राता (रंगा हुआ/लीन) ॥
+लरिकी (लरिकी का आध्यात्मिक भाव) लरिकन (लरिकन का आध्यात्मिक भाव) खैबो (खैबो का आध्यात्मिक भाव) नाहि (नहीं) ॥
+मुंडीआ (मुंडीआ का आध्यात्मिक भाव) अनदिनु (अनदिनु का आध्यात्मिक भाव) धापे (धापे का आध्यात्मिक भाव) जाहि (जिसका/जब (को/में)) ॥ ॥
+इक (एक ही) दुइ (दो (द्वैत)) मंदरि (महल/मंदिर) इक (एक ही) दुइ (दो (द्वैत)) बाट (बाट का आध्यात्मिक भाव) ॥
+हम (हम सब प्राणी) कउ (को) साथरु (साथरु का आध्यात्मिक भाव) उन (उन (सधुक्कड़ी भाव)) कउ (को) खाट (खाट का आध्यात्मिक भाव) ॥
+मूड (मस्तक, सिर) पलोसि (पलोसि का आध्यात्मिक भाव) कमर (कमर का आध्यात्मिक भाव) बधि (बधि का आध्यात्मिक भाव) पोथी (पोथी का आध्यात्मिक भाव) ॥
+हम (हम सब प्राणी) कउ (को) चाबनु (चाबनु का आध्यात्मिक भाव) उन (उन (सधुक्कड़ी भाव)) कउ (को) रोटी (रोटी का आध्यात्मिक भाव) ॥ ॥
+मुंडीआ (मुंडीआ का आध्यात्मिक भाव) मुंडीआ (मुंडीआ का आध्यात्मिक भाव) हूए (हो गए हैं) एक (समान/एक जैसे) ॥
+ए (ये सब) मुंडीआ (मुंडीआ का आध्यात्मिक भाव) बूडत (बूडत का आध्यात्मिक भाव) की (की/संबंध-सूचक) टेक (स्थायी पंक्ति, मूल भाव) ॥
+सुनि (श्रवण करके/सुनकर) अंधली (अंधली का आध्यात्मिक भाव) लोई (काली कमली, फकीरों का ऊनी कम्बल) बेपीरि (बेपीर (सधुक्कड़ी भाव)) ॥
+इन्ह (इन्ह का आध्यात्मिक भाव) मुंडीअन (मुंडीअन का आध्यात्मिक भाव) भजि (भजि का आध्यात्मिक भाव) सरनि (सिर/सरोवर (के/में)) कबीर (संत कबीर जी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+toote (toote) taage (taage) nikhutee (nikhutee) paani (broad mark (folk/plural)) .
+duaar (duaar) oopari (upon) jhilakaavahi (jhilakaavahi) kaan (twigs/straws) .
+kooch (Departure, march onward, passing away) bichaare (contemplation/thought) phooe (phooe) phaal (phaal) .
+ia (ia) mundeea (mundeea) siri (head related) chadhibo (chadhibo) kaal (death/time) . .
+ihu (this) mundeea (mundeea) sagalo (all/entire) drabu (drabu) khoee (lost/eradicated) .
+aavat (aavat) jaat (departs/is erased) naak (naak) sar (head/lake) hoee (transpired) . . rahaau (pause for reflection, foundational theme) .
+turee (turee) naari (woman/spouse) kee (of) chhodee (chhodee) baata (word/matter) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) va (and) ka (of) manu (mind/inner spirit) raata (dyed in divine love) .
+larikee (larikee) larikan (larikan) khaibo (khaibo) naahi (not) .
+mundeea (mundeea) anadinu (anadinu) dhaape (dhaape) jaahi (whose/when (unto/in)) . .
+ik (in one) dui (two/duality) mandari (palaces/mansions) ik (in one) dui (two/duality) baat (baat) .
+ham (we mortal beings) kau (unto) saatharu (saatharu) un (un (spiritual sense)) kau (unto) khaat (khaat) .
+mood (head, shaven scalp) palosi (palosi) kamar (kamar) badhi (badhi) pothee (pothee) .
+ham (we mortal beings) kau (unto) chaabanu (chaabanu) un (un (spiritual sense)) kau (unto) rotee (rotee) . .
+mundeea (mundeea) mundeea (mundeea) hooe (have become) ek (equal and one) .
+e (these) mundeea (mundeea) boodat (boodat) kee (of) tek (refrain, central thematic anchor) .
+suni (having heard/listened) andhalee (andhalee) loee (coarse dark wool blanket of dervishes) bepeeri (bepeer (spiritual sense)) .
+inh (inh) mundeean (mundeean) bhaji (bhaji) sarani (head/lake (of/in)) kabeer (Sant Kabir) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! तूटे तागे निखुटी पानि—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! tootetaagenikhuteepaani—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 73: तूटे तागे निखुटी पानि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-74"></a>
+## शब्द 74: धंनु गुपाल धंनु गुरदेव
+**English Title:** Shabad 74: Dhannau Gaupaala Dhannau Gauradaeva
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+धंनु गुपाल धंनु गुरदेव ॥
+धंनु अनादि भूखे कवलु टहकेव ॥
+धनु ओइ संत जिन ऐसी जानी ॥
+तिन कउ मिलिबो सारिंगपानी ॥१॥
+आदि पुरख ते होइ अनादि ॥
+जपीऐ नामु अंन कै सादि ॥१॥ रहाउ ॥
+जपीऐ नामु जपीऐ अंनु ॥
+अम्भै कै संगि नीका वंनु ॥
+अंनै बाहरि जो नर होवहि ॥
+तीनि भवन महि अपनी खोवहि ॥२॥
+छोडहि अंनु करहि पाखंड ॥
+ना सोहागनि ना ओहि रंड ॥
+जग महि बकते दूधाधारी ॥
+गुपती खावहि वटिका सारी ॥३॥
+अंनै बिना न होइ सुकालु ॥
+तजिऐ अंनि न मिलै गुपालु ॥
+कहु कबीर हम ऐसे जानिआ ॥
+धंनु अनादि ठाकुर मनु मानिआ ॥४॥८॥११॥873॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+धंनु (धंन (सधुक्कड़ी भाव)) गुपाल (गुपाल का आध्यात्मिक भाव) धंनु (धंन (सधुक्कड़ी भाव)) गुरदेव (गुरदेव का आध्यात्मिक भाव) ॥
+धंनु (धंन (सधुक्कड़ी भाव)) अनादि (अनादि का आध्यात्मिक भाव) भूखे (भूखे का आध्यात्मिक भाव) कवलु (कवल (सधुक्कड़ी भाव)) टहकेव (टहकेव का आध्यात्मिक भाव) ॥
+धनु (धन/संपत्ति) ओइ (वे सब) संत (संत/महात्मा) जिन (जिन का आध्यात्मिक भाव) ऐसी (इस विरह रूपी) जानी (के प्यारे) ॥
+तिन (उन्होंने/उनका) कउ (को) मिलिबो (मिलिबो का आध्यात्मिक भाव) सारिंगपानी (सारिंगपानी का आध्यात्मिक भाव) ॥ ॥
+आदि (सनातन/प्रारंभ) पुरख (पुरख का आध्यात्मिक भाव) ते (से/द्वारा) होइ (होकर) अनादि (अनादि का आध्यात्मिक भाव) ॥
+जपीऐ (जपीऐ का आध्यात्मिक भाव) नामु (सत्य-नाम) अंन (अंन का आध्यात्मिक भाव) कै (के/का) सादि (सादि का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जपीऐ (जपीऐ का आध्यात्मिक भाव) नामु (सत्य-नाम) जपीऐ (जपीऐ का आध्यात्मिक भाव) अंनु (अंनु का आध्यात्मिक भाव) ॥
+अम्भै (अम्भै का आध्यात्मिक भाव) कै (के/का) संगि (संगत में/सान्निध्य में) नीका (नीका (सधुक्कड़ी भाव)) वंनु (वंनु का आध्यात्मिक भाव) ॥
+अंनै (अंनै का आध्यात्मिक भाव) बाहरि (प्रभु संबंधी) जो (जिससे) नर (पुरुष/मनुष्य) होवहि (होवहि का आध्यात्मिक भाव) ॥
+तीनि (तीन (गुण/लोक)) भवन (लोक/सदन) महि (में/भीतर) अपनी (अपनी (सधुक्कड़ी भाव)) खोवहि (खोवहि का आध्यात्मिक भाव) ॥ ॥
+छोडहि (छोडहि का आध्यात्मिक भाव) अंनु (अंनु का आध्यात्मिक भाव) करहि (करते हैं) पाखंड (पाखंड (सधुक्कड़ी भाव)) ॥
+ना (नहीं) सोहागनि (सोहागनि का आध्यात्मिक भाव) ना (नहीं) ओहि (ओहि का आध्यात्मिक भाव) रंड (रंड का आध्यात्मिक भाव) ॥
+जग (संसार) महि (में/भीतर) बकते (बकते का आध्यात्मिक भाव) दूधाधारी (दूधाधारी का आध्यात्मिक भाव) ॥
+गुपती (गुपती का आध्यात्मिक भाव) खावहि (खावहि का आध्यात्मिक भाव) वटिका (वटिका का आध्यात्मिक भाव) सारी (तत्व, अमृत) ॥ ॥
+अंनै (अंनै का आध्यात्मिक भाव) बिना (बिना/रहित) न (नहीं) होइ (होकर) सुकालु (सुकालु का आध्यात्मिक भाव) ॥
+तजिऐ (तजिऐ का आध्यात्मिक भाव) अंनि (अंनि का आध्यात्मिक भाव) न (नहीं) मिलै (प्राप्त हो/मिलता है) गुपालु (गुपालु का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) हम (हम सब प्राणी) ऐसे (इस प्रकार) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+धंनु (धंन (सधुक्कड़ी भाव)) अनादि (अनादि का आध्यात्मिक भाव) ठाकुर (ठाकुरद्वारा/मंदिर) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+dhannu (dhann (spiritual sense)) gupaal (gupaal) dhannu (dhann (spiritual sense)) guradev (guradev) .
+dhannu (dhann (spiritual sense)) anaadi (anaadi) bhookhe (bhookhe) kavalu (kaval (spiritual sense)) tahakev (tahakev) .
+dhanu (wealth/riches) oi (they all) sant (holy saint) jin (jin) aisee (such) jaanee (darling) .
+tin (they/them) kau (unto) milibo (milibo) saaringapaanee (saaringapaanee) . .
+aadi (primordial/origin) purakh (purakh) te (from/by) hoi (having become) anaadi (anaadi) .
+japeeai (japeeai) naamu (True Name) ann (ann) kai (of) saadi (saadi) . . rahaau (pause for reflection, foundational theme) .
+japeeai (japeeai) naamu (True Name) japeeai (japeeai) annu (annu) .
+ambhai (ambhai) kai (of) sangi (in company of) neeka (neeka (spiritual sense)) vannu (vannu) .
+annai (annai) baahari (the Lord related) jo (that) nar (man/mortal) hovahi (hovahi) .
+teeni (three) bhavan (cosmic mansion/realm) mahi (within/in) apanee (apanee (spiritual sense)) khovahi (khovahi) . .
+chhodahi (chhodahi) annu (annu) karahi (they do) paakhand (paakhand (spiritual sense)) .
+na (not) sohaagani (sohaagani) na (not) ohi (ohi) rand (rand) .
+jag (world's) mahi (within/in) bakate (bakate) doodhaadhaaree (doodhaadhaaree) .
+gupatee (gupatee) khaavahi (khaavahi) vatika (vatika) saaree (essence, supreme truth) . .
+annai (annai) bina (without) n (not) hoi (having become) sukaalu (sukaalu) .
+tajiai (tajiai) anni (anni) n (not) milai (is obtained/received) gupaalu (gupaalu) .
+kahu (tell) kabeer (Sant Kabir) ham (we mortal beings) aise (like this) jaania (jaania) .
+dhannu (dhann (spiritual sense)) anaadi (anaadi) thaakur (temple) manu (mind/inner spirit) maania (maania) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! धंनु गुपाल धंनु गुरदेव—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! dhannugupaaladhannuguradeva—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 74: धंनु गुपाल धंनु गुरदेव'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-75"></a>
+## शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै
+**English Title:** Shabad 75: Jaiha Maukha Baedau Gaaitaraee Naikasaai Sao
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै ॥
+जा कै पाइ जगतु सभु लागै सो किउ पंडितु हरि न कहै ॥१॥
+काहे मेरे बाम्हन हरि न कहहि ॥
+रामु न बोलहि पाडे दोजकु भरहि ॥१॥ रहाउ ॥
+आपन ऊच नीच घरि भोजनु हठे करम करि उदरु भरहि ॥
+चउदस अमावस रचि रचि मांगहि कर दीपकु लै कूपि परहि ॥२॥
+तूं ब्रहमनु मै कासीक जुलहा मुहि तोहि बराबरी कैसे कै बनहि ॥
+हमरे राम नाम कहि उबरे बेद भरोसे पांडे डूबि मरहि ॥३॥५॥970॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिह (जिस) मुख (चेहरा) बेदु (वेदों) गाइत्री (गाइत्री का आध्यात्मिक भाव) निकसै (निकसै का आध्यात्मिक भाव) सो (वह/वही) किउ (अथवा) ब्रहमनु (ब्रहमन (सधुक्कड़ी भाव)) बिसरु (बिसरु का आध्यात्मिक भाव) करै (करके (करता है/ने)) ॥
+जा (जिसका/जब) कै (के/का) पाइ (बड़ा भारी (में/करके)) जगतु (संसार संबंधी) सभु (सब कुछ/सम्पूर्ण) लागै (प्रेम-संबंध/लगन (करता है/ने)) सो (वह/वही) किउ (अथवा) पंडितु (पंडित/शास्त्रज्ञ) हरि (दुख-हर्ता परमात्मा) न (नहीं) कहै (पुकारे) ॥ ॥
+काहे (किसलिए/क्यों) मेरे (पर मेरे) बाम्हन (बाम्हन का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) न (नहीं) कहहि (कहहि का आध्यात्मिक भाव) ॥
+रामु (राम नाम की संबंधी) न (नहीं) बोलहि (बोलहि का आध्यात्मिक भाव) पाडे (पाडे का आध्यात्मिक भाव) दोजकु (दोजकु का आध्यात्मिक भाव) भरहि (भरहि का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आपन (स्वयं/परमात्मा (लोग/समूह)) ऊच (उच्च/सर्वोच्च) नीच (दलित/दीन-हीन) घरि (आशियाना (में/करके)) भोजनु (भोजन/आहार) हठे (हठे का आध्यात्मिक भाव) करम (कर्मकांड) करि (करके/हाथ से) उदरु (उदरु का आध्यात्मिक भाव) भरहि (भरहि का आध्यात्मिक भाव) ॥
+चउदस (चउदस का आध्यात्मिक भाव) अमावस (अमावस (सधुक्कड़ी भाव)) रचि (रचि का आध्यात्मिक भाव) रचि (रचि का आध्यात्मिक भाव) मांगहि (मांगहि का आध्यात्मिक भाव) कर (करके) दीपकु (प्रकाशमान दीप) लै (ले) कूपि (कुआं/अंधकूप) परहि (परहि का आध्यात्मिक भाव) ॥ ॥
+तूं (तू/हे प्रभु!) ब्रहमनु (ब्रहमन (सधुक्कड़ी भाव)) मै (मैं/मैंने) कासीक (कासीक का आध्यात्मिक भाव) जुलहा (जुलहा का आध्यात्मिक भाव) मुहि (मुझको/मुझे) तोहि (तुझको/तुम्हें) बराबरी (बराबरी का आध्यात्मिक भाव) कैसे (किस प्रकार) कै (के/का) बनहि (बनहि का आध्यात्मिक भाव) ॥
+हमरे (हमरे का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) कहि (से (को/में)) उबरे (उबरे का आध्यात्मिक भाव) बेद (वेदों) भरोसे (भरोस (सधुक्कड़ी भाव)) पांडे (पांडे (सधुक्कड़ी भाव)) डूबि (डूबि का आध्यात्मिक भाव) मरहि (मरहि का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jih (which) mukh (face) bedu (Vedas) gaaitree (gaaitree) nikasai (nikasai) so (that/the same) kiu (or is it) brahamanu (brahaman (spiritual sense)) bisaru (bisaru) karai (doing (does/by)) .
+ja (whose/when) kai (of) paai (broad mark (in/having done)) jagatu (of the world related) sabhu (everything/all) laagai (spark of love/attachment (does/by)) so (that/the same) kiu (or is it) panditu (learned scholar/priest) hari (The Lord who dispels grief (Hari)) n (not) kahai (chants) . .
+kaahe (wherefore/why) mere (my) baamhan (baamhan) hari (The Lord who dispels grief (Hari)) n (not) kahahi (kahahi) .
+raamu (Lord Rama's related) n (not) bolahi (bolahi) paade (paade) dojaku (dojaku) bharahi (bharahi) . . rahaau (pause for reflection, foundational theme) .
+aapan (Himself/oneself (folk/plural)) ooch (high/exalted) neech (lowly/humble) ghari (home/refuge (in/having done)) bhojanu (nourishing meal) hathe (hathe) karam (rituals) kari (having done/with hands) udaru (udaru) bharahi (bharahi) .
+chaudas (chaudas) amaavas (amaavas (spiritual sense)) rachi (rachi) rachi (rachi) maangahi (maangahi) kar (doing) deepaku (lamp/flame) lai (bringing) koopi (well/pit of illusion) parahi (parahi) . .
+toon (Thou) brahamanu (brahaman (spiritual sense)) mai (I/by me) kaaseek (kaaseek) julaha (julaha) muhi (unto me) tohi (unto thee) baraabaree (baraabaree) kaise (how) kai (of) banahi (banahi) .
+hamare (hamare) raam (The All-Pervading Lord (Ram)) naam (Divine Name) kahi (from (unto/in)) ubare (ubare) bed (Vedas) bharose (bharos (spiritual sense)) paande (paande (spiritual sense)) doobi (doobi) marahi (marahi) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jihamukhabedugaaitreenikasaisokiubrahaman—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-76"></a>
+## शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे
+**English Title:** Shabad 76: Maundaraa Maonai Daiaa Karai Jhaolaee Patara
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे ॥
+खिंथा इहु तनु सीअउ अपना नामु करउ आधारु रे ॥१॥
+ऐसा जोगु कमावहु जोगी ॥
+जप तप संजमु गुरमुखि भोगी ॥१॥ रहाउ ॥
+बुधि बिभूति चढावउ अपुनी सिंगी सुरति मिलाई ॥
+करि बैरागु फिरउ तनि नगरी मन की किंगुरी बजाई ॥२॥
+पंच ततु लै हिरदै राखहु रहै निरालम ताड़ी ॥
+कहतु कबीरु सुनहु रे संतहु धरमु दइआ करि बाड़ी ॥३॥७॥970॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मुंद्रा (मुंद्रा का आध्यात्मिक भाव) मोनि (मोनि का आध्यात्मिक भाव) दइआ (दया/करुणा) करि (करके/हाथ से) झोली (झोली का आध्यात्मिक भाव) पत्र (पत्र का आध्यात्मिक भाव) का (का/संबंध-सूचक) करहु (करके (से/द्वारा)) बीचारु (चारों संबंधी) रे (रा (रज़ा व समर्पण)) ॥
+खिंथा (खिंथा का आध्यात्मिक भाव) इहु (यह) तनु (नश्वर शरीर/देह) सीअउ (सीअउ का आध्यात्मिक भाव) अपना (अपना/स्वयं का) नामु (सत्य-नाम) करउ (करके) आधारु (आश्रय, सहारा) रे (रा (रज़ा व समर्पण)) ॥ ॥
+ऐसा (ऐसा/इस प्रकार का) जोगु (योग/साधना) कमावहु (कमावहु का आध्यात्मिक भाव) जोगी (योगी) ॥
+जप (स्मरण/जाप) तप (तपस्या/साधना) संजमु (संजम (सधुक्कड़ी भाव)) गुरमुखि (गुरमुखि का आध्यात्मिक भाव) भोगी (विरह-दुख का भोग) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बुधि (बुद्धि/मति) बिभूति (बिभूति का आध्यात्मिक भाव) चढावउ (चढावउ का आध्यात्मिक भाव) अपुनी (अपुनी का आध्यात्मिक भाव) सिंगी (सिंगी का आध्यात्मिक भाव) सुरति (चेतना/होश (में/करके)) मिलाई (मिलाई का आध्यात्मिक भाव) ॥
+करि (करके/हाथ से) बैरागु (वैराग्य/विरक्ति) फिरउ (फिरउ का आध्यात्मिक भाव) तनि (तन में/शरीर में) नगरी (नगर/संसार रूपी शहर) मन (मन/चित्त) की (की/संबंध-सूचक) किंगुरी (किंगुरी का आध्यात्मिक भाव) बजाई (बजाई का आध्यात्मिक भाव) ॥ ॥
+पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) ततु (तत्व/परम सत्य) लै (ले) हिरदै (हृदय में) राखहु (रक्षा कीजिए/रखो) रहै (रहे/सदा रहे) निरालम (निरालम का आध्यात्मिक भाव) ताड़ी (ताड़ी का आध्यात्मिक भाव) ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) धरमु (धर्म) दइआ (दया/करुणा) करि (करके/हाथ से) बाड़ी (बाड़ी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+mundra (mundra) moni (moni) daia (compassion/mercy) kari (having done/with hands) jholee (jholee) patr (patr) ka (of) karahu (doing (from/by)) beechaaru (four related) re (Re (Divine Will)) .
+khintha (khintha) ihu (this) tanu (mortal body) seeau (seeau) apana (one's own) naamu (True Name) karau (doing) aadhaaru (foundation, supreme support) re (Re (Divine Will)) . .
+aisa (such/like this) jogu (spiritual yoga/union) kamaavahu (kamaavahu) jogee (yogi) .
+jap (chanting/meditation) tap (austerity/penance) sanjamu (sanjam (spiritual sense)) guramukhi (guramukhi) bhogee (suffering of longing) . . rahaau (pause for reflection, foundational theme) .
+budhi (intellect/wit) bibhooti (bibhooti) chadhaavau (chadhaavau) apunee (apunee) singee (singee) surati (consciousness/mind (in/having done)) milaaee (milaaee) .
+kari (having done/with hands) bairaagu (detachment/renunciation) phirau (phirau) tani (in the body) nagaree (city/town) man (mind/inner consciousness) kee (of) kinguree (kinguree) bajaaee (bajaaee) . .
+panch (five vices) tatu (essence/Truth) lai (bringing) hiradai (in the heart) raakhahu (protect ye/keep) rahai (may abide/remain) niraalam (niraalam) taadee (taadee) .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) dharamu (righteousness) daia (compassion/mercy) kari (having done/with hands) baadee (baadee) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! mundraamonidaiaakarijholeepatrakaakarahub—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-77"></a>
+## शब्द 77: पडीआ कवन कुमति तुम लागे
+**English Title:** Shabad 77: Padaeeaa Kavana Kaumatai Tauma Laagae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+पडीआ कवन कुमति तुम लागे ॥
+बूडहुगे परवार सकल सिउ रामु न जपहु अभागे ॥१॥ रहाउ ॥
+बेद पुरान पड़े का किआ गुनु खर चंदन जस भारा ॥
+राम नाम की गति नही जानी कैसे उतरसि पारा ॥१॥
+जीअ बधहु सु धरमु करि थापहु अधरमु कहहु कत भाई ॥
+आपस कउ मुनिवर करि थापहु का कउ कहहु कसाई ॥२॥
+मन के अंधे आपि न बूझहु काहि बुझावहु भाई ॥
+माइआ कारन बिदिआ बेचहु जनमु अबिरथा जाई ॥३॥
+नारद बचन बिआसु कहत है सुक कउ पूछहु जाई ॥
+कहि कबीर रामै रमि छूटहु नाहि त बूडे भाई ॥४॥१॥1102॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+पडीआ (पडीआ का आध्यात्मिक भाव) कवन (कौन/कैसा) कुमति (दुर्बुद्धि, खोटी मति) तुम (आप/तुम) लागे (लगती है) ॥
+बूडहुगे (बूडहुगे का आध्यात्मिक भाव) परवार (परवार का आध्यात्मिक भाव) सकल (सम्पूर्ण/सब) सिउ (से/साथ) रामु (राम नाम की संबंधी) न (नहीं) जपहु (स्मरण/जाप (से/द्वारा)) अभागे (किस्मत संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बेद (वेदों) पुरान (अमर नगर/धाम (लोग/समूह)) पड़े (पड़े का आध्यात्मिक भाव) का (का/संबंध-सूचक) किआ (क्या) गुनु (गुण/पुण्य) खर (खर का आध्यात्मिक भाव) चंदन (सुगंधित चंदन) जस (यश/कीर्ति) भारा (भारी) ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) की (की/संबंध-सूचक) गति (परम गति/मुक्ति) नही (नहीं) जानी (के प्यारे) कैसे (किस प्रकार) उतरसि (उतरसि का आध्यात्मिक भाव) पारा (पारा (सधुक्कड़ी भाव)) ॥ ॥
+जीअ (जीवात्मा/प्राण) बधहु (बधहु का आध्यात्मिक भाव) सु (वह) धरमु (धर्म) करि (करके/हाथ से) थापहु (थापहु का आध्यात्मिक भाव) अधरमु (अधरमु का आध्यात्मिक भाव) कहहु (कहकर (से/द्वारा)) कत (कहाँ/क्यों) भाई (हे भाई!/हे मित्र!) ॥
+आपस (आपस का आध्यात्मिक भाव) कउ (को) मुनिवर (मुनिवर का आध्यात्मिक भाव) करि (करके/हाथ से) थापहु (थापहु का आध्यात्मिक भाव) का (का/संबंध-सूचक) कउ (को) कहहु (कहकर (से/द्वारा)) कसाई (कसाई का आध्यात्मिक भाव) ॥ ॥
+मन (मन/चित्त) के (के/संबंध-सूचक) अंधे (अंधे का आध्यात्मिक भाव) आपि (स्वयं/परमात्मा) न (नहीं) बूझहु (बूझहु का आध्यात्मिक भाव) काहि (का/संबंध-सूचक (को/में)) बुझावहु (बुझावहु का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+माइआ (माया/भ्रम) कारन (कार्य (लोग/समूह)) बिदिआ (बिदिआ का आध्यात्मिक भाव) बेचहु (बेचहु का आध्यात्मिक भाव) जनमु (मानव जन्म) अबिरथा (अबिरथा का आध्यात्मिक भाव) जाई (जाओ) ॥ ॥
+नारद (देवर्षि नारद) बचन (वाणी) बिआसु (वेदव्यास मुनि) कहत (कहते हुए) है (है कि) सुक (सुक का आध्यात्मिक भाव) कउ (को) पूछहु (पूछहु का आध्यात्मिक भाव) जाई (जाओ) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) रामै (सर्वव्यापी परमात्मा) रमि (रमण करके/लीन होकर) छूटहु (छूटहु का आध्यात्मिक भाव) नाहि (नहीं) त (तो फिर/निश्चय ही) बूडे (बूडे का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+padeea (padeea) kavan (who/what) kumati (wicked intellect, perverse thinking) tum (You/Thou) laage (it touches) .
+boodahuge (boodahuge) paravaar (paravaar) sakal (all/entire) siu (with/from) raamu (Lord Rama's related) n (not) japahu (chanting/meditation (from/by)) abhaage (fortune/destiny related) . . rahaau (pause for reflection, foundational theme) .
+bed (Vedas) puraan (eternal city/realm (folk/plural)) pade (pade) ka (of) kia (what) gunu (virtues/merits) khar (khar) chandan (fragrant sandalwood) jas (glory/praise) bhaara (is) .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) kee (of) gati (spiritual emancipation) nahee (not) jaanee (darling) kaise (how) utarasi (utarasi) paara (paara (spiritual sense)) . .
+jeea (living soul/breath) badhahu (badhahu) su (that) dharamu (righteousness) kari (having done/with hands) thaapahu (thaapahu) adharamu (adharamu) kahahu (saying (from/by)) kat (where/why) bhaaee (O brother!) .
+aapas (aapas) kau (unto) munivar (munivar) kari (having done/with hands) thaapahu (thaapahu) ka (of) kau (unto) kahahu (saying (from/by)) kasaaee (kasaaee) . .
+man (mind/inner consciousness) ke (of) andhe (andhe) aapi (Himself/oneself) n (not) boojhahu (boojhahu) kaahi (of (unto/in)) bujhaavahu (bujhaavahu) bhaaee (O brother!) .
+maaia (cosmic illusion) kaaran (work/deed (folk/plural)) bidia (bidia) bechahu (bechahu) janamu (human birth) abiratha (abiratha) jaaee (slip away) . .
+naarad (Narada the divine sage) bachan (word) biaasu (sage Vyasa) kahat (speaking/saying) hai (is) suk (suk) kau (unto) poochhahu (poochhahu) jaaee (slip away) .
+kahi (from (unto/in)) kabeer (Sant Kabir) raamai (The All-Pervading Lord (Ram)) rami (absorbed in divine remembrance) chhootahu (chhootahu) naahi (not) t (then indeed) boode (boode) bhaaee (O brother!) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! पडीआ कवन कुमति तुम लागे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! padeeaakavanakumatitumalaage—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 77: पडीआ कवन कुमति तुम लागे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-78"></a>
+## शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार
+**English Title:** Shabad 78: Banahai Basae Kaiu Paaeeai Jau Lau Manahau Na
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार ॥
+जिह घरु बनु समसरि कीआ ते पूरे संसार ॥१॥
+सार सुखु पाईऐ रामा ॥
+रंगि रवहु आतमै राम ॥१॥ रहाउ ॥
+जटा भसम लेपन कीआ कहा गुफा महि बासु ॥
+मनु जीते जगु जीतिआ जां ते बिखिआ ते होइ उदासु ॥२॥
+अंजनु देइ सभै कोई टुकु चाहन माहि बिडानु ॥
+गिआन अंजनु जिह पाइआ ते लोइन परवानु ॥३॥
+कहि कबीर अब जानिआ गुरि गिआनु दीआ समझाइ ॥
+अंतरगति हरि भेटिआ अब मेरा मनु कतहू न जाइ ॥४॥२॥1103॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बनहि (बनहि का आध्यात्मिक भाव) बसे (बस (सधुक्कड़ी भाव)) किउ (अथवा) पाईऐ (पाईऐ का आध्यात्मिक भाव) जउ (यदि/जब) लउ (तक/लौ) मनहु (मनहु का आध्यात्मिक भाव) न (नहीं) तजहि (तजहि का आध्यात्मिक भाव) बिकार (कार्य संबंधी) ॥
+जिह (जिस) घरु (आशियाना) बनु (वन/जंगल) समसरि (समान/तुल्य) कीआ (किया) ते (से/द्वारा) पूरे (पूर (सधुक्कड़ी भाव)) संसार (संसार/जगत) ॥ ॥
+सार (तत्व, अमृत) सुखु (सच्चा सुख) पाईऐ (पाईऐ का आध्यात्मिक भाव) रामा (रामा (सधुक्कड़ी भाव)) ॥
+रंगि (प्रेम-रंग में) रवहु (रवहु का आध्यात्मिक भाव) आतमै (अंतरात्मा, आत्म-स्वरूप) राम (सर्वव्यापी परमात्मा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जटा (जटा का आध्यात्मिक भाव) भसम (राख) लेपन (लेपन का आध्यात्मिक भाव) कीआ (किया) कहा (क्या/कहाँ) गुफा (गुफा (सधुक्कड़ी भाव)) महि (में/भीतर) बासु (सुगंध संबंधी) ॥
+मनु (मन/अंतःकरण) जीते (जीते (सधुक्कड़ी भाव)) जगु (सम्पूर्ण जगत/संसार) जीतिआ (जीतिआ का आध्यात्मिक भाव) जां (ज (सधुक्कड़ी भाव)) ते (से/द्वारा) बिखिआ (विषय-विकार, माया) ते (से/द्वारा) होइ (होकर) उदासु (विषादग्रस्त/विरक्त) ॥ ॥
+अंजनु (अंजनु का आध्यात्मिक भाव) देइ (के/पास (में/करके)) सभै (सब कुछ) कोई (कोई भी जन) टुकु (टुकु का आध्यात्मिक भाव) चाहन (चाहन का आध्यात्मिक भाव) माहि (में/अंदर) बिडानु (बिडानु का आध्यात्मिक भाव) ॥
+गिआन (आत्मज्ञान/विवेक) अंजनु (अंजनु का आध्यात्मिक भाव) जिह (जिस) पाइआ (पा लिया है) ते (से/द्वारा) लोइन (लोइन का आध्यात्मिक भाव) परवानु (परवानु का आध्यात्मिक भाव) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) अब (अब/इस समय) जानिआ (जानिआ का आध्यात्मिक भाव) गुरि (गुरु के) गिआनु (दिव्य ज्ञान) दीआ (दीपक/दिया) समझाइ (अज्ञान में संबंधी) ॥
+अंतरगति (अंतरगति (सधुक्कड़ी भाव)) हरि (दुख-हर्ता परमात्मा) भेटिआ (भेटिआ का आध्यात्मिक भाव) अब (अब/इस समय) मेरा (मेरा/अधीन) मनु (मन/अंतःकरण) कतहू (कतहू का आध्यात्मिक भाव) न (नहीं) जाइ (जिसका/जब (में/करके)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+banahi (banahi) base (bas (spiritual sense)) kiu (or is it) paaeeai (paaeeai) jau (if/when) lau (until/flame) manahu (manahu) n (not) tajahi (tajahi) bikaar (work/deed related) .
+jih (which) gharu (home/refuge) banu (forest) samasari (equal/alike) keea (did/created) te (from/by) poore (poor (spiritual sense)) sansaar (mortal world) . .
+saar (essence, supreme truth) sukhu (true bliss) paaeeai (paaeeai) raama (raama (spiritual sense)) .
+rangi (in the color of love) ravahu (ravahu) aatamai (inner soul, divine self) raam (The All-Pervading Lord (Ram)) . . rahaau (pause for reflection, foundational theme) .
+jata (jata) bhasam (ashes) lepan (lepan) keea (did/created) kaha (what/where) gupha (gupha (spiritual sense)) mahi (within/in) baasu (fragrance related) .
+manu (mind/inner spirit) jeete (jeete (spiritual sense)) jagu (the world/mortal realm) jeetia (jeetia) jaan (j (spiritual sense)) te (from/by) bikhia (sensory poison, worldly illusions) te (from/by) hoi (having become) udaasu (sorrowful/detached) . .
+anjanu (anjanu) dei (of/unto (in/having done)) sabhai (everything/all) koee (anyone) tuku (tuku) chaahan (chaahan) maahi (within) bidaanu (bidaanu) .
+giaan (spiritual wisdom) anjanu (anjanu) jih (which) paaia (have found) te (from/by) loin (loin) paravaanu (paravaanu) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) ab (now) jaania (jaania) guri (of the Master) giaanu (divine wisdom) deea (lamp/gave) samajhaai (foolishly related) .
+antaragati (antaragati (spiritual sense)) hari (The Lord who dispels grief (Hari)) bhetia (bhetia) ab (now) mera (my/mine) manu (mind/inner spirit) katahoo (katahoo) n (not) jaai (whose/when (in/having done)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! banahibasekiupaaeeaijaulaumanahunatajahibika—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-79"></a>
+## शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे
+**English Title:** Shabad 79: Udaka Samaunda Salala Kaee Saakhaiaa Nadaee Taran
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+उदक समुंद सलल की साखिआ नदी तरंग समावहिगे ॥
+सुंनहि सुंनु मिलिआ समदरसी पवन रूप होइ जावहिगे ॥१॥
+बहुरि हम काहे आवहिगे ॥
+आवन जाना हुकमु तिसै का हुकमै बुझि समावहिगे ॥१॥ रहाउ ॥
+जब चूकै पंच धातु की रचना ऐसे भरमु चुकावहिगे ॥
+दरसनु छोडि भए समदरसी एको नामु धिआवहिगे ॥२॥
+जित हम लाए तित ही लागे तैसे करम कमावहिगे ॥
+हरि जी क्रिपा करे जउ अपनी तौ गुर के सबदि समावहिगे ॥३॥
+जीवत मरहु मरहु फुनि जीवहु पुनरपि जनमु न होई ॥
+कहु कबीर जो नामि समाने सुंन रहिआ लिव सोई ॥४॥४॥1103॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+उदक (उदक का आध्यात्मिक भाव) समुंद (समुंद का आध्यात्मिक भाव) सलल (जल/नीर) की (की/संबंध-सूचक) साखिआ (साखिआ का आध्यात्मिक भाव) नदी (सरिता) तरंग (लहरें/तरंगें) समावहिगे (समावहिगे का आध्यात्मिक भाव) ॥
+सुंनहि (सुंनहि का आध्यात्मिक भाव) सुंनु (शून्य, निराकार ब्रह्म) मिलिआ (मिलिआ का आध्यात्मिक भाव) समदरसी (समदरसी का आध्यात्मिक भाव) पवन (वायु) रूप (स्वरूप) होइ (होकर) जावहिगे (जावहिगे का आध्यात्मिक भाव) ॥ ॥
+बहुरि (पुनः/फिर) हम (हम सब प्राणी) काहे (किसलिए/क्यों) आवहिगे (आवहिगे का आध्यात्मिक भाव) ॥
+आवन (आवन का आध्यात्मिक भाव) जाना (जाना/प्रस्थान करना) हुकमु (हुकमु का आध्यात्मिक भाव) तिसै (उसका/उसको) का (का/संबंध-सूचक) हुकमै (हुकमै का आध्यात्मिक भाव) बुझि (बुझि का आध्यात्मिक भाव) समावहिगे (समावहिगे का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) चूकै (चूकै का आध्यात्मिक भाव) पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) धातु (धातु का आध्यात्मिक भाव) की (की/संबंध-सूचक) रचना (सृष्टि/रचना) ऐसे (इस प्रकार) भरमु (भ्रम) चुकावहिगे (चुकावहिगे का आध्यात्मिक भाव) ॥
+दरसनु (अमृत-रस (लोग/समूह) संबंधी) छोडि (छोडि का आध्यात्मिक भाव) भए (हो गए) समदरसी (समदरसी का आध्यात्मिक भाव) एको (एको (सधुक्कड़ी भाव)) नामु (सत्य-नाम) धिआवहिगे (धिआवहिगे का आध्यात्मिक भाव) ॥ ॥
+जित (जिधर) हम (हम सब प्राणी) लाए (लाए का आध्यात्मिक भाव) तित (उधर) ही (केवल/मात्र) लागे (लगती है) तैसे (उसी प्रकार) करम (कर्मकांड) कमावहिगे (कमावहिगे का आध्यात्मिक भाव) ॥
+हरि (दुख-हर्ता परमात्मा) जी (परम आदरणीय प्रभु) क्रिपा (कृपा/अनुग्रह) करे (करता है) जउ (यदि/जब) अपनी (अपनी (सधुक्कड़ी भाव)) तौ (तो/तब) गुर (गुरु के) के (के/संबंध-सूचक) सबदि (ईश्वरीय शब्द, अनाहत ध्वनि) समावहिगे (समावहिगे का आध्यात्मिक भाव) ॥ ॥
+जीवत (जीवित रहते हुए) मरहु (मरहु का आध्यात्मिक भाव) मरहु (मरहु का आध्यात्मिक भाव) फुनि (पुनः/फिर) जीवहु (जीवहु का आध्यात्मिक भाव) पुनरपि (पुनरपि का आध्यात्मिक भाव) जनमु (मानव जन्म) न (नहीं) होई (तय हुआ) ॥
+कहु (बताओ) कबीर (संत कबीर जी) जो (जिससे) नामि (परम पावन नाम) समाने (समाने का आध्यात्मिक भाव) सुंन (शून्य, निराकार ब्रह्म) रहिआ (रहिआ का आध्यात्मिक भाव) लिव (एकतार ध्यान/सुरति) सोई (वही) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+udak (udak) samund (samund) salal (water/pure stream) kee (of) saakhia (saakhia) nadee (river) tarang (rippling waves) samaavahige (samaavahige) .
+sunnahi (sunnahi) sunnu (the Void, formless transcendent reality) milia (milia) samadarasee (samadarasee) pavan (wind) roop (form) hoi (having become) jaavahige (jaavahige) . .
+bahuri (again/once more) ham (we mortal beings) kaahe (wherefore/why) aavahige (aavahige) .
+aavan (aavan) jaana (to depart) hukamu (hukamu) tisai (that one/his) ka (of) hukamai (hukamai) bujhi (bujhi) samaavahige (samaavahige) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) chookai (chookai) panch (five vices) dhaatu (dhaatu) kee (of) rachana (creation/cosmic design) aise (like this) bharamu (illusion/doubt) chukaavahige (chukaavahige) .
+darasanu (nectar (folk/plural) related) chhodi (chhodi) bhae (became) samadarasee (samadarasee) eko (eko (spiritual sense)) naamu (True Name) dhiaavahige (dhiaavahige) . .
+jit (wherever) ham (we mortal beings) laae (laae) tit (thither) hee (alone/only) laage (it touches) taise (in that manner) karam (rituals) kamaavahige (kamaavahige) .
+hari (The Lord who dispels grief (Hari)) jee (Revered Lord) kripa (grace/mercy) kare (makes) jau (if/when) apanee (apanee (spiritual sense)) tau (then/still) gur (of the Master) ke (of) sabadi (Divine Word, sacred mystical sound) samaavahige (samaavahige) . .
+jeevat (while living) marahu (marahu) marahu (marahu) phuni (again/moreover) jeevahu (jeevahu) punarapi (punarapi) janamu (human birth) n (not) hoee (transpired) .
+kahu (tell) kabeer (Sant Kabir) jo (that) naami (Divine Name) samaane (samaane) sunn (the Void, formless transcendent reality) rahia (rahia) liv (unbroken divine absorption) soee (the very same) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! उदक समुंद सलल की साखिआ नदी तरंग समावहिगे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! udakasamundasalalakeesaakhiaanadeetarangasamaavahige—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-80"></a>
+## शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु
+**English Title:** Shabad 80: Jainai Gaड़ Kaota Kaeee Kanchana Kae Chhaodai Ga
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु ॥१॥
+काहे कीजतु है मनि भावनु ॥
+जब जमु आइ केस ते पकरै तह हरि को नामु छडावन ॥१॥ रहाउ ॥
+कालु अकालु खसम का कीन्हा इहु परपंचु बधावनु ॥
+कहि कबीर ते अंते मुकते जिन्ह हिरदै राम रसाइनु ॥२॥६॥1104॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिनि (मत/जिसने) गड़ (गड़ का आध्यात्मिक भाव) कोट (कोट का आध्यात्मिक भाव) कीए (किए/बनाए) कंचन (स्वर्ण, सोना) के (के/संबंध-सूचक) छोडि (छोडि का आध्यात्मिक भाव) गइआ (गया) सो (वह/वही) रावनु (रावनु का आध्यात्मिक भाव) ॥ ॥
+काहे (किसलिए/क्यों) कीजतु (कीजतु का आध्यात्मिक भाव) है (है कि) मनि (मन में) भावनु (प्रेम-भाव (लोग/समूह)) ॥
+जब (जिस समय/जब) जमु (यमराज/मृत्यु) आइ (आई) केस (केस का आध्यात्मिक भाव) ते (से/द्वारा) पकरै (पकरै का आध्यात्मिक भाव) तह (वहाँ) हरि (दुख-हर्ता परमात्मा) को (को/की ओर) नामु (सत्य-नाम) छडावन (छडावन का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कालु (काल/मृत्यु) अकालु (अकालु का आध्यात्मिक भाव) खसम (स्वामी, पति-परमेश्वर) का (का/संबंध-सूचक) कीन्हा (कीन्हा (सधुक्कड़ी भाव)) इहु (यह) परपंचु (परपंच (सधुक्कड़ी भाव)) बधावनु (बधावनु का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) ते (से/द्वारा) अंते (रहस्य) मुकते (मुक्त/बंधन-रहित) जिन्ह (जिन्ह का आध्यात्मिक भाव) हिरदै (हृदय में) राम (सर्वव्यापी परमात्मा) रसाइनु (रसाइनु का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jini (do not/who) gad (gad) kot (kot) keee (done/fashioned) kanchan (gold, pure wealth) ke (of) chhodi (chhodi) gaia (went/departed) so (that/the same) raavanu (raavanu) . .
+kaahe (wherefore/why) keejatu (keejatu) hai (is) mani (in the mind) bhaavanu (emotion (folk/plural)) .
+jab (at the time when) jamu (Yamraj/Death) aai (arrived/came) kes (kes) te (from/by) pakarai (pakarai) tah (there) hari (The Lord who dispels grief (Hari)) ko (unto/toward) naamu (True Name) chhadaavan (chhadaavan) . . rahaau (pause for reflection, foundational theme) .
+kaalu (death/time) akaalu (akaalu) khasam (Master, the Divine Spouse) ka (of) keenha (keenha (spiritual sense)) ihu (this) parapanchu (parapanch (spiritual sense)) badhaavanu (badhaavanu) .
+kahi (from (unto/in)) kabeer (Sant Kabir) te (from/by) ante (inner core) mukate (liberated/free) jinh (jinh) hiradai (in the heart) raam (The All-Pervading Lord (Ram)) rasaainu (rasaainu) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु १—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jinigadakotakeeekanchanakechhodigaiaasoraavan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-81"></a>
+## शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना
+**English Title:** Shabad 81: Daehaee Gaavaa Jaeeu Dhara Mahatau Basahai Pancha
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+देही गावा जीउ धर महतउ बसहि पंच किरसाना ॥
+नैनू नकटू स्रवनू रसपति इंद्री कहिआ न माना ॥१॥
+बाबा अब न बसउ इह गाउ ॥
+घरी घरी का लेखा मागै काइथु चेतू नाउ ॥१॥ रहाउ ॥
+धरम राइ जब लेखा मागै बाकी निकसी भारी ॥
+पंच क्रिसानवा भागि गए लै बाधिओ जीउ दरबारी ॥२॥
+कहै कबीरु सुनहु रे संतहु खेत ही करहु निबेरा ॥
+अब की बार बखसि बंदे कउ बहुरि न भउजलि फेरा ॥३॥७॥1104॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+देही (काया/शरीर) गावा (गावा का आध्यात्मिक भाव) जीउ (मन/जी) धर (धर का आध्यात्मिक भाव) महतउ (महतउ का आध्यात्मिक भाव) बसहि (बसते हैं) पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) किरसाना (किरसाना का आध्यात्मिक भाव) ॥
+नैनू (नैनू का आध्यात्मिक भाव) नकटू (नकटू का आध्यात्मिक भाव) स्रवनू (स्रवनू का आध्यात्मिक भाव) रसपति (रसपति का आध्यात्मिक भाव) इंद्री (इंद्रियां/विषय-वासना) कहिआ (कहिआ का आध्यात्मिक भाव) न (नहीं) माना (माना का आध्यात्मिक भाव) ॥ ॥
+बाबा (बाबा का आध्यात्मिक भाव) अब (अब/इस समय) न (नहीं) बसउ (बसउ का आध्यात्मिक भाव) इह (ये) गाउ (ग्राम/गांव) ॥
+घरी (घड़ी/क्षण) घरी (घड़ी/क्षण) का (का/संबंध-सूचक) लेखा (हिसाब-किताब) मागै (मागै का आध्यात्मिक भाव) काइथु (काइथु का आध्यात्मिक भाव) चेतू (चेतू का आध्यात्मिक भाव) नाउ (नाम) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+धरम (धर्म) राइ (राइ (सधुक्कड़ी भाव)) जब (जिस समय/जब) लेखा (हिसाब-किताब) मागै (मागै का आध्यात्मिक भाव) बाकी (बाकी का आध्यात्मिक भाव) निकसी (निकसी का आध्यात्मिक भाव) भारी (कठिन/गंभीर) ॥
+पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) क्रिसानवा (क्रिसानवा का आध्यात्मिक भाव) भागि (किस्मत संबंधी) गए (बीतते) लै (ले) बाधिओ (बांध लिया) जीउ (मन/जी) दरबारी (न्यायालय) ॥ ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) खेत (युद्धभूमि, संसार) ही (केवल/मात्र) करहु (करके (से/द्वारा)) निबेरा (निबेरा का आध्यात्मिक भाव) ॥
+अब (अब/इस समय) की (की/संबंध-सूचक) बार (द्वार) बखसि (बखसि का आध्यात्मिक भाव) बंदे (मनुष्य, सेवक) कउ (को) बहुरि (पुनः/फिर) न (नहीं) भउजलि (भउजलि का आध्यात्मिक भाव) फेरा (फिर) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+dehee (mortal body/frame) gaava (gaava) jeeu (heart/mind) dhar (dhar) mahatau (mahatau) basahi (dwell) panch (five vices) kirasaana (kirasaana) .
+nainoo (nainoo) nakatoo (nakatoo) sravanoo (sravanoo) rasapati (rasapati) indree (sensory organs) kahia (kahia) n (not) maana (maana) . .
+baaba (baaba) ab (now) n (not) basau (basau) ih (these) gaau (village/town) .
+gharee (moment/instant) gharee (moment/instant) ka (of) lekha (reckoning/account of deeds) maagai (maagai) kaaithu (kaaithu) chetoo (chetoo) naau (name) . . rahaau (pause for reflection, foundational theme) .
+dharam (righteousness) raai (raai (spiritual sense)) jab (at the time when) lekha (reckoning/account of deeds) maagai (maagai) baakee (baakee) nikasee (nikasee) bhaaree (heavy/severe) .
+panch (five vices) krisaanava (krisaanava) bhaagi (fortune/destiny related) gae (went) lai (bringing) baadhio (bound tight) jeeu (heart/mind) darabaaree (court) . .
+kahai (chants) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) khet (battlefield of life and mind) hee (alone/only) karahu (doing (from/by)) nibera (nibera) .
+ab (now) kee (of) baar (door) bakhasi (bakhasi) bande (beings, servants of God) kau (unto) bahuri (again/once more) n (not) bhaujali (bhaujali) phera (again) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! देही गावा जीउ धर महतउ बसहि पंच किरसाना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! deheegaavaajeeudharamahataubasahipanchakirasaana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-82"></a>
+## शब्द 82: राजन कउनु तुमारै आवै
+**English Title:** Shabad 82: Raajana Kaunau Taumaaraai Aavaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+राजन कउनु तुमारै आवै ॥
+ऐसो भाउ बिदर को देखिओ ओहु गरीबु मोहि भावै ॥१॥ रहाउ ॥
+हसती देखि भरम ते भूला स्री भगवानु न जानिआ ॥
+तुमरो दूधु बिदर को पान्हो अम्रितु करि मै मानिआ ॥१॥
+खीर समानि सागु मै पाइआ गुन गावत रैनि बिहानी ॥
+कबीर को ठाकुरु अनद बिनोदी जाति न काहू की मानी ॥२॥९॥1105॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+राजन (राजन का आध्यात्मिक भाव) कउनु (कौन) तुमारै (तुमारै का आध्यात्मिक भाव) आवै (आता है) ॥
+ऐसो (ऐसो का आध्यात्मिक भाव) भाउ (भाव/मूल्य) बिदर (बिदर का आध्यात्मिक भाव) को (को/की ओर) देखिओ (देखकर संबंधी) ओहु (वह परमात्मा/जीव) गरीबु (दीन-हीन/निर्धन) मोहि (मुझको/मुझे) भावै (जैसा मन चाहे) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हसती (हसती का आध्यात्मिक भाव) देखि (देखकर संबंधी) भरम (भ्रम) ते (से/द्वारा) भूला (भूला का आध्यात्मिक भाव) स्री (स्री का आध्यात्मिक भाव) भगवानु (परमात्मा/भगवान) न (नहीं) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+तुमरो (तुमरो का आध्यात्मिक भाव) दूधु (दूध/क्षीर) बिदर (बिदर का आध्यात्मिक भाव) को (को/की ओर) पान्हो (पान्हो का आध्यात्मिक भाव) अम्रितु (अमर-रस/अमृत) करि (करके/हाथ से) मै (मैं/मैंने) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥
+खीर (खीर का आध्यात्मिक भाव) समानि (समान/एक जैसा) सागु (सागु का आध्यात्मिक भाव) मै (मैं/मैंने) पाइआ (पा लिया है) गुन (गुण/पुण्य) गावत (गावत (सधुक्कड़ी भाव)) रैनि (रात (में/करके)) बिहानी (बिहानी का आध्यात्मिक भाव) ॥
+कबीर (संत कबीर जी) को (को/की ओर) ठाकुरु (ठाकुरद्वारा/मंदिर संबंधी) अनद (अनद का आध्यात्मिक भाव) बिनोदी (बिनोद (सधुक्कड़ी भाव)) जाति (जन्मना जाति/वर्ण) न (नहीं) काहू (किसी को/किसी से) की (की/संबंध-सूचक) मानी (मानी (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raajan (raajan) kaunu (who) tumaarai (tumaarai) aavai (comes/arrives) .
+aiso (aiso) bhaau (prices) bidar (bidar) ko (unto/toward) dekhio (beholding related) ohu (that Lord/soul) gareebu (lowly/destitute) mohi (unto me) bhaavai (as pleases the heart) . . rahaau (pause for reflection, foundational theme) .
+hasatee (hasatee) dekhi (beholding related) bharam (illusion/doubt) te (from/by) bhoola (bhoola) sree (sree) bhagavaanu (Supreme Lord/God) n (not) jaania (jaania) .
+tumaro (tumaro) doodhu (milk) bidar (bidar) ko (unto/toward) paanho (paanho) amritu (divine nectar of immortality) kari (having done/with hands) mai (I/by me) maania (maania) . .
+kheer (kheer) samaani (equal/identical) saagu (saagu) mai (I/by me) paaia (have found) gun (virtues/merits) gaavat (gaavat (spiritual sense)) raini (night (in/having done)) bihaanee (bihaanee) .
+kabeer (Sant Kabir) ko (unto/toward) thaakuru (temple related) anad (anad) binodee (binod (spiritual sense)) jaati (caste/social division) n (not) kaahoo (anyone/anyone's) kee (of) maanee (maanee (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! राजन कउनु तुमारै आवै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raajanakaunutumaaraiaavai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 82: राजन कउनु तुमारै आवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-83"></a>
+## शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे
+**English Title:** Shabad 83: Daeenau Baisaaraio Rae Daivaanae Daeenau Bai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे ॥
+पेटु भरिओ पसूआ जिउ सोइओ मनुखु जनमु है हारिओ ॥१॥ रहाउ ॥
+साधसंगति कबहू नही कीनी रचिओ धंधै झूठ ॥
+सुआन सूकर बाइस जिवै भटकतु चालिओ ऊठि ॥१॥
+आपस कउ दीरघु करि जानै अउरन कउ लग मात ॥
+मनसा बाचा करमना मै देखे दोजक जात ॥२॥
+कामी क्रोधी चातुरी बाजीगर बेकाम ॥
+निंदा करते जनमु सिरानो कबहू न सिमरिओ रामु ॥३॥
+कहि कबीर चेतै नही मूरखु मुगधु गवारु ॥
+रामु नामु जानिओ नही कैसे उतरसि पारि ॥४॥१॥1105॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+दीनु (दीन-हीन/निर्धन) बिसारिओ (बिसारिओ का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) दिवाने (दीवाने/साधक को) दीनु (दीन-हीन/निर्धन) बिसारिओ (बिसारिओ का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+पेटु (पेटु का आध्यात्मिक भाव) भरिओ (भर गया) पसूआ (पसूआ का आध्यात्मिक भाव) जिउ (जैसे/ज्यों) सोइओ (सोइओ का आध्यात्मिक भाव) मनुखु (मनुखु का आध्यात्मिक भाव) जनमु (मानव जन्म) है (है कि) हारिओ (पराजय/माला संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+साधसंगति (सत्संगति संबंधी) कबहू (कबहू का आध्यात्मिक भाव) नही (नहीं) कीनी (क्या (लोग/समूह) संबंधी) रचिओ (रचिओ का आध्यात्मिक भाव) धंधै (धंधै का आध्यात्मिक भाव) झूठ (असत्य) ॥
+सुआन (श्वान/कुत्ता) सूकर (सूकर (सधुक्कड़ी भाव)) बाइस (बाइस का आध्यात्मिक भाव) जिवै (जिवै का आध्यात्मिक भाव) भटकतु (भटकतु का आध्यात्मिक भाव) चालिओ (चालिओ का आध्यात्मिक भाव) ऊठि (ऊठि का आध्यात्मिक भाव) ॥ ॥
+आपस (आपस का आध्यात्मिक भाव) कउ (को) दीरघु (दीरघु का आध्यात्मिक भाव) करि (करके/हाथ से) जानै (प्राण/जीवन (करता है/ने)) अउरन (अउरन का आध्यात्मिक भाव) कउ (को) लग (लगकर/संलग्न होकर) मात (मात का आध्यात्मिक भाव) ॥
+मनसा (मनसा का आध्यात्मिक भाव) बाचा (बाचा का आध्यात्मिक भाव) करमना (कर्मकांड (लोग/समूह)) मै (मैं/मैंने) देखे (देखकर संबंधी) दोजक (दोजक का आध्यात्मिक भाव) जात (जाती नहीं/दूर नहीं होती) ॥ ॥
+कामी (वासनाग्रस्त, विषयी) क्रोधी (क्रोध/गुस्सा) चातुरी (चातुरी का आध्यात्मिक भाव) बाजीगर (जादूगर/बाजीगर प्रभु) बेकाम (बेकाम का आध्यात्मिक भाव) ॥
+निंदा (अपकीर्ति/निंदा) करते (करते का आध्यात्मिक भाव) जनमु (मानव जन्म) सिरानो (शीश संबंधी) कबहू (कबहू का आध्यात्मिक भाव) न (नहीं) सिमरिओ (सिमरिओ का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) चेतै (चेतै (सधुक्कड़ी भाव)) नही (नहीं) मूरखु (मूरखु का आध्यात्मिक भाव) मुगधु (मुगध (सधुक्कड़ी भाव)) गवारु (गवारु का आध्यात्मिक भाव) ॥
+रामु (राम नाम की संबंधी) नामु (सत्य-नाम) जानिओ (जानिओ का आध्यात्मिक भाव) नही (नहीं) कैसे (किस प्रकार) उतरसि (उतरसि का आध्यात्मिक भाव) पारि (भवसागर से पार, मुक्ति) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+deenu (lowly/meek) bisaario (bisaario) re (Re (Divine Will)) divaane (the lover/seeker) deenu (lowly/meek) bisaario (bisaario) re (Re (Divine Will)) .
+petu (petu) bhario (was filled) pasooa (pasooa) jiu (just as) soio (soio) manukhu (manukhu) janamu (human birth) hai (is) haario (defeat/garland related) . . rahaau (pause for reflection, foundational theme) .
+saadhasangati (holy communion related) kabahoo (kabahoo) nahee (not) keenee (what (folk/plural) related) rachio (rachio) dhandhai (dhandhai) jhooth (untruth) .
+suaan (dog) sookar (sookar (spiritual sense)) baais (baais) jivai (jivai) bhatakatu (bhatakatu) chaalio (chaalio) oothi (oothi) . .
+aapas (aapas) kau (unto) deeraghu (deeraghu) kari (having done/with hands) jaanai (life/soul (does/by)) auran (auran) kau (unto) lag (attaching/cleaving unto) maat (maat) .
+manasa (manasa) baacha (baacha) karamana (rituals (folk/plural)) mai (I/by me) dekhe (beholding related) dojak (dojak) jaat (departs/is erased) . .
+kaamee (lustful person, sensualist) krodhee (wrath/anger) chaaturee (chaaturee) baajeegar (master magician/juggler) bekaam (bekaam) .
+ninda (slander/evil-speaking) karate (karate) janamu (human birth) siraano (head related) kabahoo (kabahoo) n (not) simario (simario) raamu (Lord Rama's related) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) chetai (chetai (spiritual sense)) nahee (not) moorakhu (moorakhu) mugadhu (mugadh (spiritual sense)) gavaaru (gavaaru) .
+raamu (Lord Rama's related) naamu (True Name) jaanio (jaanio) nahee (not) kaise (how) utarasi (utarasi) paari (across the ocean of rebirth, ultimate liberation) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! deenubisaarioredivaanedeenubisaariore—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-84"></a>
+## शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना
+**English Title:** Shabad 84: Usatatai Naindaa Daooo Baibarajaita Tajahau Ma
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना ॥
+लोहा कंचनु सम करि जानहि ते मूरति भगवाना ॥१॥
+तेरा जनु एकु आधु कोई ॥
+कामु क्रोधु लोभु मोहु बिबरजित हरि पदु चीन्है सोई ॥१॥ रहाउ ॥
+रज गुण तम गुण सत गुण कहीऐ इह तेरी सभ माइआ ॥
+चउथे पद कउ जो नरु चीन्है तिन्ह ही परम पदु पाइआ ॥२॥
+तीरथ बरत नेम सुचि संजम सदा रहै निहकामा ॥
+त्रिसना अरु माइआ भ्रमु चूका चितवत आतम रामा ॥३॥
+जिह मंदरि दीपकु परगासिआ अंधकारु तह नासा ॥
+निरभउ पूरि रहे भ्रमु भागा कहि कबीर जन दासा ॥४॥१॥1123॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+उसतति (उसतति का आध्यात्मिक भाव) निंदा (अपकीर्ति/निंदा) दोऊ (दोनों को) बिबरजित (बिबरजित का आध्यात्मिक भाव) तजहु (तजहु का आध्यात्मिक भाव) मानु (मानु का आध्यात्मिक भाव) अभिमाना (अहंकार और गर्व) ॥
+लोहा (लोहा धातु (जो पारस से स्वर्ण बने)) कंचनु (शुद्ध कंचन/स्वर्ण) सम (समान भाव से) करि (करके/हाथ से) जानहि (प्राण/जीवन (को/में)) ते (से/द्वारा) मूरति (छवि (में/करके)) भगवाना (परमात्मा/भगवान) ॥ ॥
+तेरा (तेरा/प्रभु का) जनु (मानो/जैसे कि) एकु (एक ही अद्वैत ब्रह्म) आधु (आधु का आध्यात्मिक भाव) कोई (कोई भी जन) ॥
+कामु (काम-वासना/कर्म संबंधी) क्रोधु (गुस्सा, कोप) लोभु (लालच, तृष्णा) मोहु (ममता, आसक्ति) बिबरजित (बिबरजित का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) पदु (पद/स्थान/भजन) चीन्है (चीन्है का आध्यात्मिक भाव) सोई (वही) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+रज (धूलि/चरण-रज) गुण (सद्गुण/महिमा) तम (तम (सधुक्कड़ी भाव)) गुण (सद्गुण/महिमा) सत (सत्य/सदाचार) गुण (सद्गुण/महिमा) कहीऐ (कहिए) इह (ये) तेरी (तेरी/आपकी) सभ (सब) माइआ (माया/भ्रम) ॥
+चउथे (चउथे का आध्यात्मिक भाव) पद (पद/स्थान/भजन) कउ (को) जो (जिससे) नरु (पुरुष/मनुष्य) चीन्है (चीन्है का आध्यात्मिक भाव) तिन्ह (उन्होंने) ही (केवल/मात्र) परम (सर्वोच्च/परम) पदु (पद/स्थान/भजन) पाइआ (पा लिया है) ॥ ॥
+तीरथ (तीर्थ) बरत (बरत का आध्यात्मिक भाव) नेम (नेम का आध्यात्मिक भाव) सुचि (सुचि (सधुक्कड़ी भाव)) संजम (संजम (सधुक्कड़ी भाव)) सदा (सर्वदा/सदा) रहै (रहे/सदा रहे) निहकामा (काम-वासना/कर्म संबंधी) ॥
+त्रिसना (तृष्णा/कामना की अग्नि) अरु (और) माइआ (माया/भ्रम) भ्रमु (भ्रम/संशय) चूका (चूका का आध्यात्मिक भाव) चितवत (प्रेमपूर्वक निहारता है) आतम (अंतरात्मा, आत्म-स्वरूप) रामा (रामा (सधुक्कड़ी भाव)) ॥ ॥
+जिह (जिस) मंदरि (महल/मंदिर) दीपकु (प्रकाशमान दीप) परगासिआ (परगासिआ का आध्यात्मिक भाव) अंधकारु (अंधकारु का आध्यात्मिक भाव) तह (वहाँ) नासा (नासा (सधुक्कड़ी भाव)) ॥
+निरभउ (निरभउ का आध्यात्मिक भाव) पूरि (व्याप्त होकर/भरकर) रहे (रहे हैं पर) भ्रमु (भ्रम/संशय) भागा (भागा (सधुक्कड़ी भाव)) कहि (से (को/में)) कबीर (संत कबीर जी) जन (भक्त/सेवक) दासा (अनन्य सेवक/दास) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+usatati (usatati) ninda (slander/evil-speaking) dooo (both) bibarajit (bibarajit) tajahu (tajahu) maanu (maanu) abhimaana (pride/arrogance) .
+loha (iron metal) kanchanu (pure gold) sam (with equal dignity) kari (having done/with hands) jaanahi (life/soul (unto/in)) te (from/by) moorati (form (in/having done)) bhagavaana (Supreme Lord/God) . .
+tera (thine/Lord's) janu (as if/devotee) eku (The One Supreme Lord) aadhu (aadhu) koee (anyone) .
+kaamu (carnal desire/work related) krodhu (anger, wrath) lobhu (greed, insatiable craving) mohu (delusional attachment, infatuation) bibarajit (bibarajit) hari (The Lord who dispels grief (Hari)) padu (spiritual station/hymn) cheenhai (cheenhai) soee (the very same) . . rahaau (pause for reflection, foundational theme) .
+raj (dust of lotus feet) gun (virtues/divine attributes) tam (tam (spiritual sense)) gun (virtues/divine attributes) sat (Truth/righteousness) gun (virtues/divine attributes) kaheeai (one should speak) ih (these) teree (Thine) sabh (all) maaia (cosmic illusion) .
+chauthe (chauthe) pad (spiritual station/hymn) kau (unto) jo (that) naru (man/mortal) cheenhai (cheenhai) tinh (they) hee (alone/only) param (supreme/highest) padu (spiritual station/hymn) paaia (have found) . .
+teerath (pilgrimage shrine) barat (barat) nem (nem) suchi (suchi (spiritual sense)) sanjam (sanjam (spiritual sense)) sada (always/eternally) rahai (may abide/remain) nihakaama (carnal desire/work related) .
+trisana (thirst of worldly desire) aru (and) maaia (cosmic illusion) bhramu (illusion/doubt) chooka (chooka) chitavat (gazes yearningly) aatam (inner soul, divine self) raama (raama (spiritual sense)) . .
+jih (which) mandari (palaces/mansions) deepaku (lamp/flame) paragaasia (paragaasia) andhakaaru (andhakaaru) tah (there) naasa (naasa (spiritual sense)) .
+nirabhau (nirabhau) poori (pervading everywhere) rahe (remain) bhramu (illusion/doubt) bhaaga (bhaaga (spiritual sense)) kahi (from (unto/in)) kabeer (Sant Kabir) jan (devotee/humble servant) daasa (devoted servant/disciple) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! usatatinindaadooobibarajitatajahumaanuabhimaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-85"></a>
+## शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी
+**English Title:** Shabad 85: Kaama Karaodha Taraisanaa Kae Laeenae Gatai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+काम क्रोध त्रिसना के लीने गति नही एकै जानी ॥
+फूटी आखै कछू न सूझै बूडि मूए बिनु पानी ॥१॥
+चलत कत टेढे टेढे टेढे ॥
+असति चरम बिसटा के मूंदे दुरगंध ही के बेढे ॥१॥ रहाउ ॥
+राम न जपहु कवन भ्रम भूले तुम ते कालु न दूरे ॥
+अनिक जतन करि इहु तनु राखहु रहै अवसथा पूरे ॥२॥
+आपन कीआ कछू न होवै किआ को करै परानी ॥
+जा तिसु भावै सतिगुरु भेटै एको नामु बखानी ॥३॥
+बलूआ के घरूआ महि बसते फुलवत देह अइआने ॥
+कहु कबीर जिह रामु न चेतिओ बूडे बहुतु सिआने ॥४॥४॥1123॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+काम (कामना/वासना) क्रोध (क्रोध/गुस्सा) त्रिसना (तृष्णा/कामना की अग्नि) के (के/संबंध-सूचक) लीने (ले लिए/स्वीकार किए) गति (परम गति/मुक्ति) नही (नहीं) एकै (समान/एक जैसे (करता है/ने)) जानी (के प्यारे) ॥
+फूटी (फूटी का आध्यात्मिक भाव) आखै (आखै का आध्यात्मिक भाव) कछू (कुछ) न (नहीं) सूझै (समझ/दृष्टि (करता है/होता है)) बूडि (बूडि का आध्यात्मिक भाव) मूए (मूए का आध्यात्मिक भाव) बिनु (बिना/रहित) पानी (शीतल जल) ॥ ॥
+चलत (चलते हुए/प्रस्थान करते हुए) कत (कहाँ/क्यों) टेढे (टेढे का आध्यात्मिक भाव) टेढे (टेढे का आध्यात्मिक भाव) टेढे (टेढे का आध्यात्मिक भाव) ॥
+असति (असति का आध्यात्मिक भाव) चरम (चरम का आध्यात्मिक भाव) बिसटा (बिसटा का आध्यात्मिक भाव) के (के/संबंध-सूचक) मूंदे (मूंदे का आध्यात्मिक भाव) दुरगंध (दुरगंध का आध्यात्मिक भाव) ही (केवल/मात्र) के (के/संबंध-सूचक) बेढे (बेढे का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+राम (सर्वव्यापी परमात्मा) न (नहीं) जपहु (स्मरण/जाप (से/द्वारा)) कवन (कौन/कैसा) भ्रम (भ्रांति/संशय/अज्ञान) भूले (भूले (सधुक्कड़ी भाव)) तुम (आप/तुम) ते (से/द्वारा) कालु (काल/मृत्यु) न (नहीं) दूरे (दूर/परे) ॥
+अनिक (अनेक/नाना प्रकार) जतन (प्रयत्न) करि (करके/हाथ से) इहु (यह) तनु (नश्वर शरीर/देह) राखहु (रक्षा कीजिए/रखो) रहै (रहे/सदा रहे) अवसथा (अवसथा का आध्यात्मिक भाव) पूरे (पूर (सधुक्कड़ी भाव)) ॥ ॥
+आपन (स्वयं/परमात्मा (लोग/समूह)) कीआ (किया) कछू (कुछ) न (नहीं) होवै (होता है) किआ (क्या) को (को/की ओर) करै (करके (करता है/ने)) परानी (परानी का आध्यात्मिक भाव) ॥
+जा (जिसका/जब) तिसु (उसको) भावै (जैसा मन चाहे) सतिगुरु (सच्चे सद्गुरु) भेटै (भेटै का आध्यात्मिक भाव) एको (एको (सधुक्कड़ी भाव)) नामु (सत्य-नाम) बखानी (बखानी का आध्यात्मिक भाव) ॥ ॥
+बलूआ (बलूआ का आध्यात्मिक भाव) के (के/संबंध-सूचक) घरूआ (घरूआ का आध्यात्मिक भाव) महि (में/भीतर) बसते (वस्तु/सामग्री) फुलवत (फुलवत का आध्यात्मिक भाव) देह (दो) अइआने (अइआने का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) जिह (जिस) रामु (राम नाम की संबंधी) न (नहीं) चेतिओ (चेतिओ का आध्यात्मिक भाव) बूडे (बूडे का आध्यात्मिक भाव) बहुतु (अनेक संबंधी) सिआने (सिआने का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaam (lust/desire) krodh (wrath/anger) trisana (thirst of worldly desire) ke (of) leene (accepted/taken) gati (spiritual emancipation) nahee (not) ekai (equal and one (does/by)) jaanee (darling) .
+phootee (phootee) aakhai (aakhai) kachhoo (anything) n (not) soojhai (spiritual insight (does/becomes)) boodi (boodi) mooe (mooe) binu (without/devoid of) paanee (water) . .
+chalat (while departing/moving) kat (where/why) tedhe (tedhe) tedhe (tedhe) tedhe (tedhe) .
+asati (asati) charam (charam) bisata (bisata) ke (of) moonde (moonde) duragandh (duragandh) hee (alone/only) ke (of) bedhe (bedhe) . . rahaau (pause for reflection, foundational theme) .
+raam (The All-Pervading Lord (Ram)) n (not) japahu (chanting/meditation (from/by)) kavan (who/what) bhram (illusion/doubt) bhoole (bhoole (spiritual sense)) tum (You/Thou) te (from/by) kaalu (death/time) n (not) doore (distant/far) .
+anik (manifold/countless) jatan (efforts) kari (having done/with hands) ihu (this) tanu (mortal body) raakhahu (protect ye/keep) rahai (may abide/remain) avasatha (avasatha) poore (poor (spiritual sense)) . .
+aapan (Himself/oneself (folk/plural)) keea (did/created) kachhoo (anything) n (not) hovai (happens/becomes) kia (what) ko (unto/toward) karai (doing (does/by)) paraanee (paraanee) .
+ja (whose/when) tisu (unto that one) bhaavai (as pleases the heart) satiguru (True Divine Master) bhetai (bhetai) eko (eko (spiritual sense)) naamu (True Name) bakhaanee (bakhaanee) . .
+balooa (balooa) ke (of) gharooa (gharooa) mahi (within/in) basate (goods/commodity) phulavat (phulavat) deh (give) aiaane (aiaane) .
+kahu (tell) kabeer (Sant Kabir) jih (which) raamu (Lord Rama's related) n (not) chetio (chetio) boode (boode) bahutu (many related) siaane (siaane) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! काम क्रोध त्रिसना के लीने गति नही एकै जानी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kaamakrodhatrisanaakeleenegatinaheeekaija—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-86"></a>
+## शब्द 86: टेढी पाग टेढे चले लागे बीरे खान
+**English Title:** Shabad 86: Taedhaee Paaga Taedhae Chalae Laagae Baeerae Khaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+टेढी पाग टेढे चले लागे बीरे खान ॥
+भाउ भगति सिउ काजु न कछूऐ मेरो कामु दीवान ॥१॥
+रामु बिसारिओ है अभिमानि ॥
+कनिक कामनी महा सुंदरी पेखि पेखि सचु मानि ॥१॥ रहाउ ॥
+लालच झूठ बिकार महा मद इह बिधि अउध बिहानि ॥
+कहि कबीर अंत की बेर आइ लागो कालु निदानि ॥२॥५॥1124॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+टेढी (टेढी का आध्यात्मिक भाव) पाग (पगड़ी/दस्तार) टेढे (टेढे का आध्यात्मिक भाव) चले (चले/प्रस्थान करे) लागे (लगती है) बीरे (बीरे का आध्यात्मिक भाव) खान (खान का आध्यात्मिक भाव) ॥
+भाउ (भाव/मूल्य) भगति (प्रेम-भक्ति) सिउ (से/साथ) काजु (कार्य/प्रयोजन) न (नहीं) कछूऐ (कछूऐ का आध्यात्मिक भाव) मेरो (मेरा/मुझ दीन का) कामु (काम-वासना/कर्म संबंधी) दीवान (दीवान का आध्यात्मिक भाव) ॥ ॥
+रामु (राम नाम की संबंधी) बिसारिओ (बिसारिओ का आध्यात्मिक भाव) है (है कि) अभिमानि (अहंकार और गर्व) ॥
+कनिक (कनिक का आध्यात्मिक भाव) कामनी (कामनी का आध्यात्मिक भाव) महा (अत्यंत/महान) सुंदरी (मनोहर/सुंदर) पेखि (पेखि का आध्यात्मिक भाव) पेखि (पेखि का आध्यात्मिक भाव) सचु (परम सत्य/सच्चा प्रभु) मानि (मानि का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+लालच (लालच का आध्यात्मिक भाव) झूठ (असत्य) बिकार (कार्य संबंधी) महा (अत्यंत/महान) मद (मदिरा) इह (ये) बिधि (विधि/रीति) अउध (अउध का आध्यात्मिक भाव) बिहानि (बिहानि का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) अंत (रहस्य) की (की/संबंध-सूचक) बेर (बेर का फल/समय) आइ (आई) लागो (प्रेम-संबंध/लगन) कालु (काल/मृत्यु) निदानि (दान/खैरात संबंधी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+tedhee (tedhee) paag (turban) tedhe (tedhe) chale (departs/walks) laage (it touches) beere (beere) khaan (khaan) .
+bhaau (prices) bhagati (loving devotion) siu (with/from) kaaju (work/purpose) n (not) kachhooai (kachhooai) mero (my/mine) kaamu (carnal desire/work related) deevaan (deevaan) . .
+raamu (Lord Rama's related) bisaario (bisaario) hai (is) abhimaani (pride/arrogance) .
+kanik (kanik) kaamanee (kaamanee) maha (great/supreme) sundaree (beautiful/wondrous) pekhi (pekhi) pekhi (pekhi) sachu (The Ultimate Truth) maani (maani) . . rahaau (pause for reflection, foundational theme) .
+laalach (laalach) jhooth (untruth) bikaar (work/deed related) maha (great/supreme) mad (wine) ih (these) bidhi (manner/way) audh (audh) bihaani (bihaani) .
+kahi (from (unto/in)) kabeer (Sant Kabir) ant (inner core) kee (of) ber (wild plum/times) aai (arrived/came) laago (spark of love/attachment) kaalu (death/time) nidaani (charity/alms related) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! टेढी पाग टेढे चले लागे बीरे खान—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! tedheepaagatedhechalelaagebeerekhaana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 86: टेढी पाग टेढे चले लागे बीरे खान'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-87"></a>
+## शब्द 87: चारि दिन अपनी नउबति चले बजाइ
+**English Title:** Shabad 87: Chaarai Daina Apanaee Naubatai Chalae Bajaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+चारि दिन अपनी नउबति चले बजाइ ॥
+इतनकु खटीआ गठीआ मटीआ संगि न कछु लै जाइ ॥१॥ रहाउ ॥
+दिहरी बैठी मिहरी रोवै दुआरै लउ संगि माइ ॥
+मरहट लगि सभु लोगु कुट्मबु मिलि हंसु इकेला जाइ ॥१॥
+वै सुत वै बित वै पुर पाटन बहुरि न देखै आइ ॥
+कहतु कबीरु रामु की न सिमरहु जनमु अकारथु जाइ ॥२॥६॥1124॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+चारि (चारों संबंधी) दिन (दिवस) अपनी (अपनी (सधुक्कड़ी भाव)) नउबति (नउबति का आध्यात्मिक भाव) चले (चले/प्रस्थान करे) बजाइ (बजाइ का आध्यात्मिक भाव) ॥
+इतनकु (इतनकु का आध्यात्मिक भाव) खटीआ (खटीआ का आध्यात्मिक भाव) गठीआ (गठीआ का आध्यात्मिक भाव) मटीआ (मटीआ का आध्यात्मिक भाव) संगि (संगत में/सान्निध्य में) न (नहीं) कछु (कुछ भी) लै (ले) जाइ (जिसका/जब (में/करके)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दिहरी (दिहरी का आध्यात्मिक भाव) बैठी (बैठी का आध्यात्मिक भाव) मिहरी (मिहर (सधुक्कड़ी भाव)) रोवै (रोवै का आध्यात्मिक भाव) दुआरै (दुआरै का आध्यात्मिक भाव) लउ (तक/लौ) संगि (संगत में/सान्निध्य में) माइ (माइ (सधुक्कड़ी भाव)) ॥
+मरहट (मरहट का आध्यात्मिक भाव) लगि (लगकर/तक) सभु (सब कुछ/सम्पूर्ण) लोगु (संसार के लोग) कुट्मबु (कुटुम्ब/परिवार) मिलि (मिलो संबंधी) हंसु (हंसु का आध्यात्मिक भाव) इकेला (अकेला/एकाकी) जाइ (जिसका/जब (में/करके)) ॥ ॥
+वै (वै (सधुक्कड़ी भाव)) सुत (पुत्र/बेटा) वै (वै (सधुक्कड़ी भाव)) बित (बित का आध्यात्मिक भाव) वै (वै (सधुक्कड़ी भाव)) पुर (नगर) पाटन (पाटन का आध्यात्मिक भाव) बहुरि (पुनः/फिर) न (नहीं) देखै (देखकर (करता है/ने)) आइ (आई) ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) रामु (राम नाम की संबंधी) की (की/संबंध-सूचक) न (नहीं) सिमरहु (सिमरहु का आध्यात्मिक भाव) जनमु (मानव जन्म) अकारथु (अकारथु का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+chaari (four related) din (day) apanee (apanee (spiritual sense)) naubati (naubati) chale (departs/walks) bajaai (bajaai) .
+itanaku (itanaku) khateea (khateea) gatheea (gatheea) mateea (mateea) sangi (in company of) n (not) kachhu (anything/something) lai (bringing) jaai (whose/when (in/having done)) . . rahaau (pause for reflection, foundational theme) .
+diharee (diharee) baithee (baithee) miharee (mihar (spiritual sense)) rovai (rovai) duaarai (duaarai) lau (until/flame) sangi (in company of) maai (maai (spiritual sense)) .
+marahat (marahat) lagi (attached to/until) sabhu (everything/all) logu (worldly folk) kutmabu (family/household) mili (meet related) hansu (hansu) ikela (solitary/alone) jaai (whose/when (in/having done)) . .
+vai (vai (spiritual sense)) sut (son) vai (vai (spiritual sense)) bit (bit) vai (vai (spiritual sense)) pur (city) paatan (paatan) bahuri (again/once more) n (not) dekhai (beholding (does/by)) aai (arrived/came) .
+kahatu (speaking/saying) kabeeru (Sant Kabir) raamu (Lord Rama's related) kee (of) n (not) simarahu (simarahu) janamu (human birth) akaarathu (akaarathu) jaai (whose/when (in/having done)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! चारि दिन अपनी नउबति चले बजाइ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! chaaridinaapaneenaubatichalebajaai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 87: चारि दिन अपनी नउबति चले बजाइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-88"></a>
+## शब्द 88: नांगे आवनु नांगे जाना
+**English Title:** Shabad 88: Naangae Aavanau Naangae Jaanaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+नांगे आवनु नांगे जाना ॥
+कोइ न रहिहै राजा राना ॥१॥
+रामु राजा नउ निधि मेरै ॥
+स्मपै हेतु कलतु धनु तेरै ॥१॥ रहाउ ॥
+आवत संग न जात संगाती ॥
+कहा भइओ दरि बांधे हाथी ॥२॥
+लंका गढु सोने का भइआ ॥
+मूरखु रावनु किआ ले गइआ ॥३॥
+कहि कबीर किछु गुनु बीचारि ॥
+चले जुआरी दुइ हथ झारि ॥४॥२॥1157॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+नांगे (नांगे का आध्यात्मिक भाव) आवनु (आवनु का आध्यात्मिक भाव) नांगे (नांगे का आध्यात्मिक भाव) जाना (जाना/प्रस्थान करना) ॥
+कोइ (को/की ओर (में/करके)) न (नहीं) रहिहै (रहिहै का आध्यात्मिक भाव) राजा (आदर्श शासन/राज संबंधी) राना (राना का आध्यात्मिक भाव) ॥ ॥
+रामु (राम नाम की संबंधी) राजा (आदर्श शासन/राज संबंधी) नउ (नउ का आध्यात्मिक भाव) निधि (नौ निधियां/खजाना) मेरै (मेर (सधुक्कड़ी भाव)) ॥
+स्मपै (स्मपै का आध्यात्मिक भाव) हेतु (स्नेह/प्रीति संबंधी) कलतु (कलतु का आध्यात्मिक भाव) धनु (धन/संपत्ति) तेरै (तेरै का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आवत (आवत का आध्यात्मिक भाव) संग (संग/साथ) न (नहीं) जात (जाती नहीं/दूर नहीं होती) संगाती (संगाती का आध्यात्मिक भाव) ॥
+कहा (क्या/कहाँ) भइओ (हुआ) दरि (प्रभु के द्वार पर) बांधे (बांध लिए/जकड़े हुए) हाथी (कर) ॥ ॥
+लंका (लंका का आध्यात्मिक भाव) गढु (गढु का आध्यात्मिक भाव) सोने (सोने का आध्यात्मिक भाव) का (का/संबंध-सूचक) भइआ (हुआ/हो गया) ॥
+मूरखु (मूरखु का आध्यात्मिक भाव) रावनु (रावनु का आध्यात्मिक भाव) किआ (क्या) ले (लेकर) गइआ (गया) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) किछु (कुछ भी/तनिक) गुनु (गुण/पुण्य) बीचारि (चारों संबंधी) ॥
+चले (चले/प्रस्थान करे) जुआरी (जुआरी का आध्यात्मिक भाव) दुइ (दो (द्वैत)) हथ (हथ का आध्यात्मिक भाव) झारि (झारि (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+naange (naange) aavanu (aavanu) naange (naange) jaana (to depart) .
+koi (unto/to (in/having done)) n (not) rahihai (rahihai) raaja (realm/kingdom related) raana (raana) . .
+raamu (Lord Rama's related) raaja (realm/kingdom related) nau (nau) nidhi (treasure/spiritual wealth) merai (mer (spiritual sense)) .
+smapai (smapai) hetu (love/affection related) kalatu (kalatu) dhanu (wealth/riches) terai (terai) . . rahaau (pause for reflection, foundational theme) .
+aavat (aavat) sang (with/in company) n (not) jaat (departs/is erased) sangaatee (sangaatee) .
+kaha (what/where) bhaio (occurred/became) dari (at the divine threshold) baandhe (bound/tied) haathee (hand) . .
+lanka (lanka) gadhu (gadhu) sone (sone) ka (of) bhaia (became) .
+moorakhu (moorakhu) raavanu (raavanu) kia (what) le (taking/having taken) gaia (went/departed) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) kichhu (anything/a little) gunu (virtues/merits) beechaari (four related) .
+chale (departs/walks) juaaree (juaaree) dui (two/duality) hath (hath) jhaari (jhaari (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! नांगे आवनु नांगे जाना—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! naangeaavanunaangejaana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 88: नांगे आवनु नांगे जाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-89"></a>
+## शब्द 89: मैला ब्रहमा मैला इंदु
+**English Title:** Shabad 89: Maailaa Barahamaa Maailaa Indau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मैला ब्रहमा मैला इंदु ॥
+रवि मैला मैला है चंदु ॥१॥
+मैला मलता इहु संसारु ॥
+इकु हरि निरमलु जा का अंतु न पारु ॥१॥ रहाउ॥
+मैले ब्रहमंडाइ कै ईस ॥
+मैले निसि बासुर दिन तीस ॥२॥
+मैला मोती मैला हीरु ॥
+मैला पउनु पावकु अरु नीरु ॥३॥
+मैले सिव संकरा महेस ॥
+मैले सिध साधिक अरु भेख ॥४॥
+मैले जोगी जंगम जटा सहेति ॥
+मैली काइआ हंस समेति ॥५॥
+कहि कबीर ते जन परवान ॥
+निरमल ते जो रामहि जान ॥६॥३॥1158॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मैला (मैला (सधुक्कड़ी भाव)) ब्रहमा (ब्रहमा का आध्यात्मिक भाव) मैला (मैला (सधुक्कड़ी भाव)) इंदु (इंदु का आध्यात्मिक भाव) ॥
+रवि (सूर्य/भास्कर) मैला (मैला (सधुक्कड़ी भाव)) मैला (मैला (सधुक्कड़ी भाव)) है (है कि) चंदु (चंद्रमा) ॥ ॥
+मैला (मैला (सधुक्कड़ी भाव)) मलता (मलता का आध्यात्मिक भाव) इहु (यह) संसारु (संसार) ॥
+इकु (एक/अद्वितीय) हरि (दुख-हर्ता परमात्मा) निरमलु (निरमलु का आध्यात्मिक भाव) जा (जिसका/जब) का (का/संबंध-सूचक) अंतु (रहस्य) न (नहीं) पारु (भवसागर पार संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+मैले (अपवित्र/मलिन) ब्रहमंडाइ (ब्रहमंडाइ का आध्यात्मिक भाव) कै (के/का) ईस (ईश्वर/प्रभु) ॥
+मैले (अपवित्र/मलिन) निसि (निसि (सधुक्कड़ी भाव)) बासुर (बासुर का आध्यात्मिक भाव) दिन (दिवस) तीस (तीस का आध्यात्मिक भाव) ॥ ॥
+मैला (मैला (सधुक्कड़ी भाव)) मोती (सच्चे मुक्ता/मोती) मैला (मैला (सधुक्कड़ी भाव)) हीरु (हीरु का आध्यात्मिक भाव) ॥
+मैला (मैला (सधुक्कड़ी भाव)) पउनु (पउनु का आध्यात्मिक भाव) पावकु (अग्नि, अनल) अरु (और) नीरु (जल, पानी) ॥ ॥
+मैले (अपवित्र/मलिन) सिव (सिव (सधुक्कड़ी भाव)) संकरा (संकरा का आध्यात्मिक भाव) महेस (महेस का आध्यात्मिक भाव) ॥
+मैले (अपवित्र/मलिन) सिध (सिध का आध्यात्मिक भाव) साधिक (साधिक का आध्यात्मिक भाव) अरु (और) भेख (पाखंडी भेष) ॥ ॥
+मैले (अपवित्र/मलिन) जोगी (योगी) जंगम (जंगम (सधुक्कड़ी भाव)) जटा (जटा का आध्यात्मिक भाव) सहेति (सहेति का आध्यात्मिक भाव) ॥
+मैली (मैली का आध्यात्मिक भाव) काइआ (काइआ का आध्यात्मिक भाव) हंस (हंस का आध्यात्मिक भाव) समेति (सहित/साथ) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) ते (से/द्वारा) जन (भक्त/सेवक) परवान (परवान का आध्यात्मिक भाव) ॥
+निरमल (निरमल का आध्यात्मिक भाव) ते (से/द्वारा) जो (जिससे) रामहि (सर्वव्यापी परमात्मा (को/में)) जान (प्राण/जीवन) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+maila (maila (spiritual sense)) brahama (brahama) maila (maila (spiritual sense)) indu (indu) .
+ravi (sun/radiance) maila (maila (spiritual sense)) maila (maila (spiritual sense)) hai (is) chandu (radiant moon) . .
+maila (maila (spiritual sense)) malata (malata) ihu (this) sansaaru (the world) .
+iku (one/sole) hari (The Lord who dispels grief (Hari)) niramalu (niramalu) ja (whose/when) ka (of) antu (inner core) n (not) paaru (across shore related) . . rahaau (pause for reflection, foundational theme) .
+maile (stained/defiled) brahamandaai (brahamandaai) kai (of) ees (Supreme Lord) .
+maile (stained/defiled) nisi (nisi (spiritual sense)) baasur (baasur) din (day) tees (tees) . .
+maila (maila (spiritual sense)) motee (pure pearl) maila (maila (spiritual sense)) heeru (heeru) .
+maila (maila (spiritual sense)) paunu (paunu) paavaku (fire, flame of consciousness) aru (and) neeru (water, flowing stream) . .
+maile (stained/defiled) siv (siv (spiritual sense)) sankara (sankara) mahes (mahes) .
+maile (stained/defiled) sidh (sidh) saadhik (saadhik) aru (and) bhekh (guises/robes) . .
+maile (stained/defiled) jogee (yogi) jangam (jangam (spiritual sense)) jata (jata) saheti (saheti) .
+mailee (mailee) kaaia (kaaia) hans (hans) sameti (together with) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) te (from/by) jan (devotee/humble servant) paravaan (paravaan) .
+niramal (niramal) te (from/by) jo (that) raamahi (The All-Pervading Lord (Ram) (unto/in)) jaan (life/soul) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मैला ब्रहमा मैला इंदु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! mailaabrahamaamailaaindu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 89: मैला ब्रहमा मैला इंदु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-90"></a>
+## शब्द 90: मनु करि मका किबला करि देही
+**English Title:** Shabad 90: Manau Karai Makaa Kaibalaa Karai Daehaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मनु करि मका किबला करि देही ॥
+बोलनहारु परम गुरु एही ॥१॥
+कहु रे मुलां बांग निवाज ॥
+एक मसीति दसै दरवाज ॥१॥ रहाउ ॥
+मिसिमिलि तामसु भरमु कदूरी ॥
+भाखि ले पंचै होइ सबूरी ॥२॥
+हिंदू तुरक का साहिबु एक ॥
+कह करै मुलां कह करै सेख ॥३॥
+कहि कबीर हउ भइआ दिवाना ॥
+मुसि मुसि मनूआ सहजि समाना ॥४॥४॥1158॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मनु (मन/अंतःकरण) करि (करके/हाथ से) मका (मका का आध्यात्मिक भाव) किबला (किबला का आध्यात्मिक भाव) करि (करके/हाथ से) देही (काया/शरीर) ॥
+बोलनहारु (बोलनहारु का आध्यात्मिक भाव) परम (सर्वोच्च/परम) गुरु (सद्गुरु/गुरुदेव) एही (एही (सधुक्कड़ी भाव)) ॥ ॥
+कहु (बताओ) रे (रा (रज़ा व समर्पण)) मुलां (मुलां का आध्यात्मिक भाव) बांग (बांग का आध्यात्मिक भाव) निवाज (निवाज (सधुक्कड़ी भाव)) ॥
+एक (समान/एक जैसे) मसीति (मस्जिद, इबादतगाह) दसै (दस इंद्रियां/संख्या दस) दरवाज (दरवाज का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+मिसिमिलि (मिसिमिलि का आध्यात्मिक भाव) तामसु (तामसु का आध्यात्मिक भाव) भरमु (भ्रम) कदूरी (कदूरी का आध्यात्मिक भाव) ॥
+भाखि (भाखि का आध्यात्मिक भाव) ले (लेकर) पंचै (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) होइ (होकर) सबूरी (सबूरी का आध्यात्मिक भाव) ॥ ॥
+हिंदू (हिंदू जन) तुरक (मुसलमान/तुर्क) का (का/संबंध-सूचक) साहिबु (स्वामी/प्रभु) एक (समान/एक जैसे) ॥
+कह (कहकर) करै (करके (करता है/ने)) मुलां (मुलां का आध्यात्मिक भाव) कह (कहकर) करै (करके (करता है/ने)) सेख (शेख/सूफी बुजुर्ग) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) हउ (मैं/अहंभाव) भइआ (हुआ/हो गया) दिवाना (दिवाना का आध्यात्मिक भाव) ॥
+मुसि (मुसि का आध्यात्मिक भाव) मुसि (मुसि का आध्यात्मिक भाव) मनूआ (मनूआ का आध्यात्मिक भाव) सहजि (सहज अवस्था में) समाना (समाहित होना) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+manu (mind/inner spirit) kari (having done/with hands) maka (maka) kibala (kibala) kari (having done/with hands) dehee (mortal body/frame) .
+bolanahaaru (bolanahaaru) param (supreme/highest) guru (True Spiritual Master) ehee (ehee (spiritual sense)) . .
+kahu (tell) re (Re (Divine Will)) mulaan (mulaan) baang (baang) nivaaj (nivaaj (spiritual sense)) .
+ek (equal and one) maseeti (mosque, house of worship) dasai (ten) daravaaj (daravaaj) . . rahaau (pause for reflection, foundational theme) .
+misimili (misimili) taamasu (taamasu) bharamu (illusion/doubt) kadooree (kadooree) .
+bhaakhi (bhaakhi) le (taking/having taken) panchai (five vices) hoi (having become) sabooree (sabooree) . .
+hindoo (Hindu) turak (Muslim/Turk) ka (of) saahibu (Lord/Master) ek (equal and one) .
+kah (saying) karai (doing (does/by)) mulaan (mulaan) kah (saying) karai (doing (does/by)) sekh (Sheikh/Sufi elder) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) bhaia (became) divaana (divaana) .
+musi (musi) musi (musi) manooa (manooa) sahaji (in spontaneous poise) samaana (to merge/permeate) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मनु करि मका किबला करि देही—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! manukarimakaakibalaakaridehee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 90: मनु करि मका किबला करि देही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-91"></a>
+## शब्द 91: गंगा कै संगि सलिता बिगरी
+**English Title:** Shabad 91: Gangaa Kaai Sangai Salaitaa Baigaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गंगा कै संगि सलिता बिगरी ॥
+सो सलिता गंगा होइ निबरी ॥१॥
+बिगरिओ कबीरा राम दुहाई ॥
+साचु भइओ अन कतहि न जाई ॥१॥ रहाउ ॥
+चंदन कै संगि तरवरु बिगरिओ ॥
+सो तरवरु चंदनु होइ निबरिओ ॥२॥
+पारस कै संगि तांबा बिगरिओ ॥
+सो तांबा कंचनु होइ निबरिओ ॥३॥
+संतन संगि कबीरा बिगरिओ ॥
+सो कबीरु रामै होइ निबरिओ ॥४॥५॥1158॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गंगा (पवित्र गंगा नदी/शुद्ध अंतःकरण) कै (के/का) संगि (संगत में/सान्निध्य में) सलिता (सलिता (सधुक्कड़ी भाव)) बिगरी (बिगरी का आध्यात्मिक भाव) ॥
+सो (वह/वही) सलिता (सलिता (सधुक्कड़ी भाव)) गंगा (पवित्र गंगा नदी/शुद्ध अंतःकरण) होइ (होकर) निबरी (निबरी का आध्यात्मिक भाव) ॥ ॥
+बिगरिओ (बिगरिओ का आध्यात्मिक भाव) कबीरा (संत कबीर जी) राम (सर्वव्यापी परमात्मा) दुहाई (दुहाई का आध्यात्मिक भाव) ॥
+साचु (साच (सधुक्कड़ी भाव)) भइओ (हुआ) अन (अन्य/दूसरा) कतहि (कतहि का आध्यात्मिक भाव) न (नहीं) जाई (जाओ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+चंदन (सुगंधित चंदन) कै (के/का) संगि (संगत में/सान्निध्य में) तरवरु (विशाल वृक्ष) बिगरिओ (बिगरिओ का आध्यात्मिक भाव) ॥
+सो (वह/वही) तरवरु (विशाल वृक्ष) चंदनु (सुगंधित चंदन) होइ (होकर) निबरिओ (निबरिओ का आध्यात्मिक भाव) ॥ ॥
+पारस (भवसागर पार संबंधी) कै (के/का) संगि (संगत में/सान्निध्य में) तांबा (तांबा का आध्यात्मिक भाव) बिगरिओ (बिगरिओ का आध्यात्मिक भाव) ॥
+सो (वह/वही) तांबा (तांबा का आध्यात्मिक भाव) कंचनु (शुद्ध कंचन/स्वर्ण) होइ (होकर) निबरिओ (निबरिओ का आध्यात्मिक भाव) ॥ ॥
+संतन (संतन का आध्यात्मिक भाव) संगि (संगत में/सान्निध्य में) कबीरा (संत कबीर जी) बिगरिओ (बिगरिओ का आध्यात्मिक भाव) ॥
+सो (वह/वही) कबीरु (संत कबीर जी) रामै (सर्वव्यापी परमात्मा) होइ (होकर) निबरिओ (निबरिओ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ganga (Holy Ganges/pure inner spirit) kai (of) sangi (in company of) salita (salita (spiritual sense)) bigaree (bigaree) .
+so (that/the same) salita (salita (spiritual sense)) ganga (Holy Ganges/pure inner spirit) hoi (having become) nibaree (nibaree) . .
+bigario (bigario) kabeera (Sant Kabir) raam (The All-Pervading Lord (Ram)) duhaaee (duhaaee) .
+saachu (saach (spiritual sense)) bhaio (occurred/became) an (other/alien) katahi (katahi) n (not) jaaee (slip away) . . rahaau (pause for reflection, foundational theme) .
+chandan (fragrant sandalwood) kai (of) sangi (in company of) taravaru (great tree) bigario (bigario) .
+so (that/the same) taravaru (great tree) chandanu (fragrant sandalwood) hoi (having become) nibario (nibario) . .
+paaras (across shore related) kai (of) sangi (in company of) taanba (taanba) bigario (bigario) .
+so (that/the same) taanba (taanba) kanchanu (pure gold) hoi (having become) nibario (nibario) . .
+santan (santan) sangi (in company of) kabeera (Sant Kabir) bigario (bigario) .
+so (that/the same) kabeeru (Sant Kabir) raamai (The All-Pervading Lord (Ram)) hoi (having become) nibario (nibario) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गंगा कै संगि सलिता बिगरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! gangaakaisangisalitaabigaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 91: गंगा कै संगि सलिता बिगरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-92"></a>
+## शब्द 92: माथे तिलकु हथि माला बानां
+**English Title:** Shabad 92: Maathae Tailakau Hathai Maalaa Baanaan
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+माथे तिलकु हथि माला बानां ॥
+लोगन रामु खिलउना जानां ॥१॥
+जउ हउ बउरा तउ राम तोरा ॥
+लोगु मरमु कह जानै मोरा ॥१॥ रहाउ ॥
+तोरउ न पाती पूजउ न देवा ॥
+राम भगति बिनु निहफल सेवा ॥२॥
+सतिगुरु पूजउ सदा सदा मनावउ ॥
+ऐसी सेव दरगह सुखु पावउ ॥३॥
+लोगु कहै कबीरु बउराना ॥
+कबीर का मरमु राम पहिचानां ॥४॥६॥1158॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+माथे (मस्तक पर) तिलकु (मस्तक का तिलक) हथि (हथि का आध्यात्मिक भाव) माला (जपमाला/सुमिरनी) बानां (बानां का आध्यात्मिक भाव) ॥
+लोगन (लोगन का आध्यात्मिक भाव) रामु (राम नाम की संबंधी) खिलउना (खिलउना का आध्यात्मिक भाव) जानां (प्राण/जीवन (बहुवचन)) ॥ ॥
+जउ (यदि/जब) हउ (मैं/अहंभाव) बउरा (बउरा का आध्यात्मिक भाव) तउ (तब/तो भी) राम (सर्वव्यापी परमात्मा) तोरा (तेरा) ॥
+लोगु (संसार के लोग) मरमु (गूढ़ रहस्य/मर्म) कह (कहकर) जानै (प्राण/जीवन (करता है/ने)) मोरा (मयूर/मोर) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तोरउ (तोरउ का आध्यात्मिक भाव) न (नहीं) पाती (पत्ते/छिलके संबंधी) पूजउ (पूजउ का आध्यात्मिक भाव) न (नहीं) देवा (हे देवाधिदेव!) ॥
+राम (सर्वव्यापी परमात्मा) भगति (प्रेम-भक्ति) बिनु (बिना/रहित) निहफल (व्यर्थ/निष्फल) सेवा (समर्पित भक्ति) ॥ ॥
+सतिगुरु (सच्चे सद्गुरु) पूजउ (पूजउ का आध्यात्मिक भाव) सदा (सर्वदा/सदा) सदा (सर्वदा/सदा) मनावउ (मनावउ का आध्यात्मिक भाव) ॥
+ऐसी (इस विरह रूपी) सेव (सेवा/समर्पण) दरगह (दरगह का आध्यात्मिक भाव) सुखु (सच्चा सुख) पावउ (पाता हूँ) ॥ ॥
+लोगु (संसार के लोग) कहै (पुकारे) कबीरु (संत कबीर जी) बउराना (बउराना का आध्यात्मिक भाव) ॥
+कबीर (संत कबीर जी) का (का/संबंध-सूचक) मरमु (गूढ़ रहस्य/मर्म) राम (सर्वव्यापी परमात्मा) पहिचानां (पहिचानां का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+maathe (upon the brow) tilaku (sacred frontal mark) hathi (hathi) maala (rosary of beads) baanaan (baanaan) .
+logan (logan) raamu (Lord Rama's related) khilauna (khilauna) jaanaan (life/soul (plural)) . .
+jau (if/when) hau (I/ego) baura (baura) tau (then/still) raam (The All-Pervading Lord (Ram)) tora (thy/thine) .
+logu (worldly folk) maramu (inner secret/mystery) kah (saying) jaanai (life/soul (does/by)) mora (dancing peacock) . . rahaau (pause for reflection, foundational theme) .
+torau (torau) n (not) paatee (layers of leaves related) poojau (poojau) n (not) deva (O Divine Lord!) .
+raam (The All-Pervading Lord (Ram)) bhagati (loving devotion) binu (without/devoid of) nihaphal (fruitless/in vain) seva (devoted service) . .
+satiguru (True Divine Master) poojau (poojau) sada (always/eternally) sada (always/eternally) manaavau (manaavau) .
+aisee (such) sev (humble service/devotion) daragah (daragah) sukhu (true bliss) paavau (I obtain/realize) . .
+logu (worldly folk) kahai (chants) kabeeru (Sant Kabir) bauraana (bauraana) .
+kabeer (Sant Kabir) ka (of) maramu (inner secret/mystery) raam (The All-Pervading Lord (Ram)) pahichaanaan (pahichaanaan) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! माथे तिलकु हथि माला बानां—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! maathetilakuhathimaalaabaanaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 92: माथे तिलकु हथि माला बानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-93"></a>
+## शब्द 93: उलटि जाति कुल दोऊ बिसारी
+**English Title:** Shabad 93: Ulatai Jaatai Kaula Daooo Baisaaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+उलटि जाति कुल दोऊ बिसारी ॥
+सुंन सहज महि बुनत हमारी ॥१॥
+हमरा झगरा रहा न कोऊ ॥
+पंडित मुलां छाडे दोऊ ॥१॥ रहाउ ॥
+बुनि बुनि आप आपु पहिरावउ ॥
+जह नही आपु तहा होइ गावउ ॥२॥
+पंडित मुलां जो लिखि दीआ ॥
+छाडि चले हम कछू न लीआ ॥३॥
+रिदै इखलासु निरखि ले मीरा ॥
+आपु खोजि खोजि मिले कबीरा ॥४॥७॥1158॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+उलटि (उलटि (सधुक्कड़ी भाव)) जाति (जन्मना जाति/वर्ण) कुल (समस्त) दोऊ (दोनों को) बिसारी (बिसारी (सधुक्कड़ी भाव)) ॥
+सुंन (शून्य, निराकार ब्रह्म) सहज (स्वाभाविक शांति, परम संतुलन) महि (में/भीतर) बुनत (बुनत का आध्यात्मिक भाव) हमारी (मेरी) ॥ ॥
+हमरा (हमारा) झगरा (झगरा का आध्यात्मिक भाव) रहा (रहा का आध्यात्मिक भाव) न (नहीं) कोऊ (कोई भी) ॥
+पंडित (पंडित/शास्त्रज्ञ) मुलां (मुलां का आध्यात्मिक भाव) छाडे (छाडे का आध्यात्मिक भाव) दोऊ (दोनों को) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बुनि (बुनि का आध्यात्मिक भाव) बुनि (बुनि का आध्यात्मिक भाव) आप (स्वयं/परमात्मा) आपु (स्वयं) पहिरावउ (पहिरावउ का आध्यात्मिक भाव) ॥
+जह (जहाँ/जिस स्थान पर) नही (नहीं) आपु (स्वयं) तहा (वहाँ पर) होइ (होकर) गावउ (गावउ का आध्यात्मिक भाव) ॥ ॥
+पंडित (पंडित/शास्त्रज्ञ) मुलां (मुलां का आध्यात्मिक भाव) जो (जिससे) लिखि (लिखकर) दीआ (दीपक/दिया) ॥
+छाडि (छोड़कर) चले (चले/प्रस्थान करे) हम (हम सब प्राणी) कछू (कुछ) न (नहीं) लीआ (लीआ का आध्यात्मिक भाव) ॥ ॥
+रिदै (हृदय में) इखलासु (इखलासु का आध्यात्मिक भाव) निरखि (निरखि (सधुक्कड़ी भाव)) ले (लेकर) मीरा (मीरा का आध्यात्मिक भाव) ॥
+आपु (स्वयं) खोजि (खोजि का आध्यात्मिक भाव) खोजि (खोजि का आध्यात्मिक भाव) मिले (मुझे प्राप्त हो) कबीरा (संत कबीर जी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ulati (ulati (spiritual sense)) jaati (caste/social division) kul (all/entire) dooo (both) bisaaree (bisaaree (spiritual sense)) .
+sunn (the Void, formless transcendent reality) sahaj (spontaneous spiritual equilibrium, effortless bliss) mahi (within/in) bunat (bunat) hamaaree (my) . .
+hamara (our/ours) jhagara (jhagara) raha (raha) n (not) kooo (anyone) .
+pandit (learned scholar/priest) mulaan (mulaan) chhaade (chhaade) dooo (both) . . rahaau (pause for reflection, foundational theme) .
+buni (buni) buni (buni) aap (Himself/oneself) aapu (oneself) pahiraavau (pahiraavau) .
+jah (wherever) nahee (not) aapu (oneself) taha (there) hoi (having become) gaavau (gaavau) . .
+pandit (learned scholar/priest) mulaan (mulaan) jo (that) likhi (having inscribed) deea (lamp/gave) .
+chhaadi (having left) chale (departs/walks) ham (we mortal beings) kachhoo (anything) n (not) leea (leea) . .
+ridai (in the heart) ikhalaasu (ikhalaasu) nirakhi (nirakhi (spiritual sense)) le (taking/having taken) meera (meera) .
+aapu (oneself) khoji (khoji) khoji (khoji) mile (to obtain) kabeera (Sant Kabir) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! उलटि जाति कुल दोऊ बिसारी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! ulatijaatikuladooobisaaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 93: उलटि जाति कुल दोऊ बिसारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-94"></a>
+## शब्द 94: निरधन आदरु कोई न देइ
+**English Title:** Shabad 94: Nairadhana Aadarau Kaoee Na Daei
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+निरधन आदरु कोई न देइ ॥
+लाख जतन करै ओहु चिति न धरेइ ॥१॥ रहाउ ॥
+जउ निरधनु सरधन कै जाइ ॥
+आगे बैठा पीठि फिराइ ॥१॥
+जउ सरधनु निरधन कै जाइ ॥
+दीआ आदरु लीआ बुलाइ ॥२॥
+निरधनु सरधनु दोनउ भाई ॥
+प्रभ की कला न मेटी जाई ॥३॥
+कहि कबीर निरधनु है सोई ॥
+जा के हिरदै नामु न होई ॥४॥८॥1159॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+निरधन (निरधन का आध्यात्मिक भाव) आदरु (आदरु का आध्यात्मिक भाव) कोई (कोई भी जन) न (नहीं) देइ (के/पास (में/करके)) ॥
+लाख (लाखों प्रकार के) जतन (प्रयत्न) करै (करके (करता है/ने)) ओहु (वह परमात्मा/जीव) चिति (चित्त/ध्यान) न (नहीं) धरेइ (धरेइ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जउ (यदि/जब) निरधनु (निरधनु का आध्यात्मिक भाव) सरधन (सरधन का आध्यात्मिक भाव) कै (के/का) जाइ (जिसका/जब (में/करके)) ॥
+आगे (आगे का आध्यात्मिक भाव) बैठा (बैठा का आध्यात्मिक भाव) पीठि (पीठि का आध्यात्मिक भाव) फिराइ (फिराइ का आध्यात्मिक भाव) ॥ ॥
+जउ (यदि/जब) सरधनु (सरधनु का आध्यात्मिक भाव) निरधन (निरधन का आध्यात्मिक भाव) कै (के/का) जाइ (जिसका/जब (में/करके)) ॥
+दीआ (दीपक/दिया) आदरु (आदरु का आध्यात्मिक भाव) लीआ (लीआ का आध्यात्मिक भाव) बुलाइ (बुलाइ का आध्यात्मिक भाव) ॥ ॥
+निरधनु (निरधनु का आध्यात्मिक भाव) सरधनु (सरधनु का आध्यात्मिक भाव) दोनउ (दोनउ का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+प्रभ (परमेश्वर/प्रभु) की (की/संबंध-सूचक) कला (आने वाला कल/शांति) न (नहीं) मेटी (मिटा दी) जाई (जाओ) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) निरधनु (निरधनु का आध्यात्मिक भाव) है (है कि) सोई (वही) ॥
+जा (जिसका/जब) के (के/संबंध-सूचक) हिरदै (हृदय में) नामु (सत्य-नाम) न (नहीं) होई (तय हुआ) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+niradhan (niradhan) aadaru (aadaru) koee (anyone) n (not) dei (of/unto (in/having done)) .
+laakh (hundreds of thousands) jatan (efforts) karai (doing (does/by)) ohu (that Lord/soul) chiti (consciousness/attention) n (not) dharei (dharei) . . rahaau (pause for reflection, foundational theme) .
+jau (if/when) niradhanu (niradhanu) saradhan (saradhan) kai (of) jaai (whose/when (in/having done)) .
+aage (aage) baitha (baitha) peethi (peethi) phiraai (phiraai) . .
+jau (if/when) saradhanu (saradhanu) niradhan (niradhan) kai (of) jaai (whose/when (in/having done)) .
+deea (lamp/gave) aadaru (aadaru) leea (leea) bulaai (bulaai) . .
+niradhanu (niradhanu) saradhanu (saradhanu) donau (donau) bhaaee (O brother!) .
+prabh (Supreme Lord) kee (of) kala (tomorrow/rest) n (not) metee (effaced/erased) jaaee (slip away) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) niradhanu (niradhanu) hai (is) soee (the very same) .
+ja (whose/when) ke (of) hiradai (in the heart) naamu (True Name) n (not) hoee (transpired) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! निरधन आदरु कोई न देइ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! niradhanaaadarukoeenadei—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 94: निरधन आदरु कोई न देइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-95"></a>
+## शब्द 95: सो मुलां जो मन सिउ लरै
+**English Title:** Shabad 95: Sao Maulaan Jao Mana Saiu Laraai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सो मुलां जो मन सिउ लरै ॥
+गुर उपदेसि काल सिउ जुरै ॥
+काल पुरख का मरदै मानु ॥
+तिसु मुला कउ सदा सलामु ॥१॥
+है हजूरि कत दूरि बतावहु ॥
+दुंदर बाधहु सुंदर पावहु ॥१॥ रहाउ ॥
+काजी सो जु काइआ बीचारै ॥
+काइआ की अगनि ब्रहमु परजारै ॥
+सुपनै बिंदु न देई झरना ॥
+तिसु काजी कउ जरा न मरना ॥२॥
+सो सुरतानु जु दुइ सर तानै ॥
+बाहरि जाता भीतरि आनै ॥
+गगन मंडल महि लसकरु करै ॥
+सो सुरतानु छत्रु सिरि धरै ॥३॥
+जोगी गोरखु गोरखु करै ॥
+हिंदू राम नामु उचरै ॥
+मुसलमान का एकु खुदाइ ॥
+कबीर का सुआमी रहिआ समाइ ॥४॥३॥११॥1159॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सो (वह/वही) मुलां (मुलां का आध्यात्मिक भाव) जो (जिससे) मन (मन/चित्त) सिउ (से/साथ) लरै (युद्ध करता है/लड़ता है) ॥
+गुर (गुरु के) उपदेसि (उपदेस (सधुक्कड़ी भाव)) काल (काल/मृत्यु) सिउ (से/साथ) जुरै (जुरै का आध्यात्मिक भाव) ॥
+काल (काल/मृत्यु) पुरख (पुरख का आध्यात्मिक भाव) का (का/संबंध-सूचक) मरदै (मरदै का आध्यात्मिक भाव) मानु (मानु का आध्यात्मिक भाव) ॥
+तिसु (उसको) मुला (मुला का आध्यात्मिक भाव) कउ (को) सदा (सर्वदा/सदा) सलामु (सलामु का आध्यात्मिक भाव) ॥ ॥
+है (है कि) हजूरि (हजूर (सधुक्कड़ी भाव)) कत (कहाँ/क्यों) दूरि (दूर/फासले पर) बतावहु (बतावहु का आध्यात्मिक भाव) ॥
+दुंदर (दुंदर का आध्यात्मिक भाव) बाधहु (बाधहु का आध्यात्मिक भाव) सुंदर (मनोहर/सुंदर) पावहु (पावहु का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+काजी (न्यायाधीश, धर्मगुरु) सो (वह/वही) जु (जो/जो कोई) काइआ (काइआ का आध्यात्मिक भाव) बीचारै (बीचारै का आध्यात्मिक भाव) ॥
+काइआ (काइआ का आध्यात्मिक भाव) की (की/संबंध-सूचक) अगनि (अगनि का आध्यात्मिक भाव) ब्रहमु (ब्रहमु का आध्यात्मिक भाव) परजारै (परजारै का आध्यात्मिक भाव) ॥
+सुपनै (सुपनै का आध्यात्मिक भाव) बिंदु (बिंदु का आध्यात्मिक भाव) न (नहीं) देई (देई का आध्यात्मिक भाव) झरना (झरना का आध्यात्मिक भाव) ॥
+तिसु (उसको) काजी (न्यायाधीश, धर्मगुरु) कउ (को) जरा (जरा का आध्यात्मिक भाव) न (नहीं) मरना (मरण का प्रपंच) ॥ ॥
+सो (वह/वही) सुरतानु (सुरतानु का आध्यात्मिक भाव) जु (जो/जो कोई) दुइ (दो (द्वैत)) सर (सिर/सरोवर) तानै (तानै का आध्यात्मिक भाव) ॥
+बाहरि (प्रभु संबंधी) जाता (जाती नहीं/दूर नहीं होती संबंधी) भीतरि (भीतर/हृदय में) आनै (आकर) ॥
+गगन (ब्रह्मरंध्र, आंतरिक आकाश) मंडल (मंडल (सधुक्कड़ी भाव)) महि (में/भीतर) लसकरु (लसकरु का आध्यात्मिक भाव) करै (करके (करता है/ने)) ॥
+सो (वह/वही) सुरतानु (सुरतानु का आध्यात्मिक भाव) छत्रु (राज-छत्र/मुकुट) सिरि (शीश संबंधी) धरै (रखकर (करता है/ने)) ॥ ॥
+जोगी (योगी) गोरखु (गोरखु का आध्यात्मिक भाव) गोरखु (गोरखु का आध्यात्मिक भाव) करै (करके (करता है/ने)) ॥
+हिंदू (हिंदू जन) राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) उचरै (उचरै का आध्यात्मिक भाव) ॥
+मुसलमान (समर्पित साधक/मुसलमान) का (का/संबंध-सूचक) एकु (एक ही अद्वैत ब्रह्म) खुदाइ (खुदाइ का आध्यात्मिक भाव) ॥
+कबीर (संत कबीर जी) का (का/संबंध-सूचक) सुआमी (स्वामी/परमात्मा) रहिआ (रहिआ का आध्यात्मिक भाव) समाइ (समाकर/लीन होकर) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+so (that/the same) mulaan (mulaan) jo (that) man (mind/inner consciousness) siu (with/from) larai (fights/battles the ego) .
+gur (of the Master) upadesi (upades (spiritual sense)) kaal (death/time) siu (with/from) jurai (jurai) .
+kaal (death/time) purakh (purakh) ka (of) maradai (maradai) maanu (maanu) .
+tisu (unto that one) mula (mula) kau (unto) sada (always/eternally) salaamu (salaamu) . .
+hai (is) hajoori (hajoor (spiritual sense)) kat (where/why) doori (far/distant) bataavahu (bataavahu) .
+dundar (dundar) baadhahu (baadhahu) sundar (beautiful/wondrous) paavahu (paavahu) . . rahaau (pause for reflection, foundational theme) .
+kaajee (Qazi, Islamic theologian) so (that/the same) ju (who/whoever) kaaia (kaaia) beechaarai (beechaarai) .
+kaaia (kaaia) kee (of) agani (agani) brahamu (brahamu) parajaarai (parajaarai) .
+supanai (supanai) bindu (bindu) n (not) deee (deee) jharana (jharana) .
+tisu (unto that one) kaajee (Qazi, Islamic theologian) kau (unto) jara (jara) n (not) marana (death) . .
+so (that/the same) surataanu (surataanu) ju (who/whoever) dui (two/duality) sar (head/lake) taanai (taanai) .
+baahari (the Lord related) jaata (departs/is erased related) bheetari (within the heart) aanai (coming) .
+gagan (crown chakra, the inner celestial sky) mandal (mandal (spiritual sense)) mahi (within/in) lasakaru (lasakaru) karai (doing (does/by)) .
+so (that/the same) surataanu (surataanu) chhatru (royal canopy/crown) siri (head related) dharai (placing (does/by)) . .
+jogee (yogi) gorakhu (gorakhu) gorakhu (gorakhu) karai (doing (does/by)) .
+hindoo (Hindu) raam (The All-Pervading Lord (Ram)) naamu (True Name) ucharai (ucharai) .
+musalamaan (true surrendered soul) ka (of) eku (The One Supreme Lord) khudaai (khudaai) .
+kabeer (Sant Kabir) ka (of) suaamee (Lord/Master) rahia (rahia) samaai (absorbed/merged) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सो मुलां जो मन सिउ लरै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! somulaanjomanasiularai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 95: सो मुलां जो मन सिउ लरै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-96"></a>
+## शब्द 96: जब लगु मेरी मेरी करै
+**English Title:** Shabad 96: Jaba Lagau Maeraee Maeraee Karaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जब लगु मेरी मेरी करै ॥
+तब लगु काजु एकु नही सरै ॥
+जब मेरी मेरी मिटि जाइ ॥
+तब प्रभ काजु सवारहि आइ ॥१॥
+ऐसा गिआनु बिचारु मना ॥
+हरि की न सिमरहु दुख भंजना ॥१॥ रहाउ ॥
+जब लगु सिंघु रहै बन माहि ॥
+तब लगु बनु फूलै ही नाहि ॥
+जब ही सिआरु सिंघ कउ खाइ ॥
+फूलि रही सगली बनराइ ॥२॥
+जीतो बूडै हारो तिरै ॥
+गुर परसादी पारि उतरै ॥
+दासु कबीरु कहै समझाइ ॥
+केवल राम रहहु लिव लाइ ॥३॥६॥१४॥1160॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जब (जिस समय/जब) लगु (लगो/समीप आओ) मेरी (मेरी जीवन-) मेरी (मेरी जीवन-) करै (करके (करता है/ने)) ॥
+तब (उस समय/तब) लगु (लगो/समीप आओ) काजु (कार्य/प्रयोजन) एकु (एक ही अद्वैत ब्रह्म) नही (नहीं) सरै (सिर/सरोवर (करता है/ने)) ॥
+जब (जिस समय/जब) मेरी (मेरी जीवन-) मेरी (मेरी जीवन-) मिटि (मिटि का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) ॥
+तब (उस समय/तब) प्रभ (परमेश्वर/प्रभु) काजु (कार्य/प्रयोजन) सवारहि (सवारहि का आध्यात्मिक भाव) आइ (आई) ॥ ॥
+ऐसा (ऐसा/इस प्रकार का) गिआनु (दिव्य ज्ञान) बिचारु (विचार/मंथन) मना (हे मन, अंतःकरण) ॥
+हरि (दुख-हर्ता परमात्मा) की (की/संबंध-सूचक) न (नहीं) सिमरहु (सिमरहु का आध्यात्मिक भाव) दुख (कष्ट/संताप) भंजना (भंजना का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) सिंघु (सिंघु का आध्यात्मिक भाव) रहै (रहे/सदा रहे) बन (वन/जंगल) माहि (में/अंदर) ॥
+तब (उस समय/तब) लगु (लगो/समीप आओ) बनु (वन/जंगल) फूलै (फूलों का) ही (केवल/मात्र) नाहि (नहीं) ॥
+जब (जिस समय/जब) ही (केवल/मात्र) सिआरु (सिआरु का आध्यात्मिक भाव) सिंघ (सिंघ का आध्यात्मिक भाव) कउ (को) खाइ (खाओ/भोग करो (में/करके)) ॥
+फूलि (फूलों का (में/करके)) रही (हो रही हूँ) सगली (सम्पूर्ण/समस्त) बनराइ (वनस्पति/जंगल) ॥ ॥
+जीतो (जीतो का आध्यात्मिक भाव) बूडै (बूडै का आध्यात्मिक भाव) हारो (पराजय/माला) तिरै (तिरै (सधुक्कड़ी भाव)) ॥
+गुर (गुरु के) परसादी (परसाद (सधुक्कड़ी भाव)) पारि (भवसागर से पार, मुक्ति) उतरै (उतरै का आध्यात्मिक भाव) ॥
+दासु (अनन्य सेवक/भक्त) कबीरु (संत कबीर जी) कहै (पुकारे) समझाइ (अज्ञान में संबंधी) ॥
+केवल (एकमात्र/विशुद्ध) राम (सर्वव्यापी परमात्मा) रहहु (रहहु का आध्यात्मिक भाव) लिव (एकतार ध्यान/सुरति) लाइ (लगाकर (में/करके)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jab (at the time when) lagu (cling to/attach) meree (my life's) meree (my life's) karai (doing (does/by)) .
+tab (at that time/then) lagu (cling to/attach) kaaju (work/purpose) eku (The One Supreme Lord) nahee (not) sarai (head/lake (does/by)) .
+jab (at the time when) meree (my life's) meree (my life's) miti (miti) jaai (whose/when (in/having done)) .
+tab (at that time/then) prabh (Supreme Lord) kaaju (work/purpose) savaarahi (savaarahi) aai (arrived/came) . .
+aisa (such/like this) giaanu (divine wisdom) bichaaru (contemplation/thought) mana (O inner mind, O seeker within) .
+hari (The Lord who dispels grief (Hari)) kee (of) n (not) simarahu (simarahu) dukh (pain/suffering) bhanjana (bhanjana) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) lagu (cling to/attach) singhu (singhu) rahai (may abide/remain) ban (forest) maahi (within) .
+tab (at that time/then) lagu (cling to/attach) banu (forest) phoolai (blossoms') hee (alone/only) naahi (not) .
+jab (at the time when) hee (alone/only) siaaru (siaaru) singh (singh) kau (unto) khaai (eat/consume (in/having done)) .
+phooli (blossoms' (in/having done)) rahee (remain) sagalee (entire/whole) banaraai (forest flora) . .
+jeeto (jeeto) boodai (boodai) haaro (defeat/garland) tirai (tirai (spiritual sense)) .
+gur (of the Master) parasaadee (parasaad (spiritual sense)) paari (across the ocean of rebirth, ultimate liberation) utarai (utarai) .
+daasu (devoted servant) kabeeru (Sant Kabir) kahai (chants) samajhaai (foolishly related) .
+keval (solely/pure) raam (The All-Pervading Lord (Ram)) rahahu (rahahu) liv (unbroken divine absorption) laai (applying/placing (in/having done)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जब लगु मेरी मेरी करै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jabalagumereemereekarai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 96: जब लगु मेरी मेरी करै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-97"></a>
+## शब्द 97: सभु कोई चलन कहत है ऊहां
+**English Title:** Shabad 97: Sabhau Kaoee Chalana Kahata Haai Oohaan
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सभु कोई चलन कहत है ऊहां ॥
+ना जानउ बैकुंठु है कहां ॥१॥ रहाउ ॥
+आप आप का मरमु न जानां ॥
+बातन ही बैकुंठु बखानां ॥१॥
+जब लगु मन बैकुंठ की आस ॥
+तब लगु नाही चरन निवास ॥२॥
+खाई कोटु न परल पगारा ॥
+ना जानउ बैकुंठ दुआरा ॥३॥
+कहि कमीर अब कहीऐ काहि ॥
+साधसंगति बैकुंठै आहि ॥४॥८॥१६॥1161॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सभु (सब कुछ/सम्पूर्ण) कोई (कोई भी जन) चलन (चलन का आध्यात्मिक भाव) कहत (कहते हुए) है (है कि) ऊहां (वहाँ/बेगमपुरा में) ॥
+ना (नहीं) जानउ (प्राण/जीवन) बैकुंठु (बैकुंठ (सधुक्कड़ी भाव)) है (है कि) कहां (कहकर) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आप (स्वयं/परमात्मा) आप (स्वयं/परमात्मा) का (का/संबंध-सूचक) मरमु (गूढ़ रहस्य/मर्म) न (नहीं) जानां (प्राण/जीवन (बहुवचन)) ॥
+बातन (बातन का आध्यात्मिक भाव) ही (केवल/मात्र) बैकुंठु (बैकुंठ (सधुक्कड़ी भाव)) बखानां (बखानां का आध्यात्मिक भाव) ॥ ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) मन (मन/चित्त) बैकुंठ (बैकुंठ (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) आस (आशा) ॥
+तब (उस समय/तब) लगु (लगो/समीप आओ) नाही (नहीं) चरन (कमल-चरण) निवास (बिना/निवास) ॥ ॥
+खाई (खाई/खड्डा) कोटु (कोटु का आध्यात्मिक भाव) न (नहीं) परल (परल का आध्यात्मिक भाव) पगारा (पगारा का आध्यात्मिक भाव) ॥
+ना (नहीं) जानउ (प्राण/जीवन) बैकुंठ (बैकुंठ (सधुक्कड़ी भाव)) दुआरा (दुआरा का आध्यात्मिक भाव) ॥ ॥
+कहि (से (को/में)) कमीर (कमीर का आध्यात्मिक भाव) अब (अब/इस समय) कहीऐ (कहिए) काहि (का/संबंध-सूचक (को/में)) ॥
+साधसंगति (सत्संगति संबंधी) बैकुंठै (बैकुंठ (सधुक्कड़ी भाव)) आहि (आओ (को/में)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sabhu (everything/all) koee (anyone) chalan (chalan) kahat (speaking/saying) hai (is) oohaan (there/in Begampura) .
+na (not) jaanau (life/soul) baikunthu (baikunth (spiritual sense)) hai (is) kahaan (saying) . . rahaau (pause for reflection, foundational theme) .
+aap (Himself/oneself) aap (Himself/oneself) ka (of) maramu (inner secret/mystery) n (not) jaanaan (life/soul (plural)) .
+baatan (baatan) hee (alone/only) baikunthu (baikunth (spiritual sense)) bakhaanaan (bakhaanaan) . .
+jab (at the time when) lagu (cling to/attach) man (mind/inner consciousness) baikunth (baikunth (spiritual sense)) kee (of) aas (hope) .
+tab (at that time/then) lagu (cling to/attach) naahee (not) charan (lotus feet) nivaas (without dwelling) . .
+khaaee (trench/consumed) kotu (kotu) n (not) paral (paral) pagaara (pagaara) .
+na (not) jaanau (life/soul) baikunth (baikunth (spiritual sense)) duaara (duaara) . .
+kahi (from (unto/in)) kameer (kameer) ab (now) kaheeai (one should speak) kaahi (of (unto/in)) .
+saadhasangati (holy communion related) baikunthai (baikunth (spiritual sense)) aahi (come (unto/in)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सभु कोई चलन कहत है ऊहां—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sabhukoeechalanakahatahaioohaan—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 97: सभु कोई चलन कहत है ऊहां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-98"></a>
+## शब्द 98: गंग गुसाइनि गहिर ग्मभीर
+**English Title:** Shabad 98: Ganga Gausaainai Gahaira Gamabhaeera
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गंग गुसाइनि गहिर ग्मभीर ॥
+जंजीर बांधि करि खरे कबीर ॥१॥
+मनु न डिगै तनु काहे कउ डराइ ॥
+चरन कमल चितु रहिओ समाइ ॥ रहाउ ॥
+गंगा की लहरि मेरी टुटी जंजीर ॥
+म्रिगछाला पर बैठे कबीर ॥२॥
+कहि क्मबीर कोऊ संग न साथ ॥
+जल थल राखन है रघुनाथ ॥३॥१०॥१८॥1162॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गंग (गंग (सधुक्कड़ी भाव)) गुसाइनि (गुसाइनि का आध्यात्मिक भाव) गहिर (गहिर का आध्यात्मिक भाव) ग्मभीर (ग्मभीर का आध्यात्मिक भाव) ॥
+जंजीर (बंधन, कर्म-पाश) बांधि (बांधि का आध्यात्मिक भाव) करि (करके/हाथ से) खरे (खरे का आध्यात्मिक भाव) कबीर (संत कबीर जी) ॥ ॥
+मनु (मन/अंतःकरण) न (नहीं) डिगै (डिगै का आध्यात्मिक भाव) तनु (नश्वर शरीर/देह) काहे (किसलिए/क्यों) कउ (को) डराइ (डराइ का आध्यात्मिक भाव) ॥
+चरन (कमल-चरण) कमल (पद्म/कमल पुष्प) चितु (चित्त/मन) रहिओ (रहिओ का आध्यात्मिक भाव) समाइ (समाकर/लीन होकर) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+गंगा (पवित्र गंगा नदी/शुद्ध अंतःकरण) की (की/संबंध-सूचक) लहरि (प्रभु संबंधी) मेरी (मेरी जीवन-) टुटी (टुटी का आध्यात्मिक भाव) जंजीर (बंधन, कर्म-पाश) ॥
+म्रिगछाला (म्रिगछाला का आध्यात्मिक भाव) पर (किन्तु/परन्तु) बैठे (बैठे हुए) कबीर (संत कबीर जी) ॥ ॥
+कहि (से (को/में)) क्मबीर (क्मबीर का आध्यात्मिक भाव) कोऊ (कोई भी) संग (संग/साथ) न (नहीं) साथ (संग) ॥
+जल (पानी) थल (थल (सधुक्कड़ी भाव)) राखन (राखन का आध्यात्मिक भाव) है (है कि) रघुनाथ (रघुनाथ/प्रभु) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+gang (gang (spiritual sense)) gusaaini (gusaaini) gahir (gahir) gmabheer (gmabheer) .
+janjeer (chains of karmic bondage) baandhi (baandhi) kari (having done/with hands) khare (khare) kabeer (Sant Kabir) . .
+manu (mind/inner spirit) n (not) digai (digai) tanu (mortal body) kaahe (wherefore/why) kau (unto) daraai (daraai) .
+charan (lotus feet) kamal (lotus flower) chitu (inner mind) rahio (rahio) samaai (absorbed/merged) . rahaau (pause for reflection, foundational theme) .
+ganga (Holy Ganges/pure inner spirit) kee (of) lahari (the Lord related) meree (my life's) tutee (tutee) janjeer (chains of karmic bondage) .
+mrigachhaala (mrigachhaala) par (but/upon) baithe (seated pl.) kabeer (Sant Kabir) . .
+kahi (from (unto/in)) kmabeer (kmabeer) kooo (anyone) sang (with/in company) n (not) saath (company) .
+jal (water) thal (thal (spiritual sense)) raakhan (raakhan) hai (is) raghunaath (Lord Raghunatha) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गंग गुसाइनि गहिर ग्मभीर—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! gangagusaainigahiragmabheera—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 98: गंग गुसाइनि गहिर ग्मभीर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-99"></a>
+## शब्द 99: मउली धरती मउलिआ अकासु
+**English Title:** Shabad 99: Maulaee Dharataee Maulaiaa Akaasau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+मउली धरती मउलिआ अकासु ॥
+घटि घटि मउलिआ आतम प्रगासु ॥१॥
+राजा रामु मउलिआ अनत भाइ ॥
+जह देखउ तह रहिआ समाइ ॥१॥ रहाउ ॥
+दुतीआ मउले चारि बेद ॥
+सिम्रिति मउली सिउ कतेब ॥२॥
+संकरु मउलिओ जोग धिआन ॥
+कबीर को सुआमी सभ समान ॥३॥१॥1193॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+मउली (मउली का आध्यात्मिक भाव) धरती (धरती (सधुक्कड़ी भाव)) मउलिआ (मउलिआ का आध्यात्मिक भाव) अकासु (गगन/आकाश) ॥
+घटि (घट में/हृदय के भीतर) घटि (घट में/हृदय के भीतर) मउलिआ (मउलिआ का आध्यात्मिक भाव) आतम (अंतरात्मा, आत्म-स्वरूप) प्रगासु (परम प्रकाश) ॥ ॥
+राजा (आदर्श शासन/राज संबंधी) रामु (राम नाम की संबंधी) मउलिआ (मउलिआ का आध्यात्मिक भाव) अनत (अनत (सधुक्कड़ी भाव)) भाइ (भाइ का आध्यात्मिक भाव) ॥
+जह (जहाँ/जिस स्थान पर) देखउ (देखकर) तह (वहाँ) रहिआ (रहिआ का आध्यात्मिक भाव) समाइ (समाकर/लीन होकर) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दुतीआ (दुतीआ का आध्यात्मिक भाव) मउले (मउले का आध्यात्मिक भाव) चारि (चारों संबंधी) बेद (वेदों) ॥
+सिम्रिति (स्मृति शास्त्र) मउली (मउली का आध्यात्मिक भाव) सिउ (से/साथ) कतेब (पवित्र आसमानी धर्मग्रंथ) ॥ ॥
+संकरु (संकरु का आध्यात्मिक भाव) मउलिओ (मउलिओ का आध्यात्मिक भाव) जोग (योग/साधना) धिआन (धिआन का आध्यात्मिक भाव) ॥
+कबीर (संत कबीर जी) को (को/की ओर) सुआमी (स्वामी/परमात्मा) सभ (सब) समान (समान का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+maulee (maulee) dharatee (dharatee (spiritual sense)) maulia (maulia) akaasu (celestial firmament) .
+ghati (within the heart) ghati (within the heart) maulia (maulia) aatam (inner soul, divine self) pragaasu (supreme light) . .
+raaja (realm/kingdom related) raamu (Lord Rama's related) maulia (maulia) anat (anat (spiritual sense)) bhaai (bhaai) .
+jah (wherever) dekhau (beholding) tah (there) rahia (rahia) samaai (absorbed/merged) . . rahaau (pause for reflection, foundational theme) .
+duteea (duteea) maule (maule) chaari (four related) bed (Vedas) .
+simriti (Smriti scriptures) maulee (maulee) siu (with/from) kateb (holy scriptures) . .
+sankaru (sankaru) maulio (maulio) jog (spiritual yoga/union) dhiaan (dhiaan) .
+kabeer (Sant Kabir) ko (unto/toward) suaamee (Lord/Master) sabh (all) samaan (samaan) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! मउली धरती मउलिआ अकासु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! mauleedharateemauliaaakaasu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 99: मउली धरती मउलिआ अकासु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-100"></a>
+## शब्द 100: पंडित जन माते पड़्हि पुरान
+**English Title:** Shabad 100: Pandaita Jana Maatae Paड़hai Pauraana
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+पंडित जन माते पड़्हि पुरान ॥
+जोगी माते जोग धिआन ॥
+संनिआसी माते अहमेव ॥
+तपसी माते तप कै भेव ॥१॥
+सभ मद माते कोऊ न जाग ॥
+संग ही चोर घरु मुसन लाग ॥१॥ रहाउ ॥
+जागै सुकदेउ अरु अकूरु ॥
+हणवंतु जागै धरि लंकूरु ॥
+संकरु जागै चरन सेव ॥
+कलि जागे नामा जैदेव ॥२॥
+जागत सोवत बहु प्रकार ॥
+गुरमुखि जागै सोई सारु ॥
+इसु देही के अधिक काम ॥
+कहि कबीर भजि राम नाम ॥३॥२॥1193॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+पंडित (पंडित/शास्त्रज्ञ) जन (भक्त/सेवक) माते (माते का आध्यात्मिक भाव) पड़्हि (पड़्हि का आध्यात्मिक भाव) पुरान (अमर नगर/धाम (लोग/समूह)) ॥
+जोगी (योगी) माते (माते का आध्यात्मिक भाव) जोग (योग/साधना) धिआन (धिआन का आध्यात्मिक भाव) ॥
+संनिआसी (सन्यासी/त्यागी) माते (माते का आध्यात्मिक भाव) अहमेव (अहंकार, गर्व) ॥
+तपसी (तपसी का आध्यात्मिक भाव) माते (माते का आध्यात्मिक भाव) तप (तपस्या/साधना) कै (के/का) भेव (भेव का आध्यात्मिक भाव) ॥ ॥
+सभ (सब) मद (मदिरा) माते (माते का आध्यात्मिक भाव) कोऊ (कोई भी) न (नहीं) जाग (जागकर) ॥
+संग (संग/साथ) ही (केवल/मात्र) चोर (चोर का आध्यात्मिक भाव) घरु (आशियाना) मुसन (मुसन का आध्यात्मिक भाव) लाग (प्रेम-संबंध/लगन) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जागै (जागकर) सुकदेउ (सुकदेउ का आध्यात्मिक भाव) अरु (और) अकूरु (अकूरु का आध्यात्मिक भाव) ॥
+हणवंतु (हणवंतु का आध्यात्मिक भाव) जागै (जागकर) धरि (धरकर/धारण करके) लंकूरु (लंकूरु का आध्यात्मिक भाव) ॥
+संकरु (संकरु का आध्यात्मिक भाव) जागै (जागकर) चरन (कमल-चरण) सेव (सेवा/समर्पण) ॥
+कलि (कलियुग का काल) जागे (जागकर) नामा (परम पावन नाम संबंधी) जैदेव (जैदेव का आध्यात्मिक भाव) ॥ ॥
+जागत (जागत का आध्यात्मिक भाव) सोवत (सोवत का आध्यात्मिक भाव) बहु (अनेक) प्रकार (प्रकार (सधुक्कड़ी भाव)) ॥
+गुरमुखि (गुरमुखि का आध्यात्मिक भाव) जागै (जागकर) सोई (वही) सारु (तत्व, अमृत) ॥
+इसु (इस संसारी) देही (काया/शरीर) के (के/संबंध-सूचक) अधिक (अधिक (सधुक्कड़ी भाव)) काम (कामना/वासना) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) भजि (भजि का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+pandit (learned scholar/priest) jan (devotee/humble servant) maate (maate) padhi (padhi) puraan (eternal city/realm (folk/plural)) .
+jogee (yogi) maate (maate) jog (spiritual yoga/union) dhiaan (dhiaan) .
+sanniaasee (renunciant ascetic) maate (maate) ahamev (egotism, false pride) .
+tapasee (tapasee) maate (maate) tap (austerity/penance) kai (of) bhev (bhev) . .
+sabh (all) mad (wine) maate (maate) kooo (anyone) n (not) jaag (awakened) .
+sang (with/in company) hee (alone/only) chor (chor) gharu (home/refuge) musan (musan) laag (spark of love/attachment) . . rahaau (pause for reflection, foundational theme) .
+jaagai (awakened) sukadeu (sukadeu) aru (and) akooru (akooru) .
+hanavantu (hanavantu) jaagai (awakened) dhari (having held/placed) lankooru (lankooru) .
+sankaru (sankaru) jaagai (awakened) charan (lotus feet) sev (humble service/devotion) .
+kali (Kali Yuga/Iron Age) jaage (awakened) naama (Divine Name related) jaidev (jaidev) . .
+jaagat (jaagat) sovat (sovat) bahu (many) prakaar (prakaar (spiritual sense)) .
+guramukhi (guramukhi) jaagai (awakened) soee (the very same) saaru (essence, supreme truth) .
+isu (this) dehee (mortal body/frame) ke (of) adhik (adhik (spiritual sense)) kaam (lust/desire) .
+kahi (from (unto/in)) kabeer (Sant Kabir) bhaji (bhaji) raam (The All-Pervading Lord (Ram)) naam (Divine Name) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! पंडित जन माते पड़्हि पुरान—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! panditajanamaatepadhipuraana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 100: पंडित जन माते पड़्हि पुरान'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-101"></a>
+## शब्द 101: प्रहलाद पठाए पड़न साल
+**English Title:** Shabad 101: Parahalaada Pathaae Paड़na Saala
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+प्रहलाद पठाए पड़न साल ॥
+संगि सखा बहु लीए बाल ॥
+मो कउ कहा पड़्हावसि आल जाल ॥
+मेरी पटीआ लिखि देहु स्री गोपाल ॥१॥
+नही छोडउ रे बाबा राम नाम ॥
+मेरो अउर पड़्हन सिउ नही कामु ॥१॥ रहाउ ॥
+संडै मरकै कहिओ जाइ ॥
+प्रहलाद बुलाए बेगि धाइ ॥
+तू राम कहन की छोडु बानि ॥
+तुझु तुरतु छडाऊ मेरो कहिओ मानि ॥२॥
+मो कउ कहा सतावहु बार बार ॥
+प्रभि जल थल गिरि कीए पहार ॥
+इकु रामु न छोडउ गुरहि गारि ॥
+मो कउ घालि जारि भावै मारि डारि ॥३॥
+काढि खड़गु कोपिओ रिसाइ ॥
+तुझ राखनहारो मोहि बताइ ॥
+प्रभ थ्मभ ते निकसे कै बिसथार ॥
+हरनाखसु छेदिओ नख बिदार ॥४॥
+ओइ परम पुरख देवाधि देव ॥
+भगति हेति नरसिंघ भेव ॥
+कहि कबीर को लखै न पार ॥
+प्रहलाद उधारे अनिक बार ॥५॥४॥1194॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+प्रहलाद (प्रहलाद (सधुक्कड़ी भाव)) पठाए (पठाए का आध्यात्मिक भाव) पड़न (पड़न का आध्यात्मिक भाव) साल (वर्ष/शूल) ॥
+संगि (संगत में/सान्निध्य में) सखा (सखा (सधुक्कड़ी भाव)) बहु (अनेक) लीए (लीए का आध्यात्मिक भाव) बाल (जलाकर/प्रज्वलित कर) ॥
+मो (मुझे/मुझको) कउ (को) कहा (क्या/कहाँ) पड़्हावसि (पड़्हावसि का आध्यात्मिक भाव) आल (वंश) जाल (फंदा/जाल) ॥
+मेरी (मेरी जीवन-) पटीआ (पटीआ का आध्यात्मिक भाव) लिखि (लिखकर) देहु (के/पास (से/द्वारा)) स्री (स्री का आध्यात्मिक भाव) गोपाल (गोपाल (सधुक्कड़ी भाव)) ॥ ॥
+नही (नहीं) छोडउ (छोडउ का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) बाबा (बाबा का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) ॥
+मेरो (मेरा/मुझ दीन का) अउर (अन्य/दूसरा) पड़्हन (पड़्हन का आध्यात्मिक भाव) सिउ (से/साथ) नही (नहीं) कामु (काम-वासना/कर्म संबंधी) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+संडै (संडै का आध्यात्मिक भाव) मरकै (मरकै का आध्यात्मिक भाव) कहिओ (से (को/में) संबंधी) जाइ (जिसका/जब (में/करके)) ॥
+प्रहलाद (प्रहलाद (सधुक्कड़ी भाव)) बुलाए (बुलाए का आध्यात्मिक भाव) बेगि (शीघ्र/तुरंत) धाइ (धाइ का आध्यात्मिक भाव) ॥
+तू (तू/परमात्मा) राम (सर्वव्यापी परमात्मा) कहन (कहन का आध्यात्मिक भाव) की (की/संबंध-सूचक) छोडु (छोडु का आध्यात्मिक भाव) बानि (आदत/स्वभाव) ॥
+तुझु (तुझे) तुरतु (तुरतु का आध्यात्मिक भाव) छडाऊ (छडाऊ का आध्यात्मिक भाव) मेरो (मेरा/मुझ दीन का) कहिओ (से (को/में) संबंधी) मानि (मानि का आध्यात्मिक भाव) ॥ ॥
+मो (मुझे/मुझको) कउ (को) कहा (क्या/कहाँ) सतावहु (सतावहु का आध्यात्मिक भाव) बार (द्वार) बार (द्वार) ॥
+प्रभि (परमेश्वर/प्रभु) जल (पानी) थल (थल (सधुक्कड़ी भाव)) गिरि (गिरि (सधुक्कड़ी भाव)) कीए (किए/बनाए) पहार (पहार का आध्यात्मिक भाव) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+prahalaad (prahalaad (spiritual sense)) pathaae (pathaae) padan (padan) saal (year/thorn) .
+sangi (in company of) sakha (sakha (spiritual sense)) bahu (many) leee (leee) baal (igniting/burning) .
+mo (unto me) kau (unto) kaha (what/where) padhaavasi (padhaavasi) aal (family) jaal (snares/traps) .
+meree (my life's) pateea (pateea) likhi (having inscribed) dehu (of/unto (from/by)) sree (sree) gopaal (gopaal (spiritual sense)) . .
+nahee (not) chhodau (chhodau) re (Re (Divine Will)) baaba (baaba) raam (The All-Pervading Lord (Ram)) naam (Divine Name) .
+mero (my/mine) aur (other/another) padhan (padhan) siu (with/from) nahee (not) kaamu (carnal desire/work related) . . rahaau (pause for reflection, foundational theme) .
+sandai (sandai) marakai (marakai) kahio (from (unto/in) related) jaai (whose/when (in/having done)) .
+prahalaad (prahalaad (spiritual sense)) bulaae (bulaae) begi (swiftly/promptly) dhaai (dhaai) .
+too (Thou) raam (The All-Pervading Lord (Ram)) kahan (kahan) kee (of) chhodu (chhodu) baani (nature/disposition) .
+tujhu (thee) turatu (turatu) chhadaaoo (chhadaaoo) mero (my/mine) kahio (from (unto/in) related) maani (maani) . .
+mo (unto me) kau (unto) kaha (what/where) sataavahu (sataavahu) baar (door) baar (door) .
+prabhi (Supreme Lord) jal (water) thal (thal (spiritual sense)) giri (giri (spiritual sense)) keee (done/fashioned) pahaar (pahaar) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! प्रहलाद पठाए पड़न साल—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! prahalaadapathaaepadanasaala—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 101: प्रहलाद पठाए पड़न साल'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-102"></a>
+## शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे
+**English Title:** Shabad 102: Maataa Jaoothaee Paitaa Bhaee Jaoothaa Jaoothae Haee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+माता जूठी पिता भी जूठा जूठे ही फल लागे ॥
+आवहि जूठे जाहि भी जूठे जूठे मरहि अभागे ॥१॥
+कहु पंडित सूचा कवनु ठाउ ॥
+जहां बैसि हउ भोजनु खाउ ॥१॥ रहाउ ॥
+जिहबा जूठी बोलत जूठा करन नेत्र सभि जूठे ॥
+इंद्री की जूठि उतरसि नाही ब्रहम अगनि के लूठे ॥२॥
+अगनि भी जूठी पानी जूठा जूठी बैसि पकाइआ ॥
+जूठी करछी परोसन लागा जूठे ही बैठि खाइआ ॥३॥
+गोबरु जूठा चउका जूठा जूठी दीनी कारा ॥
+कहि कबीर तेई नर सूचे साची परी बिचारा ॥४॥१॥७॥1195॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+माता (जननी/माता) जूठी (जूठी का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) भी (इसके अतिरिक्त/भी) जूठा (जूठा (सधुक्कड़ी भाव)) जूठे (जूठे का आध्यात्मिक भाव) ही (केवल/मात्र) फल (परिणाम, आत्मिक सिद्धि) लागे (लगती है) ॥
+आवहि (आते हैं) जूठे (जूठे का आध्यात्मिक भाव) जाहि (जिसका/जब (को/में)) भी (इसके अतिरिक्त/भी) जूठे (जूठे का आध्यात्मिक भाव) जूठे (जूठे का आध्यात्मिक भाव) मरहि (मरहि का आध्यात्मिक भाव) अभागे (किस्मत संबंधी) ॥ ॥
+कहु (बताओ) पंडित (पंडित/शास्त्रज्ञ) सूचा (सूचा का आध्यात्मिक भाव) कवनु (कौन/कैसा) ठाउ (स्थान/ठौर) ॥
+जहां (जहाँ/जिस स्थान पर) बैसि (आयु/अवस्था) हउ (मैं/अहंभाव) भोजनु (भोजन/आहार) खाउ (खाउ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जिहबा (जिहबा का आध्यात्मिक भाव) जूठी (जूठी का आध्यात्मिक भाव) बोलत (बोलत का आध्यात्मिक भाव) जूठा (जूठा (सधुक्कड़ी भाव)) करन (करन का आध्यात्मिक भाव) नेत्र (नेत्र का आध्यात्मिक भाव) सभि (सब) जूठे (जूठे का आध्यात्मिक भाव) ॥
+इंद्री (इंद्रियां/विषय-वासना) की (की/संबंध-सूचक) जूठि (जूठि का आध्यात्मिक भाव) उतरसि (उतरसि का आध्यात्मिक भाव) नाही (नहीं) ब्रहम (ब्रहम का आध्यात्मिक भाव) अगनि (अगनि का आध्यात्मिक भाव) के (के/संबंध-सूचक) लूठे (लूठे का आध्यात्मिक भाव) ॥ ॥
+अगनि (अगनि का आध्यात्मिक भाव) भी (इसके अतिरिक्त/भी) जूठी (जूठी का आध्यात्मिक भाव) पानी (शीतल जल) जूठा (जूठा (सधुक्कड़ी भाव)) जूठी (जूठी का आध्यात्मिक भाव) बैसि (आयु/अवस्था) पकाइआ (पकाइआ का आध्यात्मिक भाव) ॥
+जूठी (जूठी का आध्यात्मिक भाव) करछी (करछी का आध्यात्मिक भाव) परोसन (परोसन का आध्यात्मिक भाव) लागा (लगा/लीन हुआ) जूठे (जूठे का आध्यात्मिक भाव) ही (केवल/मात्र) बैठि (बैठि का आध्यात्मिक भाव) खाइआ (खाइआ का आध्यात्मिक भाव) ॥ ॥
+गोबरु (गोबरु का आध्यात्मिक भाव) जूठा (जूठा (सधुक्कड़ी भाव)) चउका (चउका का आध्यात्मिक भाव) जूठा (जूठा (सधुक्कड़ी भाव)) जूठी (जूठी का आध्यात्मिक भाव) दीनी (दी/प्रदान की) कारा (कार्य) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) तेई (तेई का आध्यात्मिक भाव) नर (पुरुष/मनुष्य) सूचे (सूचे का आध्यात्मिक भाव) साची (सत्य/सच्ची) परी (पड़ी हुई) बिचारा (चारों संबंधी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+maata (mother) joothee (joothee) pita (ancestors/forefathers) bhee (also/even) jootha (jootha (spiritual sense)) joothe (joothe) hee (alone/only) phal (fruit, divine realization) laage (it touches) .
+aavahi (they arrive) joothe (joothe) jaahi (whose/when (unto/in)) bhee (also/even) joothe (joothe) joothe (joothe) marahi (marahi) abhaage (fortune/destiny related) . .
+kahu (tell) pandit (learned scholar/priest) soocha (soocha) kavanu (who/what) thaau (abode/dwelling) .
+jahaan (wherever) baisi (age/youth) hau (I/ego) bhojanu (nourishing meal) khaau (khaau) . . rahaau (pause for reflection, foundational theme) .
+jihaba (jihaba) joothee (joothee) bolat (bolat) jootha (jootha (spiritual sense)) karan (karan) netr (netr) sabhi (all) joothe (joothe) .
+indree (sensory organs) kee (of) joothi (joothi) utarasi (utarasi) naahee (not) braham (braham) agani (agani) ke (of) loothe (loothe) . .
+agani (agani) bhee (also/even) joothee (joothee) paanee (water) jootha (jootha (spiritual sense)) joothee (joothee) baisi (age/youth) pakaaia (pakaaia) .
+joothee (joothee) karachhee (karachhee) parosan (parosan) laaga (attached/engaged) joothe (joothe) hee (alone/only) baithi (baithi) khaaia (khaaia) . .
+gobaru (gobaru) jootha (jootha (spiritual sense)) chauka (chauka) jootha (jootha (spiritual sense)) joothee (joothee) deenee (granted) kaara (work/deed) .
+kahi (from (unto/in)) kabeer (Sant Kabir) teee (teee) nar (man/mortal) sooche (sooche) saachee (true/genuine) paree (fallen/lying) bichaara (four related) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! माता जूठी पिता भी जूठा जूठे ही फल लागे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! maataajootheepitaabheejoothaajootheheephalalaage—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-103"></a>
+## शब्द 103: कहा नर गरबसि थोरी बात
+**English Title:** Shabad 103: Kahaa Nara Garabasai Thaoraee Baata
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कहा नर गरबसि थोरी बात ॥
+मन दस नाजु टका चारि गांठी ऐंडौ टेढौ जातु ॥१॥ रहाउ ॥
+बहुतु प्रतापु गांउ सउ पाए दुइ लख टका बरात ॥
+दिवस चारि की करहु साहिबी जैसे बन हर पात ॥१॥
+ना कोऊ लै आइओ इहु धनु ना कोऊ लै जातु ॥
+रावन हूं ते अधिक छत्रपति खिन महि गए बिलात ॥२॥
+हरि के संत सदा थिरु पूजहु जो हरि नामु जपात ॥
+जिन कउ क्रिपा करत है गोबिदु ते सतसंगि मिलात ॥३॥
+मात पिता बनिता सुत स्मपति अंति न चलत संगात ॥
+कहत कबीरु राम भजु बउरे जनमु अकारथ जात ॥४॥१॥1251॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कहा (क्या/कहाँ) नर (पुरुष/मनुष्य) गरबसि (गरबसि का आध्यात्मिक भाव) थोरी (थोरी का आध्यात्मिक भाव) बात (कथन) ॥
+मन (मन/चित्त) दस (दस इंद्रियां/संख्या दस) नाजु (नाजु का आध्यात्मिक भाव) टका (टका का आध्यात्मिक भाव) चारि (चारों संबंधी) गांठी (बंधन/गांठ) ऐंडौ (ऐंडौ का आध्यात्मिक भाव) टेढौ (टेढौ का आध्यात्मिक भाव) जातु (जाती नहीं/दूर नहीं होती) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+बहुतु (अनेक संबंधी) प्रतापु (प्रतापु का आध्यात्मिक भाव) गांउ (गांउ का आध्यात्मिक भाव) सउ (से) पाए (पाए का आध्यात्मिक भाव) दुइ (दो (द्वैत)) लख (लख का आध्यात्मिक भाव) टका (टका का आध्यात्मिक भाव) बरात (बरात का आध्यात्मिक भाव) ॥
+दिवस (दिन/दिवस) चारि (चारों संबंधी) की (की/संबंध-सूचक) करहु (करके (से/द्वारा)) साहिबी (स्वामी/प्रभु) जैसे (जिस प्रकार) बन (वन/जंगल) हर (भगवान/हरि) पात (पत्ते/छिलके) ॥ ॥
+ना (नहीं) कोऊ (कोई भी) लै (ले) आइओ (आइओ का आध्यात्मिक भाव) इहु (यह) धनु (धन/संपत्ति) ना (नहीं) कोऊ (कोई भी) लै (ले) जातु (जाती नहीं/दूर नहीं होती) ॥
+रावन (रावन का आध्यात्मिक भाव) हूं (भी) ते (से/द्वारा) अधिक (अधिक (सधुक्कड़ी भाव)) छत्रपति (स्वामी संबंधी) खिन (खिन का आध्यात्मिक भाव) महि (में/भीतर) गए (बीतते) बिलात (बिलात का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) संत (संत/महात्मा) सदा (सर्वदा/सदा) थिरु (स्थिर/अविचल) पूजहु (पूजहु का आध्यात्मिक भाव) जो (जिससे) हरि (दुख-हर्ता परमात्मा) नामु (सत्य-नाम) जपात (जपात का आध्यात्मिक भाव) ॥
+जिन (जिन का आध्यात्मिक भाव) कउ (को) क्रिपा (कृपा/अनुग्रह) करत (करते) है (है कि) गोबिदु (गोबिदु का आध्यात्मिक भाव) ते (से/द्वारा) सतसंगि (सतसंगि का आध्यात्मिक भाव) मिलात (मिलात का आध्यात्मिक भाव) ॥ ॥
+मात (मात का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) बनिता (बनिता का आध्यात्मिक भाव) सुत (पुत्र/बेटा) स्मपति (स्वामी संबंधी) अंति (रहस्य (में/करके)) न (नहीं) चलत (चलते हुए/प्रस्थान करते हुए) संगात (संगात का आध्यात्मिक भाव) ॥
+कहत (कहते हुए) कबीरु (संत कबीर जी) राम (सर्वव्यापी परमात्मा) भजु (भजु का आध्यात्मिक भाव) बउरे (बावरे/पागल) जनमु (मानव जन्म) अकारथ (अकारथ का आध्यात्मिक भाव) जात (जाती नहीं/दूर नहीं होती) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaha (what/where) nar (man/mortal) garabasi (garabasi) thoree (thoree) baat (word/matter) .
+man (mind/inner consciousness) das (ten) naaju (naaju) taka (taka) chaari (four related) gaanthee (knot/bond) aindau (aindau) tedhau (tedhau) jaatu (departs/is erased) . . rahaau (pause for reflection, foundational theme) .
+bahutu (many related) prataapu (prataapu) gaanu (gaanu) sau (from/with) paae (paae) dui (two/duality) lakh (lakh) taka (taka) baraat (baraat) .
+divas (day) chaari (four related) kee (of) karahu (doing (from/by)) saahibee (Lord/Master) jaise (just as) ban (forest) har (Lord Hari/God) paat (layers of leaves) . .
+na (not) kooo (anyone) lai (bringing) aaio (aaio) ihu (this) dhanu (wealth/riches) na (not) kooo (anyone) lai (bringing) jaatu (departs/is erased) .
+raavan (raavan) hoon (even/also) te (from/by) adhik (adhik (spiritual sense)) chhatrapati (Lord related) khin (khin) mahi (within/in) gae (went) bilaat (bilaat) . .
+hari (The Lord who dispels grief (Hari)) ke (of) sant (holy saint) sada (always/eternally) thiru (steadfast/eternal) poojahu (poojahu) jo (that) hari (The Lord who dispels grief (Hari)) naamu (True Name) japaat (japaat) .
+jin (jin) kau (unto) kripa (grace/mercy) karat (doing) hai (is) gobidu (gobidu) te (from/by) satasangi (satasangi) milaat (milaat) . .
+maat (maat) pita (ancestors/forefathers) banita (banita) sut (son) smapati (Lord related) anti (inner core (in/having done)) n (not) chalat (while departing/moving) sangaat (sangaat) .
+kahat (speaking/saying) kabeeru (Sant Kabir) raam (The All-Pervading Lord (Ram)) bhaju (bhaju) baure (insane/deluded) janamu (human birth) akaarath (akaarath) jaat (departs/is erased) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कहा नर गरबसि थोरी बात—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kahaanaragarabasithoreebaata—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 103: कहा नर गरबसि थोरी बात'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-104"></a>
+## शब्द 104: राजास्रम मिति नही जानी तेरी
+**English Title:** Shabad 104: Raajaasarama Maitai Nahaee Jaanaee Taeraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+राजास्रम मिति नही जानी तेरी ॥
+तेरे संतन की हउ चेरी ॥१॥ रहाउ ॥
+हसतो जाइ सु रोवतु आवै रोवतु जाइ सु हसै ॥
+बसतो होइ होइ सो ऊजरु ऊजरु होइ सु बसै ॥१॥
+जल ते थल करि थल ते कूआ कूप ते मेरु करावै ॥
+धरती ते आकासि चढावै चढे अकासि गिरावै ॥२॥
+भेखारी ते राजु करावै राजा ते भेखारी ॥
+खल मूरख ते पंडितु करिबो पंडित ते मुगधारी ॥३॥
+नारी ते जो पुरखु करावै पुरखन ते जो नारी ॥
+कहु कबीर साधू को प्रीतमु तिसु मूरति बलिहारी ॥४॥२॥1252॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+राजास्रम (राजास्रम का आध्यात्मिक भाव) मिति (और ताल का भेद (में/करके)) नही (नहीं) जानी (के प्यारे) तेरी (तेरी/आपकी) ॥
+तेरे (तेरे विरह के) संतन (संतन का आध्यात्मिक भाव) की (की/संबंध-सूचक) हउ (मैं/अहंभाव) चेरी (चेरी का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हसतो (हसतो का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) सु (वह) रोवतु (रोवतु का आध्यात्मिक भाव) आवै (आता है) रोवतु (रोवतु का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) सु (वह) हसै (हंसता है/उपहास करता है) ॥
+बसतो (वस्तु/सामग्री) होइ (होकर) होइ (होकर) सो (वह/वही) ऊजरु (ऊजरु का आध्यात्मिक भाव) ऊजरु (ऊजरु का आध्यात्मिक भाव) होइ (होकर) सु (वह) बसै (निवास करे/बसे) ॥ ॥
+जल (पानी) ते (से/द्वारा) थल (थल (सधुक्कड़ी भाव)) करि (करके/हाथ से) थल (थल (सधुक्कड़ी भाव)) ते (से/द्वारा) कूआ (कूआ का आध्यात्मिक भाव) कूप (कुआं/अंधकूप) ते (से/द्वारा) मेरु (मेर (सधुक्कड़ी भाव)) करावै (करवाता है) ॥
+धरती (धरती (सधुक्कड़ी भाव)) ते (से/द्वारा) आकासि (आकासि का आध्यात्मिक भाव) चढावै (चढावै का आध्यात्मिक भाव) चढे (चढे का आध्यात्मिक भाव) अकासि (गगन/आकाश) गिरावै (गिरावै का आध्यात्मिक भाव) ॥ ॥
+भेखारी (भेखारी का आध्यात्मिक भाव) ते (से/द्वारा) राजु (आदर्श शासन/राज) करावै (करवाता है) राजा (आदर्श शासन/राज संबंधी) ते (से/द्वारा) भेखारी (भेखारी का आध्यात्मिक भाव) ॥
+खल (खल का आध्यात्मिक भाव) मूरख (मूरख का आध्यात्मिक भाव) ते (से/द्वारा) पंडितु (पंडित/शास्त्रज्ञ) करिबो (करिबो का आध्यात्मिक भाव) पंडित (पंडित/शास्त्रज्ञ) ते (से/द्वारा) मुगधारी (मुगधारी का आध्यात्मिक भाव) ॥ ॥
+नारी (स्त्री/माया) ते (से/द्वारा) जो (जिससे) पुरखु (पुरखु का आध्यात्मिक भाव) करावै (करवाता है) पुरखन (पुरखन का आध्यात्मिक भाव) ते (से/द्वारा) जो (जिससे) नारी (स्त्री/माया) ॥
+कहु (बताओ) कबीर (संत कबीर जी) साधू (संत संबंधी) को (को/की ओर) प्रीतमु (प्रीतमु का आध्यात्मिक भाव) तिसु (उसको) मूरति (छवि (में/करके)) बलिहारी (बलिहारी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raajaasram (raajaasram) miti (measure/tune (in/having done)) nahee (not) jaanee (darling) teree (Thine) .
+tere (in Your) santan (santan) kee (of) hau (I/ego) cheree (cheree) . . rahaau (pause for reflection, foundational theme) .
+hasato (hasato) jaai (whose/when (in/having done)) su (that) rovatu (rovatu) aavai (comes/arrives) rovatu (rovatu) jaai (whose/when (in/having done)) su (that) hasai (laughs/scoffs) .
+basato (goods/commodity) hoi (having become) hoi (having become) so (that/the same) oojaru (oojaru) oojaru (oojaru) hoi (having become) su (that) basai (may dwell/reside) . .
+jal (water) te (from/by) thal (thal (spiritual sense)) kari (having done/with hands) thal (thal (spiritual sense)) te (from/by) kooa (kooa) koop (well/pit of illusion) te (from/by) meru (mer (spiritual sense)) karaavai (causes to be done) .
+dharatee (dharatee (spiritual sense)) te (from/by) aakaasi (aakaasi) chadhaavai (chadhaavai) chadhe (chadhe) akaasi (celestial firmament) giraavai (giraavai) . .
+bhekhaaree (bhekhaaree) te (from/by) raaju (realm/kingdom) karaavai (causes to be done) raaja (realm/kingdom related) te (from/by) bhekhaaree (bhekhaaree) .
+khal (khal) moorakh (moorakh) te (from/by) panditu (learned scholar/priest) karibo (karibo) pandit (learned scholar/priest) te (from/by) mugadhaaree (mugadhaaree) . .
+naaree (woman/Maya) te (from/by) jo (that) purakhu (purakhu) karaavai (causes to be done) purakhan (purakhan) te (from/by) jo (that) naaree (woman/Maya) .
+kahu (tell) kabeer (Sant Kabir) saadhoo (saint related) ko (unto/toward) preetamu (preetamu) tisu (unto that one) moorati (form (in/having done)) balihaaree (balihaaree) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! राजास्रम मिति नही जानी तेरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raajaasramamitinaheejaaneeteree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 104: राजास्रम मिति नही जानी तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-105"></a>
+## शब्द 105: हरि बिनु कउनु सहाई मन का
+**English Title:** Shabad 105: Harai Bainau Kaunau Sahaaee Mana Kaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+हरि बिनु कउनु सहाई मन का ॥
+मात पिता भाई सुत बनिता हितु लागो सभ फन का ॥१॥ रहाउ ॥
+आगे कउ किछु तुलहा बांधहु किआ भरवासा धन का ॥
+कहा बिसासा इस भांडे का इतनकु लागै ठनका ॥१॥
+सगल धरम पुंन फल पावहु धूरि बांछहु सभ जन का ॥
+कहै कबीरु सुनहु रे संतहु इहु मनु उडन पंखेरू बन का ॥२॥१॥९॥1253॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+हरि (दुख-हर्ता परमात्मा) बिनु (बिना/रहित) कउनु (कौन) सहाई (सहाई का आध्यात्मिक भाव) मन (मन/चित्त) का (का/संबंध-सूचक) ॥
+मात (मात का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) भाई (हे भाई!/हे मित्र!) सुत (पुत्र/बेटा) बनिता (बनिता का आध्यात्मिक भाव) हितु (प्रेम/कल्याण) लागो (प्रेम-संबंध/लगन) सभ (सब) फन (सर्प का फन) का (का/संबंध-सूचक) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आगे (आगे का आध्यात्मिक भाव) कउ (को) किछु (कुछ भी/तनिक) तुलहा (तुलहा का आध्यात्मिक भाव) बांधहु (बांधहु का आध्यात्मिक भाव) किआ (क्या) भरवासा (भरवासा का आध्यात्मिक भाव) धन (संपदा) का (का/संबंध-सूचक) ॥
+कहा (क्या/कहाँ) बिसासा (बिसासा का आध्यात्मिक भाव) इस (इस संसारी) भांडे (भांडे का आध्यात्मिक भाव) का (का/संबंध-सूचक) इतनकु (इतनकु का आध्यात्मिक भाव) लागै (प्रेम-संबंध/लगन (करता है/ने)) ठनका (ठनका का आध्यात्मिक भाव) ॥ ॥
+सगल (संपूर्ण/समस्त) धरम (धर्म) पुंन (पुण्य कर्म) फल (परिणाम, आत्मिक सिद्धि) पावहु (पावहु का आध्यात्मिक भाव) धूरि (धूलि/रज) बांछहु (बांछहु का आध्यात्मिक भाव) सभ (सब) जन (भक्त/सेवक) का (का/संबंध-सूचक) ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) इहु (यह) मनु (मन/अंतःकरण) उडन (उडन का आध्यात्मिक भाव) पंखेरू (पंखेरू का आध्यात्मिक भाव) बन (वन/जंगल) का (का/संबंध-सूचक) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+hari (The Lord who dispels grief (Hari)) binu (without/devoid of) kaunu (who) sahaaee (sahaaee) man (mind/inner consciousness) ka (of) .
+maat (maat) pita (ancestors/forefathers) bhaaee (O brother!) sut (son) banita (banita) hitu (affection/welfare) laago (spark of love/attachment) sabh (all) phan (hood of serpent) ka (of) . . rahaau (pause for reflection, foundational theme) .
+aage (aage) kau (unto) kichhu (anything/a little) tulaha (tulaha) baandhahu (baandhahu) kia (what) bharavaasa (bharavaasa) dhan (wealth) ka (of) .
+kaha (what/where) bisaasa (bisaasa) is (this) bhaande (bhaande) ka (of) itanaku (itanaku) laagai (spark of love/attachment (does/by)) thanaka (thanaka) . .
+sagal (all/entire) dharam (righteousness) punn (virtuous deeds) phal (fruit, divine realization) paavahu (paavahu) dhoori (dust) baanchhahu (baanchhahu) sabh (all) jan (devotee/humble servant) ka (of) .
+kahai (chants) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) ihu (this) manu (mind/inner spirit) udan (udan) pankheroo (pankheroo) ban (forest) ka (of) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! हरि बिनु कउनु सहाई मन का—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! haribinukaunusahaaeemanaka—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 105: हरि बिनु कउनु सहाई मन का'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-106"></a>
+## शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा
+**English Title:** Shabad 106: Alahau Ekau Masaeetai Basatau Haai Avarau Mau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा ॥
+हिंदू मूरति नाम निवासी दुह महि ततु न हेरा ॥१॥
+अलह राम जीवउ तेरे नाई ॥
+तू करि मिहरामति साई ॥१॥ रहाउ ॥
+दखन देसि हरी का बासा पछिमि अलह मुकामा ॥
+दिल महि खोजि दिलै दिलि खोजहु एही ठउर मुकामा ॥२॥
+ब्रहमन गिआस करहि चउबीसा काजी मह रमजाना ॥
+गिआरह मास पास कै राखे एकै माहि निधाना ॥३॥
+कहा उडीसे मजनु कीआ किआ मसीति सिरु नांएं ॥
+दिल महि कपटु निवाज गुजारै किआ हज काबै जांएं ॥४॥
+एते अउरत मरदा साजे ए सभ रूप तुम्हारे ॥
+कबीरु पूंगरा राम अलह का सभ गुर पीर हमारे ॥५॥
+कहतु कबीरु सुनहु नर नरवै परहु एक की सरना ॥
+केवल नामु जपहु रे प्रानी तब ही निहचै तरना ॥६॥२॥1349॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अलहु (अल्लाह, परमेश्वर, एक परमात्मा) एकु (एक ही अद्वैत ब्रह्म) मसीति (मस्जिद, इबादतगाह) बसतु (वस्तु/सामग्री) है (है कि) अवरु (कोई दूसरा/अन्य) मुलखु (मुलखु का आध्यात्मिक भाव) किसु (किसको/किसे) केरा (केरा का आध्यात्मिक भाव) ॥
+हिंदू (हिंदू जन) मूरति (छवि (में/करके)) नाम (परम पावन नाम) निवासी (बिना/निवास) दुह (दुह का आध्यात्मिक भाव) महि (में/भीतर) ततु (तत्व/परम सत्य) न (नहीं) हेरा (हेरा का आध्यात्मिक भाव) ॥ ॥
+अलह (अल्लाह, परमेश्वर, एक परमात्मा) राम (सर्वव्यापी परमात्मा) जीवउ (जीवित रहता हूँ) तेरे (तेरे विरह के) नाई (नाई (सधुक्कड़ी भाव)) ॥
+तू (तू/परमात्मा) करि (करके/हाथ से) मिहरामति (मिहरामति का आध्यात्मिक भाव) साई (साई का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दखन (दखन का आध्यात्मिक भाव) देसि (देश/वतन) हरी (श्री हरि प्रभु) का (का/संबंध-सूचक) बासा (सुगंध/महक) पछिमि (पछिमि का आध्यात्मिक भाव) अलह (अल्लाह, परमेश्वर, एक परमात्मा) मुकामा (मुकामा का आध्यात्मिक भाव) ॥
+दिल (हृदय) महि (में/भीतर) खोजि (खोजि का आध्यात्मिक भाव) दिलै (हृदय) दिलि (हृदय) खोजहु (खोजहु का आध्यात्मिक भाव) एही (एही (सधुक्कड़ी भाव)) ठउर (ठउर का आध्यात्मिक भाव) मुकामा (मुकामा का आध्यात्मिक भाव) ॥ ॥
+ब्रहमन (ब्रहमन (सधुक्कड़ी भाव)) गिआस (गिआस का आध्यात्मिक भाव) करहि (करते हैं) चउबीसा (चउबीसा का आध्यात्मिक भाव) काजी (न्यायाधीश, धर्मगुरु) मह (महान/बड़ा) रमजाना (रमजाना का आध्यात्मिक भाव) ॥
+गिआरह (गिआरह का आध्यात्मिक भाव) मास (मांस) पास (समीप) कै (के/का) राखे (राखे का आध्यात्मिक भाव) एकै (समान/एक जैसे (करता है/ने)) माहि (में/अंदर) निधाना (निधाना का आध्यात्मिक भाव) ॥ ॥
+कहा (क्या/कहाँ) उडीसे (उडीसे का आध्यात्मिक भाव) मजनु (पवित्र स्नान/मज्जन) कीआ (किया) किआ (क्या) मसीति (मस्जिद, इबादतगाह) सिरु (शीश) नांएं (नांएं का आध्यात्मिक भाव) ॥
+दिल (हृदय) महि (में/भीतर) कपटु (कपटु का आध्यात्मिक भाव) निवाज (निवाज (सधुक्कड़ी भाव)) गुजारै (गुजारै का आध्यात्मिक भाव) किआ (क्या) हज (हज का आध्यात्मिक भाव) काबै (काबै का आध्यात्मिक भाव) जांएं (जांएं का आध्यात्मिक भाव) ॥ ॥
+एते (एते का आध्यात्मिक भाव) अउरत (अउरत का आध्यात्मिक भाव) मरदा (मरदा का आध्यात्मिक भाव) साजे (साजे का आध्यात्मिक भाव) ए (ये सब) सभ (सब) रूप (स्वरूप) तुम्हारे (आपके) ॥
+कबीरु (संत कबीर जी) पूंगरा (पूंगरा का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) अलह (अल्लाह, परमेश्वर, एक परमात्मा) का (का/संबंध-सूचक) सभ (सब) गुर (गुरु के) पीर (सद्गुरु) हमारे (हम सेवकों के) ॥ ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) नर (पुरुष/मनुष्य) नरवै (नरवै का आध्यात्मिक भाव) परहु (परहु का आध्यात्मिक भाव) एक (समान/एक जैसे) की (की/संबंध-सूचक) सरना (शरण/आश्रय) ॥
+केवल (एकमात्र/विशुद्ध) नामु (सत्य-नाम) जपहु (स्मरण/जाप (से/द्वारा)) रे (रा (रज़ा व समर्पण)) प्रानी (प्राण/जीवन संबंधी) तब (उस समय/तब) ही (केवल/मात्र) निहचै (निहचै का आध्यात्मिक भाव) तरना (पार उतरना/मुक्ति) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+alahu (Allah, the One Supreme Divine) eku (The One Supreme Lord) maseeti (mosque, house of worship) basatu (goods/commodity) hai (is) avaru (another/any other) mulakhu (mulakhu) kisu (unto whom) kera (kera) .
+hindoo (Hindu) moorati (form (in/having done)) naam (Divine Name) nivaasee (without dwelling) duh (duh) mahi (within/in) tatu (essence/Truth) n (not) hera (hera) . .
+alah (Allah, the One Supreme Divine) raam (The All-Pervading Lord (Ram)) jeevau (I live/survive) tere (in Your) naaee (naaee (spiritual sense)) .
+too (Thou) kari (having done/with hands) miharaamati (miharaamati) saaee (saaee) . . rahaau (pause for reflection, foundational theme) .
+dakhan (dakhan) desi (homeland/realm) haree (Lord Hari) ka (of) baasa (fragrance/permeating scent) pachhimi (pachhimi) alah (Allah, the One Supreme Divine) mukaama (mukaama) .
+dil (heart) mahi (within/in) khoji (khoji) dilai (heart) dili (heart) khojahu (khojahu) ehee (ehee (spiritual sense)) thaur (thaur) mukaama (mukaama) . .
+brahaman (brahaman (spiritual sense)) giaas (giaas) karahi (they do) chaubeesa (chaubeesa) kaajee (Qazi, Islamic theologian) mah (great) ramajaana (ramajaana) .
+giaarah (giaarah) maas (flesh) paas (near) kai (of) raakhe (raakhe) ekai (equal and one (does/by)) maahi (within) nidhaana (nidhaana) . .
+kaha (what/where) udeese (udeese) majanu (sacred inner ablution) keea (did/created) kia (what) maseeti (mosque, house of worship) siru (head) naanen (naanen) .
+dil (heart) mahi (within/in) kapatu (kapatu) nivaaj (nivaaj (spiritual sense)) gujaarai (gujaarai) kia (what) haj (haj) kaabai (kaabai) jaanen (jaanen) . .
+ete (ete) aurat (aurat) marada (marada) saaje (saaje) e (these) sabh (all) roop (form) tumhaare (Thine) .
+kabeeru (Sant Kabir) poongara (poongara) raam (The All-Pervading Lord (Ram)) alah (Allah, the One Supreme Divine) ka (of) sabh (all) gur (of the Master) peer (spiritual master) hamaare (ours/of us devotees) . .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) nar (man/mortal) naravai (naravai) parahu (parahu) ek (equal and one) kee (of) sarana (shelter/refuge) .
+keval (solely/pure) naamu (True Name) japahu (chanting/meditation (from/by)) re (Re (Divine Will)) praanee (life-breath/soul related) tab (at that time/then) hee (alone/only) nihachai (nihachai) tarana (crossing over/salvation) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! alahuekumaseetibasatuhaiavarumulakhukisuk—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-107"></a>
+## शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे
+**English Title:** Shabad 107: Avalai Alaha Naoorau Upaaiaa Kaudaratai Kae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे ॥
+एक नूर ते सभु जगु उपजिआ कउन भले को मंदे ॥१॥
+लोगा भरमि न भूलहु भाई ॥
+खालिकु खलक खलक महि खालिकु पूरि रहिओ स्रब ठांई ॥१॥ रहाउ ॥
+माटी एक अनेक भांति करि साजी साजनहारै ॥
+ना कछु पोच माटी के भांडे ना कछु पोच कु्मभारै ॥२॥
+सभ महि सचा एको सोई तिस का कीआ सभु कछु होई ॥
+हुकमु पछानै सु एको जानै बंदा कहीऐ सोई ॥३॥
+अलहु अलखु न जाई लखिआ गुरि गुड़ु दीना मीठा ॥
+कहि कबीर मेरी संका नासी सरब निरंजनु डीठा ॥४॥३॥1349॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अवलि (सर्वप्रथम, आदि) अलह (अल्लाह, परमेश्वर, एक परमात्मा) नूरु (दिव्य प्रकाश, ब्रह्म-ज्योति) उपाइआ (उत्पन्न किया, सृजन किया) कुदरति (प्रकृति, ईश्वरीय शक्ति) के (के/संबंध-सूचक) सभ (सब) बंदे (मनुष्य, सेवक) ॥
+एक (समान/एक जैसे) नूर (नूर का आध्यात्मिक भाव) ते (से/द्वारा) सभु (सब कुछ/सम्पूर्ण) जगु (सम्पूर्ण जगत/संसार) उपजिआ (उपजिआ का आध्यात्मिक भाव) कउन (कउन का आध्यात्मिक भाव) भले (भल (सधुक्कड़ी भाव)) को (को/की ओर) मंदे (मंदे (सधुक्कड़ी भाव)) ॥ ॥
+लोगा (संसार के लोग) भरमि (भ्रम) न (नहीं) भूलहु (भूलहु का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+खालिकु (सृष्टिकर्ता, विधाता) खलक (सृष्टि, संसार) खलक (सृष्टि, संसार) महि (में/भीतर) खालिकु (सृष्टिकर्ता, विधाता) पूरि (व्याप्त होकर/भरकर) रहिओ (रहिओ का आध्यात्मिक भाव) स्रब (स्रब का आध्यात्मिक भाव) ठांई (ठांई (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+माटी (मृत्तिका, नश्वर देह) एक (समान/एक जैसे) अनेक (बहुत सारे/अनेक) भांति (भांति का आध्यात्मिक भाव) करि (करके/हाथ से) साजी (साजी का आध्यात्मिक भाव) साजनहारै (साजनहारै का आध्यात्मिक भाव) ॥
+ना (नहीं) कछु (कुछ भी) पोच (तुच्छ/नीच कर्म) माटी (मृत्तिका, नश्वर देह) के (के/संबंध-सूचक) भांडे (भांडे का आध्यात्मिक भाव) ना (नहीं) कछु (कुछ भी) पोच (तुच्छ/नीच कर्म) कु्मभारै (कु्मभारै का आध्यात्मिक भाव) ॥ ॥
+सभ (सब) महि (में/भीतर) सचा (सच (सधुक्कड़ी भाव)) एको (एको (सधुक्कड़ी भाव)) सोई (वही) तिस (उसका/उसको) का (का/संबंध-सूचक) कीआ (किया) सभु (सब कुछ/सम्पूर्ण) कछु (कुछ भी) होई (तय हुआ) ॥
+हुकमु (हुकमु का आध्यात्मिक भाव) पछानै (पछानै का आध्यात्मिक भाव) सु (वह) एको (एको (सधुक्कड़ी भाव)) जानै (प्राण/जीवन (करता है/ने)) बंदा (बंदा (सधुक्कड़ी भाव)) कहीऐ (कहिए) सोई (वही) ॥ ॥
+अलहु (अल्लाह, परमेश्वर, एक परमात्मा) अलखु (अलक्ष्य/अदृश्य) न (नहीं) जाई (जाओ) लखिआ (लखिआ का आध्यात्मिक भाव) गुरि (गुरु के) गुड़ु (गुड़ु का आध्यात्मिक भाव) दीना (निर्बल, असहाय, धर्म) मीठा (मीठा का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) मेरी (मेरी जीवन-) संका (संशय/शंका) नासी (नष्ट हो गई) सरब (सबको) निरंजनु (माया-रहित निरंजन ब्रह्म) डीठा (डीठा का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+avali (first of all, in the beginning) alah (Allah, the One Supreme Divine) nooru (Divine Light, primordial radiance) upaaia (created, manifested into being) kudarati (nature, divine creative power) ke (of) sabh (all) bande (beings, servants of God) .
+ek (equal and one) noor (noor) te (from/by) sabhu (everything/all) jagu (the world/mortal realm) upajia (upajia) kaun (kaun) bhale (bhal (spiritual sense)) ko (unto/toward) mande (mande (spiritual sense)) . .
+loga (worldly people) bharami (illusion/doubt) n (not) bhoolahu (bhoolahu) bhaaee (O brother!) .
+khaaliku (Creator, the Divine Architect) khalak (creation, the created world) khalak (creation, the created world) mahi (within/in) khaaliku (Creator, the Divine Architect) poori (pervading everywhere) rahio (rahio) srab (srab) thaanee (thaanee (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+maatee (clay, mortal human vessel) ek (equal and one) anek (many/various) bhaanti (bhaanti) kari (having done/with hands) saajee (saajee) saajanahaarai (saajanahaarai) .
+na (not) kachhu (anything/something) poch (petty/lowly action) maatee (clay, mortal human vessel) ke (of) bhaande (bhaande) na (not) kachhu (anything/something) poch (petty/lowly action) kumabhaarai (kumabhaarai) . .
+sabh (all) mahi (within/in) sacha (sach (spiritual sense)) eko (eko (spiritual sense)) soee (the very same) tis (that one/his) ka (of) keea (did/created) sabhu (everything/all) kachhu (anything/something) hoee (transpired) .
+hukamu (hukamu) pachhaanai (pachhaanai) su (that) eko (eko (spiritual sense)) jaanai (life/soul (does/by)) banda (banda (spiritual sense)) kaheeai (one should speak) soee (the very same) . .
+alahu (Allah, the One Supreme Divine) alakhu (unseen/inscrutable) n (not) jaaee (slip away) lakhia (lakhia) guri (of the Master) gudu (gudu) deena (the meek, the righteous cause) meetha (meetha) .
+kahi (from (unto/in)) kabeer (Sant Kabir) meree (my life's) sanka (doubt/suspicion) naasee (was destroyed) sarab (with all) niranjanu (The Pristine Untainted Lord) deetha (deetha) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+सर्वप्रथम उस प्रभु ने अपनी ज्योति से यह संसार रचाया,
+कुदरत के सब बंदे हैं, किसमें कौन भला कौन बुरा ठहराया।
+हे मानव, तू भ्रम और भेद में मत भटक,
+स्रष्टा सृष्टि में और सृष्टि स्रष्टा में, हर घट में समाया।
+
+#### 🇬🇧 Lyrical English Verse Translation
+First, the Divine created the primordial Light, and all beings of Nature were born;
+From that single Light the entire cosmos emerged—who then is noble, and who to scorn?
+O worldly folk, wander not lost in doubts and divided sight;
+The Creator dwells within creation, and creation within the Creator, omnipresent and bright.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+This sublime Shabad is Kabir's quintessential declaration of universal oneness and spiritual egalitarianism. Rejecting sectarian animosity between religious factions, Kabir affirms that the primordial Light (Noor) is the single source of all humanity. The Creator is not an external monarch residing in distant skies, but an indwelling essence immanent in every atom.
+
+---
+
+<a name="shabad-108"></a>
+## शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै
+**English Title:** Shabad 108: Baeda Kataeba Kahahau Mata Jhaoothae Jhaoothaa Jao
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बेद कतेब कहहु मत झूठे झूठा जो न बिचारै ॥
+जउ सभ महि एकु खुदाइ कहत हउ तउ किउ मुरगी मारै ॥१॥
+मुलां कहहु निआउ खुदाई ॥
+तेरे मन का भरमु न जाई ॥१॥ रहाउ ॥
+पकरि जीउ आनिआ देह बिनासी माटी कउ बिसमिलि कीआ ॥
+जोति सरूप अनाहत लागी कहु हलालु किआ कीआ ॥२॥
+किआ उजू पाकु कीआ मुहु धोइआ किआ मसीति सिरु लाइआ ॥
+जउ दिल महि कपटु निवाज गुजारहु किआ हज काबै जाइआ ॥३॥
+तूं नापाकु पाकु नही सूझिआ तिस का मरमु न जानिआ ॥
+कहि कबीर भिसति ते चूका दोजक सिउ मनु मानिआ ॥४॥४॥1350॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बेद (वेदों) कतेब (पवित्र आसमानी धर्मग्रंथ) कहहु (कहकर (से/द्वारा)) मत (और मति का रहस्य) झूठे (मिथ्यावादी) झूठा (मिथ्या/झूठा) जो (जिससे) न (नहीं) बिचारै (विचार/मंथन (करता है/होता है)) ॥
+जउ (यदि/जब) सभ (सब) महि (में/भीतर) एकु (एक ही अद्वैत ब्रह्म) खुदाइ (खुदाइ का आध्यात्मिक भाव) कहत (कहते हुए) हउ (मैं/अहंभाव) तउ (तब/तो भी) किउ (अथवा) मुरगी (मुरगी का आध्यात्मिक भाव) मारै (मारकर) ॥ ॥
+मुलां (मुलां का आध्यात्मिक भाव) कहहु (कहकर (से/द्वारा)) निआउ (निआउ का आध्यात्मिक भाव) खुदाई (परमात्मा के) ॥
+तेरे (तेरे विरह के) मन (मन/चित्त) का (का/संबंध-सूचक) भरमु (भ्रम) न (नहीं) जाई (जाओ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पकरि (पकड़कर) जीउ (मन/जी) आनिआ (आनिआ का आध्यात्मिक भाव) देह (दो) बिनासी (विनाश/मृत्यु) माटी (मृत्तिका, नश्वर देह) कउ (को) बिसमिलि (बिसमिलि का आध्यात्मिक भाव) कीआ (किया) ॥
+जोति (दिव्य ज्योति/प्रकाश) सरूप (स्वरूप/दिव्य रूप) अनाहत (अनाहत का आध्यात्मिक भाव) लागी (प्रेम की लगन/विरहाग्नि) कहु (बताओ) हलालु (हलाल (सधुक्कड़ी भाव)) किआ (क्या) कीआ (किया) ॥ ॥
+किआ (क्या) उजू (उजू का आध्यात्मिक भाव) पाकु (पाकु का आध्यात्मिक भाव) कीआ (किया) मुहु (मुहु का आध्यात्मिक भाव) धोइआ (धोइआ का आध्यात्मिक भाव) किआ (क्या) मसीति (मस्जिद, इबादतगाह) सिरु (शीश) लाइआ (लाइआ का आध्यात्मिक भाव) ॥
+जउ (यदि/जब) दिल (हृदय) महि (में/भीतर) कपटु (कपटु का आध्यात्मिक भाव) निवाज (निवाज (सधुक्कड़ी भाव)) गुजारहु (गुजारहु का आध्यात्मिक भाव) किआ (क्या) हज (हज का आध्यात्मिक भाव) काबै (काबै का आध्यात्मिक भाव) जाइआ (जाइआ का आध्यात्मिक भाव) ॥ ॥
+तूं (तू/हे प्रभु!) नापाकु (नापाकु का आध्यात्मिक भाव) पाकु (पाकु का आध्यात्मिक भाव) नही (नहीं) सूझिआ (सूझिआ का आध्यात्मिक भाव) तिस (उसका/उसको) का (का/संबंध-सूचक) मरमु (गूढ़ रहस्य/मर्म) न (नहीं) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) भिसति (भिसति का आध्यात्मिक भाव) ते (से/द्वारा) चूका (चूका का आध्यात्मिक भाव) दोजक (दोजक का आध्यात्मिक भाव) सिउ (से/साथ) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bed (Vedas) kateb (holy scriptures) kahahu (saying (from/by)) mat (wisdom) jhoothe (liars) jhootha (false/untrue) jo (that) n (not) bichaarai (contemplation/thought (does/becomes)) .
+jau (if/when) sabh (all) mahi (within/in) eku (The One Supreme Lord) khudaai (khudaai) kahat (speaking/saying) hau (I/ego) tau (then/still) kiu (or is it) muragee (muragee) maarai (striking/killing) . .
+mulaan (mulaan) kahahu (saying (from/by)) niaau (niaau) khudaaee (be carefree) .
+tere (in Your) man (mind/inner consciousness) ka (of) bharamu (illusion/doubt) n (not) jaaee (slip away) . . rahaau (pause for reflection, foundational theme) .
+pakari (having grasped/seized) jeeu (heart/mind) aania (aania) deh (give) binaasee (destruction/perishing) maatee (clay, mortal human vessel) kau (unto) bisamili (bisamili) keea (did/created) .
+joti (divine radiance/light) saroop (true spiritual form) anaahat (anaahat) laagee (flame of longing) kahu (tell) halaalu (halaal (spiritual sense)) kia (what) keea (did/created) . .
+kia (what) ujoo (ujoo) paaku (paaku) keea (did/created) muhu (muhu) dhoia (dhoia) kia (what) maseeti (mosque, house of worship) siru (head) laaia (laaia) .
+jau (if/when) dil (heart) mahi (within/in) kapatu (kapatu) nivaaj (nivaaj (spiritual sense)) gujaarahu (gujaarahu) kia (what) haj (haj) kaabai (kaabai) jaaia (jaaia) . .
+toon (Thou) naapaaku (naapaaku) paaku (paaku) nahee (not) soojhia (soojhia) tis (that one/his) ka (of) maramu (inner secret/mystery) n (not) jaania (jaania) .
+kahi (from (unto/in)) kabeer (Sant Kabir) bhisati (bhisati) te (from/by) chooka (chooka) dojak (dojak) siu (with/from) manu (mind/inner spirit) maania (maania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बेद कतेब कहहु मत झूठे झूठा जो न बिचारै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bedakatebakahahumatajhoothejhoothaajonabichaarai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-109"></a>
+## शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई
+**English Title:** Shabad 109: Saunna Sandhaiaa Taeraee Daeva Daevaakara Adhapa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई ॥
+सिध समाधि अंतु नही पाइआ लागि रहे सरनाई ॥१॥
+लेहु आरती हो पुरख निरंजन सतिगुर पूजहु भाई ॥
+ठाढा ब्रहमा निगम बीचारै अलखु न लखिआ जाई ॥१॥ रहाउ ॥
+ततु तेलु नामु कीआ बाती दीपकु देह उज्यारा ॥
+जोति लाइ जगदीस जगाइआ बूझै बूझनहारा ॥२॥
+पंचे सबद अनाहद बाजे संगे सारिंगपानी ॥
+कबीर दास तेरी आरती कीनी निरंकार निरबानी ॥३॥५॥1350॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सुंन (शून्य, निराकार ब्रह्म) संधिआ (संधिआ का आध्यात्मिक भाव) तेरी (तेरी/आपकी) देव (प्रभु/परमेश्वर) देवाकर (देवाकर का आध्यात्मिक भाव) अधपति (अधपति का आध्यात्मिक भाव) आदि (सनातन/प्रारंभ) समाई (समाई (सधुक्कड़ी भाव)) ॥
+सिध (सिध का आध्यात्मिक भाव) समाधि (सहज समाधि/ध्यान) अंतु (रहस्य) नही (नहीं) पाइआ (पा लिया है) लागि (प्रेम-संबंध/लगन) रहे (रहे हैं पर) सरनाई (सरनाई का आध्यात्मिक भाव) ॥ ॥
+लेहु (लो/स्वीकार करो) आरती (परम महा-आरती) हो (हे!/हो) पुरख (पुरख का आध्यात्मिक भाव) निरंजन (मायातीत, निर्लेप) सतिगुर (सच्चे गुरु) पूजहु (पूजहु का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+ठाढा (ठाढा का आध्यात्मिक भाव) ब्रहमा (ब्रहमा का आध्यात्मिक भाव) निगम (वेद/शास्त्र) बीचारै (बीचारै का आध्यात्मिक भाव) अलखु (अलक्ष्य/अदृश्य) न (नहीं) लखिआ (लखिआ का आध्यात्मिक भाव) जाई (जाओ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+ततु (तत्व/परम सत्य) तेलु (दीपक का तेल) नामु (सत्य-नाम) कीआ (किया) बाती (दीप की वर्तिका/बाती) दीपकु (प्रकाशमान दीप) देह (दो) उज्यारा (उज्यारा का आध्यात्मिक भाव) ॥
+जोति (दिव्य ज्योति/प्रकाश) लाइ (लगाकर (में/करके)) जगदीस (जगदीस (सधुक्कड़ी भाव)) जगाइआ (जगाइआ का आध्यात्मिक भाव) बूझै (समझता/जानता (करता है/होता है)) बूझनहारा (बूझनहारा का आध्यात्मिक भाव) ॥ ॥
+पंचे (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) सबद (ईश्वरीय शब्द, अनाहत ध्वनि) अनाहद (अनाहद (सधुक्कड़ी भाव)) बाजे (बाजे का आध्यात्मिक भाव) संगे (संग/साथ) सारिंगपानी (सारिंगपानी का आध्यात्मिक भाव) ॥
+कबीर (संत कबीर जी) दास (अनन्य सेवक/भक्त) तेरी (तेरी/आपकी) आरती (परम महा-आरती) कीनी (क्या (लोग/समूह) संबंधी) निरंकार (निरंकार का आध्यात्मिक भाव) निरबानी (निर्वाण पद/परम मुक्ति) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sunn (the Void, formless transcendent reality) sandhia (sandhia) teree (Thine) dev (Divine Lord) devaakar (devaakar) adhapati (adhapati) aadi (primordial/origin) samaaee (samaaee (spiritual sense)) .
+sidh (sidh) samaadhi (deep spiritual absorption) antu (inner core) nahee (not) paaia (have found) laagi (spark of love/attachment) rahe (remain) saranaaee (saranaaee) . .
+lehu (take ye/receive) aaratee (supreme cosmic adoration) ho (O!/art) purakh (purakh) niranjan (immaculate, untainted by Maya) satigur (True Master/Guru) poojahu (poojahu) bhaaee (O brother!) .
+thaadha (thaadha) brahama (brahama) nigam (Vedic scriptures) beechaarai (beechaarai) alakhu (unseen/inscrutable) n (not) lakhia (lakhia) jaaee (slip away) . . rahaau (pause for reflection, foundational theme) .
+tatu (essence/Truth) telu (lamp oil) naamu (True Name) keea (did/created) baatee (lamp-wick) deepaku (lamp/flame) deh (give) ujyaara (ujyaara) .
+joti (divine radiance/light) laai (applying/placing (in/having done)) jagadees (jagadees (spiritual sense)) jagaaia (jagaaia) boojhai (comprehends (does/becomes)) boojhanahaara (boojhanahaara) . .
+panche (five vices) sabad (Divine Word, sacred mystical sound) anaahad (anaahad (spiritual sense)) baaje (baaje) sange (with/in company) saaringapaanee (saaringapaanee) .
+kabeer (Sant Kabir) daas (devoted servant) teree (Thine) aaratee (supreme cosmic adoration) keenee (what (folk/plural) related) nirankaar (nirankaar) nirabaanee (state of Nirvana/liberation) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sunnasandhiaatereedevadevaakaraadhapatiaadisama—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-110"></a>
+## शब्द 110: कोऊ हरि समानि नही राजा ॥
+**English Title:** Shabad 110: Kaooo Harai Samaanai Nahaee Raajaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कोऊ हरि समानि नही राजा ॥
+ए भूपति सभ दिवस चारि के झूठे करत दिवाजा ॥१॥ रहाउ ॥
+तेरो जनु होइ सोइ कत डोलै तीनि भवन पर छाजा ॥
+हाथु पसारि सकै को जन कउ बोलि सकै न अंदाजा ॥१॥
+चेति अचेत मूड़ मन मेरे बाजे अनहद बाजा ॥
+कहि कबीर संसा भ्रमु चूको ध्रू प्रहिलाद निवाजा ॥२॥५॥856॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कोऊ (कोई भी) हरि (दुख-हर्ता परमात्मा) समानि (समान/एक जैसा) नही (नहीं) राजा (आदर्श शासन/राज संबंधी) ॥
+ए (ये सब) भूपति (भूपति का आध्यात्मिक भाव) सभ (सब) दिवस (दिन/दिवस) चारि (चारों संबंधी) के (के/संबंध-सूचक) झूठे (मिथ्यावादी) करत (करते) दिवाजा (दिवाजा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तेरो (तेरा) जनु (मानो/जैसे कि) होइ (होकर) सोइ (वह (में/करके)) कत (कहाँ/क्यों) डोलै (डोलै (सधुक्कड़ी भाव)) तीनि (तीन (गुण/लोक)) भवन (लोक/सदन) पर (किन्तु/परन्तु) छाजा (छाजा का आध्यात्मिक भाव) ॥
+हाथु (कर) पसारि (पसारि का आध्यात्मिक भाव) सकै (सके) को (को/की ओर) जन (भक्त/सेवक) कउ (को) बोलि (बोलकर) सकै (सके) न (नहीं) अंदाजा (अंदाजा का आध्यात्मिक भाव) ॥ ॥
+चेति (चेतकर/स्मरण करके) अचेत (अचेत/बेखबर) मूड़ (मूड़ का आध्यात्मिक भाव) मन (मन/चित्त) मेरे (पर मेरे) बाजे (बाजे का आध्यात्मिक भाव) अनहद (अनाहत, अखंड ईश्वरीय नाद) बाजा (बाजा का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) संसा (संशय/भ्रम) भ्रमु (भ्रम/संशय) चूको (चूको का आध्यात्मिक भाव) ध्रू (ध्रू (सधुक्कड़ी भाव)) प्रहिलाद (प्रहिलाद का आध्यात्मिक भाव) निवाजा (निवाज (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kooo (anyone) hari (The Lord who dispels grief (Hari)) samaani (equal/identical) nahee (not) raaja (realm/kingdom related) .
+e (these) bhoopati (bhoopati) sabh (all) divas (day) chaari (four related) ke (of) jhoothe (liars) karat (doing) divaaja (divaaja) . . rahaau (pause for reflection, foundational theme) .
+tero (thy/thine) janu (as if/devotee) hoi (having become) soi (that (in/having done)) kat (where/why) dolai (dolai (spiritual sense)) teeni (three) bhavan (cosmic mansion/realm) par (but/upon) chhaaja (chhaaja) .
+haathu (hand) pasaari (pasaari) sakai (can) ko (unto/toward) jan (devotee/humble servant) kau (unto) boli (having spoken) sakai (can) n (not) andaaja (andaaja) . .
+cheti (having remembered) achet (unconscious/heedless) mood (mood) man (mind/inner consciousness) mere (my) baaje (baaje) anahad (unstruck celestial music, unstruck divine vibration) baaja (baaja) .
+kahi (from (unto/in)) kabeer (Sant Kabir) sansa (doubt/skepticism) bhramu (illusion/doubt) chooko (chooko) dhroo (dhroo (spiritual sense)) prahilaad (prahilaad) nivaaja (nivaaj (spiritual sense)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कोऊ हरि समानि नही राजा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! koooharisamaaninaheeraaja—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 110: कोऊ हरि समानि नही राजा ॥'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-111"></a>
+## शब्द 111: राखि लेहु हम ते बिगरी
+**English Title:** Shabad 111: Raakhai Laehau Hama Tae Baigaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+राखि लेहु हम ते बिगरी ॥
+सीलु धरमु जपु भगति न कीनी हउ अभिमान टेढ पगरी ॥१॥ रहाउ ॥
+अमर जानि संची इह काइआ इह मिथिआ काची गगरी ॥
+जिनहि निवाजि साजि हम कीए तिसहि बिसारि अवर लगरी ॥१॥
+संधिक तोहि साध नही कहीअउ सरनि परे तुमरी पगरी ॥
+कहि कबीर इह बिनती सुनीअहु मत घालहु जम की खबरी ॥२॥६॥856॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+राखि (राखि का आध्यात्मिक भाव) लेहु (लो/स्वीकार करो) हम (हम सब प्राणी) ते (से/द्वारा) बिगरी (बिगरी का आध्यात्मिक भाव) ॥
+सीलु (सीलु का आध्यात्मिक भाव) धरमु (धर्म) जपु (स्मरण/जाप) भगति (प्रेम-भक्ति) न (नहीं) कीनी (क्या (लोग/समूह) संबंधी) हउ (मैं/अहंभाव) अभिमान (अहंकार और गर्व) टेढ (टेढ का आध्यात्मिक भाव) पगरी (पगरी का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+अमर (अविनाशी/अमर) जानि (जिसका/जब (के/में)) संची (संची का आध्यात्मिक भाव) इह (ये) काइआ (काइआ का आध्यात्मिक भाव) इह (ये) मिथिआ (मिथिआ का आध्यात्मिक भाव) काची (काची (सधुक्कड़ी भाव)) गगरी (गगरी का आध्यात्मिक भाव) ॥
+जिनहि (जिनहि का आध्यात्मिक भाव) निवाजि (निवाज (सधुक्कड़ी भाव)) साजि (साजि का आध्यात्मिक भाव) हम (हम सब प्राणी) कीए (किए/बनाए) तिसहि (तिसहि का आध्यात्मिक भाव) बिसारि (बिसारि (सधुक्कड़ी भाव)) अवर (अन्य/दूसरा) लगरी (लगरी का आध्यात्मिक भाव) ॥ ॥
+संधिक (संधिक का आध्यात्मिक भाव) तोहि (तुझको/तुम्हें) साध (संत) नही (नहीं) कहीअउ (कहीअउ का आध्यात्मिक भाव) सरनि (सिर/सरोवर (के/में)) परे (दूर) तुमरी (तुमरी का आध्यात्मिक भाव) पगरी (पगरी का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) इह (ये) बिनती (बिनती का आध्यात्मिक भाव) सुनीअहु (सुनीअहु का आध्यात्मिक भाव) मत (और मति का रहस्य) घालहु (घालहु का आध्यात्मिक भाव) जम (यमराज/मृत्यु) की (की/संबंध-सूचक) खबरी (खबरी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raakhi (raakhi) lehu (take ye/receive) ham (we mortal beings) te (from/by) bigaree (bigaree) .
+seelu (seelu) dharamu (righteousness) japu (chanting/meditation) bhagati (loving devotion) n (not) keenee (what (folk/plural) related) hau (I/ego) abhimaan (pride/arrogance) tedh (tedh) pagaree (pagaree) . . rahaau (pause for reflection, foundational theme) .
+amar (immortal/deathless) jaani (whose/when (of/in)) sanchee (sanchee) ih (these) kaaia (kaaia) ih (these) mithia (mithia) kaachee (kaachee (spiritual sense)) gagaree (gagaree) .
+jinahi (jinahi) nivaaji (nivaaj (spiritual sense)) saaji (saaji) ham (we mortal beings) keee (done/fashioned) tisahi (tisahi) bisaari (bisaari (spiritual sense)) avar (other/another) lagaree (lagaree) . .
+sandhik (sandhik) tohi (unto thee) saadh (saint) nahee (not) kaheeau (kaheeau) sarani (head/lake (of/in)) pare (aside) tumaree (tumaree) pagaree (pagaree) .
+kahi (from (unto/in)) kabeer (Sant Kabir) ih (these) binatee (binatee) suneeahu (suneeahu) mat (wisdom) ghaalahu (ghaalahu) jam (Yamraj/Death) kee (of) khabaree (khabaree) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! राखि लेहु हम ते बिगरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raakhilehuhamatebigaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 111: राखि लेहु हम ते बिगरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-112"></a>
+## शब्द 112: दरमादे ठाढे दरबारि
+**English Title:** Shabad 112: Daramaadae Thaadhae Darabaarai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+दरमादे ठाढे दरबारि ॥
+तुझ बिनु सुरति करै को मेरी दरसनु दीजै खोल्हि किवार ॥१॥ रहाउ ॥
+तुम धन धनी उदार तिआगी स्रवनन्ह सुनीअतु सुजसु तुम्हार ॥
+मागउ काहि रंक सभ देखउ तुम्ह ही ते मेरो निसतारु ॥१॥
+जैदेउ नामा बिप सुदामा तिन कउ क्रिपा भई है अपार ॥
+कहि कबीर तुम सम्रथ दाते चारि पदारथ देत न बार ॥२॥७॥856॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+दरमादे (दरमादे का आध्यात्मिक भाव) ठाढे (ठाढे का आध्यात्मिक भाव) दरबारि (द्वार संबंधी) ॥
+तुझ (तुझे) बिनु (बिना/रहित) सुरति (चेतना/होश (में/करके)) करै (करके (करता है/ने)) को (को/की ओर) मेरी (मेरी जीवन-) दरसनु (अमृत-रस (लोग/समूह) संबंधी) दीजै (प्रदान कीजिए) खोल्हि (खोल्हि का आध्यात्मिक भाव) किवार (किवार का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तुम (आप/तुम) धन (संपदा) धनी (संपदा) उदार (उदार का आध्यात्मिक भाव) तिआगी (तिआगी का आध्यात्मिक भाव) स्रवनन्ह (स्रवनन्ह का आध्यात्मिक भाव) सुनीअतु (सुनीअतु का आध्यात्मिक भाव) सुजसु (पवित्र सुयश/महिमा) तुम्हार (तुम्हारा) ॥
+मागउ (मांगता हूँ) काहि (का/संबंध-सूचक (को/में)) रंक (रंक का आध्यात्मिक भाव) सभ (सब) देखउ (देखकर) तुम्ह (तुम/आप) ही (केवल/मात्र) ते (से/द्वारा) मेरो (मेरा/मुझ दीन का) निसतारु (निसतारु का आध्यात्मिक भाव) ॥ ॥
+जैदेउ (जैदेउ का आध्यात्मिक भाव) नामा (परम पावन नाम संबंधी) बिप (बिप का आध्यात्मिक भाव) सुदामा (सुदामा जी) तिन (उन्होंने/उनका) कउ (को) क्रिपा (कृपा/अनुग्रह) भई (हो गई) है (है कि) अपार (भवसागर पार संबंधी) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) तुम (आप/तुम) सम्रथ (सम्रथ का आध्यात्मिक भाव) दाते (हे दाता प्रभु!) चारि (चारों संबंधी) पदारथ (पदारथ (सधुक्कड़ी भाव)) देत (दे रहा) न (नहीं) बार (द्वार) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+daramaade (daramaade) thaadhe (thaadhe) darabaari (door related) .
+tujh (thee) binu (without/devoid of) surati (consciousness/mind (in/having done)) karai (doing (does/by)) ko (unto/toward) meree (my life's) darasanu (nectar (folk/plural) related) deejai (please grant) kholhi (kholhi) kivaar (kivaar) . . rahaau (pause for reflection, foundational theme) .
+tum (You/Thou) dhan (wealth) dhanee (wealth) udaar (udaar) tiaagee (tiaagee) sravananh (sravananh) suneeatu (suneeatu) sujasu (sacred renown/glory) tumhaar (thine) .
+maagau (I beg/pray for) kaahi (of (unto/in)) rank (rank) sabh (all) dekhau (beholding) tumh (You/Thou) hee (alone/only) te (from/by) mero (my/mine) nisataaru (nisataaru) . .
+jaideu (jaideu) naama (Divine Name related) bip (bip) sudaama (Sudama) tin (they/them) kau (unto) kripa (grace/mercy) bhaee (became) hai (is) apaar (across shore related) .
+kahi (from (unto/in)) kabeer (Sant Kabir) tum (You/Thou) samrath (samrath) daate (O Supreme Giver!) chaari (four related) padaarath (padaarath (spiritual sense)) det (giving) n (not) baar (door) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! दरमादे ठाढे दरबारि—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! daramaadethaadhedarabaari—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 112: दरमादे ठाढे दरबारि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-113"></a>
+## शब्द 113: डंडा मुंद्रा खिंथा आधारी
+**English Title:** Shabad 113: Dandaa Maundaraa Khainthaa Aadhaaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+डंडा मुंद्रा खिंथा आधारी ॥
+भ्रम कै भाइ भवै भेखधारी ॥१॥
+आसनु पवन दूरि करि बवरे ॥
+छोडि कपटु नित हरि भजु बवरे ॥१॥ रहाउ ॥
+जिह तू जाचहि सो त्रिभवन भोगी ॥
+कहि कबीर केसौ जगि जोगी ॥२॥८॥856॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+डंडा (डंडा का आध्यात्मिक भाव) मुंद्रा (मुंद्रा का आध्यात्मिक भाव) खिंथा (खिंथा का आध्यात्मिक भाव) आधारी (आश्रय, सहारा) ॥
+भ्रम (भ्रांति/संशय/अज्ञान) कै (के/का) भाइ (भाइ का आध्यात्मिक भाव) भवै (संसार/भवसागर) भेखधारी (भेखधारी का आध्यात्मिक भाव) ॥ ॥
+आसनु (आशा (लोग/समूह)) पवन (वायु) दूरि (दूर/फासले पर) करि (करके/हाथ से) बवरे (बवरे का आध्यात्मिक भाव) ॥
+छोडि (छोडि का आध्यात्मिक भाव) कपटु (कपटु का आध्यात्मिक भाव) नित (नित्य/प्रतिदिन) हरि (दुख-हर्ता परमात्मा) भजु (भजु का आध्यात्मिक भाव) बवरे (बवरे का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जिह (जिस) तू (तू/परमात्मा) जाचहि (जाचहि का आध्यात्मिक भाव) सो (वह/वही) त्रिभवन (त्रिभवन (सधुक्कड़ी भाव)) भोगी (विरह-दुख का भोग) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) केसौ (केसौ (सधुक्कड़ी भाव)) जगि (जगत में/संसार में) जोगी (योगी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+danda (danda) mundra (mundra) khintha (khintha) aadhaaree (foundation, supreme support) .
+bhram (illusion/doubt) kai (of) bhaai (bhaai) bhavai (ocean of mortal existence) bhekhadhaaree (bhekhadhaaree) . .
+aasanu (hope (folk/plural)) pavan (wind) doori (far/distant) kari (having done/with hands) bavare (bavare) .
+chhodi (chhodi) kapatu (kapatu) nit (daily/ever) hari (The Lord who dispels grief (Hari)) bhaju (bhaju) bavare (bavare) . . rahaau (pause for reflection, foundational theme) .
+jih (which) too (Thou) jaachahi (jaachahi) so (that/the same) tribhavan (tribhavan (spiritual sense)) bhogee (suffering of longing) .
+kahi (from (unto/in)) kabeer (Sant Kabir) kesau (kesau (spiritual sense)) jagi (in the mortal world) jogee (yogi) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! डंडा मुंद्रा खिंथा आधारी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! dandaamundraakhinthaaaadhaaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 113: डंडा मुंद्रा खिंथा आधारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-114"></a>
+## शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे
+**English Title:** Shabad 114: Inahai Maaiaa Jagadaeesa Gausaaee Taumaharae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे ॥
+किंचत प्रीति न उपजै जन कउ जन कहा करहि बेचारे ॥१॥ रहाउ ॥
+ध्रिगु तनु ध्रिगु धनु ध्रिगु इह माइआ ध्रिगु ध्रिगु मति बुधि फंनी ॥
+इस माइआ कउ द्रिड़ु करि राखहु बांधे आप बचंनी ॥१॥
+किआ खेती किआ लेवा देई परपंच झूठु गुमाना ॥
+कहि कबीर ते अंति बिगूते आइआ कालु निदाना ॥२॥९॥857॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+इन्हि (इन्हि का आध्यात्मिक भाव) माइआ (माया/भ्रम) जगदीस (जगदीस (सधुक्कड़ी भाव)) गुसाई (गुसाई का आध्यात्मिक भाव) तुम्हरे (तुम्हरे (सधुक्कड़ी भाव)) चरन (कमल-चरण) बिसारे (बिसारे का आध्यात्मिक भाव) ॥
+किंचत (किंचत का आध्यात्मिक भाव) प्रीति (प्रेम संबंधी) न (नहीं) उपजै (उत्पन्न होता है) जन (भक्त/सेवक) कउ (को) जन (भक्त/सेवक) कहा (क्या/कहाँ) करहि (करते हैं) बेचारे (बेचारे का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+ध्रिगु (ध्रिगु का आध्यात्मिक भाव) तनु (नश्वर शरीर/देह) ध्रिगु (ध्रिगु का आध्यात्मिक भाव) धनु (धन/संपत्ति) ध्रिगु (ध्रिगु का आध्यात्मिक भाव) इह (ये) माइआ (माया/भ्रम) ध्रिगु (ध्रिगु का आध्यात्मिक भाव) ध्रिगु (ध्रिगु का आध्यात्मिक भाव) मति (बुद्धि/समझ) बुधि (बुद्धि/मति) फंनी (फंनी का आध्यात्मिक भाव) ॥
+इस (इस संसारी) माइआ (माया/भ्रम) कउ (को) द्रिड़ु (द्रिड़ु का आध्यात्मिक भाव) करि (करके/हाथ से) राखहु (रक्षा कीजिए/रखो) बांधे (बांध लिए/जकड़े हुए) आप (स्वयं/परमात्मा) बचंनी (बचंनी का आध्यात्मिक भाव) ॥ ॥
+किआ (क्या) खेती (युद्धभूमि, संसार) किआ (क्या) लेवा (लेवा का आध्यात्मिक भाव) देई (देई का आध्यात्मिक भाव) परपंच (परपंच (सधुक्कड़ी भाव)) झूठु (असत्य) गुमाना (गुमाना का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) ते (से/द्वारा) अंति (रहस्य (में/करके)) बिगूते (बिगूते का आध्यात्मिक भाव) आइआ (आया) कालु (काल/मृत्यु) निदाना (दान/खैरात संबंधी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+inhi (inhi) maaia (cosmic illusion) jagadees (jagadees (spiritual sense)) gusaaee (gusaaee) tumhare (tumhare (spiritual sense)) charan (lotus feet) bisaare (bisaare) .
+kinchat (kinchat) preeti (love related) n (not) upajai (springs forth/arises) jan (devotee/humble servant) kau (unto) jan (devotee/humble servant) kaha (what/where) karahi (they do) bechaare (bechaare) . . rahaau (pause for reflection, foundational theme) .
+dhrigu (dhrigu) tanu (mortal body) dhrigu (dhrigu) dhanu (wealth/riches) dhrigu (dhrigu) ih (these) maaia (cosmic illusion) dhrigu (dhrigu) dhrigu (dhrigu) mati (intellect/mind) budhi (intellect/wit) phannee (phannee) .
+is (this) maaia (cosmic illusion) kau (unto) dridu (dridu) kari (having done/with hands) raakhahu (protect ye/keep) baandhe (bound/tied) aap (Himself/oneself) bachannee (bachannee) . .
+kia (what) khetee (battlefield of life and mind) kia (what) leva (leva) deee (deee) parapanch (parapanch (spiritual sense)) jhoothu (untruth) gumaana (gumaana) .
+kahi (from (unto/in)) kabeer (Sant Kabir) te (from/by) anti (inner core (in/having done)) bigoote (bigoote) aaia (came/arrived) kaalu (death/time) nidaana (charity/alms related) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! inhimaaiaajagadeesagusaaeetumharecharanabisaar—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-115"></a>
+## शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप
+**English Title:** Shabad 115: Saraeera Saraovara Bhaeetarae Aachhaai Kamala Anaoopa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सरीर सरोवर भीतरे आछै कमल अनूप ॥
+परम जोति पुरखोतमो जा कै रेख न रूप ॥१॥
+रे मन हरि भजु भ्रमु तजहु जगजीवन राम ॥१॥ रहाउ ॥
+आवत कछू न दीसई नह दीसै जात ॥
+जह उपजै बिनसै तही जैसे पुरिवन पात ॥२॥
+मिथिआ करि माइआ तजी सुख सहज बीचारि ॥
+कहि कबीर सेवा करहु मन मंझि मुरारि ॥३॥१०॥857॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सरीर (मानव शरीर/देह) सरोवर (सरोवर का आध्यात्मिक भाव) भीतरे (भीतर/अंतःकरण में) आछै (आछै का आध्यात्मिक भाव) कमल (पद्म/कमल पुष्प) अनूप (अनुपम) ॥
+परम (सर्वोच्च/परम) जोति (दिव्य ज्योति/प्रकाश) पुरखोतमो (पुरखोतमो का आध्यात्मिक भाव) जा (जिसका/जब) कै (के/का) रेख (रेख का आध्यात्मिक भाव) न (नहीं) रूप (स्वरूप) ॥ ॥
+रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) हरि (दुख-हर्ता परमात्मा) भजु (भजु का आध्यात्मिक भाव) भ्रमु (भ्रम/संशय) तजहु (तजहु का आध्यात्मिक भाव) जगजीवन (जगजीवन (सधुक्कड़ी भाव)) राम (सर्वव्यापी परमात्मा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+आवत (आवत का आध्यात्मिक भाव) कछू (कुछ) न (नहीं) दीसई (दीसई का आध्यात्मिक भाव) नह (नहीं) दीसै (दिखाई देता है) जात (जाती नहीं/दूर नहीं होती) ॥
+जह (जहाँ/जिस स्थान पर) उपजै (उत्पन्न होता है) बिनसै (बिनसै (सधुक्कड़ी भाव)) तही (वहाँ) जैसे (जिस प्रकार) पुरिवन (पुरिवन का आध्यात्मिक भाव) पात (पत्ते/छिलके) ॥ ॥
+मिथिआ (मिथिआ का आध्यात्मिक भाव) करि (करके/हाथ से) माइआ (माया/भ्रम) तजी (तजी (सधुक्कड़ी भाव)) सुख (सच्चा सुख) सहज (स्वाभाविक शांति, परम संतुलन) बीचारि (चारों संबंधी) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) सेवा (समर्पित भक्ति) करहु (करके (से/द्वारा)) मन (मन/चित्त) मंझि (मंझि (सधुक्कड़ी भाव)) मुरारि (मुरारी/परमेश्वर) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+sareer (mortal body) sarovar (sarovar) bheetare (inside/within) aachhai (aachhai) kamal (lotus flower) anoop (peerless) .
+param (supreme/highest) joti (divine radiance/light) purakhotamo (purakhotamo) ja (whose/when) kai (of) rekh (rekh) n (not) roop (form) . .
+re (Re (Divine Will)) man (mind/inner consciousness) hari (The Lord who dispels grief (Hari)) bhaju (bhaju) bhramu (illusion/doubt) tajahu (tajahu) jagajeevan (jagajeevan (spiritual sense)) raam (The All-Pervading Lord (Ram)) . . rahaau (pause for reflection, foundational theme) .
+aavat (aavat) kachhoo (anything) n (not) deesaee (deesaee) nah (not) deesai (is seen/appears) jaat (departs/is erased) .
+jah (wherever) upajai (springs forth/arises) binasai (binasai (spiritual sense)) tahee (there) jaise (just as) purivan (purivan) paat (layers of leaves) . .
+mithia (mithia) kari (having done/with hands) maaia (cosmic illusion) tajee (tajee (spiritual sense)) sukh (true bliss) sahaj (spontaneous spiritual equilibrium, effortless bliss) beechaari (four related) .
+kahi (from (unto/in)) kabeer (Sant Kabir) seva (devoted service) karahu (doing (from/by)) man (mind/inner consciousness) manjhi (manjhi (spiritual sense)) muraari (Lord Murari) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सरीर सरोवर भीतरे आछै कमल अनूप—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sareerasarovarabheetareaachhaikamalaanoopa—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-116"></a>
+## शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी
+**English Title:** Shabad 116: Janama Marana Kaa Bharamau Gaiaa Gaobaida Laiva
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जनम मरन का भ्रमु गइआ गोबिद लिव लागी ॥
+जीवत सुंनि समानिआ गुर साखी जागी ॥१॥ रहाउ ॥
+कासी ते धुनि ऊपजै धुनि कासी जाई ॥
+कासी फूटी पंडिता धुनि कहां समाई ॥१॥
+त्रिकुटी संधि मै पेखिआ घट हू घट जागी ॥
+ऐसी बुधि समाचरी घट माहि तिआगी ॥२॥
+आपु आप ते जानिआ तेज तेजु समाना ॥
+कहु कबीर अब जानिआ गोबिद मनु माना ॥३॥११॥857॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जनम (जन्म/जीवन) मरन (मृत्यु/मरण) का (का/संबंध-सूचक) भ्रमु (भ्रम/संशय) गइआ (गया) गोबिद (गोबिद का आध्यात्मिक भाव) लिव (एकतार ध्यान/सुरति) लागी (प्रेम की लगन/विरहाग्नि) ॥
+जीवत (जीवित रहते हुए) सुंनि (सुंनि (सधुक्कड़ी भाव)) समानिआ (समानिआ का आध्यात्मिक भाव) गुर (गुरु के) साखी (साक्षी, प्रत्यक्ष प्रमाण) जागी (जागकर) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कासी (कासी (सधुक्कड़ी भाव)) ते (से/द्वारा) धुनि (धुनि का आध्यात्मिक भाव) ऊपजै (उत्पन्न होता है) धुनि (धुनि का आध्यात्मिक भाव) कासी (कासी (सधुक्कड़ी भाव)) जाई (जाओ) ॥
+कासी (कासी (सधुक्कड़ी भाव)) फूटी (फूटी का आध्यात्मिक भाव) पंडिता (पंडित/शास्त्रज्ञ) धुनि (धुनि का आध्यात्मिक भाव) कहां (कहकर) समाई (समाई (सधुक्कड़ी भाव)) ॥ ॥
+त्रिकुटी (भ्रूमध्य, संगम स्थल) संधि (संधि का आध्यात्मिक भाव) मै (मैं/मैंने) पेखिआ (पेखिआ का आध्यात्मिक भाव) घट (हृदय/शरीर) हू (भी) घट (हृदय/शरीर) जागी (जागकर) ॥
+ऐसी (इस विरह रूपी) बुधि (बुद्धि/मति) समाचरी (समाचरी का आध्यात्मिक भाव) घट (हृदय/शरीर) माहि (में/अंदर) तिआगी (तिआगी का आध्यात्मिक भाव) ॥ ॥
+आपु (स्वयं) आप (स्वयं/परमात्मा) ते (से/द्वारा) जानिआ (जानिआ का आध्यात्मिक भाव) तेज (तेज (सधुक्कड़ी भाव)) तेजु (तेज (सधुक्कड़ी भाव)) समाना (समाहित होना) ॥
+कहु (बताओ) कबीर (संत कबीर जी) अब (अब/इस समय) जानिआ (जानिआ का आध्यात्मिक भाव) गोबिद (गोबिद का आध्यात्मिक भाव) मनु (मन/अंतःकरण) माना (माना का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+janam (birth/life) maran (death/mortality) ka (of) bhramu (illusion/doubt) gaia (went/departed) gobid (gobid) liv (unbroken divine absorption) laagee (flame of longing) .
+jeevat (while living) sunni (sunni (spiritual sense)) samaania (samaania) gur (of the Master) saakhee (witness, spiritual testimony) jaagee (awakened) . . rahaau (pause for reflection, foundational theme) .
+kaasee (kaasee (spiritual sense)) te (from/by) dhuni (dhuni) oopajai (arises/is born) dhuni (dhuni) kaasee (kaasee (spiritual sense)) jaaee (slip away) .
+kaasee (kaasee (spiritual sense)) phootee (phootee) pandita (learned scholar/priest) dhuni (dhuni) kahaan (saying) samaaee (samaaee (spiritual sense)) . .
+trikutee (eyebrow center, confluence of psychic channels) sandhi (sandhi) mai (I/by me) pekhia (pekhia) ghat (body/inner temple) hoo (even/also) ghat (body/inner temple) jaagee (awakened) .
+aisee (such) budhi (intellect/wit) samaacharee (samaacharee) ghat (body/inner temple) maahi (within) tiaagee (tiaagee) . .
+aapu (oneself) aap (Himself/oneself) te (from/by) jaania (jaania) tej (tej (spiritual sense)) teju (tej (spiritual sense)) samaana (to merge/permeate) .
+kahu (tell) kabeer (Sant Kabir) ab (now) jaania (jaania) gobid (gobid) manu (mind/inner spirit) maana (maana) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जनम मरन का भ्रमु गइआ गोबिद लिव लागी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! janamamaranakaabhramugaiaagobidalivalaagee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-117"></a>
+## शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव
+**English Title:** Shabad 117: Charana Kamala Jaa Kaai Raidaai Basahai Sao Janau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव ॥
+मानौ सभ सुख नउ निधि ता कै सहजि सहजि जसु बोलै देव ॥ रहाउ ॥
+तब इह मति जउ सभ महि पेखै कुटिल गांठि जब खोलै देव ॥
+बारं बार माइआ ते अटकै लै नरजा मनु तोलै देव ॥१॥
+जह उहु जाइ तही सुखु पावै माइआ तासु न झोलै देव ॥
+कहि कबीर मेरा मनु मानिआ राम प्रीति कीओ लै देव ॥२॥१२॥857॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+चरन (कमल-चरण) कमल (पद्म/कमल पुष्प) जा (जिसका/जब) कै (के/का) रिदै (हृदय में) बसहि (बसते हैं) सो (वह/वही) जनु (मानो/जैसे कि) किउ (अथवा) डोलै (डोलै (सधुक्कड़ी भाव)) देव (प्रभु/परमेश्वर) ॥
+मानौ (मानौ का आध्यात्मिक भाव) सभ (सब) सुख (सच्चा सुख) नउ (नउ का आध्यात्मिक भाव) निधि (नौ निधियां/खजाना) ता (उस पर/उसका) कै (के/का) सहजि (सहज अवस्था में) सहजि (सहज अवस्था में) जसु (यश/कीर्ति) बोलै (वाणी/वचन (करता है/ने)) देव (प्रभु/परमेश्वर) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तब (उस समय/तब) इह (ये) मति (बुद्धि/समझ) जउ (यदि/जब) सभ (सब) महि (में/भीतर) पेखै (पेखै का आध्यात्मिक भाव) कुटिल (कुटिल (सधुक्कड़ी भाव)) गांठि (गांठ/बंधन) जब (जिस समय/जब) खोलै (खंडहर, गिरा हुआ पुराना मकान (करता है/ने)) देव (प्रभु/परमेश्वर) ॥
+बारं (द्वार) बार (द्वार) माइआ (माया/भ्रम) ते (से/द्वारा) अटकै (अटकै का आध्यात्मिक भाव) लै (ले) नरजा (नरजा का आध्यात्मिक भाव) मनु (मन/अंतःकरण) तोलै (तोलै का आध्यात्मिक भाव) देव (प्रभु/परमेश्वर) ॥ ॥
+जह (जहाँ/जिस स्थान पर) उहु (वह) जाइ (जिसका/जब (में/करके)) तही (वहाँ) सुखु (सच्चा सुख) पावै (प्राप्त करता है) माइआ (माया/भ्रम) तासु (उसका/उसकी) न (नहीं) झोलै (झोलै का आध्यात्मिक भाव) देव (प्रभु/परमेश्वर) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) मेरा (मेरा/अधीन) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) प्रीति (प्रेम संबंधी) कीओ (किया) लै (ले) देव (प्रभु/परमेश्वर) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+charan (lotus feet) kamal (lotus flower) ja (whose/when) kai (of) ridai (in the heart) basahi (dwell) so (that/the same) janu (as if/devotee) kiu (or is it) dolai (dolai (spiritual sense)) dev (Divine Lord) .
+maanau (maanau) sabh (all) sukh (true bliss) nau (nau) nidhi (treasure/spiritual wealth) ta (upon that/his) kai (of) sahaji (in spontaneous poise) sahaji (in spontaneous poise) jasu (glory/praise) bolai (word/speech (does/by)) dev (Divine Lord) . rahaau (pause for reflection, foundational theme) .
+tab (at that time/then) ih (these) mati (intellect/mind) jau (if/when) sabh (all) mahi (within/in) pekhai (pekhai) kutil (kutil (spiritual sense)) gaanthi (knot/tie) jab (at the time when) kholai (Ruined house, dilapidated crumbling wall (does/by)) dev (Divine Lord) .
+baaran (door) baar (door) maaia (cosmic illusion) te (from/by) atakai (atakai) lai (bringing) naraja (naraja) manu (mind/inner spirit) tolai (tolai) dev (Divine Lord) . .
+jah (wherever) uhu (that) jaai (whose/when (in/having done)) tahee (there) sukhu (true bliss) paavai (attains/realizes) maaia (cosmic illusion) taasu (whose/of that) n (not) jholai (jholai) dev (Divine Lord) .
+kahi (from (unto/in)) kabeer (Sant Kabir) mera (my/mine) manu (mind/inner spirit) maania (maania) raam (The All-Pervading Lord (Ram)) preeti (love related) keeo (created/done) lai (bringing) dev (Divine Lord) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! charanakamalajaakairidaibasahisojanukiudolai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-118"></a>
+## शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले
+**English Title:** Shabad 118: Aakaasai Gaganau Paataalai Gaganau Haai Chahau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले ॥
+आनद मूलु सदा पुरखोतमु घटु बिनसै गगनु न जाइले ॥१॥
+मोहि बैरागु भइओ ॥
+इहु जीउ आइ कहा गइओ ॥१॥ रहाउ ॥
+पंच ततु मिलि काइआ कीन्ही ततु कहा ते कीनु रे ॥
+करम बध तुम जीउ कहत हौ करमहि किनि जीउ दीनु रे ॥२॥
+हरि महि तनु है तन महि हरि है सरब निरंतरि सोइ रे ॥
+कहि कबीर राम नामु न छोडउ सहजे होइ सु होइ रे ॥३॥३॥870॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+आकासि (आकासि का आध्यात्मिक भाव) गगनु (ब्रह्मरंध्र, आंतरिक आकाश) पातालि (पातालि का आध्यात्मिक भाव) गगनु (ब्रह्मरंध्र, आंतरिक आकाश) है (है कि) चहु (और (से/द्वारा)) दिसि (दिशा में) गगनु (ब्रह्मरंध्र, आंतरिक आकाश) रहाइले (रहाइले का आध्यात्मिक भाव) ॥
+आनद (आनद का आध्यात्मिक भाव) मूलु (जड़) सदा (सर्वदा/सदा) पुरखोतमु (पुरखोतमु का आध्यात्मिक भाव) घटु (हृदय/शरीर) बिनसै (बिनसै (सधुक्कड़ी भाव)) गगनु (ब्रह्मरंध्र, आंतरिक आकाश) न (नहीं) जाइले (जाइले का आध्यात्मिक भाव) ॥ ॥
+मोहि (मुझको/मुझे) बैरागु (वैराग्य/विरक्ति) भइओ (हुआ) ॥
+इहु (यह) जीउ (मन/जी) आइ (आई) कहा (क्या/कहाँ) गइओ (गया) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पंच (पांच विकार (काम, क्रोध, लोभ, मोह, अहंकार)) ततु (तत्व/परम सत्य) मिलि (मिलो संबंधी) काइआ (काइआ का आध्यात्मिक भाव) कीन्ही (कीन्ह (सधुक्कड़ी भाव)) ततु (तत्व/परम सत्य) कहा (क्या/कहाँ) ते (से/द्वारा) कीनु (क्या (लोग/समूह)) रे (रा (रज़ा व समर्पण)) ॥
+करम (कर्मकांड) बध (बध का आध्यात्मिक भाव) तुम (आप/तुम) जीउ (मन/जी) कहत (कहते हुए) हौ (हूँ/मैं) करमहि (कर्मकांड संबंधी) किनि (किन लोगों ने/किनको (में/करके)) जीउ (मन/जी) दीनु (दीन-हीन/निर्धन) रे (रा (रज़ा व समर्पण)) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) महि (में/भीतर) तनु (नश्वर शरीर/देह) है (है कि) तन (शरीर के) महि (में/भीतर) हरि (दुख-हर्ता परमात्मा) है (है कि) सरब (सबको) निरंतरि (अंतरात्मा में निरंतर) सोइ (वह (में/करके)) रे (रा (रज़ा व समर्पण)) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) न (नहीं) छोडउ (छोडउ का आध्यात्मिक भाव) सहजे (सहज समाधि संबंधी) होइ (होकर) सु (वह) होइ (होकर) रे (रा (रज़ा व समर्पण)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+aakaasi (aakaasi) gaganu (crown chakra, the inner celestial sky) paataali (paataali) gaganu (crown chakra, the inner celestial sky) hai (is) chahu (and (from/by)) disi (in the direction) gaganu (crown chakra, the inner celestial sky) rahaaile (rahaaile) .
+aanad (aanad) moolu (root/origin) sada (always/eternally) purakhotamu (purakhotamu) ghatu (body/inner temple) binasai (binasai (spiritual sense)) gaganu (crown chakra, the inner celestial sky) n (not) jaaile (jaaile) . .
+mohi (unto me) bairaagu (detachment/renunciation) bhaio (occurred/became) .
+ihu (this) jeeu (heart/mind) aai (arrived/came) kaha (what/where) gaio (departed) . . rahaau (pause for reflection, foundational theme) .
+panch (five vices) tatu (essence/Truth) mili (meet related) kaaia (kaaia) keenhee (keenh (spiritual sense)) tatu (essence/Truth) kaha (what/where) te (from/by) keenu (what (folk/plural)) re (Re (Divine Will)) .
+karam (rituals) badh (badh) tum (You/Thou) jeeu (heart/mind) kahat (speaking/saying) hau (am/I) karamahi (rituals related) kini (by whom/unto whom (in/having done)) jeeu (heart/mind) deenu (lowly/meek) re (Re (Divine Will)) . .
+hari (The Lord who dispels grief (Hari)) mahi (within/in) tanu (mortal body) hai (is) tan (body) mahi (within/in) hari (The Lord who dispels grief (Hari)) hai (is) sarab (with all) nirantari (deep within continuously) soi (that (in/having done)) re (Re (Divine Will)) .
+kahi (from (unto/in)) kabeer (Sant Kabir) raam (The All-Pervading Lord (Ram)) naamu (True Name) n (not) chhodau (chhodau) sahaje (innate poise related) hoi (having become) su (that) hoi (having become) re (Re (Divine Will)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! aakaasigaganupaataaligaganuhaichahudisigaganu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-119"></a>
+## शब्द 119: खसमु मरै तउ नारि न रोवै
+**English Title:** Shabad 119: Khasamau Maraai Tau Naarai Na Raovaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+खसमु मरै तउ नारि न रोवै ॥
+उसु रखवारा अउरो होवै ॥
+रखवारे का होइ बिनास ॥
+आगै नरकु ईहा भोग बिलास ॥१॥
+एक सुहागनि जगत पिआरी ॥
+सगले जीअ जंत की नारी ॥१॥ रहाउ ॥
+सोहागनि गलि सोहै हारु ॥
+संत कउ बिखु बिगसै संसारु ॥
+करि सीगारु बहै पखिआरी ॥
+संत की ठिठकी फिरै बिचारी ॥२॥
+संत भागि ओह पाछै परै ॥
+गुर परसादी मारहु डरै ॥
+साकत की ओह पिंड पराइणि ॥
+हम कउ द्रिसटि परै त्रखि डाइणि ॥३॥
+हम तिस का बहु जानिआ भेउ ॥
+जब हूए क्रिपाल मिले गुरदेउ ॥
+कहु कबीर अब बाहरि परी ॥
+संसारै कै अंचलि लरी ॥४॥४॥७॥871॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+खसमु (स्वामी, पति-परमेश्वर) मरै (मर नहीं (करता है/होता है)) तउ (तब/तो भी) नारि (स्त्री/नारी) न (नहीं) रोवै (रोवै का आध्यात्मिक भाव) ॥
+उसु (उस प्रभु ने) रखवारा (रखवारा का आध्यात्मिक भाव) अउरो (अन्य/दूसरा) होवै (होता है) ॥
+रखवारे (रखवारे का आध्यात्मिक भाव) का (का/संबंध-सूचक) होइ (होकर) बिनास (विनाश/मृत्यु) ॥
+आगै (आगै (सधुक्कड़ी भाव)) नरकु (दोज़ख़) ईहा (ईहा का आध्यात्मिक भाव) भोग (विरह-दुख का भोग) बिलास (बिलास का आध्यात्मिक भाव) ॥ ॥
+एक (समान/एक जैसे) सुहागनि (परम सुहाग/प्रियतम के मिलन (के/में)) जगत (संसार) पिआरी (ईश्वरीय प्रेम) ॥
+सगले (संपूर्ण/समस्त) जीअ (जीवात्मा/प्राण) जंत (जीव-जंतु/प्राणी) की (की/संबंध-सूचक) नारी (स्त्री/माया) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सोहागनि (सोहागनि का आध्यात्मिक भाव) गलि (गलि का आध्यात्मिक भाव) सोहै (सोहै का आध्यात्मिक भाव) हारु (पराजय/माला) ॥
+संत (संत/महात्मा) कउ (को) बिखु (हलाहल विष) बिगसै (बिगसै का आध्यात्मिक भाव) संसारु (संसार) ॥
+करि (करके/हाथ से) सीगारु (श्रृंगार/सज्जा) बहै (बैठ (करता है/होता है)) पखिआरी (पखिआरी का आध्यात्मिक भाव) ॥
+संत (संत/महात्मा) की (की/संबंध-सूचक) ठिठकी (ठिठकी का आध्यात्मिक भाव) फिरै (फिरै का आध्यात्मिक भाव) बिचारी (विचार/मंथन) ॥ ॥
+संत (संत/महात्मा) भागि (किस्मत संबंधी) ओह (ओह का आध्यात्मिक भाव) पाछै (पीछे, उपरांत) परै (किन्तु/परन्तु (करता है/ने)) ॥
+गुर (गुरु के) परसादी (परसाद (सधुक्कड़ी भाव)) मारहु (मारहु का आध्यात्मिक भाव) डरै (भय (करता है/ने)) ॥
+साकत (साकत का आध्यात्मिक भाव) की (की/संबंध-सूचक) ओह (ओह का आध्यात्मिक भाव) पिंड (पिंड का आध्यात्मिक भाव) पराइणि (पराइणि का आध्यात्मिक भाव) ॥
+हम (हम सब प्राणी) कउ (को) द्रिसटि (द्रिसटि का आध्यात्मिक भाव) परै (किन्तु/परन्तु (करता है/ने)) त्रखि (त्रखि का आध्यात्मिक भाव) डाइणि (डाइणि का आध्यात्मिक भाव) ॥ ॥
+हम (हम सब प्राणी) तिस (उसका/उसको) का (का/संबंध-सूचक) बहु (अनेक) जानिआ (जानिआ का आध्यात्मिक भाव) भेउ (भेउ का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) हूए (हो गए हैं) क्रिपाल (क्रिपाल का आध्यात्मिक भाव) मिले (मुझे प्राप्त हो) गुरदेउ (गुरदेउ का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) अब (अब/इस समय) बाहरि (प्रभु संबंधी) परी (पड़ी हुई) ॥
+संसारै (संसार/जगत) कै (के/का) अंचलि (अंचलि का आध्यात्मिक भाव) लरी (लरी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+khasamu (Master, the Divine Spouse) marai (dies (does/becomes)) tau (then/still) naari (woman/spouse) n (not) rovai (rovai) .
+usu (his) rakhavaara (rakhavaara) auro (other/another) hovai (happens/becomes) .
+rakhavaare (rakhavaare) ka (of) hoi (having become) binaas (destruction/perishing) .
+aagai (aagai (spiritual sense)) naraku (hell) eeha (eeha) bhog (suffering of longing) bilaas (bilaas) . .
+ek (equal and one) suhaagani (of divine union (of/in)) jagat (of the world) piaaree (divine love) .
+sagale (all/entire) jeea (living soul/breath) jant (creatures/living beings) kee (of) naaree (woman/Maya) . . rahaau (pause for reflection, foundational theme) .
+sohaagani (sohaagani) gali (gali) sohai (sohai) haaru (defeat/garland) .
+sant (holy saint) kau (unto) bikhu (deadly poison) bigasai (bigasai) sansaaru (the world) .
+kari (having done/with hands) seegaaru (adornment/decoration) bahai (heart (does/becomes)) pakhiaaree (pakhiaaree) .
+sant (holy saint) kee (of) thithakee (thithakee) phirai (phirai) bichaaree (contemplation/thought) . .
+sant (holy saint) bhaagi (fortune/destiny related) oh (oh) paachhai (afterwards, in the aftermath) parai (but/upon (does/by)) .
+gur (of the Master) parasaadee (parasaad (spiritual sense)) maarahu (maarahu) darai (fear (does/by)) .
+saakat (saakat) kee (of) oh (oh) pind (pind) paraaini (paraaini) .
+ham (we mortal beings) kau (unto) drisati (drisati) parai (but/upon (does/by)) trakhi (trakhi) daaini (daaini) . .
+ham (we mortal beings) tis (that one/his) ka (of) bahu (many) jaania (jaania) bheu (bheu) .
+jab (at the time when) hooe (have become) kripaal (kripaal) mile (to obtain) guradeu (guradeu) .
+kahu (tell) kabeer (Sant Kabir) ab (now) baahari (the Lord related) paree (fallen/lying) .
+sansaarai (mortal world) kai (of) anchali (anchali) laree (laree) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! खसमु मरै तउ नारि न रोवै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! khasamumaraitaunaarinarovai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 119: खसमु मरै तउ नारि न रोवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-120"></a>
+## शब्द 120: ग्रिहि सोभा जा कै रे नाहि
+**English Title:** Shabad 120: Garaihai Saobhaa Jaa Kaai Rae Naahai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+ग्रिहि सोभा जा कै रे नाहि ॥
+आवत पहीआ खूधे जाहि ॥
+वा कै अंतरि नही संतोखु ॥
+बिनु सोहागनि लागै दोखु ॥१॥
+धनु सोहागनि महा पवीत ॥
+तपे तपीसर डोलै चीत ॥१॥ रहाउ ॥
+सोहागनि किरपन की पूती ॥
+सेवक तजि जगत सिउ सूती ॥
+साधू कै ठाढी दरबारि ॥
+सरनि तेरी मो कउ निसतारि ॥२॥
+सोहागनि है अति सुंदरी ॥
+पग नेवर छनक छनहरी ॥
+जउ लगु प्रान तऊ लगु संगे ॥
+नाहि त चली बेगि उठि नंगे ॥३॥
+सोहागनि भवन त्रै लीआ ॥
+दस अठ पुराण तीरथ रस कीआ ॥
+ब्रहमा बिसनु महेसर बेधे ॥
+बडे भूपति राजे है छेधे ॥४॥
+सोहागनि उरवारि न पारि ॥
+पांच नारद कै संगि बिधवारि ॥
+पांच नारद के मिटवे फूटे ॥
+कहु कबीर गुर किरपा छूटे ॥५॥५॥८॥872॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+ग्रिहि (गृह/घर) सोभा (शोभा/महिमा) जा (जिसका/जब) कै (के/का) रे (रा (रज़ा व समर्पण)) नाहि (नहीं) ॥
+आवत (आवत का आध्यात्मिक भाव) पहीआ (पहीआ का आध्यात्मिक भाव) खूधे (खूधे का आध्यात्मिक भाव) जाहि (जिसका/जब (को/में)) ॥
+वा (और) कै (के/का) अंतरि (हृदय के भीतर) नही (नहीं) संतोखु (संतोखु का आध्यात्मिक भाव) ॥
+बिनु (बिना/रहित) सोहागनि (सोहागनि का आध्यात्मिक भाव) लागै (प्रेम-संबंध/लगन (करता है/ने)) दोखु (इंद्रिय-दोष/दुर्गुण) ॥ ॥
+धनु (धन/संपत्ति) सोहागनि (सोहागनि का आध्यात्मिक भाव) महा (अत्यंत/महान) पवीत (पवीत का आध्यात्मिक भाव) ॥
+तपे (तपस्या/साधना) तपीसर (तपीसर का आध्यात्मिक भाव) डोलै (डोलै (सधुक्कड़ी भाव)) चीत (चीत का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सोहागनि (सोहागनि का आध्यात्मिक भाव) किरपन (किरपन का आध्यात्मिक भाव) की (की/संबंध-सूचक) पूती (पुत्र/बेटा) ॥
+सेवक (अनन्य सेवक/दास) तजि (त्यागकर/छोड़कर) जगत (संसार) सिउ (से/साथ) सूती (सूती का आध्यात्मिक भाव) ॥
+साधू (संत संबंधी) कै (के/का) ठाढी (ठाढी का आध्यात्मिक भाव) दरबारि (द्वार संबंधी) ॥
+सरनि (सिर/सरोवर (के/में)) तेरी (तेरी/आपकी) मो (मुझे/मुझको) कउ (को) निसतारि (निसतारि का आध्यात्मिक भाव) ॥ ॥
+सोहागनि (सोहागनि का आध्यात्मिक भाव) है (है कि) अति (अत्यंत/बहुत) सुंदरी (मनोहर/सुंदर) ॥
+पग (पैर) नेवर (नेवर का आध्यात्मिक भाव) छनक (छनक का आध्यात्मिक भाव) छनहरी (छनहरी का आध्यात्मिक भाव) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+grihi (house/home) sobha (glory/splendor) ja (whose/when) kai (of) re (Re (Divine Will)) naahi (not) .
+aavat (aavat) paheea (paheea) khoodhe (khoodhe) jaahi (whose/when (unto/in)) .
+va (and) kai (of) antari (within the heart) nahee (not) santokhu (santokhu) .
+binu (without/devoid of) sohaagani (sohaagani) laagai (spark of love/attachment (does/by)) dokhu (sensory defect/flaw) . .
+dhanu (wealth/riches) sohaagani (sohaagani) maha (great/supreme) paveet (paveet) .
+tape (austerity/penance) tapeesar (tapeesar) dolai (dolai (spiritual sense)) cheet (cheet) . . rahaau (pause for reflection, foundational theme) .
+sohaagani (sohaagani) kirapan (kirapan) kee (of) pootee (son) .
+sevak (devoted servant) taji (having renounced) jagat (of the world) siu (with/from) sootee (sootee) .
+saadhoo (saint related) kai (of) thaadhee (thaadhee) darabaari (door related) .
+sarani (head/lake (of/in)) teree (Thine) mo (unto me) kau (unto) nisataari (nisataari) . .
+sohaagani (sohaagani) hai (is) ati (exceedingly/greatly) sundaree (beautiful/wondrous) .
+pag (foot) nevar (nevar) chhanak (chhanak) chhanaharee (chhanaharee) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! ग्रिहि सोभा जा कै रे नाहि—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! grihisobhaajaakairenaahi—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 120: ग्रिहि सोभा जा कै रे नाहि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-121"></a>
+## शब्द 121: जैसे मंदर महि बलहर ना ठाहरै
+**English Title:** Shabad 121: Jaaisae Mandara Mahai Balahara Naa Thaaharaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जैसे मंदर महि बलहर ना ठाहरै ॥
+नाम बिना कैसे पारि उतरै ॥
+कु्मभ बिना जलु ना टीकावै ॥
+साधू बिनु ऐसे अबगतु जावै ॥१॥
+जारउ तिसै जु रामु न चेतै ॥
+तन मन रमत रहै महि खेतै ॥१॥ रहाउ ॥
+जैसे हलहर बिना जिमी नही बोईऐ ॥
+सूत बिना कैसे मणी परोईऐ ॥
+घुंडी बिनु किआ गंठि चड़्हाईऐ ॥
+साधू बिनु तैसे अबगतु जाईऐ ॥२॥
+जैसे मात पिता बिनु बालु न होई ॥
+बि्मब बिना कैसे कपरे धोई ॥
+घोर बिना कैसे असवार ॥
+साधू बिनु नाही दरवार ॥३॥
+जैसे बाजे बिनु नही लीजै फेरी ॥
+खसमि दुहागनि तजि अउहेरी ॥
+कहै कबीरु एकै करि करना ॥
+गुरमुखि होइ बहुरि नही मरना ॥४॥६॥९॥872॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जैसे (जिस प्रकार) मंदर (महल/मंदिर) महि (में/भीतर) बलहर (बलहर का आध्यात्मिक भाव) ना (नहीं) ठाहरै (ठाहरै का आध्यात्मिक भाव) ॥
+नाम (परम पावन नाम) बिना (बिना/रहित) कैसे (किस प्रकार) पारि (भवसागर से पार, मुक्ति) उतरै (उतरै का आध्यात्मिक भाव) ॥
+कु्मभ (कु्मभ का आध्यात्मिक भाव) बिना (बिना/रहित) जलु (पवित्र जल) ना (नहीं) टीकावै (टीकावै का आध्यात्मिक भाव) ॥
+साधू (संत संबंधी) बिनु (बिना/रहित) ऐसे (इस प्रकार) अबगतु (अबगतु का आध्यात्मिक भाव) जावै (जाता है) ॥ ॥
+जारउ (जारउ का आध्यात्मिक भाव) तिसै (उसका/उसको) जु (जो/जो कोई) रामु (राम नाम की संबंधी) न (नहीं) चेतै (चेतै (सधुक्कड़ी भाव)) ॥
+तन (शरीर के) मन (मन/चित्त) रमत (रमत (सधुक्कड़ी भाव)) रहै (रहे/सदा रहे) महि (में/भीतर) खेतै (युद्धभूमि, संसार) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जैसे (जिस प्रकार) हलहर (हलहर का आध्यात्मिक भाव) बिना (बिना/रहित) जिमी (जिमी का आध्यात्मिक भाव) नही (नहीं) बोईऐ (बोईऐ का आध्यात्मिक भाव) ॥
+सूत (सूत का आध्यात्मिक भाव) बिना (बिना/रहित) कैसे (किस प्रकार) मणी (मणी का आध्यात्मिक भाव) परोईऐ (परोईऐ का आध्यात्मिक भाव) ॥
+घुंडी (घुंडी का आध्यात्मिक भाव) बिनु (बिना/रहित) किआ (क्या) गंठि (गांठ/बंधन) चड़्हाईऐ (चड़्हाईऐ का आध्यात्मिक भाव) ॥
+साधू (संत संबंधी) बिनु (बिना/रहित) तैसे (उसी प्रकार) अबगतु (अबगतु का आध्यात्मिक भाव) जाईऐ (जाईऐ का आध्यात्मिक भाव) ॥ ॥
+जैसे (जिस प्रकार) मात (मात का आध्यात्मिक भाव) पिता (पितृ जन/पूर्वज) बिनु (बिना/रहित) बालु (जलाकर/प्रज्वलित कर) न (नहीं) होई (तय हुआ) ॥
+बि्मब (बि्मब का आध्यात्मिक भाव) बिना (बिना/रहित) कैसे (किस प्रकार) कपरे (दूर संबंधी) धोई (धोई का आध्यात्मिक भाव) ॥
+घोर (घोर का आध्यात्मिक भाव) बिना (बिना/रहित) कैसे (किस प्रकार) असवार (असवार का आध्यात्मिक भाव) ॥
+साधू (संत संबंधी) बिनु (बिना/रहित) नाही (नहीं) दरवार (दरवार का आध्यात्मिक भाव) ॥ ॥
+जैसे (जिस प्रकार) बाजे (बाजे का आध्यात्मिक भाव) बिनु (बिना/रहित) नही (नहीं) लीजै (लीजिए/ग्रहण करें) फेरी (फिर) ॥
+खसमि (स्वामी, पति-परमेश्वर) दुहागनि (अभागिन/त्यागी हुई स्त्री) तजि (त्यागकर/छोड़कर) अउहेरी (अउहेरी का आध्यात्मिक भाव) ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) एकै (समान/एक जैसे (करता है/ने)) करि (करके/हाथ से) करना (करना है) ॥
+गुरमुखि (गुरमुखि का आध्यात्मिक भाव) होइ (होकर) बहुरि (पुनः/फिर) नही (नहीं) मरना (मरण का प्रपंच) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jaise (just as) mandar (palaces/mansions) mahi (within/in) balahar (balahar) na (not) thaaharai (thaaharai) .
+naam (Divine Name) bina (without) kaise (how) paari (across the ocean of rebirth, ultimate liberation) utarai (utarai) .
+kumabh (kumabh) bina (without) jalu (pure water) na (not) teekaavai (teekaavai) .
+saadhoo (saint related) binu (without/devoid of) aise (like this) abagatu (abagatu) jaavai (goes/departs) . .
+jaarau (jaarau) tisai (that one/his) ju (who/whoever) raamu (Lord Rama's related) n (not) chetai (chetai (spiritual sense)) .
+tan (body) man (mind/inner consciousness) ramat (ramat (spiritual sense)) rahai (may abide/remain) mahi (within/in) khetai (battlefield of life and mind) . . rahaau (pause for reflection, foundational theme) .
+jaise (just as) halahar (halahar) bina (without) jimee (jimee) nahee (not) boeeai (boeeai) .
+soot (soot) bina (without) kaise (how) manee (manee) paroeeai (paroeeai) .
+ghundee (ghundee) binu (without/devoid of) kia (what) ganthi (knot/bondage) chadhaaeeai (chadhaaeeai) .
+saadhoo (saint related) binu (without/devoid of) taise (in that manner) abagatu (abagatu) jaaeeai (jaaeeai) . .
+jaise (just as) maat (maat) pita (ancestors/forefathers) binu (without/devoid of) baalu (igniting/burning) n (not) hoee (transpired) .
+bimab (bimab) bina (without) kaise (how) kapare (aside related) dhoee (dhoee) .
+ghor (ghor) bina (without) kaise (how) asavaar (asavaar) .
+saadhoo (saint related) binu (without/devoid of) naahee (not) daravaar (daravaar) . .
+jaise (just as) baaje (baaje) binu (without/devoid of) nahee (not) leejai (please receive/take) pheree (again) .
+khasami (Master, the Divine Spouse) duhaagani (abandoned woman) taji (having renounced) auheree (auheree) .
+kahai (chants) kabeeru (Sant Kabir) ekai (equal and one (does/by)) kari (having done/with hands) karana (to do with) .
+guramukhi (guramukhi) hoi (having become) bahuri (again/once more) nahee (not) marana (death) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जैसे मंदर महि बलहर ना ठाहरै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jaisemandaramahibalaharanaathaaharai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 121: जैसे मंदर महि बलहर ना ठाहरै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-122"></a>
+## शब्द 122: कूटनु सोइ जु मन कउ कूटै
+**English Title:** Shabad 122: Kaootanau Saoi Jau Mana Kau Kaootaai
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कूटनु सोइ जु मन कउ कूटै ॥
+मन कूटै तउ जम ते छूटै ॥
+कुटि कुटि मनु कसवटी लावै ॥
+सो कूटनु मुकति बहु पावै ॥१॥
+कूटनु किसै कहहु संसार ॥
+सगल बोलन के माहि बीचार ॥१॥ रहाउ ॥
+नाचनु सोइ जु मन सिउ नाचै ॥
+झूठि न पतीऐ परचै साचै ॥
+इसु मन आगे पूरै ताल ॥
+इसु नाचन के मन रखवाल ॥२॥
+बजारी सो जु बजारहि सोधै ॥
+पांच पलीतह कउ परबोधै ॥
+नउ नाइक की भगति पछानै ॥
+सो बाजारी हम गुर माने ॥३॥
+तसकरु सोइ जि ताति न करै ॥
+इंद्री कै जतनि नामु उचरै ॥
+कहु कबीर हम ऐसे लखन ॥
+धंनु गुरदेव अति रूप बिचखन ॥४॥७॥१०॥872॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कूटनु (कूटनु का आध्यात्मिक भाव) सोइ (वह (में/करके)) जु (जो/जो कोई) मन (मन/चित्त) कउ (को) कूटै (कूटै का आध्यात्मिक भाव) ॥
+मन (मन/चित्त) कूटै (कूटै का आध्यात्मिक भाव) तउ (तब/तो भी) जम (यमराज/मृत्यु) ते (से/द्वारा) छूटै (छूटता है/मुक्त होता है) ॥
+कुटि (कुटाई/कूटना) कुटि (कुटाई/कूटना) मनु (मन/अंतःकरण) कसवटी (कसवटी का आध्यात्मिक भाव) लावै (लगाता है) ॥
+सो (वह/वही) कूटनु (कूटनु का आध्यात्मिक भाव) मुकति (मुक्ति/मोक्ष) बहु (अनेक) पावै (प्राप्त करता है) ॥ ॥
+कूटनु (कूटनु का आध्यात्मिक भाव) किसै (किस जन को/किसको) कहहु (कहकर (से/द्वारा)) संसार (संसार/जगत) ॥
+सगल (संपूर्ण/समस्त) बोलन (बोलन का आध्यात्मिक भाव) के (के/संबंध-सूचक) माहि (में/अंदर) बीचार (बीचार का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+नाचनु (नाचनु का आध्यात्मिक भाव) सोइ (वह (में/करके)) जु (जो/जो कोई) मन (मन/चित्त) सिउ (से/साथ) नाचै (नाचै का आध्यात्मिक भाव) ॥
+झूठि (असत्य) न (नहीं) पतीऐ (पतीऐ का आध्यात्मिक भाव) परचै (पहचान/साक्षात्कार) साचै (साच (सधुक्कड़ी भाव)) ॥
+इसु (इस संसारी) मन (मन/चित्त) आगे (आगे का आध्यात्मिक भाव) पूरै (पूर (सधुक्कड़ी भाव)) ताल (ताल का आध्यात्मिक भाव) ॥
+इसु (इस संसारी) नाचन (नाचन का आध्यात्मिक भाव) के (के/संबंध-सूचक) मन (मन/चित्त) रखवाल (रखवाल का आध्यात्मिक भाव) ॥ ॥
+बजारी (बजारी का आध्यात्मिक भाव) सो (वह/वही) जु (जो/जो कोई) बजारहि (बजारहि का आध्यात्मिक भाव) सोधै (सोधै का आध्यात्मिक भाव) ॥
+पांच (पांच का आध्यात्मिक भाव) पलीतह (पलीतह का आध्यात्मिक भाव) कउ (को) परबोधै (परबोधै का आध्यात्मिक भाव) ॥
+नउ (नउ का आध्यात्मिक भाव) नाइक (नायक/स्वामी प्रभु) की (की/संबंध-सूचक) भगति (प्रेम-भक्ति) पछानै (पछानै का आध्यात्मिक भाव) ॥
+सो (वह/वही) बाजारी (बाजारी का आध्यात्मिक भाव) हम (हम सब प्राणी) गुर (गुरु के) माने (माने का आध्यात्मिक भाव) ॥ ॥
+तसकरु (तसकरु का आध्यात्मिक भाव) सोइ (वह (में/करके)) जि (ज (सधुक्कड़ी भाव)) ताति (ताति का आध्यात्मिक भाव) न (नहीं) करै (करके (करता है/ने)) ॥
+इंद्री (इंद्रियां/विषय-वासना) कै (के/का) जतनि (प्रयत्न) नामु (सत्य-नाम) उचरै (उचरै का आध्यात्मिक भाव) ॥
+कहु (बताओ) कबीर (संत कबीर जी) हम (हम सब प्राणी) ऐसे (इस प्रकार) लखन (लखन का आध्यात्मिक भाव) ॥
+धंनु (धंन (सधुक्कड़ी भाव)) गुरदेव (गुरदेव का आध्यात्मिक भाव) अति (अत्यंत/बहुत) रूप (स्वरूप) बिचखन (बिचखन का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kootanu (kootanu) soi (that (in/having done)) ju (who/whoever) man (mind/inner consciousness) kau (unto) kootai (kootai) .
+man (mind/inner consciousness) kootai (kootai) tau (then/still) jam (Yamraj/Death) te (from/by) chhootai (is liberated/released) .
+kuti (beating/pounding) kuti (beating/pounding) manu (mind/inner spirit) kasavatee (kasavatee) laavai (applies/attaches) .
+so (that/the same) kootanu (kootanu) mukati (spiritual liberation) bahu (many) paavai (attains/realizes) . .
+kootanu (kootanu) kisai (unto whom/whom) kahahu (saying (from/by)) sansaar (mortal world) .
+sagal (all/entire) bolan (bolan) ke (of) maahi (within) beechaar (beechaar) . . rahaau (pause for reflection, foundational theme) .
+naachanu (naachanu) soi (that (in/having done)) ju (who/whoever) man (mind/inner consciousness) siu (with/from) naachai (naachai) .
+jhoothi (untruth) n (not) pateeai (pateeai) parachai (realization/recognition) saachai (saach (spiritual sense)) .
+isu (this) man (mind/inner consciousness) aage (aage) poorai (poor (spiritual sense)) taal (taal) .
+isu (this) naachan (naachan) ke (of) man (mind/inner consciousness) rakhavaal (rakhavaal) . .
+bajaaree (bajaaree) so (that/the same) ju (who/whoever) bajaarahi (bajaarahi) sodhai (sodhai) .
+paanch (paanch) paleetah (paleetah) kau (unto) parabodhai (parabodhai) .
+nau (nau) naaik (Lord/Master) kee (of) bhagati (loving devotion) pachhaanai (pachhaanai) .
+so (that/the same) baajaaree (baajaaree) ham (we mortal beings) gur (of the Master) maane (maane) . .
+tasakaru (tasakaru) soi (that (in/having done)) ji (j (spiritual sense)) taati (taati) n (not) karai (doing (does/by)) .
+indree (sensory organs) kai (of) jatani (efforts) naamu (True Name) ucharai (ucharai) .
+kahu (tell) kabeer (Sant Kabir) ham (we mortal beings) aise (like this) lakhan (lakhan) .
+dhannu (dhann (spiritual sense)) guradev (guradev) ati (exceedingly/greatly) roop (form) bichakhan (bichakhan) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कूटनु सोइ जु मन कउ कूटै—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kootanusoijumanakaukootai—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 122: कूटनु सोइ जु मन कउ कूटै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-123"></a>
+## शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे
+**English Title:** Shabad 123: Kaaiaa Kalaalanai Laahanai Maelau Gaura Kaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे ॥
+त्रिसना कामु क्रोधु मद मतसर काटि काटि कसु दीनु रे ॥१॥
+कोई है रे संतु सहज सुख अंतरि जा कउ जपु तपु देउ दलाली रे ॥
+एक बूंद भरि तनु मनु देवउ जो मदु देइ कलाली रे ॥१॥ रहाउ ॥
+भवन चतुर दस भाठी कीन्ही ब्रहम अगनि तनि जारी रे ॥
+मुद्रा मदक सहज धुनि लागी सुखमन पोचनहारी रे ॥२॥
+तीरथ बरत नेम सुचि संजम रवि ससि गहनै देउ रे ॥
+सुरति पिआल सुधा रसु अम्रितु एहु महा रसु पेउ रे ॥३॥
+निझर धार चुऐ अति निरमल इह रस मनूआ रातो रे ॥
+कहि कबीर सगले मद छूछे इहै महा रसु साचो रे ॥४॥१॥968॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+काइआ (काइआ का आध्यात्मिक भाव) कलालनि (कलालनि का आध्यात्मिक भाव) लाहनि (लाहनि का आध्यात्मिक भाव) मेलउ (मेलउ का आध्यात्मिक भाव) गुर (गुरु के) का (का/संबंध-सूचक) सबदु (ईश्वरीय शब्द, अनाहत ध्वनि) गुड़ु (गुड़ु का आध्यात्मिक भाव) कीनु (क्या (लोग/समूह)) रे (रा (रज़ा व समर्पण)) ॥
+त्रिसना (तृष्णा/कामना की अग्नि) कामु (काम-वासना/कर्म संबंधी) क्रोधु (गुस्सा, कोप) मद (मदिरा) मतसर (ईर्ष्या/मत्सर) काटि (काटकर) काटि (काटकर) कसु (कस (सधुक्कड़ी भाव)) दीनु (दीन-हीन/निर्धन) रे (रा (रज़ा व समर्पण)) ॥ ॥
+कोई (कोई भी जन) है (है कि) रे (रा (रज़ा व समर्पण)) संतु (संत/महात्मा) सहज (स्वाभाविक शांति, परम संतुलन) सुख (सच्चा सुख) अंतरि (हृदय के भीतर) जा (जिसका/जब) कउ (को) जपु (स्मरण/जाप) तपु (तपस्या/तप) देउ (देउ का आध्यात्मिक भाव) दलाली (दलाली का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+एक (समान/एक जैसे) बूंद (अमृत की बूंद) भरि (आंसुओं से भर (में/करके)) तनु (नश्वर शरीर/देह) मनु (मन/अंतःकरण) देवउ (देवउ का आध्यात्मिक भाव) जो (जिससे) मदु (मदिरा) देइ (के/पास (में/करके)) कलाली (कलाली (सधुक्कड़ी भाव)) रे (रा (रज़ा व समर्पण)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+भवन (लोक/सदन) चतुर (चतुर (सधुक्कड़ी भाव)) दस (दस इंद्रियां/संख्या दस) भाठी (भाठी (सधुक्कड़ी भाव)) कीन्ही (कीन्ह (सधुक्कड़ी भाव)) ब्रहम (ब्रहम का आध्यात्मिक भाव) अगनि (अगनि का आध्यात्मिक भाव) तनि (तन में/शरीर में) जारी (जारी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+मुद्रा (मुद्रा का आध्यात्मिक भाव) मदक (मदक का आध्यात्मिक भाव) सहज (स्वाभाविक शांति, परम संतुलन) धुनि (धुनि का आध्यात्मिक भाव) लागी (प्रेम की लगन/विरहाग्नि) सुखमन (सुखमन का आध्यात्मिक भाव) पोचनहारी (पोचनहारी का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥
+तीरथ (तीर्थ) बरत (बरत का आध्यात्मिक भाव) नेम (नेम का आध्यात्मिक भाव) सुचि (सुचि (सधुक्कड़ी भाव)) संजम (संजम (सधुक्कड़ी भाव)) रवि (सूर्य/भास्कर) ससि (ससि (सधुक्कड़ी भाव)) गहनै (गहनै का आध्यात्मिक भाव) देउ (देउ का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+सुरति (चेतना/होश (में/करके)) पिआल (पिआल का आध्यात्मिक भाव) सुधा (अमृत) रसु (हरि-नाम का अमृत रस) अम्रितु (अमर-रस/अमृत) एहु (एहु का आध्यात्मिक भाव) महा (अत्यंत/महान) रसु (हरि-नाम का अमृत रस) पेउ (पेउ का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥ ॥
+निझर (निझर का आध्यात्मिक भाव) धार (धार (सधुक्कड़ी भाव)) चुऐ (चुऐ का आध्यात्मिक भाव) अति (अत्यंत/बहुत) निरमल (निरमल का आध्यात्मिक भाव) इह (ये) रस (अमृत-रस) मनूआ (मनूआ का आध्यात्मिक भाव) रातो (रातो का आध्यात्मिक भाव) रे (रा (रज़ा व समर्पण)) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) सगले (संपूर्ण/समस्त) मद (मदिरा) छूछे (छूछे का आध्यात्मिक भाव) इहै (ये (करता है/ने)) महा (अत्यंत/महान) रसु (हरि-नाम का अमृत रस) साचो (साच (सधुक्कड़ी भाव)) रे (रा (रज़ा व समर्पण)) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kaaia (kaaia) kalaalani (kalaalani) laahani (laahani) melau (melau) gur (of the Master) ka (of) sabadu (Divine Word, sacred mystical sound) gudu (gudu) keenu (what (folk/plural)) re (Re (Divine Will)) .
+trisana (thirst of worldly desire) kaamu (carnal desire/work related) krodhu (anger, wrath) mad (wine) matasar (envy/jealousy) kaati (having severed/cut) kaati (having severed/cut) kasu (kas (spiritual sense)) deenu (lowly/meek) re (Re (Divine Will)) . .
+koee (anyone) hai (is) re (Re (Divine Will)) santu (holy saint) sahaj (spontaneous spiritual equilibrium, effortless bliss) sukh (true bliss) antari (within the heart) ja (whose/when) kau (unto) japu (chanting/meditation) tapu (austerity/penance) deu (deu) dalaalee (dalaalee) re (Re (Divine Will)) .
+ek (equal and one) boond (drop of nectar) bhari (welled up (in/having done)) tanu (mortal body) manu (mind/inner spirit) devau (devau) jo (that) madu (wine) dei (of/unto (in/having done)) kalaalee (kalaalee (spiritual sense)) re (Re (Divine Will)) . . rahaau (pause for reflection, foundational theme) .
+bhavan (cosmic mansion/realm) chatur (chatur (spiritual sense)) das (ten) bhaathee (bhaathee (spiritual sense)) keenhee (keenh (spiritual sense)) braham (braham) agani (agani) tani (in the body) jaaree (jaaree) re (Re (Divine Will)) .
+mudra (mudra) madak (madak) sahaj (spontaneous spiritual equilibrium, effortless bliss) dhuni (dhuni) laagee (flame of longing) sukhaman (sukhaman) pochanahaaree (pochanahaaree) re (Re (Divine Will)) . .
+teerath (pilgrimage shrine) barat (barat) nem (nem) suchi (suchi (spiritual sense)) sanjam (sanjam (spiritual sense)) ravi (sun/radiance) sasi (sasi (spiritual sense)) gahanai (gahanai) deu (deu) re (Re (Divine Will)) .
+surati (consciousness/mind (in/having done)) piaal (piaal) sudha (divine nectar) rasu (nectar of divine essence) amritu (divine nectar of immortality) ehu (ehu) maha (great/supreme) rasu (nectar of divine essence) peu (peu) re (Re (Divine Will)) . .
+nijhar (nijhar) dhaar (dhaar (spiritual sense)) chuai (chuai) ati (exceedingly/greatly) niramal (niramal) ih (these) ras (nectar) manooa (manooa) raato (raato) re (Re (Divine Will)) .
+kahi (from (unto/in)) kabeer (Sant Kabir) sagale (all/entire) mad (wine) chhoochhe (chhoochhe) ihai (these (does/by)) maha (great/supreme) rasu (nectar of divine essence) saacho (saach (spiritual sense)) re (Re (Divine Will)) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kaaiaakalaalanilaahanimelaugurakaasabadugudu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-124"></a>
+## शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा
+**English Title:** Shabad 124: Gauड़u Karai Gaiaanau Dhaiaanau Karai Mahaooaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा ॥
+सुखमन नारी सहज समानी पीवै पीवनहारा ॥१॥
+अउधू मेरा मनु मतवारा ॥
+उनमद चढा मदन रसु चाखिआ त्रिभवन भइआ उजिआरा ॥१॥ रहाउ ॥
+दुइ पुर जोरि रसाई भाठी पीउ महा रसु भारी ॥
+कामु क्रोधु दुइ कीए जलेता छूटि गई संसारी ॥२॥
+प्रगट प्रगास गिआन गुर गमित सतिगुर ते सुधि पाई ॥
+दासु कबीरु तासु मद माता उचकि न कबहू जाई ॥३॥२॥968॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गुड़ु (गुड़ु का आध्यात्मिक भाव) करि (करके/हाथ से) गिआनु (दिव्य ज्ञान) धिआनु (धिआनु का आध्यात्मिक भाव) करि (करके/हाथ से) महूआ (महूआ का आध्यात्मिक भाव) भउ (भउ का आध्यात्मिक भाव) भाठी (भाठी (सधुक्कड़ी भाव)) मन (मन/चित्त) धारा (धारा (सधुक्कड़ी भाव)) ॥
+सुखमन (सुखमन का आध्यात्मिक भाव) नारी (स्त्री/माया) सहज (स्वाभाविक शांति, परम संतुलन) समानी (समा गई/व्याप्त हुई) पीवै (पीवै (सधुक्कड़ी भाव)) पीवनहारा (पीवनहारा का आध्यात्मिक भाव) ॥ ॥
+अउधू (अउधू का आध्यात्मिक भाव) मेरा (मेरा/अधीन) मनु (मन/अंतःकरण) मतवारा (मतवारा का आध्यात्मिक भाव) ॥
+उनमद (उनमद का आध्यात्मिक भाव) चढा (चढा का आध्यात्मिक भाव) मदन (मदिरा (लोग/समूह)) रसु (हरि-नाम का अमृत रस) चाखिआ (चाखिआ का आध्यात्मिक भाव) त्रिभवन (त्रिभवन (सधुक्कड़ी भाव)) भइआ (हुआ/हो गया) उजिआरा (उजिआरा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+दुइ (दो (द्वैत)) पुर (नगर) जोरि (हाथ जोड़कर) रसाई (रसाई का आध्यात्मिक भाव) भाठी (भाठी (सधुक्कड़ी भाव)) पीउ (प्रियतम/शौह) महा (अत्यंत/महान) रसु (हरि-नाम का अमृत रस) भारी (कठिन/गंभीर) ॥
+कामु (काम-वासना/कर्म संबंधी) क्रोधु (गुस्सा, कोप) दुइ (दो (द्वैत)) कीए (किए/बनाए) जलेता (जलेता का आध्यात्मिक भाव) छूटि (छूटकर/मुक्त होकर) गई (गई अपनी) संसारी (संसारी (सधुक्कड़ी भाव)) ॥ ॥
+प्रगट (प्रगट (सधुक्कड़ी भाव)) प्रगास (दिव्य प्रकाश) गिआन (आत्मज्ञान/विवेक) गुर (गुरु के) गमित (गमित का आध्यात्मिक भाव) सतिगुर (सच्चे गुरु) ते (से/द्वारा) सुधि (चेतना (में/करके)) पाई (प्राप्त कर लिया) ॥
+दासु (अनन्य सेवक/भक्त) कबीरु (संत कबीर जी) तासु (उसका/उसकी) मद (मदिरा) माता (जननी/माता) उचकि (उचकि का आध्यात्मिक भाव) न (नहीं) कबहू (कबहू का आध्यात्मिक भाव) जाई (जाओ) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+gudu (gudu) kari (having done/with hands) giaanu (divine wisdom) dhiaanu (dhiaanu) kari (having done/with hands) mahooa (mahooa) bhau (bhau) bhaathee (bhaathee (spiritual sense)) man (mind/inner consciousness) dhaara (dhaara (spiritual sense)) .
+sukhaman (sukhaman) naaree (woman/Maya) sahaj (spontaneous spiritual equilibrium, effortless bliss) samaanee (permeated within) peevai (peevai (spiritual sense)) peevanahaara (peevanahaara) . .
+audhoo (audhoo) mera (my/mine) manu (mind/inner spirit) matavaara (matavaara) .
+unamad (unamad) chadha (chadha) madan (wine (folk/plural)) rasu (nectar of divine essence) chaakhia (chaakhia) tribhavan (tribhavan (spiritual sense)) bhaia (became) ujiaara (ujiaara) . . rahaau (pause for reflection, foundational theme) .
+dui (two/duality) pur (city) jori (with folded hands) rasaaee (rasaaee) bhaathee (bhaathee (spiritual sense)) peeu (Beloved Lord) maha (great/supreme) rasu (nectar of divine essence) bhaaree (heavy/severe) .
+kaamu (carnal desire/work related) krodhu (anger, wrath) dui (two/duality) keee (done/fashioned) jaleta (jaleta) chhooti (breaking free/liberated) gaee (became) sansaaree (sansaaree (spiritual sense)) . .
+pragat (pragat (spiritual sense)) pragaas (divine radiance) giaan (spiritual wisdom) gur (of the Master) gamit (gamit) satigur (True Master/Guru) te (from/by) sudhi (awareness (in/having done)) paaee (have found/attained) .
+daasu (devoted servant) kabeeru (Sant Kabir) taasu (whose/of that) mad (wine) maata (mother) uchaki (uchaki) n (not) kabahoo (kabahoo) jaaee (slip away) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! gudukarigiaanudhiaanukarimahooaabhaubhaatheeman—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-125"></a>
+## शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी
+**English Title:** Shabad 125: Taoon Maerao Maerau Parabatau Sauaamaee Ota Ga
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी ॥
+ना तुम डोलहु ना हम गिरते रखि लीनी हरि मेरी ॥१॥
+अब तब जब कब तुही तुही ॥
+हम तुअ परसादि सुखी सद ही ॥१॥ रहाउ ॥
+तोरे भरोसे मगहर बसिओ मेरे तन की तपति बुझाई ॥
+पहिले दरसनु मगहर पाइओ फुनि कासी बसे आई ॥२॥
+जैसा मगहरु तैसी कासी हम एकै करि जानी ॥
+हम निरधन जिउ इहु धनु पाइआ मरते फूटि गुमानी ॥३॥
+करै गुमानु चुभहि तिसु सूला को काढन कउ नाही ॥
+अजै सु चोभ कउ बिलल बिलाते नरके घोर पचाही ॥४॥
+कवनु नरकु किआ सुरगु बिचारा संतन दोऊ रादे ॥
+हम काहू की काणि न कढते अपने गुर परसादे ॥५॥
+अब तउ जाइ चढे सिंघासनि मिले है सारिंगपानी ॥
+राम कबीरा एक भए है कोइ न सकै पछानी ॥६॥३॥969॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+तूं (तू/हे प्रभु!) मेरो (मेरा/मुझ दीन का) मेरु (मेर (सधुक्कड़ी भाव)) परबतु (परबतु का आध्यात्मिक भाव) सुआमी (स्वामी/परमात्मा) ओट (शरण/छत्रछाया) गही (गही (सधुक्कड़ी भाव)) मै (मैं/मैंने) तेरी (तेरी/आपकी) ॥
+ना (नहीं) तुम (आप/तुम) डोलहु (डोलहु का आध्यात्मिक भाव) ना (नहीं) हम (हम सब प्राणी) गिरते (गिरते का आध्यात्मिक भाव) रखि (रखि का आध्यात्मिक भाव) लीनी (लीन (सधुक्कड़ी भाव)) हरि (दुख-हर्ता परमात्मा) मेरी (मेरी जीवन-) ॥ ॥
+अब (अब/इस समय) तब (उस समय/तब) जब (जिस समय/जब) कब (कब (सधुक्कड़ी भाव)) तुही (तू ही) तुही (तू ही) ॥
+हम (हम सब प्राणी) तुअ (तेरे/तुम्हारे) परसादि (कृपा/अनुग्रह से) सुखी (सच्चा सुख) सद (पुकार/आवाज) ही (केवल/मात्र) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तोरे (तेरे) भरोसे (भरोस (सधुक्कड़ी भाव)) मगहर (मगहर का आध्यात्मिक भाव) बसिओ (बसिओ का आध्यात्मिक भाव) मेरे (पर मेरे) तन (शरीर के) की (की/संबंध-सूचक) तपति (तपति का आध्यात्मिक भाव) बुझाई (बुझा दिया) ॥
+पहिले (पहिले का आध्यात्मिक भाव) दरसनु (अमृत-रस (लोग/समूह) संबंधी) मगहर (मगहर का आध्यात्मिक भाव) पाइओ (प्राप्त किया) फुनि (पुनः/फिर) कासी (कासी (सधुक्कड़ी भाव)) बसे (बस (सधुक्कड़ी भाव)) आई (आई है) ॥ ॥
+जैसा (जिस प्रकार का) मगहरु (मगहरु का आध्यात्मिक भाव) तैसी (वैसी) कासी (कासी (सधुक्कड़ी भाव)) हम (हम सब प्राणी) एकै (समान/एक जैसे (करता है/ने)) करि (करके/हाथ से) जानी (के प्यारे) ॥
+हम (हम सब प्राणी) निरधन (निरधन का आध्यात्मिक भाव) जिउ (जैसे/ज्यों) इहु (यह) धनु (धन/संपत्ति) पाइआ (पा लिया है) मरते (मरते हुए) फूटि (फूटि का आध्यात्मिक भाव) गुमानी (गुमानी का आध्यात्मिक भाव) ॥ ॥
+करै (करके (करता है/ने)) गुमानु (गुमानु का आध्यात्मिक भाव) चुभहि (चुभहि का आध्यात्मिक भाव) तिसु (उसको) सूला (शूल/कांटा) को (को/की ओर) काढन (काढन का आध्यात्मिक भाव) कउ (को) नाही (नहीं) ॥
+अजै (आज) सु (वह) चोभ (चोभ का आध्यात्मिक भाव) कउ (को) बिलल (बिलल का आध्यात्मिक भाव) बिलाते (बिलाते का आध्यात्मिक भाव) नरके (दोज़ख़) घोर (घोर का आध्यात्मिक भाव) पचाही (पचाही का आध्यात्मिक भाव) ॥ ॥
+कवनु (कौन/कैसा) नरकु (दोज़ख़) किआ (क्या) सुरगु (सुरगु का आध्यात्मिक भाव) बिचारा (चारों संबंधी) संतन (संतन का आध्यात्मिक भाव) दोऊ (दोनों को) रादे (रादे का आध्यात्मिक भाव) ॥
+हम (हम सब प्राणी) काहू (किसी को/किसी से) की (की/संबंध-सूचक) काणि (काणि का आध्यात्मिक भाव) न (नहीं) कढते (कढते का आध्यात्मिक भाव) अपने (अपने/स्वयं के) गुर (गुरु के) परसादे (परसाद (सधुक्कड़ी भाव)) ॥ ॥
+अब (अब/इस समय) तउ (तब/तो भी) जाइ (जिसका/जब (में/करके)) चढे (चढे का आध्यात्मिक भाव) सिंघासनि (तृण/घास संबंधी) मिले (मुझे प्राप्त हो) है (है कि) सारिंगपानी (सारिंगपानी का आध्यात्मिक भाव) ॥
+राम (सर्वव्यापी परमात्मा) कबीरा (संत कबीर जी) एक (समान/एक जैसे) भए (हो गए) है (है कि) कोइ (को/की ओर (में/करके)) न (नहीं) सकै (सके) पछानी (पछानी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+toon (Thou) mero (my/mine) meru (mer (spiritual sense)) parabatu (parabatu) suaamee (Lord/Master) ot (refuge) gahee (gahee (spiritual sense)) mai (I/by me) teree (Thine) .
+na (not) tum (You/Thou) dolahu (dolahu) na (not) ham (we mortal beings) girate (girate) rakhi (rakhi) leenee (leen (spiritual sense)) hari (The Lord who dispels grief (Hari)) meree (my life's) . .
+ab (now) tab (at that time/then) jab (at the time when) kab (kab (spiritual sense)) tuhee (Thou alone) tuhee (Thou alone) .
+ham (we mortal beings) tua (thy/thine) parasaadi (by divine grace) sukhee (true bliss) sad (call/summons) hee (alone/only) . . rahaau (pause for reflection, foundational theme) .
+tore (thy/thine) bharose (bharos (spiritual sense)) magahar (magahar) basio (basio) mere (my) tan (body) kee (of) tapati (tapati) bujhaaee (extinguished) .
+pahile (pahile) darasanu (nectar (folk/plural) related) magahar (magahar) paaio (attained/found) phuni (again/moreover) kaasee (kaasee (spiritual sense)) base (bas (spiritual sense)) aaee (has come) . .
+jaisa (just as/like) magaharu (magaharu) taisee (such as that) kaasee (kaasee (spiritual sense)) ham (we mortal beings) ekai (equal and one (does/by)) kari (having done/with hands) jaanee (darling) .
+ham (we mortal beings) niradhan (niradhan) jiu (just as) ihu (this) dhanu (wealth/riches) paaia (have found) marate (while dying) phooti (phooti) gumaanee (gumaanee) . .
+karai (doing (does/by)) gumaanu (gumaanu) chubhahi (chubhahi) tisu (unto that one) soola (thorn) ko (unto/toward) kaadhan (kaadhan) kau (unto) naahee (not) .
+ajai (today) su (that) chobh (chobh) kau (unto) bilal (bilal) bilaate (bilaate) narake (hell) ghor (ghor) pachaahee (pachaahee) . .
+kavanu (who/what) naraku (hell) kia (what) suragu (suragu) bichaara (four related) santan (santan) dooo (both) raade (raade) .
+ham (we mortal beings) kaahoo (anyone/anyone's) kee (of) kaani (kaani) n (not) kadhate (kadhate) apane (one's own) gur (of the Master) parasaade (parasaad (spiritual sense)) . .
+ab (now) tau (then/still) jaai (whose/when (in/having done)) chadhe (chadhe) singhaasani (grass/straw related) mile (to obtain) hai (is) saaringapaanee (saaringapaanee) .
+raam (The All-Pervading Lord (Ram)) kabeera (Sant Kabir) ek (equal and one) bhae (became) hai (is) koi (unto/to (in/having done)) n (not) sakai (can) pachhaanee (pachhaanee) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! toonmeromeruparabatusuaameeotagaheemaiteree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-126"></a>
+## शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी
+**English Title:** Shabad 126: Santaa Maanau Daootaa Daanau Iha Kautavaaraee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+संता मानउ दूता डानउ इह कुटवारी मेरी ॥
+दिवस रैनि तेरे पाउ पलोसउ केस चवर करि फेरी ॥१॥
+हम कूकर तेरे दरबारि ॥
+भउकहि आगै बदनु पसारि ॥१॥ रहाउ ॥
+पूरब जनम हम तुम्हरे सेवक अब तउ मिटिआ न जाई ॥
+तेरे दुआरै धुनि सहज की माथै मेरे दगाई ॥२॥
+दागे होहि सु रन महि जूझहि बिनु दागे भगि जाई ॥
+साधू होइ सु भगति पछानै हरि लए खजानै पाई ॥३॥
+कोठरे महि कोठरी परम कोठी बीचारि ॥
+गुरि दीनी बसतु कबीर कउ लेवहु बसतु सम्हारि ॥४॥
+कबीरि दीई संसार कउ लीनी जिसु मसतकि भागु ॥
+अम्रित रसु जिनि पाइआ थिरु ता का सोहागु ॥५॥४॥969॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+संता (संत/महात्मा) मानउ (मानउ का आध्यात्मिक भाव) दूता (दूता का आध्यात्मिक भाव) डानउ (डानउ का आध्यात्मिक भाव) इह (ये) कुटवारी (कुटवारी का आध्यात्मिक भाव) मेरी (मेरी जीवन-) ॥
+दिवस (दिन/दिवस) रैनि (रात (में/करके)) तेरे (तेरे विरह के) पाउ (पाउ का आध्यात्मिक भाव) पलोसउ (पलोसउ का आध्यात्मिक भाव) केस (केस का आध्यात्मिक भाव) चवर (राज-चंवर) करि (करके/हाथ से) फेरी (फिर) ॥ ॥
+हम (हम सब प्राणी) कूकर (कूकर का आध्यात्मिक भाव) तेरे (तेरे विरह के) दरबारि (द्वार संबंधी) ॥
+भउकहि (भउकहि का आध्यात्मिक भाव) आगै (आगै (सधुक्कड़ी भाव)) बदनु (बदनु का आध्यात्मिक भाव) पसारि (पसारि का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पूरब (पूर्व दिशा/पूर्व जन्म) जनम (जन्म/जीवन) हम (हम सब प्राणी) तुम्हरे (तुम्हरे (सधुक्कड़ी भाव)) सेवक (अनन्य सेवक/दास) अब (अब/इस समय) तउ (तब/तो भी) मिटिआ (मिटिआ का आध्यात्मिक भाव) न (नहीं) जाई (जाओ) ॥
+तेरे (तेरे विरह के) दुआरै (दुआरै का आध्यात्मिक भाव) धुनि (धुनि का आध्यात्मिक भाव) सहज (स्वाभाविक शांति, परम संतुलन) की (की/संबंध-सूचक) माथै (मस्तक पर) मेरे (पर मेरे) दगाई (दगाई का आध्यात्मिक भाव) ॥ ॥
+दागे (दागे का आध्यात्मिक भाव) होहि (होह (सधुक्कड़ी भाव)) सु (वह) रन (रन का आध्यात्मिक भाव) महि (में/भीतर) जूझहि (जूझहि का आध्यात्मिक भाव) बिनु (बिना/रहित) दागे (दागे का आध्यात्मिक भाव) भगि (भाग्य/ईश्वरीय ऐश्वर्य) जाई (जाओ) ॥
+साधू (संत संबंधी) होइ (होकर) सु (वह) भगति (प्रेम-भक्ति) पछानै (पछानै का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) लए (लए का आध्यात्मिक भाव) खजानै (खजानै का आध्यात्मिक भाव) पाई (प्राप्त कर लिया) ॥ ॥
+कोठरे (कोठरे का आध्यात्मिक भाव) महि (में/भीतर) कोठरी (कोठरी का आध्यात्मिक भाव) परम (सर्वोच्च/परम) कोठी (कोठी का आध्यात्मिक भाव) बीचारि (चारों संबंधी) ॥
+गुरि (गुरु के) दीनी (दी/प्रदान की) बसतु (वस्तु/सामग्री) कबीर (संत कबीर जी) कउ (को) लेवहु (लेवहु का आध्यात्मिक भाव) बसतु (वस्तु/सामग्री) सम्हारि (पराजय/माला संबंधी) ॥ ॥
+कबीरि (संत कबीर जी) दीई (दीई का आध्यात्मिक भाव) संसार (संसार/जगत) कउ (को) लीनी (लीन (सधुक्कड़ी भाव)) जिसु (जिसके विरह में) मसतकि (मस्तक पर) भागु (किस्मत) ॥
+अम्रित (अम्रित का आध्यात्मिक भाव) रसु (हरि-नाम का अमृत रस) जिनि (मत/जिसने) पाइआ (पा लिया है) थिरु (स्थिर/अविचल) ता (उस पर/उसका) का (का/संबंध-सूचक) सोहागु (सोहागु का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+santa (holy saint) maanau (maanau) doota (doota) daanau (daanau) ih (these) kutavaaree (kutavaaree) meree (my life's) .
+divas (day) raini (night (in/having done)) tere (in Your) paau (paau) palosau (palosau) kes (kes) chavar (royal whisk/fly-whisk) kari (having done/with hands) pheree (again) . .
+ham (we mortal beings) kookar (kookar) tere (in Your) darabaari (door related) .
+bhaukahi (bhaukahi) aagai (aagai (spiritual sense)) badanu (badanu) pasaari (pasaari) . . rahaau (pause for reflection, foundational theme) .
+poorab (east/past karma) janam (birth/life) ham (we mortal beings) tumhare (tumhare (spiritual sense)) sevak (devoted servant) ab (now) tau (then/still) mitia (mitia) n (not) jaaee (slip away) .
+tere (in Your) duaarai (duaarai) dhuni (dhuni) sahaj (spontaneous spiritual equilibrium, effortless bliss) kee (of) maathai (upon the forehead) mere (my) dagaaee (dagaaee) . .
+daage (daage) hohi (hoh (spiritual sense)) su (that) ran (ran) mahi (within/in) joojhahi (joojhahi) binu (without/devoid of) daage (daage) bhagi (fortune/divine majesty) jaaee (slip away) .
+saadhoo (saint related) hoi (having become) su (that) bhagati (loving devotion) pachhaanai (pachhaanai) hari (The Lord who dispels grief (Hari)) lae (lae) khajaanai (khajaanai) paaee (have found/attained) . .
+kothare (kothare) mahi (within/in) kotharee (kotharee) param (supreme/highest) kothee (kothee) beechaari (four related) .
+guri (of the Master) deenee (granted) basatu (goods/commodity) kabeer (Sant Kabir) kau (unto) levahu (levahu) basatu (goods/commodity) samhaari (defeat/garland related) . .
+kabeeri (Sant Kabir) deeee (deeee) sansaar (mortal world) kau (unto) leenee (leen (spiritual sense)) jisu (for whom) masataki (upon the brow) bhaagu (fortune/destiny) .
+amrit (amrit) rasu (nectar of divine essence) jini (do not/who) paaia (have found) thiru (steadfast/eternal) ta (upon that/his) ka (of) sohaagu (sohaagu) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! संता मानउ दूता डानउ इह कुटवारी मेरी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! santaamaanaudootaadaanauihakutavaareemeree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-127"></a>
+## शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ
+**English Title:** Shabad 127: Taravarau Ekau Ananta Daara Saakhaa Pauhapa Pa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ ॥
+इह अम्रित की बाड़ी है रे तिनि हरि पूरै करीआ ॥१॥
+जानी जानी रे राजा राम की कहानी ॥
+अंतरि जोति राम परगासा गुरमुखि बिरलै जानी ॥१॥ रहाउ ॥
+भवरु एकु पुहप रस बीधा बारह ले उर धरिआ ॥
+सोरह मधे पवनु झकोरिआ आकासे फरु फरिआ ॥२॥
+सहज सुंनि इकु बिरवा उपजिआ धरती जलहरु सोखिआ ॥
+कहि कबीर हउ ता का सेवकु जिनि इहु बिरवा देखिआ ॥३॥६॥970॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+तरवरु (विशाल वृक्ष) एकु (एक ही अद्वैत ब्रह्म) अनंत (असीम/अनंत) डार (छोड़ देना, त्यागना) साखा (साखा का आध्यात्मिक भाव) पुहप (पुहप (सधुक्कड़ी भाव)) पत्र (पत्र का आध्यात्मिक भाव) रस (अमृत-रस) भरीआ (भरीआ का आध्यात्मिक भाव) ॥
+इह (ये) अम्रित (अम्रित का आध्यात्मिक भाव) की (की/संबंध-सूचक) बाड़ी (बाड़ी का आध्यात्मिक भाव) है (है कि) रे (रा (रज़ा व समर्पण)) तिनि (उन्होंने/उनका (में/करके)) हरि (दुख-हर्ता परमात्मा) पूरै (पूर (सधुक्कड़ी भाव)) करीआ (करीआ का आध्यात्मिक भाव) ॥ ॥
+जानी (के प्यारे) जानी (के प्यारे) रे (रा (रज़ा व समर्पण)) राजा (आदर्श शासन/राज संबंधी) राम (सर्वव्यापी परमात्मा) की (की/संबंध-सूचक) कहानी (कहानी का आध्यात्मिक भाव) ॥
+अंतरि (हृदय के भीतर) जोति (दिव्य ज्योति/प्रकाश) राम (सर्वव्यापी परमात्मा) परगासा (दिव्य प्रकाश/उजाला) गुरमुखि (गुरमुखि का आध्यात्मिक भाव) बिरलै (बिरलै का आध्यात्मिक भाव) जानी (के प्यारे) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+भवरु (भवर (सधुक्कड़ी भाव)) एकु (एक ही अद्वैत ब्रह्म) पुहप (पुहप (सधुक्कड़ी भाव)) रस (अमृत-रस) बीधा (बीधा का आध्यात्मिक भाव) बारह (द्वार) ले (लेकर) उर (उर (सधुक्कड़ी भाव)) धरिआ (धरिआ का आध्यात्मिक भाव) ॥
+सोरह (सोरह का आध्यात्मिक भाव) मधे (मध्य में/भीतर) पवनु (वायु) झकोरिआ (झकोरिआ का आध्यात्मिक भाव) आकासे (आकासे का आध्यात्मिक भाव) फरु (फरु का आध्यात्मिक भाव) फरिआ (फरिआ का आध्यात्मिक भाव) ॥ ॥
+सहज (स्वाभाविक शांति, परम संतुलन) सुंनि (सुंनि (सधुक्कड़ी भाव)) इकु (एक/अद्वितीय) बिरवा (बिरवा का आध्यात्मिक भाव) उपजिआ (उपजिआ का आध्यात्मिक भाव) धरती (धरती (सधुक्कड़ी भाव)) जलहरु (जलहरु का आध्यात्मिक भाव) सोखिआ (सोखिआ का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) हउ (मैं/अहंभाव) ता (उस पर/उसका) का (का/संबंध-सूचक) सेवकु (अनन्य सेवक/दास) जिनि (मत/जिसने) इहु (यह) बिरवा (बिरवा का आध्यात्मिक भाव) देखिआ (देखिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+taravaru (great tree) eku (The One Supreme Lord) anant (infinite/boundless) daar (discard, cast away) saakha (saakha) puhap (puhap (spiritual sense)) patr (patr) ras (nectar) bhareea (bhareea) .
+ih (these) amrit (amrit) kee (of) baadee (baadee) hai (is) re (Re (Divine Will)) tini (they/them (in/having done)) hari (The Lord who dispels grief (Hari)) poorai (poor (spiritual sense)) kareea (kareea) . .
+jaanee (darling) jaanee (darling) re (Re (Divine Will)) raaja (realm/kingdom related) raam (The All-Pervading Lord (Ram)) kee (of) kahaanee (kahaanee) .
+antari (within the heart) joti (divine radiance/light) raam (The All-Pervading Lord (Ram)) paragaasa (divine illumination) guramukhi (guramukhi) biralai (biralai) jaanee (darling) . . rahaau (pause for reflection, foundational theme) .
+bhavaru (bhavar (spiritual sense)) eku (The One Supreme Lord) puhap (puhap (spiritual sense)) ras (nectar) beedha (beedha) baarah (door) le (taking/having taken) ur (ur (spiritual sense)) dharia (dharia) .
+sorah (sorah) madhe (in the midst/within) pavanu (wind) jhakoria (jhakoria) aakaase (aakaase) pharu (pharu) pharia (pharia) . .
+sahaj (spontaneous spiritual equilibrium, effortless bliss) sunni (sunni (spiritual sense)) iku (one/sole) birava (birava) upajia (upajia) dharatee (dharatee (spiritual sense)) jalaharu (jalaharu) sokhia (sokhia) .
+kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) ta (upon that/his) ka (of) sevaku (devoted servant) jini (do not/who) ihu (this) birava (birava) dekhia (dekhia) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! taravaruekuanantadaarasaakhaapuhapapatrarasabharee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-128"></a>
+## शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ
+**English Title:** Shabad 128: Kavana Kaaja Sairajae Jaga Bhaeetarai Janamai Kava
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ ॥
+भव निधि तरन तारन चिंतामनि इक निमख न इहु मनु लाइआ ॥१॥
+गोबिंद हम ऐसे अपराधी ॥
+जिनि प्रभि जीउ पिंडु था दीआ तिस की भाउ भगति नही साधी ॥१॥ रहाउ ॥
+पर धन पर तन पर ती निंदा पर अपबादु न छूटै ॥
+आवा गवनु होतु है फुनि फुनि इहु परसंगु न तूटै ॥२॥
+जिह घरि कथा होत हरि संतन इक निमख न कीन्हो मै फेरा ॥
+ल्मपट चोर दूत मतवारे तिन संगि सदा बसेरा ॥३॥
+काम क्रोध माइआ मद मतसर ए स्मपै मो माही ॥
+दइआ धरमु अरु गुर की सेवा ए सुपनंतरि नाही ॥४॥
+दीन दइआल क्रिपाल दमोदर भगति बछल भै हारी ॥
+कहत कबीर भीर जन राखहु हरि सेवा करउ तुम्हारी ॥५॥८॥970॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कवन (कौन/कैसा) काज (कार्य/प्रयोजन) सिरजे (सिरजे का आध्यात्मिक भाव) जग (संसार) भीतरि (भीतर/हृदय में) जनमि (जन्म/जीवन (में/करके)) कवन (कौन/कैसा) फलु (कर्मफल) पाइआ (पा लिया है) ॥
+भव (संसार/भवसागर) निधि (नौ निधियां/खजाना) तरन (पार उतरना/मुक्ति) तारन (तारने वाला) चिंतामनि (चिंतामणि) इक (एक ही) निमख (निमख का आध्यात्मिक भाव) न (नहीं) इहु (यह) मनु (मन/अंतःकरण) लाइआ (लाइआ का आध्यात्मिक भाव) ॥ ॥
+गोबिंद (गोविंद/परमात्मा) हम (हम सब प्राणी) ऐसे (इस प्रकार) अपराधी (अपराधी (सधुक्कड़ी भाव)) ॥
+जिनि (मत/जिसने) प्रभि (परमेश्वर/प्रभु) जीउ (मन/जी) पिंडु (पिंडु का आध्यात्मिक भाव) था (था का आध्यात्मिक भाव) दीआ (दीपक/दिया) तिस (उसका/उसको) की (की/संबंध-सूचक) भाउ (भाव/मूल्य) भगति (प्रेम-भक्ति) नही (नहीं) साधी (साधी (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पर (किन्तु/परन्तु) धन (संपदा) पर (किन्तु/परन्तु) तन (शरीर के) पर (किन्तु/परन्तु) ती (तो फिर/निश्चय ही) निंदा (अपकीर्ति/निंदा) पर (किन्तु/परन्तु) अपबादु (अपबादु का आध्यात्मिक भाव) न (नहीं) छूटै (छूटता है/मुक्त होता है) ॥
+आवा (आवागमन/आना) गवनु (गमन/जाना) होतु (दुखों से) है (है कि) फुनि (पुनः/फिर) फुनि (पुनः/फिर) इहु (यह) परसंगु (परसंगु का आध्यात्मिक भाव) न (नहीं) तूटै (तूटै का आध्यात्मिक भाव) ॥ ॥
+जिह (जिस) घरि (आशियाना (में/करके)) कथा (हरि-कथा/प्रवचन) होत (दुखों से) हरि (दुख-हर्ता परमात्मा) संतन (संतन का आध्यात्मिक भाव) इक (एक ही) निमख (निमख का आध्यात्मिक भाव) न (नहीं) कीन्हो (कीन्ह (सधुक्कड़ी भाव)) मै (मैं/मैंने) फेरा (फिर) ॥
+ल्मपट (ल्मपट का आध्यात्मिक भाव) चोर (चोर का आध्यात्मिक भाव) दूत (दूत का आध्यात्मिक भाव) मतवारे (मतवारे का आध्यात्मिक भाव) तिन (उन्होंने/उनका) संगि (संगत में/सान्निध्य में) सदा (सर्वदा/सदा) बसेरा (रैन-बसेरा/अल्पकालिक वास) ॥ ॥
+काम (कामना/वासना) क्रोध (क्रोध/गुस्सा) माइआ (माया/भ्रम) मद (मदिरा) मतसर (ईर्ष्या/मत्सर) ए (ये सब) स्मपै (स्मपै का आध्यात्मिक भाव) मो (मुझे/मुझको) माही (प्रियतम (रांझा)) ॥
+दइआ (दया/करुणा) धरमु (धर्म) अरु (और) गुर (गुरु के) की (की/संबंध-सूचक) सेवा (समर्पित भक्ति) ए (ये सब) सुपनंतरि (सुपनंतरि का आध्यात्मिक भाव) नाही (नहीं) ॥ ॥
+दीन (निर्बल, असहाय, धर्म) दइआल (दइआल का आध्यात्मिक भाव) क्रिपाल (क्रिपाल का आध्यात्मिक भाव) दमोदर (दमोदर का आध्यात्मिक भाव) भगति (प्रेम-भक्ति) बछल (बछल का आध्यात्मिक भाव) भै (भय/डर) हारी (हार गई) ॥
+कहत (कहते हुए) कबीर (संत कबीर जी) भीर (भीर का आध्यात्मिक भाव) जन (भक्त/सेवक) राखहु (रक्षा कीजिए/रखो) हरि (दुख-हर्ता परमात्मा) सेवा (समर्पित भक्ति) करउ (करके) तुम्हारी (आपकी/तुम्हारी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kavan (who/what) kaaj (work/purpose) siraje (siraje) jag (world's) bheetari (within the heart) janami (birth/life (in/having done)) kavan (who/what) phalu (fruit/reward) paaia (have found) .
+bhav (ocean of mortal existence) nidhi (treasure/spiritual wealth) taran (crossing over/salvation) taaran (savior/redeemer) chintaamani (wish-fulfilling gem) ik (in one) nimakh (nimakh) n (not) ihu (this) manu (mind/inner spirit) laaia (laaia) . .
+gobind (Lord Govind) ham (we mortal beings) aise (like this) aparaadhee (aparaadhee (spiritual sense)) .
+jini (do not/who) prabhi (Supreme Lord) jeeu (heart/mind) pindu (pindu) tha (tha) deea (lamp/gave) tis (that one/his) kee (of) bhaau (prices) bhagati (loving devotion) nahee (not) saadhee (saadhee (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+par (but/upon) dhan (wealth) par (but/upon) tan (body) par (but/upon) tee (then indeed) ninda (slander/evil-speaking) par (but/upon) apabaadu (apabaadu) n (not) chhootai (is liberated/released) .
+aava (transmigration/coming) gavanu (departure/journey) hotu (griefs) hai (is) phuni (again/moreover) phuni (again/moreover) ihu (this) parasangu (parasangu) n (not) tootai (tootai) . .
+jih (which) ghari (home/refuge (in/having done)) katha (divine discourse) hot (griefs) hari (The Lord who dispels grief (Hari)) santan (santan) ik (in one) nimakh (nimakh) n (not) keenho (keenh (spiritual sense)) mai (I/by me) phera (again) .
+lmapat (lmapat) chor (chor) doot (doot) matavaare (matavaare) tin (they/them) sangi (in company of) sada (always/eternally) basera (night shelter/transient stay) . .
+kaam (lust/desire) krodh (wrath/anger) maaia (cosmic illusion) mad (wine) matasar (envy/jealousy) e (these) smapai (smapai) mo (unto me) maahee (Beloved) .
+daia (compassion/mercy) dharamu (righteousness) aru (and) gur (of the Master) kee (of) seva (devoted service) e (these) supanantari (supanantari) naahee (not) . .
+deen (the meek, the righteous cause) daiaal (daiaal) kripaal (kripaal) damodar (damodar) bhagati (loving devotion) bachhal (bachhal) bhai (fear/dread) haaree (lost/surrendered) .
+kahat (speaking/saying) kabeer (Sant Kabir) bheer (bheer) jan (devotee/humble servant) raakhahu (protect ye/keep) hari (The Lord who dispels grief (Hari)) seva (devoted service) karau (doing) tumhaaree (Thine) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kavanakaajasirajejagabheetarijanamikavanaphalupaaia—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-129"></a>
+## शब्द 129: जिह सिमरनि होइ मुकति दुआरु
+**English Title:** Shabad 129: Jaiha Saimaranai Haoi Maukatai Dauaarau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जिह सिमरनि होइ मुकति दुआरु ॥
+जाहि बैकुंठि नही संसारि ॥
+निरभउ कै घरि बजावहि तूर ॥
+अनहद बजहि सदा भरपूर ॥१॥
+ऐसा सिमरनु करि मन माहि ॥
+बिनु सिमरन मुकति कत नाहि ॥१॥ रहाउ ॥
+जिह सिमरनि नाही ननकारु ॥
+मुकति करै उतरै बहु भारु ॥
+नमसकारु करि हिरदै माहि ॥
+फिरि फिरि तेरा आवनु नाहि ॥२॥
+जिह सिमरनि करहि तू केल ॥
+दीपकु बांधि धरिओ बिनु तेल ॥
+सो दीपकु अमरकु संसारि ॥
+काम क्रोध बिखु काढीले मारि ॥३॥
+जिह सिमरनि तेरी गति होइ ॥
+सो सिमरनु रखु कंठि परोइ ॥
+सो सिमरनु करि नही राखु उतारि ॥
+गुर परसादी उतरहि पारि ॥४॥
+जिह सिमरनि नाही तुहि कानि ॥
+मंदरि सोवहि पट्मबर तानि ॥
+सेज सुखाली बिगसै जीउ ॥
+सो सिमरनु तू अनदिनु पीउ ॥५॥
+जिह सिमरनि तेरी जाइ बलाइ ॥
+जिह सिमरनि तुझु पोहै न माइ ॥
+सिमरि सिमरि हरि हरि मनि गाईऐ ॥
+इहु सिमरनु सतिगुर ते पाईऐ ॥६॥
+सदा सदा सिमरि दिनु राति ॥
+ऊठत बैठत सासि गिरासि ॥
+जागु सोइ सिमरन रस भोग ॥
+हरि सिमरनु पाईऐ संजोग ॥७॥
+जिह सिमरनि नाही तुझु भार ॥
+सो सिमरनु राम नाम अधारु ॥
+कहि कबीर जा का नही अंतु ॥
+तिस के आगे तंतु न मंतु ॥८॥९॥871॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जिह (जिस) सिमरनि (सिमरनि का आध्यात्मिक भाव) होइ (होकर) मुकति (मुक्ति/मोक्ष) दुआरु (दुआरु का आध्यात्मिक भाव) ॥
+जाहि (जिसका/जब (को/में)) बैकुंठि (बैकुंठ (सधुक्कड़ी भाव)) नही (नहीं) संसारि (जगत् संबंधी) ॥
+निरभउ (निरभउ का आध्यात्मिक भाव) कै (के/का) घरि (आशियाना (में/करके)) बजावहि (बजावहि का आध्यात्मिक भाव) तूर (तूर का आध्यात्मिक भाव) ॥
+अनहद (अनाहत, अखंड ईश्वरीय नाद) बजहि (बजहि का आध्यात्मिक भाव) सदा (सर्वदा/सदा) भरपूर (भरपूर का आध्यात्मिक भाव) ॥ ॥
+ऐसा (ऐसा/इस प्रकार का) सिमरनु (नाम-सिमरन) करि (करके/हाथ से) मन (मन/चित्त) माहि (में/अंदर) ॥
+बिनु (बिना/रहित) सिमरन (सिमरन का आध्यात्मिक भाव) मुकति (मुक्ति/मोक्ष) कत (कहाँ/क्यों) नाहि (नहीं) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जिह (जिस) सिमरनि (सिमरनि का आध्यात्मिक भाव) नाही (नहीं) ननकारु (ननकारु का आध्यात्मिक भाव) ॥
+मुकति (मुक्ति/मोक्ष) करै (करके (करता है/ने)) उतरै (उतरै का आध्यात्मिक भाव) बहु (अनेक) भारु (बोझ संबंधी) ॥
+नमसकारु (नमसकारु का आध्यात्मिक भाव) करि (करके/हाथ से) हिरदै (हृदय में) माहि (में/अंदर) ॥
+फिरि (फिर भी (में/करके)) फिरि (फिर भी (में/करके)) तेरा (तेरा/प्रभु का) आवनु (आवनु का आध्यात्मिक भाव) नाहि (नहीं) ॥ ॥
+जिह (जिस) सिमरनि (सिमरनि का आध्यात्मिक भाव) करहि (करते हैं) तू (तू/परमात्मा) केल (केल का आध्यात्मिक भाव) ॥
+दीपकु (प्रकाशमान दीप) बांधि (बांधि का आध्यात्मिक भाव) धरिओ (धरिओ का आध्यात्मिक भाव) बिनु (बिना/रहित) तेल (तेल का आध्यात्मिक भाव) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jih (which) simarani (simarani) hoi (having become) mukati (spiritual liberation) duaaru (duaaru) .
+jaahi (whose/when (unto/in)) baikunthi (baikunth (spiritual sense)) nahee (not) sansaari (world related) .
+nirabhau (nirabhau) kai (of) ghari (home/refuge (in/having done)) bajaavahi (bajaavahi) toor (toor) .
+anahad (unstruck celestial music, unstruck divine vibration) bajahi (bajahi) sada (always/eternally) bharapoor (bharapoor) . .
+aisa (such/like this) simaranu (chanting of holy name) kari (having done/with hands) man (mind/inner consciousness) maahi (within) .
+binu (without/devoid of) simaran (simaran) mukati (spiritual liberation) kat (where/why) naahi (not) . . rahaau (pause for reflection, foundational theme) .
+jih (which) simarani (simarani) naahee (not) nanakaaru (nanakaaru) .
+mukati (spiritual liberation) karai (doing (does/by)) utarai (utarai) bahu (many) bhaaru (heavy burden related) .
+namasakaaru (namasakaaru) kari (having done/with hands) hiradai (in the heart) maahi (within) .
+phiri (then (in/having done)) phiri (then (in/having done)) tera (thine/Lord's) aavanu (aavanu) naahi (not) . .
+jih (which) simarani (simarani) karahi (they do) too (Thou) kel (kel) .
+deepaku (lamp/flame) baandhi (baandhi) dhario (dhario) binu (without/devoid of) tel (tel) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जिह सिमरनि होइ मुकति दुआरु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jihasimaranihoimukatiduaaru—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 129: जिह सिमरनि होइ मुकति दुआरु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-130"></a>
+## शब्द 130: बंधचि बंधनु पाइआ
+**English Title:** Shabad 130: Bandhachai Bandhanau Paaiaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+बंधचि बंधनु पाइआ ॥
+मुकतै गुरि अनलु बुझाइआ ॥
+जब नख सिख इहु मनु चीन्हा ॥
+तब अंतरि मजनु कीन्हा ॥१॥
+पवनपति उनमनि रहनु खरा ॥
+नही मिरतु न जनमु जरा ॥१॥ रहाउ ॥
+उलटी ले सकति सहारं ॥
+पैसीले गगन मझारं ॥
+बेधीअले चक्र भुअंगा ॥
+भेटीअले राइ निसंगा ॥२॥
+चूकीअले मोह मइआसा ॥
+ससि कीनो सूर गिरासा ॥
+जब कु्मभकु भरिपुरि लीणा ॥
+तह बाजे अनहद बीणा ॥३॥
+बकतै बकि सबदु सुनाइआ ॥
+सुनतै सुनि मंनि बसाइआ ॥
+करि करता उतरसि पारं ॥
+कहै कबीरा सारं ॥४॥१॥१०॥971॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+बंधचि (बंधचि का आध्यात्मिक भाव) बंधनु (सांसारिक बंधन) पाइआ (पा लिया है) ॥
+मुकतै (मुक्त/बंधन-रहित) गुरि (गुरु के) अनलु (अग्नि/आग) बुझाइआ (बुझाइआ का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) नख (नख (सधुक्कड़ी भाव)) सिख (सिख का आध्यात्मिक भाव) इहु (यह) मनु (मन/अंतःकरण) चीन्हा (चीन्हा का आध्यात्मिक भाव) ॥
+तब (उस समय/तब) अंतरि (हृदय के भीतर) मजनु (पवित्र स्नान/मज्जन) कीन्हा (कीन्हा (सधुक्कड़ी भाव)) ॥ ॥
+पवनपति (पवनपति का आध्यात्मिक भाव) उनमनि (उन्मनी अवस्था/सहज समाधि) रहनु (रहना/आचरण) खरा (खरा/शुद्ध) ॥
+नही (नहीं) मिरतु (मिरतु का आध्यात्मिक भाव) न (नहीं) जनमु (मानव जन्म) जरा (जरा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+उलटी (विपरीत) ले (लेकर) सकति (सकति (सधुक्कड़ी भाव)) सहारं (सहारं का आध्यात्मिक भाव) ॥
+पैसीले (पैसीले का आध्यात्मिक भाव) गगन (ब्रह्मरंध्र, आंतरिक आकाश) मझारं (मझारं का आध्यात्मिक भाव) ॥
+बेधीअले (बेधीअले का आध्यात्मिक भाव) चक्र (चक्र का आध्यात्मिक भाव) भुअंगा (भुअंगा (सधुक्कड़ी भाव)) ॥
+भेटीअले (भेटीअले का आध्यात्मिक भाव) राइ (राइ (सधुक्कड़ी भाव)) निसंगा (निसंगा का आध्यात्मिक भाव) ॥ ॥
+चूकीअले (चूकीअले का आध्यात्मिक भाव) मोह (सांसारिक आसक्ति) मइआसा (मइआसा का आध्यात्मिक भाव) ॥
+ससि (ससि (सधुक्कड़ी भाव)) कीनो (क्या (लोग/समूह) संबंधी) सूर (सूअर/विषय-विकार) गिरासा (गिरासा का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) कु्मभकु (कु्मभकु का आध्यात्मिक भाव) भरिपुरि (भरिपुरि का आध्यात्मिक भाव) लीणा (लीणा का आध्यात्मिक भाव) ॥
+तह (वहाँ) बाजे (बाजे का आध्यात्मिक भाव) अनहद (अनाहत, अखंड ईश्वरीय नाद) बीणा (बीणा का आध्यात्मिक भाव) ॥ ॥
+बकतै (बकतै का आध्यात्मिक भाव) बकि (बकि का आध्यात्मिक भाव) सबदु (ईश्वरीय शब्द, अनाहत ध्वनि) सुनाइआ (सुनाइआ का आध्यात्मिक भाव) ॥
+सुनतै (सुनकर (करते हुए)) सुनि (श्रवण करके/सुनकर) मंनि (मंनि का आध्यात्मिक भाव) बसाइआ (बसाइआ का आध्यात्मिक भाव) ॥
+करि (करके/हाथ से) करता (करते संबंधी) उतरसि (उतरसि का आध्यात्मिक भाव) पारं (पारं (सधुक्कड़ी भाव)) ॥
+कहै (पुकारे) कबीरा (संत कबीर जी) सारं (सुध/संभाल संबंधी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+bandhachi (bandhachi) bandhanu (worldly shackles) paaia (have found) .
+mukatai (liberated/free) guri (of the Master) analu (fire) bujhaaia (bujhaaia) .
+jab (at the time when) nakh (nakh (spiritual sense)) sikh (sikh) ihu (this) manu (mind/inner spirit) cheenha (cheenha) .
+tab (at that time/then) antari (within the heart) majanu (sacred inner ablution) keenha (keenha (spiritual sense)) . .
+pavanapati (pavanapati) unamani (transcendent consciousness) rahanu (living/abiding) khara (pure/authentic) .
+nahee (not) miratu (miratu) n (not) janamu (human birth) jara (jara) . . rahaau (pause for reflection, foundational theme) .
+ulatee (inverted) le (taking/having taken) sakati (sakati (spiritual sense)) sahaaran (sahaaran) .
+paiseele (paiseele) gagan (crown chakra, the inner celestial sky) majhaaran (majhaaran) .
+bedheeale (bedheeale) chakr (chakr) bhuanga (bhuanga (spiritual sense)) .
+bheteeale (bheteeale) raai (raai (spiritual sense)) nisanga (nisanga) . .
+chookeeale (chookeeale) moh (worldly attachment) maiaasa (maiaasa) .
+sasi (sasi (spiritual sense)) keeno (what (folk/plural) related) soor (wild boars/base vices) giraasa (giraasa) .
+jab (at the time when) kumabhaku (kumabhaku) bharipuri (bharipuri) leena (leena) .
+tah (there) baaje (baaje) anahad (unstruck celestial music, unstruck divine vibration) beena (beena) . .
+bakatai (bakatai) baki (baki) sabadu (Divine Word, sacred mystical sound) sunaaia (sunaaia) .
+sunatai (hearing (while doing)) suni (having heard/listened) manni (manni) basaaia (basaaia) .
+kari (having done/with hands) karata (doing related) utarasi (utarasi) paaran (paaran (spiritual sense)) .
+kahai (chants) kabeera (Sant Kabir) saaran (care/tidings related) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! बंधचि बंधनु पाइआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! bandhachibandhanupaaia—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 130: बंधचि बंधनु पाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-131"></a>
+## शब्द 131: चंदु सूरजु दुइ जोति सरूपु
+**English Title:** Shabad 131: Chandau Saoorajau Daui Jaotai Saraoopau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+चंदु सूरजु दुइ जोति सरूपु ॥
+जोती अंतरि ब्रहमु अनूपु ॥१॥
+करु रे गिआनी ब्रहम बीचारु ॥
+जोती अंतरि धरिआ पसारु ॥१॥ रहाउ ॥
+हीरा देखि हीरे करउ आदेसु ॥
+कहै कबीरु निरंजन अलेखु ॥२॥२॥११॥972॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+चंदु (चंद्रमा) सूरजु (सूरजु का आध्यात्मिक भाव) दुइ (दो (द्वैत)) जोति (दिव्य ज्योति/प्रकाश) सरूपु (स्वरूप/दिव्य रूप) ॥
+जोती (जोती का आध्यात्मिक भाव) अंतरि (हृदय के भीतर) ब्रहमु (ब्रहमु का आध्यात्मिक भाव) अनूपु (अनुपम परमात्मा) ॥ ॥
+करु (हाथ/कर्म) रे (रा (रज़ा व समर्पण)) गिआनी (ज्ञानी/तत्वदर्शी) ब्रहम (ब्रहम का आध्यात्मिक भाव) बीचारु (चारों संबंधी) ॥
+जोती (जोती का आध्यात्मिक भाव) अंतरि (हृदय के भीतर) धरिआ (धरिआ का आध्यात्मिक भाव) पसारु (पसारु का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+हीरा (अमूल्य हीरा) देखि (देखकर संबंधी) हीरे (हीरे का आध्यात्मिक भाव) करउ (करके) आदेसु (आदेसु का आध्यात्मिक भाव) ॥
+कहै (पुकारे) कबीरु (संत कबीर जी) निरंजन (मायातीत, निर्लेप) अलेखु (अलेखु का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+chandu (radiant moon) sooraju (sooraju) dui (two/duality) joti (divine radiance/light) saroopu (true spiritual form) .
+jotee (jotee) antari (within the heart) brahamu (brahamu) anoopu (incomparable Lord) . .
+karu (hand/deed) re (Re (Divine Will)) giaanee (wise sage/knower) braham (braham) beechaaru (four related) .
+jotee (jotee) antari (within the heart) dharia (dharia) pasaaru (pasaaru) . . rahaau (pause for reflection, foundational theme) .
+heera (diamond) dekhi (beholding related) heere (heere) karau (doing) aadesu (aadesu) .
+kahai (chants) kabeeru (Sant Kabir) niranjan (immaculate, untainted by Maya) alekhu (alekhu) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! चंदु सूरजु दुइ जोति सरूपु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! chandusoorajuduijotisaroopu—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 131: चंदु सूरजु दुइ जोति सरूपु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-132"></a>
+## शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई
+**English Title:** Shabad 132: Daunaeeaa Hausaeeaara Baedaara Jaagata Mausaeeata
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई ॥
+निगम हुसीआर पहरूआ देखत जमु ले जाई ॥१॥ रहाउ ॥
+नं​‍ीबु भइओ आंबु आंबु भइओ नं​‍ीबा केला पाका झारि ॥
+नालीएर फलु सेबरि पाका मूरख मुगध गवार ॥१॥
+हरि भइओ खांडु रेतु महि बिखरिओ हसतीं चुनिओ न जाई ॥
+कहि कमीर कुल जाति पांति तजि चीटी होइ चुनि खाई ॥२॥३॥१२॥972॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+दुनीआ (नश्वर संसार) हुसीआर (हुसीआर का आध्यात्मिक भाव) बेदार (बेदार का आध्यात्मिक भाव) जागत (जागत का आध्यात्मिक भाव) मुसीअत (मुसीअत का आध्यात्मिक भाव) हउ (मैं/अहंभाव) रे (रा (रज़ा व समर्पण)) भाई (हे भाई!/हे मित्र!) ॥
+निगम (वेद/शास्त्र) हुसीआर (हुसीआर का आध्यात्मिक भाव) पहरूआ (पहरूआ का आध्यात्मिक भाव) देखत (देखकर (करते हुए)) जमु (यमराज/मृत्यु) ले (लेकर) जाई (जाओ) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+नं​‍ीबु (नं​‍ीबु का आध्यात्मिक भाव) भइओ (हुआ) आंबु (आंबु का आध्यात्मिक भाव) आंबु (आंबु का आध्यात्मिक भाव) भइओ (हुआ) नं​‍ीबा (नं​‍ीबा का आध्यात्मिक भाव) केला (केला का आध्यात्मिक भाव) पाका (पाका का आध्यात्मिक भाव) झारि (झारि (सधुक्कड़ी भाव)) ॥
+नालीएर (नालीएर का आध्यात्मिक भाव) फलु (कर्मफल) सेबरि (सेबरि का आध्यात्मिक भाव) पाका (पाका का आध्यात्मिक भाव) मूरख (मूरख का आध्यात्मिक भाव) मुगध (मुगध (सधुक्कड़ी भाव)) गवार (गवार का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) भइओ (हुआ) खांडु (खांडु का आध्यात्मिक भाव) रेतु (रेतु का आध्यात्मिक भाव) महि (में/भीतर) बिखरिओ (बिखरिओ का आध्यात्मिक भाव) हसतीं (हसतीं का आध्यात्मिक भाव) चुनिओ (चुनिओ का आध्यात्मिक भाव) न (नहीं) जाई (जाओ) ॥
+कहि (से (को/में)) कमीर (कमीर का आध्यात्मिक भाव) कुल (समस्त) जाति (जन्मना जाति/वर्ण) पांति (पंक्ति/वर्ग-भेद) तजि (त्यागकर/छोड़कर) चीटी (चीटी का आध्यात्मिक भाव) होइ (होकर) चुनि (चुनकर/एकत्र करके) खाई (खाई/खड्डा) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+duneea (mortal world) huseeaar (huseeaar) bedaar (bedaar) jaagat (jaagat) museeat (museeat) hau (I/ego) re (Re (Divine Will)) bhaaee (O brother!) .
+nigam (Vedic scriptures) huseeaar (huseeaar) paharooa (paharooa) dekhat (beholding (while doing)) jamu (Yamraj/Death) le (taking/having taken) jaaee (slip away) . . rahaau (pause for reflection, foundational theme) .
+naneebu (naneebu) bhaio (occurred/became) aanbu (aanbu) aanbu (aanbu) bhaio (occurred/became) naneeba (naneeba) kela (kela) paaka (paaka) jhaari (jhaari (spiritual sense)) .
+naaleeer (naaleeer) phalu (fruit/reward) sebari (sebari) paaka (paaka) moorakh (moorakh) mugadh (mugadh (spiritual sense)) gavaar (gavaar) . .
+hari (The Lord who dispels grief (Hari)) bhaio (occurred/became) khaandu (khaandu) retu (retu) mahi (within/in) bikhario (bikhario) hasateen (hasateen) chunio (chunio) n (not) jaaee (slip away) .
+kahi (from (unto/in)) kameer (kameer) kul (all/entire) jaati (caste/social division) paanti (lineage/sectarian ranks) taji (having renounced) cheetee (cheetee) hoi (having become) chuni (having chosen/picked) khaaee (trench/consumed) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! duneeaahuseeaarabedaarajaagatamuseeatahaurebhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-133"></a>
+## शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज
+**English Title:** Shabad 133: Raidhai Saidhai Jaa Kau Phauraee Taba Kaahaoo Sa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज ॥
+तेरे कहने की गति किआ कहउ मै बोलत ही बड लाज ॥१॥
+रामु जिह पाइआ राम ॥
+ते भवहि न बारै बार ॥१॥ रहाउ ॥
+झूठा जगु डहकै घना दिन दुइ बरतन की आस ॥
+राम उदकु जिह जन पीआ तिहि बहुरि न भई पिआस ॥२॥
+गुर प्रसादि जिह बूझिआ आसा ते भइआ निरासु ॥
+सभु सचु नदरी आइआ जउ आतम भइआ उदासु ॥३॥
+राम नाम रसु चाखिआ हरि नामा हर तारि ॥
+कहु कबीर कंचनु भइआ भ्रमु गइआ समुद्रै पारि ॥४॥३॥1103॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+रिधि (रिधि (सधुक्कड़ी भाव)) सिधि (आध्यात्मिक सिद्धि, पूर्णता) जा (जिसका/जब) कउ (को) फुरी (फुरी का आध्यात्मिक भाव) तब (उस समय/तब) काहू (किसी को/किसी से) सिउ (से/साथ) किआ (क्या) काज (कार्य/प्रयोजन) ॥
+तेरे (तेरे विरह के) कहने (कहने का आध्यात्मिक भाव) की (की/संबंध-सूचक) गति (परम गति/मुक्ति) किआ (क्या) कहउ (कहउ का आध्यात्मिक भाव) मै (मैं/मैंने) बोलत (बोलत का आध्यात्मिक भाव) ही (केवल/मात्र) बड (महान/विशाल) लाज (लाज का आध्यात्मिक भाव) ॥ ॥
+रामु (राम नाम की संबंधी) जिह (जिस) पाइआ (पा लिया है) राम (सर्वव्यापी परमात्मा) ॥
+ते (से/द्वारा) भवहि (भवहि का आध्यात्मिक भाव) न (नहीं) बारै (द्वार) बार (द्वार) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+झूठा (मिथ्या/झूठा) जगु (सम्पूर्ण जगत/संसार) डहकै (डहकै का आध्यात्मिक भाव) घना (सघन मेघ/बादल) दिन (दिवस) दुइ (दो (द्वैत)) बरतन (बरतन का आध्यात्मिक भाव) की (की/संबंध-सूचक) आस (आशा) ॥
+राम (सर्वव्यापी परमात्मा) उदकु (उदकु का आध्यात्मिक भाव) जिह (जिस) जन (भक्त/सेवक) पीआ (पान किया/पिया) तिहि (उस) बहुरि (पुनः/फिर) न (नहीं) भई (हो गई) पिआस (प्यास/तृष्णा) ॥ ॥
+गुर (गुरु के) प्रसादि (ईश्वरीय अनुग्रह/कृपा (में/करके)) जिह (जिस) बूझिआ (बूझिआ का आध्यात्मिक भाव) आसा (आशा राग/कामना) ते (से/द्वारा) भइआ (हुआ/हो गया) निरासु (निरास (सधुक्कड़ी भाव)) ॥
+सभु (सब कुछ/सम्पूर्ण) सचु (परम सत्य/सच्चा प्रभु) नदरी (नदरी का आध्यात्मिक भाव) आइआ (आया) जउ (यदि/जब) आतम (अंतरात्मा, आत्म-स्वरूप) भइआ (हुआ/हो गया) उदासु (विषादग्रस्त/विरक्त) ॥ ॥
+राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) रसु (हरि-नाम का अमृत रस) चाखिआ (चाखिआ का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) नामा (परम पावन नाम संबंधी) हर (भगवान/हरि) तारि (तार दो/उद्धार करो) ॥
+कहु (बताओ) कबीर (संत कबीर जी) कंचनु (शुद्ध कंचन/स्वर्ण) भइआ (हुआ/हो गया) भ्रमु (भ्रम/संशय) गइआ (गया) समुद्रै (समुद्रै का आध्यात्मिक भाव) पारि (भवसागर से पार, मुक्ति) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ridhi (ridhi (spiritual sense)) sidhi (spiritual perfection, mystical power) ja (whose/when) kau (unto) phuree (phuree) tab (at that time/then) kaahoo (anyone/anyone's) siu (with/from) kia (what) kaaj (work/purpose) .
+tere (in Your) kahane (kahane) kee (of) gati (spiritual emancipation) kia (what) kahau (kahau) mai (I/by me) bolat (bolat) hee (alone/only) bad (great/large) laaj (laaj) . .
+raamu (Lord Rama's related) jih (which) paaia (have found) raam (The All-Pervading Lord (Ram)) .
+te (from/by) bhavahi (bhavahi) n (not) baarai (door) baar (door) . . rahaau (pause for reflection, foundational theme) .
+jhootha (false/untrue) jagu (the world/mortal realm) dahakai (dahakai) ghana (dense raincloud) din (day) dui (two/duality) baratan (baratan) kee (of) aas (hope) .
+raam (The All-Pervading Lord (Ram)) udaku (udaku) jih (which) jan (devotee/humble servant) peea (drank nectar) tihi (that) bahuri (again/once more) n (not) bhaee (became) piaas (thirst/spiritual longing) . .
+gur (of the Master) prasaadi (divine grace (in/having done)) jih (which) boojhia (boojhia) aasa (Asa raga/hope) te (from/by) bhaia (became) niraasu (niraas (spiritual sense)) .
+sabhu (everything/all) sachu (The Ultimate Truth) nadaree (nadaree) aaia (came/arrived) jau (if/when) aatam (inner soul, divine self) bhaia (became) udaasu (sorrowful/detached) . .
+raam (The All-Pervading Lord (Ram)) naam (Divine Name) rasu (nectar of divine essence) chaakhia (chaakhia) hari (The Lord who dispels grief (Hari)) naama (Divine Name related) har (Lord Hari/God) taari (redeem/ferry across) .
+kahu (tell) kabeer (Sant Kabir) kanchanu (pure gold) bhaia (became) bhramu (illusion/doubt) gaia (went/departed) samudrai (samudrai) paari (across the ocean of rebirth, ultimate liberation) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! ridhisidhijaakauphureetabakaahoosiukiaakaaj—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-134"></a>
+## शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु
+**English Title:** Shabad 134: Jau Taumaha Mao Kau Daoorai Karata Hau Tau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु ॥
+एक अनेक होइ रहिओ सगल महि अब कैसे भरमावहु ॥१॥
+राम मो कउ तारि कहां लै जई है ॥
+सोधउ मुकति कहा देउ कैसी करि प्रसादु मोहि पाई है ॥१॥ रहाउ ॥
+तारन तरनु तबै लगु कहीऐ जब लगु ततु न जानिआ ॥
+अब तउ बिमल भए घट ही महि कहि कबीर मनु मानिआ ॥२॥५॥1104॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जउ (यदि/जब) तुम्ह (तुम/आप) मो (मुझे/मुझको) कउ (को) दूरि (दूर/फासले पर) करत (करते) हउ (मैं/अहंभाव) तउ (तब/तो भी) तुम (आप/तुम) मुकति (मुक्ति/मोक्ष) बतावहु (बतावहु का आध्यात्मिक भाव) ॥
+एक (समान/एक जैसे) अनेक (बहुत सारे/अनेक) होइ (होकर) रहिओ (रहिओ का आध्यात्मिक भाव) सगल (संपूर्ण/समस्त) महि (में/भीतर) अब (अब/इस समय) कैसे (किस प्रकार) भरमावहु (भरमावहु का आध्यात्मिक भाव) ॥ ॥
+राम (सर्वव्यापी परमात्मा) मो (मुझे/मुझको) कउ (को) तारि (तार दो/उद्धार करो) कहां (कहकर) लै (ले) जई (जई का आध्यात्मिक भाव) है (है कि) ॥
+सोधउ (सोधउ का आध्यात्मिक भाव) मुकति (मुक्ति/मोक्ष) कहा (क्या/कहाँ) देउ (देउ का आध्यात्मिक भाव) कैसी (कैसी (सधुक्कड़ी भाव)) करि (करके/हाथ से) प्रसादु (ईश्वरीय अनुग्रह/कृपा) मोहि (मुझको/मुझे) पाई (प्राप्त कर लिया) है (है कि) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तारन (तारने वाला) तरनु (पार उतरना/मुक्ति) तबै (उस समय/तब) लगु (लगो/समीप आओ) कहीऐ (कहिए) जब (जिस समय/जब) लगु (लगो/समीप आओ) ततु (तत्व/परम सत्य) न (नहीं) जानिआ (जानिआ का आध्यात्मिक भाव) ॥
+अब (अब/इस समय) तउ (तब/तो भी) बिमल (निर्मल/स्वच्छ) भए (हो गए) घट (हृदय/शरीर) ही (केवल/मात्र) महि (में/भीतर) कहि (से (को/में)) कबीर (संत कबीर जी) मनु (मन/अंतःकरण) मानिआ (मानिआ का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jau (if/when) tumh (You/Thou) mo (unto me) kau (unto) doori (far/distant) karat (doing) hau (I/ego) tau (then/still) tum (You/Thou) mukati (spiritual liberation) bataavahu (bataavahu) .
+ek (equal and one) anek (many/various) hoi (having become) rahio (rahio) sagal (all/entire) mahi (within/in) ab (now) kaise (how) bharamaavahu (bharamaavahu) . .
+raam (The All-Pervading Lord (Ram)) mo (unto me) kau (unto) taari (redeem/ferry across) kahaan (saying) lai (bringing) jaee (jaee) hai (is) .
+sodhau (sodhau) mukati (spiritual liberation) kaha (what/where) deu (deu) kaisee (kaisee (spiritual sense)) kari (having done/with hands) prasaadu (divine grace) mohi (unto me) paaee (have found/attained) hai (is) . . rahaau (pause for reflection, foundational theme) .
+taaran (savior/redeemer) taranu (crossing over/salvation) tabai (at that time/then) lagu (cling to/attach) kaheeai (one should speak) jab (at the time when) lagu (cling to/attach) tatu (essence/Truth) n (not) jaania (jaania) .
+ab (now) tau (then/still) bimal (pure/unblemished) bhae (became) ghat (body/inner temple) hee (alone/only) mahi (within/in) kahi (from (unto/in)) kabeer (Sant Kabir) manu (mind/inner spirit) maania (maania) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jautumhamokaudoorikaratahautautumamukati—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-135"></a>
+## शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े
+**English Title:** Shabad 135: Anabhau Kainaai Na Daekhaiaa Baairaagaeeaड़e
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अनभउ किनै न देखिआ बैरागीअड़े ॥
+बिनु भै अनभउ होइ वणाह्मबै ॥१॥
+सहु हदूरि देखै तां भउ पवै बैरागीअड़े ॥
+हुकमै बूझै त निरभउ होइ वणाह्मबै ॥२॥
+हरि पाखंडु न कीजई बैरागीअड़े ॥
+पाखंडि रता सभु लोकु वणाह्मबै ॥३॥
+त्रिसना पासु न छोडई बैरागीअड़े ॥
+ममता जालिआ पिंडु वणाह्मबै ॥४॥
+चिंता जालि तनु जालिआ बैरागीअड़े ॥
+जे मनु मिरतकु होइ वणाह्मबै ॥५॥
+सतिगुर बिनु बैरागु न होवई बैरागीअड़े ॥
+जे लोचै सभु कोइ वणाह्मबै ॥६॥
+करमु होवै सतिगुरु मिलै बैरागीअड़े ॥
+सहजे पावै सोइ वणाह्मबै ॥७॥
+कहु कबीर इक बेनती बैरागीअड़े ॥
+मो कउ भउजलु पारि उतारि वणाह्मबै ॥८॥१॥८॥1104॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अनभउ (आत्मानुभव/दिव्यानुभव) किनै (किन लोगों ने/किनको) न (नहीं) देखिआ (देखिआ का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+बिनु (बिना/रहित) भै (भय/डर) अनभउ (आत्मानुभव/दिव्यानुभव) होइ (होकर) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+सहु (स्वामी/पति प्रभु) हदूरि (हदूरि का आध्यात्मिक भाव) देखै (देखकर (करता है/ने)) तां (तो फिर/निश्चय ही) भउ (भउ का आध्यात्मिक भाव) पवै (पवै का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+हुकमै (हुकमै का आध्यात्मिक भाव) बूझै (समझता/जानता (करता है/होता है)) त (तो फिर/निश्चय ही) निरभउ (निरभउ का आध्यात्मिक भाव) होइ (होकर) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) पाखंडु (पाखंड (सधुक्कड़ी भाव)) न (नहीं) कीजई (कीजई का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+पाखंडि (पाखंड (सधुक्कड़ी भाव)) रता (रता का आध्यात्मिक भाव) सभु (सब कुछ/सम्पूर्ण) लोकु (संसारी लोग) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+त्रिसना (तृष्णा/कामना की अग्नि) पासु (समीप) न (नहीं) छोडई (छोडई का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+ममता (ममता का आध्यात्मिक भाव) जालिआ (जालिआ का आध्यात्मिक भाव) पिंडु (पिंडु का आध्यात्मिक भाव) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+चिंता (चिंता/फिक्र) जालि (फंदा/जाल) तनु (नश्वर शरीर/देह) जालिआ (जालिआ का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+जे (यदि) मनु (मन/अंतःकरण) मिरतकु (मृतक, अहंकार रहित) होइ (होकर) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+सतिगुर (सच्चे गुरु) बिनु (बिना/रहित) बैरागु (वैराग्य/विरक्ति) न (नहीं) होवई (होवई का आध्यात्मिक भाव) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+जे (यदि) लोचै (लोचै का आध्यात्मिक भाव) सभु (सब कुछ/सम्पूर्ण) कोइ (को/की ओर (में/करके)) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+करमु (कर्मकांड संबंधी) होवै (होता है) सतिगुरु (सच्चे सद्गुरु) मिलै (प्राप्त हो/मिलता है) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+सहजे (सहज समाधि संबंधी) पावै (प्राप्त करता है) सोइ (वह (में/करके)) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥
+कहु (बताओ) कबीर (संत कबीर जी) इक (एक ही) बेनती (विनम्र प्रार्थना) बैरागीअड़े (बैरागीअड़े का आध्यात्मिक भाव) ॥
+मो (मुझे/मुझको) कउ (को) भउजलु (भउजलु का आध्यात्मिक भाव) पारि (भवसागर से पार, मुक्ति) उतारि (उतारि का आध्यात्मिक भाव) वणाह्मबै (वणाह्मबै का आध्यात्मिक भाव) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+anabhau (direct spiritual experience) kinai (by whom/unto whom) n (not) dekhia (dekhia) bairaageeade (bairaageeade) .
+binu (without/devoid of) bhai (fear/dread) anabhau (direct spiritual experience) hoi (having become) vanaahmabai (vanaahmabai) . .
+sahu (Lord/Husband-Lord) hadoori (hadoori) dekhai (beholding (does/by)) taan (then indeed) bhau (bhau) pavai (pavai) bairaageeade (bairaageeade) .
+hukamai (hukamai) boojhai (comprehends (does/becomes)) t (then indeed) nirabhau (nirabhau) hoi (having become) vanaahmabai (vanaahmabai) . .
+hari (The Lord who dispels grief (Hari)) paakhandu (paakhand (spiritual sense)) n (not) keejaee (keejaee) bairaageeade (bairaageeade) .
+paakhandi (paakhand (spiritual sense)) rata (rata) sabhu (everything/all) loku (worldly people) vanaahmabai (vanaahmabai) . .
+trisana (thirst of worldly desire) paasu (near) n (not) chhodaee (chhodaee) bairaageeade (bairaageeade) .
+mamata (mamata) jaalia (jaalia) pindu (pindu) vanaahmabai (vanaahmabai) . .
+chinta (anxiety/worry) jaali (snares/traps) tanu (mortal body) jaalia (jaalia) bairaageeade (bairaageeade) .
+je (if) manu (mind/inner spirit) mirataku (dead to the ego, egoless being) hoi (having become) vanaahmabai (vanaahmabai) . .
+satigur (True Master/Guru) binu (without/devoid of) bairaagu (detachment/renunciation) n (not) hovaee (hovaee) bairaageeade (bairaageeade) .
+je (if) lochai (lochai) sabhu (everything/all) koi (unto/to (in/having done)) vanaahmabai (vanaahmabai) . .
+karamu (rituals related) hovai (happens/becomes) satiguru (True Divine Master) milai (is obtained/received) bairaageeade (bairaageeade) .
+sahaje (innate poise related) paavai (attains/realizes) soi (that (in/having done)) vanaahmabai (vanaahmabai) . .
+kahu (tell) kabeer (Sant Kabir) ik (in one) benatee (prayer) bairaageeade (bairaageeade) .
+mo (unto me) kau (unto) bhaujalu (bhaujalu) paari (across the ocean of rebirth, ultimate liberation) utaari (utaari) vanaahmabai (vanaahmabai) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अनभउ किनै न देखिआ बैरागीअड़े—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! anabhaukinainadekhiaabairaageeade—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-136"></a>
+## शब्द 136: रामु सिमरु पछुताहिगा मन
+**English Title:** Shabad 136: Raamau Saimarau Pachhautaahaigaa Mana
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+रामु सिमरु पछुताहिगा मन ॥
+पापी जीअरा लोभु करतु है आजु कालि उठि जाहिगा ॥१॥ रहाउ ॥
+लालच लागे जनमु गवाइआ माइआ भरम भुलाहिगा ॥
+धन जोबन का गरबु न कीजै कागद जिउ गलि जाहिगा ॥१॥
+जउ जमु आइ केस गहि पटकै ता दिन किछु न बसाहिगा ॥
+सिमरनु भजनु दइआ नही कीनी तउ मुखि चोटा खाहिगा ॥२॥
+धरम राइ जब लेखा मागै किआ मुखु लै कै जाहिगा ॥
+कहतु कबीरु सुनहु रे संतहु साधसंगति तरि जांहिगा ॥३॥१॥1106॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+रामु (राम नाम की संबंधी) सिमरु (सिमरु का आध्यात्मिक भाव) पछुताहिगा (पछुताहिगा का आध्यात्मिक भाव) मन (मन/चित्त) ॥
+पापी (पापी/दोषी) जीअरा (जीअरा का आध्यात्मिक भाव) लोभु (लालच, तृष्णा) करतु (करते संबंधी) है (है कि) आजु (आज (सधुक्कड़ी भाव)) कालि (काल/मृत्यु) उठि (उठकर/जागकर) जाहिगा (जाहिगा का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+लालच (लालच का आध्यात्मिक भाव) लागे (लगती है) जनमु (मानव जन्म) गवाइआ (गवाइआ का आध्यात्मिक भाव) माइआ (माया/भ्रम) भरम (भ्रम) भुलाहिगा (भुलाहिगा का आध्यात्मिक भाव) ॥
+धन (संपदा) जोबन (जोबन (सधुक्कड़ी भाव)) का (का/संबंध-सूचक) गरबु (अहंकार/गर्व) न (नहीं) कीजै (कीजिए) कागद (पत्र/कागज़) जिउ (जैसे/ज्यों) गलि (गलि का आध्यात्मिक भाव) जाहिगा (जाहिगा का आध्यात्मिक भाव) ॥ ॥
+जउ (यदि/जब) जमु (यमराज/मृत्यु) आइ (आई) केस (केस का आध्यात्मिक भाव) गहि (ग्रहण करना, धारण करना) पटकै (पटकै का आध्यात्मिक भाव) ता (उस पर/उसका) दिन (दिवस) किछु (कुछ भी/तनिक) न (नहीं) बसाहिगा (बसाहिगा का आध्यात्मिक भाव) ॥
+सिमरनु (नाम-सिमरन) भजनु (भजन कर/दौड़ (लोग/समूह)) दइआ (दया/करुणा) नही (नहीं) कीनी (क्या (लोग/समूह) संबंधी) तउ (तब/तो भी) मुखि (चेहरा (में/करके)) चोटा (प्रेम की मार/आघात) खाहिगा (खाहिगा का आध्यात्मिक भाव) ॥ ॥
+धरम (धर्म) राइ (राइ (सधुक्कड़ी भाव)) जब (जिस समय/जब) लेखा (हिसाब-किताब) मागै (मागै का आध्यात्मिक भाव) किआ (क्या) मुखु (चेहरा) लै (ले) कै (के/का) जाहिगा (जाहिगा का आध्यात्मिक भाव) ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) साधसंगति (सत्संगति संबंधी) तरि (वृक्ष/पेड़) जांहिगा (जांहिगा का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+raamu (Lord Rama's related) simaru (simaru) pachhutaahiga (pachhutaahiga) man (mind/inner consciousness) .
+paapee (sinner/transgressor) jeeara (jeeara) lobhu (greed, insatiable craving) karatu (doing related) hai (is) aaju (aaj (spiritual sense)) kaali (death/time) uthi (having arisen) jaahiga (jaahiga) . . rahaau (pause for reflection, foundational theme) .
+laalach (laalach) laage (it touches) janamu (human birth) gavaaia (gavaaia) maaia (cosmic illusion) bharam (illusion/doubt) bhulaahiga (bhulaahiga) .
+dhan (wealth) joban (joban (spiritual sense)) ka (of) garabu (pride/arrogance) n (not) keejai (please do) kaagad (letter) jiu (just as) gali (gali) jaahiga (jaahiga) . .
+jau (if/when) jamu (Yamraj/Death) aai (arrived/came) kes (kes) gahi (grasp, retain with reverence) patakai (patakai) ta (upon that/his) din (day) kichhu (anything/a little) n (not) basaahiga (basaahiga) .
+simaranu (chanting of holy name) bhajanu (worship/run swiftly (folk/plural)) daia (compassion/mercy) nahee (not) keenee (what (folk/plural) related) tau (then/still) mukhi (face (in/having done)) chota (wound/strike of love) khaahiga (khaahiga) . .
+dharam (righteousness) raai (raai (spiritual sense)) jab (at the time when) lekha (reckoning/account of deeds) maagai (maagai) kia (what) mukhu (face) lai (bringing) kai (of) jaahiga (jaahiga) .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) saadhasangati (holy communion related) tari (tree) jaanhiga (jaanhiga) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! रामु सिमरु पछुताहिगा मन—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! raamusimarupachhutaahigaamana—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 136: रामु सिमरु पछुताहिगा मन'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-137"></a>
+## शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी
+**English Title:** Shabad 137: Kainahaee Banajaiaa Kaansaee Taanbaa Kainahaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+किनही बनजिआ कांसी तांबा किनही लउग सुपारी ॥
+संतहु बनजिआ नामु गोबिद का ऐसी खेप हमारी ॥१॥
+हरि के नाम के बिआपारी ॥
+हीरा हाथि चड़िआ निरमोलकु छूटि गई संसारी ॥१॥ रहाउ ॥
+साचे लाए तउ सच लागे साचे के बिउहारी ॥
+साची बसतु के भार चलाए पहुचे जाइ भंडारी ॥२॥
+आपहि रतन जवाहर मानिक आपै है पासारी ॥
+आपै दह दिस आप चलावै निहचलु है बिआपारी ॥३॥
+मनु करि बैलु सुरति करि पैडा गिआन गोनि भरि डारी ॥
+कहतु कबीरु सुनहु रे संतहु निबही खेप हमारी ॥४॥२॥1123॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+किनही (किनही का आध्यात्मिक भाव) बनजिआ (बनजिआ का आध्यात्मिक भाव) कांसी (कांसी का आध्यात्मिक भाव) तांबा (तांबा का आध्यात्मिक भाव) किनही (किनही का आध्यात्मिक भाव) लउग (लउग का आध्यात्मिक भाव) सुपारी (सुपारी का आध्यात्मिक भाव) ॥
+संतहु (हे संत जनो!) बनजिआ (बनजिआ का आध्यात्मिक भाव) नामु (सत्य-नाम) गोबिद (गोबिद का आध्यात्मिक भाव) का (का/संबंध-सूचक) ऐसी (इस विरह रूपी) खेप (खेप का आध्यात्मिक भाव) हमारी (मेरी) ॥ ॥
+हरि (दुख-हर्ता परमात्मा) के (के/संबंध-सूचक) नाम (परम पावन नाम) के (के/संबंध-सूचक) बिआपारी (बिआपारी का आध्यात्मिक भाव) ॥
+हीरा (अमूल्य हीरा) हाथि (कर संबंधी) चड़िआ (चड़िआ का आध्यात्मिक भाव) निरमोलकु (निरमोलकु का आध्यात्मिक भाव) छूटि (छूटकर/मुक्त होकर) गई (गई अपनी) संसारी (संसारी (सधुक्कड़ी भाव)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+साचे (साच (सधुक्कड़ी भाव)) लाए (लाए का आध्यात्मिक भाव) तउ (तब/तो भी) सच (सच (सधुक्कड़ी भाव)) लागे (लगती है) साचे (साच (सधुक्कड़ी भाव)) के (के/संबंध-सूचक) बिउहारी (पराजय/माला संबंधी) ॥
+साची (सत्य/सच्ची) बसतु (वस्तु/सामग्री) के (के/संबंध-सूचक) भार (बोझ) चलाए (चलाए का आध्यात्मिक भाव) पहुचे (पहुचे का आध्यात्मिक भाव) जाइ (जिसका/जब (में/करके)) भंडारी (भंडारी का आध्यात्मिक भाव) ॥ ॥
+आपहि (आपहि का आध्यात्मिक भाव) रतन (अमूल्य रत्न) जवाहर (जवाहर का आध्यात्मिक भाव) मानिक (मानिक का आध्यात्मिक भाव) आपै (स्वयं/परमात्मा) है (है कि) पासारी (पासारी का आध्यात्मिक भाव) ॥
+आपै (स्वयं/परमात्मा) दह (दसों दिशाएं) दिस (दिशा) आप (स्वयं/परमात्मा) चलावै (चलाता है/प्रेरित करता है) निहचलु (निहचल (सधुक्कड़ी भाव)) है (है कि) बिआपारी (बिआपारी का आध्यात्मिक भाव) ॥ ॥
+मनु (मन/अंतःकरण) करि (करके/हाथ से) बैलु (बैल/जीव-आत्मा) सुरति (चेतना/होश (में/करके)) करि (करके/हाथ से) पैडा (पैडा का आध्यात्मिक भाव) गिआन (आत्मज्ञान/विवेक) गोनि (गोनि का आध्यात्मिक भाव) भरि (आंसुओं से भर (में/करके)) डारी (छोड़ देना, त्यागना) ॥
+कहतु (कहते हुए) कबीरु (संत कबीर जी) सुनहु (सुनकर (से/द्वारा)) रे (रा (रज़ा व समर्पण)) संतहु (हे संत जनो!) निबही (निबही का आध्यात्मिक भाव) खेप (खेप का आध्यात्मिक भाव) हमारी (मेरी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kinahee (kinahee) banajia (banajia) kaansee (kaansee) taanba (taanba) kinahee (kinahee) laug (laug) supaaree (supaaree) .
+santahu (O holy saints!) banajia (banajia) naamu (True Name) gobid (gobid) ka (of) aisee (such) khep (khep) hamaaree (my) . .
+hari (The Lord who dispels grief (Hari)) ke (of) naam (Divine Name) ke (of) biaapaaree (biaapaaree) .
+heera (diamond) haathi (hand related) chadia (chadia) niramolaku (niramolaku) chhooti (breaking free/liberated) gaee (became) sansaaree (sansaaree (spiritual sense)) . . rahaau (pause for reflection, foundational theme) .
+saache (saach (spiritual sense)) laae (laae) tau (then/still) sach (sach (spiritual sense)) laage (it touches) saache (saach (spiritual sense)) ke (of) biuhaaree (defeat/garland related) .
+saachee (true/genuine) basatu (goods/commodity) ke (of) bhaar (heavy burden) chalaae (chalaae) pahuche (pahuche) jaai (whose/when (in/having done)) bhandaaree (bhandaaree) . .
+aapahi (aapahi) ratan (gem) javaahar (javaahar) maanik (maanik) aapai (Himself/oneself) hai (is) paasaaree (paasaaree) .
+aapai (Himself/oneself) dah (ten directions) dis (direction) aap (Himself/oneself) chalaavai (drives/causes to move) nihachalu (nihachal (spiritual sense)) hai (is) biaapaaree (biaapaaree) . .
+manu (mind/inner spirit) kari (having done/with hands) bailu (bullock/burdened soul) surati (consciousness/mind (in/having done)) kari (having done/with hands) paida (paida) giaan (spiritual wisdom) goni (goni) bhari (welled up (in/having done)) daaree (discard, cast away) .
+kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Will)) santahu (O holy saints!) nibahee (nibahee) khep (khep) hamaaree (my) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! किनही बनजिआ कांसी तांबा किनही लउग सुपारी—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kinaheebanajiaakaanseetaanbaakinaheelaugasupaaree—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-138"></a>
+## शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ
+**English Title:** Shabad 138: Raee Kalavaarai Gavaarai Maoodha Matai Ulatao Pa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ ॥
+मनु मतवार मेर सर भाठी अम्रित धार चुआवउ ॥१॥
+बोलहु भईआ राम की दुहाई ॥
+पीवहु संत सदा मति दुरलभ सहजे पिआस बुझाई ॥१॥ रहाउ ॥
+भै बिचि भाउ भाइ कोऊ बूझहि हरि रसु पावै भाई ॥
+जेते घट अम्रितु सभ ही महि भावै तिसहि पीआई ॥२॥
+नगरी एकै नउ दरवाजे धावतु बरजि रहाई ॥
+त्रिकुटी छूटै दसवा दरु खूल्है ता मनु खीवा भाई ॥३॥
+अभै पद पूरि ताप तह नासे कहि कबीर बीचारी ॥
+उबट चलंते इहु मदु पाइआ जैसे खोंद खुमारी ॥४॥३॥1123॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+री (र (सधुक्कड़ी भाव)) कलवारि (कलवारि का आध्यात्मिक भाव) गवारि (गवारि का आध्यात्मिक भाव) मूढ (मूढ का आध्यात्मिक भाव) मति (बुद्धि/समझ) उलटो (उलटो का आध्यात्मिक भाव) पवनु (वायु) फिरावउ (फिरावउ का आध्यात्मिक भाव) ॥
+मनु (मन/अंतःकरण) मतवार (मतवार का आध्यात्मिक भाव) मेर (मेर (सधुक्कड़ी भाव)) सर (सिर/सरोवर) भाठी (भाठी (सधुक्कड़ी भाव)) अम्रित (अम्रित का आध्यात्मिक भाव) धार (धार (सधुक्कड़ी भाव)) चुआवउ (चुआवउ का आध्यात्मिक भाव) ॥ ॥
+बोलहु (बोलहु का आध्यात्मिक भाव) भईआ (भईआ का आध्यात्मिक भाव) राम (सर्वव्यापी परमात्मा) की (की/संबंध-सूचक) दुहाई (दुहाई का आध्यात्मिक भाव) ॥
+पीवहु (पीवहु का आध्यात्मिक भाव) संत (संत/महात्मा) सदा (सर्वदा/सदा) मति (बुद्धि/समझ) दुरलभ (दुरलभ (सधुक्कड़ी भाव)) सहजे (सहज समाधि संबंधी) पिआस (प्यास/तृष्णा) बुझाई (बुझा दिया) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+भै (भय/डर) बिचि (बिचि का आध्यात्मिक भाव) भाउ (भाव/मूल्य) भाइ (भाइ का आध्यात्मिक भाव) कोऊ (कोई भी) बूझहि (बूझहि का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) रसु (हरि-नाम का अमृत रस) पावै (प्राप्त करता है) भाई (हे भाई!/हे मित्र!) ॥
+जेते (जितने) घट (हृदय/शरीर) अम्रितु (अमर-रस/अमृत) सभ (सब) ही (केवल/मात्र) महि (में/भीतर) भावै (जैसा मन चाहे) तिसहि (तिसहि का आध्यात्मिक भाव) पीआई (पीआई का आध्यात्मिक भाव) ॥ ॥
+नगरी (नगर/संसार रूपी शहर) एकै (समान/एक जैसे (करता है/ने)) नउ (नउ का आध्यात्मिक भाव) दरवाजे (दरवाजे का आध्यात्मिक भाव) धावतु (धावतु का आध्यात्मिक भाव) बरजि (बरजि (सधुक्कड़ी भाव)) रहाई (रहाई का आध्यात्मिक भाव) ॥
+त्रिकुटी (भ्रूमध्य, संगम स्थल) छूटै (छूटता है/मुक्त होता है) दसवा (दसवा का आध्यात्मिक भाव) दरु (दरु का आध्यात्मिक भाव) खूल्है (खूल्है का आध्यात्मिक भाव) ता (उस पर/उसका) मनु (मन/अंतःकरण) खीवा (खीवा का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥ ॥
+अभै (अभै का आध्यात्मिक भाव) पद (पद/स्थान/भजन) पूरि (व्याप्त होकर/भरकर) ताप (ताप (सधुक्कड़ी भाव)) तह (वहाँ) नासे (नासे का आध्यात्मिक भाव) कहि (से (को/में)) कबीर (संत कबीर जी) बीचारी (बीचारी (सधुक्कड़ी भाव)) ॥
+उबट (उबट का आध्यात्मिक भाव) चलंते (चलंते का आध्यात्मिक भाव) इहु (यह) मदु (मदिरा) पाइआ (पा लिया है) जैसे (जिस प्रकार) खोंद (खोंद का आध्यात्मिक भाव) खुमारी (खुमारी का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ree (r (spiritual sense)) kalavaari (kalavaari) gavaari (gavaari) moodh (moodh) mati (intellect/mind) ulato (ulato) pavanu (wind) phiraavau (phiraavau) .
+manu (mind/inner spirit) matavaar (matavaar) mer (mer (spiritual sense)) sar (head/lake) bhaathee (bhaathee (spiritual sense)) amrit (amrit) dhaar (dhaar (spiritual sense)) chuaavau (chuaavau) . .
+bolahu (bolahu) bhaeea (bhaeea) raam (The All-Pervading Lord (Ram)) kee (of) duhaaee (duhaaee) .
+peevahu (peevahu) sant (holy saint) sada (always/eternally) mati (intellect/mind) duralabh (duralabh (spiritual sense)) sahaje (innate poise related) piaas (thirst/spiritual longing) bujhaaee (extinguished) . . rahaau (pause for reflection, foundational theme) .
+bhai (fear/dread) bichi (bichi) bhaau (prices) bhaai (bhaai) kooo (anyone) boojhahi (boojhahi) hari (The Lord who dispels grief (Hari)) rasu (nectar of divine essence) paavai (attains/realizes) bhaaee (O brother!) .
+jete (as many as) ghat (body/inner temple) amritu (divine nectar of immortality) sabh (all) hee (alone/only) mahi (within/in) bhaavai (as pleases the heart) tisahi (tisahi) peeaaee (peeaaee) . .
+nagaree (city/town) ekai (equal and one (does/by)) nau (nau) daravaaje (daravaaje) dhaavatu (dhaavatu) baraji (baraji (spiritual sense)) rahaaee (rahaaee) .
+trikutee (eyebrow center, confluence of psychic channels) chhootai (is liberated/released) dasava (dasava) daru (daru) khoolhai (khoolhai) ta (upon that/his) manu (mind/inner spirit) kheeva (kheeva) bhaaee (O brother!) . .
+abhai (abhai) pad (spiritual station/hymn) poori (pervading everywhere) taap (taap (spiritual sense)) tah (there) naase (naase) kahi (from (unto/in)) kabeer (Sant Kabir) beechaaree (beechaaree (spiritual sense)) .
+ubat (ubat) chalante (chalante) ihu (this) madu (wine) paaia (have found) jaise (just as) khond (khond) khumaaree (khumaaree) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! reekalavaarigavaarimoodhamatiulatopavanuphiraavau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-139"></a>
+## शब्द 139: इहु धनु मेरे हरि को नाउ
+**English Title:** Shabad 139: Ihau Dhanau Maerae Harai Kao Naau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+इहु धनु मेरे हरि को नाउ ॥
+गांठि न बाधउ बेचि न खाउ ॥१॥ रहाउ ॥
+नाउ मेरे खेती नाउ मेरे बारी ॥
+भगति करउ जनु सरनि तुम्हारी ॥१॥
+नाउ मेरे माइआ नाउ मेरे पूंजी ॥
+तुमहि छोडि जानउ नही दूजी ॥२॥
+नाउ मेरे बंधिप नाउ मेरे भाई ॥
+नाउ मेरे संगि अंति होइ सखाई ॥३॥
+माइआ महि जिसु रखै उदासु ॥
+कहि कबीर हउ ता को दासु ॥४॥१॥1157॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+इहु (यह) धनु (धन/संपत्ति) मेरे (पर मेरे) हरि (दुख-हर्ता परमात्मा) को (को/की ओर) नाउ (नाम) ॥
+गांठि (गांठ/बंधन) न (नहीं) बाधउ (बाधउ का आध्यात्मिक भाव) बेचि (बेचि का आध्यात्मिक भाव) न (नहीं) खाउ (खाउ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+नाउ (नाम) मेरे (पर मेरे) खेती (युद्धभूमि, संसार) नाउ (नाम) मेरे (पर मेरे) बारी (बारी (सधुक्कड़ी भाव)) ॥
+भगति (प्रेम-भक्ति) करउ (करके) जनु (मानो/जैसे कि) सरनि (सिर/सरोवर (के/में)) तुम्हारी (आपकी/तुम्हारी) ॥ ॥
+नाउ (नाम) मेरे (पर मेरे) माइआ (माया/भ्रम) नाउ (नाम) मेरे (पर मेरे) पूंजी (आध्यात्मिक पूंजी/धन) ॥
+तुमहि (आप/तुम (को/में)) छोडि (छोडि का आध्यात्मिक भाव) जानउ (प्राण/जीवन) नही (नहीं) दूजी (दूजी का आध्यात्मिक भाव) ॥ ॥
+नाउ (नाम) मेरे (पर मेरे) बंधिप (बंधिप का आध्यात्मिक भाव) नाउ (नाम) मेरे (पर मेरे) भाई (हे भाई!/हे मित्र!) ॥
+नाउ (नाम) मेरे (पर मेरे) संगि (संगत में/सान्निध्य में) अंति (रहस्य (में/करके)) होइ (होकर) सखाई (सखाई का आध्यात्मिक भाव) ॥ ॥
+माइआ (माया/भ्रम) महि (में/भीतर) जिसु (जिसके विरह में) रखै (रखै का आध्यात्मिक भाव) उदासु (विषादग्रस्त/विरक्त) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) हउ (मैं/अहंभाव) ता (उस पर/उसका) को (को/की ओर) दासु (अनन्य सेवक/भक्त) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+ihu (this) dhanu (wealth/riches) mere (my) hari (The Lord who dispels grief (Hari)) ko (unto/toward) naau (name) .
+gaanthi (knot/tie) n (not) baadhau (baadhau) bechi (bechi) n (not) khaau (khaau) . . rahaau (pause for reflection, foundational theme) .
+naau (name) mere (my) khetee (battlefield of life and mind) naau (name) mere (my) baaree (baaree (spiritual sense)) .
+bhagati (loving devotion) karau (doing) janu (as if/devotee) sarani (head/lake (of/in)) tumhaaree (Thine) . .
+naau (name) mere (my) maaia (cosmic illusion) naau (name) mere (my) poonjee (spiritual capital/wealth) .
+tumahi (You/Thou (unto/in)) chhodi (chhodi) jaanau (life/soul) nahee (not) doojee (doojee) . .
+naau (name) mere (my) bandhip (bandhip) naau (name) mere (my) bhaaee (O brother!) .
+naau (name) mere (my) sangi (in company of) anti (inner core (in/having done)) hoi (having become) sakhaaee (sakhaaee) . .
+maaia (cosmic illusion) mahi (within/in) jisu (for whom) rakhai (rakhai) udaasu (sorrowful/detached) .
+kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) ta (upon that/his) ko (unto/toward) daasu (devoted servant) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! इहु धनु मेरे हरि को नाउ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! ihudhanumereharikonaau—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 139: इहु धनु मेरे हरि को नाउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-140"></a>
+## शब्द 140: गुर सेवा ते भगति कमाई
+**English Title:** Shabad 140: Gaura Saevaa Tae Bhagatai Kamaaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+गुर सेवा ते भगति कमाई ॥
+तब इह मानस देही पाई ॥
+इस देही कउ सिमरहि देव ॥
+सो देही भजु हरि की सेव ॥१॥
+भजहु गोबिंद भूलि मत जाहु ॥
+मानस जनम का एही लाहु ॥१॥ रहाउ ॥
+जब लगु जरा रोगु नही आइआ ॥
+जब लगु कालि ग्रसी नही काइआ ॥
+जब लगु बिकल भई नही बानी ॥
+भजि लेहि रे मन सारिगपानी ॥२॥
+अब न भजसि भजसि कब भाई ॥
+आवै अंतु न भजिआ जाई ॥
+जो किछु करहि सोई अब सारु ॥
+फिरि पछुताहु न पावहु पारु ॥३॥
+सो सेवकु जो लाइआ सेव ॥
+तिन ही पाए निरंजन देव ॥
+गुर मिलि ता के खुल्हे कपाट ॥
+बहुरि न आवै जोनी बाट ॥४॥
+इही तेरा अउसरु इह तेरी बार ॥
+घट भीतरि तू देखु बिचारि ॥
+कहत कबीरु जीति कै हारि ॥
+बहु बिधि कहिओ पुकारि पुकारि ॥५॥१॥९॥1159॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+गुर (गुरु के) सेवा (समर्पित भक्ति) ते (से/द्वारा) भगति (प्रेम-भक्ति) कमाई (शुभ कर्मों की कमाई) ॥
+तब (उस समय/तब) इह (ये) मानस (मानस का आध्यात्मिक भाव) देही (काया/शरीर) पाई (प्राप्त कर लिया) ॥
+इस (इस संसारी) देही (काया/शरीर) कउ (को) सिमरहि (सिमरहि का आध्यात्मिक भाव) देव (प्रभु/परमेश्वर) ॥
+सो (वह/वही) देही (काया/शरीर) भजु (भजु का आध्यात्मिक भाव) हरि (दुख-हर्ता परमात्मा) की (की/संबंध-सूचक) सेव (सेवा/समर्पण) ॥ ॥
+भजहु (भजहु का आध्यात्मिक भाव) गोबिंद (गोविंद/परमात्मा) भूलि (भूलकर/विस्मृत होकर) मत (और मति का रहस्य) जाहु (जाहु का आध्यात्मिक भाव) ॥
+मानस (मानस का आध्यात्मिक भाव) जनम (जन्म/जीवन) का (का/संबंध-सूचक) एही (एही (सधुक्कड़ी भाव)) लाहु (लाहु का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) जरा (जरा का आध्यात्मिक भाव) रोगु (भव-रोग/व्याधि) नही (नहीं) आइआ (आया) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) कालि (काल/मृत्यु) ग्रसी (ग्रसी का आध्यात्मिक भाव) नही (नहीं) काइआ (काइआ का आध्यात्मिक भाव) ॥
+जब (जिस समय/जब) लगु (लगो/समीप आओ) बिकल (बिकल (सधुक्कड़ी भाव)) भई (हो गई) नही (नहीं) बानी (वाणी/संत-वचन) ॥
+भजि (भजि का आध्यात्मिक भाव) लेहि (लेते हैं) रे (रा (रज़ा व समर्पण)) मन (मन/चित्त) सारिगपानी (सारिगपानी का आध्यात्मिक भाव) ॥ ॥
+अब (अब/इस समय) न (नहीं) भजसि (भजसि का आध्यात्मिक भाव) भजसि (भजसि का आध्यात्मिक भाव) कब (कब (सधुक्कड़ी भाव)) भाई (हे भाई!/हे मित्र!) ॥
+आवै (आता है) अंतु (रहस्य) न (नहीं) भजिआ (भजिआ का आध्यात्मिक भाव) जाई (जाओ) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+gur (of the Master) seva (devoted service) te (from/by) bhagati (loving devotion) kamaaee (spiritual earnings) .
+tab (at that time/then) ih (these) maanas (maanas) dehee (mortal body/frame) paaee (have found/attained) .
+is (this) dehee (mortal body/frame) kau (unto) simarahi (simarahi) dev (Divine Lord) .
+so (that/the same) dehee (mortal body/frame) bhaju (bhaju) hari (The Lord who dispels grief (Hari)) kee (of) sev (humble service/devotion) . .
+bhajahu (bhajahu) gobind (Lord Govind) bhooli (having forgotten) mat (wisdom) jaahu (jaahu) .
+maanas (maanas) janam (birth/life) ka (of) ehee (ehee (spiritual sense)) laahu (laahu) . . rahaau (pause for reflection, foundational theme) .
+jab (at the time when) lagu (cling to/attach) jara (jara) rogu (spiritual ailment/disease) nahee (not) aaia (came/arrived) .
+jab (at the time when) lagu (cling to/attach) kaali (death/time) grasee (grasee) nahee (not) kaaia (kaaia) .
+jab (at the time when) lagu (cling to/attach) bikal (bikal (spiritual sense)) bhaee (became) nahee (not) baanee (divine speech/utterance) .
+bhaji (bhaji) lehi (they take) re (Re (Divine Will)) man (mind/inner consciousness) saarigapaanee (saarigapaanee) . .
+ab (now) n (not) bhajasi (bhajasi) bhajasi (bhajasi) kab (kab (spiritual sense)) bhaaee (O brother!) .
+aavai (comes/arrives) antu (inner core) n (not) bhajia (bhajia) jaaee (slip away) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! गुर सेवा ते भगति कमाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! gurasevaatebhagatikamaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 140: गुर सेवा ते भगति कमाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-141"></a>
+## शब्द 141: सिव की पुरी बसै बुधि सारु
+**English Title:** Shabad 141: Saiva Kaee Pauraee Basaai Baudhai Saarau
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सिव की पुरी बसै बुधि सारु ॥
+तह तुम्ह मिलि कै करहु बिचारु ॥
+ईत ऊत की सोझी परै ॥
+कउनु करम मेरा करि करि मरै ॥१॥
+निज पद ऊपरि लागो धिआनु ॥
+राजा राम नामु मोरा ब्रहम गिआनु ॥१॥ रहाउ ॥
+मूल दुआरै बंधिआ बंधु ॥
+रवि ऊपरि गहि राखिआ चंदु ॥
+पछम दुआरै सूरजु तपै ॥
+मेर डंड सिर ऊपरि बसै ॥२॥
+पसचम दुआरे की सिल ओड़ ॥
+तिह सिल ऊपरि खिड़की अउर ॥
+खिड़की ऊपरि दसवा दुआरु ॥
+कहि कबीर ता का अंतु न पारु ॥३॥२॥१०॥1159॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सिव (सिव (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) पुरी (नगर) बसै (निवास करे/बसे) बुधि (बुद्धि/मति) सारु (तत्व, अमृत) ॥
+तह (वहाँ) तुम्ह (तुम/आप) मिलि (मिलो संबंधी) कै (के/का) करहु (करके (से/द्वारा)) बिचारु (विचार/मंथन) ॥
+ईत (ईत का आध्यात्मिक भाव) ऊत (ऊत का आध्यात्मिक भाव) की (की/संबंध-सूचक) सोझी (सोझी का आध्यात्मिक भाव) परै (किन्तु/परन्तु (करता है/ने)) ॥
+कउनु (कौन) करम (कर्मकांड) मेरा (मेरा/अधीन) करि (करके/हाथ से) करि (करके/हाथ से) मरै (मर नहीं (करता है/होता है)) ॥ ॥
+निज (अपना/स्वयं का) पद (पद/स्थान/भजन) ऊपरि (ऊपर/पर) लागो (प्रेम-संबंध/लगन) धिआनु (धिआनु का आध्यात्मिक भाव) ॥
+राजा (आदर्श शासन/राज संबंधी) राम (सर्वव्यापी परमात्मा) नामु (सत्य-नाम) मोरा (मयूर/मोर) ब्रहम (ब्रहम का आध्यात्मिक भाव) गिआनु (दिव्य ज्ञान) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+मूल (जड़) दुआरै (दुआरै का आध्यात्मिक भाव) बंधिआ (बंधिआ का आध्यात्मिक भाव) बंधु (बंधन) ॥
+रवि (सूर्य/भास्कर) ऊपरि (ऊपर/पर) गहि (ग्रहण करना, धारण करना) राखिआ (राखिआ का आध्यात्मिक भाव) चंदु (चंद्रमा) ॥
+पछम (पछम का आध्यात्मिक भाव) दुआरै (दुआरै का आध्यात्मिक भाव) सूरजु (सूरजु का आध्यात्मिक भाव) तपै (तपस्या/साधना (करता है/होता है)) ॥
+मेर (मेर (सधुक्कड़ी भाव)) डंड (डंड का आध्यात्मिक भाव) सिर (शीश) ऊपरि (ऊपर/पर) बसै (निवास करे/बसे) ॥ ॥
+पसचम (पसचम का आध्यात्मिक भाव) दुआरे (द्वार पर) की (की/संबंध-सूचक) सिल (सिल का आध्यात्मिक भाव) ओड़ (ओड़ का आध्यात्मिक भाव) ॥
+तिह (उस/उनका) सिल (सिल का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) खिड़की (खिड़की का आध्यात्मिक भाव) अउर (अन्य/दूसरा) ॥
+खिड़की (खिड़की का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) दसवा (दसवा का आध्यात्मिक भाव) दुआरु (दुआरु का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) ता (उस पर/उसका) का (का/संबंध-सूचक) अंतु (रहस्य) न (नहीं) पारु (भवसागर पार संबंधी) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+siv (siv (spiritual sense)) kee (of) puree (city) basai (may dwell/reside) budhi (intellect/wit) saaru (essence, supreme truth) .
+tah (there) tumh (You/Thou) mili (meet related) kai (of) karahu (doing (from/by)) bichaaru (contemplation/thought) .
+eet (eet) oot (oot) kee (of) sojhee (sojhee) parai (but/upon (does/by)) .
+kaunu (who) karam (rituals) mera (my/mine) kari (having done/with hands) kari (having done/with hands) marai (dies (does/becomes)) . .
+nij (one's own/inner) pad (spiritual station/hymn) oopari (upon) laago (spark of love/attachment) dhiaanu (dhiaanu) .
+raaja (realm/kingdom related) raam (The All-Pervading Lord (Ram)) naamu (True Name) mora (dancing peacock) braham (braham) giaanu (divine wisdom) . . rahaau (pause for reflection, foundational theme) .
+mool (root/origin) duaarai (duaarai) bandhia (bandhia) bandhu (fetters/bondage) .
+ravi (sun/radiance) oopari (upon) gahi (grasp, retain with reverence) raakhia (raakhia) chandu (radiant moon) .
+pachham (pachham) duaarai (duaarai) sooraju (sooraju) tapai (austerity/penance (does/becomes)) .
+mer (mer (spiritual sense)) dand (dand) sir (head) oopari (upon) basai (may dwell/reside) . .
+pasacham (pasacham) duaare (at the holy threshold) kee (of) sil (sil) od (od) .
+tih (that/their) sil (sil) oopari (upon) khidakee (khidakee) aur (other/another) .
+khidakee (khidakee) oopari (upon) dasava (dasava) duaaru (duaaru) .
+kahi (from (unto/in)) kabeer (Sant Kabir) ta (upon that/his) ka (of) antu (inner core) n (not) paaru (across shore related) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सिव की पुरी बसै बुधि सारु—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! sivakeepureebasaibudhisaaru—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 141: सिव की पुरी बसै बुधि सारु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-142"></a>
+## शब्द 142: जल महि मीन माइआ के बेधे
+**English Title:** Shabad 142: Jala Mahai Maeena Maaiaa Kae Baedhae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जल महि मीन माइआ के बेधे ॥
+दीपक पतंग माइआ के छेदे ॥
+काम माइआ कुंचर कउ बिआपै ॥
+भुइअंगम भ्रिंग माइआ महि खापे ॥१॥
+माइआ ऐसी मोहनी भाई ॥
+जेते जीअ तेते डहकाई ॥१॥ रहाउ ॥
+पंखी म्रिग माइआ महि राते ॥
+साकर माखी अधिक संतापे ॥
+तुरे उसट माइआ महि भेला ॥
+सिध चउरासीह माइआ महि खेला ॥२॥
+छिअ जती माइआ के बंदा ॥
+नवै नाथ सूरज अरु चंदा ॥
+तपे रखीसर माइआ महि सूता ॥
+माइआ महि कालु अरु पंच दूता ॥३॥
+सुआन सिआल माइआ महि राता ॥
+बंतर चीते अरु सिंघाता ॥
+मांजार गाडर अरु लूबरा ॥
+बिरख मूल माइआ महि परा ॥४॥
+माइआ अंतरि भीने देव ॥
+सागर इंद्रा अरु धरतेव ॥
+कहि कबीर जिसु उदरु तिसु माइआ ॥
+तब छूटे जब साधू पाइआ ॥५॥५॥१३॥1160॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जल (पानी) महि (में/भीतर) मीन (मछली (रस-लोभी)) माइआ (माया/भ्रम) के (के/संबंध-सूचक) बेधे (बेधे का आध्यात्मिक भाव) ॥
+दीपक (प्रकाशमान दीप) पतंग (पतंगा (रूप-लोभी)) माइआ (माया/भ्रम) के (के/संबंध-सूचक) छेदे (छेदे का आध्यात्मिक भाव) ॥
+काम (कामना/वासना) माइआ (माया/भ्रम) कुंचर (हाथी (स्पर्श-लोभी)) कउ (को) बिआपै (बिआपै का आध्यात्मिक भाव) ॥
+भुइअंगम (भुइअंगम का आध्यात्मिक भाव) भ्रिंग (भृंग कीट/भ्रमर) माइआ (माया/भ्रम) महि (में/भीतर) खापे (खापे का आध्यात्मिक भाव) ॥ ॥
+माइआ (माया/भ्रम) ऐसी (इस विरह रूपी) मोहनी (मोहनी का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+जेते (जितने) जीअ (जीवात्मा/प्राण) तेते (तेते का आध्यात्मिक भाव) डहकाई (डहकाई का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पंखी (पक्षी/जीवात्मा) म्रिग (मृग/हिरन) माइआ (माया/भ्रम) महि (में/भीतर) राते (राते का आध्यात्मिक भाव) ॥
+साकर (साकर का आध्यात्मिक भाव) माखी (माखी (सधुक्कड़ी भाव)) अधिक (अधिक (सधुक्कड़ी भाव)) संतापे (संतापे का आध्यात्मिक भाव) ॥
+तुरे (तुरे का आध्यात्मिक भाव) उसट (उसट का आध्यात्मिक भाव) माइआ (माया/भ्रम) महि (में/भीतर) भेला (भेला का आध्यात्मिक भाव) ॥
+सिध (सिध का आध्यात्मिक भाव) चउरासीह (चउरासीह का आध्यात्मिक भाव) माइआ (माया/भ्रम) महि (में/भीतर) खेला (संसार की लीला/खेल) ॥ ॥
+छिअ (छिअ का आध्यात्मिक भाव) जती (जती (सधुक्कड़ी भाव)) माइआ (माया/भ्रम) के (के/संबंध-सूचक) बंदा (बंदा (सधुक्कड़ी भाव)) ॥
+नवै (नया) नाथ (स्वामी/रक्षक प्रभु) सूरज (सूरज का आध्यात्मिक भाव) अरु (और) चंदा (चंद्रमा) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+jal (water) mahi (within/in) meen (fish (craving taste)) maaia (cosmic illusion) ke (of) bedhe (bedhe) .
+deepak (lamp/flame) patang (moth (craving light)) maaia (cosmic illusion) ke (of) chhede (chhede) .
+kaam (lust/desire) maaia (cosmic illusion) kunchar (elephant (craving touch)) kau (unto) biaapai (biaapai) .
+bhuiangam (bhuiangam) bhring (black bee/wasp) maaia (cosmic illusion) mahi (within/in) khaape (khaape) . .
+maaia (cosmic illusion) aisee (such) mohanee (mohanee) bhaaee (O brother!) .
+jete (as many as) jeea (living soul/breath) tete (tete) dahakaaee (dahakaaee) . . rahaau (pause for reflection, foundational theme) .
+pankhee (bird of the soul) mrig (deer) maaia (cosmic illusion) mahi (within/in) raate (raate) .
+saakar (saakar) maakhee (maakhee (spiritual sense)) adhik (adhik (spiritual sense)) santaape (santaape) .
+ture (ture) usat (usat) maaia (cosmic illusion) mahi (within/in) bhela (bhela) .
+sidh (sidh) chauraaseeh (chauraaseeh) maaia (cosmic illusion) mahi (within/in) khela (divine play/cosmic game) . .
+chhia (chhia) jatee (jatee (spiritual sense)) maaia (cosmic illusion) ke (of) banda (banda (spiritual sense)) .
+navai (new) naath (Lord/Protector) sooraj (sooraj) aru (and) chanda (radiant moon) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जल महि मीन माइआ के बेधे—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! jalamahimeenamaaiaakebedhe—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 142: जल महि मीन माइआ के बेधे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-143"></a>
+## शब्द 143: सतरि सैइ सलार है जा के
+**English Title:** Shabad 143: Satarai Saaii Salaara Haai Jaa Kae
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सतरि सैइ सलार है जा के ॥
+सवा लाखु पैकाबर ता के ॥
+सेख जु कहीअहि कोटि अठासी ॥
+छपन कोटि जा के खेल खासी ॥१॥
+मो गरीब की को गुजरावै ॥
+मजलसि दूरि महलु को पावै ॥१॥ रहाउ ॥
+तेतीस करोड़ी है खेल खाना ॥
+चउरासी लख फिरै दिवानां ॥
+बाबा आदम कउ किछु नदरि दिखाई ॥
+उनि भी भिसति घनेरी पाई ॥२॥
+दिल खलहलु जा कै जरद रू बानी ॥
+छोडि कतेब करै सैतानी ॥
+दुनीआ दोसु रोसु है लोई ॥
+अपना कीआ पावै सोई ॥३॥
+तुम दाते हम सदा भिखारी ॥
+देउ जबाबु होइ बजगारी ॥
+दासु कबीरु तेरी पनह समानां ॥
+भिसतु नजीकि राखु रहमाना ॥४॥७॥१५॥1161॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सतरि (सतरि का आध्यात्मिक भाव) सैइ (सैइ का आध्यात्मिक भाव) सलार (सलार का आध्यात्मिक भाव) है (है कि) जा (जिसका/जब) के (के/संबंध-सूचक) ॥
+सवा (सवा का आध्यात्मिक भाव) लाखु (लाखों प्रकार के) पैकाबर (पैकाबर का आध्यात्मिक भाव) ता (उस पर/उसका) के (के/संबंध-सूचक) ॥
+सेख (शेख/सूफी बुजुर्ग) जु (जो/जो कोई) कहीअहि (कहीअहि का आध्यात्मिक भाव) कोटि (करोड़ों/कोटि) अठासी (अठासी का आध्यात्मिक भाव) ॥
+छपन (छपन का आध्यात्मिक भाव) कोटि (करोड़ों/कोटि) जा (जिसका/जब) के (के/संबंध-सूचक) खेल (संसार की लीला/खेल) खासी (खासी का आध्यात्मिक भाव) ॥ ॥
+मो (मुझे/मुझको) गरीब (दीन-हीन/निर्धन) की (की/संबंध-सूचक) को (को/की ओर) गुजरावै (गुजरावै का आध्यात्मिक भाव) ॥
+मजलसि (मजलसि का आध्यात्मिक भाव) दूरि (दूर/फासले पर) महलु (परम पद/ईश्वरीय महल) को (को/की ओर) पावै (प्राप्त करता है) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+तेतीस (तेतीस का आध्यात्मिक भाव) करोड़ी (करोड़ी का आध्यात्मिक भाव) है (है कि) खेल (संसार की लीला/खेल) खाना (खाना का आध्यात्मिक भाव) ॥
+चउरासी (चउरासी का आध्यात्मिक भाव) लख (लख का आध्यात्मिक भाव) फिरै (फिरै का आध्यात्मिक भाव) दिवानां (दिवानां का आध्यात्मिक भाव) ॥
+बाबा (बाबा का आध्यात्मिक भाव) आदम (आदम का आध्यात्मिक भाव) कउ (को) किछु (कुछ भी/तनिक) नदरि (नदरि का आध्यात्मिक भाव) दिखाई (दर्शन है) ॥
+उनि (उन (सधुक्कड़ी भाव)) भी (इसके अतिरिक्त/भी) भिसति (भिसति का आध्यात्मिक भाव) घनेरी (घनेरी (सधुक्कड़ी भाव)) पाई (प्राप्त कर लिया) ॥ ॥
+दिल (हृदय) खलहलु (खलहलु का आध्यात्मिक भाव) जा (जिसका/जब) कै (के/का) जरद (जरद का आध्यात्मिक भाव) रू (रू का आध्यात्मिक भाव) बानी (वाणी/संत-वचन) ॥
+छोडि (छोडि का आध्यात्मिक भाव) कतेब (पवित्र आसमानी धर्मग्रंथ) करै (करके (करता है/ने)) सैतानी (सैतानी का आध्यात्मिक भाव) ॥
+दुनीआ (नश्वर संसार) दोसु (दोस (सधुक्कड़ी भाव)) रोसु (रोसु का आध्यात्मिक भाव) है (है कि) लोई (काली कमली, फकीरों का ऊनी कम्बल) ॥
+अपना (अपना/स्वयं का) कीआ (किया) पावै (प्राप्त करता है) सोई (वही) ॥ ॥
+तुम (आप/तुम) दाते (हे दाता प्रभु!) हम (हम सब प्राणी) सदा (सर्वदा/सदा) भिखारी (याचक/भिखारी) ॥
+देउ (देउ का आध्यात्मिक भाव) जबाबु (उत्तर/प्रतिउत्तर) होइ (होकर) बजगारी (बजगारी का आध्यात्मिक भाव) ॥
+दासु (अनन्य सेवक/भक्त) कबीरु (संत कबीर जी) तेरी (तेरी/आपकी) पनह (पनह (सधुक्कड़ी भाव)) समानां (समानां का आध्यात्मिक भाव) ॥
+भिसतु (भिसतु का आध्यात्मिक भाव) नजीकि (नजीकि का आध्यात्मिक भाव) राखु (रक्षा करो/शरण दो) रहमाना (दयालु रहमान (परमेश्वर)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+satari (satari) saii (saii) salaar (salaar) hai (is) ja (whose/when) ke (of) .
+sava (sava) laakhu (hundreds of thousands) paikaabar (paikaabar) ta (upon that/his) ke (of) .
+sekh (Sheikh/Sufi elder) ju (who/whoever) kaheeahi (kaheeahi) koti (crores/millions) athaasee (athaasee) .
+chhapan (chhapan) koti (crores/millions) ja (whose/when) ke (of) khel (divine play/cosmic game) khaasee (khaasee) . .
+mo (unto me) gareeb (lowly/destitute) kee (of) ko (unto/toward) gujaraavai (gujaraavai) .
+majalasi (majalasi) doori (far/distant) mahalu (Lord's Divine Palace) ko (unto/toward) paavai (attains/realizes) . . rahaau (pause for reflection, foundational theme) .
+tetees (tetees) karodee (karodee) hai (is) khel (divine play/cosmic game) khaana (khaana) .
+chauraasee (chauraasee) lakh (lakh) phirai (phirai) divaanaan (divaanaan) .
+baaba (baaba) aadam (aadam) kau (unto) kichhu (anything/a little) nadari (nadari) dikhaaee (manifests/visible) .
+uni (un (spiritual sense)) bhee (also/even) bhisati (bhisati) ghaneree (ghaneree (spiritual sense)) paaee (have found/attained) . .
+dil (heart) khalahalu (khalahalu) ja (whose/when) kai (of) jarad (jarad) roo (roo) baanee (divine speech/utterance) .
+chhodi (chhodi) kateb (holy scriptures) karai (doing (does/by)) saitaanee (saitaanee) .
+duneea (mortal world) dosu (dos (spiritual sense)) rosu (rosu) hai (is) loee (coarse dark wool blanket of dervishes) .
+apana (one's own) keea (did/created) paavai (attains/realizes) soee (the very same) . .
+tum (You/Thou) daate (O Supreme Giver!) ham (we mortal beings) sada (always/eternally) bhikhaaree (beggar/mendicant) .
+deu (deu) jabaabu (answer/response) hoi (having become) bajagaaree (bajagaaree) .
+daasu (devoted servant) kabeeru (Sant Kabir) teree (Thine) panah (panah (spiritual sense)) samaanaan (samaanaan) .
+bhisatu (bhisatu) najeeki (najeeki) raakhu (protect/shelter) rahamaana (The Merciful Lord (Rahman)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सतरि सैइ सलार है जा के—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! satarisaiisalaarahaijaake—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 143: सतरि सैइ सलार है जा के'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-144"></a>
+## शब्द 144: किउ लीजै गढु बंका भाई
+**English Title:** Shabad 144: Kaiu Laeejaai Gadhau Bankaa Bhaaee
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+किउ लीजै गढु बंका भाई ॥
+दोवर कोट अरु तेवर खाई ॥१॥ रहाउ ॥
+पांच पचीस मोह मद मतसर आडी परबल माइआ ॥
+जन गरीब को जोरु न पहुचै कहा करउ रघुराइआ ॥१॥
+कामु किवारी दुखु सुखु दरवानी पापु पुंनु दरवाजा ॥
+क्रोधु प्रधानु महा बड दुंदर तह मनु मावासी राजा ॥२॥
+स्वाद सनाह टोपु ममता को कुबुधि कमान चढाई ॥
+तिसना तीर रहे घट भीतरि इउ गढु लीओ न जाई ॥३॥
+प्रेम पलीता सुरति हवाई गोला गिआनु चलाइआ ॥
+ब्रहम अगनि सहजे परजाली एकहि चोट सिझाइआ ॥४॥
+सतु संतोखु लै लरने लागा तोरे दुइ दरवाजा ॥
+साधसंगति अरु गुर की क्रिपा ते पकरिओ गढ को राजा ॥५॥
+भगवत भीरि सकति सिमरन की कटी काल भै फासी ॥
+दासु कमीरु चड़्हिओ गड़्ह ऊपरि राजु लीओ अबिनासी ॥६॥९॥१७॥1161॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+किउ (अथवा) लीजै (लीजिए/ग्रहण करें) गढु (गढु का आध्यात्मिक भाव) बंका (बंका का आध्यात्मिक भाव) भाई (हे भाई!/हे मित्र!) ॥
+दोवर (दोवर का आध्यात्मिक भाव) कोट (कोट का आध्यात्मिक भाव) अरु (और) तेवर (तेवर का आध्यात्मिक भाव) खाई (खाई/खड्डा) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पांच (पांच का आध्यात्मिक भाव) पचीस (पचीस का आध्यात्मिक भाव) मोह (सांसारिक आसक्ति) मद (मदिरा) मतसर (ईर्ष्या/मत्सर) आडी (आडी का आध्यात्मिक भाव) परबल (परबल का आध्यात्मिक भाव) माइआ (माया/भ्रम) ॥
+जन (भक्त/सेवक) गरीब (दीन-हीन/निर्धन) को (को/की ओर) जोरु (जोरु का आध्यात्मिक भाव) न (नहीं) पहुचै (पहुचै का आध्यात्मिक भाव) कहा (क्या/कहाँ) करउ (करके) रघुराइआ (रघुराइआ का आध्यात्मिक भाव) ॥ ॥
+कामु (काम-वासना/कर्म संबंधी) किवारी (किवारी का आध्यात्मिक भाव) दुखु (दुख/संताप) सुखु (सच्चा सुख) दरवानी (दरवानी का आध्यात्मिक भाव) पापु (पाप/अधर्माचरण) पुंनु (पुण्य कर्म) दरवाजा (दरवाजा का आध्यात्मिक भाव) ॥
+क्रोधु (गुस्सा, कोप) प्रधानु (सर्वश्रेष्ठ/प्रधान) महा (अत्यंत/महान) बड (महान/विशाल) दुंदर (दुंदर का आध्यात्मिक भाव) तह (वहाँ) मनु (मन/अंतःकरण) मावासी (मावासी का आध्यात्मिक भाव) राजा (आदर्श शासन/राज संबंधी) ॥ ॥
+स्वाद (स्वाद का आध्यात्मिक भाव) सनाह (सनाह का आध्यात्मिक भाव) टोपु (टोपु का आध्यात्मिक भाव) ममता (ममता का आध्यात्मिक भाव) को (को/की ओर) कुबुधि (कुबुधि का आध्यात्मिक भाव) कमान (कमान का आध्यात्मिक भाव) चढाई (चढाई का आध्यात्मिक भाव) ॥
+तिसना (तिसना का आध्यात्मिक भाव) तीर (बाण) रहे (रहे हैं पर) घट (हृदय/शरीर) भीतरि (भीतर/हृदय में) इउ (इस प्रकार) गढु (गढु का आध्यात्मिक भाव) लीओ (लीओ का आध्यात्मिक भाव) न (नहीं) जाई (जाओ) ॥ ॥
+प्रेम (परम प्रेम/इश्क) पलीता (पलीता का आध्यात्मिक भाव) सुरति (चेतना/होश (में/करके)) हवाई (हवाई का आध्यात्मिक भाव) गोला (गोला का आध्यात्मिक भाव) गिआनु (दिव्य ज्ञान) चलाइआ (चलाइआ का आध्यात्मिक भाव) ॥
+ब्रहम (ब्रहम का आध्यात्मिक भाव) अगनि (अगनि का आध्यात्मिक भाव) सहजे (सहज समाधि संबंधी) परजाली (परजाली का आध्यात्मिक भाव) एकहि (एकहि का आध्यात्मिक भाव) चोट (प्रेम की मार/आघात) सिझाइआ (सिझाइआ का आध्यात्मिक भाव) ॥ ॥
+सतु (सत्य धर्म) संतोखु (संतोखु का आध्यात्मिक भाव) लै (ले) लरने (लरने का आध्यात्मिक भाव) लागा (लगा/लीन हुआ) तोरे (तेरे) दुइ (दो (द्वैत)) दरवाजा (दरवाजा का आध्यात्मिक भाव) ॥
+साधसंगति (सत्संगति संबंधी) अरु (और) गुर (गुरु के) की (की/संबंध-सूचक) क्रिपा (कृपा/अनुग्रह) ते (से/द्वारा) पकरिओ (पकरिओ का आध्यात्मिक भाव) गढ (गढ का आध्यात्मिक भाव) को (को/की ओर) राजा (आदर्श शासन/राज संबंधी) ॥ ॥
+भगवत (भगवत का आध्यात्मिक भाव) भीरि (भीरि का आध्यात्मिक भाव) सकति (सकति (सधुक्कड़ी भाव)) सिमरन (सिमरन का आध्यात्मिक भाव) की (की/संबंध-सूचक) कटी (कटी का आध्यात्मिक भाव) काल (काल/मृत्यु) भै (भय/डर) फासी (सांसारिक फांसी/बंधन) ॥
+दासु (अनन्य सेवक/भक्त) कमीरु (कमीरु का आध्यात्मिक भाव) चड़्हिओ (चड़्हिओ का आध्यात्मिक भाव) गड़्ह (गड़्ह का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) राजु (आदर्श शासन/राज) लीओ (लीओ का आध्यात्मिक भाव) अबिनासी (अबिनासी (सधुक्कड़ी भाव)) ॥ ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+kiu (or is it) leejai (please receive/take) gadhu (gadhu) banka (banka) bhaaee (O brother!) .
+dovar (dovar) kot (kot) aru (and) tevar (tevar) khaaee (trench/consumed) . . rahaau (pause for reflection, foundational theme) .
+paanch (paanch) pachees (pachees) moh (worldly attachment) mad (wine) matasar (envy/jealousy) aadee (aadee) parabal (parabal) maaia (cosmic illusion) .
+jan (devotee/humble servant) gareeb (lowly/destitute) ko (unto/toward) joru (joru) n (not) pahuchai (pahuchai) kaha (what/where) karau (doing) raghuraaia (raghuraaia) . .
+kaamu (carnal desire/work related) kivaaree (kivaaree) dukhu (sorrow/misery) sukhu (true bliss) daravaanee (daravaanee) paapu (sin/transgression) punnu (virtuous deeds) daravaaja (daravaaja) .
+krodhu (anger, wrath) pradhaanu (foremost/supreme) maha (great/supreme) bad (great/large) dundar (dundar) tah (there) manu (mind/inner spirit) maavaasee (maavaasee) raaja (realm/kingdom related) . .
+svaad (svaad) sanaah (sanaah) topu (topu) mamata (mamata) ko (unto/toward) kubudhi (kubudhi) kamaan (kamaan) chadhaaee (chadhaaee) .
+tisana (tisana) teer (arrow) rahe (remain) ghat (body/inner temple) bheetari (within the heart) iu (in this manner) gadhu (gadhu) leeo (leeo) n (not) jaaee (slip away) . .
+prem (Divine Love) paleeta (paleeta) surati (consciousness/mind (in/having done)) havaaee (havaaee) gola (gola) giaanu (divine wisdom) chalaaia (chalaaia) .
+braham (braham) agani (agani) sahaje (innate poise related) parajaalee (parajaalee) ekahi (ekahi) chot (wound/strike of love) sijhaaia (sijhaaia) . .
+satu (Truth/virtue) santokhu (santokhu) lai (bringing) larane (larane) laaga (attached/engaged) tore (thy/thine) dui (two/duality) daravaaja (daravaaja) .
+saadhasangati (holy communion related) aru (and) gur (of the Master) kee (of) kripa (grace/mercy) te (from/by) pakario (pakario) gadh (gadh) ko (unto/toward) raaja (realm/kingdom related) . .
+bhagavat (bhagavat) bheeri (bheeri) sakati (sakati (spiritual sense)) simaran (simaran) kee (of) katee (katee) kaal (death/time) bhai (fear/dread) phaasee (noose/shackle) .
+daasu (devoted servant) kameeru (kameeru) chadhio (chadhio) gadh (gadh) oopari (upon) raaju (realm/kingdom) leeo (leeo) abinaasee (abinaasee (spiritual sense)) . . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! किउ लीजै गढु बंका भाई—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kiuleejaigadhubankaabhaaee—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 144: किउ लीजै गढु बंका भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-145"></a>
+## शब्द 145: अगम द्रुगम गड़ि रचिओ बास
+**English Title:** Shabad 145: Agama Daraugama Gaड़i Rachaio Baasa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+अगम द्रुगम गड़ि रचिओ बास ॥
+जा महि जोति करे परगास ॥
+बिजुली चमकै होइ अनंदु ॥
+जिह पउड़्हे प्रभ बाल गोबिंद ॥१॥
+इहु जीउ राम नाम लिव लागै ॥
+जरा मरनु छूटै भ्रमु भागै ॥१॥ रहाउ ॥
+अबरन बरन सिउ मन ही प्रीति ॥
+हउमै गावनि गावहि गीत ॥
+अनहद सबद होत झुनकार ॥
+जिह पउड़्हे प्रभ स्री गोपाल ॥२॥
+खंडल मंडल मंडल मंडा ॥
+त्रिअ असथान तीनि त्रिअ खंडा ॥
+अगम अगोचरु रहिआ अभ अंत ॥
+पारु न पावै को धरनीधर मंत ॥३॥
+कदली पुहप धूप परगास ॥
+रज पंकज महि लीओ निवास ॥
+दुआदस दल अभ अंतरि मंत ॥
+जह पउड़े स्री कमला कंत ॥४॥
+अरध उरध मुखि लागो कासु ॥
+सुंन मंडल महि करि परगासु ॥
+ऊहां सूरज नाही चंद ॥
+आदि निरंजनु करै अनंद ॥५॥
+सो ब्रहमंडि पिंडि सो जानु ॥
+मान सरोवरि करि इसनानु ॥
+सोहं सो जा कउ है जाप ॥
+जा कउ लिपत न होइ पुंन अरु पाप ॥६॥
+अबरन बरन घाम नही छाम ॥
+अवर न पाईऐ गुर की साम ॥
+टारी न टरै आवै न जाइ ॥
+सुंन सहज महि रहिओ समाइ ॥७॥
+मन मधे जानै जे कोइ ॥
+जो बोलै सो आपै होइ ॥
+जोति मंत्रि मनि असथिरु करै ॥
+कहि कबीर सो प्रानी तरै ॥८॥१॥1162॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+अगम (अगम्य/पहुंच से परे) द्रुगम (द्रुगम का आध्यात्मिक भाव) गड़ि (गड़ि का आध्यात्मिक भाव) रचिओ (रचिओ का आध्यात्मिक भाव) बास (सुगंध) ॥
+जा (जिसका/जब) महि (में/भीतर) जोति (दिव्य ज्योति/प्रकाश) करे (करता है) परगास (दिव्य प्रकाश/उजाला) ॥
+बिजुली (बिजुली का आध्यात्मिक भाव) चमकै (चमकै का आध्यात्मिक भाव) होइ (होकर) अनंदु (अनंदु का आध्यात्मिक भाव) ॥
+जिह (जिस) पउड़्हे (पउड़्हे का आध्यात्मिक भाव) प्रभ (परमेश्वर/प्रभु) बाल (जलाकर/प्रज्वलित कर) गोबिंद (गोविंद/परमात्मा) ॥ ॥
+इहु (यह) जीउ (मन/जी) राम (सर्वव्यापी परमात्मा) नाम (परम पावन नाम) लिव (एकतार ध्यान/सुरति) लागै (प्रेम-संबंध/लगन (करता है/ने)) ॥
+जरा (जरा का आध्यात्मिक भाव) मरनु (मृत्यु/मरण) छूटै (छूटता है/मुक्त होता है) भ्रमु (भ्रम/संशय) भागै (किस्मत) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+अबरन (बादल/आकाश (लोग/समूह)) बरन (वर्ण/जाति) सिउ (से/साथ) मन (मन/चित्त) ही (केवल/मात्र) प्रीति (प्रेम संबंधी) ॥
+हउमै (हउमै का आध्यात्मिक भाव) गावनि (गावन (सधुक्कड़ी भाव)) गावहि (गावहि का आध्यात्मिक भाव) गीत (गीत का आध्यात्मिक भाव) ॥
+अनहद (अनाहत, अखंड ईश्वरीय नाद) सबद (ईश्वरीय शब्द, अनाहत ध्वनि) होत (दुखों से) झुनकार (झुनकार का आध्यात्मिक भाव) ॥
+जिह (जिस) पउड़्हे (पउड़्हे का आध्यात्मिक भाव) प्रभ (परमेश्वर/प्रभु) स्री (स्री का आध्यात्मिक भाव) गोपाल (गोपाल (सधुक्कड़ी भाव)) ॥ ॥
+खंडल (खंडल का आध्यात्मिक भाव) मंडल (मंडल (सधुक्कड़ी भाव)) मंडल (मंडल (सधुक्कड़ी भाव)) मंडा (मंडा का आध्यात्मिक भाव) ॥
+त्रिअ (त्रिअ का आध्यात्मिक भाव) असथान (असथान का आध्यात्मिक भाव) तीनि (तीन (गुण/लोक)) त्रिअ (त्रिअ का आध्यात्मिक भाव) खंडा (शर्करा/टुकड़ा) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+agam (unfathomable/inaccessible) drugam (drugam) gadi (gadi) rachio (rachio) baas (fragrance) .
+ja (whose/when) mahi (within/in) joti (divine radiance/light) kare (makes) paragaas (divine illumination) .
+bijulee (bijulee) chamakai (chamakai) hoi (having become) anandu (anandu) .
+jih (which) paudhe (paudhe) prabh (Supreme Lord) baal (igniting/burning) gobind (Lord Govind) . .
+ihu (this) jeeu (heart/mind) raam (The All-Pervading Lord (Ram)) naam (Divine Name) liv (unbroken divine absorption) laagai (spark of love/attachment (does/by)) .
+jara (jara) maranu (death/mortality) chhootai (is liberated/released) bhramu (illusion/doubt) bhaagai (fortune/destiny) . . rahaau (pause for reflection, foundational theme) .
+abaran (cloud/sky (folk/plural)) baran (caste/complexion) siu (with/from) man (mind/inner consciousness) hee (alone/only) preeti (love related) .
+haumai (haumai) gaavani (gaavan (spiritual sense)) gaavahi (gaavahi) geet (geet) .
+anahad (unstruck celestial music, unstruck divine vibration) sabad (Divine Word, sacred mystical sound) hot (griefs) jhunakaar (jhunakaar) .
+jih (which) paudhe (paudhe) prabh (Supreme Lord) sree (sree) gopaal (gopaal (spiritual sense)) . .
+khandal (khandal) mandal (mandal (spiritual sense)) mandal (mandal (spiritual sense)) manda (manda) .
+tria (tria) asathaan (asathaan) teeni (three) tria (tria) khanda (sugar/portion) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! अगम द्रुगम गड़ि रचिओ बास—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! agamadrugamagadirachiobaasa—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 145: अगम द्रुगम गड़ि रचिओ बास'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-146"></a>
+## शब्द 146: कोटि सूर जा कै परगास
+**English Title:** Shabad 146: Kaotai Saoora Jaa Kaai Paragaasa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+कोटि सूर जा कै परगास ॥
+कोटि महादेव अरु कबिलास ॥
+दुरगा कोटि जा कै मरदनु करै ॥
+ब्रहमा कोटि बेद उचरै ॥१॥
+जउ जाचउ तउ केवल राम ॥
+आन देव सिउ नाही काम ॥१॥ रहाउ ॥
+कोटि चंद्रमे करहि चराक ॥
+सुर तेतीसउ जेवहि पाक ॥
+नव ग्रह कोटि ठाढे दरबार ॥
+धरम कोटि जा कै प्रतिहार ॥२॥
+पवन कोटि चउबारे फिरहि ॥
+बासक कोटि सेज बिसथरहि ॥
+समुंद कोटि जा के पानीहार ॥
+रोमावलि कोटि अठारह भार ॥३॥
+कोटि कमेर भरहि भंडार ॥
+कोटिक लखिमी करै सीगार ॥
+कोटिक पाप पुंन बहु हिरहि ॥
+इंद्र कोटि जा के सेवा करहि ॥४॥
+छपन कोटि जा कै प्रतिहार ॥
+नगरी नगरी खिअत अपार ॥
+लट छूटी वरतै बिकराल ॥
+कोटि कला खेलै गोपाल ॥५॥
+कोटि जग जा कै दरबार ॥
+गंध्रब कोटि करहि जैकार ॥
+बिदिआ कोटि सभै गुन कहै ॥
+तऊ पारब्रहम का अंतु न लहै ॥६॥
+बावन कोटि जा कै रोमावली ॥
+रावन सैना जह ते छली ॥
+सहस कोटि बहु कहत पुरान ॥
+दुरजोधन का मथिआ मानु ॥७॥
+कंद्रप कोटि जा कै लवै न धरहि ॥
+अंतर अंतरि मनसा हरहि ॥
+कहि कबीर सुनि सारिगपान ॥
+देहि अभै पदु मांगउ दान ॥८॥२॥१८॥२०॥1162॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+कोटि (करोड़ों/कोटि) सूर (सूअर/विषय-विकार) जा (जिसका/जब) कै (के/का) परगास (दिव्य प्रकाश/उजाला) ॥
+कोटि (करोड़ों/कोटि) महादेव (महादेव का आध्यात्मिक भाव) अरु (और) कबिलास (कबिलास का आध्यात्मिक भाव) ॥
+दुरगा (दुरगा का आध्यात्मिक भाव) कोटि (करोड़ों/कोटि) जा (जिसका/जब) कै (के/का) मरदनु (मरदनु का आध्यात्मिक भाव) करै (करके (करता है/ने)) ॥
+ब्रहमा (ब्रहमा का आध्यात्मिक भाव) कोटि (करोड़ों/कोटि) बेद (वेदों) उचरै (उचरै का आध्यात्मिक भाव) ॥ ॥
+जउ (यदि/जब) जाचउ (जाचउ का आध्यात्मिक भाव) तउ (तब/तो भी) केवल (एकमात्र/विशुद्ध) राम (सर्वव्यापी परमात्मा) ॥
+आन (आकर) देव (प्रभु/परमेश्वर) सिउ (से/साथ) नाही (नहीं) काम (कामना/वासना) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+कोटि (करोड़ों/कोटि) चंद्रमे (चंद्रमे का आध्यात्मिक भाव) करहि (करते हैं) चराक (चराक का आध्यात्मिक भाव) ॥
+सुर (सुर (सधुक्कड़ी भाव)) तेतीसउ (तेतीसउ का आध्यात्मिक भाव) जेवहि (जेवहि का आध्यात्मिक भाव) पाक (पाक का आध्यात्मिक भाव) ॥
+नव (नया) ग्रह (ग्रह (सधुक्कड़ी भाव)) कोटि (करोड़ों/कोटि) ठाढे (ठाढे का आध्यात्मिक भाव) दरबार (न्यायालय) ॥
+धरम (धर्म) कोटि (करोड़ों/कोटि) जा (जिसका/जब) कै (के/का) प्रतिहार (प्रतिहार का आध्यात्मिक भाव) ॥ ॥
+पवन (वायु) कोटि (करोड़ों/कोटि) चउबारे (चउबारे का आध्यात्मिक भाव) फिरहि (फिर भी (को/में)) ॥
+बासक (बासक का आध्यात्मिक भाव) कोटि (करोड़ों/कोटि) सेज (प्रेम-शय्या) बिसथरहि (बिसथरहि का आध्यात्मिक भाव) ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+koti (crores/millions) soor (wild boars/base vices) ja (whose/when) kai (of) paragaas (divine illumination) .
+koti (crores/millions) mahaadev (mahaadev) aru (and) kabilaas (kabilaas) .
+duraga (duraga) koti (crores/millions) ja (whose/when) kai (of) maradanu (maradanu) karai (doing (does/by)) .
+brahama (brahama) koti (crores/millions) bed (Vedas) ucharai (ucharai) . .
+jau (if/when) jaachau (jaachau) tau (then/still) keval (solely/pure) raam (The All-Pervading Lord (Ram)) .
+aan (coming) dev (Divine Lord) siu (with/from) naahee (not) kaam (lust/desire) . . rahaau (pause for reflection, foundational theme) .
+koti (crores/millions) chandrame (chandrame) karahi (they do) charaak (charaak) .
+sur (sur (spiritual sense)) teteesau (teteesau) jevahi (jevahi) paak (paak) .
+nav (new) grah (grah (spiritual sense)) koti (crores/millions) thaadhe (thaadhe) darabaar (court) .
+dharam (righteousness) koti (crores/millions) ja (whose/when) kai (of) pratihaar (pratihaar) . .
+pavan (wind) koti (crores/millions) chaubaare (chaubaare) phirahi (then (unto/in)) .
+baasak (baasak) koti (crores/millions) sej (bridal bed of union) bisatharahi (bisatharahi) .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! कोटि सूर जा कै परगास—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! kotisoorajaakaiparagaasa—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 146: कोटि सूर जा कै परगास'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-147"></a>
+## शब्द 147: जोइ खसमु है जाइआ
+**English Title:** Shabad 147: Jaoi Khasamau Haai Jaaiaa
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+जोइ खसमु है जाइआ ॥
+पूति बापु खेलाइआ ॥
+बिनु स्रवणा खीरु पिलाइआ ॥१॥
+देखहु लोगा कलि को भाउ ॥
+सुति मुकलाई अपनी माउ ॥१॥ रहाउ ॥
+पगा बिनु हुरीआ मारता ॥
+बदनै बिनु खिर खिर हासता ॥
+निद्रा बिनु नरु पै सोवै ॥
+बिनु बासन खीरु बिलोवै ॥२॥
+बिनु असथन गऊ लवेरी ॥
+पैडे बिनु बाट घनेरी ॥
+बिनु सतिगुर बाट न पाई ॥
+कहु कबीर समझाई ॥३॥३॥1194॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+जोइ (जोइ का आध्यात्मिक भाव) खसमु (स्वामी, पति-परमेश्वर) है (है कि) जाइआ (जाइआ का आध्यात्मिक भाव) ॥
+पूति (पुत्र/बेटा) बापु (पिता) खेलाइआ (खेलाइआ का आध्यात्मिक भाव) ॥
+बिनु (बिना/रहित) स्रवणा (स्रवणा का आध्यात्मिक भाव) खीरु (खीरु का आध्यात्मिक भाव) पिलाइआ (पिलाइआ का आध्यात्मिक भाव) ॥ ॥
+देखहु (देखहु का आध्यात्मिक भाव) लोगा (संसार के लोग) कलि (कलियुग का काल) को (को/की ओर) भाउ (भाव/मूल्य) ॥
+सुति (पुत्र/बेटा) मुकलाई (मुकलाई का आध्यात्मिक भाव) अपनी (अपनी (सधुक्कड़ी भाव)) माउ (माउ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+पगा (पैर) बिनु (बिना/रहित) हुरीआ (हुरीआ का आध्यात्मिक भाव) मारता (मारता का आध्यात्मिक भाव) ॥
+बदनै (बदनै का आध्यात्मिक भाव) बिनु (बिना/रहित) खिर (खिर का आध्यात्मिक भाव) खिर (खिर का आध्यात्मिक भाव) हासता (हासता का आध्यात्मिक भाव) ॥
+निद्रा (निद्रा (सधुक्कड़ी भाव)) बिनु (बिना/रहित) नरु (पुरुष/मनुष्य) पै (पड़) सोवै (सोवै (सधुक्कड़ी भाव)) ॥
+बिनु (बिना/रहित) बासन (बासन का आध्यात्मिक भाव) खीरु (खीरु का आध्यात्मिक भाव) बिलोवै (बिलोवै का आध्यात्मिक भाव) ॥ ॥
+बिनु (बिना/रहित) असथन (असथन का आध्यात्मिक भाव) गऊ (गाय/गौ-माता) लवेरी (लवेरी का आध्यात्मिक भाव) ॥
+पैडे (पैडे का आध्यात्मिक भाव) बिनु (बिना/रहित) बाट (बाट का आध्यात्मिक भाव) घनेरी (घनेरी (सधुक्कड़ी भाव)) ॥
+बिनु (बिना/रहित) सतिगुर (सच्चे गुरु) बाट (बाट का आध्यात्मिक भाव) न (नहीं) पाई (प्राप्त कर लिया) ॥
+कहु (बताओ) कबीर (संत कबीर जी) समझाई (समझाकर) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+joi (joi) khasamu (Master, the Divine Spouse) hai (is) jaaia (jaaia) .
+pooti (son) baapu (father) khelaaia (khelaaia) .
+binu (without/devoid of) sravana (sravana) kheeru (kheeru) pilaaia (pilaaia) . .
+dekhahu (dekhahu) loga (worldly people) kali (Kali Yuga/Iron Age) ko (unto/toward) bhaau (prices) .
+suti (son) mukalaaee (mukalaaee) apanee (apanee (spiritual sense)) maau (maau) . . rahaau (pause for reflection, foundational theme) .
+paga (foot) binu (without/devoid of) hureea (hureea) maarata (maarata) .
+badanai (badanai) binu (without/devoid of) khir (khir) khir (khir) haasata (haasata) .
+nidra (nidra (spiritual sense)) binu (without/devoid of) naru (man/mortal) pai (falling) sovai (sovai (spiritual sense)) .
+binu (without/devoid of) baasan (baasan) kheeru (kheeru) bilovai (bilovai) . .
+binu (without/devoid of) asathan (asathan) gaoo (cow) laveree (laveree) .
+paide (paide) binu (without/devoid of) baat (baat) ghaneree (ghaneree (spiritual sense)) .
+binu (without/devoid of) satigur (True Master/Guru) baat (baat) n (not) paaee (have found/attained) .
+kahu (tell) kabeer (Sant Kabir) samajhaaee (having explained) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! जोइ खसमु है जाइआ—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! joikhasamuhaijaaia—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 147: जोइ खसमु है जाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-148"></a>
+## शब्द 148: इसु तन मन मधे मदन चोर
+**English Title:** Shabad 148: Isau Tana Mana Madhae Madana Chaora
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+इसु तन मन मधे मदन चोर ॥
+जिनि गिआन रतनु हिरि लीन मोर ॥
+मै अनाथु प्रभ कहउ काहि ॥
+को को न बिगूतो मै को आहि ॥१॥
+माधउ दारुन दुखु सहिओ न जाइ ॥
+मेरो चपल बुधि सिउ कहा बसाइ ॥१॥ रहाउ ॥
+सनक सनंदन सिव सुकादि ॥
+नाभि कमल जाने ब्रहमादि ॥
+कबि जन जोगी जटाधारि ॥
+सभ आपन अउसर चले सारि ॥२॥
+तू अथाहु मोहि थाह नाहि ॥
+प्रभ दीना नाथ दुखु कहउ काहि ॥
+मोरो जनम मरन दुखु आथि धीर ॥
+सुख सागर गुन रउ कबीर ॥३॥५॥1194॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+इसु (इस संसारी) तन (शरीर के) मन (मन/चित्त) मधे (मध्य में/भीतर) मदन (मदिरा (लोग/समूह)) चोर (चोर का आध्यात्मिक भाव) ॥
+जिनि (मत/जिसने) गिआन (आत्मज्ञान/विवेक) रतनु (अमूल्य रत्न) हिरि (हिरि का आध्यात्मिक भाव) लीन (लीन (सधुक्कड़ी भाव)) मोर (मेरा/मयूर) ॥
+मै (मैं/मैंने) अनाथु (अभाव/स्वामी/रक्षक प्रभु) प्रभ (परमेश्वर/प्रभु) कहउ (कहउ का आध्यात्मिक भाव) काहि (का/संबंध-सूचक (को/में)) ॥
+को (को/की ओर) को (को/की ओर) न (नहीं) बिगूतो (बिगूतो का आध्यात्मिक भाव) मै (मैं/मैंने) को (को/की ओर) आहि (आओ (को/में)) ॥ ॥
+माधउ (माधव, परमेश्वर) दारुन (दारुन (सधुक्कड़ी भाव)) दुखु (दुख/संताप) सहिओ (सहिओ का आध्यात्मिक भाव) न (नहीं) जाइ (जिसका/जब (में/करके)) ॥
+मेरो (मेरा/मुझ दीन का) चपल (चपल (सधुक्कड़ी भाव)) बुधि (बुद्धि/मति) सिउ (से/साथ) कहा (क्या/कहाँ) बसाइ (बसाइ का आध्यात्मिक भाव) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सनक (सनक ऋषि) सनंदन (सनंदन ऋषि) सिव (सिव (सधुक्कड़ी भाव)) सुकादि (सुकादि का आध्यात्मिक भाव) ॥
+नाभि (नाभि का आध्यात्मिक भाव) कमल (पद्म/कमल पुष्प) जाने (प्राण/जीवन) ब्रहमादि (ब्रहमादि का आध्यात्मिक भाव) ॥
+कबि (कवि) जन (भक्त/सेवक) जोगी (योगी) जटाधारि (जटाधारि का आध्यात्मिक भाव) ॥
+सभ (सब) आपन (स्वयं/परमात्मा (लोग/समूह)) अउसर (अउसर का आध्यात्मिक भाव) चले (चले/प्रस्थान करे) सारि (तत्व, अमृत) ॥ ॥
+तू (तू/परमात्मा) अथाहु (अथाहु का आध्यात्मिक भाव) मोहि (मुझको/मुझे) थाह (थाह का आध्यात्मिक भाव) नाहि (नहीं) ॥
+प्रभ (परमेश्वर/प्रभु) दीना (निर्बल, असहाय, धर्म) नाथ (स्वामी/रक्षक प्रभु) दुखु (दुख/संताप) कहउ (कहउ का आध्यात्मिक भाव) काहि (का/संबंध-सूचक (को/में)) ॥
+मोरो (मेरा/मयूर) जनम (जन्म/जीवन) मरन (मृत्यु/मरण) दुखु (दुख/संताप) आथि (आथि का आध्यात्मिक भाव) धीर (धीर का आध्यात्मिक भाव) ॥
+सुख (सच्चा सुख) सागर (भवसागर/समुद्र) गुन (गुण/पुण्य) रउ (रउ का आध्यात्मिक भाव) कबीर (संत कबीर जी) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+isu (this) tan (body) man (mind/inner consciousness) madhe (in the midst/within) madan (wine (folk/plural)) chor (chor) .
+jini (do not/who) giaan (spiritual wisdom) ratanu (gem) hiri (hiri) leen (leen (spiritual sense)) mor (mine/peacock) .
+mai (I/by me) anaathu (un-Lord/Protector) prabh (Supreme Lord) kahau (kahau) kaahi (of (unto/in)) .
+ko (unto/toward) ko (unto/toward) n (not) bigooto (bigooto) mai (I/by me) ko (unto/toward) aahi (come (unto/in)) . .
+maadhau (Madhava, Divine Lord) daarun (daarun (spiritual sense)) dukhu (sorrow/misery) sahio (sahio) n (not) jaai (whose/when (in/having done)) .
+mero (my/mine) chapal (chapal (spiritual sense)) budhi (intellect/wit) siu (with/from) kaha (what/where) basaai (basaai) . . rahaau (pause for reflection, foundational theme) .
+sanak (Sanaka the sage) sanandan (Sanandana the sage) siv (siv (spiritual sense)) sukaadi (sukaadi) .
+naabhi (naabhi) kamal (lotus flower) jaane (life/soul) brahamaadi (brahamaadi) .
+kabi (poet/seer) jan (devotee/humble servant) jogee (yogi) jataadhaari (jataadhaari) .
+sabh (all) aapan (Himself/oneself (folk/plural)) ausar (ausar) chale (departs/walks) saari (essence, supreme truth) . .
+too (Thou) athaahu (athaahu) mohi (unto me) thaah (thaah) naahi (not) .
+prabh (Supreme Lord) deena (the meek, the righteous cause) naath (Lord/Protector) dukhu (sorrow/misery) kahau (kahau) kaahi (of (unto/in)) .
+moro (mine/peacock) janam (birth/life) maran (death/mortality) dukhu (sorrow/misery) aathi (aathi) dheer (dheer) .
+sukh (true bliss) saagar (ocean/sea) gun (virtues/merits) rau (rau) kabeer (Sant Kabir) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! इसु तन मन मधे मदन चोर—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! isutanamanamadhemadanachora—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 148: इसु तन मन मधे मदन चोर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-149"></a>
+## शब्द 149: नाइकु एकु बनजारे पाच
+**English Title:** Shabad 149: Naaikau Ekau Banajaarae Paacha
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+नाइकु एकु बनजारे पाच ॥
+बरध पचीसक संगु काच ॥
+नउ बहीआं दस गोनि आहि ॥
+कसनि बहतरि लागी ताहि ॥१॥
+मोहि ऐसे बनज सिउ नहीन काजु ॥
+जिह घटै मूलु नित बढै बिआजु ॥ रहाउ ॥
+सात सूत मिलि बनजु कीन ॥
+करम भावनी संग लीन ॥
+तीनि जगाती करत रारि ॥
+चलो बनजारा हाथ झारि ॥२॥
+पूंजी हिरानी बनजु टूट ॥
+दह दिस टांडो गइओ फूटि ॥
+कहि कबीर मन सरसी काज ॥
+सहज समानो त भरम भाज ॥३॥६॥1194॥
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+नाइकु (नायक/स्वामी प्रभु) एकु (एक ही अद्वैत ब्रह्म) बनजारे (बनजारे का आध्यात्मिक भाव) पाच (पाच का आध्यात्मिक भाव) ॥
+बरध (बरध का आध्यात्मिक भाव) पचीसक (पचीसक का आध्यात्मिक भाव) संगु (सत्संग/साथ) काच (काच का आध्यात्मिक भाव) ॥
+नउ (नउ का आध्यात्मिक भाव) बहीआं (बहीआं का आध्यात्मिक भाव) दस (दस इंद्रियां/संख्या दस) गोनि (गोनि का आध्यात्मिक भाव) आहि (आओ (को/में)) ॥
+कसनि (कसनि का आध्यात्मिक भाव) बहतरि (बहतरि का आध्यात्मिक भाव) लागी (प्रेम की लगन/विरहाग्नि) ताहि (उसको/उसे) ॥ ॥
+मोहि (मुझको/मुझे) ऐसे (इस प्रकार) बनज (बनज का आध्यात्मिक भाव) सिउ (से/साथ) नहीन (नहीन का आध्यात्मिक भाव) काजु (कार्य/प्रयोजन) ॥
+जिह (जिस) घटै (हृदय/अंतःकरण (करता है/ने)) मूलु (जड़) नित (नित्य/प्रतिदिन) बढै (बढै का आध्यात्मिक भाव) बिआजु (बिआजु का आध्यात्मिक भाव) ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+सात (सात का आध्यात्मिक भाव) सूत (सूत का आध्यात्मिक भाव) मिलि (मिलो संबंधी) बनजु (बनजु का आध्यात्मिक भाव) कीन (क्या (लोग/समूह)) ॥
+करम (कर्मकांड) भावनी (प्रेम-भाव (लोग/समूह)) संग (संग/साथ) लीन (लीन (सधुक्कड़ी भाव)) ॥
+तीनि (तीन (गुण/लोक)) जगाती (जगाती का आध्यात्मिक भाव) करत (करते) रारि (रारि का आध्यात्मिक भाव) ॥
+चलो (चल पड़/प्रस्थान कर) बनजारा (बनजारा (सधुक्कड़ी भाव)) हाथ (कर) झारि (झारि (सधुक्कड़ी भाव)) ॥ ॥
+पूंजी (आध्यात्मिक पूंजी/धन) हिरानी (हिरानी का आध्यात्मिक भाव) बनजु (बनजु का आध्यात्मिक भाव) टूट (टूट का आध्यात्मिक भाव) ॥
+दह (दसों दिशाएं) दिस (दिशा) टांडो (टांडो का आध्यात्मिक भाव) गइओ (गया) फूटि (फूटि का आध्यात्मिक भाव) ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) मन (मन/चित्त) सरसी (सरसी का आध्यात्मिक भाव) काज (कार्य/प्रयोजन) ॥
+सहज (स्वाभाविक शांति, परम संतुलन) समानो (समानो का आध्यात्मिक भाव) त (तो फिर/निश्चय ही) भरम (भ्रम) भाज (भाज का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+naaiku (Lord/Master) eku (The One Supreme Lord) banajaare (banajaare) paach (paach) .
+baradh (baradh) pacheesak (pacheesak) sangu (holy company/companionship) kaach (kaach) .
+nau (nau) baheeaan (baheeaan) das (ten) goni (goni) aahi (come (unto/in)) .
+kasani (kasani) bahatari (bahatari) laagee (flame of longing) taahi (unto him/that) . .
+mohi (unto me) aise (like this) banaj (banaj) siu (with/from) naheen (naheen) kaaju (work/purpose) .
+jih (which) ghatai (heart/inner being (does/by)) moolu (root/origin) nit (daily/ever) badhai (badhai) biaaju (biaaju) . rahaau (pause for reflection, foundational theme) .
+saat (saat) soot (soot) mili (meet related) banaju (banaju) keen (what (folk/plural)) .
+karam (rituals) bhaavanee (emotion (folk/plural)) sang (with/in company) leen (leen (spiritual sense)) .
+teeni (three) jagaatee (jagaatee) karat (doing) raari (raari) .
+chalo (depart/walk forth) banajaara (banajaara (spiritual sense)) haath (hand) jhaari (jhaari (spiritual sense)) . .
+poonjee (spiritual capital/wealth) hiraanee (hiraanee) banaju (banaju) toot (toot) .
+dah (ten directions) dis (direction) taando (taando) gaio (departed) phooti (phooti) .
+kahi (from (unto/in)) kabeer (Sant Kabir) man (mind/inner consciousness) sarasee (sarasee) kaaj (work/purpose) .
+sahaj (spontaneous spiritual equilibrium, effortless bliss) samaano (samaano) t (then indeed) bharam (illusion/doubt) bhaaj (bhaaj) . . . .
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! नाइकु एकु बनजारे पाच—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! naaikuekubanajaarepaacha—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 149: नाइकु एकु बनजारे पाच'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+
+<a name="shabad-150"></a>
+## शब्द 150: सुरह की जैसी तेरी चाल
+**English Title:** Shabad 150: Sauraha Kaee Jaaisaee Taeraee Chaala
+
+### 📜 मूल रचना (Original Text - Devanagari)
+```text
+सुरह की जैसी तेरी चाल ॥
+तेरी पूंछट ऊपरि झमक बाल ॥१॥
+इस घर महि है सु तू ढूंढि खाहि ॥
+अउर किस ही के तू मति ही जाहि ॥१॥ रहाउ ॥
+चाकी चाटहि चूनु खाहि ॥
+चाकी का चीथरा कहां लै जाहि ॥२॥
+छीके पर तेरी बहुतु डीठि ॥
+मतु लकरी सोटा तेरी परै पीठि ॥३॥
+कहि कबीर भोग भले कीन ॥
+मति कोऊ मारै ईंट ढेम ॥४॥१॥1196॥
+(नोट=ये सभी पद/शब्द गुरू ग्रंथ साहब में शामिल हैं)
+```
+
+### 🔍 पदच्छेद एवं त्रिभाषी शब्दार्थ (Word-by-Word Trilingual Gloss)
+#### 🇮🇳 हिंदी शब्दार्थ (Hindi Word-by-Word Meaning)
+```text
+सुरह (सुर (सधुक्कड़ी भाव)) की (की/संबंध-सूचक) जैसी (जिस प्रकार की) तेरी (तेरी/आपकी) चाल (चाल (सधुक्कड़ी भाव)) ॥
+तेरी (तेरी/आपकी) पूंछट (पूंछट का आध्यात्मिक भाव) ऊपरि (ऊपर/पर) झमक (झमक का आध्यात्मिक भाव) बाल (जलाकर/प्रज्वलित कर) ॥ ॥
+इस (इस संसारी) घर (आशियाना) महि (में/भीतर) है (है कि) सु (वह) तू (तू/परमात्मा) ढूंढि (ढूंढि का आध्यात्मिक भाव) खाहि (खाहि का आध्यात्मिक भाव) ॥
+अउर (अन्य/दूसरा) किस (किस जन को/किसको) ही (केवल/मात्र) के (के/संबंध-सूचक) तू (तू/परमात्मा) मति (बुद्धि/समझ) ही (केवल/मात्र) जाहि (जिसका/जब (को/में)) ॥ ॥ रहाउ (विश्राम, मुख्य भाव पर ध्यान) ॥
+चाकी (चाकी का आध्यात्मिक भाव) चाटहि (चाटहि का आध्यात्मिक भाव) चूनु (चूनु का आध्यात्मिक भाव) खाहि (खाहि का आध्यात्मिक भाव) ॥
+चाकी (चाकी का आध्यात्मिक भाव) का (का/संबंध-सूचक) चीथरा (चीथरा का आध्यात्मिक भाव) कहां (कहकर) लै (ले) जाहि (जिसका/जब (को/में)) ॥ ॥
+छीके (छीके का आध्यात्मिक भाव) पर (किन्तु/परन्तु) तेरी (तेरी/आपकी) बहुतु (अनेक संबंधी) डीठि (डीठि का आध्यात्मिक भाव) ॥
+मतु (और मति का रहस्य) लकरी (लकरी का आध्यात्मिक भाव) सोटा (सोटा का आध्यात्मिक भाव) तेरी (तेरी/आपकी) परै (किन्तु/परन्तु (करता है/ने)) पीठि (पीठि का आध्यात्मिक भाव) ॥ ॥
+कहि (से (को/में)) कबीर (संत कबीर जी) भोग (विरह-दुख का भोग) भले (भल (सधुक्कड़ी भाव)) कीन (क्या (लोग/समूह)) ॥
+मति (बुद्धि/समझ) कोऊ (कोई भी) मारै (मारकर) ईंट (ईंट का आध्यात्मिक भाव) ढेम (ढेम का आध्यात्मिक भाव) ॥ ॥ ॥ ॥
+( नोट=ये (नोट=ये का आध्यात्मिक भाव) सभी (सब के सब) पद/शब्द (पद/शब्द का आध्यात्मिक भाव) गुरू (गुरू का आध्यात्मिक भाव) ग्रंथ (ग्रंथ का आध्यात्मिक भाव) साहब (साहब का आध्यात्मिक भाव) में (में/भीतर) शामिल (शामिल का आध्यात्मिक भाव) हैं (है) )
+```
+
+#### 🌍 English Word-by-Word Gloss (Transliteration & Meaning)
+```text
+surah (sur (spiritual sense)) kee (of) jaisee (just as) teree (Thine) chaal (chaal (spiritual sense)) .
+teree (Thine) poonchhat (poonchhat) oopari (upon) jhamak (jhamak) baal (igniting/burning) . .
+is (this) ghar (home/refuge) mahi (within/in) hai (is) su (that) too (Thou) dhoondhi (dhoondhi) khaahi (khaahi) .
+aur (other/another) kis (unto whom/whom) hee (alone/only) ke (of) too (Thou) mati (intellect/mind) hee (alone/only) jaahi (whose/when (unto/in)) . . rahaau (pause for reflection, foundational theme) .
+chaakee (chaakee) chaatahi (chaatahi) choonu (choonu) khaahi (khaahi) .
+chaakee (chaakee) ka (of) cheethara (cheethara) kahaan (saying) lai (bringing) jaahi (whose/when (unto/in)) . .
+chheeke (chheeke) par (but/upon) teree (Thine) bahutu (many related) deethi (deethi) .
+matu (wisdom) lakaree (lakaree) sota (sota) teree (Thine) parai (but/upon (does/by)) peethi (peethi) . .
+kahi (from (unto/in)) kabeer (Sant Kabir) bhog (suffering of longing) bhale (bhal (spiritual sense)) keen (what (folk/plural)) .
+mati (intellect/mind) kooo (anyone) maarai (striking/killing) eent (eent) dhem (dhem) . . . .
+( notaye (notaye) sabhee (all of them) padashabd (padashabd) guroo (guroo) granth (granth) saahab (saahab) men (in/within) shaamil (shaamil) hain (have) )
+```
+
+### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
+#### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
+हे संत जनों! सुरह की जैसी तेरी चाल—
+अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
+कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+
+#### 🇬🇧 Lyrical English Verse Translation
+O seekers of Truth! surahakeejaiseetereechaala—
+Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
+Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+
+### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
+In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 150: सुरह की जैसी तेरी चाल'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+
+---
+

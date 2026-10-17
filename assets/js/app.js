@@ -89,6 +89,26 @@
           { id: 'padaavali', label: 'अमर पद (418)' },
           { id: 'bookmarks', label: '★ पसंदीदा' }
         ]
+      },
+      'sant-kabir': {
+        id: 'sant-kabir',
+        name: 'संत कबीर दास',
+        name_en: 'Sant Kabir Das',
+        emblem: 'क',
+        total: 562,
+        color: 'hsl(215, 90%, 55%)',
+        manifest: window.KABIR_MANIFEST || [],
+        data: window.KABIR_DATA || {},
+        tabs: [
+          { id: 'all', label: 'सभी (562)' },
+          { id: 'shabad', label: 'शब्द (149)' },
+          { id: 'salok', label: 'सलोक (245)' },
+          { id: 'doha', label: 'दोहे (84)' },
+          { id: 'ramaini', label: 'रमैणी (8)' },
+          { id: 'sakhi', label: 'साखी अंग (59)' },
+          { id: 'pad', label: 'पद राग (17)' },
+          { id: 'bookmarks', label: '★ पसंदीदा' }
+        ]
       }
     }
   };
@@ -253,6 +273,18 @@
       return;
     }
 
+    if (hash.startsWith('#/sant-kabir')) {
+      state.currentPoet = 'sant-kabir';
+      const sub = hash.replace('#/sant-kabir', '').replace(/^\//, '');
+      showPoetWorkspace('sant-kabir');
+      if (!sub) {
+        showPoetWelcome();
+      } else {
+        resolveWorkRoute('sant-kabir', sub);
+      }
+      return;
+    }
+
     // Legacy fallback for old Bulleh Shah hashes like #kafi-21, #dohre-5
     const legacyMatch = hash.match(/^#([a-zA-Z]+)-(\d+)$/);
     if (legacyMatch) {
@@ -310,6 +342,13 @@
     // Direct lookup fallbacks
     const candidateUids = [
       `${genre}_${id}`,
+      `kabir_${genre}_${id}`,
+      `kabir_shabad_${id}`,
+      `kabir_salok_${id}`,
+      `kabir_doha_${id}`,
+      `kabir_ramaini_${id}`,
+      `kabir_sakhi_${id}`,
+      `kabir_pad_${id}`,
       `farid_${genre}_${id}`,
       `farid_salok_${id}`,
       `farid_shabad_${id}`,
@@ -344,7 +383,7 @@
     // Header adjustments
     el.headerEmblem.textContent = '✨';
     el.headerMainTitle.textContent = 'रहस्यवादी काव्य महाकोश';
-    el.headerSubTitle.textContent = 'Mystic Poetry Archive • 1,111 Masterpieces';
+    el.headerSubTitle.textContent = 'Mystic Poetry Archive • 1,673 Masterpieces';
     el.navHubBtn.style.display = 'none';
     el.poetSwitcherBtn.style.display = 'none';
     el.sidebarToggleBtn.style.display = 'none';
@@ -369,7 +408,7 @@
     el.sidebarToggleBtn.style.display = 'inline-flex';
 
     // Switcher button cycles to next poet
-    const poetList = ['bulleh-shah', 'sant-ravidas', 'sheikh-farid', 'meerabai'];
+    const poetList = ['bulleh-shah', 'sant-ravidas', 'sheikh-farid', 'meerabai', 'sant-kabir'];
     const currIdx = poetList.indexOf(poetId);
     const nextPoetId = poetList[(currIdx + 1) % poetList.length];
     const nextPoet = state.poets[nextPoetId];
@@ -411,6 +450,8 @@
       descEl.innerHTML = `चिश्ती सूफी परंपरा के प्रकाश-स्तंभ और पंजाबी के आदि-कवि <strong>बाबा शेख फरीद (1173–1266)</strong> की समस्त 134 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें श्री गुरु ग्रंथ साहिब जी के 130 सलोक और 4 पावन शब्द सम्मिलित हैं।`;
     } else if (state.currentPoet === 'meerabai') {
       descEl.innerHTML = `भक्ति आंदोलन की अमर प्रेमावतार <strong>संत शिरोमणि मीराबाई (1498–1547)</strong> की समस्त 418 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें राजस्थानी, डिंगल और ब्रजभाषा के 418 अमर भक्ति पद सम्मिलित हैं।`;
+    } else if (state.currentPoet === 'sant-kabir') {
+      descEl.innerHTML = `15वीं सदी के महानतम निर्गुण संत और समाज-सुधारक <strong>संत कबीर दास (1398–1518)</strong> की समस्त 562 कालजयी रचनाओं का प्रामाणिक त्रिभाषी शोध संस्करण। इसमें श्री गुरु ग्रंथ साहिब जी के 149 शब्द व 245 सलोक, 84 अमर दोहे, 8 रमैणी, ग्रंथावली के 59 साखी अंग (935 साखियाँ) और 17 पद राग (407 पद) सम्मिलित हैं।`;
     }
 
     // Render genre highlights
