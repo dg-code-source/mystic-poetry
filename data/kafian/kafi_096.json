@@ -1,0 +1,474 @@
+{
+  "id": 96,
+  "title": "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के",
+  "title_english": "I Shall Go With the Yogi, Having Anointed My Brow With Tilak",
+  "historical_context": "यह 16 बंधों (15 अंतरे और टेक) की बुल्ले शाह की सर्वाधिक प्रसिद्ध, क्रांतिकारी और महाकाव्यात्मक सूफी रचनाओं में से एक है। इसमें बुल्ले शाह ने हीर के जोगन बनने के लोक-आख्यान को एक सार्वभौमिक आध्यात्मिक कैनवास पर प्रस्तुत किया है। साधिका सामाजिक मान-मर्यादा और मजहबी संकीर्णता को त्यागकर अपने माथे पर तिलक लगाकर जोगी (परमेश्वर/सद्गुरु) के संग जाने का अटल प्रण लेती है। इस काफी में हज़रत मूसा और कोहे-तूर, मेअराज और बुर्राक़, कर्बला में हज़रत हसन-हुसैन की शहादत, सोहणी-महीवाल का समर्पण और कैदों की पराजय जैसे गूढ़ सूफी-ऐतिहासिक प्रसंगों को अद्वैत में पिरोया गया है।",
+  "meter": "पंजाबी काफी (मात्रािक छंद, धुन: मैं वैसां जोगी दे नाल)",
+  "raga": "राग काफी / जोग / आसा",
+  "theme": "प्रेम-दीक्षा, सामाजिक विद्रोह, तिलक और जोग का समन्वय, सर्वेश्वरवाद (वहदत-उल-वुजूद), कर्बला व सोहणी के रूपक",
+  "stanzas": [
+    {
+      "original": [
+        "मैं वैसां ना रहसां होड़े, कौन कोई मैं जांदी नूं मोड़े,  ",
+        "मैनूं मुड़ना होया मुहाल, सिर ते मेहना चा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैं तो) वैसां (जाऊँगी ही) ना (नहीं) रहसां (रुकूँगी) होड़े (किसी के रोके), कौन (कौन है) कोई (ऐसा जो) मैं (मुझ) जांदी (जाती हुई) नूं (को) मोड़े (रोक सके/वापस मोड़ सके),",
+        "मैनूं (मेरे लिए) मुड़ना (लौटना) होया (हो चुका है) मुहाल (असंभव/दुश्वार), सिर (सिर) ते (पर) मेहना (कुल का उलाहना/कलंक) चा (उठा) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग ही), मत्थे (अपने माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "मैं (I) वैसां (shall surely go) ना (not) रहसां (shall stay) होड़े (held back/restrained), कौन (who) कोई (anyone) मैं (me) जांदी (departing) नूं (to) मोड़े (can turn back),",
+        "मैनूं (to me) मुड़ना (turning back) होया (has become) मुहाल (impossible/arduous), सिर (head) ते (upon) मेहना (reproach/taunt) चा (bearing/taking) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (upon forehead) तिलक (sacred tilak mark) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "मैं तो जाऊँगी, रुकूँ न किसी के मोड़े, कौन भला मुझे जाने से रोड़े?",
+        "लौटना अब मेरे बस में नहीं, सिर पे कुल का कलंक उठाए ।",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगाए !"
+      ],
+      "poetic_english": [
+        "I shall go, none can restrain my pace; who dares turn back my departing grace?",
+        "To return is impossible now for me, bearing all taunts upon my head:",
+        "I shall go with the Yogi unto the end, with the tilak marked upon my brow so red!"
+      ]
+    },
+    {
+      "original": [
+        "जोगी नहीं इह दिल दा मीता, भुल्ल गई मैं प्यार क्यों कीता,  ",
+        "मैनूं रही ना कुझ संभाल, उस दे दरशन पा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "जोगी (यह जोगी) नहीं (कोई साधारण जोगी नहीं) इह (यह तो) दिल (मेरे हृदय) दा (का) मीता (परम मित्र/प्राणनाथ है), भुल्ल (भूल) गई (गई हूँ सब सुध-बुध कि) मैं (मैंने) प्यार (यह अगाध प्रेम) क्यों (कैसे) कीता (कर लिया),",
+        "मैनूं (मुझे) रही (रही) ना (नहीं) कुझ (कुछ भी) संभाल (तन-मन की सुध), उस (उस प्रियतम) दे (के) दरशन (दीदार) पा (प्राप्त कर) के (लेने के बाद),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "जोगी (yogi) नहीं (not merely) इह (this is) दिल (of heart) दा (the) मीता (true bosom friend/beloved), भुल्ल (forgot) गई (have) मैं (I) प्यार (love) क्यों (why/how) कीता (did/made),",
+        "मैनूं (to me) रही (remained) ना (not) कुझ (any) संभाल (awareness/poise), उस (his) दे (of) दरशन (divine sight) पा (gaining) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "जोगी केवल वैरागी नहीं, मेरे मन का सच्चा यार हुआ,",
+        "सुध-बुध भूली, कब और कैसे उससे ऐसा प्यार हुआ !",
+        "दीदार किया जब से उसका, अपनी कोई खबर न पाई,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगाई !"
+      ],
+      "poetic_english": [
+        "This Yogi is no stranger mendicant, but the sovereign friend of my deep soul;",
+        "Lost to the world, I marvel how this boundless love consumed me whole!",
+        "Since drinking the nectar of His face, no trace of self remains in me:",
+        "I shall go with the Yogi unto the end, crowned with the tilak of ecstasy!"
+      ]
+    },
+    {
+      "original": [
+        "एस जोगी मैनूं कहियां लाईआं, हैन कलेजे कुंडियां पाईआं,  ",
+        "इश्क दा पाइआ जाल, मिट्ठी बात सुना के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "एस (इस) जोगी (जोगी ने) मैनूं (मुझ पर) कहियां (गहरे प्रहार/तीर) लाईआं (चलाए हैं), हैन (और) कलेजे (मेरे हृदय में) कुंडियां (प्रेम के कांटे/अंकुश) पाईआं (फँसा दिए हैं),",
+        "इश्क (इलाही इश्क) दा (का) पाइआ (फेंका है) जाल (मायावी जाल), मिट्ठी (मधुर अमृतमयी) बात (वाणी) सुना (सुना) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "एस (this) जोगी (yogi) मैनूं (unto me) कहियां (wounds/strikes) लाईआं (has dealt), हैन (has) कलेजे (in heart/liver) कुंडियां (fishhooks/barbs) पाईआं (cast/embedded),",
+        "इश्क (of divine love) दा (the) पाइआ (cast) जाल (net), मिट्ठी (sweet) बात (words) सुना (speaking) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "इस जोगी ने ऐसे घाव लगाए, दिल में प्रेम की बर्छी खाई,",
+        "मीठी-मीठी बातें कह कर, इश्क की जाली मुझ पे बिछाई ।",
+        "उसकी मोहिनी सूरत ने तो खींच लिया मेरा हर हाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "This Yogi pierced me with wondrous wounds, His hooks plunged deep into my breast;",
+        "He cast the snare of divine love with words the sweetest and the best.",
+        "Entangled in His holy net, captive to His melodious art:",
+        "I shall go with the Yogi unto the end, with the tilak blazing on my heart!"
+      ]
+    },
+    {
+      "original": [
+        "मैं जोगी नूं ख़ूब पछाता, लोकां मैनूं कमली जाता,  ",
+        "लुट्टी झंग स्याल, कन्नीं मुन्दरां पा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैंने तो) जोगी (इस जोगी) नूं (को) ख़ूब (भली-भाँति) पछाता (पहचान लिया है), लोकां (संसार के लोगों ने) मैनूं (मुझे) कमली (पागल/दीवानी) जाता (समझ रखा है),",
+        "लुट्टी (उसने लूट ली है पूरी) झंग (झंग) स्याल (स्याल की नगरी), कन्नीं (अपने कानों में) मुन्दरां (जोग की मुंद्राएं) पा (पहन) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "मैं (I) जोगी (yogi) नूं (the) ख़ूब (well/truly) पछाता (recognized), लोकां (people) मैनूं (me) कमली (mad/crazed) जाता (deemed),",
+        "लुट्टी (plundered) झंग (Jhang) स्याल (Sial), कन्नीं (in ears) मुन्दरां (yogi earrings) पा (wearing) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "मैंने तो इस जोगी को पहचाना, जग समझे मुझको दीवानी,",
+        "कानों में मुंद्राएं पहन के लूटी उसने झंग-स्याल की राजधानी !",
+        "उसकी अलख जगाने पर तो लूट गया मेरा माल-ओ-ताल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "I have known the Yogi in His truth, though worldly fools pronounce me blind;",
+        "Wearing earrings in His ears, He plundered the city of Jhang-Sial's mind!",
+        "Stripped of all pride, in ecstasy drowned, answering His sovereign call:",
+        "I shall go with the Yogi unto the end, with the tilak shining over all!"
+      ]
+    },
+    {
+      "original": [
+        "जे जोगी घर आवे मेरे, मुक्क जावन सभ झगड़े झेड़े,  ",
+        "ला सीने दे नाल, लक्ख लक्ख शगन मना के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "जे (यदि) जोगी (यह जोगी) घर (आँगन/कुटी) आवे (आ जाए) मेरे (मेरे), मुक्क (समाप्त) जावन (हो जाएँ) सभ (सारे) झगड़े (विवाद) झेड़े (और कलेश),",
+        "ला (लगा लूँगी) सीने (हृदय) दे (के) नाल (साथ), लक्ख (लाखों) लक्ख (लाखों) शगन (मंगलाचार/उत्सव) मना (मना) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "जे (if) जोगी (yogi) घर (home) आवे (comes) मेरे (mine), मुक्क (finished) जावन (shall be) सभ (all) झगड़े (feuds) झेड़े (disputes),",
+        "ला (clasping) सीने (breast) दे (to) नाल (close), लक्ख (hundred thousand) लक्ख (hundred thousand) शगन (blessed omens/auspicious rites) मना (celebrating) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "आ जाए गर जोगी घर मेरे, मिट जाएँ सब झगड़े-झेड़े,",
+        "लाख-लाख शगुन मना कर उसको सीने से लगा लूँ घेरे !",
+        "जीवन के सब संशय कट जाएँ, पाए मन परम निहाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "If the Yogi enters my humble home, all feuds and bitter Strife shall cease;",
+        "Clasping Him close unto my chest with myriad omens of boundless peace!",
+        "All sorrow shall dissolve in light, no shadow of grief shall ever fall:",
+        "I shall go with the Yogi unto the end, with the tilak blazing on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "माए नी इक्क जोगी आया, दर साडे उस धूंआं पाइआ,  ",
+        "मंगदा हीर स्याल, बैठा भेस वटा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "माए (हे माँ) नी (अरी), इक्क (एक अद्भुत) जोगी (जोगी) आया (आया है), दर (द्वार पर) साडे (हमारे) उस (उसने) धूंआं (अपनी धुनी/पवित्र अग्नि) पाइआ (रमा ली है),",
+        "मंगदा (भिक्षा में मांगता है) हीर (हीर) स्याल (स्याल को), बैठा (बैठा हुआ है) भेस (जोगी का भेष) वटा (बदल) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "माए (O mother) नी (listen), इक्क (a) जोगी (yogi) आया (has come), दर (at door) साडे (ours) उस (he) धूंआं (sacred fire/dhuni) पाइआ (has set/kindled),",
+        "मंगदा (begs for alms) हीर (Heer) स्याल (Sial), बैठा (sitting) भेस (guise) वटा (altering) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "ओ माँ री ! इक जोगी आया, द्वारे उसने धुनी रमाई,",
+        "भेष बदल कर बैठा है वो, हीर स्याल की भिक्षा चाही !",
+        "रोम-रोम मेरा रीझ गया है, देख के उसका रूप-जमाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "O mother mine, a Yogi came, kindle He did His sacred fire at our door;",
+        "Disguised in mendicant attire, He begs for Heer and nothing more!",
+        "My soul is captive to His charm, His beggar’s garb outshines them all:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "तअने ना दे फुफ्फी ताई, एथे जोगी नूं किसमत लिआई,  ",
+        "हुन होया फ़ज़ल कमाल, आया है जोग सिधा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "तअने (उलाहने/व्यंग्य) ना (मत) दे (दो) फुफ्फी (हे बुआ) ताई (और ताई), एथे (यहाँ) जोगी (जोगी) नूं (को) किसमत (ईश्वरीय प्रारब्ध) लिआई (लेकर आई है),",
+        "हुन (अब) होया (हुआ है) फ़ज़ल (कृपा/अनुग्रह) कमाल (परम अनुपम), आया (वह आया) है (है) जोग (जोग/योग-साधना को) सिधा (सिद्ध कर) के (लेने के बाद),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "तअने (taunts) ना (do not) दे (give) फुफ्फी (aunt/father's sister) ताई (elder aunt), एथे (here) जोगी (the yogi) नूं (to) किसमत (destiny/grace) लिआई (brought),",
+        "हुन (now) होया (has happened) फ़ज़ल (divine grace) कमाल (miraculous/supreme), आया (come) है (has) जोग (yoga) सिधा (perfecting) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "ताई-बुआ मत ताने मारो, किस्मत इस जोगी को लाई,",
+        "रब का फज़ल हुआ है कामिल, जोग साध कर अलख जगाई !",
+        "सच्चे साहिब ने की रहमत, पूरी हुई मेरी प्रतिपाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Taunt me no more, O aunts so stern, 'twas destined grace that brought Him here;",
+        "The Lord's sublime compassion shone, having perfected Yoga clear!",
+        "Now miracles of love unfold to break each worldly bond and stall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "माही नहीं कोई नूर इलाही, अनहद दी जिस मुरली वाही,  ",
+        "मुठीयो सू हीर स्याल, डाढे कामन पा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "माही (वह केवल ग्वाला) नहीं (नहीं है, बल्कि) कोई (साक्षात्) नूर (परम ज्योति) इलाही (इलाही/ईश्वरीय) है, अनहद (अनाहत नाद) दी (की) जिस (जिसने) मुरली (मुरली/वंशी) वाही (बजाई है),",
+        "मुठीयो (लूट/वश में कर) सू (ली है उसने) हीर (हीर) स्याल (स्याल), डाढे (अत्यंत प्रचंड/गहरे) कामन (प्रेम-जादू/वशीकरण) पा (डाल) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "माही (cowherd) नहीं (not merely) कोई (some) नूर (light) इलाही (divine), अनहद (unstruck sound/Anhad) दी (of) जिस (who) मुरली (flute) वाही (played),",
+        "मुठीयो (bewitched/captivated) सू (he) हीर (Heer) स्याल (Sial), डाढे (mighty/irresistible) कामन (spells/charms of love) पा (casting) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "ग्वाला नहीं वो नूर-ए-इलाही, अनहद की बंसी लहराई,",
+        "हीर स्याल को वश में कीना, ऐसी मीठी तान सुनाई !",
+        "प्रेम के जादू डाल दिए हैं, हर ली मेरी देह-संभाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "No simple herd-boy is this prince, but God’s own transcendent ray;",
+        "He breathes the flute of Anhad Nada that sweeps the universe away!",
+        "With potent spells of mystic grace, He won Heer’s soul beyond recall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "लक्खां गए हज़ारां आए, उस दे भेत किसे ना पाए,  ",
+        "गल्लां तां मूसे नाल, पर कोह तूर चढ़ा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "लक्खां (लाखों) गए (चले गए) हज़ारां (हजारों) आए (आए), उस (उस परमात्मा) दे (के) भेत (रहस्य) किसे (किसी ने भी) ना (नहीं) पाए (पाए),",
+        "गल्लां (बातें कीं) तां (तो) मूसे (हज़रत मूसा) नाल (के साथ), पर (परंतु) कोह (पर्वत) तूर (तूर पर) चढ़ा (चढ़ा) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "लक्खां (hundreds of thousands) गए (departed) हज़ारां (thousands) आए (arrived), उस (his) दे (of) भेत (mysteries/secrets) किसे (anyone) ना (not) पाए (unraveled),",
+        "गल्लां (discourses/talks) तां (indeed) मूसे (Moses) नाल (with), पर (yet) कोह (mount) तूर (Sinai/Tur) चढ़ा (ascending) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "लाखों आए, लाखों गुज़रे, भेद किसी ने उसका न पाया,",
+        "कोह-ए-तूर पे मूसा को भी उसने अपना जलवा दिखाया !",
+        "गूढ़ अलख है उसकी लीला, करता है वो अजब कमाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Millions departed, thousands came, none could His deepest secret trace;",
+        "Yet unto Moses on Mount Sinai, He spoke unveiled with dazzling grace!",
+        "Beyond all dogma, forms, and creeds, His mystery governs great and small:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "अबदहू रसूल कहाइआ, विच मिअराज बुर्राक मंगाइआ,  ",
+        "जिबराईल पकड़ लै आया, हरां मंगल गा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "अबदहू (उसका परम दास) रसूल (और पैगंबर) कहाइआ (कहलाया), विच (में) मिअराज (मेअराज/आकाशीय आरोहण की रात) बुर्राक (स्वर्गीय वाहन बुर्राक) मंगाइआ (मंगवाया),",
+        "जिबराईल (देवदूत जिबरील) पकड़ (थाम कर) लै (ले) आया (आया), हरां (स्वर्ग की अप्सराओं/हूरों ने) मंगल (मंगलगान) गा (गा) के (कर उत्सव मनाया),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "अबदहू (His servant) रसूल (messenger) कहाइआ (proclaimed), विच (during) मिअराज (celestial ascension/Mi'raj) बुर्राक (heavenly steed Buraq) मंगाइआ (summoned),",
+        "जिबराईल (Gabriel) पकड़ (leading/holding) लै (take) आया (brought), हरां (the heavenly houris) मंगल (felicitous songs) गा (singing) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "'अब्दुहू' रसूल कहलाया जिसने, शब-ए-मेअराज बुर्राक़ मँगाया,",
+        "जिब्राईल ने थामा जिसको, हूरों ने मंगलगान सुनाया !",
+        "उस नूरी महबूब की खातिर अर्श-ओ-फ़र्श हुए खुशहाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Proclaimed 'His Servant and His Messenger', He bade Buraq on Mi'raj night;",
+        "Archangel Gabriel held the reins amidst the houris' anthems bright!",
+        "He who transcended space and time to sit within the heavenly hall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "एस जोगी दे सुनो अखाड़े, हसन हुसैन नबी दे प्यारे,  ",
+        "मार्यो सू विच जद्दाल, पानी बिन तरसा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "एस (इस) जोगी (जोगी/परम सत्ता) दे (के) सुनो (सुनो) अखाड़े (रहस्यमयी लीला-क्षेत्र/अखाड़े), हसन (हज़रत हसन) हुसैन (और हुसैन) नबी (पैगंबर) दे (के) प्यारे (लाडले),",
+        "मार्यो (बलिदान करवा दिया) सू (उसने) विच (में) जद्दाल (रणभूमि/कर्बला के भीषण संग्राम), पानी (जल के) बिन (बिना) तरसा (तड़पा) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "एस (this) जोगी (yogi's) दे (of) सुनो (hear) अखाड़े (arenas/mystic proving grounds), हसन (Hasan) हुसैन (Husain) नबी (Prophet's) दे (of) प्यारे (beloveds),",
+        "मार्यो (martyred/slain) सू (he) विच (in) जद्दाल (battle/strife of Karbala), पानी (water) बिन (without) तरसा (parched/thirsting) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "इस जोगी के अखाड़े देखो: नबी के प्यारे हसन-हुसैन,",
+        "कर्बला के मैदान में मारे, बूँद-बूँद पानी बिन चैन !",
+        "इश्क की बाज़ी में शीश दिए हैं, ऐसा हुआ अजब अहवाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Hear the stern arena of this Yogi: Hasan and Husain, the Prophet’s pride,",
+        "Were martyred in the sands of battle, parched without water by His side!",
+        "Love demands the ultimate price, a severed head, the highest thrall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "एस जोगी दी सुनो कहाणी, सोहनी डुब्बी डूंघे पाणी,  ",
+        "फिर रलिआ महींवाल, सारा रख़त लुटा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "एस (इस) जोगी (जोगी) दी (की) सुनो (सुनो) कहाणी (अमर प्रेम-गाथा), सोहनी (सोहणी) डुब्बी (डूब गई) डूंघे (अथाह गहरे) पाणी (चेनाब के पानी में),",
+        "फिर (फिर) रलिआ (उसमें एकाकार हो गया) महींवाल (महीवाल भी), सारा (अपना सारा) रख़त (सामग्री/धन-दौलत) लुटा (न्योछावर कर) के (देने के बाद),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "एस (this) जोगी (yogi's) दी (of) सुनो (hear) कहाणी (the tale), सोहनी (Sohni) डुब्बी (drowned) डूंघे (deep) पाणी (waters),",
+        "फिर (then) रलिआ (merged) महींवाल (Mahiwal), सारा (all) रख़त (wealth/provisions) लुटा (surrendering/spending) के (having),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "सुनो कहानी इस जोगी की: सोहणी गहरे जल में डूबी,",
+        "महीवाल भी कूद पड़ा फिर, छोड़ के अपनी हर खूबी !",
+        "धन-दौलत सब त्याग के उसने पाया प्रेमी का विसाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Hear this Yogi’s tragic saga: Sohni drowned in river deep,",
+        "Mahiwal plunged into the torrent, having cast all wealth to sleep!",
+        "United in the swirling wave where earthly illusions fall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "डांवां डोली लै चल्ले खेड़े, मुढ्ढ कदीमीं दुशमन जेहड़े,  ",
+        "रांझा तां होया नाल, सिर 'ते टमक धरा सजा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "डांवां डोली (डगमगाती डोली) लै (लेकर) चल्ले (चल पड़े) खेड़े (खेड़े लोग), मुढ्ढ (आदि काल से) कदीमीं (पुरातन) दुशमन (शत्रु) जेहड़े (जो हमारे रहे हैं),",
+        "रांझा (परंतु रांझा) तां (तो) होया (हो गया) नाल (साथ-साथ), सिर (अपने सिर) 'ते (पर) टमक (नगाड़ा/रण-ढोल) धरा (रख कर) सजा (बजाते हुए) के (हुए),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "डांवां डोली (wavering palanquin) लै (taking) चल्ले (departed) खेड़े (the Kheras), मुढ्ढ कदीमीं (from ancestral ancient times) दुशमन (enemies) जेहड़े (who were),",
+        "रांझा (Ranjha) तां (verily) होया (went) नाल (alongside), सिर (head) 'ते (upon) टमक (kettledrum) धरा (placing) सजा के (playing/adorning),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "डोली ले के खेड़े भागे, जो पुरखों के बैरी थे,",
+        "रांझा सिर पर ढोल सजाए संग-संग चलता द्वारे पे !",
+        "डंके की चोट पे जीत लिया है उसने मेरा रोम-रोम,",
+        "मैं तो चलूँगी उस जोगी के संग, गाती हुई प्रेम का ओम् !"
+      ],
+      "poetic_english": [
+        "The ancestral foes, the Kheras, bore my trembling palanquin away;",
+        "Yet Ranjha marched beside my carriage, beating the kettledrum bold and gay!",
+        "Proclaiming victory over the world, defying society’s thrall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "जोगी नहीं कोई दूजा साइआ, भर भर प्याला ज़ौक पिलाइआ,  ",
+        "मैं पी पी होई नेहाल, अंग भबूत रमा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "जोगी (यह जोगी) नहीं (कोई) दूजा (अन्य नहीं, साक्षात् मेरा) साइआ (स्वामी/सद्गुरु है), भर (भर) भर (भर कर) प्याला (प्रेम का प्याला) ज़ौक (परमानंद का) पिलाइआ (पिलाया है),",
+        "मैं (मैं तो) पी (पी) पी (पीकर) होई (हो गई हूँ) नेहाल (कृतकृत्य/निहाल), अंग (अंग-प्रत्यंग पर) भबूत (त्याग की भस्म) रमा (रमा) के (कर),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "जोगी (yogi) नहीं (not) कोई दूजा (anyone else) साइआ (master/divine Lord), भर भर (brimful) प्याला (cup) ज़ौक (of ecstasy/divine relish) पिलाइआ (made me drink),",
+        "मैं (I) पी पी (drinking and drinking) होई (became) नेहाल (blessed/liberated), अंग (on limbs) भबूत (sacred ash) रमा के (smearing),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "जोगी नहीं वो साक्षात् स्वामी, भर-भर ज़ौक का जाम पिलाया,",
+        "पीते ही मैं निहाल हो गई, तन पर प्रेम-भभूत रमाया !",
+        "मिट गए सारे भेद-भरम अब, मिटा जगत का सारा जाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "This Yogi is none other than my Sovereign Master, Lord of Grace;",
+        "He poured the cup of ecstasy brimming before my weeping face!",
+        "Drunk on that wine, my soul is blessed, in sacred ashes dressed:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my breast!"
+      ]
+    },
+    {
+      "original": [
+        "जोगी नाल करेंदे झेड़े, केहे पा बैठे काज़ी झेड़े (भैड़े),  ",
+        "विच कैदों पाई मुकाल, कूड़ा बरा लगा के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "जोगी (जोगी) नाल (के साथ) करेंदे (करते हैं) झेड़े (विवाद), केहे (कैसा व्यर्थ बखेड़ा) पा (खड़ा कर) बैठे (बैठे हैं) काज़ी (काजी-मुल्ला) झेड़े/भैड़े (बुरे/कपटी लोग),",
+        "विच (बीच में) कैदों (लंगड़ा कैदों/पाखंडी समाज) पाई (डाली गई) मुकाल (कालिमा/अपयश), कूड़ा (झूठा) बरा/इल्जाम (आरोप) लगा (लगा) के (करके),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "जोगी (yogi) नाल (with) करेंदे (quarrel) झेड़े (disputes), केहे (what kind of) पा बैठे (have brewed) काज़ी (qazis/clerics) भैड़े (wicked/quarrelsome),",
+        "विच (amidst) कैदों (Kaidu/hypocrite) पाई (cast) मुकाल (blackened face/disgrace), कूड़ा (false) बरा (accusation) लगा के (levying),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "जोगी से झगड़ा मोल लिया है, काजी-मुल्ला व्यर्थ बिलापें,",
+        "झूठे कैदों का मुँह काला, जो झूठे इल्जामों को नापे !",
+        "सच्चे प्रेम की जीत हुई है, भागा पाखंडी का हाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "The corrupt qazis pick their quarrels with the Yogi in blind disdain;",
+        "While Kaidu’s slanderous mouth was blackened by his own fabrications vain!",
+        "Truth stands victorious over deceit, shattering orthodoxy’s wall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    },
+    {
+      "original": [
+        "बुल्ल्हा मैं जोगी नाल व्याही, लोकां कमलिआं ख़बर ना काई,  ",
+        "मैं जोगी दा माल, पंजे पीर मना के,  ",
+        "मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के ।"
+      ],
+      "hindi_gloss": [
+        "बुल्ल्हा (बुल्ले शाह कहते हैं) मैं (मैं तो) जोगी (उस जोगी) नाल (के साथ) व्याही (सदा के लिए ब्याही गई हूँ), लोकां (संसार के) कमलिआं (नासमझ/मूर्ख लोगों को) ख़बर (इस रहस्य की खबर) ना (नहीं है) काई (कोई भी),",
+        "मैं (मैं तो पूरी तरह) जोगी (उस जोगी) दा (की ही) माल (धरोहर/संपत्ति हूँ), पंजे (पाँचों) पीर (सिद्ध पीरों को) मना (मना) के (कर यह प्रण लिया है),",
+        "मैं (मैं तो) वैसां (जाऊँगी) जोगी (उस जोगी) दे (के) नाल (संग ही), मत्थे (माथे पर) तिलक (तिलक) लगा (लगा) के (कर) ।"
+      ],
+      "english_gloss": [
+        "बुल्ल्हा (Bulleh) मैं (I am) जोगी (yogi) नाल (to) व्याही (wedded), लोकां (people) कमलिआं (foolish) ख़बर (news/inkling) ना काई (none at all),",
+        "मैं (I am) जोगी (yogi's) दा (own) माल (property/treasure), पंजे (five) पीर (Pirs/spiritual masters) मना के (having propitiated),",
+        "मैं (I) वैसां (shall go) जोगी (yogi) दे (with) नाल (along), मत्थे (on forehead) तिलक (tilak) लगा (applying) के (having) ।"
+      ],
+      "poetic_hindi": [
+        "बुल्ला कहे: मैं जोगी से ब्याही, इस जग को कुछ खबर न भाई,",
+        "पाँचों पीरों को साक्षी कर के, मैं जोगी की जागीर कहलाई !",
+        "अब कौन मुझे रोके जग में, जब साहिब ने ली सुध सम्भाल,",
+        "मैं तो चलूँगी उस जोगी के संग, माथे तिलक लगा के लाल !"
+      ],
+      "poetic_english": [
+        "Says Bulleh: I am wed to the Yogi, of this the foolish world knows naught;",
+        "Having invoked the Holy Five Pirs, my soul is His own possession bought!",
+        "No power can sever this sacred bond, nor keep my spirit in thrall:",
+        "I shall go with the Yogi unto the end, with the tilak shining on my brow withal!"
+      ]
+    }
+  ],
+  "sufi_commentary": "यह काफी बुल्ले शाह के काव्य का एक शिखर है जहां लोक-साहित्य (हीर-रांझा), सूफी रहस्यवाद (वहदत-उल-वुजूद), इस्लामी इतिहास (मूसा, मेअराज, कर्बला) और भारतीय योग परंपरा (तिलक, भभूत, मुंद्रा) एकाकार हो जाते हैं। 'मत्थे तिलक लगा के' कहना उस समय के रूढ़िवादी शरीअती समाज में एक प्रचंड क्रांति थी, जो यह दर्शाती है कि पूर्ण समर्पित प्रेमी मजहबों के बाह्य प्रतीकों से परे उठकर परमात्मा को ही अपना एकमात्र आराध्य स्वीकार करता है। 11वें बंध में कर्बला का उल्लेख सूफी परंपरा में प्रेम की सर्वोच्च कीमत—आत्म-बलिदान—को रेखांकित करता है। यह काफी घोषणा करती है कि जब साधक अपने मुर्शिद (रांझा/जोगी) के चरणों में पांचों पीरों की गवाही के साथ सर्वस्व समर्पित कर देता है, तो संसार के काजी और कैदों (पाखंडी) स्वतः परास्त हो जाते हैं।"
+}

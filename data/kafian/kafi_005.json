@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "title": "5. अब हम गुंम हूए, प्रेम नगर के शहर",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "अब हम गुंम हूए, प्रेम नगर के शहर ।\nआपने आप नूं सोध रिहा हूं, ना सिर हाथ ना पैर ।\nखुदी खोई अपना पद चीता, तब होई गल्ल ख़ैर ।\nलत्थे पगड़े पहले घर थीं, कौन करे निरवैर ?\nबुल्ल्हा शहु है दोहीं जहानीं, कोई ना दिसदा ग़ैर ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "अब हम गुंम हूए, प्रेम नगर के शहर ।",
+          "hindi_gloss": "अब (अब) हम (हम) गुंम (गायब/लीन) हूए (हो गए हैं), प्रेम (प्रेम) नगर (नगर) के (के) शहर (शहर में) ।",
+          "english_gloss": "ab (now) ham (we) gumm (lost/dissolved) hooye (have become), prem (love) nagar (town) ke (of) shahar (city in) ."
+        },
+        {
+          "original": "आपने आप नूं सोध रिहा हूं, ना सिर हाथ ना पैर ।",
+          "hindi_gloss": "आपने (अपने) आप (आप) नूं (को) सोध (तलाश/खोज) रिहा (रहा) हूं (हूं), ना (न) सिर (सिर है) हाथ (न हाथ) ना (न) पैर (पैर) ।",
+          "english_gloss": "aapne (own) aap (self) noon (unto) sodh (searching) riha (am) hoon (I), na (neither) sir (head) haath (nor hand) na (nor) pair (feet) ."
+        },
+        {
+          "original": "खुदी खोई अपना पद चीता, तब होई गल्ल ख़ैर ।",
+          "hindi_gloss": "खुदी (अहंकार/अहम) खोई (खो दिया/त्याग दिया) अपना (अपने वास्तविक) पद (स्वरूप को) चीता (पहचाना/स्मरण किया), तब (तब जाकर) होई (हुई) गल्ल (बात) ख़ैर (कुशल/कल्याणकारी) ।",
+          "english_gloss": "khudi (ego/selfhood) khoi (lost/eradicated) apna (one's own) pad (true spiritual state) cheeta (realized/contemplated), tab (then) hoi (became) gall (matter) khair (well/blessed) ."
+        },
+        {
+          "original": "लत्थे पगड़े पहले घर थीं, कौन करे निरवैर ?",
+          "hindi_gloss": "लत्थे (उतर गए) पगड़े (झगड़े/विवाद) पहले (मूल/परमात्मा के) घर (घर) थीं (से), कौन (कौन) करे (करे) निरवैर (वैर या विवाद) ?",
+          "english_gloss": "latthe (fell away/resolved) pagde (disputes/quarrels) pehle (original/Divine) ghar (home) theen (from), kaun (who) kare (does/holds) nirvair (enmity/discord) ?"
+        },
+        {
+          "original": "बुल्ल्हा शहु है दोहीं जहानीं, कोई ना दिसदा ग़ैर ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) शहु (परमेश्वर/प्रियतम) है (है) दोहीं (दोनों) जहानीं (जहानों/लोकों में), कोई (कोई भी) ना (नहीं) दिसदा (दिखाई देता) ग़ैर (पराया/अन्य) ।",
+          "english_gloss": "bullha (O Bulleh) shauh (the Lord) hai (is) doheen (in both) jahaaneen (worlds), koi (anyone) na (not) disda (appears) gair (stranger/other) ."
+        }
+      ],
+      "hindi_meaning": "अब हम खो गए हैं प्रेम-नगर के शहर में,\nजहाँ खुद को ढूंढ रहा हूँ, पर न सिर है, न हाथ, न पैर!\n\nजब अहंकार मिटा और अपने आत्म-पद को पहचाना,\nतब जाकर जीवन की बात कुशल और मंगलमय हुई।\nउस आदि-घर (परमात्मा) से सारे झगड़े-प्रपंच मिट गए,\nअब यहाँ किससे बैर और किससे विरोध?\nबुल्ले शाह कहते हैं—दोनों लोकों में केवल वही स्वामी व्याप्त है,\nअब कोई भी मुझे दूसरा या पराया नहीं दिखता!",
+      "english_meaning": "Now have we dissolved in the City of Love,\nSearching for myself, yet find neither head, hand, nor feet!\n\nWhen ego was shed and the true self realized,\nAll turned auspicious and sweet peace was found.\nAll strife vanished at the threshold of the Primal Home,\nWith whom then could any enmity remain?\nBulleh Shah declares: The Lord pervades both the worlds,\nNot a single soul appears as a stranger now!"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 144,
+  "title_punjabi": "तूं किधरों आया किधर जाणा, आपना दस्स टिकाणा",
+  "title_english": "Whence Have You Come, Whither Shall You Go? Declare Your Abode",
+  "raga": "Raga Tilang / Bhairav",
+  "meter": "Dohra / Matrik (16-12 matras)",
+  "theme": "The Inevitability of Death, Illusion of Power, and the City of Silence (Graveyard)",
+  "historical_context": "A profound moral and mystical interrogation. Bulleh Shah addresses the corrupt magistrates, oppressive tax collectors, and arrogant elites of his era who abused state power ('जिस ठाने दा तूं मान करें') and extorted the common folk. He drags them to the ultimate equalizer—the graveyard, which he christens 'The City of Silence' ('शहर खमोशां'), where emperors and beggars alike dissolve under the ferrymanship of the Angel of Death (Malak-ul-Maut).",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "original": [
+        "तूं किधरों आया किधर जाणा, आपना दस्स टिकाना ।  ",
+        "जिस ठाने दा तूं मान करें, तेरे नाल ना जासी ठाना ।"
+      ],
+      "hindi_gloss": "तूं (तू) किधरों (कहाँ से) आया (आया है) किधर (कहाँ तुझे) जाणा (जाना है), आपना (अपना सच्चा) दस्स (बता) टिकाना (ठिकाना/मूल स्वरूप)। जिस (जिस सांसारिक) ठाने दा (पद/थाने/अधिकार का) तूं (तू) मान करें (अहंकार करता है), तेरे (तेरे) नाल (साथ) ना (नहीं) जासी (जाएगा) ठाना (वह पद-प्रतिष्ठा)।",
+      "english_gloss": "तूं किधरों आया (Whence hast thou come) किधर जाणा (whither must thou go), आपना दस्स टिकाना (declare thy true abode). जिस ठाने दा (Of which worldly station/post) तूं मान करें (thou art so proud), तेरे नाल ना जासी ठाना (that post shall not accompany thee beyond).",
+      "poetic_hindi": [
+        "कहाँ से आया, कहाँ है जाना? अपना बता ठिकाना!",
+        "जिस ठाने का मान करे तू, साथ न जाए वो थाना!"
+      ],
+      "poetic_english": [
+        "Whence have you come, whither will you tread? Declare your true domain!",
+        "That earthly throne of which you boast will not with you remain!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "original": [
+        "ज़ुलम करें ते लोक सतावें, कसब फड़्यु लुट्ट खाना ।  ",
+        "महबूब सुबहानी करे आसानी, खौफ जाए मलकाना ।"
+      ],
+      "hindi_gloss": "ज़ुलम (अत्याचार) करें (करता है) ते (और) लोक (जनता/संसार को) सतावें (सताता है), कसब (पेशा/व्यवसाय) फड़्यु (बना लिया है) लुट्ट खाना (दूसरों को लूटकर खाना)। महबूब सुबहानी (ईश्वर का परम प्रिय/सद्गुरु) करे आसानी (जब कृपा से राह आसान करे), खौफ (भय) जाए (दूर हो जाए) मलकाना (मालिक होने के अहंकार का)।",
+      "english_gloss": "ज़ुलम करें (Thou commit tyranny) ते लोक सतावें (and torment the people), कसब फड़्यु (thou hast made a profession of) लुट्ट खाना (plundering and devouring others' wealth). महबूब सुबहानी (If the Beloved of the Divine) करे आसानी (grants spiritual ease), खौफ जाए (the dread will vanish) मलकाना (of false ownership and worldly terror).",
+      "poetic_hindi": [
+        "जुल्म करे, जनता को सताए, पेशा लूट-कमाना,",
+        "महबूब सुब्हानी दया करे तो, मिटे खौफ सुल्ताना!"
+      ],
+      "poetic_english": [
+        "You practice cruelty, oppress the weak, and make a trade of greed;",
+        "May the Divine Beloved grant ease, from tyrannical terror freed!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "original": [
+        "शहर खमोशां दे चल वस्सीए, जित्थे मुलक समाना ।  ",
+        "भर भर पूर लंघावे डाढा , मलक-उल-मौत मुहाना ।"
+      ],
+      "hindi_gloss": "शहर (उस नगर में) खमोशां दे (मौन के नगर/कब्रिस्तान में) चल (चलकर) वस्सीए (बसें), जित्थे (जहाँ सारा) मुलक (संसार/जन-समुदाय) समाना (समा गया है)। भर भर पूर (नाव भर-भर कर समूह के समूह) लंघावे (पार उतारता है) डाढा (वह अत्यंत शक्तिशाली), मलक-उल-मौत (मौत का फरिश्ता अज़राईल रूपी) मुहाना (नाविक)।",
+      "english_gloss": "शहर खमोशां दे (In the City of Silence / graveyard) चल वस्सीए (let us go and dwell), जित्थे (where) मुलक समाना (the entire multitude of nations has vanished). भर भर पूर (Ferryload after ferryload) लंघावे (transports across) डाढा (the mighty, relentless), मलक-उल-मौत (Angel of Death) मुहाना (as the stern boatman).",
+      "poetic_hindi": [
+        "शहर-ए-खामोशाँ में चल बसिए, जहाँ मुल्क समाया सारा,",
+        "भर-भर बेड़े पार उतारे, यम-दूत मल्लाह विकराला!"
+      ],
+      "poetic_english": [
+        "Come, let us dwell in the City of Silence, where vanished nations lie;",
+        "The Angel of Death is a boatman stern, ferrying all who die!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "original": [
+        "करे चावड़ चार देहाड़े, ओड़क तूं उट्ठ जाना ।  ",
+        "इन्हां सभनां थीं ए बुल्ल्हा, औगुणहार पुराना ।  ",
+        "तूं किधरों आया किधर जाणा, आपना दस्स टिकाना ।  ",
+        "जिस ठाने दा तूं मान करें, तेरे नाल ना जासी ठाना ।"
+      ],
+      "hindi_gloss": "करे (करता है) चावड़ (उछल-कूद/चंचलता/उल्लास) चार देहाड़े (चार दिनों की इस क्षणिक आयु में), ओड़क (अंततः) तूं (तुझे) उट्ठ जाना (यहाँ से उठकर चले जाना है)। इन्हां सभनां थीं (इन सब में सबसे अधिक) ए बुल्ल्हा (यह बुल्ला ही) औगुणहार (अवगुणों का पुतला/दोषी) पुराना (पुराना पापी है)।",
+      "english_gloss": "करे चावड़ (Thou makest merry and revels) चार देहाड़े (for four fleeting days), ओड़क (ultimately) तूं उट्ठ जाना (thou must arise and depart). इन्हां सभनां थीं (More than all these) ए बुल्ल्हा (this Bulleh himself is) औगुणहार पुराना (an ancient transgressor, full of faults).",
+      "poetic_hindi": [
+        "चार दिनों की मौज-मस्ती, अंत में है उठ जाना;",
+        "इन सब में बुल्ल्हा खुद को जाने अवगुणहार पुराना!",
+        "कहाँ से आया, कहाँ है जाना? अपना बता ठिकाना!",
+        "जिस ठाने का मान करे तू, साथ न जाए वो थाना!"
+      ],
+      "poetic_english": [
+        "Four fleeting days you frolic and dance, then you must arise and go;",
+        "Yet Bulleh sees his own frail self as the guiltiest soul below!",
+        "Whence have you come, whither will you tread? Declare your true domain!",
+        "That earthly throne of which you boast will not with you remain!"
+      ]
+    }
+  ],
+  "sufi_commentary": "Kafi 144 is an uncompromising memento mori and a sharp social critique of the illusions of temporal power. In 18th-century feudal Punjab, magistrates and landlords derived immense arrogance from their 'thana' (police station, district administrative seat). Bulleh pierces this bloated ego by reminding them that no earthly office, army, or title crosses the threshold of mortality. He introduces one of the most haunting poetic metaphors in Sufi literature: the cemetery as 'शहर खमोशां' (The City of Silence). In this quiet necropolis, the entire diversity of humanity—kings, tyrants, paupers, and ascetics—is leveled into equal dust. The Angel of Death (Malak-ul-Maut) is depicted as a tireless, unrelenting ferryman ('मुहाना') who continually ferries whole boatloads ('भर भर पूर') of mortals across the river of non-existence. Rather than adopting a holier-than-thou stance, Bulleh concludes with characteristic Sufi Malamati humility: he turns the mirror upon himself, confessing that among all these heedless souls, he, Bulleh, is the oldest and greatest wrongdoer ('औगुणहार पुराना').",
+  "title": "तूं किधरों आया किधर जाणा, आपना दस्स टिकाणा"
+}

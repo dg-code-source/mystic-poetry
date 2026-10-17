@@ -1,0 +1,124 @@
+{
+  "id": 24,
+  "title": "24. चलो देखिए उस मसतानड़े नूं",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "चलो देखिए उस मसतानड़े नूं,\nजिद्ही त्रिंञणां दे विच पई ए धुंम ।\nउह ते मैं वहदत विच रंगदा ए,\nनहीं पुच्छदा जात दे की हो तुम ।\n\nजीद्हा शोर चुफेरे पैंदा ए,\nउह कोल तेरे नित्त रहन्दा ए,\nनाले 'नाहन अकरब' कहन्दा ए,\nनाले आखे 'वफ़ी-अनफ़स-कुम' ।\n\nछड्ड झूठ भरम दी बसती नूं,\nकर इश्क दी कायम मसती नूं,\nगए पहुंच सजन दी हसती नूं,\nजिहड़े हो गए 'सुम-बुकम-उम' ।\n\nना तेरा ए ना मेरा ए,\nजग्ग फ़ानी झगड़ा झेड़ा ए,\nबिनां मुरशद रहबर किहड़ा ए,\nपढ़-'फाज़-रूनी-अज़-कुर-कुम' ।\n\nबुल्ल्हे शाह इह बात इशारे दी,\nजिन्हा लग्ग गई तांघ नज़ारे दी,\nदस्स पैंदी घर वणजारे दी,\nहै 'यदउल्ल्हा-फ़ौका अयदीकुम' ।\n\nचलो देखिए उस मसतानड़े नूं,\nजिद्ही त्रिंञणां दे विच पई ए धुंम ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "चलो देखिए उस मसतानड़े नूं,",
+          "hindi_gloss": "चलो (आओ चलें) देखिए (दर्शन करें) उस (उस) मसतानड़े (मस्त-अलमस्त फ़क़ीर/मुर्शिद) नूं (के),",
+          "english_gloss": "chalo (come let us go) dekhiye (behold) us (that) mastaan-de (ecstatic master/mystic) noon (unto),"
+        },
+        {
+          "original": "जिद्ही त्रिंञणां दे विच पई ए धुंम ।",
+          "hindi_gloss": "जिद्ही (जिसकी) त्रिंञणां (सखियों की कताई-मंडली/सत्संग) दे (के) विच (भीतर) पई (मची) ए (हुई है) धुंम (महान धूम) ।",
+          "english_gloss": "jidhee (whose) trinjanaan (spinning assemblies/spiritual circles) de (of) vich (in) payee (arisen) e (has) dhumm (fame/celebration) ."
+        },
+        {
+          "original": "उह ते मैं वहदत विच रंगदा ए,",
+          "hindi_gloss": "उह (वह) ते (तू) मैं (और मैं सबको) वहदत (अद्वैत/एकेश्वरवाद के रंग) विच (में) रंगदा (रंग देता) ए (है),",
+          "english_gloss": "uh (he) te (and) main (I) vahdat (divine Oneness/unity) vich (in) rangda (dyes/colors) e (does),"
+        },
+        {
+          "original": "नहीं पुच्छदा जात दे की हो तुम ।",
+          "hindi_gloss": "नहीं (कभी नहीं) पुच्छदा (पूछता) जात (जाति) दे (के) की (क्या) हो (हो) तुम (तुम) ।",
+          "english_gloss": "naheen (not) puchhda (asks) jaat (caste) de (of) kee (what) ho (are) tum (you) ."
+        },
+        {
+          "original": "जीद्हा शोर चुफेरे पैंदा ए,",
+          "hindi_gloss": "जीद्हा (जिसकी चर्चा का) शोर (गूँज) चुफेरे (चारों दिशाओं में) पैंदा (पड़ता) ए (है),",
+          "english_gloss": "jeedha (whose) shor (clamor/renown) chufere (all four corners) painda (falls) e (does),"
+        },
+        {
+          "original": "उह कोल तेरे नित्त रहन्दा ए,",
+          "hindi_gloss": "उह (वह परमात्मा) कोल (समीप) तेरे (तेरे) नित्त (सदा) रहन्दा (रहता) ए (है),",
+          "english_gloss": "uh (he) kol (near) tere (unto you) nitt (always) rahanda (dwells) e (does),"
+        },
+        {
+          "original": "नाले 'नाहन अकरब' कहन्दा ए,",
+          "hindi_gloss": "नाले (और) 'नाहन अकरब' (कुरआन का वचन: 'हम तुम्हारी गर्दन की नस से भी अधिक निकट हैं') कहन्दा (कहता) ए (है),",
+          "english_gloss": "naale (moreover) 'nahnu aqrab' ('We are nearer to him than his jugular vein') kahnda (declares) e (does),"
+        },
+        {
+          "original": "नाले आखे 'वफ़ी-अनफ़स-कुम' ।",
+          "hindi_gloss": "नाले (और) आखे (कहता है) 'वफ़ी-अनफ़स-कुम' ('और तुम्हारे भीतर ही हूँ, क्या तुम देखते नहीं?') ।",
+          "english_gloss": "naale (also) aakhe (says) 'wa fee anfusikum' ('And in your own souls, will you not perceive?') ."
+        },
+        {
+          "original": "छड्ड झूठ भरम दी बसती नूं,",
+          "hindi_gloss": "छड्ड (त्याग दो) झूठ (झूठ) भरम (और भ्रम) दी (की) बसती (सांसारिक बस्ती) नूं (को),",
+          "english_gloss": "chhadd (forsake) jhooth (falsehood) bharam (delusion) dee (of) bastee (abode) noon (unto),"
+        },
+        {
+          "original": "कर इश्क दी कायम मसती नूं,",
+          "hindi_gloss": "कर (स्थापित करो) इश्क (दिव्य प्रेम) दी (की) कायम (अविचल) मसती (मस्ती) नूं (को),",
+          "english_gloss": "kar (establish) ishq (divine love) dee (of) kaayam (enduring) mastee (intoxication) noon (unto),"
+        },
+        {
+          "original": "गए पहुंच सजन दी हसती नूं,",
+          "hindi_gloss": "गए (पहुँच गए) पहुंच (परम पद तक) सजन (प्रियतम की) दी (की) हसती (दिव्य सत्ता) नूं (तक),",
+          "english_gloss": "gaye (went) pahunch (reaching) sajan (the Beloved's) dee (of) hastee (divine Presence) noon (unto),"
+        },
+        {
+          "original": "जिहड़े हो गए 'सुम-बुकम-उम' ।",
+          "hindi_gloss": "जिहड़े (जो साधक) हो (हो) गए (गए) 'सुम-बुकम-उम' (संसार के प्रति बहरे, गूँगे और अंधे) ।",
+          "english_gloss": "jehde (those who) ho (became) gaye (did) 'summun bukmun um-yun' (deaf, dumb, and blind to worldly illusion) ."
+        },
+        {
+          "original": "ना तेरा ए ना मेरा ए,",
+          "hindi_gloss": "ना (न) तेरा (तेरा) ए (है) ना (न) मेरा (मेरा) ए (है),",
+          "english_gloss": "na (neither) tera (yours) e (is) na (nor) mera (mine) e (is),"
+        },
+        {
+          "original": "जग्ग फ़ानी झगड़ा झेड़ा ए,",
+          "hindi_gloss": "जग्ग (यह संसार) फ़ानी (नश्वर है) झगड़ा (सारे वाद-विवाद) झेड़ा (और झगड़े व्यर्थ हैं) ए (हैं),",
+          "english_gloss": "jagg (world) faani (perishable/transient) jhagda (strife) jheda (dispute) e (is),"
+        },
+        {
+          "original": "बिनां मुरशद रहबर किहड़ा ए,",
+          "hindi_gloss": "बिनां (बिना) मुरशद (सद्गुरु के) रहबर (सच्चा मार्गदर्शक) किहड़ा (और कौन) ए (है),",
+          "english_gloss": "binaan (without) murshad (spiritual guide) rahbar (pathfinder) kihda (who) e (is),"
+        },
+        {
+          "original": "पढ़-'फाज़-रूनी-अज़-कुर-कुम' ।",
+          "hindi_gloss": "पढ़ (पढ़ो और आचरण करो) 'फाज़-रूनी-अज़-कुर-कुम' ('तुम मुझे याद करो, मैं तुम्हें याद रखूँगा') ।",
+          "english_gloss": "padh (recite/heed) 'fazkuroonee azkurkum' ('Remember Me; I will remember you') ."
+        },
+        {
+          "original": "बुल्ल्हे शाह इह बात इशारे दी,",
+          "hindi_gloss": "बुल्ल्हे (बुल्ले) शाह (शाह कहते हैं) इह (यह) बात (गूढ़ रहस्य) इशारे (संकेत/अनुभूति) दी (का है),",
+          "english_gloss": "bullhe (Bulleh) shaah (Shah says) ih (this) baat (matter) ishaare (of subtle hint) dee (of is),"
+        },
+        {
+          "original": "जिन्हा लग्ग गई तांघ नज़ारे दी,",
+          "hindi_gloss": "जिन्हा (जिन साधकों को) लग्ग (लग) गई (गई) तांघ (तीव्र तड़प) नज़ारे (दीदार/दर्शन) दी (की),",
+          "english_gloss": "jinha (those who) lagg (ignited) gayee (did) taangh (yearning) nazaare (of divine Vision) dee (of),"
+        },
+        {
+          "original": "दस्स पैंदी घर वणजारे दी,",
+          "hindi_gloss": "दस्स (पहचान) पैंदी (मिल जाती है) घर (उस परम आत्मिक) वणजारे (सच्चे व्यापारी के घर) दी (की),",
+          "english_gloss": "dass (knowledge/discovery) paindi (dawns) ghar (abode) vanjaare (of divine merchant/soul) dee (of),"
+        },
+        {
+          "original": "है 'यदउल्ल्हा-फ़ौका अयदीकुम' ।",
+          "hindi_gloss": "है (कि) 'यदउल्ल्हा-फ़ौका अयदीकुम' ('अल्लाह का हाथ उनके हाथों के ऊपर है') ।",
+          "english_gloss": "hai (that) 'yadullaahi fawqa aydeehim' ('The hand of Allah is over their hands') ."
+        },
+        {
+          "original": "चलो देखिए उस मसतानड़े नूं,",
+          "hindi_gloss": "चलो (आओ चलें) देखिए (दर्शन करें) उस (उस) मसतानड़े (मस्त फ़क़ीर) नूं (के),",
+          "english_gloss": "chalo (come let us go) dekhiye (behold) us (that) mastaan-de (ecstatic master) noon (unto),"
+        },
+        {
+          "original": "जिद्ही त्रिंञणां दे विच पई ए धुंम ।",
+          "hindi_gloss": "जिद्ही (जिसकी) त्रिंञणां (सत्संग-मंडली) दे (के) विच (बीच) पई (मची) ए (है) धुंम (धूम) ।",
+          "english_gloss": "jidhee (whose) trinjanaan (spinning assemblies) de (of) vich (in) payee (has arisen) e (is) dhumm (fame) ."
+        }
+      ],
+      "hindi_meaning": "आओ, चलें उस मस्त-अलमस्त फ़कीर के दर्शन करें,  \nजिसके पावन सत्संग और चरखा-मंडली में भारी धूम मची है!  \nवह 'तू' और 'मैं' के द्वैत को मिटाकर सबको अद्वैत के एक रंग में रंग देता है,  \nऔर किसी से कभी नहीं पूछता कि तुम्हारी जाति क्या है!  \n\nजिस परमात्मा की चर्चा की गूँज चारों ओर फैली हुई है,  \nवह तो नित्य तुम्हारे ही बिल्कुल पास और अंग-संग रहता है!  \nवह स्वयं शास्त्र में कहता है—'मैं तुम्हारी जीवन-नस से भी अधिक निकट हूँ,'  \nऔर कहता है—'मैं तो तुम्हारे अपने ही अंतर्मन में हूँ, क्या तुम देखते नहीं?'  \n\nइस झूठे और भरम भरे सांसारिक नगर का मोह त्याग दो,  \nऔर प्रभु-प्रेम की अविचल मस्ती को अपने भीतर जाग्रत करो!  \nवे साधक प्रियतम की परम सत्ता तक सहज ही पहुँच गए,  \nजो इस नश्वर दुनिया की वासनाओं के लिए बहरे, गूँगे और अंधे बन गए!  \n\nन यह संसार तेरा है और न मेरा है,  \nयह सारा जगत नश्वर है और इसके सारे झगड़े-बखेड़े व्यर्थ हैं!  \nसच्चे मुर्शिद के बिना भला तुम्हारा दूसरा रहनुमा और कौन हो सकता है?  \nउस दिव्य वचन को पढ़ो—'तुम मुझे याद करो, मैं तुम्हें याद रखूँगा!'  \n\nबुल्ले शाह कहते हैं—यह ज्ञान केवल सूक्ष्म इशारे और आत्म-अनुभूति का है,  \nजिन्हें उस दिव्य स्वरूप के दर्शन की सच्ची लगन लग गई है,  \nउन्हें उस परम व्यापारी के सच्चे धाम की पहचान मिल जाती है,  \nजहाँ साक्षात सिद्ध होता है—'अल्लाह का हाथ तुम्हारे हाथों के ऊपर है!'  \n\nआओ, चलें उस मस्त-अलमस्त फ़कीर के दर्शन करें,  \nजिसके पावन सत्संग और चरखा-मंडली में भारी धूम मची है!",
+      "english_meaning": "Come, let us go behold that divine Ecstatic One,  \nWhose renown resounds across all the spinning circles!  \nDyeing all differences in the singular hue of divine Oneness,  \nHe never inquires of what caste or clan thou art!  \n\nThe One whose glory echoes throughout all creation,  \nAbides forever intimate and close beside thee!  \nDeclaring in truth: \"I am nearer than thine own jugular vein,\"  \nAnd whispering within: \"I dwell in thine own soul, dost thou not see?\"  \n\nForsake this worldly town of falsehood and empty delusions,  \nEstablish within thine heart the enduring ecstasy of divine Love!  \nThose seekers reached the exalted presence of the Beloved,  \nWho became deaf, dumb, and blind to the world's false noise!  \n\nNeither is this transient earth thine, nor is it mine,  \nAll worldly strife and bitter feuds are fleeting dust!  \nWithout the illumined Master, who else can guide thy steps?  \nHeed the holy scripture: \"Remember Me, and I shall remember you!\"  \n\nSays Bulleh Shah—this is a secret revealed only through subtle grace,  \nThose who burn with deep yearning for the Beloved's sacred sight,  \nDiscover the true abode of the divine Merchant,  \nWhere shines the truth: \"The hand of God is upon their hands!\"  \n\nCome, let us go behold that divine Ecstatic One,  \nWhose renown resounds across all the spinning circles!"
+    }
+  ]
+}

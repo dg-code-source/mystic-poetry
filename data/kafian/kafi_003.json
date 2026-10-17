@@ -1,0 +1,54 @@
+{
+  "id": 3,
+  "title": "3. आओ सईयो रल दियो नी वधाई",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "आयो सईयो रल दियो नी वधाई ।\nमैं वर पाइआ रांझा माही ।\n\nअज्ज तां रोज़ मुबारक चढ़आ, रांझा साडे वेहड़े वड़्या,\nहत्थ खूंडी मोढे कम्बल धरिआ, चाकां वाली शकल बणाई,\nआयो सईयो रल दियो नी वधाई ।\n\nमुक्कट गऊआं दे विच रुल्लदा, जंगल जूहां दे विच रुल्लदा ।\nहै कोई अल्लाह दे वल्ल भुल्लदा, असल हकीकत ख़बर ना काई,\nआयो सईयो रल दियो नी वधाई ।\n\nबुल्ल्हे शाह इक सौदा कीता, पीता ज़हर प्याला पीता,\nना कुझ लाहा टोटा लीता, दर्द दुक्खां दी गठड़ी चाई,\nआयो सईयो रल दियो नी वधाई ।\nमैं वर पाइआ रांझा माही ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "आयो सईयो रल दियो नी वधाई ।",
+          "hindi_gloss": "आयो (आओ) सईयो (हे सखियों) रल (मिलकर) दियो (दो) नी (री/अरी) वधाई (बधाई) ।",
+          "english_gloss": "aayo (come) saiyo (O friends/sisters) ral (together) diyo (give) nee (O dear) vadhaai (congratulations/blessings) ."
+        },
+        {
+          "original": "मैं वर पाइआ रांझा माही ।",
+          "hindi_gloss": "मैं (मैंने) वर (वर/पति/प्रियतम) पाइआ (पा लिया है) रांझा (रांझा) माही (माही/प्रियतम) ।",
+          "english_gloss": "main (I) var (bridegroom/beloved Lord) paaiya (have found) ranjha (Ranjha) maahi (my Beloved) ."
+        },
+        {
+          "original": "अज्ज तां रोज़ मुबारक चढ़आ, रांझा साडे वेहड़े वड़्या,",
+          "hindi_gloss": "अज्ज (आज) तां (तो) रोज़ (दिन) मुबारक (शुभ/मंगलमय) चढ़आ (उगा/आया है), रांझा (रांझा) साडे (हमारे) वेहड़े (आंगन में) वड़्या (प्रवेश किया है/आया है),",
+          "english_gloss": "ajj (today) taan (indeed) roz (day) mubaarak (blessed/auspicious) chadha (has dawned), ranjha (Ranjha) saade (our) vehde (courtyard) vadya (has entered),"
+        },
+        {
+          "original": "हत्थ खूंडी मोढे कम्बल धरिआ, चाकां वाली शकल बणाई,",
+          "hindi_gloss": "हत्थ (हाथ में) खूंडी (लाठी/डंडा) मोढे (कंधे पर) कम्बल (कंबल) धरिआ (रखा है), चाकां (ग्वालों/सेवकों) वाली (जैसी) शकल (सूरत/वेष) बणाई (बनाया है),",
+          "english_gloss": "hatth (in hand) khoondi (staff/crook) modhe (on shoulder) kambal (blanket) dharia (placed), chaakaan (cowherds/servants) waali (like) shakal (appearance) banaai (assumed),"
+        },
+        {
+          "original": "मुक्कट गऊआं दे विच रुल्लदा, जंगल जूहां दे विच रुल्लदा ।",
+          "hindi_gloss": "मुक्कट (मुकुटधारी/परमेश्वर) गऊआं (गायों) दे (के) विच (बीच) रुल्लदा (भटकता/चराता है), जंगल (जंगलों) जूहां (बीहड़ों/चरागाहों) दे (के) विच (बीच) रुल्लदा (घूमता है) ।",
+          "english_gloss": "mukkat (the crown-wearer/Divine Lord) gaaoon (cows) de (of) vich (among) rullda (wanders/tends), jangal (forests) joohaan (pastures/wilderness) de (of) vich (amidst) rullda (roams) ."
+        },
+        {
+          "original": "है कोई अल्लाह दे वल्ल भुल्लदा, असल हकीकत ख़बर ना काई,",
+          "hindi_gloss": "है (क्या) कोई (कोई) अल्लाह (परमात्मा) दे (के) वल्ल (मार्ग से/ओर) भुल्लदा (भूलता/भटकता है), असल (वास्तविक) हकीकत (सच्चाई की) ख़बर (खबर/ज्ञान) ना (नहीं) काई (कोई) ,",
+          "english_gloss": "hai (is) koi (anyone) allah (God) de (of) vall (towards/path) bhullda (errs/strays), asal (true) hakeekat (reality) khabar (knowledge/awareness) na (not) kaai (any) ,"
+        },
+        {
+          "original": "बुल्ल्हे शाह इक सौदा कीता, पीता ज़हर प्याला पीता,",
+          "hindi_gloss": "बुल्ल्हे (बुल्ले) शाह (शाह ने) इक (एक) सौदा (सौदा) कीता (किया है), पीता (पी लिया) ज़हर (विष का) प्याला (प्याला) पीता (पी लिया),",
+          "english_gloss": "bullhe (Bulleh) shah (Shah) ik (a) sauda (bargain) keeta (made), peeta (drank) zehar (poison) pyaala (cup of) peeta (drank),"
+        },
+        {
+          "original": "ना कुझ लाहा टोटा लीता, दर्द दुक्खां दी गठड़ी चाई,",
+          "hindi_gloss": "ना (न) कुझ (कुछ) लाहा (लाभ/मुनाफ़ा) टोटा (हानि/घाटा) लीता (लिया/देखा), दर्द (दर्द) दुक्खां (दुखों) दी (की) गठड़ी (पोटली) चाई (उठा ली है),",
+          "english_gloss": "na (neither) kujh (any) laaha (profit/gain) tota (loss) leeta (considered), dard (pain) dukkhaan (sorrows) dee (of) gathdi (bundle) chaai (lifted on shoulders) ,"
+        }
+      ],
+      "hindi_meaning": "आओ सखियो, मिलकर मुझे बधाई दो,\nमैंने अपना वर रांझा पा लिया है!\n\nआज बड़ा ही मुबारक दिन उगा है,\nरांझा आज हमारे आंगन में उतरा है!\nहाथ में लाठी, कंधे पर कंबल डाले,\nग्वाले का भेष बनाकर वो आया है!\n\nवो मुकुटधारी प्रभु गायों के बीच घूमता है,\nजंगलों और चरागाहों में भटकता है!\nक्या कोई अल्लाह को पहचान कर भी भटकता है?\nपर किसी को उसकी असल हकीकत की खबर ही नहीं!\n\nबुल्ले शाह ने प्रेम का ऐसा सौदा किया है,\nकि हंसकर विष का भरा प्याला पी लिया है!\nन कोई नफ़ा देखा, न कोई घाटा,\nबस प्रेम के दर्द-दुखों की गठरी सिर उठा ली है!\nआओ सखियो, मिलकर मुझे बधाई दो,\nमैंने अपना वर रांझा पा लिया है!",
+      "english_meaning": "Come, O sisters, join and congratulate me,\nFor I have won my Beloved Ranjha as my Lord!\n\nA day most blessed has dawned today,\nRanjha has walked into my courtyard's way!\nWith a crook in hand and blanket on shoulder,\nIn the humble garb of a cowherd, he appears bolder!\n\nThe Crowned Lord wanders amongst the kine,\nRoaming the meadows and forests divine!\nCan anyone truly go astray from the Lord?\nYet none perceives the truth of this hidden chord!\n\nBulleh Shah has struck a singular bargain,\nDrinking the cup of poison without disdain!\nCaring naught for profit, fearing no pain,\nBearing the bundle of sacred grief in love's domain!\nCome, O sisters, join and congratulate me,\nFor I have won my Beloved Ranjha as my Lord!"
+    }
+  ]
+}

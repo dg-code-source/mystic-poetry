@@ -1,0 +1,233 @@
+{
+  "id": 148,
+  "title_punjabi": "तुसीं करो असाडी कारी",
+  "title_english": "Come Find a Cure for My Ailment!",
+  "raga": "Raga Dhanasri / Asa",
+  "meter": "Baint / Davayya (16-12 matras)",
+  "theme": "The Incurable Wound of Ishq, Krishna's Flute, and the Terror of the Love-Storm",
+  "historical_context": "A passionate 10-stanza prayer where Bulleh Shah depicts the agony of divine love as an acute medical crisis that defies all earthly physicians, herbs, and potions ('की कोई वैद पसारी'). He weaves together pastoral imagery of Krishna playing his enchanting flute ('इह जो मुरली कान्ह वजाई'), the terror of a goat at the butcher's stall ('हां मैं बक्करी कोल कसाईआं'), and the solitary bamboo reed torn from its roots crying for its maker.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "original": [
+        "तुसीं करो असाडी कारी ।  ",
+        "केही हो गई वेदन भारी ।"
+      ],
+      "hindi_gloss": "तुसीं (तुम सब) करो (करो) असाडी (मेरी) कारी (उपाय/इलाज/चिकित्सा)। केही (कैसी विचित्र और असह्य) हो गई (हो चुकी है) वेदन (विरह-वेदना) भारी (अत्यंत भारी)।",
+      "english_gloss": "तुसीं करो (Find and administer) असाडी कारी (a remedy for me). केही हो गई (How dreadful has become) वेदन भारी (this heavy agony of separation).",
+      "poetic_hindi": [
+        "सखियो! करो कोई उपचार हमारा,",
+        "कैसा कठिन रोग विरह का डारा!"
+      ],
+      "poetic_english": [
+        "O companions, find a healing art;",
+        "What heavy agony strikes my heart!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "original": [
+        "उह घर मेरे विच आया, उस आ मैनूं भरमाइआ,  ",
+        "पुच्छो जादू है कि साइआ, उस तों लवो हकीकत सारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "उह (वह प्रियतम) घर मेरे विच (मेरे घर के भीतर) आया (आया), उस (उसने) आ (आकर) मैनूं (मुझको) भरमाइआ (मोहित/भ्रमित कर दिया), पुच्छो (उससे पूछो कि) जादू है (यह कोई जादू-टोना है) कि (या) साइआ (किसी भूत-प्रेत की छाया है?), उस तों (उसी से) लवो (प्राप्त करो) हकीकत (सच्चा रहस्य) सारी (सम्पूर्ण)।",
+      "english_gloss": "उह घर मेरे विच आया (He stepped into my house), उस आ मैनूं भरमाइआ (coming in He bewitched and enchanted me), पुच्छो जादू है कि साइआ (ask Him whether it is sorcery or a haunting shadow), उस तों लवो हकीकत सारी (extract from Him the whole truth of this affair).",
+      "poetic_hindi": [
+        "वो घर मेरे भीतर आया, आकर उसने भरमाया;",
+        "जादू है कि प्रेत का साया? पूछो उससे भेद सारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "He stepped into my chamber floor, and cast enchantment at my core;",
+        "Is it a phantom or magic lore? Inquire the truth behind His door!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "original": [
+        "ओहो दिल मेरे विच वस्सदा, बैठा नाल असाडे हस्सदा,  ",
+        "पुच्छां बातां ते उट्ठ नस्सदा, लै बाज़ां वांङ उडारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "ओहो (वही प्रियतम) दिल मेरे विच (मेरे हृदय के भीतर) वस्सदा (निवास करता है), बैठा (बैठकर) नाल असाडे (हमारे साथ) हस्सदा (हंसता-बतियाता है), पुच्छां बातां (जब मैं कोई गूढ़ बात पूछती हूँ) ते (तो) उट्ठ नस्सदा (उठकर भाग जाता है), लै बाज़ां वांङ (शिकारी बाज़ के समान) उडारी (उड़ान भरकर)।",
+      "english_gloss": "ओहो दिल मेरे विच वस्सदा (He alone dwells within my heart), बैठा नाल असाडे हस्सदा (sitting beside me He smiles and laughs), पुच्छां बातां (yet when I ask Him intimate questions) ते उट्ठ नस्सदा (He leaps up and flees), लै बाज़ां वांङ उडारी (taking flight like a soaring falcon).",
+      "poetic_hindi": [
+        "हृदय में मेरे वो बसता है, बैठ हमारे संग हँसता है;",
+        "भेद पूछूँ तो उड़ नसता है, जैसे बाज़ उड़े मतवारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "Within my heart He loves to bide, and smiles while sitting at my side;",
+        "Yet when I ask, He flees wide, like falcons soaring over tide!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "original": [
+        "मैं शहु दरिआवां पईआं, ठाठां लहरां दे मूंह गईआं,  ",
+        "फड़ के घुंमन घेर भवईआं, उपर बरखा रैन अंध्यारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "मैं (मैं) शहु (गहरे अगाध) दरिआवां (दरिया के प्रवाह में) पईआं (गिर पड़ी हूँ), ठाठां (उमड़ती तूफानी) लहरां दे (लहरों के) मूंह गईआं (मुँह में समा गई हूँ), फड़ के (पकड़कर) घुंमन घेर (भँवरों ने) भवईआं (मुझे चक्कर खिला दिए हैं), उपर (ऊपर से) बरखा (मूसलाधार वर्षा है और) रैन (रात) अंध्यारी (अंधकारमयी है)।",
+      "english_gloss": "मैं शहु दरिआवां पईआं (I have fallen into deep ocean rivers), ठाठां लहरां दे मूंह गईआं (swept into the jaws of crashing waves), फड़ के घुंमन घेर भवईआं (seized by whirlpools spinning me round), उपर बरखा (above falls torrential rain in) रैन अंध्यारी (a pitch-black night).",
+      "poetic_hindi": [
+        "गहरे दरिया में मैं गिरी, तूफानी लहरों में घिरी;",
+        "भँवर में चकराती फिरी, ऊपर बरसे नैन-अंधियारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "In fathomless torrents I am thrown, into the jaws of breakers blown;",
+        "Spun round by whirlpools all alone, 'neath stormy skies in darkness prone!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "original": [
+        "सईआं ऐड छनिच्छर चाए, तारे खारिआं हेठ छुपाए,  ",
+        "मुंज दियां रस्सियां नाग बणाए, इहनां सेहरां तों बलेहारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "सईआं (सखियों ने) ऐड (ऐसे-ऐसे) छनिच्छर (टोने-टोटके/कौतुक) चाए (रचे हैं), तारे (आकाश के तारों को) खारिआं हेठ (टोकरियों के नीचे) छुपाए (छिपा दिया), मुंज दियां (मूंज घास की) रस्सियां (साधारण रस्सियों को) नाग (विषधर सर्प) बणाए (बना दिया), इहनां (इन अद्भुत) सेहरां तों (जादू-टोनों पर मैं) बलेहारी (बलिहारी जाती हूँ)।",
+      "english_gloss": "सईआं ऐड छनिच्छर चाए (My companions have raised such uncanny arts), तारे खारिआं हेठ छुपाए (hiding the stars beneath baskets), मुंज दियां रस्सियां (coarse hempen ropes) नाग बणाए (turned into venomous cobras), इहनां सेहरां तों (unto such wizardries and spells) बलेहारी (I surrender in wonder).",
+      "poetic_hindi": [
+        "सखियों ने ऐसे खेल रचाए, टोकरियों तले तारे छुपाए;",
+        "मूँज की रस्सी को नाग बनाए, बलिहारी जाऊँ जादू न्यारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "Such sorceries my companions weave: stars beneath baskets to deceive;",
+        "From hempen ropes live vipers cleave—what wizardry must I believe!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "original": [
+        "इह जो मुरली कान्ह वजाई, दिल मेरे नूं चोट लगाई,  ",
+        "आह दे नाअरे करदी आही, मैं रोवां ज़ारो ज़ारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "इह जो (यह जो) मुरली (बांसुरी) कान्ह (कान्हा/भगवान कृष्ण ने) वजाई (बजाई है), दिल मेरे नूं (उसने मेरे दिल पर) चोट लगाई (गहरी चोट कर दी है), आह दे (आर्तनाद के) नाअरे (गगनभेदी नारे) करदी आही (लगाती फिरती हूँ), मैं रोवां (और मैं रोती हूँ) ज़ारो ज़ारी (जार-जार बहते अश्रुओं से)।",
+      "english_gloss": "इह जो मुरली (This sweet flute which) कान्ह वजाई (Krishna played), दिल मेरे नूं चोट लगाई (struck a mortal blow upon my heart), आह दे नाअरे करदी आही (I raise loud cries of agony), मैं रोवां ज़ारो ज़ारी (weeping with incessant torrents of tears).",
+      "poetic_hindi": [
+        "कान्हा ने ऐसी बंसी बजाई, दिल पे गहरी चोट लगाई;",
+        "चीख-चीख कर आहें भरीं, रोऊँ मैं जारो-जारी सारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "The flute that Krishna played so sweet, struck deep where soul and sorrow meet;",
+        "Crying aloud in lane and street, I weep in tears before His feet!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "original": [
+        "इश्क दीवाने लीकां लाईआं, डाढियां घणियां सत्थां पाईआं,  ",
+        "हां मैं बक्करी कोल कसाईआं, रहन्दा सहम हमेशा भारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "इश्क (प्रेम के) दीवाने (दीवानेपन ने) लीकां (मर्यादा की रेखाएं) लाईआं/मिटाईं (खींच/मिटा दी हैं), डाढियां (कठोर) घणियां (घनी) सत्थां (पंचायतें/अदालतें) पाईआं (बैठाई गईं), हां मैं (मैं तो ऐसी हूँ जैसे) बक्करी (बकरी बंधी हो) कोल कसाईआं (कसाई के खूँटे के पास), रहन्दा (बना रहता है) सहम (मृत्यु का भय) हमेशा भारी (सदा भारी)।",
+      "english_gloss": "इश्क दीवाने लीकां लाईआं (Love's madness drew its relentless boundaries), डाढियां घणियां सत्थां पाईआं (harsh panchayats sat in judgment upon me), हां मैं बक्करी कोल कसाईआं (I am like a helpless goat tethered beside the butcher), रहन्दा सहम हमेशा भारी (living in perpetual, suffocating dread).",
+      "poetic_hindi": [
+        "दीवाने इश्क ने रेखा खींची, पंचायत बैठी कड़वी-मीची;",
+        "कसाई के खूँटे बँधी मैं बकरी, सहम का छाया पहरा भारी!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "Mad passion drew its lines austere; harsh tribunals condemned me here;",
+        "Like a goat tied to the butcher near, I tremble in perpetual fear!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "original": [
+        "इश्क रोहेला नाहीं छप्पदा, अन्दर धरिआ बन्न्हीं नच्चदा,  ",
+        "मैनूं द्यु सुनेहुड़ा सच्च दा, मेरी करो कोई ग़मखारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "इश्क (प्रेम रूपी) रोहेला (पहाड़ी रोहिल्ला पठान शूरवीर) नाहीं छप्पदा (कभी छिपाये नहीं छिपता), अन्दर (अंतःकरण में) धरिआ (रखा हुआ भी) बन्न्हीं (बंधन तोड़कर) नच्चदा (नाचता है), मैनूं (मुझको) द्यु (दो) सुनेहुड़ा (सच्चा संदेश) सच्च दा (परम सत्य का), मेरी करो (मेरी सुध लो) कोई ग़मखारी (कोई तो मेरी व्यथा का साझीदार बनो)।",
+      "english_gloss": "इश्क रोहेला (Love, like a fierce Rohilla warrior) नाहीं छप्पदा (can never be hidden), अन्दर धरिआ (though kept locked inside) बन्न्हीं नच्चदा (it breaks all bonds and dances), मैनूं द्यु सुनेहुड़ा सच्च दा (bring me the message of the Ultimate Truth), मेरी करो कोई ग़मखारी (come share and comfort my sorrow).",
+      "poetic_hindi": [
+        "इश्क-रोहिल्ला छुपता नाहीं, बंधे न बंधन मन के माहीं;",
+        "सच्चा संदेशा लाओ री कोई, करो विरह की गमख्वारी!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "Love like a fierce Rohilla steed, brooks no restraint and knows no breed;",
+        "Bring me Truth's message in my need, and comfort my sore heart indeed!",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "original": [
+        "मैं की मेहर मुहब्बत जाणां, सईआं करदियां ज़ोर धिङाणा,  ",
+        "गलगल मेवा की हदवाणा, की कोई वैद पसारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "मैं (मैं) की (क्या) मेहर (कृपा) मुहब्बत (और प्रेम का रहस्य) जाणां (जानती थी?), सईआं (सखियाँ) करदियां (करती हैं) ज़ोर धिङाणा (जबरदस्ती/अन्याय), गलगल (नींबू/गलगल फल) मेवा (मेवा-मिष्ठान्न) की (और क्या) हदवाणा (तरबूज-फल), की कोई (क्या कोई सांसारिक) वैद (वैद्य) पसारी (या पंसारी का काढ़ा काम आएगा?)।",
+      "english_gloss": "मैं की मेहर मुहब्बत जाणां (What did I know of love and grace?), सईआं करदियां ज़ोर धिङाणा (companions enforce their tyranny upon me), गलगल मेवा की हदवाणा (what use are sour citrons, dry fruits, or watermelons?), की कोई वैद पसारी (what cure can herbalist or grocer bring?).",
+      "poetic_hindi": [
+        "मैं क्या जानूँ प्रेम-सगाई? सखियों ने जबरन रीति चलाई;",
+        "मेवा-तरबूज का काम न काई, वैद-पंसारी क्या करे बिचारा?",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "What did I know of love's deep tide? My friends force custom at my side;",
+        "No fruit or melon can heal inside; what herb can apothecary guide?",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "original": [
+        "नौ शौह जिस दा बांस बरेली, टुट्टी डालों रही इकेली,  ",
+        "कूके बेली बेली बेली, उहदी करे कोई दिलदारी ।  ",
+        "तुसीं करो असाडी कारी ।"
+      ],
+      "hindi_gloss": "नौ शौह (वह नया प्रियतम/वंशीधर) जिस दा (जिसकी बाँसुरी का) बांस (बांस) बरेली (बरेली नगर का उत्कृष्ट बांस था), टुट्टी (टूटकर) डालों (अपनी टहनी से) रही इकेली (अकेली रह गई है), कूके (कराहती है) बेली बेली बेली ('हे मेरे साथी! हे मेरे प्रियतम!'), उहदी (उस विरहिणी की) करे कोई (कोई तो करे) दिलदारी (धीरज/सांत्वना)।",
+      "english_gloss": "नौ शौह जिस दा बांस बरेली (The youthful King whose flute was carved of Bareilly's reed), टुट्टी डालों (severed from its parent branch) रही इकेली (it weeps solitary and alone), कूके बेली बेली बेली (crying: 'O Friend, O Beloved, O Companion!'), उहदी करे कोई दिलदारी (let someone bring solace to its broken heart).",
+      "poetic_hindi": [
+        "बरेली के बाँस की बंसी पिया की, डाली से टूटी एकाकिनी बाकी;",
+        "'बेली-बेली' कूकती विरहन साकी, कोई तो दे धीरज सहारा!",
+        "सखियो! करो कोई उपचार हमारा!"
+      ],
+      "poetic_english": [
+        "From Bareilly's groves the flute was torn, severed from roots to weep forlorn;",
+        "'Beloved! Beloved!' it cries unworn—who can console a heart so torn?",
+        "O companions, find a healing art!"
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "original": [
+        "बुल्ल्हा शौह दे जे मैं जावां, आपना सिर धड़ फेर ना पावां,  ",
+        "ओथे जावां फेर ना आवां, एथे ऐवें उमर गुज़ारी ।  ",
+        "तुसीं करो असाडी कारी ।  ",
+        "केही हो गई वेदन भारी ।"
+      ],
+      "hindi_gloss": "बुल्ल्हा (बुल्लेशाह कहता है) शौह दे (यदि मैं उस प्रियतम के दरबार) जे मैं जावां (चली जाऊँ), आपना (अपना) सिर (सिर) धड़ (और धड़) फेर ना पावां (फिर कभी वापस न पा सकूँ - पूर्ण आत्म-समर्पण हो जाए), ओथे जावां (यदि वहाँ चली जाऊँ) फेर ना आवां (तो फिर इस नश्वर लोक में कभी लौटकर न आऊँ), एथे (यहाँ संसार में) ऐवें (व्यर्थ ही) उमर (अपनी आयु) गुज़ारी (गँवा दी है)।",
+      "english_gloss": "बुल्ल्हा शौह दे जे मैं जावां (If I enter the portal of the Sovereign Beloved), आपना सिर धड़ फेर ना पावां (I shall never regain my severed head or torso), ओथे जावां फेर ना आवां (once I go there, I shall never return), एथे ऐवें उमर गुज़ारी (here in this worldly illusion I wasted my precious life in vain).",
+      "poetic_hindi": [
+        "बुल्ल्हा कहे, शाह-दर जाऊँ, शीश-धड़ फिर कभी न पाऊँ;",
+        "जाऊँ वहाँ तो लौट न आऊँ, यहाँ व्यर्थ ही जनम गँवारा!",
+        "सखियो! करो कोई उपचार हमारा,",
+        "कैसा कठिन रोग विरह का डारा!"
+      ],
+      "poetic_english": [
+        "Bulleh cries: if to that King I fly, my head and torso severed lie;",
+        "Once entered there, no more shall I return to where vain years pass by!",
+        "O companions, find a healing art;",
+        "What heavy agony strikes my heart!"
+      ]
+    }
+  ],
+  "sufi_commentary": "Kafi 148 is an impassioned masterpiece on the incurable nature of Divine Love (Ishq-e-Haqiqi). Bulleh mocks all conventional cures: no country doctor ('वैद') or village apothecary ('पसारी') can treat a heart struck by the arrow of God. In Stanza 6, Bulleh evokes the piercing sound of Krishna's flute ('मुरली कान्ह वजाई'), which acts as a fatal blow that unravels all worldly conditioning. In Stanza 7, he creates a chilling metaphor of sacrificial surrender: the lover is like a helpless goat tethered beside the butcher ('बक्करी कोल कसाईआं'), waiting with trembling joy for the decapitating blade of Fana. In Stanza 10, Bulleh pays homage to the famous opening of Rumi's Masnavi (the Song of the Reed): the soul is like a hollow reed torn from the bamboo groves of Bareilly, whose haunting melody is nothing other than its agonizing lament for reunion with its Source ('कूके बेली बेली बेली'). Bulleh concludes that crossing the Master's threshold is irreversible: once entering that realm, the egoic head and body are severed forever ('आपना सिर धड़ फेर ना पावां'), dissolving the finite seeker into the Infinite Beloved.",
+  "title": "तुसीं करो असाडी कारी"
+}

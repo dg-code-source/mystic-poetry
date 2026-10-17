@@ -1,0 +1,104 @@
+{
+  "id": 37,
+  "title": "37. हाजी लोक मक्के नूं जांदे",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "हाजी लोक मक्के नूं जांदे,\nमेरा रांझा माही मक्का,\nनी मैं कमली हां ।\n\nमैं ते मंग रांझे दी होईआं,\nमेरा बाबल करदा धक्का,\nनी मैं कमली हां ।\n\nहाजी लोक मक्के वल्ल जांदे,\nमेरे घर विच नौशोह मक्का,\nनी मैं कमली हां ।\n\nविचे हाजी विचे गाजी,\nविचे चोर उचक्का,\nनी मैं कमली हां ।\n\nहाजी लोक मक्के वल्ल जांदे,\nअसां जाणा तख़त हज़ारे,\nनी मैं कमली हां ।\n\nजित वल्ल यार उते वल्ल कअबा,\nभावें फोल किताबां चारे,\nनी मैं कमली हां ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "हाजी लोक मक्के नूं जांदे,",
+          "hindi_gloss": "हाजी (हज के यात्री) लोक (लोग) मक्के (मक्का शरीफ़) नूं (की ओर) जांदे (जाते हैं),",
+          "english_gloss": "haajee (pilgrims) lok (people) makke (to Mecca) noon (unto) jaande (go),"
+        },
+        {
+          "original": "मेरा रांझा माही मक्का,",
+          "hindi_gloss": "मेरा (मेरा तो) रांझा (प्यारा रांझा) माही (ही मेरा सच्चा) मक्का (काबा/मक्का है),",
+          "english_gloss": "mera (my) raanjha (Ranjha) maahi (the Beloved) makka (is Mecca),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं प्रेम में) कमली (बावरी/मतवाली) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (crazed with love) haan (am) ."
+        },
+        {
+          "original": "मैं ते मंग रांझे दी होईआं,",
+          "hindi_gloss": "मैं (मैं) ते (तो) मंग (वाग्दत्ता/मंगेतर) रांझे (रांझा) दी (की) होईआं (हो चुकी हूँ),",
+          "english_gloss": "main (I) te (indeed) mang (betrothed) raanjhe (of Ranjha) dee (of) hoee-aan (have become),"
+        },
+        {
+          "original": "मेरा बाबल करदा धक्का,",
+          "hindi_gloss": "मेरा (किंतु मेरा) बाबल (सांसारिक पिता) करदा (करता है) धक्का (अन्याय/ज़बरदस्ती),",
+          "english_gloss": "mera (my) baabal (father) karda (does) dhakka (injustice/forceful constraint),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं) कमली (बावरी) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (crazed) haan (am) ."
+        },
+        {
+          "original": "हाजी लोक मक्के वल्ल जांदे,",
+          "hindi_gloss": "हाजी (हज करने वाले) लोक (लोग) मक्के (मक्का) वल्ल (की ओर) जांदे (जाते हैं),",
+          "english_gloss": "haajee (pilgrims) lok (people) makke (toward Mecca) vall (direction) jaande (journey),"
+        },
+        {
+          "original": "मेरे घर विच नौशोह मक्का,",
+          "hindi_gloss": "मेरे (मेरे) घर (हृदय-घर) विच (में ही) नौशोह (नित्य नवीन दूल्हा/प्रभु ही) मक्का (सच्चा मक्का है),",
+          "english_gloss": "mere (my) ghar (home) vich (within) naushauh (the eternal Bridegroom) makka (is Mecca),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं) कमली (बावरी) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (ecstatic) haan (am) ."
+        },
+        {
+          "original": "विचे हाजी विचे गाजी,",
+          "hindi_gloss": "विचे (उसी अंतःकरण में) हाजी (सच्चा हाजी है) विचे (उसी में) गाजी (इंद्रियों को जीतने वाला सच्चा ग़ाज़ी है),",
+          "english_gloss": "viche (within is) haajee (the pilgrim) viche (within is) gaazee (the spiritual warrior),"
+        },
+        {
+          "original": "विचे चोर उचक्का,",
+          "hindi_gloss": "विचे (और उसी में मन रूपी) चोर (चोर और) उचक्का (उचक्का भी छिपा है),",
+          "english_gloss": "viche (within is) chor (the thief) uchakka (the rogue/swindler of illusion),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं) कमली (दीवानी) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (crazed) haan (am) ."
+        },
+        {
+          "original": "हाजी लोक मक्के वल्ल जांदे,",
+          "hindi_gloss": "हाजी (हज के यात्री) लोक (लोग) मक्के (मक्का की) वल्ल (ओर) जांदे (जाते हैं),",
+          "english_gloss": "haajee (pilgrims) lok (folk) makke (Mecca) vall (toward) jaande (go),"
+        },
+        {
+          "original": "असां जाणा तख़त हज़ारे,",
+          "hindi_gloss": "असां (हमें तो) जाणा (जाना है) तख़त हज़ारे (रांझा के दिव्य धाम तख़्त हज़ारा),",
+          "english_gloss": "asaan (we) jaana (have to go) takhat hazaare (to Takht Hazara / Beloved's home),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं) कमली (बावरी) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (crazed) haan (am) ."
+        },
+        {
+          "original": "जित वल्ल यार उते वल्ल कअबा,",
+          "hindi_gloss": "जित (जिस) वल्ल (ओर मेरा) यार (प्रियतम है) उते (उसी) वल्ल (ओर मेरा सच्चा) कअबा (काबा है),",
+          "english_gloss": "jit (whichever) vall (direction) yaar (Beloved is) ute (in that very) vall (direction) kaaba (is Kaaba),"
+        },
+        {
+          "original": "भावें फोल किताबां चारे,",
+          "hindi_gloss": "भावें (चाहे तुम) फोल (खंगाल कर देख लो) किताबां (धर्मग्रंथों की) चारे (चारों पवित्र किताबें),",
+          "english_gloss": "bhaaven (even if) phol (you search through) kitaabaan (holy scriptures) chaare (all four books),"
+        },
+        {
+          "original": "नी मैं कमली हां ।",
+          "hindi_gloss": "नी (अरी सखी) मैं (मैं प्रेम में) कमली (बावरी) हां (हूँ) ।",
+          "english_gloss": "neen (O friend) main (I) kamlee (crazed with love) haan (am) ."
+        }
+      ],
+      "hindi_meaning": "हज के यात्री काबा-मक्का की ओर जाते हैं,  \nपरंतु मेरा प्यारा रांझा ही मेरा मक्का है—अरी सखी, मैं तो प्रेम में बावरी हो गई हूँ!  \n\nमैं तो अपने रांझा के नाम पर ब्याही जा चुकी हूँ,  \nपर मेरा सांसारिक पिता ज़बरदस्ती किसी और से बाँधना चाहता है—अरी सखी, मैं तो बावरी हो गई हूँ!  \n\nहज के यात्री मरुस्थल के मक्के की ओर भागते हैं,  \nपरंतु मेरे हृदय-घर में ही मेरा नित्य-नूतन दूल्हा-रूपी मक्का विराज रहा है—अरी सखी, मैं तो बावरी हो गई हूँ!  \n\nइसी अंतःकरण में सच्चा हाजी है, इसी में मन को जीतने वाला ग़ाज़ी है,  \nऔर इसी में विषय-वासनाओं को चुराने वाला चोर-उचक्का भी है—अरी सखी, मैं तो बावरी हो गई हूँ!  \n\nहज के यात्री मक्के की ओर दौड़ते हैं,  \nपरंतु मुझे तो मेरे प्रीतम के पावन धाम 'तख़्त हज़ारा' जाना है—अरी सखी, मैं तो बावरी हो गई हूँ!  \n\nजिधर मेरा यार खड़ा है, ठीक उसी दिशा में मेरा काबा है,  \nचाहे चारों आसमानी किताबें (तौरेत, ज़बूर, इंजील और क़ुरआन) खोलकर देख लो—अरी सखी, मैं तो प्रेम में बावरी हो गई हूँ!",
+      "english_meaning": "Pious pilgrims journey across desert sands to Mecca's shrine,  \nYet Ranjha, my Beloved, is the sole holy Kaaba of mine—  \nO companions, crazed with divine love am I!  \n\nTo my Beloved Ranjha I have given my betrothal vow,  \nYet my earthly father forces worldly bonds upon me now—  \nO companions, crazed with divine love am I!  \n\nPilgrims hasten toward distant walls of brick and stone,  \nYet within the sanctuary of my heart dwells the radiant Bridegroom alone—  \nO companions, crazed with divine love am I!  \n\nWithin this very breast dwells the pilgrim, within is the warrior of grace,  \nAnd within also lurks the stealthy thief of illusion’s embrace—  \nO companions, crazed with divine love am I!  \n\nWorldly pilgrims journey to Mecca far away,  \nYet to Takht Hazara, my lover's realm, I must hasten today—  \nO companions, crazed with divine love am I!  \n\nWhichever way my Beloved turns His gaze, that direction is my Kaaba true,  \nSearch through all four holy scriptures, and you will find this testament anew—  \nO companions, crazed with divine love am I!"
+    }
+  ]
+}

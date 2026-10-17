@@ -1,0 +1,74 @@
+{
+  "id": 25,
+  "title": "25. चुप्प करके करीं गुज़ारे नूं",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "सच्च सुणदे लोक ना सहिंदे नी, सच्च आखिए तां गल पैंदे नी,\nफिर सच्चे पास ना बहिंदे नी, सच्च मिट्ठा आशक प्यारे नूं ।\nचुप्प करके करीं गुज़ारे नूं ।\n\nसच्च शर्हा करे बरबादी ए सच्च आशक दे घर शादी ए,\nसच्च करदा नवीं आबादी ए जेही शर्हा तरीकत हारे नूं ।\nचुप्प करके करीं गुज़ारे नूं ।\n\nचुप्प आशक तों ना हुन्दी ए, जिस आई सच्च सुगंधी ए,\nजिस माला सुहाग दी गुन्दी ए छड्ड दुनियां कूड़ पसारे नूं ।\nचुप्प करके करीं गुज़ारे नूं ।\n\nबुल्ल्हा शौह सच्च हुण बोले हैं, सच्च शर्हा तरीकत फोले हैं,\nगल्ल चौथे पद दी खोल्हे हैं, जेही शर्हा तरीकत हारे नूं ।\nचुप्प करके करीं गुज़ारे नूं ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "सच्च सुणदे लोक ना सहिंदे नी, सच्च आखिए तां गल पैंदे नी,",
+          "hindi_gloss": "सच्च (सत्य) सुणदे (सुनते ही) लोक (दुनिया के लोग) ना (नहीं) सहिंदे (सहन कर पाते) नी (अरी सखी), सच्च (सत्य) आखिए (कहें) तां (तो) गल (गले) पैंदे (पड़ जाते हैं) नी (अरी),",
+          "english_gloss": "sachh (truth) sunde (upon hearing) lok (worldly folk) na (not) sahinde (can endure) neen (O friend), sachh (truth) aakhiye (if spoken) taan (then) gal (throat) painde (leap at) neen (they),"
+        },
+        {
+          "original": "फिर सच्चे पास ना बहिंदे नी, सच्च मिट्ठा आशक प्यारे नूं ।",
+          "hindi_gloss": "फिर (और फिर) सच्चे (सत्यवादी के) पास (पास) ना (नहीं) बहिंदे (बैठते) नी (अरी), सच्च (परम सत्य) मिट्ठा (अमृत जैसा मीठा लगता है) आशक (सच्चे आशिक़/प्रेमी) प्यारे (प्यारे) नूं (को) ।",
+          "english_gloss": "phir (then) sachhe (truthful one) paas (near) na (not) bahinde (sit) neen (they), sachh (truth) mittha (sweet like honey) aashak (devoted lover) pyaare (dear) noon (unto) ."
+        },
+        {
+          "original": "चुप्प करके करीं गुज़ारे नूं ।",
+          "hindi_gloss": "चुप्प (मौन/शांत) करके (रहकर ही) करीं (बिताओ) गुज़ारे (जीवन के गुज़ारे/दिनों) नूं (को) ।",
+          "english_gloss": "chupp (silence) karke (keeping) kareen (spend) guzaare (days/existence) noon (unto) ."
+        },
+        {
+          "original": "सच्च शर्हा करे बरबादी ए सच्च आशक दे घर शादी ए,",
+          "hindi_gloss": "सच्च (सत्य) शर्हा (कर्मकांडी शरियत की) करे (करता है) बरबादी (बरबादी) ए (है), सच्च (सत्य) आशक (सच्चे प्रेमी) दे (के) घर (हृदय में) शादी (परमानंद का उत्सव) ए (है),",
+          "english_gloss": "sachh (truth) sharha (dogmatic law's) kare (causes) barbaadi (ruin) e (is), sachh (truth) aashak (of the lover) de (of) ghar (in house) shaadi (wedding celebration) e (is),"
+        },
+        {
+          "original": "सच्च करदा नवीं आबादी ए जेही शर्हा तरीकत हारे नूं ।",
+          "hindi_gloss": "सच्च (सत्य) करदा (करता है) नवीं (नवीन आत्मिक) आबादी (जीवन का सृजन) ए (है), जेही (जैसी) शर्हा (कर्मकांड) तरीकत (और औपचारिक साधना से) हारे (थके-हारे साधक) नूं (के लिए) ।",
+          "english_gloss": "sachh (truth) karda (creates) naveen (new) aabaadi (habitation/spiritual life) e (is), jehi (such as for) sharha (dogma) tareeqat (pathways) haare (exhausted) noon (unto) ."
+        },
+        {
+          "original": "चुप्प करके करीं गुज़ारे नूं ।",
+          "hindi_gloss": "चुप्प (मौन) करके (साधकर) करीं (करो) गुज़ारे (जीवन का निर्वाह) नूं (को) ।",
+          "english_gloss": "chupp (silence) karke (maintaining) kareen (pass) guzaare (life) noon (unto) ."
+        },
+        {
+          "original": "चुप्प आशक तों ना हुन्दी ए, जिस आई सच्च सुगंधी ए,",
+          "hindi_gloss": "चुप्प (मौन रहना) आशक (सच्चे प्रेमी) तों (से) ना (नहीं) हुन्दी (हो पाता) ए (है), जिस (जिसे) आई (प्राप्त हो गई) सच्च (सत्य की पावन) सुगंधी (सुगंध) ए (है),",
+          "english_gloss": "chupp (silence) aashak (lover) ton (from) na (not) hundi (is possible) e (is), jis (who has) aai (received) sachh (of truth) sugandhi (fragrance) e (has),"
+        },
+        {
+          "original": "जिस माला सुहाग दी गुन्दी ए छड्ड दुनियां कूड़ पसारे नूं ।",
+          "hindi_gloss": "जिस (जिसने) माला (माला) सुहाग (परम सुहाग/प्रियतम के मिलन) दी (की) गुन्दी (पिरो ली) ए (है), छड्ड (त्यागकर) दुनियां (संसार के) कूड़ (मिथ्या) पसारे (प्रपंच/पसारे) नूं (को) ।",
+          "english_gloss": "jis (who) maala (rosary/garland) suhaag (of divine union) dee (of) gundi (woven) e (has), chhadd (abandoning) duniyaan (world's) kood (false) pasaare (illusion/sprawl) noon (unto) ."
+        },
+        {
+          "original": "चुप्प करके करीं गुज़ारे नूं ।",
+          "hindi_gloss": "चुप्प (मौन) करके (साधकर) करीं (करो) गुज़ारे (गुज़ारा) नूं (को) ।",
+          "english_gloss": "chupp (silence) karke (maintaining) kareen (pass) guzaare (existence) noon (unto) ."
+        },
+        {
+          "original": "बुल्ल्हा शौह सच्च हुण बोले हैं, सच्च शर्हा तरीकत फोले हैं,",
+          "hindi_gloss": "बुल्ल्हा (बुल्ले शाह) शौह (प्रभु के) सच्च (परम सत्य को) हुण (अब साफ़) बोले (बोलते) हैं (हैं), सच्च (सत्य के द्वारा) शर्हा (शरियत) तरीकत (और तरीक़त के रहस्यों को) फोले (खोल दिया) हैं (है),",
+          "english_gloss": "bullha (Bulleh) shauh (the Lord's) sachh (truth) hun (now) bole (speaks) hain (does), sachh (truth) sharha (dogma) tareeqat (spiritual stage) fole (unveiled) hain (has),"
+        },
+        {
+          "original": "गल्ल चौथे पद दी खोल्हे हैं, जेही शर्हा तरीकत हारे नूं ।",
+          "hindi_gloss": "गल्ल (गूढ़ बात) चौथे (चौथे पद / तुरीयावस्था / हक़ीक़त-मारिफ़त) पद (की अवस्था) दी (की) खोल्हे (खोल दी) हैं (है), जेही (जो) शर्हा (बाह्य कर्मकांड) तरीकत (और औपचारिक रास्तों से) हारे (थक चुके साधक को तार देती है) नूं (को) ।",
+          "english_gloss": "gall (mystery) chauthe (fourth) pad (state/Turiyavastha) dee (of) kholhe (unlocked) hain (has), jehi (which unto) sharha (external law) tareeqat (formal stages) haare (exhausted seeker) noon (unto) ."
+        },
+        {
+          "original": "चुप्प करके करीं गुज़ारे नूं ।",
+          "hindi_gloss": "चुप्प (मौन) करके (साधकर) करीं (करो) गुज़ारे (गुज़ारा) नूं (को) ।",
+          "english_gloss": "chupp (silence) karke (maintaining) kareen (pass) guzaare (life) noon (unto) ."
+        }
+      ],
+      "hindi_meaning": "सत्य सुनते ही दुनिया के लोग सहन नहीं कर पाते,  \nयदि सत्य कह दिया जाए तो वे तुरंत झगड़ने और गला पकड़ने आ जाते हैं!  \nवे कभी किसी सच्चे मनुष्य के पास बैठना नहीं चाहते,  \nपरंतु सच्चे प्रेमी और आशिक़ को तो यही सत्य अमृत के समान मधुर लगता है!  \nइसलिए ऐ दिल! इस संसार में मौन रहकर ही अपना जीवन गुज़ारो!  \n\nसत्य रूढ़िवादी कर्मकांडों और बाह्य आडंबरों की नींव हिला देता है,  \nपर वही सत्य प्रेमी के अंतःकरण में परमानंद का उत्सव मनाता है!  \nजो साधक बाह्य नियमों और औपचारिक साधनाओं से थक कर हार चुके हैं,  \nयह सत्य उनके भीतर एक नवीन आत्मिक संसार बसा देता है!  \nइसलिए ऐ दिल! इस संसार में मौन रहकर ही अपना जीवन गुज़ारो!  \n\nपरंतु जिसे सत्य की पावन सुगंध मिल चुकी हो,  \nउस सच्चे आशिक़ से चुप भी तो नहीं रहा जाता!  \nजिसने इस मिथ्या संसार के सारे प्रपंचों को छोड़कर,  \nअपने प्रभु के नाम का पावन सुहाग-हार गूँथ लिया हो, वह कैसे मौन रहे!  \nफिर भी ऐ दिल! इस संसार में मौन रहकर ही अपना जीवन गुज़ारो!  \n\nबुल्ले शाह अब खुलकर उस परम सत्य का उद्घोष कर रहे हैं,  \nउन्होंने शरियत और तरीक़त के सारे रहस्यों को उजागर कर दिया है!  \nऔर उस चौथे पद (तुरीयावस्था/हक़ीक़त) का अंतिम सत्य खोल दिया है,  \nजो बाह्य साधनों से थके हुए हर जिज्ञासु का उद्धार कर देता है!  \nइसलिए ऐ दिल! इस संसार में मौन रहकर ही अपना जीवन गुज़ारो!",
+      "english_meaning": "Worldly folk cannot endure the Truth when it is spoken,  \nSpeak the Truth, and at thy throat in fury they will fly!  \nNear a truthful soul they will never sit or abide,  \nYet to the true lover, Truth is the sweetest nectar from on high!  \nWherefore, O heart, pass thy worldly days in quiet silence!  \n\nThe Truth shatters the rigid walls of dogma and outward law,  \nYet in the lover's home it kindles a joyous wedding light!  \nFor those worn weary by rituals and hollow formal paths,  \nTruth builds a fresh kingdom of radiant spiritual delight!  \nWherefore, O heart, pass thy worldly days in quiet silence!  \n\nYet silence is impossible for the intoxicated lover,  \nWhose soul has caught the intoxicating fragrance of the True!  \nHaving abandoned the false expanse of earthly illusions,  \nShe weaves the garland of eternal union, pure and new!  \nWherefore, O heart, pass thy worldly days in quiet silence!  \n\nNow Bulleh Shah speaks the absolute Truth without fear,  \nUnveiling the hidden essence of law and mystic way!  \nOpening wide the gate to the Fourth Realm of supreme light,  \nRedeeming the weary seeker who had lost the earthly day!  \nWherefore, O heart, pass thy worldly days in quiet silence!"
+    }
+  ]
+}

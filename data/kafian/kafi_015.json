@@ -1,0 +1,89 @@
+{
+  "id": 15,
+  "title": "15. बंसी काहन अचरज बजाई",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "बंसी वालिआ चाका रांझा, तेरा सुर है सभ नाल सांझा,\nतेरियां मौजां साडा मांझा, साडी सुर तैं आप मिलाई ।\nबंसी काहन अचरज बजाई ।\n\nबंसी वालिआ काहन कहावें, सब दा नेक अनूप मनावें,\nअक्खियां दे विच नज़र ना आवें, कैसी बिखड़ी खेल रचाई ।\nबंसी काहन अचरज बजाई ।\n\nबंसी सभ कोई सुने सुणावे, अरथ इस दा कोई विरला पावे,\nजो कोई अनहद की सुर पावे, सो इस बंसी का शौदाई ।\nबंसी काहन अचरज बजाई ।\n\nसुणीआं बंसी दियां घंगोरां, कूकां तन मन वांङू मोरां,\nडिठियां इस दियां तोड़ां जोड़ां, इक सुर दी सभ कला उठाई ।\nबंसी काहन अचरज बजाई ।\n\nइस बंसी दा लंमा लेखा, जिस ने ढूंडा तिस ने देखा,\nशादी इस बंसी दी रेखा, एस वजूदों सिफत उठाई ।\nबंसी काहन अचरज बजाई ।\n\nइस बंसी दे पंज सत तारे, आप आपनी सुर भरदे सारे,\nइक सुर सभ दे विच दम मारे, साडी इस ने होश भुलाई ।\nबंसी काहन अचरज बजाई ।\n\nबुल्ल्हा पुज्ज पए तकरार, बूहे आण खलोते यार,\nरक्खीं कलमे नाल ब्योपार, तेरी हज़रत भरे गवाही ।\nबंसी काहन अचरज बजाई ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "बंसी वालिआ चाका रांझा, तेरा सुर है सभ नाल सांझा,",
+          "hindi_gloss": "बंसी (बांसुरी) वालिआ (वाले) चाका (ग्वाले/सेवक) रांझा (रांझा), तेरा (तुम्हारा) सुर (स्वर/संगीत) है (है) सभ (सबके) नाल (साथ) सांझा (साझा/समान),",
+          "english_gloss": "bansi (flute) waalia (player) chaaka (cowherd) ranjha (Ranjha), tera (your) sur (melody) hai (is) sabh (all) naal (with) saanjha (shared/common),"
+        },
+        {
+          "original": "तेरियां मौजां साडा मांझा, साडी सुर तैं आप मिलाई ।",
+          "hindi_gloss": "तेरियां (तुम्हारी) मौजां (आनंद-तरंगों में) साडा (हमारा) मांझा (मांझा/किनारा), साडी (हमारी) सुर (धुन) तैं (तुमने) आप (स्वयं) मिलाई (मिला ली है) ।",
+          "english_gloss": "teriyaan (your) maujaan (waves of bliss) saada (our) maanjha (midstream), saadi (our) sur (tune) tain (you) aap (yourself) milaai (harmonized) ."
+        },
+        {
+          "original": "बंसी काहन अचरज बजाई ।",
+          "hindi_gloss": "बंसी (बांसुरी) काहन (कान्हा/कृष्ण ने) अचरज (अद्भुत/विस्मयकारी) बजाई (बजाई है) ।",
+          "english_gloss": "bansi (flute) kaahan (Krishna) achraj (wondrous) bajaai (has played) ."
+        },
+        {
+          "original": "बंसी वालिआ काहन कहावें, सब दा नेक अनूप मनावें,",
+          "hindi_gloss": "बंसी (बांसुरी) वालिआ (वाला) काहन (कान्हा) कहावें (कहलाते हो), सब (सबका) दा (का) नेक (कल्याण) अनूप (अनोखा/सुंदर) मनावें (चाहते/मनाते हो),",
+          "english_gloss": "bansi (flute) waalia (bearer) kaahan (Krishna) kahaaven (are called), sab (of all) da (of) nek (good/welfare) anoop (matchless) manaaven (celebrate/seek),"
+        },
+        {
+          "original": "अक्खियां दे विच नज़र ना आवें, कैसी बिखड़ी खेल रचाई ।",
+          "hindi_gloss": "अक्खियां (आंखों) दे (के) विच (बीच) नज़र (दिखाई) ना (नहीं) आवें (आते), कैसी (कैसा) बिखड़ी (कठिन/दुर्गम) खेल (खेल) रचाई (रचाया है) ।",
+          "english_gloss": "akkhiyaan (eyes) de (of) vich (in) nazar (sight) na (not) aaven (appear), kaisi (what an) bikhdi (intricate/difficult) khel (game) rachaai (have staged) ."
+        },
+        {
+          "original": "बंसी सभ कोई सुने सुणावे, अरथ इस दा कोई विरला पावे,",
+          "hindi_gloss": "बंसी (बांसुरी) सभ (सब) कोई (कोई) सुने (सुनता है) सुणावे (और सुनाता है), अरथ (गहरा अर्थ) इस (इसका) दा (का) कोई (कोई) विरला (विरला साधक ही) पावे (पाता है),",
+          "english_gloss": "bansi (flute) sabh (every) koi (one) sune (hears) sunaave (recounts), arath (meaning) is (its) da (of) koi (any) virla (rare one) paave (comprehends),"
+        },
+        {
+          "original": "जो कोई अनहद की सुर पावे, सो इस बंसी का शौदाई ।",
+          "hindi_gloss": "जो (जो) कोई (कोई) अनहद (अनाहत नाद) की (का) सुर (स्वर) पावे (पा लेता है), सो (वही) इस (इस) बंसी (बांसुरी) का (का) शौदाई (दीवाना/प्रेमी है) ।",
+          "english_gloss": "jo (who) koi (ever) anhad (unstruck) kee (of) sur (resonance) paave (attains), so (he alone) is (this) bansi (flute) ka (of) shaudaai (intoxicated lover) ."
+        },
+        {
+          "original": "सुणीआं बंसी दियां घंगोरां, कूकां तन मन वांङू मोरां,",
+          "hindi_gloss": "सुणीआं (सुनीं जब) बंसी (बांसुरी) दियां (की) घंगोरां (गंभीर झंकारें), कूकां (कूक उठा) तन (तन) मन (मन) वांङू (की तरह) मोरां (मोरो की),",
+          "english_gloss": "suniyaan (heard) bansi (flute) diyaan (of) ghangoraan (resounding chords), kookaan (cries out) tan (body) man (mind) vaangoo (like) moraan (peacocks),"
+        },
+        {
+          "original": "डिठियां इस दियां तोड़ां जोड़ां, इक सुर दी सभ कला उठाई ।",
+          "hindi_gloss": "डिठियां (देखे जब) इस (इसके) दियां (के) तोड़ां (राग-रागिनियों के तोड़) जोड़ां (और जोड़), इक (एक ही) सुर (स्वर) दी (की) सभ (सारी) कला (लीला/सृष्टि) उठाई (प्रकट की है) ।",
+          "english_gloss": "dithiyaan (beheld) is (its) diyaan (of) todaan (melodic cadences) jodaan (harmonies), ik (one) sur (note) dee (of) sabh (all) kala (creation/manifestation) uthaai (raised) ."
+        },
+        {
+          "original": "इस बंसी दा लंमा लेखा, जिस ने ढूंडा तिस ने देखा,",
+          "hindi_gloss": "इस (इस) बंसी (बांसुरी) दा (का) लंमा (अथाह/लंबा) लेखा (रहस्य/हिसाब है), जिस (जिसने) ने (ने) ढूंडा (खोजा) तिस (उसी) ने (ने) देखा (दीदार किया),",
+          "english_gloss": "is (this) bansi (flute) da (of) lanma (vast/deep) lekha (account), jis (whoever) ne (by) dhoonda (sought) tis (he) ne (by) dekha (beheld),"
+        },
+        {
+          "original": "शादी इस बंसी दी रेखा, एस वजूदों सिफत उठाई ।",
+          "hindi_gloss": "शादी (परमानंद/मिलन) इस (इस) बंसी (बांसुरी) दी (की) रेखा (भाग्य-रेखा है), एस (इस नश्वर) वजूदों (अस्तित्व से) सिफत (दिव्य महिमा) उठाई (प्रकट कर दी) ।",
+          "english_gloss": "shaadi (blissful union) is (this) bansi (flute) dee (of) rekha (destiny/line), es (this mortal) vajoodon (body/existence) sifat (divine praise) uthaai (raised) ."
+        },
+        {
+          "original": "इस बंसी दे पंज सत तारे, आप आपनी सुर भरदे सारे,",
+          "hindi_gloss": "इस (इस) बंसी (बांसुरी) दे (के) पंज (पांच) सत (और सात) तारे (सुर-तत्व), आप (अपनी) आपनी (अपनी) सुर (रागिनी) भरदे (भरते हैं) सारे (सभी),",
+          "english_gloss": "is (this) bansi (flute) de (of) panj (five) sat (seven) taare (subtle strings/notes), aap (their) aapni (own) sur (tones) bharde (fill) saare (all),"
+        },
+        {
+          "original": "इक सुर सभ दे विच दम मारे, साडी इस ने होश भुलाई ।",
+          "hindi_gloss": "इक (एक ही) सुर (प्राण-स्वर) सभ (सब) दे (के) विच (भीतर) दम (श्वास) मारे (भरता है), साडी (हमारी) इस (इसने) ने (ने) होश (सांसारिक होश) भुलाई (भुला दी है) ।",
+          "english_gloss": "ik (one) sur (breath/melody) sabh (all) de (of) vich (within) dam (breath) maare (blows), saadi (our) is (this) ne (by) hosh (consciousness) bhulaai (obliterated) ."
+        },
+        {
+          "original": "बुल्ल्हा पुज्ज पए तकरार, बूहे आण खलोते यार,",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) पुज्ज (समाप्त हो) पए (गए) तकरार (सारे विवाद), बूहे (द्वार पर) आण (आकर) खलोते (खड़े हो गए) यार (प्रियतम),",
+          "english_gloss": "bullha (O Bulleh) pujj (exhausted/ceased) paye (have) takraar (disputes), boohe (at the door) aan (coming) khalote (stood) yaar (the Beloved),"
+        },
+        {
+          "original": "रक्खीं कलमे नाल ब्योपार, तेरी हज़रत भरे गवाही ।",
+          "hindi_gloss": "रक्खीं (रखना) कलमे (सत्य के कलमे) नाल (साथ) ब्योपार (आत्मिक व्यापार), तेरी (तेरी भक्ति की) हज़रत (प्रभु/रसूल) भरे (भरेंगे) गवाही (साक्षी) ।",
+          "english_gloss": "rakkheen (keep) kalme (divine Word) naal (with) byopaar (commerce/devotion), teri (your) hazrat (the Divine Presence) bhare (shall bear) gawaahi (testimony) ."
+        }
+      ],
+      "hindi_meaning": "हे बांसुरी बजाने वाले कान्हा रांझा!\nतेरी मुरली का स्वर सबके लिए एक समान और साझा है!\nतेरी मौजों में ही हमारे जीवन का किनारा और बहाव है,\nतूने हमारी धुन को अपनी दिव्य धुन में स्वयं मिला लिया है!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nतू बांसुरी वाला कान्हा कहलाता है,\nसभी के कल्याण और मंगल की कामना करता है!\nपर इन चर्म-चक्षुओं से तू दिखाई नहीं देता,\nकैसा दुर्गम और रहस्यमयी खेल तूने रचाया है!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nइस बांसुरी की धुन हर कोई सुनता और सुनाता है,\nपर इसका वास्तविक आध्यात्मिक अर्थ कोई विरला ही पाता है!\nजो इस अनाहत नाद के स्वर को पहचान लेता है,\nवही इस बंसी का सच्चा दीवाना और प्रेमी बन जाता है!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nजब बांसुरी की गंभीर झंकारें कानों में पड़ीं,\nतो मेरा तन-मन मोर की तरह विरह में कूक उठा!\nजब इसके राग-रागिनियों के जोड़ और तोड़ देखे,\nतो समझ आया कि एक ही स्वर से यह सारा ब्रह्मांड रचा गया है!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nइस बांसुरी का इतिहास और रहस्य अत्यंत गहरा है,\nजिसने सच्चे मन से खोजा उसी ने इसके दीदार किए!\nयह बांसुरी आत्मा के आनंद और परम-मिलन की रेखा है,\nजिसने इस नश्वर शरीर से दिव्य महिमा प्रकट कर दी!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nइस बंसी में पांच और सात स्वर-तत्व समाए हैं,\nसभी अपनी-अपनी रागिनी में झंकृत हो रहे हैं!\nपर उन सब में केवल एक ही प्राण-स्वर गूंज रहा है,\nजिसने हमारी सांसारिक सुध-बुध पूरी तरह भुला दी है!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!\n\nबुल्ले शाह के सारे तर्क और विवाद अब समाप्त हो गए,\nजब साक्षात प्रियतम द्वार पर आकर खड़े हो गए!\nउस एक दिव्य कलमे से ही अपना आत्मिक व्यापार बनाए रखना,\nतेरी भक्ति की गवाही स्वयं तेरा परमात्मा भरेगा!\nकान्हा ने कैसी अद्भुत और विस्मयकारी बांसुरी बजाई है!",
+      "english_meaning": "O cowherd Ranjha, divine Flutist dear!\nThe sweet melody of Thy flute belongs equally to all!\nIn the flow of Thy waves does our life's current steer,\nThou Thyself hast tuned our spirit to Thy celestial call!\nWhat a wondrous and mystical flute has Krishna played!\n\nThou art known as the Flute-bearer Krishna,\nWilling good and radiant grace unto all creation!\nYet Thou remainest invisible to these mortal eyes,\nWhat an intricate, elusive game hast Thou displayed!\nWhat a wondrous and mystical flute has Krishna played!\n\nEveryone hears and repeats the notes of this flute,\nYet rare is the soul who grasps its hidden truth!\nWhoever perceives the unstruck resonance within,\nBecomes an ecstatic devotee of this heavenly flute!\nWhat a wondrous and mystical flute has Krishna played!\n\nWhen the resounding echoes of the flute reached my ear,\nMy body and soul cried out like peacocks in yearning!\nObserving its rhythmic transitions and harmonies clear,\nI saw all manifest creation rising from that one turning!\nWhat a wondrous and mystical flute has Krishna played!\n\nVast and unfathomed is the account of this flute,\nWhoever truly sought, beheld its divine light!\nAuspicious is the grace carved by this flute,\nAwakening celestial glory from mortal plight!\nWhat a wondrous and mystical flute has Krishna played!\n\nThe five and seven subtle strings of this flute,\nVibrate in their respective tones and pitch!\nYet a single breath animates all that is mute,\nWiping away our earthly wits with ecstasy rich!\nWhat a wondrous and mystical flute has Krishna played!\n\nAll disputes and arguments have ceased for Bulleh,\nAs the Divine Beloved arrived at his door!\nKeep thy commerce solely with the sacred Word,\nThy Master Himself shall bear witness evermore!\nWhat a wondrous and mystical flute has Krishna played!"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9,
+  "title": "9. ऐसा मन में आइयो रे",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "ऐसा मन में आइयो रे, दुक्ख सुक्ख सभ वंञाययो रे ।\nहार शिंगार को आग लगाऊं, तन पर ढांड मचाययो रे ।\n\nसुन के ज्ञान कियां ऐसी बातां, नाम-निशान तभी अलघातां,\nकोइल वांङ मैं कूकां रातां, तैं अजे भी तरस ना आइउ रे ।\n\nगल मिरगानी सीस खप्परियां, दरशन की भीख मंगन चढ़आ,\nजोगन नाम बूहलत धरिआ, अंग बिभूत रमायउ रे ।\n\nइश्क मुल्लां ने बांग सुणाई, इह गल्ल वाजब आई,\nकर कर सिदक सिजदे वल धाई, मूंह महराब टिकाययो रे ।\n\nप्रेम नगर वाले उलटे चाले, मैं मोई भर खुशियां नाले,\nआन फसी आपे विच जाले, हस्स हस्स आप कुहाययो रे ।\n\nबुल्ल्हा शौह संग प्रीत लगाई, जिय जामे दी दित्ती साई,\nमुरशद शाह अनायत साईं, जिस दिल मेरा भरमाययो रे ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "ऐसा मन में आइयो रे, दुक्ख सुक्ख सभ वंञाययो रे ।",
+          "hindi_gloss": "ऐसा (ऐसा भाव) मन (मन) में (में) आइयो (आया है) रे (रे), दुक्ख (दुख) सुक्ख (सुख) सभ (सब) वंञाययो (गंवा/मिटा दिया) रे ।",
+          "english_gloss": "aisa (such) man (mind) mein (in) aaiyo (came) re (O friend), dukkh (sorrow) sukkh (joy) sabh (all) vanjaayyo (lost/dissolved) re ."
+        },
+        {
+          "original": "हार शिंगार को आग लगाऊं, तन पर ढांड मचाययो रे ।",
+          "hindi_gloss": "हार (हार) शिंगार (श्रृंगार) को (को) आग (आग) लगाऊं (लगा दूँ), तन (तन) पर (पर/भीतर) ढांड (अग्नि की लपटें) मचाययो (मचा दी हैं) रे ।",
+          "english_gloss": "haar (garlands) shingaar (ornaments) ko (to) aag (fire) lagaaoon (set), tan (body) par (upon/within) dhaand (blaze) machaayyo (stirred) re ."
+        },
+        {
+          "original": "सुन के ज्ञान कियां ऐसी बातां, नाम-निशान तभी अलघातां,",
+          "hindi_gloss": "सुन (सुन) के (कर) ज्ञान (ज्ञान) कियां (की) ऐसी (ऐसी) बातां (बातें), नाम (नाम) निशान (निशान) तभी (तभी) अलघातां (मिट/विलीन हो गए),",
+          "english_gloss": "sun (hearing) ke (having) gyaan (wisdom) kiyaan (of) aisi (such) baataan (words), naam (name) nishaan (trace) tabhi (then) alghaataan (dissolved/vanished),"
+        },
+        {
+          "original": "कोइल वांङ मैं कूकां रातां, तैं अजे भी तरस ना आइउ रे ।",
+          "hindi_gloss": "कोइल (कोयल) वांङ (की तरह) मैं (मैं) कूकां (कूकती हूँ) रातां (रातों में), तैं (तुझे) अजे (अभी) भी (भी) तरस (दया) ना (नहीं) आइउ (आई) रे ।",
+          "english_gloss": "koil (cuckoo) vaang (like) main (I) kookaan (cry) raataan (in nights), tain (unto you) aje (yet) bhee (even) taras (pity) na (not) aaiu (came) re ."
+        },
+        {
+          "original": "गल मिरगानी सीस खप्परियां, दरशन की भीख मंगन चढ़आ,",
+          "hindi_gloss": "गल (गले में) मिरगानी (मृगछाला) सीस (सिर पर) खप्परियां (खप्पर), दरशन (दीदार) की (की) भीख (भीख) मंगन (मांगने) चढ़आ (निकली हूँ),",
+          "english_gloss": "gal (on neck) mirgaani (deer-skin) sees (on head) khappariyaan (begging bowl), darshan (vision) kee (of) bheekh (alms) mangan (to beg) chadha (set forth),"
+        },
+        {
+          "original": "जोगन नाम बूहलत धरिआ, अंग बिभूत रमायउ रे ।",
+          "hindi_gloss": "जोगन (जोगन का) नाम (नाम) बूहलत (वेष) धरिआ (धारण किया है), अंग (अंगों पर) बिभूत (भस्म) रमायउ (रमा ली है) रे ।",
+          "english_gloss": "jogan (ascetic yogini) naam (name) boohlat (guise) dharia (held/donned), ang (on limbs) bibhoot (ashes) ramaayu (smeared) re ."
+        },
+        {
+          "original": "इश्क मुल्लां ने बांग सुणाई, इह गल्ल वाजब आई,",
+          "hindi_gloss": "इश्क (प्रेम रूपी) मुल्लां (मुल्ला ने) बांग (अज़ान) सुणाई (सुनाई), इह (यह) गल्ल (बात) वाजब (सत्य/उचित) आई (जान पड़ी),",
+          "english_gloss": "ishq (love) mullaan (mullah) ne (by) baang (call to prayer) sunaai (sounded), eh (this) gall (matter) vaajab (just/righteous) aai (appeared),"
+        },
+        {
+          "original": "कर कर सिदक सिजदे वल धाई, मूंह महराब टिकाययो रे ।",
+          "hindi_gloss": "कर (कर) कर (करके) सिदक (सच्चा विश्वास) सिजदे (सजदे की) वल (ओर) धाई (दौड़ी), मूंह (मुख पर) महराब (इबादत का मेहराब) टिकाययो (सजा लिया) रे ।",
+          "english_gloss": "kar (with) kar (deep) sidak (sincere faith) sijde (prostration) val (towards) dhaai (rushed), moonh (upon face) mehraab (prayer arch) tikaayyo (adorned) re ."
+        },
+        {
+          "original": "प्रेम नगर वाले उलटे चाले, मैं मोई भर खुशियां नाले,",
+          "hindi_gloss": "प्रेम (प्रेम) नगर (नगर) वाले (की) उलटे (उल्टी) चाले (रीत है), मैं (मैं) मोई (मिटकर/मरकर) भर (भर उठी हूँ) खुशियां (आनंद से) नाले (साथ ही),",
+          "english_gloss": "prem (love) nagar (town) waale (of) ulte (inverted) chaale (ways), main (I) moi (having died) bhar (filled) khushiyaan (with joys) naale (alongside),"
+        },
+        {
+          "original": "आन फसी आपे विच जाले, हस्स हस्स आप कुहाययो रे ।",
+          "hindi_gloss": "आन (आकर) फसी (फंस गई) आपे (अपने-आप) विच (में) जाले (प्रेम-जाल के), हस्स (हंस-हंसकर) हस्स (हंसकर) आप (स्वयं को) कुहाययो (कुर्बान कर दिया) रे ।",
+          "english_gloss": "aan (coming) phasi (trapped) aape (voluntarily) vich (in) jaale (snare), hass (laughing) hass (smiling) aap (self) kuhaayyo (slaughtered/sacrificed) re ."
+        },
+        {
+          "original": "बुल्ल्हा शौह संग प्रीत लगाई, जिय जामे दी दित्ती साई,",
+          "hindi_gloss": "बुल्ल्हा (बुल्ले ने) शौह (परमेश्वर) संग (साथ) प्रीत (प्रेम) लगाई (लगाया है), जिय (प्राण) जामे (और शरीर) दी (का) दित्ती (दे दिया) साई (बयाना/संकल्प),",
+          "english_gloss": "bullha (Bulleh) shauh (with Supreme Lord) sang (with) preet (love) lagaai (forged), jiy (soul) jaame (body) dee (of) ditti (gave) saai (pledge/token),"
+        },
+        {
+          "original": "मुरशद शाह अनायत साईं, जिस दिल मेरा भरमाययो रे ।",
+          "hindi_gloss": "मुरशद (गुरु) शाह (शाह) अनायत (इनायत) साईं (स्वामी हैं), जिस (जिन्होंने) दिल (हृदय) मेरा (मेरा) भरमाययो (मोहित कर लिया है) रे ।",
+          "english_gloss": "murshad (Master) shah (Shah) anaayat (Inayat) saaeen (is the Lord), jis (who) dil (heart) mera (my) bharmaayyo (captivated/enamored) re ."
+        }
+      ],
+      "hindi_meaning": "मन में ऐसा वैराग्य समाया है,\nकि सुख और दुख का भेद ही मिट गया है!\nसारे हार-श्रृंगार को आग लगा दूँ,\nतन के भीतर विरह की आग धधक उठी है!\n\nज्ञान और आत्म-साक्षात्कार की ऐसी बातें सुनीं,\nकि सारे सांसारिक नाम और निशान मिट गए!\nरात भर कोयल की तरह विरह में कूकती हूँ,\nपर तुझको ज़रा भी तरस न आया!\n\nगले में मृगछाला, सिर पर खप्पर लिए,\nतेरे दीदार की भीख मांगने निकली हूँ!\nजोगन का भेष धारण कर लिया है,\nऔर सारे अंगों पर भस्म रमा ली है!\n\nइश्क रूपी मुल्लां ने जब अज़ान सुनाई,\nतो यही बात सत्य और अनिवार्य जान पड़ी!\nसच्चे विश्वास से सजदा करने भागी,\nऔर हृदय के मुख पर इबादत का मेहराब सजा लिया!\n\nप्रेम-नगर की रीत ही बड़ी उल्टी है,\nजहाँ मिटकर भी प्राणों में आनंद भर आया!\nअपने-आप प्रेम के जाल में आकर फंसी,\nऔर हंसते-हंसते खुद को कुर्बान कर दिया!\n\nबुल्ले शाह ने उस परमेश्वर से ऐसी प्रीत लगाई,\nकि अपने प्राणों का जामा ही उसके नाम कर दिया!\nवे सतगुरु शाह इनायत ही मेरे स्वामी हैं,\nजिन्होंने मेरे दिल को अपने प्रेम में मोह लिया!",
+      "english_meaning": "Such intense longing has enveloped my mind,\nThat all sorrow and pleasure are completely lost!\nI would burn every worldly jewel and adornment,\nA raging blaze of separation burns within my flesh!\n\nHearing these profound words of divine wisdom,\nAll earthly names and identities vanished away!\nLike a lonely cuckoo I cry through the night,\nYet Your heart remains unmoved by pity!\n\nWith deer-skin on my neck and begging bowl in hand,\nI have set out begging for the alms of Thy vision!\nI have assumed the matted guise of an ascetic yogini,\nSmearing holy ashes across all my limbs!\n\nWhen Love, like the Mullah, gave the call to prayer,\nThis truth appeared righteous and inescapable!\nWith sincere faith I rushed to prostrate,\nAdorning my countenance with the prayer-arch of devotion!\n\nUpside down are the ways of Love's domain,\nWhere in dying, the heart is filled with pure bliss!\nWillingly I walked into love's tender snare,\nLaughing with joy as I surrendered in sacrifice!\n\nBulleh Shah has forged love with the Eternal Beloved,\nOffering his very soul and body as an earnest pledge!\nMaster Shah Inayat is my divine Lord,\nWho has captivated my heart with His celestial grace!"
+    }
+  ]
+}

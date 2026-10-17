@@ -1,0 +1,364 @@
+{
+  "id": 91,
+  "title": "मैं उडीकां कर रही कदी आ कर फेरा",
+  "title_english": "I Stand Waiting in Yearning: Come Sometime and Grace My Hearth!",
+  "historical_context": "यह 11 बंधों की एक अत्यंत मार्मिक और महाकाव्यात्मक विरह-काफी है। विरहिणी आत्मा अपने मुर्शिद हज़रत शाह इनायत कादरी और परमेश्वर के आगमन की प्रतीक्षा कर रही है। इसमें लोक-संस्कृति के शृंगार (सिंदूर, रत्तड़ा चोला, कंगन) से लेकर मृत्यु, कब्र (गोर), पुल-सिरात और प्रलय-वेला तक के दृश्य चित्रित हैं। साधक हाजियों की तरह मक्का जाने के स्थान पर अपने प्रियतम के मुखड़े को ही अपना काबा मानता है।",
+  "meter": "पंजाबी काफी (मात्रािक छंद, धुन: मैं उडीकां कर रही)",
+  "raga": "राग काफी / जोगिया",
+  "theme": "प्रतीक्षा, विरह की तड़प, मृत्यु और परलोक (पुल-सिरात), शाह इनायत का दीदार",
+  "stanzas": [
+    {
+      "original": [
+        "मैं जो तैनूं आख्या कोई घल्ल सुनेहड़ा ।  ",
+        "चशमां सेज विछाईआं दिल कीता डेरा ।  ",
+        "लटक चलेंदा आंवदा शाह इनायत मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैंने) जो (जो) तैनूं (तुझसे) आख्या (कहा था कि) कोई (कोई तो) घल्ल (भेज) सुनेहड़ा (संदेश),",
+        "चशमां (नेत्रों में) सेज (प्रेम-शय्या) विछाईआं (बिछा रखी है) दिल (और हृदय में) कीता (बनाया है तेरा) डेरा (आवास),",
+        "लटक (मस्तानी चाल से) चलेंदा (चलता हुआ) आंवदा (आ रहा है) शाह (शाह) इनायत (इनायत) मेरा (मेरा प्यारा सद्गुरु),",
+        "मैं (मैं तेरी) उडीकां (प्रतीक्षा/राह देख) कर (कर) रही (रही हूँ) कदी (कभी तो) आ (आकर) कर (कर ले यहाँ अपना) फेरा (आगमन) ।"
+      ],
+      "english_gloss": [
+        "मैं (I) जो (who) तैनूं (unto Thee) आख्या (besought) कोई (some) घल्ल (send) सुनेहड़ा (message),",
+        "चशमां (in eyes) सेज (bridal couch) विछाईआं (spread) दिल (in heart) कीता (made) डेरा (abode),",
+        "लटक (with graceful swaying step) चलेंदा (walking) आंवदा (comes) शाह (Shah) इनायत (Inayat) मेरा (mine),",
+        "मैं (I) उडीकां (yearning wait) कर (am making) रही (standing) कदी (sometime) आ (come) कर (make) फेरा (a visit) ।"
+      ],
+      "poetic_hindi": [
+        "मैंने तुझसे कहा था कोई संदेशा भेज प्यारे,",
+        "अंखियों में सेज बिछाई, दिल में तेरा डेरा सँवारे ।",
+        "मस्तानी चाल से आता शाह इनायत मेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "I prayed unto Thee: send a message sweet to heal my sighs;",
+        "My heart Thy dwelling, while the bridal couch is spread in weeping eyes.",
+        "With swaying majesty Shah Inayat strides towards my door:",
+        "I stand waiting in yearning: come sometime and leave me nevermore!"
+      ]
+    },
+    {
+      "original": [
+        "उह अजेहा कौन है जा आखे जेहड़ा ।  ",
+        "मैं विच की तकसीर है मैं बरदा तेरा ।  ",
+        "तैं बाझों मेरा कौन है दिल ढा ना मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "उह (वह) अजेहा (ऐसा) कौन (कौन मध्यस्थ) है (है) जा (जाकर) आखे (जो निवेदन करे) जेहड़ा (जो भी समर्थ हो),",
+        "मैं (मुझ) विच (में) की (क्या) तकसीर (त्रुटि/दोष) है (है), मैं (मैं तो) बरदा (सदा का खरीदा हुआ दास) तेरा (तेरा हूँ),",
+        "तैं (तेरे) बाझों (बिना) मेरा (मेरा) कौन (कौन है संसार में) है, दिल (हृदय) ढा (मत तोड़) ना (न) मेरा (मेरा),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "उह (that) अजेहा (such) कौन (who) है (is) जा (go) आखे (speak) जेहड़ा (whoever can),",
+        "मैं (in me) विच (in) की (what) तकसीर (fault) है (is), मैं (I am) बरदा (the purchased slave) तेरा (Thine),",
+        "तैं (Thee) बाझों (except) मेरा (mine) कौन (who) है (is), दिल (heart) ढा (crush/break) ना (do not) मेरा (mine),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "ऐसा कौन दूत है जो जाकर मेरी अरदास सुनाए ?",
+        "मुझमें क्या अपराध है स्वामी, मैं तो दास तेरा कहलाए ।",
+        "तेरे बिना कौन है मेरा, दिल मत तोड़ो मेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Who is that kindly messenger to bear my trembling plea?",
+        "What is my fault, when I remain a purchased slave to Thee?",
+        "Who else in all the world is mine? Break not this heart of mine:",
+        "I stand waiting in yearning: come sometime with love divine!"
+      ]
+    },
+    {
+      "original": [
+        "दसत कंगन बाहीं चूड़ियां गल नौरंग चोला ।  ",
+        "माही मैनूं कर गिआ कोई रावल रौला ।  ",
+        "जल थल आहीं मारदियां दिल पत्थर मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "दसत (हाथों में) कंगन (कंगन) बाहीं (बाँहों में) चूड़ियां (चूड़ियां और) गल (गले में) नौरंग (नवरंगी) चोला (वस्त्र सज रखा है),",
+        "माही (प्रियतम) मैनूं (मुझको) कर (कर) गिआ (गया है) कोई (कोई संन्यासी जैसा) रावल (जोगी/अवधूत का) रौला (भ्रम/आकर्षण),",
+        "जल (जल और) थल (थल सब मेरी विरह की) आहीं (आहों से कांप रहे हैं, किंतु) मारदियां (हाय) दिल (हृदय) पत्थर (कठोर पत्थर बना है) मेरा (उसका),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "दसत (on hands) कंगन (bracelets) बाहीं (on arms) चूड़ियां (bangles) गल (on neck) नौरंग (nine-colored) चोला (robe),",
+        "माही (Beloved) मैनूं (me) कर (made) गिआ (went) कोई (some) रावल (wandering yogi's) रौला (spell/madness),",
+        "जल (waters) थल (lands) आहीं (sighs) मारदियां (heaving), दिल (heart) पत्थर (stone) मेरा (mine / His),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "हाथों में कंगन, बांहों में चूड़ी, गले नवरंगी चोला,",
+        "माही ने जोगी बन कर मन पर मोहिनी-जादू घोला ।",
+        "जल-थल सब विरह से रोते, पाषाण बना दिल उसका,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Bracelets upon my hands, bright bangles and a nine-hued bridal gown;",
+        "The Beloved like a wandering yogi cast His wild spell through the town.",
+        "Oceans and earth heave heavy sighs, while stone-like seems His heart:",
+        "I stand waiting in yearning: why must we dwell apart?"
+      ]
+    },
+    {
+      "original": [
+        "क्या तेरी मांग संधूर भरी सोहे रतड़ा चोला ।  ",
+        "पई वांग समीं मैं कूकदी कर ढोला ढोला ।  ",
+        "अणगिणवें सूलां पा लिआ सूलां दा खेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "क्या (कैसी सुंदर) तेरी (तेरी) मांग (मांग) संधूर (सिंदूर से) भरी (भरी है और) सोहे (शोभता है) रतड़ा (रक्त-वर्ण लाल) चोला (चोला),",
+        "पई (पड़कर) वांग (समान) समीं (सम्मी—विरहिणी नायिका के) मैं (मैं) कूकदी (पुकारती फिरती हूँ) कर (कह-कहकर) ढोला (ढोला) ढोला (ढोला),",
+        "अणगिणवें (अनगिनत) सूलां (विरह-शूलों ने) पा (डाल) लिआ (लिया है) सूलां (कांटों) दा (का) खेरा (घेरा चारों ओर),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "क्या (how) तेरी (thy) मांग (parting of hair) संधूर (vermilion) भरी (filled) सोहे (shines) रतड़ा (crimson red) चोला (robe),",
+        "पई (like) वांग (as) समीं (Sammi/folk heroine) मैं (I) कूकदी (cry aloud) कर (calling) ढोला (Beloved) ढोला (Beloved),",
+        "अणगिणवें (countless) सूलां (thorns/spikes of grief) पा (cast) लिआ (have) सूलां (of thorns) दा (a) खेरा (circle/siege),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "मांग सिंदूर भरी है सोहे लाल सुहाग का चोला,",
+        "सम्मी सदृश पुकारूँ वन में: 'ढोला, प्यारे ढोला!'",
+        "अनगिन कांटों ने मुझे घेरा, विरह-शूल का डेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Vermilion in the parting of my hair, a crimson bridal vest;",
+        "Like folk-maid Sammi crying aloud 'Beloved!' in my chest.",
+        "Countless sharp thorns of separation hedge my soul around:",
+        "I stand waiting in yearning: let Thy sweet step be found!"
+      ]
+    },
+    {
+      "original": [
+        "मैं जाता दुक्ख घर आपने दुक्ख पै घर कईआं ।  ",
+        "जेहा सिर सिर भांबड़ भड़क्या सभ टप्पदियां गईआं ।  ",
+        "हुन आण पई सिर आपने सभ चुक्क गिआ झेड़ा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैंने) जाता (समझा था कि) दुक्ख (यह विरह-दुख केवल) घर (घर में) आपने (मेरे ही है, किंतु यह) दुक्ख (दुख तो) पै (पड़ा है) घर (घर-घर में) कईआं (अनेकों के),",
+        "जेहा (जैसा) सिर (सिर पर) सिर (सिर पर) भांबड़ (विरह का शोला) भड़क्या (धधका), सभ (सब सखियां) टप्पदियां (कूद-कूद कर पार) गईआं (हो गईं),",
+        "हुन (अब यह विपत्ति) आण (आकर) पई (पड़ी है) सिर (सिर पर) आपने (मेरे अपने), सभ (समस्त) चुक्क (मिट) गिआ (गया) झेड़ा (संसार का विवाद),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "मैं (I) जाता (thought) दुक्ख (grief was) घर (in house) आपने (my own), दुक्ख (yet grief) पै (fell in) घर (houses) कईआं (of many),",
+        "जेहा (as) सिर (upon head) सिर (each head) भांबड़ (blazing flame) भड़क्या (leaped), सभ (all) टप्पदियां (leaping across) गईआं (went),",
+        "हुन (now) आण (coming) पई (fell upon) सिर (head) आपने (my own), सभ (all) चुक्क (ended) गिआ (is) झेड़ा (dispute),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "समझा था दुख केवल मेरा, दुख तो घर-घर छाया,",
+        "जिस-जिस पर शोला भड़का, कूद-कूद पार सिधाया ।",
+        "अब आ पड़ा सिर पर मेरे, मिट गया सब झगड़ा-झेड़ा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "I thought this agony was mine alone, but grief invades each floor;",
+        "As leaping flames upon each forehead shone, others leaped to the shore.",
+        "Now falls the trial upon my head, ending each petty plea:",
+        "I stand waiting in yearning: come sometime unto me!"
+      ]
+    },
+    {
+      "original": [
+        "जेहड़ियां साहवरे मत्तियां सोई पेके होवन ।  ",
+        "शहु जिन्हां दे कायल ए चढ़ सेजे सोवन ।  ",
+        "जिस घर कौंत ना बोलिआ सोई खाली वेढ़ा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "जेहड़ियां (जो स्त्रियां/आत्माएं) साहवरे (ससुराल में मान पाने वाली) मत्तियां (मदमस्त हैं), सोई (वही) पेके (मायके में भी आदरणीय) होवन (होती हैं),",
+        "शहु (स्वामी-प्रभु) जिन्हां (जिनके प्रेम का) दे (का) कायल (प्रशंसक/वश में) ए (है), चढ़ (चढ़कर) सेजे (प्रेम-शय्या पर) सोवन (आनंद से सोती हैं),",
+        "जिस (जिस) घर (हृदय-घर में) कौंत (कांत/प्रियतम) ना (नहीं) बोलिआ (बोलता), सोई (वही) खाली (सूना/उजाड़) वेढ़ा (आंगन रहता है),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "जेहड़ियां (those who) साहवरे (in in-laws' home) मत्तियां (honored/exalted), सोई (they alone) पेके (in father’s home) होवन (are esteemed),",
+        "शहु (Lord) जिन्हां (whose) दे (of) कायल (charmed/won over) ए (is), चढ़ (ascending) सेजे (bridal bed) सोवन (slumber in bliss),",
+        "जिस (in which) घर (hearth) कौंत (Husband/Lord) ना (not) बोलिआ (spoke), सोई (that) खाली (desolate) वेढ़ा (courtyard remains),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "जो ससुराल में मान पातीं, मायके में वही सोहें,",
+        "जिनके साजन वश में आए, वे सेज सुहाग की मोहें ।",
+        "जिस घर में कांत न बोले, सूना वह आँगन-डेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Those praised in their Husband's home are blessed in their father's hall;",
+        "Whose beauty has captivated the King, mount the bridal bed at His call.",
+        "The courtyard where the Spouse speaks not is desolate and bare:",
+        "I stand waiting in yearning: come, answer my soul's prayer!"
+      ]
+    },
+    {
+      "original": [
+        "मैं ढूंड शहर भालिआ घल्लां कासद केहड़ा ।  ",
+        "हुन चढ़ियां डोली प्रेम दी दिल धड़के मेरा ।  ",
+        "दिलदार मुहंमद आरबी हत्थ पकड़ीं मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैंने) ढूंड (ढूंढकर) शहर (पूरा नगर) भालिआ (छान मारा), घल्लां (भेजूं किस) कासद (संदेशवाहक को) केहड़ा (कौन ऐसा विश्वस्त है),",
+        "हुन (अब तो मैं) चढ़ियां (चढ़ बैठी हूँ) डोली (डोली में) प्रेम (प्रेम की), दिल (और हृदय) धड़के (धड़क रहा है) मेरा (मेरा),",
+        "दिलदार (हे परम प्रेमी) मुहंमद (मुहम्मद) आरबी (अरबी रसूल), हत्थ (हाथ) पकड़ीं (पकड़ लेना) मेरा (मेरा),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "मैं (I) ढूंड (searching) शहर (the city) भालिआ (scoured), घल्लां (whom send) कासद (messenger) केहड़ा (which faithful one),",
+        "हुन (now) चढ़ियां (mounted) डोली (the palanquin) प्रेम (of Love) दी (of), दिल (heart) धड़के (flutters) मेरा (mine),",
+        "दिलदार (O Beloved) मुहंमद (Muhammad) आरबी (the Arabian Prophet), हत्थ (hand) पकड़ीं (hold Thou) मेरा (mine),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "पूरा नगर छान मारा, किस कासिद को भेजूँ प्यारा ?",
+        "प्रेम की डोली चढ़ी हूँ अब, दिल धड़के विह्वल सारा ।",
+        "हे दिलदार मुहम्मद अरबी! पकड़ो हाथ तुम मेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "I searched through all the city streets: what courier can I send?",
+        "Mounting the palanquin of Love, my fluttering heart must bend.",
+        "O Sweet Beloved of Arabia, Muhammad, take my hand:",
+        "I stand waiting in yearning: come lead to the Promise Land!"
+      ]
+    },
+    {
+      "original": [
+        "पहली पउड़ी उतरी पुल-सराते डेरा ।  ",
+        "हाजी मक्के जाहुन मैं मुक्ख वेखां तेरा ।  ",
+        "आ इनायत कादरी दिल चाहे मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "पहली (पहली) पउड़ी (सीढ़ी पर जब पैर) उतरी (उतारा, तो) पुल-सराते (पुल-सिरात के मुहाने पर) डेरा (डेरा जम गया),",
+        "हाजी (हाजी लोग भले ही) मक्के (मक्का तीर्थ की ओर) जाहुन (जाएं), मैं (किंतु मैं तो केवल) मुक्ख (मुखड़ा) वेखां (देखना चाहती हूँ) तेरा (तेरा),",
+        "आ (आ जा) इनायत (हे शाह इनायत) कादरी (कादरी पीर), दिल (हृदय) चाहे (चाहता है) मेरा (मेरा तुझे देखना),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "पहली (the first) पउड़ी (step) उतरी (descended), पुल-सराते (upon the bridge of Sirat) डेरा (encampment),",
+        "हाजी (pilgrims) मक्के (to Mecca) जाहुन (let go), मैं (I) मुक्ख (face) वेखां (gaze upon) तेरा (Thine),",
+        "आ (come) इनायत (Inayat) कादरी (Qadiri Master), दिल (heart) चाहे (yearns) मेरा (mine),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "पहली सीढ़ी उतरी तो पुल-सिरात पर पड़ा डेरा,",
+        "हाजी मक्के जाएँ भले, मैं मुख देखूँ बस तेरा ।",
+        "आ जाओ इनायत कादरी! मन चाहे दरस सवेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Stepping upon the first stair down, I pitch my tent on Sirat's brink;",
+        "Let pilgrims journey to Mecca’s stone—of Thy face alone I think!",
+        "Come, Inayat Qadiri, my soul's desire, my guiding light:",
+        "I stand waiting in yearning: dispel this lonely night!"
+      ]
+    },
+    {
+      "original": [
+        "पहली रात है साल दी दिल खौफ़े मेरा ।  ",
+        "डूंघी गोर कढेंद्या होया लहदों डेरा ।  ",
+        "पहला बन्द खोल्हद्यां मूंह काअबे मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "पहली (प्रथम) रात (रात है) है (है) साल (नए साल की/कब्र की), दिल (हृदय) खौफ़े (भयभीत कांपता है) मेरा (मेरा),",
+        "डूंघी (गहरी) गोर (कब्र) कढेंद्या (खोदते हुए) होया (हुआ) लहदों (कब्र की संकरी कोठरी में) डेरा (डेरा),",
+        "पहला (कफन का पहला) बन्द (बंधन) खोल्हद्यां (खोलते ही) मूंह (मुखड़ा) काअबे (काबा की दिशा में किया गया) मेरा (मेरा),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "पहली (the first) रात (night) है (is) साल (of the year/grave), दिल (heart) खौफ़े (trembles in fear) मेरा (mine),",
+        "डूंघी (deep) गोर (grave) कढेंद्या (digging) होया (made) लहदों (in the burial niche) डेरा (camp),",
+        "पहला (the first) बन्द (knot of shroud) खोल्हद्यां (unloosing) मूंह (face) काअबे (towards Kaaba) मेरा (mine),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "कब्र की पहली रात है आई, दिल कांपे थर-थर मेरा,",
+        "गहरी गोर में खोदी कोठरी, लहद में डाला डेरा ।",
+        "कफ़न का पहला बंद खुला, मुख काबे की ओर फेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "The first grim midnight in the tomb sets my poor heart quaking low;",
+        "Digging the deep and narrow grave, down to the earthen trench I go.",
+        "Unloosing the shroud's first binding knot, turning towards the sacred stone:",
+        "I stand waiting in yearning: leave me not here alone!"
+      ]
+    },
+    {
+      "original": [
+        "मिली है बांग रसूल दी फुल्ल खिड़्या मेरा ।  ",
+        "सदा होया मैं हाज़री हां हाज़र तेरा ।  ",
+        "हर पल तेरी हाज़री इहो सजदा मेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "मिली (सुनाई पड़ी) है (है) बांग (अज़ान/पुकार) रसूल (रसूल की), दी (से) फुल्ल (कमल-पुष्प) खिड़्या (खिल उठा) मेरा (मेरा हृदय),",
+        "सदा (सदा के लिए) होया (हो गई) मैं (मेरी) हाज़री (उपस्थिति), हां (हूँ मैं सदा) हाज़र (उपस्थित) तेरा (तेरा सेवक),",
+        "हर (प्रत्येक) पल (क्षण) तेरी (तेरी) हाज़री (उपस्थिति में रहना ही) इहो (यही) सजदा (सच्चा सजदा है) मेरा (मेरा),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "english_gloss": [
+        "मिली (heard) है (is) बांग (the call) रसूल (of the Prophet) दी (of), फुल्ल (flower) खिड़्या (bloomed) मेरा (my heart),",
+        "सदा (forever) होया (became) मैं (my) हाज़री (attendance), हां (am I) हाज़र (present) तेरा (Thy servant),",
+        "हर (every) पल (moment) तेरी (Thy) हाज़री (presence) इहो (this is) सजदा (prostration) मेरा (mine),",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "poetic_hindi": [
+        "रसूल की पावन बाँग सुनी तो खिल उठा कमल-मन मेरा,",
+        "सदा-सदा की हाज़िरी पाई, मैं हाज़िर सेवक तेरा ।",
+        "हर पल तेरी हाज़िरी में रहना, यही सजदा है मेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Hearing the Prophet’s holy call, my blossoming heart rejoices free;",
+        "Enrolled forever in Thy court: 'Behold, I stand present before Thee!';",
+        "To dwell each instant in Thy sight is my eternal, living prayer:",
+        "I stand waiting in yearning: come, O Beloved Fair!"
+      ]
+    },
+    {
+      "original": [
+        "बुल्ल्हा भड़कन शहु लई सीने विच भाहीं ।  ",
+        "औखा पैंडा प्रेम दा सो घटदा नाहीं ।  ",
+        "पै धक्के दिल विच झेड़ दे सिर धाईं बेरा ।  ",
+        "मैं उडीकां कर रही कदी आ कर फेरा ।"
+      ],
+      "hindi_gloss": [
+        "बुल्ल्हा (बुल्ला कहता है) भड़कन (धधक रही हैं) शहु (प्रभु के) लई (लिए) सीने (हृदय) विच (में) भाहीं (विरह की ज्वालाएं),",
+        "औखा (कठिन है) पैंडा (मार्ग) प्रेम (प्रेम) दा (का), सो (जो कभी) घटदा (कम) नाहीं (नहीं होता),",
+        "पै (पड़ रहे हैं) धक्के (धक्के) दिल (हृदय) विच (में) झेड़ (विवादों) दे (के), सिर (सिर पर) धाईं (दौड़ती हुई विपदाओं का) बेरा (बेड़ा आ पड़ा है),",
+        "मैं (मैं तेरी) उडीकां (प्रतीक्षा) कर (कर) रही (रही हूँ) कदी (कभी तो) आ (आकर) कर (कर ले) फेरा (फेरा) ।"
+      ],
+      "english_gloss": [
+        "बुल्ल्हा (Bulleh says) भड़कन (blazing) शहु (for the Lord) लई (for) सीने (in chest) विच (in) भाहीं (flames),",
+        "औखा (arduous is) पैंडा (the road) प्रेम (of Love) दा (of), सो (which) घटदा (diminishes) नाहीं (not),",
+        "पै (buffeted by) धक्के (blows) दिल (heart) विच (in) झेड़ (of strife) दे (of), सिर (upon head) धाईं (surging) बेरा (fleet of sorrows),",
+        "मैं (I) उडीकां (wait in yearning) कर (am) रही (standing) कदी (sometime) आ (come) कर (make) फेरा (a visit) ।"
+      ],
+      "poetic_hindi": [
+        "बुल्ल्हा! सीने में विरह-ज्वाला भड़कती, घटती नाहीं,",
+        "कठिन पंथ है प्रेम का, जग-झंझट धक्के खाई ।",
+        "सिर पर दुखों का बेड़ा डोले, दिल बेचैन घनेरा,",
+        "मैं बाट जोह रही, कभी आ कर ले फेरा !"
+      ],
+      "poetic_english": [
+        "Flames of longing for the Lord blaze in poor Bulleh’s breast;",
+        "Rugged the pathway of true Love, giving no hour of rest.",
+        "Buffeted by the world’s harsh strife, amidst the stormy sea:",
+        "I stand waiting in yearning: come sometime unto me!"
+      ]
+    }
+  ],
+  "philosophical_meaning": "यह काफी सूफी रहस्यवाद का 'एस्केटोलॉजी' (परलोक-विद्या) और विरह-काव्य का चरम संगम है। डोली (मृत्यु), पुल-सिरात (कर्मों का पुल), गोर (कब्र) और कफन का खुलना—इन सभी कठोर सत्यों के सम्मुख साधक केवल एक ही सहारा जानता है: 'दिलदार मुहम्मद अरबी' और 'इनायत कादरी'। जब तक सांसारिक काबा और हाजियों के अनुष्ठान बाह्य रहते हैं, तब तक आत्मा को शांति नहीं मिलती; शांति तभी मिलती है जब मुर्शिद के प्रत्यक्ष दीदार से हर पल 'हाज़िरी' बन जाता है।"
+}

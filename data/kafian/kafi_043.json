@@ -1,0 +1,129 @@
+{
+  "id": 43,
+  "title": "43. हुण मैं लखिआ सोहणा यार",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "हुण मैं लखिआ सोहणा यार ।\nजिस दे हुसन दा गरम बज़ार ।\n\nजद अहद इक इकल्ला सी, ना ज़ाहर कोई तजल्ला सी,\nना रब्ब रसूल ना अल्लाह सी, ना जबार ते ना कहार ।\nहुण मैं लखिआ सोहणा यार ।\n\nबेचून वा बेचगूना सी, बेशबीह बेनमूना सी,\nना कोई रंग ना नमूना सी, हुण गूनां-गुन हज़ार ।\nहुण मैं लखिआ सोहणा यार ।\n\nप्यारा पहन पोशाकां आया, आदम आपना नाम धराइआ,\nअहद ते बण अहमद आया, नबियां दा सरदार ।\nहुण मैं लखिआ सोहणा यार ।\n\nकुन केहा फाजीकून कहाइआ, बेचूनी से चूनी बणाइआ,\nअहद दे विच मीम रलाइआ, तां कीता ऐड पसार ।\nहुण मैं लखिआ सोहणा यार ।\n\nतजूं मसीत तजूं बुत्तखाना, बरती रहां ना रोज़ा जाणा,\nभुल्ल गया वुज़ू नमाज़ दुगाणा, तैं पर जान करां बलिहार ।\nहुण मैं लखिआ सोहणा यार ।\n\nपीर पैग़म्बर इसदे बरदे, इस मलायक सजदे करदे,\nसर कदमां दे उत्ते धरदे, सभ तों वड्डी उह सरकार ।\nहुण मैं लखिआ सोहणा यार ।\n\nजो कोई उस नूं लखिआ चाहे, बाझ वसीले लखिआ ना जाए,\nशाह अनायत भेत बताए, तां खुल्ल्हे सभ इसरार ।\nहुण मैं लखिआ सोहणा यार ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचान लिया है) सोहणा (उस परम सुंदर) यार (प्रियतम को) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have beheld/recognized) sohna (the beautiful) yaar (Beloved) ."
+        },
+        {
+          "original": "जिस दे हुसन दा गरम बज़ार ।",
+          "hindi_gloss": "जिस दे (जिसके) हुसन दा (सौंदर्य का) गरम (धूम मचाने वाला) बज़ार (बाज़ार सजा है) ।",
+          "english_gloss": "jis de (whose) husan da (of beauty's) garam (bustling/radiant) bazaar (marketplace) ."
+        },
+        {
+          "original": "जद अहद इक इकल्ला सी, ना ज़ाहर कोई तजल्ला सी,",
+          "hindi_gloss": "जद (जब) अहद (वह अद्वैत परमात्मा) इक इकल्ला सी (बिल्कुल अकेला था), ना (न कोई) ज़ाहर (प्रकट) कोई (कोई) तजल्ला (दिव्य ज्योति/प्रकाश) सी (था),",
+          "english_gloss": "jad (when) ahad (the One/Ahad) ik ikalla see (was all alone), na (no) zaahar (manifest) koee (any) tajalla (radiance/light) see (was),"
+        },
+        {
+          "original": "ना रब्ब रसूल ना अल्लाह सी, ना जबार ते ना कहार ।",
+          "hindi_gloss": "ना (न कोई) रब्ब (रब) रसूल (रसूल) ना (न कोई) अल्लाह (अल्लाह नाम) सी (था), ना (न कोई) जबार (जब्बार/सर्वशक्तिमान) ते (और) ना (न) कहार (क़हहार/दंडदाता) ।",
+          "english_gloss": "na (neither) rabb (Lord) rasool (Messenger) na (nor) allaah see (was Allah), na (neither) jabaar (Compeller) te (nor) na (neither) kahaar (Subduer) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचान लिया है) सोहणा (सुंदर) यार (प्रियतम को) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have recognized) sohna (the lovely) yaar (Beloved) ."
+        },
+        {
+          "original": "बेचून वा बेचगूना सी, बेशबीह बेनमूना सी,",
+          "hindi_gloss": "बेचून (अकथनीय) वा (और) बेचगूना (अतुलनीय) सी (था), बेशबीह (जिसकी कोई उपमा न थी) बेनमूना (अद्वितीय) सी (था),",
+          "english_gloss": "bechoon (ineffable) va (and) bechagoona see (peerless was), beshabeeh (incomparable) benamoona see (unmodeled was),"
+        },
+        {
+          "original": "ना कोई रंग ना नमूना सी, हुण गूनां-गुन हज़ार ।",
+          "hindi_gloss": "ना (न) कोई (कोई) रंग (रंग) ना (न) नमूना (आकार) सी (था), हुण (अब उसके) गूनां-गुन (हज़ारों गुण और रंग) हज़ार (हज़ार हैं) ।",
+          "english_gloss": "na (no) koee (any) rang (color) na (nor) namoona see (form was), hun (now) goonaan-gun (countless modes) hazaar (thousands) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचाना) सोहणा (सुंदर) यार (प्रियतम) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have seen) sohna (the beautiful) yaar (Beloved) ."
+        },
+        {
+          "original": "प्यारा पहन पोशाकां आया, आदम आपना नाम धराइआ,",
+          "hindi_gloss": "प्यारा (वह प्रियतम) पहन पोशाकां (मानव चोला पहनकर) आया (प्रकट हुआ), आदम (आदम) आपना (अपना) नाम धराइआ (नाम रखवाया),",
+          "english_gloss": "pyaara (Beloved) pahan poshaakaan (wearing garments) aaya (came), aadam (Adam) aapna (His own) naam dharaaia (named),"
+        },
+        {
+          "original": "अहद ते बण अहमद आया, नबियां दा सरदार ।",
+          "hindi_gloss": "अहद ते (उस 'अहद' एकत्व से) बण (बनकर) अहमद ('अहमद' / मुहम्मद) आया (आया), नबियां दा (पैग़ंबरों का) सरदार (सरदार) ।",
+          "english_gloss": "ahad te (from Ahad) ban (becoming) ahmad aaya (came Ahmad), nabiyaan da (of prophets) sardaar (the Chief/Leader) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (जाना) सोहणा (सुंदर) यार (यार) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have known) sohna (the fair) yaar (Friend) ."
+        },
+        {
+          "original": "कुन केहा फाजीकून कहाइआ, बेचूनी से चूनी बणाइआ,",
+          "hindi_gloss": "कुन केहा ('कुन' / हो जा कहा) फाजीकून ('फयकून' / और सृष्टि हो गई कहलाया), बेचूनी से (अपरिमित से) चूनी (साकार) बणाइआ (बनाया),",
+          "english_gloss": "kun keha (said 'Kun') phaajeekoon kahaaia (became 'fayakun'), bechoonee se (from formlessness) choonee banaaia (created form),"
+        },
+        {
+          "original": "अहद दे विच मीम रलाइआ, तां कीता ऐड पसार ।",
+          "hindi_gloss": "अहद दे विच ('अहद' के भीतर) मीम ('मीम' अक्षर / मुहम्मद का भाव) रलाइआ (मिला दिया), तां (तब) कीता (किया) ऐड (इतना विशाल) पसार (संसार का फैलाव) ।",
+          "english_gloss": "ahad de vich (in Ahad) meem rlaaia (blended 'M'), taan (then) keeta (made) aid (so vast) pasaar (cosmic expansion) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचान लिया) सोहणा (सुंदर) यार (प्रियतम) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have beheld) sohna (the beloved) yaar (Friend) ."
+        },
+        {
+          "original": "तजूं मसीत तजूं बुत्तखाना, बरती रहां ना रोज़ा जाणा,",
+          "hindi_gloss": "तजूं (त्याग दूँ) मसीत (मस्जिद) तजूं (त्याग दूँ) बुत्तखाना (मंदिर), बरती रहां (न व्रत रखूँ) ना (न) रोज़ा जाणा (रोज़े के नियम जानूँ),",
+          "english_gloss": "tajoon (I renounce) maseet (mosque) tajoon (I leave) buttkhaana (temple), bartee rahaan (keep fasting) na (nor) roza jaana (know formal fast),"
+        },
+        {
+          "original": "भुल्ल गया वुज़ू नमाज़ दुगाणा, तैं पर जान करां बलिहार ।",
+          "hindi_gloss": "भुल्ल गया (विस्मृत हो गया) वुज़ू (वज़ू) नमाज़ (नमाज़) दुगाणा (दो रकअत की नमाज़), तैं पर (तुम पर अपनी) जान (जान) करां (कर दूँ) बलिहार (न्योछावर) ।",
+          "english_gloss": "bhull gaya (forgotten) vuzoo (ablution) namaaz dugaana (two-rak'at prayer), tain par (upon Thee) jaan (life) karaan (I make) balihaar (sacrifice) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचाना) सोहणा (सुंदर) यार (प्रियतम) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have beheld) sohna (fair) yaar (Beloved) ."
+        },
+        {
+          "original": "पीर पैग़म्बर इसदे बरदे, इस मलायक सजदे करदे,",
+          "hindi_gloss": "पीर (पीर) पैग़म्बर (और पैग़ंबर) इसदे (इसके) बरदे (विनम्र दास हैं), इस (इसको) मलायक (देवदूत/फ़रिश्ते) सजदे करदे (सजदा करते हैं),",
+          "english_gloss": "peer (saints) paigambar (prophets) isde (His) barde (slaves/servants), is (unto Him) malaayak (angels) sajde karde (prostrate),"
+        },
+        {
+          "original": "सर कदमां दे उत्ते धरदे, सभ तों वड्डी उह सरकार ।",
+          "hindi_gloss": "सर (शीश) कदमां दे उत्ते (चरणों पर) धरदे (रखते हैं), सभ तों (सबसे) वड्डी (महान) उह (उस प्रभु की) सरकार (सत्ता है) ।",
+          "english_gloss": "sar (heads) kadmaan de utte (upon feet) dharde (place), sabh ton (above all) vaddee (supreme) uh (that) sarkaar (Sovereignty) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचाना) सोहणा (सुंदर) यार (प्रियतम) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have recognized) sohna (Beloved) yaar (Friend) ."
+        },
+        {
+          "original": "जो कोई उस नूं लखिआ चाहे, बाझ वसीले लखिआ ना जाए,",
+          "hindi_gloss": "जो कोई (जो कोई भी) उस नूं (उस परमात्मा को) लखिआ चाहे (पहचानना चाहता है), बाझ (बिना सद्गुरु के) वसीले (माध्यम के) लखिआ ना जाए (पहचाना नहीं जा सकता),",
+          "english_gloss": "jo koee (whoever) us noon (Him) lakhea chaahe (wishes to perceive), baajh (without) vaseele (mediator/Master) lakhea na jaae (cannot perceive),"
+        },
+        {
+          "original": "शाह अनायत भेत बताए, तां खुल्ल्हे सभ इसरार ।",
+          "hindi_gloss": "शाह अनायत (सद्गुरु शाह इनायत जब) भेत (गूढ़ भेद) बताए (समझाते हैं), तां (तभी) खुल्ल्हे (खुलते हैं) सभ (समस्त) इसरार (ईश्वरीय रहस्य) ।",
+          "english_gloss": "shaah anaayat (Shah Inayat) bhet bataae (reveals secrets), taan (then) khullhe (unlocked) sabh (all) israar (divine mysteries) ."
+        },
+        {
+          "original": "हुण मैं लखिआ सोहणा यार ।",
+          "hindi_gloss": "हुण (अब) मैं (मैंने) लखिआ (पहचान लिया है) सोहणा (परम सुंदर) यार (प्रियतम को) ।",
+          "english_gloss": "hun (now) main (I) lakhea (have recognized) sohna (the Beautiful) yaar (Beloved) ."
+        }
+      ],
+      "hindi_meaning": "अब मैंने उस परम सुंदर साजन को पहचान लिया है,  \nजिसके अलौकिक सौंदर्य से सारा ब्रह्मांड जगमगा उठा है!  \n\nजब वह अद्वैत 'अहद' नितांत अकेला था, तब न कोई प्रकाश प्रकट था और न कोई संसार!  \nन रब, न रसूल, न अल्लाह का नाम था, और न कोई जब्बार या क़हहार का रूप था!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nवह अकथनीय, अतुलनीय, उपमा-रहित और अद्वितीय था!  \nन उसका कोई रंग था और न कोई आकार, पर आज देखो तो उसके हज़ारों रंग और रूप प्रकट हैं!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nवह प्यारा प्रियतम मनुष्य का चोला पहनकर आया, और उसने अपना नाम 'आदम' रखवाया!  \nउस अद्वैत 'अहद' से वह नबियों का सरदार 'अहमद' बनकर प्रकट हुआ!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nउसने 'कुन' (हो जा!) कहा और सृष्टि रच दी, निराकार से वह साकार बन गया!  \nउस 'अहद' के बीच उसने 'मीम' का रहस्य मिला दिया, और इस सारे ब्रह्मांड का विस्तार कर दिया!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nमैं मस्जिद को भी छोड़ता हूँ और मंदिर-बुत्तख़ाने को भी त्यागता हूँ!  \nन मैं व्रत रखता हूँ और न रोज़ों के बंधन जानता हूँ!  \nवज़ू और दो रकअत नमाज़ के सारे नियम भूल गए हैं, मैं तो अपनी जान तुम पर न्योछावर करता हूँ!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nसारे पीर और पैग़ंबर जिसके विनम्र सेवक हैं, फ़रिश्ते जिसे सजदा करते हैं,  \nऔर अपना शीश जिसके पावन चरणों में रखते हैं—उसकी सत्ता समस्त संसार में सर्वोच्च है!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!  \n\nजो कोई उस परमात्मा को पहचानना चाहता है, वह बिना सद्गुरु के माध्यम के कभी नहीं जान सकता!  \nजब मुर्शिद शाह इनायत ने यह आंतरिक भेद समझाया, तब जाकर सारे ईश्वरीय रहस्य खुल गए!  \nअब मैंने उस परम सुंदर साजन को पहचान लिया है!",
+      "english_meaning": "Now have I beheld the Beautiful Beloved bright,  \nWhose radiant splendor fills the cosmic bazaar with light!  \n\nWhen the One Ahad dwelt in solitary grace,  \nNo manifestation yet illuminated time or space;  \nNeither Lord nor Messenger, nor Allah’s holy Name,  \nNeither Wrathful nor Subduer in that primordial flame!  \nNow have I beheld the Beautiful Beloved bright!  \n\nIneffable, peerless, beyond all image and style,  \nWithout form or likeness across the cosmic mile;  \nDevoid of earthly colors or patterned design,  \nYet today He blossoms in thousand hues divine!  \nNow have I beheld the Beautiful Beloved bright!  \n\nDonning the mortal robe, the Beloved came to birth,  \nCalling Himself \"Adam\" upon the virgin earth;  \nFrom the transcendent Ahad, Ahmad stepped in view,  \nSovereign of the prophets, radiant and true!  \nNow have I beheld the Beautiful Beloved bright!  \n\nHe uttered: Kun!—Be!—and the universe unfurled,  \nFrom formless silence shaping the living world;  \nIn the word Ahad, He joined the mystic Meem,  \nSpreading the vast expanse of creation's dream!  \nNow have I beheld the Beautiful Beloved bright!  \n\nI leave the mosque behind, and renounce the idol-shrine,  \nI observe neither ritual fasting nor formal line;  \nAblutions and dual prayers vanish from my mind,  \nFor upon Thy altar my breath is resigned!  \nNow have I beheld the Beautiful Beloved bright!  \n\nProphets and holy masters are bondmen at His door,  \nAngels bow in prostration upon His palace floor;  \nPlacing their reverent crowns upon His feet so sweet—  \nSupreme is His kingdom where time and eternity meet!  \nNow have I beheld the Beautiful Beloved bright!  \n\nWhosoever yearns to know that Sovereign Lord of grace,  \nWithout a guiding Master can never see His face;  \nWhen Murshid Shah Inayat revealed the inner key,  \nAll hidden mysteries unlocked in ecstasy!  \nNow have I beheld the Beautiful Beloved bright!"
+    }
+  ]
+}

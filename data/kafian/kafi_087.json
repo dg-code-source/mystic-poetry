@@ -1,0 +1,160 @@
+{
+  "id": 87,
+  "title": "मैं पाइआ ए मैं पाइआ ए",
+  "title_english": "I Have Found Him! I Have Found Him!",
+  "historical_context": "यह बुल्ले शाह की सबसे अद्भुत, सर्वसमावेशी और सर्वधर्म-समभाव की काफी है। इसमें वे परमात्मा को प्रत्येक भेष और संप्रदाय में साक्षात देखते हैं: कभी वह कुरान पढ़ता है, कभी हिंदू भक्त बनकर जप करता है, कभी गोरखनाथी कान-फटा योगी बनता है; कभी गुरु तेग बहादुर बनकर धर्म की रक्षा में गाज़ी बनता है; कभी मस्जिद में है, कभी ठाकुरद्वारे में है, कभी बैरागी जटाधारी है, तो कभी शेख। अंत में वे कहते हैं कि प्रियतम का यह दर्शन ही उनके लिए 'मेराज' (परम साक्षात्कार) है।",
+  "meter": "पंजाबी काफी (चतुष्पदी, अंत्यानुप्रास वटाइआ/लडाइआ/समाइआ/बणाइआ/गाइआ)",
+  "raga": "राग काफी / बिलावल / भैरव",
+  "theme": "सर्वव्यापकता, सर्वधर्म-समभाव, गुरु तेग बहादुर का उल्लेख, मिअराज का आध्यात्मिक अर्थ",
+  "stanzas": [
+    {
+      "original": [
+        "मैं पाइआ ए मैं पाइआ ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "मैं (मैंने) पाइआ (पा लिया) ए (है) मैं (मैंने अपने प्रभु को) पाइआ (पा लिया) ए (है) ।",
+        "तैं (तूने) आप (स्वयं ही नाना) सरूप (रूप-स्वरूप) वटाइआ (बदल लिए हैं) ए (हैं) ।"
+      ],
+      "english_gloss": [
+        "मैं (I) पाइआ (have found) ए (have) मैं (I) पाइआ (have found Him) ए (have) ।",
+        "तैं (Thou) आप (Thyself) सरूप (Thy form/guise) वटाइआ (hast transformed) ए (hast) ।"
+      ],
+      "poetic_hindi": [
+        "मैंने पा लिया है, मैंने पा लिया है ! तूने स्वयं ही रूप बदल लिया है !"
+      ],
+      "poetic_english": [
+        "I have found Him! I have found Him! Thou Thyself hast donned each changing guise!"
+      ]
+    },
+    {
+      "original": [
+        "कहूं तरक किताबां पढ़ते हो, कहूं भगत हिन्दू जप करते हो,  ",
+        "कहूं गोरकंडी विच पड़ते हो, हर घर घर लाड लडाइआ ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "कहूं (कहीं पर) तरक (तुर्क/मुसलमान बनकर) किताबां (कुरान आदि ग्रंथ) पढ़ते (पढ़ते) हो (हो), कहूं (कहीं पर) भगत (भक्त) हिन्दू (हिंदू बनकर) जप (प्रभु-नाम जप) करते (करते) हो (हो),",
+        "कहूं (कहीं पर) गोरकंडी (गोरखपंथी/कानफटे नाथ योगियों) विच (में) पड़ते (प्रविष्ट होते) हो (हो), हर (प्रत्येक) घर (घर-) घर (घर में) लाड (प्रेम-क्रीड़ा) लडाइआ (लड़ाई) ए (है) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "english_gloss": [
+        "कहूं (somewhere) तरक (as a Muslim) किताबां (scriptures) पढ़ते (readest) हो (Thou), कहूं (somewhere) भगत (devotee) हिन्दू (Hindu) जप (chanting) करते (makest) हो (Thou),",
+        "कहूं (somewhere) गोरकंडी (among Gorakh’s ear-pierced yogis) विच (in) पड़ते (entourest) हो (Thou), हर (in each) घर (hearth) घर (and home) लाड (loving play) लडाइआ (hast staged) ए (Thou) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "poetic_hindi": [
+        "कहीं मुस्लिम बन ग्रंथ पढ़े, कहीं हिंदू भक्त बन जप करता,",
+        "कहीं गोरखपंथी योगी बन, घर-घर में लाड लड़ाता है !"
+      ],
+      "poetic_english": [
+        "Somewhere as Muslim reading holy text, somewhere as Hindu chanting hymns of grace;",
+        "Somewhere as Gorakh’s yogi in deep caves, in every home Thy loving sports embrace!"
+      ]
+    },
+    {
+      "original": [
+        "किते वैरी हो किते बेली हो, किते आप गुरू किते चेली हो,  ",
+        "किते मजनू हो किते लेली हो, हर घट घट बीच समाइआ ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "किते (कहीं पर) वैरी (शत्रु) हो (हो) किते (कहीं पर) बेली (परम मित्र) हो (हो), किते (कहीं पर) आप (स्वयं) गुरू (गुरु हो) किते (कहीं) चेली (शिष्या) हो (हो),",
+        "किते (कहीं) मजनू (दीवाना मजनूं) हो (हो) किते (कहीं रूपवती) लेली (लैला) हो (हो), हर (प्रत्येक) घट (घट-) घट (घट के) बीच (भीतर) समाइआ (समाए हुए) ए (हो) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "english_gloss": [
+        "किते (somewhere) वैरी (enemy) हो (art) किते (somewhere) बेली (friend) हो (art), किते (somewhere) आप (Thyself) गुरू (Guru) किते (somewhere) चेली (disciple) हो (art),",
+        "किते (somewhere) मजनू (Majnun) हो (art) किते (somewhere) लेली (Laila) हो (art), हर (every) घट (heart) घट (within each) बीच (in) समाइआ (pervadest) ए (Thou) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "poetic_hindi": [
+        "कहीं शत्रु बने, कहीं मित्र बने, कहीं गुरु, कहीं चेली का रूप लिया,",
+        "कहीं मजनूँ, कहीं लैला बनकर, घट-घट में वास अनूप किया !"
+      ],
+      "poetic_english": [
+        "Somewhere as foe, somewhere as faithful friend, somewhere as Master, somewhere disciple meek;",
+        "Somewhere as lover, somewhere as beloved, in every human vessel Thou dost speak!"
+      ]
+    },
+    {
+      "original": [
+        "कहूं गाफ़ल कहूं नमाज़ी हो, कहूं मिम्बर ते बह काज़ी हो,  ",
+        "कहूं तेग़ बहादुर ग़ाज़ी हो, कहूं आपना पंथ बणाइआ ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "कहूं (कहीं पर) गाफ़ल (लापरवाह/अधर्मी) कहूं (कहीं पर) नमाज़ी (सच्चा नमाज़ी) हो (हो), कहूं (कहीं) मिम्बर (मस्जिद के आसन) ते (पर) बह (बैठकर) काज़ी (काज़ी बनते) हो (हो),",
+        "कहूं (कहीं पर गुरु) तेग़ (तेग) बहादुर (बहादुर बनकर धर्म-रक्षक) ग़ाज़ी (योद्धा) हो (हो), कहूं (कहीं पर) आपना (अपना नया) पंथ (पंथ/मार्ग) बणाइआ (बनाया) ए (है) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "english_gloss": [
+        "कहूं (somewhere) गाफ़ल (heedless) कहूं (somewhere) नमाज़ी (devout in prayer) हो (art), कहूं (somewhere) मिम्बर (upon the pulpit) ते (upon) बह (seated as) काज़ी (judge) हो (art),",
+        "कहूं (somewhere as Guru) तेग़ (Tegh) बहादुर (Bahadur) ग़ाज़ी (the holy martyr/warrior) हो (art), कहूं (somewhere) आपना (Thine own) पंथ (faith/path) बणाइआ (hast founded) ए (Thou) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "poetic_hindi": [
+        "कहीं गाफ़िल, कहीं नमाज़ी तू, कहीं मंच पर काज़ी बन बैठा,",
+        "कहीं तेग बहादुर गाज़ी बन, तूने अपना पंथ रचा डाला !"
+      ],
+      "poetic_english": [
+        "Somewhere profane, somewhere devout in prayer, somewhere as judge upon the pulpit high;",
+        "Somewhere as brave Tegh Bahadur standing tall, founding a sovereign faith beneath the sky!"
+      ]
+    },
+    {
+      "original": [
+        "कहूं मसजद दा वरतारा ए कहूं बण्या ठाकुरदुआरा ए,  ",
+        "कहूं बैरागी जट धारा ए कहूं शैखन बण बण आया ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "कहूं (कहीं पर) मसजद (मस्जिद) दा (का) वरतारा (व्यवहार/विधान) ए (है), कहूं (कहीं पर) बण्या (बन गया है) ठाकुरदुआरा (मंदिर/ठाकुरद्वारा) ए (है),",
+        "कहूं (कहीं) बैरागी (वैरागी साधु बनकर) जट (जटाएं) धारा (धारण की हैं) ए (तूने), कहूं (कहीं) शैखन (शेख/सूफी पीर) बण (बन-) बण (बनकर) आया (आया) ए (है) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "english_gloss": [
+        "कहूं (somewhere) मसजद (mosque) दा (of) वरतारा (ordinance) ए (is), कहूं (somewhere) बण्या (fashioned) ठाकुरदुआरा (temple of the Lord) ए (is),",
+        "कहूं (somewhere) बैरागी (as ascetic) जट (matted locks) धारा (holding) ए (art), कहूं (somewhere) शैखन (as a Muslim Sheikh) बण (becoming) आया (hast appeared) ए (Thou) ।",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "poetic_hindi": [
+        "कहीं मस्जिद का व्यवहार बना, कहीं ठाकुरद्वारा रूप रचा,",
+        "कहीं जटाधारी बैरागी तू, कहीं शेख बन कर आन सजा !"
+      ],
+      "poetic_english": [
+        "Somewhere in holy mosques the rites resound, somewhere in temples bells ring sweet and clear;",
+        "Somewhere with matted locks as hermit bound, somewhere as solemn Sheikh Thou dost appear!"
+      ]
+    },
+    {
+      "original": [
+        "बुल्ल्हा शहु दा मैं मुहताज होया, महाराज मिले मेरा काज होया,  ",
+        "मुझे पिया का दरस मिअराज होया, लग्गा इश्क तां इह गुन गाइआ ए ।  ",
+        "मैं पाइआ ए मैं पाइआ ए ।  ",
+        "तैं आप सरूप वटाइआ ए ।"
+      ],
+      "hindi_gloss": [
+        "बुल्ल्हा (बुल्ला) शहु (उस प्रभु-शाह) दा (का) मैं (मैं) मुहताज (सदा का याचक/दास) होया (हो गया), महाराज (वे परम प्रभु महाराज जब) मिले (मिल गए तो) मेरा (मेरा संपूर्ण) काज (जीवन-कार्य) होया (सफल हो गया),",
+        "मुझे (मुझको) पिया (प्रियतम) का (का) दरस (साक्षात्कार ही सच्चा) मिअराज (मेराज/ईश्वरीय मिलन) होया (हो गया), लग्गा (जब हृदय में लगा) इश्क (इश्क) तां (तो) इह (यह) गुन (गुणगान) गाइआ (गाया) ए (है) ।",
+        "मैं पाइआ ए मैं पाइआ ए, तैं आप सरूप वटाइआ ए ।"
+      ],
+      "english_gloss": [
+        "बुल्ल्हा (Bulleh) शहु (unto the Lord) दा (of) मैं (I) मुहताज (humble supplicant) होया (became), महाराज (the Sovereign King) मिले (met me) मेरा (my) काज (life's purpose) होया (was fulfilled),",
+        "मुझे (unto me) पिया (Beloved’s) का (of) दरस (vision) मिअराज (celestial Ascension) होया (became), लग्गा (ignited) इश्क (when love) तां (then) इह (this) गुन (praise) गाइआ (sang) ए (I) ।",
+        "मैं पाइआ ए मैं पाइआ ए, तैं आप सरूप वटाइआ ए ।"
+      ],
+      "poetic_hindi": [
+        "बुल्ल्हा शौह का दास हुआ, महाराज मिले, सब काज हुआ,",
+        "पिया का दीदार ही मेराज हुआ, इश्क लगा तो गुणगान किया !",
+        "मैंने पा लिया है, मैंने पा लिया है ! तूने स्वयं ही रूप बदल लिया है !"
+      ],
+      "poetic_english": [
+        "Bulleh became a mendicant of the King, the Sovereign came, fulfilling every grace;",
+        "My Lover’s vision was my Ascension high, when Love awoke this song before His face!",
+        "I have found Him! I have found Him! Thou Thyself hast donned each changing guise!"
+      ]
+    }
+  ],
+  "philosophical_meaning": "यह काफी सूफी रहस्यवाद और भारतीय अद्वैत वेदांत का अमर समन्वय है। नौवें सिख गुरु, गुरु तेग बहादुर जी ('कहूं तेग बहादुर गाज़ी हो') का सम्मानपूर्वक उल्लेख बुल्ले शाह की असीम सांप्रदायिक उदारता और ऐतिहासिक निष्पक्षता को प्रमाणित करता है। 'मुझे पिया का दरस मिअराज होया'—इस्लाम में पैगंबर के आकाश-गमन (मेराज) को सर्वोच्च ईश्वरीय निकटता माना जाता है; बुल्ले शाह कहते हैं कि प्रियतम का यह प्रत्यक्ष दीदार ही आत्मा का साक्षात मेराज है।"
+}

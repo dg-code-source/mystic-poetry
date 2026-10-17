@@ -1,0 +1,198 @@
+{
+  "id": 104,
+  "title": "मेरी बुक्कल दे विच्च चोर",
+  "title_english": "The Thief is Hiding Within My Own Cloak!",
+  "historical_context": "यह बाबा बुल्ले शाह की विश्व-प्रसिद्ध, सर्वाधिक उद्धृत और कालजयी काफ़ियों में शीर्षस्थ है। इसमें 'चोर' परमात्मा का सबसे प्रिय सूफी रूपक है जो मनुष्य के अपने अंतःकरण ('बुक्कल' अर्थात् कंबल/हृदय के आंचल) में छिपा बैठा है, जबकि संसार उसे बाहर मस्जिदों, मंदिरों और कब्रों में ढूँढ रहा है। बुल्ले शाह हिंदू-मुस्लिम के बाह्य विवादों—रामदास और फतेह मुहम्मद के टकराव, श्मशान और कब्र के भय—को निरर्थक घोषित करते हुए उद्घोष करते हैं कि जब रहस्य प्रकट होता है तो यह विवाद मिट जाता है और भीतर से 'कुछ और ही' (परम ब्रह्म) निकल पड़ता है।",
+  "meter": "पंजाबी काफी (मात्रािक छंद, धुन: मेरी बुक्कल दे विच्च चोर)",
+  "raga": "राग काफी / बिलावल / दरबारी",
+  "theme": "अंतःकरण में ईश्वर की उपस्थिति (चोर), सांप्रदायिकता का उन्मूलन, रामदास-फ़तेह मुहम्मद का समन्वय, शाह इनायत का आकर्षण",
+  "stanzas": [
+    {
+      "original": [
+        "मेरी बुक्कल दे विच्च चोर ।  ",
+        "नी मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "मेरी (मेरी) बुक्कल (कमली/हृदय के आंचल) दे (के) विच्च (भीतर ही छिपा है वह) चोर (रहस्यमयी प्रियतम चोर) ।",
+        "नी (अरी सखी) मेरी (मेरी) बुक्कल (कंबल के आंचल) दे (के) विच्च (भीतर ही बसा है) चोर (मेरा चित्तचोर) ।"
+      ],
+      "english_gloss": [
+        "मेरी बुक्कल दे विच्च (within the folds of my own cloak) चोर (is the Thief) ।",
+        "नी मेरी बुक्कल दे विच्च चोर (O sisters, within the embrace of my cloak hides the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "मेरी ही बुक्कल में छिपा है वो चितचोर,",
+        "अरी सखी, मेरे ही आँचल में बैठा वो अलख किशोर !"
+      ],
+      "poetic_english": [
+        "Within the secret folds of my own cloak the Thief resides!",
+        "O sisters mine, within my very breast the subtle Robber hides!"
+      ]
+    },
+    {
+      "original": [
+        "कीहनूं कूक सुणावां नी मेरी बुक्कल दे विच्च चोर ।  ",
+        "चोरी चोरी निकल गया जग विच्च पै गया शोर ।  ",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "कीहनूं (किसको जाकर) कूक (अपनी पुकार/गुहार) सुणावां (सुनाऊँ), नी (हे सखी) मेरी (मेरी) बुक्कल (कमली) दे (के) विच्च (भीतर ही है वह) चोर (चोर),",
+        "चोरी (चोरी-) चोरी (चोरी से) निकल (प्रकट हो) गया (गया वह), जग (और सारे संसार) विच्च (में) पै (मच) गया (गया) शोर (भारी शोर) ।",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "कीहनूं कूक सुणावां (unto whom shall I cry my lament), नी मेरी बुक्कल दे विच्च चोर (O within my cloak is the Thief),",
+        "चोरी चोरी निकल गया (stealthily He slipped away), जग विच्च पै गया शोर (an uproar arose throughout the world) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "किसको जाकर पुकार सुनाऊँ, जब चोर छिपा मेरे अंदर?",
+        "चोरी-चोरी वो प्रकट हुआ, जग में गूँज उठा कलंदर !",
+        "मेरी बुक्कल में बैठा वो चितचोर !"
+      ],
+      "poetic_english": [
+        "Unto whom shall I raise my cry when the Thief is in my breast?",
+        "He slipped out stealthily, and filled the world with clamor and unrest!",
+        "Within the secret folds of my own cloak the Thief resides!"
+      ]
+    },
+    {
+      "original": [
+        "मुसलमान सिव्यां (सड़ने) तों ड्रदे हिन्दू ड्रदे गोर ।  ",
+        "दोवें एसे दे विच्च मरदे इहो दोहां दी खोर ।  ",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "मुसलमान (मुसलमान) सिव्यां (श्मशान में जलने) तों (से) ड्रदे (डरते हैं), हिन्दू (और हिंदू) ड्रदे (डरते हैं) गोर (कब्र में दफनाए जाने से),",
+        "दोवें (दोनों ही) एसे (इसी अविद्या और संकीर्णता) दे (के) विच्च (भीतर) मरदे (व्यर्थ मर-खप रहे हैं), इहो (यही) दोहां (दोनों पक्षों) दी (की परस्पर) खोर (दुर्भावना/हठधर्मी है) ।",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "मुसलमान सिव्यां तों ड्रदे (the Muslim dreads the flaming pyre), हिन्दू ड्रदे गोर (the Hindu dreads the silent grave),",
+        "दोवें एसे दे विच्च मरदे (both perish in this very strife), इहो दोहां दी खोर (this is the stubborn malice of both) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "मुस्लिम डरे श्मशान से, हिंदू को कब्र डराए,",
+        "दोनों इस झगड़े में मरे, यह हठ दोनों को खाए !",
+        "मेरी बुक्कल में बैठा वो चितचोर !"
+      ],
+      "poetic_english": [
+        "Muslims dread the cremation pyre; Hindus dread the grave's deep clay;",
+        "Both consume their lives in fear, trapped in their narrow bigot way!",
+        "Within the secret folds of my own cloak the Thief resides!"
+      ]
+    },
+    {
+      "original": [
+        "किते राम दास किते फ़तह मुहंमद इहो कदीमी शोर ।  ",
+        "मिट गया दोहां दा झगड़ा निकल प्या कुझ होर ।  ",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "किते (कहीं पर नाम रखा है) राम दास (रामदास) किते (और कहीं) फ़तह मुहंमद (फतेह मुहम्मद), इहो (यही तो है) कदीमी (सदा-सदा से चला आ रहा पुराना) शोर (बखेड़ा),",
+        "मिट (समाप्त हो) गया (गया) दोहां (इन दोनों) दा (का) झगड़ा (झगड़ा तब), निकल (जब भीतर से प्रकट हो) प्या (पड़ा) कुझ (कुछ) होर (और ही परम अलौकिक सत्य) ।",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "किते राम दास (somewhere Ram Das) किते फ़तह मुहंमद (somewhere Fateh Muhammad), इहो कदीमी शोर (this is the ancient clamor),",
+        "मिट गया दोहां दा झगड़ा (the dispute of both dissolved), निकल प्या कुझ होर (when something else entirely emerged) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "कहीं पे रामदास है नाम, कहीं पे फ़तेह मुहम्मद का शोर,",
+        "दोनों का झगड़ा मिट गया, जब भीतर से निकला कुछ और !",
+        "मेरी बुक्कल में बैठा वो चितचोर !"
+      ],
+      "poetic_english": [
+        "Here he is named Ram Das, and there Fateh Muhammad is the shout;",
+        "Their ancient quarrel melted away when Something Else came stepping out!",
+        "Within the secret folds of my own cloak the Thief resides!"
+      ]
+    },
+    {
+      "original": [
+        "अरश मुनव्वर बांगां मिलियां सुणियां तख़त लाहौर ।  ",
+        "शाह इनायत कुंडियां पाईआं लुक छुप खिचदा डोर ।  ",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "अरश (परम आकाश) मुनव्वर (प्रकाशमान अर्श से) बांगां (दिव्य पुकारें) मिलियां (गूँज उठीं), सुणियां (वे पुकारें सुनाई दीं) तख़त (आध्यात्मिक तख्त) लाहौर (लाहौर के दरबार में),",
+        "शाह इनायत (हज़रत शाह इनायत कादरी ने) कुंडियां (प्रेम के अंकुश/कांटे) पाईआं (डाल रखे हैं), लुक (छिप-) छुप (छुपकर) खिचदा (खींच रहे हैं प्रेम की) डोर (डोरी) ।",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "अरश मुनव्वर बांगां मिलियां (calls sounded from the Luminous Heaven), सुणियां तख़त लाहौर (were heard at the Throne of Lahore),",
+        "शाह इनायत कुंडियां पाईआं (Shah Inayat cast His mystic hooks), लुक छुप खिचदा डोर (hiding in secret, He pulls the twine) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "अर्श-ए-मुनव्वर से उठी पुकार, तख्त लाहौर पे गूंजी तान,",
+        "शाह इनायत ने कांटा डाला, खींच रहे डोरी सुजान !",
+        "मेरी बुक्कल में बैठा वो चितचोर !"
+      ],
+      "poetic_english": [
+        "Calls resounded from Luminous Heavens, heard at the Throne of Lahore on high;",
+        "Shah Inayat cast His wondrous hooks, and pulls the cord unseen and shy!",
+        "Within the secret folds of my own cloak the Thief resides!"
+      ]
+    },
+    {
+      "original": [
+        "जिस ढूंडाइआ तिस ने पाइआ ना झुर झुर होया मोर ।  ",
+        "पीरे पीरां बग़दाद असाडा मुरशद तख़त लाहौर ।  ",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "जिस (जिसने अंतःकरण में) ढूंडाइआ (खोजा) तिस (उसी) ने (ने) पाइआ (उसे प्राप्त किया), ना (वह संशय में) झुर (झुर-झुरकर/घुल-घुलकर) होया (नहीं हुआ) मोर (मोर की भांति व्याकुल),",
+        "पीरे पीरां (पीरों के पीर हज़रत अब्दुल कादिर जिलानी) बग़दाद (बगदाद वाले) असाडा (हमारे सर्वोच्च मार्गदर्शक हैं), मुरशद (और प्रत्यक्ष सद्गुरु हैं) तख़त (तख्त) लाहौर (लाहौर वाले शाह इनायत) ।",
+        "मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "जिस ढूंडाइआ तिस ने पाइआ (whosoever sought found Him within), ना झुर झुर होया मोर (wasted not away like the pining peacock),",
+        "पीरे पीरां बग़दाद असाडा (Pir of Pirs of Baghdad is ours), मुरशद तख़त लाहौर (our living Murshid graces the Throne of Lahore) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "जिसने खोजा उसने पाया, मन का संशय सारा खोया,",
+        "पीरों के पीर बगदाद हमारे, लाहौर तख्त पे मुर्शिद बोया !",
+        "मेरी बुक्कल में बैठा वो चितचोर !"
+      ],
+      "poetic_english": [
+        "Who sought within has found the prize, freed from all pining grief and dross;",
+        "The Pir of Pirs in Baghdad dwells; our Master rules Lahore across!",
+        "Within the secret folds of my own cloak the Thief resides!"
+      ]
+    },
+    {
+      "original": [
+        "इहो तुसीं वी आखो सारे आप गुड्डी आप डोर ।  ",
+        "मैं दसनां तुसीं पकड़ ल्याउ बुल्ल्हे शाह दा चोर ।  ",
+        "मेरी बुक्कल दे विच्च चोर । नी मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "hindi_gloss": [
+        "इहो (यही परम सत्य) तुसीं (तुम) वी (भी) आखो (कहो) सारे (सब मिलकर कि) आप (वह परमात्मा स्वयं ही) गुड्डी (पतंग है) आप (और स्वयं ही उड़ाने वाली) डोर (डोरी है),",
+        "मैं (मैं) दसनां (पता बताता हूँ) तुसीं (तुम जाकर) पकड़ (पकड़) ल्याउ (ले आओ) बुल्ल्हे (बुल्ले) शाह (शाह) दा (का यह प्यारा) चोर (चोर) ।",
+        "मेरी बुक्कल दे विच्च चोर । नी मेरी बुक्कल दे विच्च चोर ।"
+      ],
+      "english_gloss": [
+        "इहो तुसीं वी आखो सारे (let all of you proclaim this very truth), आप गुड्डी आप डोर (He Himself is the kite, He Himself the cord),",
+        "मैं दसनां (I disclose His whereabouts) तुसीं पकड़ ल्याउ (go and apprehend) बुल्ल्हे शाह दा चोर (the Thief of Bulleh Shah) ।",
+        "मेरी बुक्कल दे विच्च चोर (within my cloak is the Thief) ।"
+      ],
+      "poetic_hindi": [
+        "तुम सब भी बोलो: वही पतंग है, वही उड़ाने वाली डोर,",
+        "पता बताऊँ, पकड़ के लाओ बुल्ले शाह का नवल-किशोर !",
+        "मेरी बुक्कल में बैठा वो चितचोर,",
+        "अरी सखी, मेरे ही आँचल में बैठा वो नवल किशोर !"
+      ],
+      "poetic_english": [
+        "Sing out together this truth divine: He is the kite, and He the thread!",
+        "I tell His lair—go seize the Thief who captured Bulleh’s heart instead!",
+        "Within the secret folds of my own cloak the Thief resides!",
+        "O sisters mine, within my very breast the subtle Robber hides!"
+      ]
+    }
+  ],
+  "sufi_commentary": "यह काफी सूफी साहित्य का वह अमर हीरा है जिसने धार्मिक कट्टरता और द्वैत की दीवारों को सदा के लिए ढहा दिया। 'बुक्कल दे विच्च चोर' उपनिषदों के 'तत्त्वमसि' और कुरान के 'वह तुम्हारी गर्दन की नस (हब्लिल वरीद) से भी अधिक निकट है' का काव्यात्मक अनुवाद है। मनुष्य परमात्मा को काबा या काशी में ढूँढता फिरता है, जबकि वह स्वयं साधक के भीतर विराजमान है। 'किते राम दास किते फ़तह मुहंमद... निकल प्या कुझ होर' यह प्रमाणित करता है कि ईश्वर न हिंदू है न मुसलमान; वह इन सभी मानवनिर्मित उपाधियों से परे विशुद्ध सच्चिदानंद स्वरूप है। 'आप गुड्डी आप डोर' सर्वेश्वरवाद (वहदत-उल-वुजूद) का ऐसा लोक-रूपक है जो बताता है कि उड़ाने वाला भी वही है और उड़ने वाली पतंग भी वही है।"
+}

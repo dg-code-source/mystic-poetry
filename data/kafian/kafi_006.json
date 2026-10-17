@@ -1,0 +1,89 @@
+{
+  "id": 6,
+  "title": "6. अब क्यों साजन चिर लायो रे",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "अब क्यों साजन चिर लायो रे ?\nऐसी आई मन में काई,\nदुख सुख सभ वंजाययो रे,\nहार शिंगार को आग लगाउं,\nघट उप्पर ढांड मचाययो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nसुन के ज्ञान की ऐसी बातां,\nनाम निशान सभी अणघातां,\nकोइल वांगूं कूकां रातां,\nतैं अजे वी तरस ना आइयो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nगल मिरगानी सीस खपरिया,\nभीख मंगन नूं रो रो फिरिआ,\nजोगन नाम भ्या लिट धरिआ,\nअंग बिभूत रमाययो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nइश्क मुल्लां ने बांग दिवाई,\nउट्ठ बहुड़न गल्ल वाजब आई,\nकर कर सिजदे घर वल धाई,\nमत्थे महराब टिकाययो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nप्रेम नगर दे उलटे चाले,\nख़ूनी नैन होए खुशहाले,\nआपे आप फसे विच जाले,\nफस फस आप कुहाययो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nदुक्ख बिरहों ना होन पुराणे,\nजिस तन पीड़ां सो तन जाणे,\nअन्दर झिड़कां बाहर ताअने,\nनेहुं लग्यां दुक्ख पाययो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nमैना मालन रोंदी पकड़ी,\nबिरहों पकड़ी करके तकड़ी,\nइक मरना दूजी जग्ग दी फक्कड़ी,\nहुन कौन बन्ना बण आइयो रे ;\nअब क्यों साजन चिर लाययो रे ?\n\nबुल्ल्हा शौह संग प्रीत लगाई,\nसोहनी बण तण सभ कोई आई,\nवेख के शाह इनायत साईं,\nजिय मेरा भर आइयो रे ;\nअब क्यों साजन चिर लाययो रे ?",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "अब क्यों साजन चिर लायो रे ?",
+          "hindi_gloss": "अब (अब) क्यों (क्यों) साजन (हे साजन/प्रियतम) चिर (देर/विलंब) लायो (लगाया है) रे (रे) ?",
+          "english_gloss": "ab (now) kyon (why) saajan (O Beloved) chir (delay) laayo (have made) re (O friend) ?"
+        },
+        {
+          "original": "ऐसी आई मन में काई, दुख सुख सभ वंजाययो रे,",
+          "hindi_gloss": "ऐसी (ऐसी) आई (आई है) मन (मन) में (में) काई (वेदना/काट), दुख (दुख) सुख (सुख) सभ (सब) वंजाययो (गंवा/मिटा दिया) रे,",
+          "english_gloss": "aisi (such) aai (has come) man (in mind) kaai (ache/anguish), dukh (sorrow) sukh (joy) sabh (all) vanjaayyo (lost/dissolved) re,"
+        },
+        {
+          "original": "हार शिंगार को आग लगाउं, घट उप्पर ढांड मचाययो रे ;",
+          "hindi_gloss": "हार (हार) शिंगार (श्रृंगार) को (को) आग (आग) लगाउं (लगा दूँ), घट (हृदय) उप्पर (पर) ढांड (अग्नि की लपटें) मचाययो (मचा दी हैं) रे ;",
+          "english_gloss": "haar (garlands) shingaar (ornaments) ko (to) aag (fire) lagaaoon (set), ghat (heart) uppar (upon) dhaand (blazing fire) machaayyo (has stirred) re ;"
+        },
+        {
+          "original": "सुन के ज्ञान की ऐसी बातां, नाम निशान सभी अणघातां,",
+          "hindi_gloss": "सुन (सुन) के (कर) ज्ञान (ज्ञान) की (की) ऐसी (ऐसी) बातां (बातें), नाम (नाम) निशान (निशान) सभी (सभी) अणघातां (व्यर्थ/अस्पष्ट हो गए),",
+          "english_gloss": "sun (hearing) ke (having) gyaan (wisdom) kee (of) aisi (such) baataan (words), naam (name) nishaan (trace) sabhi (all) anghaataan (meaningless/lost),"
+        },
+        {
+          "original": "कोइल वांगूं कूकां रातां, तैं अजे वी तरस ना आइयो रे ;",
+          "hindi_gloss": "कोइल (कोयल) वांगूं (की तरह) कूकां (कूकती/रोती हूँ) रातां (रातों में), तैं (तुझे) अजे (अभी) वी (भी) तरस (दया) ना (नहीं) आइयो (आई) रे ;",
+          "english_gloss": "koil (cuckoo) vaangoon (like) kookaan (cry out) raataan (in nights), tain (to you) aje (still) vee (even) taras (pity) na (not) aaiyo (came) re ;"
+        },
+        {
+          "original": "गल मिरगानी सीस खपरिया, भीख मंगन नूं रो रो फिरिआ,",
+          "hindi_gloss": "गल (गले में) मिरगानी (मृगछाला) सीस (सिर पर) खपरिया (खप्पर), भीख (दर्शन की भीख) मंगन (मांगने) नूं (को) रो (रो) रो (रोकर) फिरिआ (भटकती हूँ),",
+          "english_gloss": "gal (on neck) mirgaani (deer-skin) sees (on head) khapriya (begging bowl), bheekh (alms of vision) mangan (to beg) noon (for) ro (weeping) ro (crying) phiria (wandered),"
+        },
+        {
+          "original": "जोगन नाम भ्या लिट धरिआ, अंग बिभूत रमाययो रे ;",
+          "hindi_gloss": "जोगन (जोगन का) नाम (नाम) भ्या (लेकर) लिट (जटाएं) धरिआ (रख ली हैं), अंग (अंगों पर) बिभूत (भस्म) रमाययो (रमा ली है) रे ;",
+          "english_gloss": "jogan (ascetic yogini) naam (name) bhya (taking) lit (matted locks) dharia (kept), ang (on limbs) bibhoot (sacred ashes) ramaayyo (smeared) re ;"
+        },
+        {
+          "original": "इश्क मुल्लां ने बांग दिवाई, उट्ठ बहुड़न गल्ल वाजब आई,",
+          "hindi_gloss": "इश्क (प्रेम रूपी) मुल्लां (मुल्ला) ने (ने) बांग (अज़ान) दिवाई (दिलाई), उट्ठ (उठकर) बहुड़न (लौटने की) गल्ल (बात) वाजब (उचित/सत्य) आई (लगी),",
+          "english_gloss": "ishq (love) mullaan (mullah) ne (by) baang (call to prayer) divaai (sounded), utth (arising) bahudan (returning) gall (matter) vaajab (just/imperative) aai (appeared),"
+        },
+        {
+          "original": "कर कर सिजदे घर वल धाई, मत्थे महराब टिकाययो रे ;",
+          "hindi_gloss": "कर (कर) कर (करके) सिजदे (सजदे/दंडवत) घर (तेरे घर की) वल (ओर) धाई (दौड़ी), मत्थे (माथे पर) महराब (मेहराब/इबादत का चिह्न) टिकाययो (सजा लिया) रे ;",
+          "english_gloss": "kar (making) kar (repeating) sijde (prostrations) ghar (home) val (towards) dhaai (rushed), matthe (on forehead) mehraab (prayer arch) tikaayyo (affixed) re ;"
+        },
+        {
+          "original": "प्रेम नगर दे उलटे चाले, ख़ूनी नैन होए खुशहाले,",
+          "hindi_gloss": "प्रेम (प्रेम) नगर (नगर) दे (की) उलटे (उल्टी) चाले (रीत/चालें हैं), ख़ूनी (रक्त बहाने वाले) नैन (नेत्र) होए (होते हैं) खुशहाले (प्रसन्न/आनंदित),",
+          "english_gloss": "prem (love) nagar (town) de (of) ulte (inverted) chaale (customs/ways), khooni (blood-weeping) nain (eyes) hoye (become) khush-haale (joyful),"
+        },
+        {
+          "original": "आपे आप फसे विच जाले, फस फस आप कुहाययो रे ;",
+          "hindi_gloss": "आपे (अपने) आप (आप) फसे (फंस गए) विच (में) जाले (प्रेम-जाल के), फस (फंसकर) फस (फंसकर) आप (स्वयं को) कुहाययो (कुर्बान कर दिया) रे ;",
+          "english_gloss": "aape (oneself) aap (voluntarily) phase (trapped) vich (in) jaale (net of love), phas (entangled) phas (caught) aap (self) kuhaayyo (slaughtered/sacrificed) re ;"
+        },
+        {
+          "original": "दुक्ख बिरहों ना होन पुराणे, जिस तन पीड़ां सो तन जाणे,",
+          "hindi_gloss": "दुक्ख (दुख) बिरहों (विरह का) ना (नहीं) होन (होते) पुराणे (पुराने), जिस (जिस) तन (शरीर/मन पर) पीड़ां (पीड़ा बीतती है) सो (वही) तन (तन) जाणे (जानता है),",
+          "english_gloss": "dukkh (sorrow) birhon (of separation) na (not) hon (become) puraane (old), jis (which) tan (body) peedaan (agony strikes) so (that) tan (body) jaane (knows),"
+        },
+        {
+          "original": "अन्दर झिड़कां बाहर ताअने, नेहुं लग्यां दुक्ख पाययो रे ;",
+          "hindi_gloss": "अन्दर (भीतर) झिड़कां (झिड़कियां) बाहर (बाहर) ताअने (दुनियावी ताने), नेहुं (प्रेम) लग्यां (करने पर) दुक्ख (दुख ही) पाययो (पाया है) रे ;",
+          "english_gloss": "andar (within) jhidkaan (rebukes) baahar (outside) taane (taunts), nehun (love) lagyaan (having bound) dukkh (pain) paayyo (received) re ;"
+        },
+        {
+          "original": "बुल्ल्हा शौह संग प्रीत लगाई, सोहनी बण तण सभ कोई आई,",
+          "hindi_gloss": "बुल्ल्हा (बुल्ले ने) शौह (परमेश्वर) संग (साथ) प्रीत (प्रेम) लगाई (लगाया है), सोहनी (सुंदर सज-संवर कर) बण (बन) तण (ठान कर) सभ (हर) कोई (कोई) आई (आई है),",
+          "english_gloss": "bullha (Bulleh) shauh (with the Lord) sang (with) preet (love) lagaai (forged), sohni (beautiful) ban (becoming) tan (adorned) sabh (all) koi (everyone) aai (came),"
+        },
+        {
+          "original": "वेख के शाह इनायत साईं, जिय मेरा भर आइयो रे ;",
+          "hindi_gloss": "वेख (देख) के (कर) शाह (शाह) इनायत (इनायत) साईं (स्वामी को), जिय (हृदय) मेरा (मेरा) भर (आंसुओं से भर) आइयो (आया है) रे ;",
+          "english_gloss": "vekh (beholding) ke (having) shah (Shah) inaayat (Inayat) saaeen (Master), jiy (heart) mera (my) bhar (welled up) aaiyo (came) re ;"
+        }
+      ],
+      "hindi_meaning": "हे साजन! आने में इतनी देर क्यों लगा दी?\nमन में ऐसी विरह-वेदना उठी है,\nकि सुख और दुख का भेद ही मिट गया है!\nसारे साज-श्रृंगार को आग लगा दूँ,\nहृदय के भीतर विरह की ज्वाला धधक रही है;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nज्ञान और उपदेश की ऐसी बातें सुनीं,\nकि सारे नाम और निशान बेअसर हो गए!\nरात भर कोयल की तरह कूकती तड़पती हूँ,\nपर तुझको ज़रा भी तरस न आया;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nगले में मृगछाला और सिर पर खप्पर लिए,\nतेरे दर्शन की भीख मांगती रोती फिरती हूँ!\nजोगन बन जटाएं रख ली हैं,\nऔर सारे अंगों पर भस्म रमा ली है;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nइश्क रूपी मुल्लां ने जब अज़ान दी,\nतो अंतर्मन में सत्य की बात जाग उठी!\nसजदे करती हुई तेरे घर की ओर दौड़ी,\nऔर माथे पर इबादत का मेहराब सजा लिया;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nप्रेम-नगर की रीत ही बड़ी उल्टी है,\nजहाँ खून के आंसू बहाने वाले नैन भी खुशहाल हैं!\nअपने-आप प्रेम के जाल में फंस गए,\nऔर फंस-फंस कर खुद को कुर्बान कर दिया;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nविरह का यह दुख कभी पुराना नहीं पड़ता,\nजिस तन पर यह बीतती है वही इसका मर्म जानता है!\nभीतर प्रियतम की झिड़कियां और बाहर दुनिया के ताने,\nप्रेम करके केवल विरह का दुख ही पाया;\nहे साजन! आने में इतनी देर क्यों लगा दी?\n\nबुल्ले शाह ने उस परमेश्वर से प्रीत लगाई है,\nहर कोई सज-संवर कर सुहागिन बनकर आई है;\nपर जब सतगुरु शाह इनायत का दीदार किया,\nतो मेरा हृदय प्रेम के आंसुओं से भर आया;\nहे साजन! आने में इतनी देर क्यों लगा दी?",
+      "english_meaning": "O Beloved! Why have You delayed so long?\nSuch an inner pang has struck my mind,\nThat all sorrow and joy are washed away!\nI would set fire to all ornaments and adornments,\nA blazing inferno rages within my breast;\nO Beloved! Why have You delayed so long?\n\nHearing these deep discourses of spiritual knowledge,\nAll earthly names and traces seem meaningless!\nLike a cuckoo I cry out in the dark of night,\nYet pity has not touched Your heart;\nO Beloved! Why have You delayed so long?\n\nWith deer-skin on my neck and begging bowl in hand,\nI wander weeping, begging for a single glimpse of You!\nI have taken the name of an ascetic yogini with matted locks,\nSmearing sacred ash across my limbs;\nO Beloved! Why have You delayed so long?\n\nWhen Love, like a Mullah, sounded the call to prayer,\nThe imperative of divine truth dawned upon me!\nProstrating in devotion, I rushed toward Your home,\nImprinting the mihrab of surrender upon my forehead;\nO Beloved! Why have You delayed so long?\n\nUpside down are the ways of Love's domain,\nWhere blood-weeping eyes rejoice in ecstasy!\nWillingly I fell into love's tender snare,\nEntangled and gladly slaughtered in sacrifice;\nO Beloved! Why have You delayed so long?\n\nThe grief of separation never grows old,\nOnly the body that endures it knows its depth!\nScoldings from within and mockery from the world without,\nIn loving You, only the ache of yearning was earned;\nO Beloved! Why have You delayed so long?\n\nBulleh Shah has forged love with the Supreme Lord,\nEach soul arrives adorned like a lovely bride;\nYet beholding the Master, Shah Inayat the Divine,\nMy heart wells up in tears of sacred love;\nO Beloved! Why have You delayed so long?"
+    }
+  ]
+}

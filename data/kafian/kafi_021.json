@@ -1,0 +1,104 @@
+{
+  "id": 21,
+  "title": "21. बुल्ला की जाणा मैं कौण",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "ना मैं मोमन विच मसीतां, ना मैं विच कुफ़र दीआं रीतां,\nना मैं पाकां विच पलीतां, ना मैं मूसा ना फरऔन ।\nबुल्ल्हा की जाणा मैं कौण ।\n\nना मैं अन्दर बेद किताबां, ना विच भंगां ना शराबां,\nना विच रिन्दां मसत खराबां, ना विच जागन ना विच सौण ।\nबुल्ल्हा की जाणा मैं कौण ।\n\nना विच शादी ना ग़मनाकी, ना मैं विच पलीती पाकी,\nना मैं आबी ना मैं ख़ाकी, ना मैं आतिश ना मैं पौण ।\nबुल्ल्हा की जाणा मैं कौण ।\n\nना मैं अरबी ना लाहौरी, ना मैं हिन्दी शहर नगौरी,\nना हिन्दू ना तुर्क पशौरी, ना मैं रहन्दा विच नदौण ।\nबुल्ल्हा की जाणा मैं कौण ।\n\nना मैं भेत मज़हब दा पाइआ, ना मैं आदम हवा जाइआ,\nना मैं आपना नाम धराइआ, ना विच बैठण ना विच भौण ।\nबुल्ल्हा की जाणा मैं कौण ।\n\nअव्वल आखर आप नूं जाणां, ना कोई दूजा होर पछाणां,\nमैथों होर ना कोई स्याणा, बुल्हा शाह खढ़ा है कौण ।\nबुल्ल्हा की जाणा मैं कौण ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "ना मैं मोमन विच मसीतां, ना मैं विच कुफ़र दीआं रीतां,",
+          "hindi_gloss": "ना (न) मैं (मैं) मोमन (सच्चा मोमिन/मुसलमान) विच (में) मसीतां (मस्जिदों में), ना (न) मैं (मैं) विच (में) कुफ़र (कुफ़्र/अधर्म) दीआं (की) रीतां (रीतियों में),",
+          "english_gloss": "na (neither) main (I) moman (orthodox believer) vich (in) maseetaan (mosques), na (nor) main (I) vich (in) kufar (infidelity/heresy) deeyaan (of) reetaan (customs/rites),"
+        },
+        {
+          "original": "ना मैं पाकां विच पलीतां, ना मैं मूसा ना फरऔन ।",
+          "hindi_gloss": "ना (न) मैं (मैं) पाकां (पवित्रों) विच (में) पलीतां (न अपवित्रों में), ना (न) मैं (मैं) मूसा (हज़रत मूसा) ना (न ही) फरऔन (फ़िरऔन/अहंकारी राजा) ।",
+          "english_gloss": "na (neither) main (I) paakaan (among the pure) vich (nor) paleetaan (among the impure), na (neither) main (I) moosa (Moses) na (nor) far-aun (Pharaoh) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        },
+        {
+          "original": "ना मैं अन्दर बेद किताबां, ना विच भंगां ना शराबां,",
+          "hindi_gloss": "ना (न) मैं (मैं) अन्दर (भीतर) बेद (वेदों) किताबां (और धर्मग्रंथों में), ना (न) विच (में) भंगां (भांग) ना (न) शराबां (मदिरा में),",
+          "english_gloss": "na (neither) main (I) andar (within) bed (Vedas) kitaabaan (holy scriptures), na (nor) vich (in) bhangaan (intoxicating hemp) na (nor) sharaabaan (wines),"
+        },
+        {
+          "original": "ना विच रिन्दां मसत खराबां, ना विच जागन ना विच सौण ।",
+          "hindi_gloss": "ना (न) विच (में) रिन्दां (मस्त फ़क़ीरों) मसत (मतवालों) खराबां (शराबख़ाने के मस्तों में), ना (न) विच (में) जागन (जागने में) ना (न) विच (में) सौण (सोने में) ।",
+          "english_gloss": "na (neither) vich (among) rindaan (free-spirited mystics) masat (intoxicated) kharaabaan (tavern-dwellers), na (nor) vich (in) jaagan (waking) na (nor) vich (in) saun (sleeping) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        },
+        {
+          "original": "ना विच शादी ना ग़मनाकी, ना मैं विच पलीती पाकी,",
+          "hindi_gloss": "ना (न) विच (में) शादी (हर्षोल्लास) ना (न) ग़मनाकी (शोक और दुःख में), ना (न) मैं (मैं) विच (में) पलीती (अपवित्रता) पाकी (अथवा पवित्रता में),",
+          "english_gloss": "na (neither) vich (in) shaadi (joy/celebration) na (nor) gamnaaki (sorrow/grief), na (nor) main (I) vich (in) paleeti (defilement) paaki (or purity),"
+        },
+        {
+          "original": "ना मैं आबी ना मैं ख़ाकी, ना मैं आतिश ना मैं पौण ।",
+          "hindi_gloss": "ना (न) मैं (मैं) आबी (जल-तत्व का) ना (न) मैं (मैं) ख़ाकी (मिट्टी-तत्व का), ना (न) मैं (मैं) आतिश (अग्नि-तत्व) ना (न) मैं (मैं) पौण (वायु-तत्व) ।",
+          "english_gloss": "na (neither) main (I) aabi (of water) na (nor) main (I) khaaki (of dust/earth), na (neither) main (I) aatish (of fire) na (nor) main (I) paun (of wind/air) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        },
+        {
+          "original": "ना मैं अरबी ना लाहौरी, ना मैं हिन्दी शहर नगौरी,",
+          "hindi_gloss": "ना (न) मैं (मैं) अरबी (अरब का वासी) ना (न) लाहौरी (लाहौर का), ना (न) मैं (मैं) हिन्दी (हिंदुस्तानी) शहर (शहर) नगौरी (नागौर का),",
+          "english_gloss": "na (neither) main (I) arabi (an Arab) na (nor) laahori (of Lahore), na (nor) main (I) hindi (an Indian) shahar (city) nagauri (of Nagaur),"
+        },
+        {
+          "original": "ना हिन्दू ना तुर्क पशौरी, ना मैं रहन्दा विच नदौण ।",
+          "hindi_gloss": "ना (न) हिन्दू (हिन्दू) ना (न) तुर्क (तुर्क/मुसलमान) पशौरी (पेशावर का), ना (न) मैं (मैं) रहन्दा (रहता हूँ) विच (में) नदौण (नदौन नगर में) ।",
+          "english_gloss": "na (neither) hindu (Hindu) na (nor) turk (Turk/Muslim) pashauri (of Peshawar), na (nor) main (I) rahanda (dwell) vich (in) nadaun (Nadaun city) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        },
+        {
+          "original": "ना मैं भेत मज़हब दा पाइआ, ना मैं आदम हवा जाइआ,",
+          "hindi_gloss": "ना (न) मैं (मैंने) भेत (भेद/रहस्य) मज़हब (मज़हब) दा (का) पाइआ (पाया), ना (न) मैं (मैं) आदम (आदम) हवा (हव्वा से) जाइआ (जन्मा),",
+          "english_gloss": "na (neither) main (I) bhet (secret) mazhab (of religion) da (of) paaia (found), na (nor) main (I) aadam (Adam) hawa (Eve's) jaaia (begotten child),"
+        },
+        {
+          "original": "ना मैं आपना नाम धराइआ, ना विच बैठण ना विच भौण ।",
+          "hindi_gloss": "ना (न) मैं (मैंने) आपना (अपना कोई) नाम (नाम) धराइआ (रखा), ना (न) विच (में) बैठण (स्थिर बैठने में) ना (न) विच (में) भौण (भटकने/घूमने में) ।",
+          "english_gloss": "na (neither) main (I) aapna (my own) naam (name) dharaaia (devised), na (nor) vich (in) baithan (sitting still) na (nor) vich (in) bhaun (wandering/roaming) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        },
+        {
+          "original": "अव्वल आखर आप नूं जाणां, ना कोई दूजा होर पछाणां,",
+          "hindi_gloss": "अव्वल (आदि में) आखर (अंत में) आप (स्वयं परमात्मा) नूं (को ही) जाणां (जानता हूँ), ना (न) कोई (किसी) दूजा (दूसरे को) होर (अन्य) पछाणां (पहचानता हूँ),",
+          "english_gloss": "avval (first/beginning) aakhar (last/end) aap (the Self divine) noon (unto) jaanaan (I know), na (nor) koi (any) dooja (second) hor (other) pachhaanaan (I recognize),"
+        },
+        {
+          "original": "मैथों होर ना कोई स्याणा, बुल्हा शाह खढ़ा है कौण ।",
+          "hindi_gloss": "मैथों (मुझसे) होर (अधिक) ना (कोई नहीं) कोई (कोई) स्याणा (बुद्धिमान/सचेत), बुल्हा (बुल्ले) शाह (शाह के भीतर) खढ़ा (खड़ा) है (है) कौण (कौन) ।",
+          "english_gloss": "maithon (than me) hor (other) na (not) koi (any) syaana (wiser/aware), bullha (Bulleh) shaah (Shah) khadha (standing) hai (is) kaun (who) ."
+        },
+        {
+          "original": "बुल्ल्हा की जाणा मैं कौण ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले) की (क्या) जाणा (जानूँ) मैं (मैं) कौण (कौन हूँ) ।",
+          "english_gloss": "bullha (O Bulleh) kee (what) jaana (do I know) main (who I) kaun (am) ."
+        }
+      ],
+      "hindi_meaning": "न मैं मस्जिदों में बैठा मोमिन हूँ, न ही कुफ़्र की रीतियों में लीन,  \nन मैं पवित्रों में हूँ न अपवित्रों में, न मैं मूसा हूँ न अहंकारी फ़िरऔन!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!  \n\nन मैं वेदों और धर्मग्रंथों के पाखंड में हूँ, न भांग और शराब के नशे में,  \nन मैं मदमस्त रिंदों की टोली में हूँ, न जागने में हूँ न सोने में!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!  \n\nन मैं हर्ष और उत्सव में हूँ न गहरे शोक में, न मैल में हूँ न शुद्धि में,  \nन मैं जल का हूँ न मिट्टी का, न मैं अग्नि हूँ न पवन की गति में!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!  \n\nन मैं अरबी हूँ न लाहौरी, न मैं हिन्दुस्तानी नागौर शहर का,  \nन मैं हिन्दू हूँ न पेशावरी तुर्क, न नदौन में बसने वाला बाशिंदा!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!  \n\nन मैंने मज़हबों के छिपे भेद जाने, न मैं आदम और हव्वा की सन्तान हूँ,  \nन मैंने अपना कोई नाम रखा, न मैं ठहरने में हूँ न भटकने में!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!  \n\nआदि से अंत तक मैं केवल एक उस परम सत्य को जानता हूँ, उसके सिवा किसी दूजे को नहीं पहचानता,  \nमुझसे अधिक सचेत और कौन होगा, बुल्ले शाह के इस चोले में आख़िर खड़ा कौन है!  \nहे बुल्ले! मैं क्या जानूँ कि मैं कौन हूँ!",
+      "english_meaning": "Not a believer in the mosque am I, nor steeped in rites of heresy,  \nNeither among the righteous nor defiled, neither Moses nor Pharaoh's plea!  \nO Bulleh, what know I who I am!  \n\nNot in the Vedas nor sacred lore, nor intoxicated in hemp or wine,  \nNot among the roistering tavern wits, nor in sleep or waking mine!  \nO Bulleh, what know I who I am!  \n\nNeither in gladness nor in grief, neither in filth nor purity,  \nNeither of water nor of earth, nor fire or wind's obscurity!  \nO Bulleh, what know I who I am!  \n\nNot an Arab nor of Lahore, nor Indian from Nagaur's ground,  \nNeither a Hindu nor Peshawar's Turk, nor in Nadaun am I bound!  \nO Bulleh, what know I who I am!  \n\nNo secret rites of creeds I found, nor was I born of Adam's race,  \nI gave myself no worldly name, neither sitting still nor in wandering pace!  \nO Bulleh, what know I who I am!  \n\nFrom first to last I know but the One, recognizing none beside,  \nNone is wiser in this truth than I—who is this standing in Bulleh's hide?  \nO Bulleh, what know I who I am!"
+    }
+  ]
+}

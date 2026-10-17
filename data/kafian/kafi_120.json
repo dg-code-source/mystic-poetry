@@ -1,0 +1,301 @@
+{
+  "id": 120,
+  "title": "पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे",
+  "title_english": "I Shall Write Letters to Shyam: My Beloved is Nowhere in Sight!",
+  "historical_context": "यह 13 बंधों की एक अत्यंत विस्तृत, मार्मिक और शास्त्रीय विरह-काफी है। इसमें बुल्ले शाह वैष्णव और सूफी परंपराओं का अद्भुत समन्वय करते हैं। विरहिणी आत्मा अपने श्याम (श्रीकृष्ण/परमेश्वर) को प्रेम-पत्र (पत्तियां) लिखना चाहती है, परंतु उसके पास कागज नहीं है—वह अपने आंचल को कागज और नयनों के आंसुओं को स्याही बनाती है। वह ज्योतिषियों और पंडितों से प्रियतम के लौटने का समय पूछती है, परंतु वेद और पोथियों में उसका कोई उत्तर नहीं मिलता। जीवन की अंधियारी कोठरी में न दीपक है न बाती; अंत में सद्गुरु शाह इनायत कादरी के सान्निध्य और प्रेम-नगर में ही इस विरह का समाधान मिलता है।",
+  "meter": "पंजाबी-ब्रज मिश्रित काफी (मात्रािक छंद)",
+  "raga": "राग सारंग / काफी / आसावरी",
+  "theme": "श्याम को विरह-पत्र, आंसुओं की स्याही, ज्योतिषियों की असमर्थता, अंधियारी कोठरी, शाह इनायत का प्रेम-नगर",
+  "stanzas": [
+    {
+      "original": [
+        "पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे ।  ",
+        "आंगन बना ड्राउणा, कित बिध रैन वेहावे ।"
+      ],
+      "hindi_gloss": [
+        "पत्तियां (प्रेम-पत्र) लिखूंगी (लिखूँगी) मैं (मैं अपने प्राण-प्यारे) शाम (श्याम/श्रीकृष्ण) नूं (को), पिया (क्योंकि मेरा प्रियतम) मैनूं (मुझको कहीं भी) नज़र (दिखाई) ना (नहीं) आवे (आता) ।",
+        "आंगन (मेरा यह घर-आँगन) बना (बन गया है अत्यंत) ड्राउणा (डरावना/भयभीत करने वाला), कित (किस) बिध (प्रकार/विधि से विरह की यह लंबी) रैन (रात) वेहावे (बीतेगी) ।"
+      ],
+      "english_gloss": [
+        "पत्तियां लिखूंगी मैं (I shall write love-letters) शाम नूं (unto Shyam / Beloved), पिया मैनूं नज़र ना आवे (my Beloved is visible nowhere to my sight) ।",
+        "आंगन बना ड्राउणा (my courtyard has turned frightening), कित बिध रैन वेहावे (how shall this night of sorrow pass) ।"
+      ],
+      "poetic_hindi": [
+        "पाती लिखूँगी मैं श्याम को, पिया कहीं नज़र न आवे,",
+        "आँगन बना डरावना, किस बिध यह रैन बितावे?"
+      ],
+      "poetic_english": [
+        "I shall write letters to my Shyam, my Love is nowhere in my sight;",
+        "The courtyard turns so desolate—how shall I pass this lonely night?"
+      ]
+    },
+    {
+      "original": [
+        "कागज़ करूं लिख दामने, नैन आंसू लाऊं ।  ",
+        "बिरहों जारी हौं जारी, दिल फूक जलाऊं ।"
+      ],
+      "hindi_gloss": [
+        "कागज़ (कागज) करूं (बनाऊँगी मैं अपने) लिख (लिखने के लिए) दामने (हृदय के आंचल/दामन को), नैन (और दोनों नेत्रों के) आंसू (अश्रुओं की स्याही) लाऊं (लगाऊँगी),",
+        "बिरहों (यह दारुण विरह) जारी (लगातार जारी है) हौं (और मैं विलाप में) जारी (व्याकुल हूँ), दिल (अपने हृदय को प्रेम की आंच में) फूक (फूँक-फूँक कर) जलाऊं (जला रही हूँ) ।"
+      ],
+      "english_gloss": [
+        "कागज़ करूं लिख दामने (I shall make paper of my apron for writing), नैन आंसू लाऊं (and bring the ink of my weeping eyes),",
+        "बिरहों जारी हौं जारी (separation rages on, my lament continues), दिल फूक जलाऊं (burning and consuming my aching heart) ।"
+      ],
+      "poetic_hindi": [
+        "दामन को कागज करूँ, नयनों के अश्रु बहाऊँ,",
+        "विरह की ज्वाला भड़के, दिल फूँक-फूँक जलाऊँ !"
+      ],
+      "poetic_english": [
+        "I’ll make my apron paper white, with tears of eyes the ink supply;",
+        "Consuming all my heart in flames, while separation’s tempests sigh!"
+      ]
+    },
+    {
+      "original": [
+        "पांधे पंडत जगत के, पुच्छ रहियां सारे ।  ",
+        "बेद पोथी क्या दोस है, उलटे भाग हमारे ।  ",
+        "नींद गई किते देस नूं, उह भी वैरन हमारे ।"
+      ],
+      "hindi_gloss": [
+        "पांधे (पंडितों) पंडत (और विद्वानों से) जगत (संसार भर) के (के), पुच्छ (पूछ-पूछ कर) रहियां (हार गई हूँ मैं) सारे (सबके द्वारे),",
+        "बेद (वेदों और) पोथी (पोथियों का इसमें) क्या (क्या) दोस (दोष हो सकता) है, उलटे (उलटे ही फूट गए हैं) भाग (प्रारब्ध/भाग्य) हमारे (हमारे),",
+        "नींद (नेत्रों की नींद भी) गई (चली गई है) किते (किसी अज्ञात) देस (देश) नूं (को), उह (वह नींद) भी (भी बन गई है अब) वैरन (शत्रु) हमारे (हमारी) ।"
+      ],
+      "english_gloss": [
+        "पांधे पंडत जगत के (all the pandits and astrologers of the world), पुच्छ रहियां सारे (I have asked them all),",
+        "बेद पोथी क्या दोस है (what fault is in the Vedas and scriptures), उलटे भाग हमारे (perverse is my own destiny),",
+        "नींद गई किते देस नूं (sleep has departed unto some distant realm), उह भी वैरन हमारे (she too has become our bitter foe) ।"
+      ],
+      "poetic_hindi": [
+        "पंडित-ज्योतिषी सब पूछे, वेद-किताबों का क्या दोष?",
+        "उलटे हैं मेरे ही कर्म, नींद भी बैरन बन गई आज !"
+      ],
+      "poetic_english": [
+        "I questioned pandits far and wide; what fault have holy scriptures known?",
+        "Perverse is my own destined lot; sleep too has fled to lands unknown!"
+      ]
+    },
+    {
+      "original": [
+        "रो रो जीयो लाउंदियां, गम करनी आं दूना ।  ",
+        "नैणों नीर ना चले, किसे क्या कीता टूना ।"
+      ],
+      "hindi_gloss": [
+        "रो (रो-) रो (रोकर किसी तरह अपना) जीयो (जी/प्राण) लाउंदियां (संभालती हूँ, परंतु) गम (मेरा शोक/दुख) करनी (होता जाता है) आं (है) दूना (दोगुना),",
+        "नैणों (अब तो इन नेत्रों से) नीर (आंसू भी) ना (नहीं) चले (बह रहे, सूख चुके हैं), किसे (जाने किसी ने मुझ पर) क्या (कैसा वशीकरण का) कीता (कर दिया है) टूना (टोना-टोटका/जादू) ।"
+      ],
+      "english_gloss": [
+        "रो रो जीयो लाउंदियां (weeping and weeping I steady my heart), गम करनी आं दूना (yet grief multiplies twofold),",
+        "नैणों नीर ना चले (even tears no longer flow from dried-up eyes), किसे क्या कीता टूना (what strange spell has someone cast on me) ।"
+      ],
+      "poetic_hindi": [
+        "रो-रो कर दिल बहलाऊँ, पर गम बढ़ता जाए दूना,",
+        "अंखियों से अब नीर न निकले, किसने किया यह टोना?"
+      ],
+      "poetic_english": [
+        "I try to soothe my soul with tears, yet sorrow doubles day by day;",
+        "The tears run dry within my eyes—what witchcraft took my peace away?"
+      ]
+    },
+    {
+      "original": [
+        "पीड़ पराई जर रही, दुक्ख रुंम-रुंम जागे ।  ",
+        "बेदरदी बाहीं टोह के, मुड़ पाछे भागे ।"
+      ],
+      "hindi_gloss": [
+        "पीड़ (प्रेम की यह असह्य) पराई (पीड़ा) जर (सहन कर) रही (रही हूँ), दुक्ख (विरह का दुख मेरे) रुंम-रुंम (रोम-रोम में) जागे (जाग उठा है),",
+        "बेदरदी (वह निर्मोही प्रियतम केवल) बाहीं (मेरी बांहों को तनिक) टोह (टटोल) के (करके), मुड़ (पुनः मुड़कर) पाछे (पीछे की ओर) भागे (भाग खड़ा हुआ) ।"
+      ],
+      "english_gloss": [
+        "पीड़ पराई जर रही (I endure the profound pain of love), दुक्ख रुंम-रुंम जागे (grief awakes in every pore of my being),",
+        "बेदरदी (the heedless Beloved) बाहीं टोह के (merely touching my arms), मुड़ पाछे भागे (turned and fled backward) ।"
+      ],
+      "poetic_hindi": [
+        "प्रेम-पीर को सहती हूँ, दुख रोम-रोम में जागे,",
+        "बेदर्दी बांहों को छूकर, मुड़ पीछे की ओर भागे !"
+      ],
+      "poetic_english": [
+        "I bear the deep pangs of love; in every pore acute grief stirs;",
+        "The heartless Lover touched my arm, then fled away beyond the spurs!"
+      ]
+    },
+    {
+      "original": [
+        "भाईआ वे जोतशिया, इक बात सच्ची वी कहीयो ।  ",
+        "जो मैं हीनी करम दी, तुसीं चुप्प के हो रहीयो ।"
+      ],
+      "hindi_gloss": [
+        "भाईआ (हे भाई) वे (अरे) जोतशिया (ज्योतिषी), इक (एक) बात (बात तो) सच्ची (सर्वथा सत्य) वी (भी) कहीयो (कह दे),",
+        "जो (यदि) मैं (मैं ही) हीनी (विहीन/अभागिन हूँ शुभ) करम (कर्मों और भाग्य) दी (की), तुसीं (तो तुम सच बताकर) चुप्प (मौन क्यों) के (होकर) हो (हो) रहीयो (बैठ रहे हो) ।"
+      ],
+      "english_gloss": [
+        "भाईआ वे जोतशिया (O brother astrologer), इक बात सच्ची वी कहीयो (speak one true word to me),",
+        "जो मैं हीनी करम दी (if I am bereft of good fortune and deeds), तुसीं चुप्प के हो रहीयो (why dost thou sit in cold silence) ।"
+      ],
+      "poetic_hindi": [
+        "ऐ भाई ज्योतिषी, इक बात सच-सच कह दे तू आज,",
+        "गर मैं ही भाग्य-हीन हूँ, तो चुप क्यों साधे महाराज?"
+      ],
+      "poetic_english": [
+        "O brother seer of stars, speak out one honest word of truth to me;",
+        "If I am cursed with wretched fate, why sit in silent mystery?"
+      ]
+    },
+    {
+      "original": [
+        "इक हनेरी कोठड़ी, दूजा दीवा ना बाती ।  ",
+        "बांहों फड़ के लै चले, कोई संग ना साथी ।"
+      ],
+      "hindi_gloss": [
+        "इक (एक तो यह संसार) हनेरी (अंधियारी) कोठड़ी (कोठरी है), दूजा (और दूसरे यहाँ न कोई) दीवा (दीपक है) ना (और न ही) बाती (बाती है),",
+        "बांहों (मृत्यु के दूत बांहों से) फड़ (पकड़) के (करके) लै (ले) चले (चल पड़े हैं), कोई (साथ में कोई भी) संग (संगी) ना (नहीं है और न कोई) साथी (साथी) ।"
+      ],
+      "english_gloss": [
+        "इक हनेरी कोठड़ी (one, this dark narrow cell of clay), दूजा दीवा ना बाती (second, neither lamp nor wick to guide),",
+        "बांहों फड़ के लै चले (they seize by the arm and lead away), कोई संग ना साथी (with no companion or friend beside) ।"
+      ],
+      "poetic_hindi": [
+        "एक अंधेरी कोठरी, दूजा न दीया न बाती,",
+        "बांह पकड़ यम ले चले, कोई न संगी-साथी !"
+      ],
+      "poetic_english": [
+        "A darkened cell of dust awaits, where neither lamp nor wick is found;",
+        "They drag me by the arm away, with no companion on that ground!"
+      ]
+    },
+    {
+      "original": [
+        "भज्ज सक्कां ना भज्जां जां, सच्च इश्क फकीरी ।  ",
+        "दुलड़ी तिलड़ी चौलड़ी, गल प्रेम ज़ंजीरी ।"
+      ],
+      "hindi_gloss": [
+        "भज्ज (भाग) सक्कां (सकती) ना (नहीं मैं इस प्रेम से) भज्जां (और न ही भागने का) जां (कोई मार्ग है), सच्च (सच्चा है यह) इश्क (दिव्य प्रेम और) फकीरी (दरवेशी का मार्ग),",
+        "दुलड़ी (दोहरी) तिलड़ी (तिहरी) चौलड़ी (और चौहरी जकड़न की) गल (गले में पड़ी हुई है) प्रेम (इलाही प्रेम की) ज़ंजीरी (ज़ंजीर) ।"
+      ],
+      "english_gloss": [
+        "भज्ज सक्कां ना भज्जां जां (I can neither flee nor is there any escape), सच्च इश्क फकीरी (true is the path of Love and fakirhood),",
+        "दुलड़ी तिलड़ी चौलड़ी (twofold, threefold, fourfold chains), गल प्रेम ज़ंजीरी (the collar-chain of Love around the neck) ।"
+      ],
+      "poetic_hindi": [
+        "भाग सकूँ न भागने की राह, सच्चा इश्क-फकीरी सार,",
+        "दोहरी-तिहरी-चौहरी जकड़ी, गले पड़ी प्रेम-ज़ंजीर अपार !"
+      ],
+      "poetic_english": [
+        "I cannot flee, no path of flight; true is Love’s holy poverty;",
+        "Twined twofold, threefold, fourfold deep, the chains of Love encircle me!"
+      ]
+    },
+    {
+      "original": [
+        "पापी दोनों गुंम हूए, सिर लागी जानी ।  ",
+        "गए अनायत कादरी, मैं फिर कठन कहानी ।"
+      ],
+      "hindi_gloss": [
+        "पापी (दोनों पापी नेत्र) दोनों (दोनों ही) गुंम (विलीन/अंधे) हूए (हो गए), सिर (सिर पर अब) लागी (आ बनी है) जानी (प्राणों पर भारी विपत्ति),",
+        "गए (चले गए दूर) अनायत (हज़रत शाह इनायत) कादरी (कादरी मुर्शिद), मैं (अब मेरी यह विरह की) फिर (फिर से बन गई है) कठन (अत्यंत कठिन) कहानी (व्यथा-कथा) ।"
+      ],
+      "english_gloss": [
+        "पापी दोनों गुंम हूए (both sinful eyes have vanished in tears), सिर लागी जानी (life itself is placed at stake),",
+        "गए अनायत कादरी (Inayat Qadri has departed afar), मैं फिर कठन कहानी (my tale has become arduous again) ।"
+      ],
+      "poetic_hindi": [
+        "दोनों पापी नैन खो गए, सिर पे आ बनी है जान,",
+        "छोड़ गए शाह इनायत कादरी, कठिन हुई विरह की तान !"
+      ],
+      "poetic_english": [
+        "Both sinful eyes dissolved in tears; my very life is placed at stake;",
+        "Shah Inayat Qadri departed far—how hard the tale of this heartbreak!"
+      ]
+    },
+    {
+      "original": [
+        "इक फिकरां दी गोदड़ी, लग्गे प्रेम दे धागे ।  ",
+        "सुक्खिया होवे पै सवें, कोई दुक्खिया जागे ।"
+      ],
+      "hindi_gloss": [
+        "इक (एक तो यह) फिकरां (चिंताओं की फटी हुई) गोदड़ी (गुदड़ी है काया), लग्गे (जिसमें लगे हुए हैं) प्रेम (इलाही प्रेम) दे (के) धागे (टांके/धागे),",
+        "सुक्खिया (जो सांसारिक सुखिया जीव हैं वह) होवे (होकर निश्चिंत) पै (पड़े) सवें (सोते रहते हैं), कोई (परंतु कोई विरही) दुक्खिया (दुखियारा ही रात भर) जागे (जागता रहता है) ।"
+      ],
+      "english_gloss": [
+        "इक फिकरां दी गोदड़ी (a patched quilt of worldly cares), लग्गे प्रेम दे धागे (stitched with the threads of divine Love),",
+        "सुक्खिया होवे पै सवें (the carefree worldly men lie down in sleep), कोई दुक्खिया जागे (a wounded lover alone keeps wakeful vigil) ।"
+      ],
+      "poetic_hindi": [
+        "चिंताओं की गुदड़ी पहनी, प्रेम के धागे उसमें पिरोए,",
+        "सुखी पड़े निश्चिंत सोएँ, कोई विरही दुखियारा रोए !"
+      ],
+      "poetic_english": [
+        "A patched coat woven of deep cares, stitched with the cords of Love divine;",
+        "The carefree worldly sleep in ease; the wounded lover wakes to pine!"
+      ]
+    },
+    {
+      "original": [
+        "दसत फुल्लां दी टोकरी, कोई ल्यो बपारी ।  ",
+        "दर दर होका दे रहियां, सब चलणहारी ।"
+      ],
+      "hindi_gloss": [
+        "दसत (हाथ में है मेरे) फुल्लां (प्रेम-पुष्पों) दी (की) टोकरी (डलिया), कोई (है क्या कोई ऐसा) ल्यो (जो इसे ले ले) बपारी (सच्चा व्यापारी),",
+        "दर (द्वार-) दर (द्वार पर मैं) होका (पुकार/फेरी) दे (दे) रहियां (रही हूँ कि), सब (यह सारी सृष्टि) चलणहारी (विनाशशील/चलनहार है) ।"
+      ],
+      "english_gloss": [
+        "दसत फुल्लां दी टोकरी (in hand is a basket of fragrant blossoms), कोई ल्यो बपारी (is there any merchant who will buy),",
+        "दर दर होका दे रहियां (from door to door I cry the hawker's call), सब चलणहारी (all this creation is transient and bound to depart) ।"
+      ],
+      "poetic_hindi": [
+        "हाथों में फूलों की टोकरी, कोई ले लो सच्चा व्यापारी,",
+        "द्वारे-द्वारे फेरी लगाऊँ: यह दुनिया है चलनहारी !"
+      ],
+      "poetic_english": [
+        "A basket of flowers within my hand—is there a merchant who will buy?",
+        "From door to door I call aloud: all mortal things must fade and die!"
+      ]
+    },
+    {
+      "original": [
+        "प्रेम नगर चल चल्लीए, जिथे कंत हमारा ।  ",
+        "बुल्ल्हा शहु तों मंगनी हां, जो दे नज़ारा ।"
+      ],
+      "hindi_gloss": [
+        "प्रेम (उस पावन प्रेम) नगर (के नगर में) चल (चलकर) चल्लीए (चलें), जिथे (जहाँ विराजमान है) कंत (परम स्वामी/प्रियतम) हमारा (हमारा),",
+        "बुल्ल्हा (बुल्ले शाह कहते हैं) शहु (उस परमात्मा) तों (से मैं यही भीख) मंगनी (मांगती) हां (हूँ), जो (कि वह मुझको अपना साक्षात) दे (दे दे) नज़ारा (दीदार/दर्शन) ।"
+      ],
+      "english_gloss": [
+        "प्रेम नगर चल चल्लीए (let us arise and go unto the City of Love), जिथे कंत हमारा (where dwells our Sovereign Lord and Spouse),",
+        "बुल्ल्हा शहु तों मंगनी हां (Bulleh begs of the Sovereign Lord), जो दे नज़ारा (to grant the vision of His face) ।"
+      ],
+      "poetic_hindi": [
+        "प्रेम-नगर को चल री सखी, जहाँ बसता प्रियतम प्यारा,",
+        "बुल्ला साहिब से यही माँगे: दे दे अपना दिव्य नज़ारा !"
+      ],
+      "poetic_english": [
+        "Arise and seek the City of Love, where our True Sovereign Spouse abides;",
+        "Bulleh entreats the King of kings to show the face that beauty hides!"
+      ]
+    },
+    {
+      "original": [
+        "पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे ।  ",
+        "आंगन बना ड्राउणा, कित बिध रैन वेहावे ।"
+      ],
+      "hindi_gloss": [
+        "पत्तियां (प्रेम-पत्र) लिखूंगी (लिखूँगी) मैं (मैं अपने) शाम (श्याम) नूं (को), पिया (प्रियतम) मैनूं (मुझको) नज़र (दिखाई) ना (नहीं) आवे (आता) ।",
+        "आंगन (आँगन) बना (बन गया है) ड्राउणा (भयभीत करने वाला), कित (किस) बिध (प्रकार) रैन (रात) वेहावे (बीतेगी) ।"
+      ],
+      "english_gloss": [
+        "पत्तियां लिखूंगी मैं शाम नूं (I shall write love-letters to Shyam), पिया मैनूं नज़र ना आवे (my Beloved is visible nowhere to my sight) ।",
+        "आंगन बना ड्राउणा (the courtyard has turned frightening), कित बिध रैन वेहावे (how shall this night of sorrow pass) ।"
+      ],
+      "poetic_hindi": [
+        "पाती लिखूँगी मैं श्याम को, पिया कहीं नज़र न आवे,",
+        "आँगन बना डरावना, किस बिध यह रैन बितावे?"
+      ],
+      "poetic_english": [
+        "I shall write letters to my Shyam, my Love is nowhere in my sight;",
+        "The courtyard turns so desolate—how shall I pass this lonely night?"
+      ]
+    }
+  ],
+  "sufi_commentary": "यह 13 बंधों की काफी भक्ति साहित्य (विशेष रूप से मीराबाई और सूरदास के विरह-पदों) और सूफी तसव्वुफ के मधुरतम संगम का प्रतीक है। बुल्ले शाह परमात्मा को 'श्याम' कहकर संबोधित करते हैं, जो उनके सर्वसमावेशी आध्यात्मिक दृष्टिकोण का परिचायक है। विरहिणी का अपने आंचल को कागज और आंसुओं को स्याही बनाना भारतीय काव्य-रूढ़ि की पराकाष्ठा है। पंडितों और पोथियों का समाधान न दे पाना यह सिद्ध करता है कि प्रेम का रोग बुद्धि और शास्त्रों से ठीक नहीं हो सकता। 7वें बंध में 'हनेरी कोठड़ी' मृत्यु और कब्र का रूपक है, जबकि 9वें बंध में हज़रत शाह इनायत कादरी का उल्लेख यह स्पष्ट करता है कि इस विरह-व्यथा का अंत केवल पूर्ण मुर्शिद के दीदार और 'प्रेम नगर' में ही संभव है।"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2,
+  "title": "2. आओ फ़कीरो मेले चलिए",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "आयो फ़कीरो मेले चलिए, आरफ़ दा सुन वाजा रे ।\nअनहद सबद सुनो बहु रंगी, तजीए भेख प्याजा रे ।\nअनहद बाजा सरब मिलापी, निरवैरी सिरनाजा रे ।\nमेले बाझों मेला औतर, रुढ़ ग्या मूल व्याजा रे ।\nकठिन फ़कीरी रसता आशक, कायम करो मन बाजा रे ।\nबन्दा रब्ब ब्रिहों  इक मगर सुख, बुल्हा पड़ जहान बराजा रे ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "आयो फ़कीरो मेले चलिए, आरफ़ दा सुन वाजा रे ।",
+          "hindi_gloss": "आयो (आओ) फ़कीरो (हे फकीरों/साधकों) मेले (सत्संग/मिलन के मेले में) चलिए (चलें), आरफ़ (ज्ञानी/ब्रह्मवेत्ता) दा (का) सुन (सुनकर) वाजा (बाजा/नाद) रे (रे) ।",
+          "english_gloss": "aayo (come) fakeero (O seekers/dervishes) mele (to the spiritual fair/gathering) chaliye (let us go), aaraf (of the enlightened gnostic) da (of) sun (hearing) vaaja (music/instrument) re (O friend) ."
+        },
+        {
+          "original": "अनहद सबद सुनो बहु रंगी, तजीए भेख प्याजा रे ।",
+          "hindi_gloss": "अनहद (अनाहत/असीम) सबद (शब्द/नाद) सुनो (सुनो) बहु (अनेक) रंगी (रंगों/छवियों वाला), तजीए (त्याग दें) भेख (पाखंडी भेष) प्याजा (दिखावे का/छलपूर्ण) रे (रे) ।",
+          "english_gloss": "anhad (unstruck/boundless) sabad (celestial sound/word) suno (listen to) bahu (many) rangi (colorful/wondrous), tajiye (let us renounce) bhekh (guises/robes) pyaaja (hypocritical/pretentious) re (O friend) ."
+        },
+        {
+          "original": "अनहद बाजा सरब मिलापी, निरवैरी सिरनाजा रे ।",
+          "hindi_gloss": "अनहद (अनाहत) बाजा (संगीत/बाजा) सरब (सबको) मिलापी (मिलाने/एकाकार करने वाला), निरवैरी (वैर-रहित) सिरनाजा (सर्वश्रेष्ठ/मुकुटमणि) रे (रे) ।",
+          "english_gloss": "anhad (unstruck) baaja (divine instrument) sarab (with all) milaapi (unifying/harmonizing), nirvairi (free from malice) sirnaaja (supreme/crowning glory) re (O friend) ."
+        },
+        {
+          "original": "मेले बाझों मेला औतर, रुढ़ ग्या मूल व्याजा रे ।",
+          "hindi_gloss": "मेले (प्रभु-मिलन) बाझों (के बिना) मेला (यह संसार रूपी मेला) औतर (व्यर्थ/बांझ), रुढ़ (बह) ग्या (गया) मूल (मूलधन/यह जीवन) व्याजा (ब्याज/कर्म-फल) रे (रे) ।",
+          "english_gloss": "mele (divine union) baajhon (without) mela (this worldly carnival) autar (barren/fruitless), rudh (swept away) gya (has gone) mool (principal/life) vyaaja (interest/merits) re (O friend) ."
+        },
+        {
+          "original": "कठिन फ़कीरी रसता आशक, कायम करो मन बाजा रे ।",
+          "hindi_gloss": "कठिन (दुर्गम/कठिन) फ़कीरी (फकीरी/त्याग का) रसता (मार्ग) आशक (हे प्रेमी), कायम (स्थिर/अडिग) करो (करो) मन (मन के) बाजा (बाजे/ध्यान को) रे (रे) ।",
+          "english_gloss": "kathin (arduous/difficult) fakeeri (of renunciation/dervishhood) rasta (path) aashak (O lover), kaayam (steady/resolute) karo (make) man (of mind) baaja (instrument/focus) re (O friend) ."
+        },
+        {
+          "original": "बन्दा रब्ब ब्रिहों  इक मगर सुख, बुल्हा पड़ जहान बराजा रे ।",
+          "hindi_gloss": "बन्दा (जीवात्मा/मानव) रब्ब (परमात्मा) ब्रिहों (प्रेम-विरह में) इक (एकाकार/एक) मगर (तभी) सुख (सच्चा सुख), बुल्हा (बुल्ला) पड़ (पार पाकर) जहान (संसार के) बराजा (प्रपंच/दिखावे को) रे (रे) ।",
+          "english_gloss": "banda (human seeker) rabb (the Lord) brihon (in the pangs of separation) ik (one/united) magar (only then) sukh (true bliss), bullha (Bulleh) pad (surpassing/transcending) jahaan (of world) baraaja (carnival/illusions) re (O friend) ."
+        }
+      ],
+      "hindi_meaning": "आओ फकीरो, उस मेले चलें,\nज्ञानी पीर का बाजा सुनकर चलें!\n\nअनाहत शब्द सुनो बहुरंगी,\nछोड़ो सारे भेष और ढोंग-पाखंडी!\nअनाहत बाजा सबको मिलाता,\nवैर-रहित, सिरताज कहलाता!\n\nसच्चे मिलन बिन यह मेला है सूना,\nमूल और ब्याज सब बह जाएगा दूना!\nकठिन फकीरी का मार्ग है प्रेमी,\nमन के बाजे को स्थिर करो नेमी!\n\nविरह की तपन में आत्मा-प्रभु एक हों,\nसंसार का प्रपंच छोड़, बुल्ले के बोल सच हों!",
+      "english_meaning": "Come, O dervishes, let us to the gathering go,\nHearing the mystic flute softly blow!\n\nListen to the unstruck celestial sound,\nCast off the false robes of deceit around!\nThis unstruck music all hearts will bind,\nFree from all malice, supreme of its kind!\n\nWithout the Beloved, this carnival is vain,\nBoth principal and interest are washed in pain!\nArduous is the lover's dervish way,\nAttune your mind, do not go astray!\n\nIn the fire of longing, soul and Lord are one,\nRise above worldly shadows, the quest is won!"
+    }
+  ]
+}

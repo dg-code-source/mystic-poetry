@@ -1,0 +1,64 @@
+{
+  "id": 28,
+  "title": "28. इह अचरज साधो कौण कहावे",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "इह अचरज साधो कौण कहावे ।\nछिन छिन रूप कितों बण आवे ।\n\nमक्का लंका सहदेव के भेत, दोऊ को एक बतावे ।\nजब जोगी तुम वसल करोगे, बांग कहै भावें नाद वजावे ।\nभगती भगत नतारो नाहीं, भगत सोई जेहड़ा मन भावे ।\nहर परगट परगट ही देखो, क्या पंडत फिर बेद सुनावे ।\nध्यान धरो इह काफ़र नाहीं, क्या हिन्दू क्या तुर्क कहावे ।\nजब देखूं तब ओही ओही, बुल्ल्हा शौह हर रंग समावे ।\n\nइह अचरज साधो कौण कहावे ।\nछिन छिन रूप कितों बण आवे ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "इह अचरज साधो कौण कहावे ।",
+          "hindi_gloss": "इह (यह) अचरज (विस्मयकारी सत्य) साधो (हे संतों/साधुओं) कौण (कौन) कहावे (समझाए/कहे) ।",
+          "english_gloss": "eh (this) achraj (wondrous mystery) saadho (O seekers/saints) kaun (who) kahaave (can declare) ."
+        },
+        {
+          "original": "छिन छिन रूप कितों बण आवे ।",
+          "hindi_gloss": "छिन (क्षण) छिन (प्रतिक्षण) रूप (नया-नया रूप) कितों (कहीं न कहीं से) बण (बनकर) आवे (सामने आता है) ।",
+          "english_gloss": "chhin (moment) chhin (by moment) roop (form) kiton (from everywhere) ban (taking shape) aave (manifests) ."
+        },
+        {
+          "original": "मक्का लंका सहदेव के भेत, दोऊ को एक बतावे ।",
+          "hindi_gloss": "मक्का (मक्का शरीफ़) लंका (और रावण की लंका अथवा) सहदेव (सहदेव ज्योतिषी) के (के) भेत (गूढ़ रहस्यों को), दोऊ (दोनों को) को (को) एक (एक समान अद्वैत) बतावे (बताता है) ।",
+          "english_gloss": "makka (Mecca) lanka (Lanka) sahdev (Sahadeva's astrology) ke (of) bhet (mysteries), do-oo (both) ko (to) ek (one essence) bataave (reveals as) ."
+        },
+        {
+          "original": "जब जोगी तुम वसल करोगे, बांग कहै भावें नाद वजावे ।",
+          "hindi_gloss": "जब (जब) जोगी (हे योगी) तुम (तुम परमात्मा से) वसल (एकाकार/मिलन) करोगे (कर लोगे), बांग (चाहे कोई मस्जिद की अज़ान) कहै (पुकारे) भावें (अथवा) नाद (शंख/नाद) वजावे (बजाए, दोनों में एक ही गूँज है) ।",
+          "english_gloss": "jab (when) jogi (O yogi) tum (you) vasal (divine union) karoge (attain), baang (call to prayer) kahai (chants) bhaaven (or) naad (conch horn) vajaave (sounds) ."
+        },
+        {
+          "original": "भगती भगत नतारो नाहीं, भगत सोई जेहड़ा मन भावे ।",
+          "hindi_gloss": "भगती (भक्ति और) भगत (भक्त में) नतारो (भेदभाव/विभाजन) नाहीं (मत करो), भगत (सच्चा भक्त) सोई (वही है) जेहड़ा (जो प्रभु के) मन (हृदय को) भावे (प्रिय लगे) ।",
+          "english_gloss": "bhagatee (devotion) bhagat (devotee) nataaro (discriminate) naaheen (do not), bhagat (devotee) soee (is he) jehda (who to the Divine) man (heart) bhaave (is pleasing) ."
+        },
+        {
+          "original": "हर परगट परगट ही देखो, क्या पंडत फिर बेद सुनावे ।",
+          "hindi_gloss": "हर (हरि/प्रभु को) परगट (प्रत्यक्ष) परगट (प्रत्यक्ष रूप में) ही (ही) देखो (साक्षात निहारो), क्या (फिर क्या आवश्यकता कि) पंडत (पंडित) फिर (पुनः) बेद (वेदों की ऋचाएं) सुनावे (सुनाकर भ्रम में डाले) ।",
+          "english_gloss": "har (the Divine Lord) pargat (manifest) pargat (directly visible) hee (indeed) dekho (behold), kya (why should) pandat (priest/scholar) phir (again) bed (Vedas) sunaave (recite) ."
+        },
+        {
+          "original": "ध्यान धरो इह काफ़र नाहीं, क्या हिन्दू क्या तुर्क कहावे ।",
+          "hindi_gloss": "ध्यान (चित्त में विचार) धरो (धारण करो) इह (यह परमात्मा या प्रेमी) काफ़र (काफ़िर/अधर्मी) नाहीं (नहीं है), क्या (चाहे संसार उसे) हिन्दू (हिन्दू) क्या (या) तुर्क (मुसलमान) कहावे (कहे) ।",
+          "english_gloss": "dhyaan (mindful contemplation) dharo (hold) eh (this soul) kaafar (infidel) naaheen (is not), kya (whether) hindoo (Hindu) kya (or) turk (Muslim) kahaave (be called) ."
+        },
+        {
+          "original": "जब देखूं तब ओही ओही, बुल्ल्हा शौह हर रंग समावे ।",
+          "hindi_gloss": "जब (जब भी) देखूं (मैं दृष्टि डालता हूँ) तब (तब) ओही (वही परमेश्वर) ओही (केवल वही दिखाई देता है), बुल्ल्हा (हे बुल्ले) शौह (वह प्राण-स्वामी) हर (प्रत्येक) रंग (रंग-रूप में) समावे (समाया हुआ है) ।",
+          "english_gloss": "jab (whenever) dekhoon (I look) tab (then) ohee (He alone) ohee (He alone is), bullha (O Bulleh) shauh (the Lord) har (in every) rang (hue/color) samaave (pervades) ."
+        },
+        {
+          "original": "इह अचरज साधो कौण कहावे ।",
+          "hindi_gloss": "इह (यह) अचरज (अद्भुत लीला) साधो (हे साधुओं) कौण (कौन) कहावे (वर्णन करे) ।",
+          "english_gloss": "eh (this) achraj (wonder) saadho (O saints) kaun (who) kahaave (can declare) ."
+        },
+        {
+          "original": "छिन छिन रूप कितों बण आवे ।",
+          "hindi_gloss": "छिन (क्षण) छिन (प्रतिक्षण) रूप (उसका रूप) कितों (सर्वत्र) बण (नया रूप धरकर) आवे (प्रकट होता है) ।",
+          "english_gloss": "chhin (moment) chhin (by moment) roop (form) kiton (from all realms) ban (becoming) aave (manifests) ."
+        }
+      ],
+      "hindi_meaning": "हे साधो! इस अद्भुत रहस्य का बखान कौन कर सकता है?  \nजो प्रतिक्षण किसी न किसी नवीन रूप में सामने आ जाता है!  \n\nचाहे मक्का हो, लंका हो या सहदेव का ज्योतिष-भेद,  \nवह ज्ञानी दोनों में एक ही अद्वैत सत्ता को देखता है!  \nहे योगी! जब तुम उस परम प्रियतम से एकाकार हो जाओगे,  \nचाहे मस्जिद की अज़ान पुकारे या मंदिर का नाद गूँजे, सब एक ही है!  \nभक्ति और भक्त में बाह्य भेद मत करो,  \nसच्चा भक्त वही है जो उस परमात्मा के मन को भा जाए!  \nजब हरि साक्षात प्रत्यक्ष दिखाई दे रहे हैं,  \nतो पंडित फिर पोथियों और वेदों की कथा क्यों सुनाए?  \nध्यान से समझो, यह प्रेमी कोई काफ़िर नहीं है,  \nसंसार चाहे उसे हिन्दू कहे या तुर्क पुकारे!  \nमैं जिधर भी देखता हूँ, बस वही-वही नज़र आता है,  \nबुल्ले का शाह हर रंग और हर रूप में समाया हुआ है!  \n\nहे साधो! इस अद्भुत रहस्य का बखान कौन कर सकता है?  \nजो प्रतिक्षण किसी न किसी नवीन रूप में सामने आ जाता है!",
+      "english_meaning": "O seekers of Truth, who can utter this wondrous mystery,  \nWhich shapes a fresh countenance every moment in ecstasy!  \n\nWhether Mecca's sanctuary or Lanka's ancient domain,  \nHe sees both as one undivided divine terrain!  \nWhen thou art merged in the Beloved, O yogi enlightened and clear,  \nThe muezzin’s call or the conch’s resonant blow sound the same to thine ear!  \nJudge not between forms of devotion or sects that divide,  \nThe true lover is the one in whose heart the Divine is pleased to abide!  \nWhen the Lord is visibly shining everywhere before thine eyes,  \nWhy need the pundit repeat scripture beneath empty skies?  \nKnow with certainty that this ecstatic lover is no infidel or blind,  \nWhether called a Hindu or a Muslim by the wandering worldly mind!  \nWherever I turn my gaze, He alone, He alone stands bright,  \nBulleh’s Lord permeates every hue of universal light!  \n\nO seekers of Truth, who can utter this wondrous mystery,  \nWhich shapes a fresh countenance every moment in ecstasy!"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "title": "1. आ मिल यार सार लै मेरी",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "आ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।\nअन्दर ख़ाब विछोड़ा होया, ख़बर ना पैंदी तेरी ।\nसुंञे बन विच लुट्टी साईआं, सूर पलंग ने घेरी ।\nइह तां ठग्ग जगत दे, जेहा लावन जाल चफेरी ।\nकरम शर्हा दे धरम बतावन, संगल पावन पैरीं ।\nज़ात मज़्हब इह इश्क ना पुच्छदा, इश्क शर्हा दा वैरी ।\nनदियों पार मुल्क सजन दा लहवो-लआब ने घेरी ।\nसतिगुर बेड़ी फड़ी खलोती तैं क्यों लाई आ देरी ।\nप्रीतम पास ते टोलना किस नूं, भुल्ल गयों सिखर दुपहरी ।\nबुल्ल्हा शाह शौह तैनूं मिलसी, दिल नूं देह दलेरी ।\nआ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "आ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।",
+          "hindi_gloss": "आ (आओ) मिल (मिलो) यार (प्रियतम/सखा) सार (सुध/संभाल) लै (लो) मेरी (मेरी), मेरी (मेरी) जान (प्राण/जीवन) दुक्खां (दुखों) ने (ने) घेरी (घेर लिया है) ।",
+          "english_gloss": "aa (come) mil (meet) yaar (beloved/friend) saar (care/tidings) lai (take) meri (of mine), meri (my) jaan (life/soul) dukkhaan (sorrows) ne (by) gheri (surrounded) ."
+        },
+        {
+          "original": "अन्दर ख़ाब विछोड़ा होया, ख़बर ना पैंदी तेरी ।",
+          "hindi_gloss": "अन्दर (भीतर/अंतर्मन में) ख़ाब (नींद/अज्ञान के स्वप्न में) विछोड़ा (वियोग/अलगाव) होया (हुआ), ख़बर (सुध/समाचार) ना (नहीं) पैंदी (पड़ती/मिलती) तेरी (तुम्हारी) ।",
+          "english_gloss": "andar (within/inwardly) khwaab (dream/slumber of ignorance) vichhoda (separation) hoya (occurred), khabar (news/trace) na (not) paindi (is received) teri (of yours) ."
+        },
+        {
+          "original": "सुंञे बन विच लुट्टी साईआं, सूर पलंग ने घेरी ।",
+          "hindi_gloss": "सुंञे (सूनसान/निर्जन) बन (वन/जंगल) विच (में) लुट्टी (लुट गई) साईआं (हे स्वामी/हे ईश्वर), सूर (सूअर/विषय-विकार) पलंग (तेंदुए/हिंसक पशु) ने (ने) घेरी (घेर लिया है) ।",
+          "english_gloss": "sunje (desolate/deserted) ban (wilderness/forest) vich (in) lutti (plundered/robbed) saaiyan (O Master/Lord), soor (wild boars/base vices) palang (leopards/beasts of desire) ne (by) gheri (encircled) ."
+        },
+        {
+          "original": "इह तां ठग्ग जगत दे, जेहा लावन जाल चफेरी ।",
+          "hindi_gloss": "इह (ये) तां (तो) ठग्ग (ठग/छलिया) जगत (संसार) दे (के), जेहा (जो) लावन (बिछाते हैं) जाल (फंदा/जाल) चफेरी (चारों ओर) ।",
+          "english_gloss": "eh (these) taan (indeed) thagg (deceivers/swindlers) jagat (of the world) de (of), jeha (who) laavan (cast/spread) jaal (snares/traps) chapheri (all around) ."
+        },
+        {
+          "original": "करम शर्हा दे धरम बतावन, संगल पावन पैरीं ।",
+          "hindi_gloss": "करम (कर्मकांड) शर्हा (रूढ़िवादी विधान/शरीयत) दे (के) धरम (कर्तव्य/धर्म) बतावन (सिखाते हैं), संगल (ज़ंजीरें/सांकल) पावन (डालते हैं) पैरीं (पैरों में) ।",
+          "english_gloss": "karam (rituals) sharha (religious law/orthodoxy) de (of) dharam (duties/faith) bataavan (prescribe/teach), sangal (chains/fetters) paavan (put/bind) pairin (upon the feet) ."
+        },
+        {
+          "original": "ज़ात मज़्हब इह इश्क ना पुच्छदा, इश्क शर्हा दा वैरी ।",
+          "hindi_gloss": "ज़ात (जाति/कुल) मज़्हब (धर्म/मज़हब) इह (यह) इश्क (दिव्य प्रेम) ना (नहीं) पुच्छदा (पूछता), इश्क (इश्क) शर्हा (मजहबी पाखंड/शरीयत) दा (का) वैरी (शत्रु/विरोधी) ।",
+          "english_gloss": "zaat (caste/lineage) mazhab (religion/creed) eh (this) ishq (Divine Love) na (not) puchhda (asks/regards), ishq (love) sharha (dogmatic law) da (of) vairi (adversary/enemy) ."
+        },
+        {
+          "original": "नदियों पार मुल्क सजन दा लहवो-लआब ने घेरी ।",
+          "hindi_gloss": "नदियों (नदी के) पार (उस पार) मुल्क (देश/आशियाना) सजन (प्रियतम) दा (का), लहवो-लआब (सांसारिक प्रलोभनों व व्यर्थ आमोद-प्रमोद) ने (ने) घेरी (रोक/घेर रखा है) ।",
+          "english_gloss": "nadiyon (river) paar (across/beyond) mulk (homeland/realm) sajan (of the Beloved) da (of), lahvo-laaab (worldly illusions and fleeting pleasures) ne (by) gheri (surrounded/held back) ."
+        },
+        {
+          "original": "सतिगुर बेड़ी फड़ी खलोती तैं क्यों लाई आ देरी ।",
+          "hindi_gloss": "सतिगुर (सच्चे गुरु) बेड़ी (नाव) फड़ी (थामकर) खलोती (खड़े हैं), तैं (तूने) क्यों (क्यों) लाई (लगाई) आ (आने में) देरी (देरी/विलंब) ।",
+          "english_gloss": "satgur (True Master/Guru) bedi (boat) phadi (holding) khaloti (stands waiting), tain (you) kyon (why) laai (made) aa (in reaching) deri (delay) ."
+        },
+        {
+          "original": "प्रीतम पास ते टोलना किस नूं, भुल्ल गयों सिखर दुपहरी ।",
+          "hindi_gloss": "प्रीतम (प्रियतम/ईश्वर) पास (पास ही/भीतर) ते (तो) टोलना (खोजना/ढूंढना) किस (किसे) नूं (को), भुल्ल (भूल/भटक) गयों (गया है) सिखर (कड़कती/चरम) दुपहरी (दोपहरी में) ।",
+          "english_gloss": "preetam (Beloved Lord) paas (near/within) te (then) tolna (seeking) kis (whom) noon (unto), bhull (lost/forgotten) gayon (you have become) sikhar (blazing peak) dupahari (in noon) ."
+        },
+        {
+          "original": "बुल्ल्हा शाह शौह तैनूं मिलसी, दिल नूं देह दलेरी ।",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले शाह) शाह (स्वामी) शौह (परमेश्वर/प्रियतम) तैनूं (तुझे) मिलसी (मिलेगा), दिल (हृदय/मन) नूं (को) देह (दो) दलेरी (साहस/धैर्य) ।",
+          "english_gloss": "bullha (O Bulleh) shah (Master) shauh (Supreme Beloved) tainoon (unto you) milsi (shall unite), dil (heart) noon (to) deh (give) daleri (courage/fortitude) ."
+        },
+        {
+          "original": "आ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।",
+          "hindi_gloss": "आ (आओ) मिल (मिलो) यार (प्रियतम) सार (सुध) लै (लो) मेरी (मेरी), मेरी (मेरी) जान (प्राण) दुक्खां (दुखों) ने (ने) घेरी (घेर लिया है) ।",
+          "english_gloss": "aa (come) mil (meet) yaar (beloved) saar (care) lai (take) meri (of mine), meri (my) jaan (soul/life) dukkhaan (sorrows) ne (by) gheri (surrounded) ."
+        }
+      ],
+      "hindi_meaning": "आ मिल प्यारे यार, ज़रा सुध ले ले मेरी,\nविरह और दुखों ने जां है घेरी!\n\nअज्ञान की नींद में विछोह हो गया,\nअब कोई खबर न मिलती तेरी।\nसूने वन में लुट गई जीवन-संपदा,\nविकारों के हिंसक पशुओं ने राह मेरी है घेरी।\n\nये दुनियावी ठग चारों ओर जाल बिछाते,\nरीत-शरीयत की जंजीरें पांवों में डालते;\nपर सच्चा इश्क न जाति पूछे न मजहब,\nवह तो है मजहबी पाखंडों का वैरी!\n\nउस पार है मेरे प्रीतम का प्यारा वतन,\nपर माया और प्रलोभनों ने राह है घेरी।\nकिनारे पर सतगुरु नाव लिए खड़े हैं,\nफिर आने में तूने क्यों कर दी देरी?\n\nजब प्रीतम पास ही है, तो किसे ढूंढ रहा है,\nभटक गया तू क्यों भरी दुपहरी?\nबुल्ले शाह! दिल को दे ज़रा तसल्ली,\nमिलेगा वो शौह, रख थोड़ी दलेरी!\nआ मिल प्यारे यार, ज़रा सुध ले ले मेरी!",
+      "english_meaning": "Come, my Beloved, and care for me,\nFor sorrows have besieged my soul!\n\nIn deep slumber, I drifted apart,\nNow no word of You reaches my heart.\nPlundered am I in this barren wild,\nBy beasts of desire trapped and beguiled.\n\nWorldly impostors cast their net wide,\nChaining our feet in dogma and pride;\nYet Divine Love knows neither creed nor clan,\nDefying the rigid bounds of man!\n\nAcross the river lies my Lover's land,\nTrapped on this shore in illusions I stand.\nThe True Guide waits with the ferry in sight,\nWhy delay your crossing, lost in the night?\n\nWhen the Beloved is near, within your own breast,\nWhy wander at noon in a blinded quest?\nO Bulleh Shah, let your heart take heart,\nThe Lord shall unite, never to part!\nCome, my Beloved, and care for me!"
+    }
+  ]
+}

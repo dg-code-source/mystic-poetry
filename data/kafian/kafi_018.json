@@ -1,0 +1,59 @@
+{
+  "id": 18,
+  "title": "18. भैणां मैं कत्तदी कत्तदी हुट्टी",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "पिड़ी पिछे पछवाड़े रह गई, हत्थ विच रह गई जुट्टी,\nअग्गे चरखा पिच्छे पीहड़ा, मेरे हत्थों तन्द तरुट्टी,\nभैणां मैं कत्तदी कत्तदी हुट्टी ।\n\nदाज जवाहर असां की करना, जिस प्रेम कटवाई मुट्ठी,\nओहो चोर मेरा पकड़ मंगायो, जिस मेरी जिन्द कुट्ठी,\nभैणां मैं कत्तदी कत्तदी हुट्टी ।\n\nभला होया मेरा चरखा टुट्टा, मेरी जिन्द अज़ाबों छुट्टी,\nबुल्ल्हा शौह ने नाच नचाए, ओथे धुंम पई कड़-कुट्टी,\nभैणां मैं कत्तदी कत्तदी हुट्टी ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "पिड़ी पिछे पछवाड़े रह गई, हत्थ विच रह गई जुट्टी,",
+          "hindi_gloss": "पिड़ी (कताई का घेरा/सखियों की टोली) पिछे (पीछे) पछवाड़े (आँगन के पिछले भाग में) रह (रह) गई (गई), हत्थ (हाथ) विच (में) रह (रह) गई (गई) जुट्टी (सूत की पूणी/लच्छी),",
+          "english_gloss": "pidi (spinning circle of maidens) pichhe (behind) pachhwaade (backyard) rah (remained) gayee (did), hatth (hand) vich (in) rah (remained) gayee (did) jutti (hank of raw cotton/spool),"
+        },
+        {
+          "original": "अग्गे चरखा पिच्छे पीहड़ा, मेरे हत्थों तन्द तरुट्टी,",
+          "hindi_gloss": "अग्गे (आगे) चरखा (चरखा) पिच्छे (पीछे) पीहड़ा (बैठने की पीढ़ी), मेरे (मेरे) हत्थों (हाथों से) तन्द (सूत का धागा) तरुट्टी (टूट गया),",
+          "english_gloss": "agge (in front) charkha (spinning wheel) pichhe (behind) peehda (low wooden seat) mere (my) hatthon (from hands) tand (thread) tarutti (snapped),"
+        },
+        {
+          "original": "भैणां मैं कत्तदी कत्तदी हुट्टी ।",
+          "hindi_gloss": "भैणां (हे बहनों/सखियों) मैं (मैं) कत्तदी (सूत कातते) कत्तदी (कातते) हुट्टी (थक कर चूर हो गई) ।",
+          "english_gloss": "bhainaan (O sisters) main (I) kattdi (spinning) kattdi (spinning) hutti (exhausted/worn out) ."
+        },
+        {
+          "original": "दाज जवाहर असां की करना, जिस प्रेम कटवाई मुट्ठी,",
+          "hindi_gloss": "दाज (दहेज) जवाहर (रत्न और आभूषण) असां (हमें) की (क्या) करना (करना है), जिस (जिस) प्रेम (दिव्य प्रेम ने) कटवाई (कटवा दी/नष्ट कर दी) मुट्ठी (संसार की मुट्ठी/पकड़),",
+          "english_gloss": "daaj (dowry) jawaahar (jewels) asaan (we) kee (what) karna (to do with), jis (which) prem (divine love) katvaai (severed/vanquished) mutthi (fist/greed of world),"
+        },
+        {
+          "original": "ओहो चोर मेरा पकड़ मंगायो, जिस मेरी जिन्द कुट्ठी,",
+          "hindi_gloss": "ओहो (उसी) चोर (चित्तचोर प्रियतम को) मेरा (मेरे) पकड़ (पकड़ कर) मंगायो (यहाँ बुलवाओ/लाओ), जिस (जिसने) मेरी (मेरी) जिन्द (जान/प्राण) कुट्ठी (घायल/तड़पाई है),",
+          "english_gloss": "oho (that very) chor (heart-thief) mera (my) pakad (capturing) mangaayo (summon/bring), jis (who) meri (my) jind (soul/life) kutthi (slaughtered/smitten),"
+        },
+        {
+          "original": "भैणां मैं कत्तदी कत्तदी हुट्टी ।",
+          "hindi_gloss": "भैणां (हे बहनों) मैं (मैं) कत्तदी (कातते) कत्तदी (कातते) हुट्टी (थक गई) ।",
+          "english_gloss": "bhainaan (O sisters) main (I) kattdi (spinning) kattdi (spinning) hutti (exhausted) ."
+        },
+        {
+          "original": "भला होया मेरा चरखा टुट्टा, मेरी जिन्द अज़ाबों छुट्टी,",
+          "hindi_gloss": "भला (अच्छा ही) होया (हुआ) मेरा (मेरा) चरखा (सांसारिक कर्मों का चरखा) टुट्टा (टूट गया), मेरी (मेरी) जिन्द (आत्मा/जीवन) अज़ाबों (यातना और बंधन से) छुट्टी (मुक्त हो गई),",
+          "english_gloss": "bhala (well/fortunate) hoya (happened) mera (my) charkha (spinning wheel) tutta (broke), meri (my) jind (soul) azaabon (from torments) chhutti (was freed),"
+        },
+        {
+          "original": "बुल्ल्हा शौह ने नाच नचाए, ओथे धुंम पई कड़-कुट्टी,",
+          "hindi_gloss": "बुल्ल्हा (बुल्ले शाह कहते हैं) शौह (परमेश्वर ने) ने (ने) नाच (प्रेम का अलौकिक नृत्य) नचाए (नचाया), ओथे (वहाँ उस दिव्य मिलन में) धुंम (धूम) पई (मच गई) कड़-कुट्टी (अहंकार के चूर्ण-विचूर्ण होने की),",
+          "english_gloss": "bullha (Bulleh) shauh (the Lord) ne (by) naach (dance of ecstasy) nachaaye (made to dance), othe (there) dhumm (great tumult/fame) payee (arose) kad-kutti (of the crushing of ego),"
+        },
+        {
+          "original": "भैणां मैं कत्तदी कत्तदी हुट्टी ।",
+          "hindi_gloss": "भैणां (हे बहनों) मैं (मैं) कत्तदी (कातते) कत्तदी (कातते) हुट्टी (थक गई) ।",
+          "english_gloss": "bhainaan (O sisters) main (I) kattdi (spinning) kattdi (spinning) hutti (exhausted) ."
+        }
+      ],
+      "hindi_meaning": "सखियों की टोली पीछे आँगन में छूट गई, हाथ में केवल सूत की पूणी रह गई,  \nआगे चरखा धरा रहा, पीछे पीढ़ी, और मेरे हाथ से जीवन का धागा टूट गया!  \nहे बहनों! मैं सांसारिक चरखा कातते-कातते थक कर चूर हो गई!  \n\nअब हमें दहेज़ और हीरों-जवाहरात का क्या करना है,  \nजब प्रभु-प्रेम ने सांसारिक लालच की मुट्ठी ही काट दी!  \nमेरे उस चित्तचोर प्रीतम को पकड़कर मेरे पास ले आओ,  \nजिसने मेरे प्राणों को अपने विरह में घायल कर दिया है!  \nहे बहनों! मैं सांसारिक चरखा कातते-कातते थक कर चूर हो गई!  \n\nबड़ा भला हुआ कि मेरा यह नश्वर चरखा टूट गया,  \nमेरी आत्मा दुनियावी जंजाल और यातना से सदा के लिए छूट गई!  \nबुल्ले शाह कहते हैं—जब प्रियतम ने अपने दिव्य प्रेम का नाच नचाया,  \nतो अहंकार की सारी दीवारें टूटकर चारों ओर प्रेम की धूम मच गई!  \nहे बहनों! मैं सांसारिक चरखा कातते-कातते थक कर चूर हो गई!",
+      "english_meaning": "The maidens' spinning circle was left behind in the yard,  \nIn my trembling hands only the raw spool remained!  \nBefore me stood the wheel, behind me the wooden seat,  \nAnd the fragile thread snapped from my hands unfeigned!  \nO sisters, I am utterly weary and exhausted of spinning!  \n\nWhat have we to do now with dowries and shining gems,  \nWhen the sword of divine love has severed earthly greed?  \nGo capture and bring before me that thief of my soul,  \nWhose intoxicating love has made my spirit bleed!  \nO sisters, I am utterly weary and exhausted of spinning!  \n\nBlessed be this moment that my spinning wheel has shattered,  \nFor my soul is liberated from earthly torment and strife!  \nBulleh Shah's Lord has made him dance in divine ecstasy,  \nWhere worldly pride was crushed, awakening eternal life!  \nO sisters, I am utterly weary and exhausted of spinning!"
+    }
+  ]
+}

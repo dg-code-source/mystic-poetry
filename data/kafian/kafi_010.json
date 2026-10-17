@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "title": "10. अक्खां विच दिल जानी प्यारिआ",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "अक्खां विच दिल जानी प्यारिआ, केही चेटक लाइआ ई ।\nमैं तेरे विच जर्रा ना जुदाई, साथों आप छुपाइआ ई ।\n\nमझीं आईआं रांझा यार ना आया, फूक बिरहों डोलाइआ ई\nअक्खां विच दिल जानी प्यारिआ ।\n\nमैं नेड़े मैनूं दूर क्यों दिसना एं, साथों आप छुपाइआ ई\nअक्खां विच दिल जानी प्यारिआ ।\n\nविच मिसर दे वांग ज़ुलैख़ां, घुंगट खोल्ह रुलाइआ ई\nअक्खां विच दिल जानी प्यारिआ ।\n\nशौह बुल्ल्हे दे सिर पर बुरका, तेरे इश्क नचाइआ ई\nअक्खां विच दिल जानी प्यारिआ,\nकेही चेटक लाइआ ई ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "अक्खां विच दिल जानी प्यारिआ, केही चेटक लाइआ ई ।",
+          "hindi_gloss": "अक्खां (आंखों) विच (में बसने वाले) दिल (दिल) जानी (के प्यारे) प्यारिआ (प्रियतम), केही (कैसा) चेटक (जादू/सम्मोहन) लाइआ (लगा दिया है) ई (तुमने) ।",
+          "english_gloss": "akkhaan (eyes) vich (within) dil (heart's) jaani (darling) pyaaria (beloved), kehi (what kind of) chetak (spell/magic) laaiya (have cast) ee (you) ."
+        },
+        {
+          "original": "मैं तेरे विच जर्रा ना जुदाई, साथों आप छुपाइआ ई ।",
+          "hindi_gloss": "मैं (मुझमें) तेरे (तुझमें) विच (में) जर्रा (रत्ती भर भी) ना (नहीं है) जुदाई (दूरी/विछोह), साथों (हमसे) आप (स्वयं को) छुपाइआ (छिपा रखा है) ई (तुमने) ।",
+          "english_gloss": "main (in me) tere (in you) vich (between) zarra (an atom) na (not) judai (separation), saathon (from us) aap (yourself) chhupaaiya (have hidden) ee (you) ."
+        },
+        {
+          "original": "मझीं आईआं रांझा यार ना आया, फूक बिरहों डोलाइआ ई",
+          "hindi_gloss": "मझीं (भैंसें) आईआं (लौट आईं) रांझा (रांझा) यार (प्रियतम) ना (नहीं) आया (आया), फूक (फूंककर/जलाकर) बिरहों (विरह ने) डोलाइआ (विचलित कर दिया है) ई (मुझे)",
+          "english_gloss": "majheen (buffaloes) aaiyaan (returned) ranjha (Ranjha) yaar (beloved friend) na (not) aaya (came), phook (scorching) birhon (separation) dolaaiya (shaken/unsettled) ee (has me)"
+        },
+        {
+          "original": "अक्खां विच दिल जानी प्यारिआ ।",
+          "hindi_gloss": "अक्खां (आंखों) विच (में बसने वाले) दिल (दिल के) जानी (प्रिय) प्यारिआ (प्यारे) ।",
+          "english_gloss": "akkhaan (eyes) vich (in) dil (heart) jaani (darling) pyaaria (beloved) ."
+        },
+        {
+          "original": "मैं नेड़े मैनूं दूर क्यों दिसना एं, साथों आप छुपाइआ ई",
+          "hindi_gloss": "मैं (मेरे) नेड़े (इतने पास होकर भी) मैनूं (मुझे) दूर (दूर) क्यों (क्यों) दिसना (दिखाई देता) एं (है), साथों (हमसे) आप (स्वयं को) छुपाइआ (छिपा रखा है) ई (तूने)",
+          "english_gloss": "main (to me) nede (so near) mainoon (unto me) door (far) kyon (why) disna (appear) ain (you), saathon (from us) aap (yourself) chhupaaiya (hidden) ee (you have)"
+        },
+        {
+          "original": "विच मिसर दे वांग ज़ुलैख़ां, घुंगट खोल्ह रुलाइआ ई",
+          "hindi_gloss": "विच (में) मिसर (मिस्र) दे (के) वांग (तरह) ज़ुलैख़ां (ज़ुलैख़ा की), घुंगट (घूंघट/पर्दा) खोल्ह (खोलकर) रुलाइआ (रुला दिया है) ई (तूने)",
+          "english_gloss": "vich (in) misar (Egypt) de (of) vaang (like) zulaikhaan (Zulaikha), ghungat (veil) kholh (opening) rulaaiya (made to weep) ee (you have)"
+        },
+        {
+          "original": "शौह बुल्ल्हे दे सिर पर बुरका, तेरे इश्क नचाइआ ई",
+          "hindi_gloss": "शौह (परमेश्वर) बुल्ल्हे (बुल्ले) दे (के) सिर (सिर) पर (पर जो) बुरका (अहंकार का पर्दा था), तेरे (तेरे) इश्क (प्रेम ने) नचाइआ (नचाकर उतार फेंका) ई (है)",
+          "english_gloss": "shauh (Lord) bullhe (of Bulleh) de (of) sir (head) par (upon) burqa (veil of ego), tere (your) ishq (love) nachaaiya (made dance/unveiled) ee (has)"
+        }
+      ],
+      "hindi_meaning": "मेरी आँखों में बसने वाले प्यारे दिलजानी!\nयह तूने कैसा जादू और आकर्षण मुझ पर डाल दिया है?\n\nमुझमें और तुझमें रत्ती भर भी जुदाई नहीं है,\nफिर भी तूने स्वयं को मुझसे क्यों छिपा रखा है?\n\nभैंसें चरकर लौट आईं, पर रांझा यार न आया,\nविरह की आग में मुझे जलाकर विचलित कर दिया!\nमेरी आँखों में बसने वाले प्यारे दिलजानी!\n\nतू तो मेरे इतने निकट है, फिर मुझे दूर क्यों दिखाई देता है?\nतूने खुद को मुझसे क्यों छिपा रखा है?\nमेरी आँखों में बसने वाले प्यारे दिलजानी!\n\nमिस्र के बाज़ार में ज़ुलैख़ा की तरह,\nमेरा घूंघट खोलकर मुझे दर-दर रुला दिया!\nमेरी आँखों में बसने वाले प्यारे दिलजानी!\n\nबुल्ले शाह के सिर पर जो अहं का बुर्का था,\nतेरे प्रेम ने उसे नचा-नचा कर तार-तार कर दिया!\nमेरी आँखों में बसने वाले प्यारे दिलजानी,\nयह तूने कैसा जादू और सम्मोहन डाल दिया है?",
+      "english_meaning": "O Beloved darling residing within my very eyes!\nWhat enchanting spell have You cast over me?\n\nBetween You and me, there is not an atom of separation,\nWhy then have You hidden Yourself from my sight?\n\nThe herds have returned, but my beloved Herdsman came not,\nBurning me in separation's fire, shaking my soul!\nO Beloved darling residing within my very eyes!\n\nWhen You are so near to me, why do You appear so far away?\nWhy have You concealed Yourself from me?\nO Beloved darling residing within my very eyes!\n\nLike Zulaikha in the midst of Egypt's bazaars,\nUnveiling my shame, You made me weep in longing!\nO Beloved darling residing within my very eyes!\n\nUpon Bulleh's head was the veil of mortal pride,\nYour love made him dance and cast it away!\nO Beloved darling residing within my very eyes,\nWhat enchanting spell have You cast over me?"
+    }
+  ]
+}

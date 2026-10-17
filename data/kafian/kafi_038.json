@@ -1,0 +1,104 @@
+{
+  "id": 38,
+  "title": "38. हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "हुण दिन-चढ़आ कद होवे, मैनूं प्यारा मूंह दिखलावे,\nतकले नूं वल पै पै जांदे, कौण लुहार लिआवे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।\n\nतक्कल्युं वल कढ्ढ लुहारा, तन्द चलेंदा नाहीं,\nघड़ी घड़ी इह झोला खांदा, छल्ली कित बिध लाहवे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।\n\nपलीता नहीं जे बीड़ी बन्नहां, बायड़ हत्थ ना आवे,\nचमड़्यां नूं चोपड़ नाहीं, माहल पई बतलावे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।\n\nत्रिंजन कत्तन सद्दण सईआं, बिरहों ढोल बजावे,\nतीली नहीं जो पूणियां वट्टां, वच्छा गोहड़े खावे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।\n\nमाही छिड़ गया नाल महीं दे, हुण कत्तन किस नूं भावे,\nजित्त वल्ल यार उते वल्ल अक्खियां, मेरा दिल बेले वल्ल धावे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।\n\nअरज़ एहो मैनूं आण मिले हुण, कौण वसीला जावे,\nसै मणां दा कत्त लया बुल्ल्हा, शहु मैनूं गल लावे,\nहत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "हुण दिन-चढ़आ कद होवे, मैनूं प्यारा मूंह दिखलावे,",
+          "hindi_gloss": "हुण (अब) दिन-चढ़आ (भोर का सूर्योदय) कद (कब) होवे (होगा कि), मैनूं (मुझको) प्यारा (मेरा प्यारा प्रीतम) मूंह (अपना श्रीमुख) दिखलावे (दिखाएगा),",
+          "english_gloss": "hun (now) din-chadha (dawn/sunrise) kad (when) hove (shall be that), mainoon (unto me) pyaara (the Beloved) moonh (face) dikhlaave (shows),"
+        },
+        {
+          "original": "तकले नूं वल पै पै जांदे, कौण लुहार लिआवे,",
+          "hindi_gloss": "तकले (चरखे की तकली) नूं (में) वल (बल/टेढ़ापन) पै (पड़) पै (पड़) जांदे (जाता है), कौण (भला कौन) लुहार (लोहार को) लिआवे (बुलाकर लाए),",
+          "english_gloss": "takle (spindle) noon (unto) val (bends/twists) pai (falling) pai (falling) jaande (keep getting), kaun (who) luhaar (blacksmith) liaave (shall fetch),"
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी/हैंडल) ढिलक गई (ढीली पड़ गई है) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे सूत) कत्त्या (काता) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (the handle) dhilak gayee (has grown loose) mere (my) charkhe (spinning wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        },
+        {
+          "original": "तक्कल्युं वल कढ्ढ लुहारा, तन्द चलेंदा नाहीं,",
+          "hindi_gloss": "तक्कल्युं (तकली में से) वल (बल/मुड़ाव) कढ्ढ (निकाल दो) लुहारा (हे लोहार), तन्द (सूत का धागा) चलेंदा (चल) नाहीं (नहीं पाता),",
+          "english_gloss": "takkalyun (from the spindle) val (kink/twist) kaddh (remove) luhaara (O blacksmith), tand (the thread) chalenda (draws/moves) naaheen (not),"
+        },
+        {
+          "original": "घड़ी घड़ी इह झोला खांदा, छल्ली कित बिध लाहवे,",
+          "hindi_gloss": "घड़ी (घड़ी) घड़ी (घड़ी) इह (यह चरखा) झोला (झटके) खांदा (खाता है), छल्ली (सूत की अट्टी/पिंडी) कित (किस) बिध (विधि से) लाहवे (उतारी जा सके),",
+          "english_gloss": "ghadee (moment) ghadee (by moment) eh (this wheel) jhola (jolts) khaanda (takes), chhallee (spool/skein) kit (which) bidh (manner) laahve (can be unspooled),"
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी) ढिलक गई (ढीली हो गई) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे) कत्त्या (सूत काता) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (handle) dhilak gayee (loosened) mere (my) charkhe (wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        },
+        {
+          "original": "पलीता नहीं जे बीड़ी बन्नहां, बायड़ हत्थ ना आवे,",
+          "hindi_gloss": "पलीता (सूत का बंध) नहीं (नहीं है) जे (कि) बीड़ी (तकली का बंधन) बन्नहां (बाँधूँ), बायड़ (धुरी का धागा) हत्थ (हाथ) ना (नहीं) आवे (आता),",
+          "english_gloss": "paleeta (wick/cord) naaheen (not) je (that) beedee (spindle brace) bannhaan (I may bind), baayad (spindle axis cord) hatth (in hand) na (not) aave (comes),"
+        },
+        {
+          "original": "चमड़्यां नूं चोपड़ नाहीं, माहल पई बतलावे,",
+          "hindi_gloss": "चमड़्यां (चरखे के चर्म-पुर्ज़ों) नूं (में) चोपड़ (चिकनाई/तेल) नाहीं (नहीं रही), माहल (चमड़े की डोरी) पई (गिरकर) बतलावे (कमज़ोरी दर्शाती है),",
+          "english_gloss": "chamdyaan (leather bearings) noon (unto) chopad (lubrication/oil) naaheen (not), maahal (driving belt) payee (slipping) batlaave (tells of decay),"
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी) ढिलक गई (ढीली पड़ गई) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे) कत्त्या (काता) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (handle) dhilak gayee (loosened) mere (my) charkhe (wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        },
+        {
+          "original": "त्रिंजन कत्तन सद्दण सईआं, बिरहों ढोल बजावे,",
+          "hindi_gloss": "त्रिंजन (सामूहिक कताई-सभा में) कत्तन (सूत कातने के लिए) सद्दण (बुलाती हैं) सईआं (सहेलियाँ), बिरहों (परंतु विरह का) ढोल (ढोल मेरे हृदय में) बजावे (बज रहा है),",
+          "english_gloss": "trinjan (spinning circle) kattan (to spin) saddan (invite) saeeyaan (companions), birhon (of separation) dhol (drum) bajaave (beats),"
+        },
+        {
+          "original": "तीली नहीं जो पूणियां वट्टां, वच्छा गोहड़े खावे,",
+          "hindi_gloss": "तीली (सलाई) नहीं (नहीं है) जो (जिससे) पूणियां (कपास की पूनियाँ) वट्टां (बना सकूँ), वच्छा (बछड़ा) गोहड़े (कपास के गोलों को) खावे (चबाए जा रहा है),",
+          "english_gloss": "teelee (straw rod) naaheen (not) jo (with which) pooneeyaan (cotton rolls) vattan (I may roll), vachha (calf) gohde (cotton bolls) khaave (eats),"
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी) ढिलक गई (ढीली पड़ गई) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे) कत्त्या (काता) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (handle) dhilak gayee (loosened) mere (my) charkhe (wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        },
+        {
+          "original": "माही छिड़ गया नाल महीं दे, हुण कत्तन किस नूं भावे,",
+          "hindi_gloss": "माही (मेरा प्रियतम रांझा) छिड़ गया (चला गया) नाल (साथ) महीं (भैंसों) दे (के चराने), हुण (अब भला) कत्तन (सूत कातना) किस (किसे) नूं (को) भावे (रुचेगा),",
+          "english_gloss": "maahi (Beloved) chhid gya (has departed) naal (with) maheen (the buffaloes) de (of), hun (now) kattan (spinning) kis (whom) noon (unto) bhaave (pleases),"
+        },
+        {
+          "original": "जित्त वल्ल यार उते वल्ल अक्खियां, मेरा दिल बेले वल्ल धावे,",
+          "hindi_gloss": "जित्त (जिस) वल्ल (ओर मेरा) यार (यार है) उते (उसी) वल्ल (ओर मेरी) अक्खियां (आँखें लगी हैं), मेरा (मेरा) दिल (मन) बेले (नदी के कछार/जंगल) वल्ल (की ओर) धावे (दौड़ा जाता है),",
+          "english_gloss": "jitt (whichever) vall (direction) yaar (Beloved is) ute (in that very) vall (direction) akkheeyaan (eyes gaze), mera (my) dil (heart) bele (to the river grove) vall (toward) dhaave (runs),"
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी) ढिलक गई (ढीली हो गई) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे) कत्त्या (सूत) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (handle) dhilak gayee (loosened) mere (my) charkhe (wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        },
+        {
+          "original": "अरज़ एहो मैनूं आण मिले हुण, कौण वसीला जावे,",
+          "hindi_gloss": "अरज़ (मेरी तो बस यही प्रार्थना) एहो (है कि) मैनूं (मुझसे) आण (आकर) मिले (मिल जाए) हुण (अब), कौण (कौन भला) वसीला (मध्यस्थ/दूत बनकर) जावे (जाएगा),",
+          "english_gloss": "araz (plea) eho (this alone) mainoon (me) aan (coming) mile (meet) hun (now), kaun (who) vaseela (mediator/messenger) jaave (shall go),"
+        },
+        {
+          "original": "सै मणां दा कत्त लया बुल्ल्हा, शहु मैनूं गल लावे,",
+          "hindi_gloss": "सै (सैकड़ों) मणां (मन सूत) दा (का) कत्त लया (कात लिया है) बुल्ल्हा (बुल्ले ने), शहु (अब तो प्राण-स्वामी) मैनूं (मुझे) गल (गले से) लावे (लगा लें) ।",
+          "english_gloss": "sai (hundreds) manaan (of maunds of yarn) da (of) katt laya (has spun) bullha (Bulleh), shahu (the Lord) mainoon (me) gal (to His bosom) laave (may embrace) ."
+        },
+        {
+          "original": "हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे ।",
+          "hindi_gloss": "हत्थी (हत्थी) ढिलक गई (ढीली हो गई) मेरे (मेरे) चरखे (चरखे) दी (की), हुण (अब) मैथों (मुझसे) कत्त्या (सूत काता) ना (नहीं) जावे (जाता) ।",
+          "english_gloss": "hatthee (handle) dhilak gayee (loosened) mere (my) charkhe (wheel's) dee (of), hun (now) maithon (by me) kattya (spun) na (not) jaave (can be) ."
+        }
+      ],
+      "hindi_meaning": "अब कब सबेरा होगा जब मेरा प्यारा मुझे अपना मुख दिखलाएगा?  \nमेरी चरखे की तकली में बार-बार बल पड़ जाता है, भला कौन लोहार को बुलाकर लाए?  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!  \n\nहे लोहार! इस तकली का टेढ़ापन निकाल दे, इससे धागा आगे नहीं बढ़ता!  \nघड़ी-घड़ी यह चरखा हिचकोले खाता है, भला इस पर सूत की पिंडी कैसे उतारी जाए?  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!  \n\nन तो मेरे पास पलीता है जिससे तकली का बंधन बाँधूँ, और न धुरी का धागा हाथ आता है!  \nचमड़े के पुर्जों में तेल-चिकनाई नहीं रही, डोरी बार-बार उतर कर गिरती है!  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!  \n\nसखियाँ त्रिंजन (कताई-सभा) में कातने के लिए बुलाती हैं, पर मेरे सीने में विरह का ढोल बज रहा है!  \nसलाई नहीं है जिससे कपास की पूनियाँ बनाऊँ, और बछड़ा आकर कपास के गोलों को खा जाता है!  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!  \n\nमेरा माही भैंसों को लेकर चराने निकल गया है, अब सूत कातना भला किसे भाए?  \nजिधर मेरा साजन गया है, उधर ही मेरी आँखें लगी हैं, मेरा दिल जंगल के कछार की ओर दौड़ा जाता है!  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!  \n\nमेरी तो बस यही प्रार्थना है कि मेरा साजन अब आकर मुझसे मिल जाए, भला कौन दूत बनकर संदेश ले जाएगा?  \nबुल्ले ने तो प्रेम में सैकड़ों मन सूत कात लिया है, काश अब मेरे प्राण-स्वामी आकर मुझे गले लगा लें!  \nमेरे चरखे की हत्थी ढीली पड़ गई है, अब मुझसे सूत काता नहीं जाता!",
+      "english_meaning": "When will the dawn break that my Beloved may reveal His face?  \nThe spindle of my wheel twists with every turn in painful grace;  \nWho will fetch the blacksmith to make this spindle straight?  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!  \n\nRemove the kink from the iron spindle, O blacksmith, the thread will not draw,  \nWith every rotation the wheel wobbles and falters without law!  \nHow can the yarn be lifted from the reeling spool today?  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!  \n\nI lack the binding cord to tie the spindle secure,  \nThe axle thread slips from my fingers, frail and unsure!  \nThe leather bearings run dry without drops of soothing oil,  \nThe drive-belt drops away, mocking my futile toil!  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!  \n\nCompanions call me to join the spinning circle in cheerful pride,  \nYet the relentless drum of separation resounds inside!  \nI have no reed to roll the soft cotton slivers fine,  \nWhile straying calves devour the raw bolls of mine!  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!  \n\nMy sweet herdsman has wandered far with the cattle into the meadow wild,  \nWho can sit and spin when the heart is captivated like a child?  \nWherever my Beloved wanders, my gazing eyes pursue,  \nMy soul flies across the thickets of the river-forest true!  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!  \n\nMy sole, burning plea is that He return and take my hand,  \nWho will carry my secret message across the barren land?  \nBulleh has spun hundreds of maunds of devotional thread in pain,  \nMay the Lord press me to His bosom and end this yearning rain!  \nThe handle of my spinning wheel has loosened—no longer can I spin or wait!"
+    }
+  ]
+}

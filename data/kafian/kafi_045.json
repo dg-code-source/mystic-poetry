@@ -1,0 +1,74 @@
+{
+  "id": 45,
+  "title": "45. इक अलफ़ पढ़ो छुटकारा ए",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "इक अलफ़ों दो तिन्न चार होए, फिर लक्ख करोड़ हज़ार होए,\nफिर उथों बाझों शमार होए, इक अलफ़ दा नुक़्ता न्यारा ए,\nइक अलफ़ पढ़ो छुटकारा ए ।\n\nक्यों पढ़ना एं गड्ड किताबां दी, सिर चाना एं पंड अज़ाबां दी,\nहुण होइउं शकल जल्लादां दी, अग्गे पैंडा मुशकल भारा ए,\nइक अलफ़ पढ़ो छुटकारा ए ।\n\nबण हाफ़ज हिफ़ज कुरान करें, पढ़ पढ़ के साफ़ ज़बान करें,\nफिर न्यामत विच ध्यान करें, मन फिरदा ज्युं हलकारा ए,\nइक अलफ़ पढ़ो छुटकारा ए ।\n\nबुल्ल्हा बी बोहड़ दा बोया ई उह बिरछ वड्डा जा होया ई,\nजद बिरछ उह फ़ानी होया ई फिर रह गया बी अकारा ए,\nइक अलफ़ पढ़ो छुटकारा ए ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "इक अलफ़ों दो तिन्न चार होए, फिर लक्ख करोड़ हज़ार होए,",
+          "hindi_gloss": "इक अलफ़ों (एक 'अलिफ़' से) दो (दो) तिन्न (तीन) चार (चार संख्याएं) होए (बनीं), फिर (फिर) लक्ख (लाख) करोड़ (करोड़ और) हज़ार (हज़ार) होए (हो गईं),",
+          "english_gloss": "ik alafon (from one Alif) do (two) tinn (three) chaar hoe (four arose), phir (then) lakkh (hundred-thousands) karod (crores) hazaar hoe (thousands became),"
+        },
+        {
+          "original": "फिर उथों बाझों शमार होए, इक अलफ़ दा नुक़्ता न्यारा ए,",
+          "hindi_gloss": "फिर (फिर) उथों (उससे भी) बाझों शमार (अनगिनत/असंख्य) होए (रूप बन गए), इक (किंतु एक) अलफ़ दा (अलिफ़ का) नुक़्ता (मूल बिंदु) न्यारा (सबसे विलक्षण और अद्वितीय) ए (है),",
+          "english_gloss": "phir (then) uthon (therefrom) baajhon shamaar hoe (became beyond counting), ik (one) alaf da (of Alif) nukta (the dot) nyaara (unique/transcendent) e (is),"
+        },
+        {
+          "original": "इक अलफ़ पढ़ो छुटकारा ए ।",
+          "hindi_gloss": "इक (केवल एक) अलफ़ (अलिफ़ को) पढ़ो (पढ़ लो तो भवबंधन से) छुटकारा (मुक्ति) ए (है) ।",
+          "english_gloss": "ik (one) alaf (Alif) padho (read) chhutkaara (liberation) e (is) ."
+        },
+        {
+          "original": "क्यों पढ़ना एं गड्ड किताबां दी, सिर चाना एं पंड अज़ाबां दी,",
+          "hindi_gloss": "क्यों (क्यों) पढ़ना एं (पढ़ता है तू) गड्ड (गाड़ियों भर-भर के) किताबां दी (किताबें), सिर (अपने सिर पर) चाना एं (उठाता है) पंड (भारी गट्ठर) अज़ाबां दी (यातनाओं और चिंताओं का),",
+          "english_gloss": "kyon (why) padhna ain (readest thou) gadd kitaabaan dee (cartloads of books), sir (on head) chaana ain (carriest) pand azaabaan dee (bundle of torments),"
+        },
+        {
+          "original": "हुण होइउं शकल जल्लादां दी, अग्गे पैंडा मुशकल भारा ए,",
+          "hindi_gloss": "हुण (अहंकार से) होइउं (हो गई है तेरी) शकल (सूरत) जल्लादां दी (जल्लादों जैसी कठोर), अग्गे (आगे परलोक का) पैंडा (मार्ग) मुशकल (अत्यंत दुर्गम और) भारा (भारी) ए (है),",
+          "english_gloss": "hun (now) ho-eon (thou hast become) shakal jallaadaan dee (visage of executioners), agge (ahead) painda (the journey) mushkal (difficult) bhaara (arduous) e (is),"
+        },
+        {
+          "original": "इक अलफ़ पढ़ो छुटकारा ए ।",
+          "hindi_gloss": "इक (एक) अलफ़ (अलिफ़) पढ़ो (पढ़ो) छुटकारा (मुक्ति) ए (है) ।",
+          "english_gloss": "ik (one) alaf (Alif) padho (read) chhutkaara (salvation) e (is) ."
+        },
+        {
+          "original": "बण हाफ़ज हिफ़ज कुरान करें, पढ़ पढ़ के साफ़ ज़बान करें,",
+          "hindi_gloss": "बण (बनकर) हाफ़ज (हाफ़िज़) हिफ़ज (कंठस्थ) कुरान करें (क़ुरआन करता है), पढ़ पढ़ के (पढ़-पढ़कर) साफ़ (शुद्ध) ज़बान (अपनी वाणी) करें (करता है),",
+          "english_gloss": "ban haafaz (becoming Hafiz) hifaz kuraan karen (memorizest Quran), padh padh ke (reading) saaf zabaan karen (makest tongue pure),"
+        },
+        {
+          "original": "फिर न्यामत विच ध्यान करें, मन फिरदा ज्युं हलकारा ए,",
+          "hindi_gloss": "फिर (किंतु मन में) न्यामत (स्वादिष्ट पकवानों और धन-दौलत) विच (में) ध्यान करें (ध्यान अटका रहता है), मन (तेरा मन) फिरदा (भटकता फिरता है) ज्युं (जैसे कोई) हलकारा (डाकिया/संदेशवाहक) ए (है),",
+          "english_gloss": "phir (yet) nyaamat vich (upon worldly delicacies) dhyaan karen (focusest), man (mind) phirda (wanders) jyun (like) halkaara (courier) e (is),"
+        },
+        {
+          "original": "इक अलफ़ पढ़ो छुटकारा ए ।",
+          "hindi_gloss": "इक (एक) अलफ़ (अलिफ़) पढ़ो (पढ़ो) छुटकारा (मुक्ति) ए (है) ।",
+          "english_gloss": "ik (one) alaf (Alif) padho (read) chhutkaara (freedom) e (is) ."
+        },
+        {
+          "original": "बुल्ल्हा बी बोहड़ दा बोया ई उह बिरछ वड्डा जा होया ई,",
+          "hindi_gloss": "बुल्ल्हा (हे बुल्ले!) बी (जैसे बीज) बोहड़ दा (बरगद के विशाल वृक्ष का एक सूक्ष्म बीज) बोया ई (बोया गया), उह (वह बढ़कर) बिरछ (विशाल वृक्ष) वड्डा जा (अत्यंत विशाल) होया ई (हो गया),",
+          "english_gloss": "bullha (O Bulleh) bee bohad da (seed of banyan) boya ee (was sown), uh birachh (that tree) vadda jaa hoya ee (became immense),"
+        },
+        {
+          "original": "जद बिरछ उह फ़ानी होया ई फिर रह गया बी अकारा ए,",
+          "hindi_gloss": "जद (परंतु जब) बिरछ (वह विशाल वृक्ष) उह (वह) फ़ानी (नष्ट/सूख) होया ई (हो गया), फिर (तो अंत में) रह गया (शेष बच गया) बी (वही अविनाशी बीज) अकारा (अपने मूल निराकार स्वरूप में) ए (है) ।",
+          "english_gloss": "jad birachh uh (when that tree) faanee hoya ee (perished), phir (then) rah gaya (remained) bee (the seed) akaara (in its formless essence) e (is) ."
+        },
+        {
+          "original": "इक अलफ़ पढ़ो छुटकारा ए ।",
+          "hindi_gloss": "इक (एक) अलफ़ (अलिफ़) पढ़ो (पढ़ो) छुटकारा (मुक्ति) ए (है) ।",
+          "english_gloss": "ik (one) alaf (Alif) padho (read) chhutkaara (deliverance) e (is) ."
+        }
+      ],
+      "hindi_meaning": "एक 'अलिफ़' से दो, तीन और चार बने, फिर हज़ारों, लाखों और करोड़ों रूप बने!  \nफिर उससे भी आगे असंख्य रूप फैल गए, पर उस एक 'अलिफ़' का मूल बिंदु सबसे निराला है!  \nकेवल उस एक 'अलिफ़' का पाठ पढ़ लो, तो समस्त बंधनों से छुटकारा मिल जाएगा!  \n\nगाड़ियाँ भर-भरकर पोथियाँ क्यों पढ़ता है? अपने सिर पर चिंताओं और यातनाओं का यह भारी गट्ठर क्यों ढोता है?  \nशाब्दिक ज्ञान के अहंकार से तेरा चेहरा जल्लादों जैसा कठोर हो गया है, जबकि आगे का आध्यात्मिक मार्ग बहुत कठिन और दुर्गम है!  \nकेवल उस एक 'अलिफ़' का पाठ पढ़ लो, तो समस्त बंधनों से छुटकारा मिल जाएगा!  \n\nहाफ़िज़ बनकर तू सारा क़ुरआन कंठस्थ करता है, और पढ़-पढ़कर अपनी ज़बान को शुद्ध करता है,  \nपरंतु तेरा ध्यान स्वादिष्ट व्यंजनों और सांसारिक दक्षिणा में लगा रहता है, तेरा मन किसी हरकारे (डाकिए) की तरह भटकता फिरता है!  \nकेवल उस एक 'अलिफ़' का पाठ पढ़ लो, तो समस्त बंधनों से छुटकारा मिल जाएगा!  \n\nहे बुल्ले! जैसे बरगद का एक छोटा-सा बीज बोया गया, और वह बढ़कर एक विशाल वटवृक्ष बन गया,  \nपरंतु जब वह भौतिक वृक्ष नष्ट हो गया, तो अंत में केवल वही मूल बीज शेष रह गया!  \nकेवल उस एक 'अलिफ़' का पाठ पढ़ लो, तो समस्त बंधनों से छुटकारा मिल जाएगा!",
+      "english_meaning": "From the single Alif emerged two, three, and four,  \nThen thousands, millions, and myriads more!  \nUnfolding into infinite numbers beyond count,  \nYet the single dot of Alif is the peerless fount!  \nRead the single letter Alif, and attain liberation complete!  \n\nWhy dost thou read cartloads of scriptures and lore,  \nPiling heavy bundles of torment upon thy head evermore?  \nThy face has grown grim and harsh like a hangman in pride,  \nWhile the arduous path ahead is treacherous and wide!  \nRead the single letter Alif, and attain liberation complete!  \n\nBecoming a Hafiz, thou memorizest the Holy Book with care,  \nPolishing thy tongue with holy verses in the air,  \nYet thy wandering mind hungers for delicacies and gold,  \nPacing like a restless courier across the world cold!  \nRead the single letter Alif, and attain liberation complete!  \n\nO Bulleh, a tiny seed of the banyan tree was sown in the loam,  \nWhich spread its vast leafy branches into a mighty home;  \nYet when that sprawling tree withers and turns to clay,  \nThe primordial seed alone survives the decay!  \nRead the single letter Alif, and attain liberation complete!"
+    }
+  ]
+}

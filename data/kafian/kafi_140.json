@@ -1,0 +1,106 @@
+{
+  "id": 140,
+  "title_punjabi": "तैं कित पर पाउं पसारा ए",
+  "title_english": "Why Have You Spread Your Feet in Heedless Slumber?",
+  "raga": "Raga Bhairav / Asavari",
+  "meter": "Davayya / Baint (16-12 matras)",
+  "theme": "Spiritual Vigilance, Transience of Earthly Life, and Awakening from Illusion",
+  "historical_context": "A classic waking song (Jagaran/Chetavani) of the Sufi-Sant tradition. Using the common Punjabi idiom of spreading one's legs in deep, carefree sleep ('पाउं पसारा'), Bulleh Shah shakes the sleeping traveler, reminding him that this earthly existence is nothing more than a momentary stopover in a caravanserai where the departure drums will sound at dawn.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "original": [
+        "तैं कित पर पाउं पसारा ए ।  ",
+        "कोई दम का अथां गुज़ारा ए ।"
+      ],
+      "hindi_gloss": "तैं (तूने) कित पर (किस भरोसे पर) पाउं पसारा ए (पाँव पसार रखे हैं/असावधान सोया है)? कोई (बस चंद) दम का (सांसों का) अथां (यहाँ इस संसार में) गुज़ारा ए (ठहराव/गुज़र-बसर है)।",
+      "english_gloss": "तैं कित पर (On what pretext hast thou) पाउं पसारा ए (spread thy feet in carefree slumber)? कोई दम का (Only for a few fleeting breaths) अथां (here in this world) गुज़ारा ए (is thy sojourn).",
+      "poetic_hindi": [
+        "किस भरोसे पाँव पसारा है?",
+        "चंद साँसों का यहाँ गुज़ारा है!"
+      ],
+      "poetic_english": [
+        "Why stretch your limbs in heedless sleep so bold?",
+        "A few short breaths are all this world can hold!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "original": [
+        "इक पलक झलक दा मेला ए कुझ कर लै इहो वेला ए,  ",
+        "इक घड़ी ग़नीमत देहाड़ा ए तैं कित पर पाउं पसारा ए ।"
+      ],
+      "hindi_gloss": "इक (एक) पलक (पलक झपकने की) झलक (क्षणभंगुर झलक) दा (का) मेला ए (यह जीवन का मेला है), कुझ (कुछ शुभ कर्म/साधना) कर लै (कर ले), इहो (यही अनुकूल) वेला ए (अवसर है), इक (एक) घड़ी (घड़ी) ग़नीमत (परम वरदान/अवसर) देहाड़ा ए (दिन का यह समय है), तैं कित पर पाउं पसारा ए (तूने किस भरोसे पाँव पसारा है?)।",
+      "english_gloss": "इक पलक झलक दा मेला ए (A fair that lasts only for a blink's flash), कुझ कर लै (accomplish something of worth), इहो वेला ए (now is the precious time), इक घड़ी (a single fleeting hour) ग़नीमत देहाड़ा ए (is a blessing of priceless fortune), तैं कित पर पाउं पसारा ए (why hast thou stretched thy feet in slumber?).",
+      "poetic_hindi": [
+        "एक पलक-झलक का मेला है, कुछ कर ले, यही सु-वेला है,",
+        "इक घड़ी ग़नीमत का तारा है, किस भरोसे पाँव पसारा है?"
+      ],
+      "poetic_english": [
+        "A passing fair that vanishes in an eye's quick blink,",
+        "Awake and act while standing on this transient brink;",
+        "Each fleeting moment is a treasure rich and rare,",
+        "Why stretch your feet in slumber free of care?"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "original": [
+        "इक रात सरां दा रहना ए एथे आ कर फुल्ल ना बहना ए,  ",
+        "कल्ल्ह सभ दा कूच नकारा ए तैं कित पर पाउं पसारा ए ।"
+      ],
+      "hindi_gloss": "इक (एक) रात (रात) सरां दा (सराय में) रहना ए (रहना है), एथे (यहाँ) आ कर (आकर) फुल्ल ना बहना ए (अहंकार में फूल कर मत बैठ जाना), कल्ल्ह (कल प्रातः ही) सभ दा (सभी का) कूच नकारा ए (प्रस्थान का नगाड़ा बजेगा), तैं कित पर पाउं पसारा ए (तूने किस भरोसे पाँव पसारा है?)।",
+      "english_gloss": "इक रात (A single night) सरां दा रहना ए (is the stay in this traveler's inn), एथे आ कर (having arrived here) फुल्ल ना बहना ए (do not sit puffed up with pride), कल्ल्ह (on the morrow) सभ दा (for all) कूच नकारा ए (the departure drum will sound), तैं कित पर पाउं पसारा ए (why hast thou spread thy feet in slumber?).",
+      "poetic_hindi": [
+        "एक रात सराय का रहना है, मत फूल यहाँ कुछ कहना है,",
+        "कल कूच-नकारा बजना है, किस भरोसे पाँव पसारा है?"
+      ],
+      "poetic_english": [
+        "One night alone within this caravanserai you stay;",
+        "Puff not with vanity before you fade away;",
+        "Tomorrow's drum will sound the final marching call;",
+        "Why stretch your feet as if death would not fall?"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "original": [
+        "तूं ओस मकानों आया एं, एथे आदम बण समाइआ एं,  ",
+        "हुन छड्ड मजलस कोई कारा ए तैं कित पर पाउं पसारा ए ।"
+      ],
+      "hindi_gloss": "तूं (तू) ओस (उस परम ला-मकां/दिव्य धाम) मकानों (धाम से) आया एं (आया है), एथे (यहाँ मर्त्यलोक में) आदम (मानव का रूप) बण (बनकर) समाइआ एं (प्रविष्ट हुआ है), हुन (अब) छड्ड (त्याग दे) मजलस (तुच्छ विषयों की संगत/विलासिता), कोई कारा ए (कोई सार्थक आध्यात्मिक कर्म कर), तैं कित पर पाउं पसारा ए (तूने किस भरोसे पाँव पसारा है?)।",
+      "english_gloss": "तूं (Thou) ओस मकानों (from that spaceless Realm Divine) आया एं (hast descended), एथे (here) आदम बण (taking Adam's mortal form) समाइआ एं (hast entered), हुन (now) छड्ड मजलस (abandon shallow earthly assemblies), कोई कारा ए (perform some real work of devotion), तैं कित पर पाउं पसारा ए (why hast thou spread thy feet in slumber?).",
+      "poetic_hindi": [
+        "तू उस पावन धाम से आया, यहाँ आदम का रूप सजाया,",
+        "छोड़ विलास, कर साधन सारा, किस भरोसे पाँव पसारा है?"
+      ],
+      "poetic_english": [
+        "From that celestial Home of Light you descended low,",
+        "Assuming mortal Adam's form to walk below;",
+        "Forsake vain company, work for the soul's release;",
+        "Why stretch your feet in false, unearned peace?"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "original": [
+        "बुल्ल्हा शहु इह भरम तुम्हारा ए सिर चुक्क्या परबत भारा ए,  ",
+        "उस मंज़ल राह ना खाहड़ा ए तैं कित पर पाउं पसारा ए ।"
+      ],
+      "hindi_gloss": "बुल्ल्हा (बुल्लेशाह कहता है) शहु (हे जीव!) इह (यह जो अहंता है) भरम (भ्रम/मिथ्या माया) तुम्हारा ए (तुम्हारा है), सिर (सिर पर) चुक्क्या (उठा रखा है) परबत (पापों और वासनाओं का पर्वत) भारा ए (भारी), उस (उस परमात्मा की) मंज़ल (मंजिल का) राह ना खाहड़ा ए (तुझे कोई मार्ग या सुराग ज्ञात नहीं), तैं कित पर पाउं पसारा ए (तूने किस भरोसे पाँव पसारा है?)।",
+      "english_gloss": "बुल्ल्हा (Bulleh says) शहु (the Master says) इह भरम तुम्हारा ए (this is merely thy delusion of separate self), सिर चुक्क्या (upon thy head thou hast borne) परबत भारा ए (a heavy mountain of karmas/pride), उस मंज़ल (of that Divine destination) राह ना खाहड़ा ए (thou hast neither path nor track), तैं कित पर पाउं पसारा ए (why hast thou spread thy feet in slumber?).",
+      "poetic_hindi": [
+        "बुल्ल्हा कहे, यह भरम तुम्हारा, सिर ढोता पर्वत अति भारा,",
+        "मंज़िल की राह न ढूँढी ज़रा, किस भरोसे पाँव पसारा है?"
+      ],
+      "poetic_english": [
+        "Bulleh says: this phantom ego is your self-made plight,",
+        "A mountain of heavy sin you bear into the night;",
+        "You know not the road that leads to the Master's door;",
+        "Why stretch your feet in slumber upon the floor?"
+      ]
+    }
+  ],
+  "sufi_commentary": "Kafi 140 is a piercing wake-up call to the spiritual seeker slumbering in the hypnotic trance of Ghaflat (heedlessness). The phrase 'पाउं पसारा' (stretching one's legs) denotes someone who has settled into deep, carefree comfort, forgetting danger and transience. Bulleh dismantles this complacency through the ancient metaphor of the caravanserai ('सरां'). Life in human form is merely a single night's lodging; at dawn, the marching drum ('कूच नकारा') will inevitably sound. Bulleh reminds the soul of its celestial origin: 'तूं ओस मकानों आया एं, एथे आदम बण समाइआ एं'—the soul descended from the Spaceless Divine Presence (La-makan) and took on the mortal garment of Adam. Instead of fulfilling the purpose of this incarnation by seeking reunion, man wastes his brief hours in trivial worldly gatherings ('मजलस') and burdens his head with a mountain of worldly illusions ('सिर चुक्क्या परबत भारा'). Without realizing the true path ('राह ना खाहड़ा'), slumber is spiritual suicide. Bulleh urges immediate vigilance before the brief opportunity of human life dissolves forever.",
+  "title": "तैं कित पर पाउं पसारा ए"
+}

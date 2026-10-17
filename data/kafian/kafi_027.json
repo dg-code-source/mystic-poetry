@@ -1,0 +1,54 @@
+{
+  "id": 27,
+  "title": "27. दिल लोचे माही यार नूं",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "इक हस्स हस्स गल्ल करदीआं, इक रोंदीआं धोंदीआं मरदीआं,\nकहो फुल्ली बसंत बहार नूं, दिल लोचे माही यार नूं ।\n\nमैं न्हाती धोती रह गई, इक गंढ माही दिल बह गई,\nभाह लाईए हार शिंगार नूं, दिल लोचे माही यार नूं ।\n\nमैं कमली कीती दूतियां, दुक्ख घेर चुफेरों लीतियां,\nघर आ माही दीदार नूं, दिल लोचे माही यार नूं ।\n\nबुल्ल्हा शौह मेरे घर आया, मैं घुट्ट रांझण गल लाइआ,\nदुक्ख गए समुन्दर पार नूं, दिल लोचे माही यार नूं ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "इक हस्स हस्स गल्ल करदीआं, इक रोंदीआं धोंदीआं मरदीआं,",
+          "hindi_gloss": "इक (कुछ सखियाँ) हस्स (हँस-हँसकर) हस्स (प्रसन्नता से) गल्ल (बातें) करदीआं (करती हैं), इक (और कुछ विरहिणी) रोंदीआं (रो-रोकर) धोंदीआं (आँसुओं से धुलती) मरदीआं (तड़पकर मर रही हैं),",
+          "english_gloss": "ik (some) hass (laughing) hass (joyfully) gall (conversations) kardiaan (make), ik (and others) rondeeyaan (weeping) dhondeeyaan (washed in tears) mardeeyaan (dying in agony),"
+        },
+        {
+          "original": "कहो फुल्ली बसंत बहार नूं, दिल लोचे माही यार नूं ।",
+          "hindi_gloss": "कहो (कह दो उस) फुल्ली (खिली हुई) बसंत (वसंत ऋतु की) बहार (बहार/उल्लास) नूं (से), दिल (कि मेरा हृदय केवल) लोचे (चाहता/तरसता है) माही (मेरे प्रियतम) यार (प्यारे) नूं (के लिए) ।",
+          "english_gloss": "kaho (tell) phullee (blossomed) basant (spring) bahaar (bloom) noon (unto), dil (my heart) loche (yearns for) maahi (the Beloved) yaar (Friend) noon (unto) ."
+        },
+        {
+          "original": "मैं न्हाती धोती रह गई, इक गंढ माही दिल बह गई,",
+          "hindi_gloss": "मैं (मैं तो केवल) न्हाती (नहाती) धोती (सजती-धजती) रह गई (रह गई), इक (परंतु एक) गंढ (गहरी गाँठ/संदेह या विरह की टीस) माही (प्रियतम के) दिल (हृदय में) बह (बैठ) गई (गई है),",
+          "english_gloss": "main (I) nhaatee (bathed) dhotee (cleansed) rah (remained) gayee (having been), ik (one) gandh (knot/distrust) maahi (the Beloved's) dil (heart) bah (settled) gayee (in),"
+        },
+        {
+          "original": "भाह लाईए हार शिंगार नूं, दिल लोचे माही यार नूं ।",
+          "hindi_gloss": "भाह (आग) लाईए (लगा दी जाए) हार (इस हार) शिंगार (और साज-श्रृंगार) नूं (को), दिल (यह मन तो केवल) लोचे (तरसता है) माही (प्रियतम) यार (यार) नूं (के मिलन को) ।",
+          "english_gloss": "bhaah (fire) laaee-e (let us set to) haar (necklace) shingaar (adornment) noon (unto), dil (heart) loche (longs for) maahi (Beloved) yaar (Friend) noon (unto) ."
+        },
+        {
+          "original": "मैं कमली कीती दूतियां, दुक्ख घेर चुफेरों लीतियां,",
+          "hindi_gloss": "मैं (मुझको) कमली (बावरी/पागल) कीती (बना दिया) दूतियां (द्वेषी निंदकों और दूतों ने), दुक्ख (और दुःखों ने मुझे) घेर (घेरकर) चुफेरों (चारों तरफ़ से) लीतियां (जकड़ लिया है),",
+          "english_gloss": "main (me) kamlee (crazed) keetee (made) dooteeyan (scornful slanderers), dukkh (sorrows) gher (surrounding) chupheron (from all sides) leeteeyaan (have seized),"
+        },
+        {
+          "original": "घर आ माही दीदार नूं, दिल लोचे माही यार नूं ।",
+          "hindi_gloss": "घर (मेरे घर के आँगन) आ (आ जाओ) माही (हे प्रियतम) दीदार (अपने पावन दर्शन) नूं (के लिए), दिल (मेरा हृदय) लोचे (तड़पता है) माही (प्रियतम) यार (यार) नूं (के लिए) ।",
+          "english_gloss": "ghar (to home) aa (come) maahi (O Beloved) deedaar (sight/vision) noon (for), dil (heart) loche (yearns for) maahi (Beloved) yaar (Friend) noon (unto) ."
+        },
+        {
+          "original": "बुल्ल्हा शौह मेरे घर आया, मैं घुट्ट रांझण गल लाइआ,",
+          "hindi_gloss": "बुल्ल्हा (बुल्ले शाह कहते हैं कि जब) शौह (परम स्वामी) मेरे (मेरे) घर (हृदय-आँगन में) आया (पधारे), मैं (मैंने) घुट्ट (कसकर/भींचकर) रांझण (प्यारे रांझा को) गल (गले से) लाइआ (लगा लिया),",
+          "english_gloss": "bullha (Bulleh Shah says when) shauh (the Lord) mere (my) ghar (home) aaya (came), main (I) ghutt (tightly) raanjhan (Ranjha) gal (to bosom/neck) laaia (embraced),"
+        },
+        {
+          "original": "दुक्ख गए समुन्दर पार नूं, दिल लोचे माही यार नूं ।",
+          "hindi_gloss": "दुक्ख (मेरे समस्त दुःख) गए (चले गए) समुन्दर (सात समंदर) पार (पार दूर) नूं (को), दिल (जो दिल सदा) लोचे (तरसता था) माही (प्रियतम) यार (यार) नूं (के लिए) ।",
+          "english_gloss": "dukkh (all sorrows) gae (departed) samundar (ocean) paar (across) noon (unto), dil (heart) loche (longed for) maahi (Beloved) yaar (Friend) noon (unto) ."
+        }
+      ],
+      "hindi_meaning": "कुछ सखियाँ हँस-हँसकर बातें करती हैं, और कुछ विरह में रो-रोकर मरती हैं,  \nजाकर कह दो वसंत की इस बहार से, यह दिल तो बस प्यारे साजन को तरसता है!  \n\nमैं नहा-धोकर श्रृंगार ही करती रह गई, पर साजन के दिल में विरह की गाँठ पड़ गई,  \nआग लगे इस हार और श्रृंगार को, यह दिल तो बस प्यारे साजन को तरसता है!  \n\nइस ज़माने के तानों ने मुझे बावरी कर दिया, चारों तरफ से दुःखों ने मुझे घेर लिया,  \nहे प्रीतम! दर्शन देने घर आ जाओ, यह दिल तो बस प्यारे साजन को तरसता है!  \n\nबुल्ले के घर जब प्राण-स्वामी पधारे, मैंने भींचकर रांझा को गले लगाया,  \nसारे दुःख सात समंदर पार भाग गए, यह दिल जो प्यारे साजन को तरसता था!",
+      "english_meaning": "Some maidens laugh and whisper in sheer delight,  \nWhile others weep, consumed by yearning’s night!  \nGo tell the blooming spring with all its flowers,  \nMy heart seeks only the Beloved in lonely hours!  \n\nI bathed and cleansed myself with tender care,  \nYet doubt formed a bitter knot in my lover’s lair!  \nCast all ornaments and necklaces into the fire,  \nThe Beloved alone is my spirit's sole desire!  \n\nCruel slanderers have driven me completely wild,  \nSufferings hem me in, no longer gentle or mild!  \nReturn to my courtyard, O Beloved, let me see your face,  \nMy heart longs only for your healing embrace!  \n\nWhen the Lord crossed my threshold and stepped inside,  \nI clutched my Ranjha tightly, my soul’s true bride!  \nAll sorrow fled across the distant sea,  \nFor my yearning heart was unified and free!"
+    }
+  ]
+}

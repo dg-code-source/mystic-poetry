@@ -1,0 +1,54 @@
+{
+  "id": 35,
+  "title": "35. घुंघट ओहले ना लुक्क सोहणिआँ",
+  "section": "भाग 1 (काफ़ियां 1–50)",
+  "original_poem": "घुंघट ओहले ना लुक्क सोहणिआँ,\nमैं मुशताक दीदार दी हां ।\n\nजानी बाझ दीवानी होई, टोकां करदे लोक सभोई,\nजे कर यार करे दिलजोई, मैं तां फरिआद पुकारदी हां ।\nमैं मुशताक दीदार दी हां ।\n\nमुफ़त विकांदी जांदी बांदी, मिल माहिया जिन्द ऐंवें जांदी,\nइकदम हिजर नहीं मैं सहिंदी, मैं बुलबुल इस गुलज़ार दी हां ।\nमैं मुशताक दीदार दी हां ।",
+  "annotated_stanzas": [
+    {
+      "lines": [
+        {
+          "original": "घुंघट ओहले ना लुक्क सोहणिआँ,",
+          "hindi_gloss": "घुंघट (घूँघट की) ओहले (ओट में) ना (मत) लुक्क (छिपो) सोहणिआँ (हे मेरे परम सुंदर साजन),",
+          "english_gloss": "ghoonaghat (veil's) ohle (behind/in shelter) na (not) lukk (hide) sohniyaan (O Beautiful One),"
+        },
+        {
+          "original": "मैं मुशताक दीदार दी हां ।",
+          "hindi_gloss": "मैं (मैं तो केवल) मुशताक (दीवानी/प्यासी) दीदार (तुम्हारे पावन दर्शन) दी (की) हां (हूँ) ।",
+          "english_gloss": "main (I) mushtaak (ardently longing) deedaar (sight/vision) dee (of) haan (am) ."
+        },
+        {
+          "original": "जानी बाझ दीवानी होई, टोकां करदे लोक सभोई,",
+          "hindi_gloss": "जानी (अपने प्राण-प्रियतम के) बाझ (बिना) दीवानी (पागल/बावरी) होई (हो चुकी हूँ), टोकां (ताने और व्यंग्य) करदे (करते हैं) लोक (संसार के लोग) सभोई (समस्त),",
+          "english_gloss": "jaanee (Beloved of soul) baajh (without) deevaanee (crazed) hoee (have become), tokaan (taunts) karde (make) lok (people) sabhoee (all),"
+        },
+        {
+          "original": "जे कर यार करे दिलजोई, मैं तां फरिआद पुकारदी हां ।",
+          "hindi_gloss": "जे कर (यदि) यार (मेरा प्यारा यार) करे (करे) दिलजोई (मेरी तसल्ली और सांत्वना), मैं तां (तभी तो मैं) फरिआद (अपने प्रेम की पुकार) पुकारदी (लगा रही) हां (हूँ) ।",
+          "english_gloss": "je kar (if only) yaar (Beloved) kare (offers) diljoee (consolation), main taan (that is why I) fariaad (plaintive cry) pukaardee (call out) haan (am) ."
+        },
+        {
+          "original": "मैं मुशताक दीदार दी हां ।",
+          "hindi_gloss": "मैं (मैं तो) मुशताक (व्याकुल अभिलाषिणी) दीदार (दीदार) दी (की) हां (हूँ) ।",
+          "english_gloss": "main (I) mushtaak (longing seeker) deedaar (of vision) dee (of) haan (am) ."
+        },
+        {
+          "original": "मुफ़त विकांदी जांदी बांदी, मिल माहिया जिन्द ऐंवें जांदी,",
+          "hindi_gloss": "मुफ़त (बिना किसी मूल्य के) विकांदी जांदी (बिकती जा रही है यह) बांदी (तुम्हारी दासी), मिल (मुझसे मिल जाओ) माहिया (हे प्यारे माही) जिन्द (यह जीवन) ऐंवें (यूँ ही व्यर्थ) जांदी (बीता जा रहा है),",
+          "english_gloss": "mufat (free of cost) vikaandee jaandee (getting sold away) baandee (slave-maid), mil (meet me) maahiya (O Beloved) jind (life) aiven (in vain) jaandee (is ebbing away),"
+        },
+        {
+          "original": "इकदम हिजर नहीं मैं सहिंदी, मैं बुलबुल इस गुलज़ार दी हां ।",
+          "hindi_gloss": "इकदम (एक क्षण के लिए भी) हिजर (विरह की तड़प) नहीं (नहीं) मैं (मुझसे) सहिंदी (सही जाती), मैं (मैं तो) बुलबुल (बुलबुल) इस (तुम्हारे इस प्रेम रूपी) गुलज़ार (उद्यान) दी (की) हां (हूँ) ।",
+          "english_gloss": "ikdam (for a single breath) hijar (torment of separation) naaheen (not) main (I) sahindi (can endure), main (I) bulbul (the nightingale) is (of this) gulzaar (rose garden) dee (of) haan (am) ."
+        },
+        {
+          "original": "मैं मुशताक दीदार दी हां ।",
+          "hindi_gloss": "मैं (मैं तो) मुशताक (प्यासी) दीदार (तुम्हारे दीदार) दी (की) हां (हूँ) ।",
+          "english_gloss": "main (I) mushtaak (yearning) deedaar (of vision) dee (of) haan (am) ."
+        }
+      ],
+      "hindi_meaning": "घूँघट की ओट में मत छिपो, हे मेरे सुंदर प्रीतम!  \nमैं तो बस तुम्हारे पावन दीदार की प्यासी हूँ!  \n\nअपने प्राण-प्यारे के बिना मैं मतवाली बावरी हो गई हूँ, सारा संसार मुझ पर तानों के तीर चलाता है!  \nयदि मेरा यार ही मुझे तसल्ली न देगा, तो मैं यह विरह की फ़रियाद किसके आगे पुकारूँ!  \nमैं तो बस तुम्हारे पावन दीदार की प्यासी हूँ!  \n\nतुम्हारी यह दासी तो तुम्हारे प्रेम में कौड़ियों के मोल मुफ्त बिक चुकी है!  \nहे माही! आकर मिल जाओ, विरह में मेरी यह जान यूँ ही निकली जा रही है!  \nएक पल के लिए भी यह वियोग मुझसे सहन नहीं होता, मैं तो तुम्हारे इस प्रेम-बाग़ की चहकती बुलबुल हूँ!  \nमैं तो बस तुम्हारे पावन दीदार की प्यासी हूँ!",
+      "english_meaning": "Hide not behind the veil, O Beautiful One divine!  \nI thirst solely for that radiant countenance of thine!  \n\nBereft of my Soul’s darling, I am driven wild and mad,  \nThe entire world hurls mockery at a heart so bruised and sad!  \nIf my Beloved does not soothe this burning pain,  \nTo whom else shall I cry this lament in vain?  \nI thirst solely for that radiant countenance of thine!  \n\nThy humble bondmaid sells herself for naught at thy feet,  \nCome meet me, O Maahi, before life's fading pulses retreat!  \nNot for a single breath can I endure separation's sting,  \nI am the nightingale meant in thy rose garden to sing!  \nI thirst solely for that radiant countenance of thine!"
+    }
+  ]
+}
