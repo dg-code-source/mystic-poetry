@@ -1,0 +1,1282 @@
+window.BULLEH_SHAH_MANIFEST = [
+  {
+    "id": 1,
+    "title": "1. आ मिल यार सार लै मेरी",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "आ मिल यार सार लै मेरी, मेरी जान दुक्खां ने घेरी ।"
+  },
+  {
+    "id": 2,
+    "title": "2. आओ फ़कीरो मेले चलिए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "आयो फ़कीरो मेले चलिए, आरफ़ दा सुन वाजा रे ।"
+  },
+  {
+    "id": 3,
+    "title": "3. आओ सईयो रल दियो नी वधाई",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "आयो सईयो रल दियो नी वधाई ।"
+  },
+  {
+    "id": 4,
+    "title": "4. आ सजन गल लग्ग असाडे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "आ सजन गल लग्ग असाडे, केहा झेड़ा लाययो ई ?"
+  },
+  {
+    "id": 5,
+    "title": "5. अब हम गुंम हूए, प्रेम नगर के शहर",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अब हम गुंम हूए, प्रेम नगर के शहर ।"
+  },
+  {
+    "id": 6,
+    "title": "6. अब क्यों साजन चिर लायो रे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अब क्यों साजन चिर लायो रे ?"
+  },
+  {
+    "id": 7,
+    "title": "7. अब लगन लगी किह करिए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अब लगन लगी किह करिए ?"
+  },
+  {
+    "id": 8,
+    "title": "8. ऐसा जगिआ ज्ञान पलीता",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "ऐसा जगिआ ज्ञान पलीता ।"
+  },
+  {
+    "id": 9,
+    "title": "9. ऐसा मन में आइयो रे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "ऐसा मन में आइयो रे, दुक्ख सुक्ख सभ वंञाययो रे ।"
+  },
+  {
+    "id": 10,
+    "title": "10. अक्खां विच दिल जानी प्यारिआ",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अक्खां विच दिल जानी प्यारिआ, केही चेटक लाइआ ई ।"
+  },
+  {
+    "id": 11,
+    "title": "11. अलफ़ अल्लाह नाल रत्ता दिल मेरा",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अलफ़ अल्लाह नाल रत्ता दिल मेरा,"
+  },
+  {
+    "id": 12,
+    "title": "12. अम्मां बाबे दी भलिआई",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अम्मां बाबे दी भलिआई, उह हुन कंम असाडे आई ।"
+  },
+  {
+    "id": 13,
+    "title": "13. अपने संग रलाईं प्यारे, अपने संग रलाईं",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "अपने संग रलाईं प्यारे, अपने संग रलाईं ।"
+  },
+  {
+    "id": 14,
+    "title": "14. बहुड़ीं वे तबीबा मैंडी जिन्द गईआ",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बहुड़ीं वे तबीबा मैंडी जिन्द गईआ ।"
+  },
+  {
+    "id": 15,
+    "title": "15. बंसी काहन अचरज बजाई",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बंसी वालिआ चाका रांझा, तेरा सुर है सभ नाल सांझा,"
+  },
+  {
+    "id": 16,
+    "title": "16. बस्स कर जी हुण बस्स कर जी",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बस्स कर जी हुण बस्स कर जी,"
+  },
+  {
+    "id": 17,
+    "title": "17. बेहद्द रमज़ां दसदा नीं, ढोलण माही",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बेहद्द रमज़ां दसदा नीं, ढोलण माही ।"
+  },
+  {
+    "id": 18,
+    "title": "18. भैणां मैं कत्तदी कत्तदी हुट्टी",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "पिड़ी पिछे पछवाड़े रह गई, हत्थ विच रह गई जुट्टी,"
+  },
+  {
+    "id": 19,
+    "title": "19. भावें जाण ना जाण वे वेहड़े आ वड़ मेरे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "भावें जाण ना जाण वे वेहड़े आ वड़ मेरे ।"
+  },
+  {
+    "id": 20,
+    "title": "20. भरवासा की आशनाई दा",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "भरवासा की आशनाई दा ।"
+  },
+  {
+    "id": 21,
+    "title": "21. बुल्ला की जाणा मैं कौण",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "ना मैं मोमन विच मसीतां, ना मैं विच कुफ़र दीआं रीतां,"
+  },
+  {
+    "id": 22,
+    "title": "22. बुल्ला की जाने ज़ात इश्क दी कौण",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बुल्ल्हा की जाने ज़ात इश्क दी कौण ।"
+  },
+  {
+    "id": 23,
+    "title": "23. बुल्ल्हे नूं समझावण आईआं, भैणां ते भरजाईआं",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "बुल्ल्हे नूं समझावण आईआं, भैणां ते भरजाईआं ।"
+  },
+  {
+    "id": 24,
+    "title": "24. चलो देखिए उस मसतानड़े नूं",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "चलो देखिए उस मसतानड़े नूं,"
+  },
+  {
+    "id": 25,
+    "title": "25. चुप्प करके करीं गुज़ारे नूं",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "सच्च सुणदे लोक ना सहिंदे नी, सच्च आखिए तां गल पैंदे नी,"
+  },
+  {
+    "id": 26,
+    "title": "26. ढोला आदमी बण आया",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "आपे आहू आपे चीता, आपे मारन धाइआ,"
+  },
+  {
+    "id": 27,
+    "title": "27. दिल लोचे माही यार नूं",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इक हस्स हस्स गल्ल करदीआं, इक रोंदीआं धोंदीआं मरदीआं,"
+  },
+  {
+    "id": 28,
+    "title": "28. इह अचरज साधो कौण कहावे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इह अचरज साधो कौण कहावे ।"
+  },
+  {
+    "id": 29,
+    "title": "29. इह दुख जा कहूं किस आगे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इह दुख जा कहूं किस आगे,"
+  },
+  {
+    "id": 30,
+    "title": "30. फ़सुमा वजउल-अल्लाह दस्सना एं अज्ज ओ यार",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "घुंघट खोल्ह मुक्ख वेख ना मेरा,"
+  },
+  {
+    "id": 31,
+    "title": "31. गल्ल रौले लोकां पाई ए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "गल्ल रौले लोकां पाई ए ।"
+  },
+  {
+    "id": 32,
+    "title": "32. घड़िआली दियो निकाल नी",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "घड़िआली दियो निकाल नी ।"
+  },
+  {
+    "id": 33,
+    "title": "33. घर में गंगा आई संतो, घर में गंगा आई",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "घर में गंगा आई संतो, घर में गंगा आई ।"
+  },
+  {
+    "id": 34,
+    "title": "34. घुंघट चुक्क ओ सजणा, हुण शरमां काहनूं रक्खियां वे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "ज़ुल्फ़ कुंडल ने घेरा पाइआ, बिसियर हो के डंग चलाइआ,"
+  },
+  {
+    "id": 35,
+    "title": "35. घुंघट ओहले ना लुक्क सोहणिआँ",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "घुंघट ओहले ना लुक्क सोहणिआँ,"
+  },
+  {
+    "id": 36,
+    "title": "36. गुर जो चाहे सो करदा ए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "मेरे घर विच चोरी होई, सुत्ती रही ना जाग्या कोई,"
+  },
+  {
+    "id": 37,
+    "title": "37. हाजी लोक मक्के नूं जांदे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "हाजी लोक मक्के नूं जांदे,"
+  },
+  {
+    "id": 38,
+    "title": "38. हत्थी ढिलक गई मेरे चरखे दी, हुण मैथों कत्त्या ना जावे",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "हुण दिन-चढ़आ कद होवे, मैनूं प्यारा मूंह दिखलावे,"
+  },
+  {
+    "id": 39,
+    "title": "39. हिजाब करें दरवेशी कोलों, कद तक हुक्म चलावेंगा",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "गल अलफी सिर-पा-बरहना, भलके रूप वटावेंगा,"
+  },
+  {
+    "id": 40,
+    "title": "40. हिन्दू ना नहीं मुसलमान",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "हिन्दू ना नहीं मुसलमान ।"
+  },
+  {
+    "id": 41,
+    "title": "41. होरी खेलूंगी कह बिसमिलाह",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "नाम नबी की रतन चढ़ी बून्द पड़ी अल्लाह अल्लाह,"
+  },
+  {
+    "id": 42,
+    "title": "42. हुण किस थीं आप छुपाईदा",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "किते मुल्लां हो बुलेंदे हो, किते सुन्नत फ़रज़ दसेंदे हो,"
+  },
+  {
+    "id": 43,
+    "title": "43. हुण मैं लखिआ सोहणा यार",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "हुण मैं लखिआ सोहणा यार ।"
+  },
+  {
+    "id": 44,
+    "title": "44. हुण मैनूं कौण पछाणे, हुण मैं हो गई नी कुझ होर",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "हादी मैनूं सबक पढ़ाइआ, ओथे ग़ैर ना आया जाइआ,"
+  },
+  {
+    "id": 45,
+    "title": "45. इक अलफ़ पढ़ो छुटकारा ए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इक अलफ़ों दो तिन्न चार होए, फिर लक्ख करोड़ हज़ार होए,"
+  },
+  {
+    "id": 46,
+    "title": "46. इक नुक़्ता यार पढ़ाइआ ए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इक नुक़्ता यार पढ़ाइआ ए ।"
+  },
+  {
+    "id": 47,
+    "title": "47. इक नुक़्ते विच गल्ल मुक्कदी ए",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "फड़ नुक़्ता छोड़ हिसाबां नूं, कर दूर कुफ़र दीआं बाबां नूं,"
+  },
+  {
+    "id": 48,
+    "title": "48. इक रांझा मैनूं लोड़ीदा",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "कुन-फअकूनों अग्गे दीआं लगियां,"
+  },
+  {
+    "id": 49,
+    "title": "49. इलमों बस्स करीं ओ यार",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "इलम ना आवे विच शुमार, इको अलफ़ तेरे दरकार,"
+  },
+  {
+    "id": 50,
+    "title": "50. इश्क असां नाल केही कीती, लोक मरेंदे तअने",
+    "title_english": "",
+    "section": "भाग 1 (काफ़ियां 1–50)",
+    "raga": "",
+    "first_line": "दिल दी वेदन कोई ना जाणे, अन्दर देस बगाने,"
+  },
+  {
+    "id": 51,
+    "title": "51. इश्क दी नवीयों नवीं बहार",
+    "title_english": "The Springtime of Love is Ever New",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बहार",
+    "first_line": "जां मैं सबक इश्क दा पढ़आ, मसजद कोलों जीउड़ा डरिआ,"
+  },
+  {
+    "id": 52,
+    "title": "52. इश्क हकीकी ने मुट्ठी कुड़े",
+    "title_english": "Divine Love Hath Enraptured Me, O Sisters!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग आसा / पिलू",
+    "first_line": "इश्क हकीकी ने मुट्ठी कुड़े,"
+  },
+  {
+    "id": 53,
+    "title": "53. इस नेहुं दी उलटी चाल",
+    "title_english": "The Inverted, Paradoxical Ways of Love",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग मारू / सोरठ",
+    "first_line": "साबिर ने जद नेहुं लगाइआ, देख पिया ने की दिखलाइआ,"
+  },
+  {
+    "id": 54,
+    "title": "54. जिचर ना इश्क मजाज़ी लागे",
+    "title_english": "Until Metaphorical Love Awakens the Heart",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / काफी",
+    "first_line": "जिचर ना इश्क मजाज़ी लागे ।"
+  },
+  {
+    "id": 55,
+    "title": "55. जिन्द कुड़िकी दे मूंह आई",
+    "title_english": "My Soul Has Fallen Into the Snare",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग सोरठ / जोगिया",
+    "first_line": "आपे हैं तूं लहमका लहमी, आपे हैं तूं न्यारा,"
+  },
+  {
+    "id": 56,
+    "title": "56. जिस तन लगिआ इश्क कमाल",
+    "title_english": "The Body Where Consummate Love Strikes",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "जिस तन लगिआ इश्क कमाल ।"
+  },
+  {
+    "id": 57,
+    "title": "57. जो रंग रंगिआ गूढ़ा रंगिआ, मुरशद वाली लाली ओ यार",
+    "title_english": "The Deep Dye Wherewith I am Dyed, The Master's Crimson Glow, O Friend!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग लालित / भैरव",
+    "first_line": "आहद विचों अहमद होया, विचों मीम निकाली ओ यार ।"
+  },
+  {
+    "id": 58,
+    "title": "58. कदी आ मिल बिरहों सताई नूं",
+    "title_english": "Come Meet Me Sometime, Sufferer of Separation",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग जोगिया / आसावरी",
+    "first_line": "इश्क लग्गे तां है है कूकें,"
+  },
+  {
+    "id": 59,
+    "title": "59. कदी आ मिल यार प्यारिआ",
+    "title_english": "Come Meet Me, Beloved Friend",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग सारंग / मेघ",
+    "first_line": "कदी आ मिल यार प्यारिआ ।"
+  },
+  {
+    "id": 60,
+    "title": "60. कदी आपनी आख बुलाओगे",
+    "title_english": "Wilt Thou Ever Call Me Thine Own?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तोड़ी / धनाश्री",
+    "first_line": "मैं बेगुन क्या गुन किया है, तन पिया है मन पिया है,"
+  },
+  {
+    "id": 61,
+    "title": "61. कदी मोड़ मुहारां ढोलिआ",
+    "title_english": "Turn the Reins Sometime, O Beloved!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / काफी",
+    "first_line": "कदी मोड़ मुहारां ढोलिआ ।"
+  },
+  {
+    "id": 62,
+    "title": "62. कपूरी रेवड़ी क्यों कर लड़े पतासे नाल",
+    "title_english": "How Can Kapuri Revadi Fight With Patasa?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "तेल तिलां दे लड्डू ने, जलेबी पकड़ मंगाई,"
+  },
+  {
+    "id": 63,
+    "title": "63. कर कत्तन वल्ल ध्यान कुड़े",
+    "title_english": "Pay Heed Unto Thy Spinning, O Maiden!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / माझ",
+    "first_line": "नित मत्तीं देंदी मां धिया, क्यों फिरनी एं ऐवें आ धिया,"
+  },
+  {
+    "id": 64,
+    "title": "64. कत्त कुड़े ना वत्त कुड़े",
+    "title_english": "Spin, O Maiden, Do Not Wander In Vain!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / सोरठ",
+    "first_line": "कत्त कुड़े ना वत्त कुड़े ।"
+  },
+  {
+    "id": 65,
+    "title": "65. कौन आया पहन लिबास कुड़े",
+    "title_english": "Who Has Arrived Donning This Garb, O Maidens?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / तिलक कामोद",
+    "first_line": "कौन आया पहन लिबास कुड़े ।"
+  },
+  {
+    "id": 66,
+    "title": "66. केहे लारे देना एं सानूं दो घड़ियां मिल जाईं",
+    "title_english": "Why Make Such False Excuses? Come Meet Me For Two Fleeting Moments!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / देस",
+    "first_line": "केहे लारे देना एं सानूं दो घड़ियां मिल जाईं ।"
+  },
+  {
+    "id": 67,
+    "title": "67. ख़ाकी ख़ाक स्युं रल जाणा",
+    "title_english": "This Dust Shall Merge With Dust",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / भैरवी",
+    "first_line": "ख़ाकी ख़ाक सूं (स्युं) रल जाणा"
+  },
+  {
+    "id": 68,
+    "title": "68. खेड लै विच वेहड़े घुंमी घुंम",
+    "title_english": "Dance Spinning in the Courtyard!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग भैरवी / सूही",
+    "first_line": "खेड लै विच वेहड़े घुंमी घुंम ।"
+  },
+  {
+    "id": 69,
+    "title": "69. की बेदरदां संग यारी",
+    "title_english": "What Avails Friendship With The Heartless?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / सोरठ",
+    "first_line": "की बेदरदां संग यारी,"
+  },
+  {
+    "id": 70,
+    "title": "70. कीहनूं ला-मकानी दस्सदे हो",
+    "title_english": "Whom Art Thou Telling Thou Art Spaceless?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बहार",
+    "first_line": "कीहनूं ला-मकानी दस्सदे हो ।"
+  },
+  {
+    "id": 71,
+    "title": "71. की जाणां मैं कोई",
+    "title_english": "What Do I Know Who I Am?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग आसा / जोगिया",
+    "first_line": "की जाणां मैं कोई,"
+  },
+  {
+    "id": 72,
+    "title": "72. की करदा बेपरवाही जे",
+    "title_english": "What Sovereign Nonchalance and Carefree Play Is This!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / काफी",
+    "first_line": "की करदा बेपरवाही जे ।"
+  },
+  {
+    "id": 73,
+    "title": "73. की करदा नी की करदा नी",
+    "title_english": "What Is He Doing, O Maidens, What Is My Beloved Doing?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग भैरवी / काफी",
+    "first_line": "की करदा नी की करदा नी,"
+  },
+  {
+    "id": 74,
+    "title": "74. क्यों इश्क असां ते आया ए",
+    "title_english": "Why Hath Love Fallen Upon Us?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग मारू / सोरठ",
+    "first_line": "क्यों इश्क असां ते आया ए ।"
+  },
+  {
+    "id": 75,
+    "title": "75. क्यों लड़ना हैं क्यों लड़ना हैं ग़ैर गुनाही",
+    "title_english": "Why Dost Thou Contend With Me When I Am Without Sin?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "क्यों लड़ना हैं क्यों लड़ना हैं ग़ैर गुनाही ।"
+  },
+  {
+    "id": 76,
+    "title": "76. क्यों ओहले बह बह झाकी दा",
+    "title_english": "Why Dost Thou Peep Sitting Behind The Veil?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बहार",
+    "first_line": "क्यों ओहले बह बह झाकी दा ।"
+  },
+  {
+    "id": 77,
+    "title": "77. लणतरानी दस्स के जानी हुन क्यों मुक्ख छुपाइआ ई",
+    "title_english": "Saying 'Thou Shalt Not See Me', O Darling, Why Hast Thou Hidden Thy Face?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग सोरठ / भैरवी",
+    "first_line": "मैं ढोलन विच फ़रक ना कोई एनुमा फ़ुरमाइआ ई ।"
+  },
+  {
+    "id": 78,
+    "title": "78. माटी कुदम करेंदी यार",
+    "title_english": "The Clay Dances and Gallops, O Friend!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / तिलक कामोद",
+    "first_line": "माटी जोड़ा माटी घोड़ा, माटी दा असवार,"
+  },
+  {
+    "id": 79,
+    "title": "79. माही वे तैं मिलिआं सभ दुक्ख होवन दूर",
+    "title_english": "O Beloved! In Meeting Thee All Sorrows Fade Away",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग आसावरी / काफी",
+    "first_line": "लोकां दे भाने चाक चकेटा, साडा रब्ब ग़फ़ूर ।"
+  },
+  {
+    "id": 80,
+    "title": "80. मैं बे-कैद मैं बे-कैद",
+    "title_english": "I Am Boundless, Unconfined and Free!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / भैरवी",
+    "first_line": "मैं बे-कैद मैं बे-कैद ।"
+  },
+  {
+    "id": 81,
+    "title": "81. मैं चूहरेटड़ी आं सच्चे साहब दे दरबारों",
+    "title_english": "I Am A Lowly Sweeper Maid of the True Master's Court",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "पैरों नंगी सिरों झंडोली सुनेहा आया पारों,"
+  },
+  {
+    "id": 82,
+    "title": "82. मैं चूहरेटड़ी आं सच्चे साहब दी सरकारों",
+    "title_english": "I Am The Sweeper Maid in the True Master's Government",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "मैं चूहरेटड़ी आं सच्चे साहब दी सरकारों ।"
+  },
+  {
+    "id": 83,
+    "title": "83. मैं गल्ल ओथे दी करदा हां",
+    "title_english": "I Speak of the Realm Beyond, Yet Tremble to Speak",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग जोगिया / तिलंग",
+    "first_line": "मैं गल्ल ओथे दी करदा हां ।"
+  },
+  {
+    "id": 84,
+    "title": "84. मैं कुसुम्बड़ा चुन चुन हारी",
+    "title_english": "I Have Wearied of Plucking This Safflower",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / काफी",
+    "first_line": "एस कुसुम्बे दे कंडे भलेरे अड़ अड़ चुन्नड़ी पाड़ी ।"
+  },
+  {
+    "id": 85,
+    "title": "85. मैं क्यों कर जावां काअबे नूं",
+    "title_english": "Why Should I Journey To The Kaaba?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / तिलक कामोद",
+    "first_line": "मैं क्यों कर जावां काअबे नूं,"
+  },
+  {
+    "id": 86,
+    "title": "86. मैं पा पढ़िआं तों नस्सना हां",
+    "title_english": "I Flee From The Pious Pedants and Bookish Scholars",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "मैं पा पढ़िआं तों नस्सना हां ।"
+  },
+  {
+    "id": 87,
+    "title": "87. मैं पाइआ ए मैं पाइआ ए",
+    "title_english": "I Have Found Him! I Have Found Him!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बिलावल / भैरव",
+    "first_line": "मैं पाइआ ए मैं पाइआ ए ।"
+  },
+  {
+    "id": 88,
+    "title": "88. मैं पुच्छां शहु दियां वाटां नी",
+    "title_english": "I Ask The Pathways Unto The Lord, O Sisters!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग सोरठ / काफी",
+    "first_line": "मैं पुच्छां शहु दियां वाटां नी ।"
+  },
+  {
+    "id": 89,
+    "title": "89. मैनूं छड्ड गए आप लद्द गए मैं विच की तकसीर",
+    "title_english": "Leaving Me Behind, He Departed: What Was My Fault?",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग सारंग / जोगिया",
+    "first_line": "मैनूं छड्ड गए आप लद्द गए मैं विच की तकसीर ।"
+  },
+  {
+    "id": 90,
+    "title": "90. मैनूं दरद अवल्लड़े दी पीड़",
+    "title_english": "I Suffer The Torment of A Strange and Wonder-Filled Malady",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / पिलू",
+    "first_line": "मैनूं दरद अवल्लड़े दी पीड़ ।"
+  },
+  {
+    "id": 91,
+    "title": "91. मैं उडीकां कर रही कदी आ कर फेरा",
+    "title_english": "I Stand Waiting in Yearning: Come Sometime and Grace My Hearth!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / जोगिया",
+    "first_line": "मैं जो तैनूं आख्या कोई घल्ल सुनेहड़ा ।"
+  },
+  {
+    "id": 92,
+    "title": "92. मैनूं इश्क हुलारे देंदा",
+    "title_english": "Love Gives Me Sweet Ecstatic Swings",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / बहार",
+    "first_line": "मैनूं इश्क हुलारे देंदा ।"
+  },
+  {
+    "id": 93,
+    "title": "93. मैनूं की होया हुन मैथों गई गवाती मैं",
+    "title_english": "What Hath Befallen Me? From Me My 'I-ness' Is Lost and Gone!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / काफी",
+    "first_line": "मैनूं की होया क्यों मैनूं कमली कहन्दी हैं ।"
+  },
+  {
+    "id": 94,
+    "title": "94. मैनूं सुक्ख दा सुनेहड़ा तूं झब लिआवीं वे",
+    "title_english": "Bring Me The Tidings of Joy With Speed, O Wayfarer!",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग तिलंग / सारंग",
+    "first_line": "मैनूं सुक्ख दा सुनेहड़ा तूं झब लिआवीं वे,"
+  },
+  {
+    "id": 95,
+    "title": "95. मैं विच मैं ना रह गई राई",
+    "title_english": "Not An Iota of 'I' Remained In Me",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / भैरवी",
+    "first_line": "मैं विच मैं ना रह गई राई ।"
+  },
+  {
+    "id": 96,
+    "title": "96. मैं वैसां जोगी दे नाल, मत्थे तिलक लगा के",
+    "title_english": "I Shall Go With the Yogi, Having Anointed My Brow With Tilak",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / जोग / आसा",
+    "first_line": "मैं वैसां ना रहसां होड़े, कौन कोई मैं जांदी नूं मोड़े,"
+  },
+  {
+    "id": 97,
+    "title": "97. मन अटकियो शाम सुन्दर सों",
+    "title_english": "The Mind is Enamored of Shyam Sundar",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / सारंग / बिलावल",
+    "first_line": "कहूं वेखूं बाहमन कहूं सेखा,"
+  },
+  {
+    "id": 98,
+    "title": "98. माए ! ना मुड़दा इश्क दीवाना, शहु नाल परीतां ला के",
+    "title_english": "O Mother! This Mad Love Will Not Relent, Having Bound Love with the Sovereign",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग भैरवी / काफी",
+    "first_line": "माए ! ना मुड़दा इश्क दीवाना, शहु नाल परीतां ला के ।"
+  },
+  {
+    "id": 99,
+    "title": "99. मेरा रांझा हुन कोई होर",
+    "title_english": "My Ranjha is Now Someone Else Entirely",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग काफी / धनसरी",
+    "first_line": "मेरा रांझा हुन कोई होर ।"
+  },
+  {
+    "id": 100,
+    "title": "100. मेरे घर आया पिया हमारा",
+    "title_english": "My Beloved Has Arrived at My Home",
+    "section": "भाग 2 (काफ़ियां 51–100)",
+    "raga": "राग बिलावल / काफी",
+    "first_line": "वाह वाह वाहदत कीना शोर, अनहद बांसरी दी घंगोर,"
+  },
+  {
+    "id": 101,
+    "title": "101. मेरे क्युं चिर लाइआ माही",
+    "title_english": "Why Has My Beloved Tarried So Long?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "मेरे क्युं चिर लाइआ माही ।"
+  },
+  {
+    "id": 102,
+    "title": "102. मेरे माही क्युं चिर लाइआ ए",
+    "title_english": "Why Has My Beloved Tarried So Long, O Sisters?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसावरी",
+    "first_line": "कह बुल्ल्हा हुन प्रेम कहाणी, जिस तन लागे सो तन जाणे,"
+  },
+  {
+    "id": 103,
+    "title": "103. मेरे नौशहु दा कित मोल",
+    "title_english": "What Can Measure the Worth of My Divine Bridegroom?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "मेरे नौशहु दा कित मोल ।"
+  },
+  {
+    "id": 104,
+    "title": "104. मेरी बुक्कल दे विच्च चोर",
+    "title_english": "The Thief is Hiding Within My Own Cloak!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / दरबारी",
+    "first_line": "मेरी बुक्कल दे विच्च चोर ।"
+  },
+  {
+    "id": 105,
+    "title": "105. मिल लओ सहेलड़ीयो मेरी राज गहेलड़ीयो, मैं साहुरिआं घर जाणा",
+    "title_english": "Meet Me, O Sister Friends of My Youth: I Must Depart for My In-Laws' Home!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / आसा",
+    "first_line": "मिल लओ सहेलड़ीयो मेरी राज गहेलड़ीयो, मैं साहुरिआं घर जाना ।"
+  },
+  {
+    "id": 106,
+    "title": "106. मित्तर प्यारे कारन नी मैं लोक उल्हामें लैनी हां",
+    "title_english": "For the Sake of My Beloved Friend, I Bear the World's Reproach",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / तिलक कामोद",
+    "first_line": "लग्गा नेहुं मेरा जिस सेती, सरहाने वेख पलंघ दे जीती,"
+  },
+  {
+    "id": 107,
+    "title": "107. मूंह आई बात ना रहन्दी ए",
+    "title_english": "The Truth That Rises to the Lips Cannot Be Kept Within!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / भैरवी / दरबारी",
+    "first_line": "झूठ आखां ते कुझ बचदा ए सच्च आख्यां भांबड़ मचदा ए,"
+  },
+  {
+    "id": 108,
+    "title": "108. मुल्लां मैनूं मारदा ई",
+    "title_english": "The Mullah Beats Me For Loving Alif!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसा",
+    "first_line": "मुल्लां मैनूं मारदा ई ।"
+  },
+  {
+    "id": 109,
+    "title": "109. मुरली बाज उठी अणघातां",
+    "title_english": "The Divine Flute Has Sounded at an Unearthly Hour!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग सारंग / काफी",
+    "first_line": "मुरली बाज उठी अणघातां ।"
+  },
+  {
+    "id": 110,
+    "title": "110. ना जीवां महाराज, मैं तेरे बिन ना जीवां",
+    "title_english": "I Cannot Live, O Maharaj, Without Thee I Cannot Live!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / असावरी",
+    "first_line": "इहनां सुक्यां फुल्लां विच बास नहीं,"
+  },
+  {
+    "id": 111,
+    "title": "111. नी कुटीचल मेरा नां",
+    "title_english": "O Sisters, 'The Bruised and Beaten One' is My Name!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "मुल्लां मैनूं सबक पढ़ाइआ, अलफों अग्गे कुझ्झ ना आया,"
+  },
+  {
+    "id": 112,
+    "title": "112. नी मैं हुन सुण्या इश्क शर्हा की नाता",
+    "title_english": "Hear, O Sisters: What Kinship Has Love With Formal Law?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "नी मैं हुन सुण्या इश्क शर्हा की नाता ।"
+  },
+  {
+    "id": 113,
+    "title": "113. हाजी लोक मक्के नूं जांदे",
+    "title_english": "The Pilgrims Journey to Mecca, But My Mecca is Ranjha Mahi!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / पहाड़ी",
+    "first_line": "हाजी लोक मक्के नूं जांदे,"
+  },
+  {
+    "id": 114,
+    "title": "114. नी मैनूं लग्गड़ा इश्क अवल्ल दा",
+    "title_english": "O Sisters, the Love of the Primordial Day Has Struck Me!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसावरी",
+    "first_line": "नी मैनूं लग्गड़ा इश्क अवल्ल दा ।"
+  },
+  {
+    "id": 115,
+    "title": "115. नी सईयो मैं गई गवाची",
+    "title_english": "O Sister Friends, I Am Lost to Myself!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / तिलक कामोद",
+    "first_line": "नी सईयो मैं गई गवाची,"
+  },
+  {
+    "id": 116,
+    "title": "116. नित्त पढ़ना एं इसतग़फ़्फ़ार",
+    "title_english": "Constantly Thou Recitest Istighfar: What Repentance is This, O Friend?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / भैरवी",
+    "first_line": "नित्त पढ़ना एं इसतग़फ़्फ़ार,"
+  },
+  {
+    "id": 117,
+    "title": "117. पानी भर भर गईआं सभ्भे, आपो आपनी वार",
+    "title_english": "Filling Water All Have Departed, Each in Their Own Appointed Turn",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसा / बिलावल",
+    "first_line": "पानी भर भर गईआं सभ्भे, आपो आपनी वार ।"
+  },
+  {
+    "id": 118,
+    "title": "118. परदा किस तों राखीदा",
+    "title_english": "From Whom Art Thou Keeping This Veil, O Beloved?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / दरबारी",
+    "first_line": "परदा किस तों राखीदा ।"
+  },
+  {
+    "id": 119,
+    "title": "119. पड़तालिओ हुन आशक केहड़े",
+    "title_english": "Examine Now and Discern: Who Are the True Lovers?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / दरबारी",
+    "first_line": "नेहुं लग्गा मत गई गवाती, नाहुनो-अकरब ज़ात पछाती,"
+  },
+  {
+    "id": 120,
+    "title": "120. पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे",
+    "title_english": "I Shall Write Letters to Shyam: My Beloved is Nowhere in Sight!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग सारंग / काफी / आसावरी",
+    "first_line": "पत्तियां लिखूंगी मैं शाम नूं, पिया मैनूं नज़र ना आवे ।"
+  },
+  {
+    "id": 121,
+    "title": "121. प्यारे बिन मसल्हत उट्ठ जाणा",
+    "title_english": "Without Counsel We Must Depart, O Beloved: Sometime Turn Wise!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसा / भैरवी",
+    "first_line": "प्यारे बिन मसल्हत उट्ठ जाना ।"
+  },
+  {
+    "id": 122,
+    "title": "122. प्यारिआ संभल के नेहुं ला पिच्छों पछतावेंगा",
+    "title_english": "O Dear Soul, Enter Love With Caution, Lest Thou Repent Afterwards!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसावरी",
+    "first_line": "जांदा जा ना आवीं फेर, ओथे बेपरवाही ढेर,"
+  },
+  {
+    "id": 123,
+    "title": "123. प्यारिआ सानूं मिट्ठड़ा ना लग्गदा शोर",
+    "title_english": "O Beloved, Worldly Clamor No Longer Sounds Sweet to Us",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "हुन मैं ते राजी रहनां,"
+  },
+  {
+    "id": 124,
+    "title": "124. पिया पिया करते हमीं पिया हुए, अब पिया किस नूं कहीए",
+    "title_english": "Repeating 'Pia, Pia!', I Myself Became the Beloved: Whom Shall I Call 'Pia' Now?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / दरबारी",
+    "first_line": "पिया पिया करते हमीं पिया हुए, अब पिया किस नूं कहीए ।"
+  },
+  {
+    "id": 125,
+    "title": "125. रातीं जागें करें इबादत",
+    "title_english": "Thou Keepest Vigil at Night in Worship: At Night Dogs Keep Vigil Too—They Are Far Above Thee!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / पहाड़ी",
+    "first_line": "रातीं जागें करें इबादत,"
+  },
+  {
+    "id": 126,
+    "title": "126. रहु रहु उए इश्का मारिआ ई",
+    "title_english": "Hold, Hold, O Love! Thou Hast Struck Down All: Say, Whom Hast Thou Ferried Across?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसा / जोगिया",
+    "first_line": "रहु रहु उए इश्का मारिआ ई ।"
+  },
+  {
+    "id": 127,
+    "title": "127. रैन गई लटके (लुड़के) सभ तारे",
+    "title_english": "The Night is Spent, the Stars Have Sunk Low: Awaken Now, O Dear Traveler!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / प्रभाती",
+    "first_line": "रैन गई लटके (लुड़के) सभ तारे,"
+  },
+  {
+    "id": 128,
+    "title": "128. रांझा जोगीड़ा बण आया",
+    "title_english": "Ranjha Has Arrived Having Become a Yogi: Wondrous is the Guise the Actor Plays!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / जोग / बिलावल",
+    "first_line": "रांझा जोगीड़ा बण आया ।"
+  },
+  {
+    "id": 129,
+    "title": "129. रांझा रांझा करदी नी मैं आपे रांझा होई",
+    "title_english": "Repeating 'Ranjha, Ranjha!', O Sisters, I Myself Became Ranjha!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / पहाड़ी",
+    "first_line": "रांझा रांझा करदी नी मैं आपे रांझा होई ।"
+  },
+  {
+    "id": 130,
+    "title": "130. रोज़े हज्ज निमाज़ नी माए",
+    "title_english": "Fasts, Hajj, and Ritual Prayers, O Mother: My Beloved Came and Made Me Forget Them All!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल",
+    "first_line": "रोज़े हज्ज निमाज़ नी माए,"
+  },
+  {
+    "id": 131,
+    "title": "131. सभ इको रंग कपाहीं दा",
+    "title_english": "All is But the Single Color of Cotton!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / सारंग",
+    "first_line": "तानी ताना पेटा नलियां, पीठ नड़ा ते छब्बां छल्लियां,"
+  },
+  {
+    "id": 132,
+    "title": "132. सदा मैं साहवरिआं घर जाणा",
+    "title_english": "Forever Must I Depart for My In-Laws' Home: Meet Me, O Sister Friends!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / आसा",
+    "first_line": "सदा मैं साहवरिआं घर जाणा,"
+  },
+  {
+    "id": 133,
+    "title": "133. साडे वल्ल मुक्खड़ा मोड़ वे प्यारिआ",
+    "title_english": "Turn Thy Visage Towards Us, O Beloved!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / पहाड़ी",
+    "first_line": "साडे वल्ल मुक्खड़ा मोड़ वे प्यारिआ,"
+  },
+  {
+    "id": 134,
+    "title": "134. साईं छुप तमाशे नूं आया",
+    "title_english": "The Master Came in Disguise to Watch the Cosmic Spectacle!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / बिलावल / पहाड़ी",
+    "first_line": "साईं छुप तमाशे नूं आया,"
+  },
+  {
+    "id": 135,
+    "title": "135. सज्जणां दे विछोड़े कोलों तन दा लहू छानी दा",
+    "title_english": "From the Agony of the Beloved's Separation, the Blood of the Body is Strained!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "राग काफी / आसावरी / जोगिया",
+    "first_line": "दुक्खां सुक्खां कीता एका, ना कोई सहुरा ना कोई पेका,"
+  },
+  {
+    "id": 136,
+    "title": "136. सानूं आ मिल यार प्यारिआ",
+    "title_english": "Come Meet Me, O Beloved Friend",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Pahadi",
+    "first_line": "दूर दूर असाथों ग्युं, अजला (अरशां) ते आ के बह रहउं,"
+  },
+  {
+    "id": 137,
+    "title": "137. सईयो हुन मैं साजन पाइओ ई",
+    "title_english": "O Friends, Now I Have Found My Beloved",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Bilawal / Bhairavi",
+    "first_line": "सईयो हुन मैं साजन पाइओ ई ।"
+  },
+  {
+    "id": 138,
+    "title": "138. से वणजारे आए नी माए, से वणजारे आए",
+    "title_english": "Those Jewel-Merchants Have Arrived, O Mother!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Dhanasri / Asa",
+    "first_line": "से वणजारे आए नी माए, से वणजारे आए ।"
+  },
+  {
+    "id": 139,
+    "title": "139. सुनो तुम इश्क की बाज़ी, मलायक है कहां राज़ी",
+    "title_english": "Listen to the Cosmic Wager of Love",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Sarang / Kafi",
+    "first_line": "सुनो तुम इश्क की बाज़ी, मलायक है कहां राज़ी,"
+  },
+  {
+    "id": 140,
+    "title": "140. तैं कित पर पाउं पसारा ए",
+    "title_english": "Why Have You Spread Your Feet in Heedless Slumber?",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Bhairav / Asavari",
+    "first_line": "तैं कित पर पाउं पसारा ए ।"
+  },
+  {
+    "id": 141,
+    "title": "141. तांघ माही दी जलियां",
+    "title_english": "Burning in Yearning for the Herdsman Beloved",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Marwa / Tilang",
+    "first_line": "तांघ माही दी जलियां,"
+  },
+  {
+    "id": 142,
+    "title": "142. बहुड़ीं वे तबीबा मैंडी जिन्द गईआ / तेरे इश्क नचाइआ",
+    "title_english": "Heal Me, O Divine Physician! Thy Love Has Made Me Dance",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "बहुड़ीं वे तबीबा मैंडी जिन्द गईआ ।"
+  },
+  {
+    "id": 143,
+    "title": "143. टूने कामन करके नी मैं प्यारा यार मनावांगी",
+    "title_english": "Through Spells and Incantations I Shall Win My Beloved",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Sorath / Kafi",
+    "first_line": "इस टूने नूं पढ़ फूकांगी, सूरज अगन जलावांगी ।"
+  },
+  {
+    "id": 144,
+    "title": "144. तूं किधरों आया किधर जाणा, आपना दस्स टिकाणा",
+    "title_english": "Whence Have You Come, Whither Shall You Go? Declare Your Abode",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Tilang / Bhairav",
+    "first_line": "तूं किधरों आया किधर जाणा, आपना दस्स टिकाना ।"
+  },
+  {
+    "id": 145,
+    "title": "145. तूं नहीउं मैं नाहीं वे सज्जणा, तूं नहीउं मैं नाहीं",
+    "title_english": "Neither Art Thou, Nor Am I, O Beloved!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Tilang / Asavari",
+    "first_line": "खोले दे परछावें वांङू, घुम रेहा मन माहीं ।"
+  },
+  {
+    "id": 146,
+    "title": "146. टुक्क बूझ कौन छुप आया ए",
+    "title_english": "Decipher Who Has Come in Disguise!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "टुक्क बूझ कौन छुप आया ए ।"
+  },
+  {
+    "id": 147,
+    "title": "147. तुसीं आओ मिल मेरी प्यारी",
+    "title_english": "Come Meet Me, O My Beloved Companion",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Tilang / Kafi",
+    "first_line": "तुसीं आओ मिल मेरी प्यारी ।"
+  },
+  {
+    "id": 148,
+    "title": "148. तुसीं करो असाडी कारी",
+    "title_english": "Come Find a Cure for My Ailment!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Dhanasri / Asa",
+    "first_line": "तुसीं करो असाडी कारी ।"
+  },
+  {
+    "id": 149,
+    "title": "149. उलटे होर ज़माने आए",
+    "title_english": "Inverted Times Have Arrived",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "उलटे होर ज़माने आए ।"
+  },
+  {
+    "id": 150,
+    "title": "150. उलटी गंग बहाइओ रे साधो, तब हर दरसन पाए",
+    "title_english": "Make the Ganges Flow in Reverse, O Seekers!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Ramkali / Bhairav",
+    "first_line": "उलटी गंग बहाइओ रे साधो, तब हर दरसन पाए ।"
+  },
+  {
+    "id": 151,
+    "title": "151. उट्ठ गए गवांढों यार",
+    "title_english": "The Beloved Has Departed from the Neighborhood",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Marwa / Kafi",
+    "first_line": "उट्ठ गए गवांढों यार,"
+  },
+  {
+    "id": 152,
+    "title": "152. उट्ठ जाग घुराड़े मार नहीं",
+    "title_english": "Arise, Awake! Snore Not in Slumber!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Bhairav / Asavari",
+    "first_line": "उट्ठ जाग घुराड़े मार नहीं ।"
+  },
+  {
+    "id": 153,
+    "title": "153. वेखो नी कर गया माही",
+    "title_english": "Behold, What My Herdsman Has Done!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Sarang / Kafi",
+    "first_line": "वेखो नी कर गया माही ।"
+  },
+  {
+    "id": 154,
+    "title": "154. वेखो नी प्यारा मैनूं सुफने में छल गया",
+    "title_english": "Behold, the Beloved Beguiled Me in a Dream",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Tilang",
+    "first_line": "मैं सोई होई मुट्ठी आं, मैं वांग ज़ुलैखां कुट्ठी आं,"
+  },
+  {
+    "id": 155,
+    "title": "155. वेखो नी शहु इनायत साईं",
+    "title_english": "Behold the Play of Master Shah Inayat!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "वेखो नी शहु इनायत साईं ।"
+  },
+  {
+    "id": 156,
+    "title": "156. वाह सोहण्यां तेरी चाल अजायब लटकां नाल चलेंदे ओ",
+    "title_english": "Wondrous Is Thy Gait, O Beautiful One, Walking with Graceful Strides!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Tilang",
+    "first_line": "आपे ज़ाहर आपे बातन आपे लुक्क लुक्क बहन्दे ओ ।"
+  },
+  {
+    "id": 157,
+    "title": "157. वाह वाह छिंझ पई दरबार",
+    "title_english": "Marvelous Is the Cosmic Wrestling Match at the Royal Court!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Tilang / Kafi",
+    "first_line": "वाह वाह छिंझ पई दरबार ।"
+  },
+  {
+    "id": 158,
+    "title": "158. वाह वाह रमज़ सजन दी होर",
+    "title_english": "How Sublime and Inscrutable Is the Secret of the Beloved!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "वाह वाह रमज़ सजन दी होर ।"
+  },
+  {
+    "id": 159,
+    "title": "159. वल परदे विच पाइआ यार आपे मेल मिलाइआ ए",
+    "title_english": "Behind the Veil the Friend Revealed Himself, Uniting Me to His Grace",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Tilang / Kafi",
+    "first_line": "हुन मैं मोई नी मेरीए मां, मेरी पूनी लै गया कां,"
+  },
+  {
+    "id": 160,
+    "title": "160. वत्त ना करसां मान रंझेटे यार दा वे अड़िआ",
+    "title_english": "Never Again Shall I Boast of My Herdsman's Love, O Friend!",
+    "section": "भाग 3 (काफ़ियां 101–160)",
+    "raga": "Raga Kafi / Bhairavi",
+    "first_line": "वत्त ना करसां मान रंझेटे यार दा वे अड़िआ ।"
+  }
+];
