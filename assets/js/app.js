@@ -648,17 +648,18 @@
     }).join('');
 
     // Translations
-    let hiTrans = data.hindi_translation || '';
+    let hiTrans = data.hindi_translation || data.translation_hindi || data.verse_hi || '';
     if (!hiTrans && Array.isArray(data.stanzas)) {
       hiTrans = data.stanzas.map(s => Array.isArray(s.poetic_hindi) ? s.poetic_hindi.join('\n') : (s.poetic_hindi || '')).filter(Boolean).join('\n\n');
     }
     el.poemTransHindi.innerHTML = (hiTrans || 'काव्यानुवाद उपलब्ध नहीं है।').replace(/\n/g, '<br>');
 
-    let enTrans = data.english_translation || '';
+    let enTrans = data.english_translation || data.translation_english || data.verse_en || '';
     if (!enTrans && Array.isArray(data.stanzas)) {
       enTrans = data.stanzas.map(s => Array.isArray(s.poetic_english) ? s.poetic_english.join('\n') : (s.poetic_english || '')).filter(Boolean).join('\n\n');
     }
     el.poemTransEnglish.innerHTML = (enTrans || 'English verse translation unavailable.').replace(/\n/g, '<br>');
+
 
     // Commentary
     el.poemCommentary.innerHTML = formatCommentaryMarkdown(data.commentary || 'दार्शनिक भावार्थ उपलब्ध नहीं है।');

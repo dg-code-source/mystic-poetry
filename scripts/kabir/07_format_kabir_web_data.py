@@ -70,9 +70,13 @@ for it in items:
         "lines": orig_lines,
         "hindi_gloss": hi_gloss_lines,
         "english_gloss": en_gloss_lines,
-        "translation_hindi": it["verse_hi"],
-        "translation_english": it["verse_en"],
-        "commentary": it["meaning"],
+        "hindi_translation": it.get("verse_hi") or it.get("translation_hindi", ""),
+
+        "english_translation": it.get("verse_en") or it.get("translation_english", ""),
+        "translation_hindi": it.get("verse_hi") or it.get("translation_hindi", ""),
+        "translation_english": it.get("verse_en") or it.get("translation_english", ""),
+        "commentary": it.get("meaning") or it.get("commentary", ""),
+
         "tags": it.get("tags", ["Sant Kabir", "Nirguna Bhakti"])
     }
     data_dict[uid] = data_entry

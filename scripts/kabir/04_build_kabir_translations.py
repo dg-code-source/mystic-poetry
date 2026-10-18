@@ -125,11 +125,17 @@ for i, raw in enumerate(raw_items):
         "devanagari_text": raw["devanagari_text"],
         "verse_hi": v_hi,
         "verse_en": v_en,
+        "hindi_translation": v_hi,
+        "english_translation": v_en,
+        "translation_hindi": v_hi,
+        "translation_english": v_en,
         "meaning": comm,
+        "commentary": comm,
         "glossary": full_glossary,
         "tags": tags
     }
     processed_items.append(item_obj)
+
     
     if (i + 1) % 100 == 0 or (i + 1) == len(raw_items):
         print(f"Compiled [{i+1}/{len(raw_items)}] compositions...")
