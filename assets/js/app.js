@@ -417,6 +417,9 @@
     const nextPoet = state.poets[nextPoetId];
     el.poetSwitcherBtn.style.display = 'inline-flex';
     el.poetSwitcherLabel.textContent = nextPoet.name;
+    const switcherIcon = document.getElementById('poet-switcher-icon');
+    if (switcherIcon) switcherIcon.textContent = nextPoet.emblem;
+    el.poetSwitcherBtn.title = `अगले कवि पर जाएं: ${nextPoet.name} (${nextPoet.total} रचनाएं)`;
     el.poetSwitcherBtn.onclick = () => {
       window.location.hash = `#/${nextPoetId}/`;
     };
@@ -878,8 +881,8 @@
     // Random Work Button
     el.randomBtn.addEventListener('click', () => {
       if (!state.currentPoet) {
-        // Pick random poet
-        const pIds = ['bulleh-shah', 'sant-ravidas'];
+        // Pick random poet across all 5 heritage masters
+        const pIds = ['bulleh-shah', 'sant-ravidas', 'sheikh-farid', 'meerabai', 'sant-kabir'];
         const chosenPoet = pIds[Math.floor(Math.random() * pIds.length)];
         const m = state.poets[chosenPoet].manifest;
         const randomItem = m[Math.floor(Math.random() * m.length)];

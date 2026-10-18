@@ -38,6 +38,36 @@
   --ravidas-pill-bg: rgba(234, 88, 12, 0.12);
   --ravidas-pill-border: rgba(249, 115, 22, 0.35);
 
+  /* Baba Sheikh Farid Palette (Chishti Emerald) - Dark Theme */
+  --farid-primary: #10b981;
+  --farid-glow: #34d399;
+  --farid-dark: #059669;
+  --farid-gradient: linear-gradient(135deg, #059669 0%, #10b981 50%, #047857 100%);
+  --farid-shadow: rgba(16, 185, 129, 0.3);
+  --farid-text: #34d399;
+  --farid-pill-bg: rgba(16, 185, 129, 0.12);
+  --farid-pill-border: rgba(16, 185, 129, 0.35);
+
+  /* Sant Mirabai Palette (Devotional Rose / Crimson) - Dark Theme */
+  --meerabai-primary: #f43f5e;
+  --meerabai-glow: #fb7185;
+  --meerabai-dark: #e11d48;
+  --meerabai-gradient: linear-gradient(135deg, #e11d48 0%, #f43f5e 50%, #be123c 100%);
+  --meerabai-shadow: rgba(244, 63, 94, 0.3);
+  --meerabai-text: #fb7185;
+  --meerabai-pill-bg: rgba(244, 63, 94, 0.12);
+  --meerabai-pill-border: rgba(244, 63, 94, 0.35);
+
+  /* Sant Kabir Das Palette (Mystic Royal Sapphire / Indigo) - Dark Theme */
+  --kabir-primary: #3b82f6;
+  --kabir-glow: #60a5fa;
+  --kabir-dark: #1d4ed8;
+  --kabir-gradient: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 50%, #2563eb 100%);
+  --kabir-shadow: rgba(59, 130, 246, 0.3);
+  --kabir-text: #60a5fa;
+  --kabir-pill-bg: rgba(59, 130, 246, 0.12);
+  --kabir-pill-border: rgba(59, 130, 246, 0.35);
+
   --accent-teal: #14b8a6;
   --accent-rose: #f43f5e;
   --accent-blue: #38bdf8;
@@ -90,6 +120,36 @@
   --ravidas-text: #9a3412; /* Deep sacred terracotta / ochre — 7.61:1 WCAG AAA on white, 7.10:1 on parchment */
   --ravidas-pill-bg: rgba(194, 65, 12, 0.08);
   --ravidas-pill-border: rgba(154, 52, 18, 0.3);
+
+  /* Baba Sheikh Farid Palette (Chishti Emerald) - Light Theme (WCAG AAA High Contrast) */
+  --farid-primary: #047857;
+  --farid-glow: #059669;
+  --farid-dark: #064e3b;
+  --farid-gradient: linear-gradient(135deg, #047857 0%, #059669 50%, #064e3b 100%);
+  --farid-shadow: rgba(4, 120, 87, 0.2);
+  --farid-text: #065f46;
+  --farid-pill-bg: rgba(4, 120, 87, 0.08);
+  --farid-pill-border: rgba(4, 120, 87, 0.3);
+
+  /* Sant Mirabai Palette (Devotional Rose / Crimson) - Light Theme (WCAG AAA High Contrast) */
+  --meerabai-primary: #be123c;
+  --meerabai-glow: #e11d48;
+  --meerabai-dark: #881337;
+  --meerabai-gradient: linear-gradient(135deg, #be123c 0%, #e11d48 50%, #881337 100%);
+  --meerabai-shadow: rgba(190, 18, 60, 0.2);
+  --meerabai-text: #9f1239;
+  --meerabai-pill-bg: rgba(190, 18, 60, 0.08);
+  --meerabai-pill-border: rgba(190, 18, 60, 0.3);
+
+  /* Sant Kabir Das Palette (Mystic Royal Sapphire / Indigo) - Light Theme (WCAG AAA High Contrast) */
+  --kabir-primary: #1d4ed8;
+  --kabir-glow: #2563eb;
+  --kabir-dark: #1e3a8a;
+  --kabir-gradient: linear-gradient(135deg, #1d4ed8 0%, #2563eb 50%, #1e3a8a 100%);
+  --kabir-shadow: rgba(29, 78, 216, 0.2);
+  --kabir-text: #1e40af;
+  --kabir-pill-bg: rgba(29, 78, 216, 0.08);
+  --kabir-pill-border: rgba(29, 78, 216, 0.3);
 
   --accent-teal: #0f766e;
   --accent-rose: #be123c;
@@ -341,6 +401,83 @@ body {
   display: none;
 }
 
+/* Sidebar Poet Identity Banner */
+.sidebar-poet-banner {
+  padding: 1.1rem 1.25rem 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+}
+
+.sidebar-poet-identity {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+#sidebar-poet-emblem {
+  font-family: var(--font-serif-dev);
+  font-weight: 800;
+  font-size: 1.35rem;
+  line-height: 1;
+  color: var(--gold-primary);
+  transition: color 0.3s ease;
+}
+
+#sidebar-poet-name {
+  font-family: var(--font-serif-dev);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text-main);
+}
+
+.sidebar-hub-btn {
+  cursor: pointer;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-muted);
+  font-size: 0.76rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: var(--transition-smooth);
+}
+
+.sidebar-hub-btn:hover {
+  color: var(--gold-primary);
+  border-color: var(--gold-primary);
+  background: var(--bg-surface-elevated);
+  transform: translateY(-1px);
+}
+
+/* Sidebar Search Box */
+.sidebar-search-box {
+  padding: 0.6rem 0.85rem 0.35rem;
+}
+
+.sidebar-search-input {
+  font-size: 0.85rem;
+  padding: 0.5rem 0.85rem;
+  width: 100%;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  color: var(--text-main);
+  outline: none;
+  font-family: var(--font-body);
+  transition: var(--transition-smooth);
+}
+
+.sidebar-search-input:focus {
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 10px var(--gold-shadow);
+}
+
 .sidebar-tabs {
   display: flex;
   padding: 0.75rem 0.85rem 0.35rem;
@@ -407,85 +544,88 @@ body {
 
 .kafi-item {
   display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  padding: 0.75rem 0.85rem;
-  margin-bottom: 0.35rem;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.35rem;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.45rem;
   border-radius: var(--radius-md);
   cursor: pointer;
-  border: 1px solid transparent;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
   transition: var(--transition-smooth);
   position: relative;
 }
 
 .kafi-item:hover {
-  background: var(--bg-card-hover);
-  border-color: var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  border-color: var(--border-gold);
   transform: translateX(3px);
 }
 
 .kafi-item.active {
   background: var(--bg-surface-elevated);
   border-color: var(--border-gold);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
 }
 
 .kafi-item.active::before {
   content: '';
   position: absolute;
   left: 0;
-  top: 15%;
-  height: 70%;
+  top: 12%;
+  height: 76%;
   width: 4px;
   background: var(--gold-gradient);
   border-radius: 0 4px 4px 0;
 }
 
-.kafi-num-pill {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid var(--border-subtle);
+.kafi-item-header {
   display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: 0.75rem;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.kafi-index {
+  font-family: var(--font-display-en);
+  font-size: 0.76rem;
   font-weight: 700;
+  color: var(--text-faint);
+}
+
+.kafi-genre-pill {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: var(--radius-full);
+  background: rgba(245, 158, 11, 0.1);
   color: var(--gold-primary);
-  flex-shrink: 0;
-}
-
-.kafi-item.active .kafi-num-pill {
-  background: var(--gold-primary);
-  color: #070a12;
-  border-color: var(--gold-primary);
-}
-
-.kafi-info {
-  flex: 1;
-  min-width: 0;
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .kafi-item-title {
   font-family: var(--font-serif-dev);
-  font-size: 0.95rem;
-  font-weight: 600;
+  font-size: 0.98rem;
+  font-weight: 700;
   color: var(--text-main);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.3;
+  line-height: 1.35;
 }
 
-.kafi-item-sub {
-  font-size: 0.76rem;
+.kafi-item.active .kafi-item-title {
+  color: var(--gold-primary);
+}
+
+.kafi-item-firstline {
+  font-size: 0.78rem;
   color: var(--text-muted);
+  line-height: 1.35;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-style: italic;
-  margin-top: 2px;
 }
 
 .kafi-star-btn {
@@ -817,18 +957,59 @@ body {
 }
 
 /* View Mode Selector Tabs */
-.view-tabs-bar {
+.poem-actions-toolbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 1.75rem;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.view-mode-tabs {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
   background: var(--bg-surface);
-  padding: 0.45rem;
+  padding: 0.35rem;
   border-radius: var(--radius-full);
   border: 1px solid var(--border-subtle);
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  overflow-x: auto;
 }
+
+.font-size-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.ctrl-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-muted);
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.ctrl-btn:hover {
+  background: var(--bg-surface-elevated);
+  border-color: var(--gold-primary);
+  color: var(--gold-primary);
+  transform: translateY(-1px);
+}
+
+.view-tabs-bar {
 
 .view-tabs-group {
   display: flex;
@@ -1083,10 +1264,47 @@ body {
 .reader-bottom-nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 1rem;
   margin-top: 3rem;
   padding-top: 2rem;
   border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.nav-prev-btn,
+.nav-next-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.85rem 1.6rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  color: var(--text-main);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.nav-prev-btn:hover:not(:disabled),
+.nav-next-btn:hover:not(:disabled) {
+  background: var(--bg-surface-elevated);
+  border-color: var(--gold-primary);
+  color: var(--gold-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.nav-prev-btn:disabled,
+.nav-next-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
 }
 
 .nav-card-btn {
@@ -1537,11 +1755,59 @@ body {
   font-weight: 700;
 }
 
-.meta-pill.kabir-pill {
-  color: #60a5fa;
-  background: rgba(59, 130, 246, 0.15);
-  border-color: rgba(59, 130, 246, 0.35);
+.meta-pill.farid-pill {
+  color: var(--farid-text);
+  background: var(--farid-pill-bg);
+  border-color: var(--farid-pill-border);
   font-weight: 700;
+}
+
+.meta-pill.meerabai-pill {
+  color: var(--meerabai-text);
+  background: var(--meerabai-pill-bg);
+  border-color: var(--meerabai-pill-border);
+  font-weight: 700;
+}
+
+.meta-pill.kabir-pill {
+  color: var(--kabir-text);
+  background: var(--kabir-pill-bg);
+  border-color: var(--kabir-pill-border);
+  font-weight: 700;
+}
+
+/* Card hover accents per poet */
+.poet-card.bulleh-theme:hover {
+  border-color: var(--border-gold);
+}
+.poet-card.ravidas-theme:hover {
+  border-color: var(--ravidas-pill-border);
+}
+.poet-card.farid-theme:hover {
+  border-color: var(--farid-pill-border);
+}
+.poet-card.meerabai-theme:hover {
+  border-color: var(--meerabai-pill-border);
+}
+.poet-card.kabir-theme:hover {
+  border-color: var(--kabir-pill-border);
+}
+
+/* Genre chip hover accents per poet card */
+.poet-card.bulleh-theme .genre-chip:hover {
+  border-color: var(--gold-primary);
+}
+.poet-card.ravidas-theme .genre-chip:hover {
+  border-color: var(--ravidas-primary);
+}
+.poet-card.farid-theme .genre-chip:hover {
+  border-color: var(--farid-primary);
+}
+.poet-card.meerabai-theme .genre-chip:hover {
+  border-color: var(--meerabai-primary);
+}
+.poet-card.kabir-theme .genre-chip:hover {
+  border-color: var(--kabir-primary);
 }
 
 .poet-card-desc {
@@ -2013,81 +2279,423 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-/* Active Poet Workspace Theme: Sant Ravidas (Sacred Terracotta / Saffron) */
+/* ==========================================================================
+   Complete Poet Workspace Themes: 5 Master Traditions
+   ========================================================================== */
+
+/* 1. Baba Bulleh Shah (Default / Gold) */
+body[data-poet="bulleh-shah"] #sidebar-poet-emblem {
+  color: var(--gold-primary) !important;
+}
+body[data-poet="bulleh-shah"] .tab-btn.active {
+  background: var(--gold-gradient);
+  color: #070a12 !important;
+  box-shadow: 0 0 10px var(--gold-shadow);
+}
+body[data-poet="bulleh-shah"] .welcome-ornament {
+  color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .welcome-card::after {
+  background: var(--gold-gradient);
+}
+body[data-poet="bulleh-shah"] .welcome-card .en-sub {
+  color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .genre-highlight-card:hover {
+  border-color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .genre-highlight-card:hover::before {
+  background: var(--gold-gradient);
+}
+body[data-poet="bulleh-shah"] .welcome-cta {
+  background: var(--gold-gradient);
+  color: #070a12;
+  box-shadow: 0 4px 18px var(--gold-shadow);
+}
+body[data-poet="bulleh-shah"] .poem-title-en {
+  color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .hindi-gloss {
+  border-left-color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .kafi-item.active {
+  border-color: var(--border-gold);
+}
+body[data-poet="bulleh-shah"] .kafi-item.active::before {
+  background: var(--gold-gradient);
+}
+body[data-poet="bulleh-shah"] .kafi-item.active .kafi-item-title {
+  color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .kafi-genre-pill,
+body[data-poet="bulleh-shah"] .genre-badge {
+  color: var(--gold-primary);
+  background: rgba(245, 158, 11, 0.12);
+  border-color: var(--border-gold);
+}
+body[data-poet="bulleh-shah"] .view-tab.active {
+  background: var(--gold-gradient);
+  color: #070a12 !important;
+  box-shadow: 0 0 10px var(--gold-shadow);
+}
+body[data-poet="bulleh-shah"] .ctrl-btn:hover {
+  border-color: var(--gold-primary);
+  color: var(--gold-primary);
+}
+body[data-poet="bulleh-shah"] .nav-prev-btn:hover:not(:disabled),
+body[data-poet="bulleh-shah"] .nav-next-btn:hover:not(:disabled) {
+  border-color: var(--gold-primary);
+  color: var(--gold-primary);
+}
+
+/* 2. Sant Ravidas (Sacred Terracotta / Saffron) */
 body[data-poet="sant-ravidas"] #sidebar-poet-emblem {
   color: var(--ravidas-text) !important;
 }
-
 body[data-poet="sant-ravidas"] .tab-btn.active {
   background: var(--ravidas-gradient);
   color: #ffffff !important;
   box-shadow: 0 0 10px var(--ravidas-shadow);
 }
-
 body[data-poet="sant-ravidas"] .welcome-ornament {
   color: var(--ravidas-text);
 }
-
+body[data-poet="sant-ravidas"] .welcome-card::after {
+  background: var(--ravidas-gradient);
+}
+body[data-poet="sant-ravidas"] .welcome-card .en-sub {
+  color: var(--ravidas-text);
+}
 body[data-poet="sant-ravidas"] .genre-highlight-card:hover {
   border-color: var(--ravidas-primary);
 }
-
 body[data-poet="sant-ravidas"] .genre-highlight-card:hover::before {
   background: var(--ravidas-gradient);
 }
-
 body[data-poet="sant-ravidas"] .welcome-cta {
   background: var(--ravidas-gradient);
   color: #ffffff;
   box-shadow: 0 4px 18px var(--ravidas-shadow);
 }
-
 body[data-poet="sant-ravidas"] .welcome-cta:hover {
   box-shadow: 0 8px 28px var(--ravidas-shadow);
 }
-
 body[data-poet="sant-ravidas"] .poem-title-en {
   color: var(--ravidas-text);
 }
-
 body[data-poet="sant-ravidas"] .hindi-gloss {
   border-left-color: var(--ravidas-primary);
 }
-
+body[data-poet="sant-ravidas"] .kafi-item:hover {
+  border-color: var(--ravidas-pill-border);
+}
 body[data-poet="sant-ravidas"] .kafi-item.active {
   border-color: var(--ravidas-pill-border);
 }
-
 body[data-poet="sant-ravidas"] .kafi-item.active::before {
   background: var(--ravidas-gradient);
 }
-
 body[data-poet="sant-ravidas"] .kafi-item.active .kafi-item-title {
   color: var(--ravidas-text);
 }
-
-body[data-poet="sant-ravidas"] .kafi-item.active .kafi-num-pill {
-  background: var(--ravidas-gradient);
-  color: #ffffff;
-  border-color: var(--ravidas-primary);
-}
-
-body[data-poet="sant-ravidas"] .kafi-genre-pill {
-  color: var(--ravidas-text);
-  background: var(--ravidas-pill-bg);
-  border-color: var(--ravidas-pill-border);
-}
-
+body[data-poet="sant-ravidas"] .kafi-genre-pill,
 body[data-poet="sant-ravidas"] .genre-badge {
   color: var(--ravidas-text);
   background: var(--ravidas-pill-bg);
   border-color: var(--ravidas-pill-border);
 }
-
 body[data-poet="sant-ravidas"] .view-tab.active {
   background: var(--ravidas-gradient);
   color: #ffffff !important;
   box-shadow: 0 0 10px var(--ravidas-shadow);
+}
+body[data-poet="sant-ravidas"] .ctrl-btn:hover {
+  border-color: var(--ravidas-primary);
+  color: var(--ravidas-text);
+}
+body[data-poet="sant-ravidas"] .nav-prev-btn:hover:not(:disabled),
+body[data-poet="sant-ravidas"] .nav-next-btn:hover:not(:disabled) {
+  border-color: var(--ravidas-primary);
+  color: var(--ravidas-text);
+}
+body[data-poet="sant-ravidas"] .sidebar-hub-btn:hover {
+  border-color: var(--ravidas-primary);
+  color: var(--ravidas-text);
+}
+body[data-poet="sant-ravidas"] .sidebar-search-input:focus {
+  border-color: var(--ravidas-primary);
+  box-shadow: 0 0 10px var(--ravidas-shadow);
+}
+
+/* 3. Baba Sheikh Farid (Chishti Emerald) */
+body[data-poet="sheikh-farid"] #sidebar-poet-emblem {
+  color: var(--farid-text) !important;
+}
+body[data-poet="sheikh-farid"] .tab-btn.active {
+  background: var(--farid-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--farid-shadow);
+}
+body[data-poet="sheikh-farid"] .welcome-ornament {
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .welcome-card::after {
+  background: var(--farid-gradient);
+}
+body[data-poet="sheikh-farid"] .welcome-card .en-sub {
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .genre-highlight-card:hover {
+  border-color: var(--farid-primary);
+}
+body[data-poet="sheikh-farid"] .genre-highlight-card:hover::before {
+  background: var(--farid-gradient);
+}
+body[data-poet="sheikh-farid"] .welcome-cta {
+  background: var(--farid-gradient);
+  color: #ffffff;
+  box-shadow: 0 4px 18px var(--farid-shadow);
+}
+body[data-poet="sheikh-farid"] .welcome-cta:hover {
+  box-shadow: 0 8px 28px var(--farid-shadow);
+}
+body[data-poet="sheikh-farid"] .poem-title-en {
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .hindi-gloss {
+  border-left-color: var(--farid-primary);
+}
+body[data-poet="sheikh-farid"] .kafi-item:hover {
+  border-color: var(--farid-pill-border);
+}
+body[data-poet="sheikh-farid"] .kafi-item.active {
+  border-color: var(--farid-pill-border);
+}
+body[data-poet="sheikh-farid"] .kafi-item.active::before {
+  background: var(--farid-gradient);
+}
+body[data-poet="sheikh-farid"] .kafi-item.active .kafi-item-title {
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .kafi-genre-pill,
+body[data-poet="sheikh-farid"] .genre-badge {
+  color: var(--farid-text);
+  background: var(--farid-pill-bg);
+  border-color: var(--farid-pill-border);
+}
+body[data-poet="sheikh-farid"] .view-tab.active {
+  background: var(--farid-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--farid-shadow);
+}
+body[data-poet="sheikh-farid"] .ctrl-btn:hover {
+  border-color: var(--farid-primary);
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .nav-prev-btn:hover:not(:disabled),
+body[data-poet="sheikh-farid"] .nav-next-btn:hover:not(:disabled) {
+  border-color: var(--farid-primary);
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .sidebar-hub-btn:hover {
+  border-color: var(--farid-primary);
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] .sidebar-search-input:focus {
+  border-color: var(--farid-primary);
+  box-shadow: 0 0 10px var(--farid-shadow);
+}
+
+/* 4. Sant Mirabai (Devotional Rose / Crimson) */
+body[data-poet="meerabai"] #sidebar-poet-emblem {
+  color: var(--meerabai-text) !important;
+}
+body[data-poet="meerabai"] .tab-btn.active {
+  background: var(--meerabai-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--meerabai-shadow);
+}
+body[data-poet="meerabai"] .welcome-ornament {
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .welcome-card::after {
+  background: var(--meerabai-gradient);
+}
+body[data-poet="meerabai"] .welcome-card .en-sub {
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .genre-highlight-card:hover {
+  border-color: var(--meerabai-primary);
+}
+body[data-poet="meerabai"] .genre-highlight-card:hover::before {
+  background: var(--meerabai-gradient);
+}
+body[data-poet="meerabai"] .welcome-cta {
+  background: var(--meerabai-gradient);
+  color: #ffffff;
+  box-shadow: 0 4px 18px var(--meerabai-shadow);
+}
+body[data-poet="meerabai"] .welcome-cta:hover {
+  box-shadow: 0 8px 28px var(--meerabai-shadow);
+}
+body[data-poet="meerabai"] .poem-title-en {
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .hindi-gloss {
+  border-left-color: var(--meerabai-primary);
+}
+body[data-poet="meerabai"] .kafi-item:hover {
+  border-color: var(--meerabai-pill-border);
+}
+body[data-poet="meerabai"] .kafi-item.active {
+  border-color: var(--meerabai-pill-border);
+}
+body[data-poet="meerabai"] .kafi-item.active::before {
+  background: var(--meerabai-gradient);
+}
+body[data-poet="meerabai"] .kafi-item.active .kafi-item-title {
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .kafi-genre-pill,
+body[data-poet="meerabai"] .genre-badge {
+  color: var(--meerabai-text);
+  background: var(--meerabai-pill-bg);
+  border-color: var(--meerabai-pill-border);
+}
+body[data-poet="meerabai"] .view-tab.active {
+  background: var(--meerabai-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--meerabai-shadow);
+}
+body[data-poet="meerabai"] .ctrl-btn:hover {
+  border-color: var(--meerabai-primary);
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .nav-prev-btn:hover:not(:disabled),
+body[data-poet="meerabai"] .nav-next-btn:hover:not(:disabled) {
+  border-color: var(--meerabai-primary);
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .sidebar-hub-btn:hover {
+  border-color: var(--meerabai-primary);
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] .sidebar-search-input:focus {
+  border-color: var(--meerabai-primary);
+  box-shadow: 0 0 10px var(--meerabai-shadow);
+}
+
+/* 5. Sant Kabir Das (Mystic Royal Sapphire / Indigo) */
+body[data-poet="sant-kabir"] #sidebar-poet-emblem {
+  color: var(--kabir-text) !important;
+}
+body[data-poet="sant-kabir"] .tab-btn.active {
+  background: var(--kabir-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--kabir-shadow);
+}
+body[data-poet="sant-kabir"] .welcome-ornament {
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .welcome-card::after {
+  background: var(--kabir-gradient);
+}
+body[data-poet="sant-kabir"] .welcome-card .en-sub {
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .genre-highlight-card:hover {
+  border-color: var(--kabir-primary);
+}
+body[data-poet="sant-kabir"] .genre-highlight-card:hover::before {
+  background: var(--kabir-gradient);
+}
+body[data-poet="sant-kabir"] .welcome-cta {
+  background: var(--kabir-gradient);
+  color: #ffffff;
+  box-shadow: 0 4px 18px var(--kabir-shadow);
+}
+body[data-poet="sant-kabir"] .welcome-cta:hover {
+  box-shadow: 0 8px 28px var(--kabir-shadow);
+}
+body[data-poet="sant-kabir"] .poem-title-en {
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .hindi-gloss {
+  border-left-color: var(--kabir-primary);
+}
+body[data-poet="sant-kabir"] .kafi-item:hover {
+  border-color: var(--kabir-pill-border);
+}
+body[data-poet="sant-kabir"] .kafi-item.active {
+  border-color: var(--kabir-pill-border);
+}
+body[data-poet="sant-kabir"] .kafi-item.active::before {
+  background: var(--kabir-gradient);
+}
+body[data-poet="sant-kabir"] .kafi-item.active .kafi-item-title {
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .kafi-genre-pill,
+body[data-poet="sant-kabir"] .genre-badge {
+  color: var(--kabir-text);
+  background: var(--kabir-pill-bg);
+  border-color: var(--kabir-pill-border);
+}
+body[data-poet="sant-kabir"] .view-tab.active {
+  background: var(--kabir-gradient);
+  color: #ffffff !important;
+  box-shadow: 0 0 10px var(--kabir-shadow);
+}
+body[data-poet="sant-kabir"] .ctrl-btn:hover {
+  border-color: var(--kabir-primary);
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .nav-prev-btn:hover:not(:disabled),
+body[data-poet="sant-kabir"] .nav-next-btn:hover:not(:disabled) {
+  border-color: var(--kabir-primary);
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .sidebar-hub-btn:hover {
+  border-color: var(--kabir-primary);
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] .sidebar-search-input:focus {
+  border-color: var(--kabir-primary);
+  box-shadow: 0 0 10px var(--kabir-shadow);
+}
+
+/* Poet Switcher Button Dynamic Theming */
+body[data-poet="sant-ravidas"] #poet-switcher-btn {
+  border-color: var(--ravidas-pill-border);
+  color: var(--ravidas-text);
+}
+body[data-poet="sant-ravidas"] #poet-switcher-btn:hover {
+  background: var(--ravidas-gradient);
+  color: #ffffff;
+}
+body[data-poet="sheikh-farid"] #poet-switcher-btn {
+  border-color: var(--farid-pill-border);
+  color: var(--farid-text);
+}
+body[data-poet="sheikh-farid"] #poet-switcher-btn:hover {
+  background: var(--farid-gradient);
+  color: #ffffff;
+}
+body[data-poet="meerabai"] #poet-switcher-btn {
+  border-color: var(--meerabai-pill-border);
+  color: var(--meerabai-text);
+}
+body[data-poet="meerabai"] #poet-switcher-btn:hover {
+  background: var(--meerabai-gradient);
+  color: #ffffff;
+}
+body[data-poet="sant-kabir"] #poet-switcher-btn {
+  border-color: var(--kabir-pill-border);
+  color: var(--kabir-text);
+}
+body[data-poet="sant-kabir"] #poet-switcher-btn:hover {
+  background: var(--kabir-gradient);
+  color: #ffffff;
 }
 
 /* ==========================================================================
@@ -2159,24 +2767,69 @@ body[data-poet="sant-ravidas"] .view-tab.active {
   line-height: 1.9;
 }
 
-/* Sant Ravidas Poet-Specific Translation Accents */
+/* Poet-Specific Translation Accents */
 body[data-poet="sant-ravidas"] .translation-block:hover {
   border-color: var(--ravidas-pill-border);
   box-shadow: 0 6px 20px var(--ravidas-shadow);
 }
-
 body[data-poet="sant-ravidas"] .translation-lang-tag {
   color: var(--ravidas-text);
   border-color: var(--ravidas-pill-border);
   background: var(--ravidas-pill-bg);
 }
-
 body[data-poet="sant-ravidas"] .translation-verse.hindi-verse {
   border-left-color: var(--ravidas-primary);
 }
-
 body[data-poet="sant-ravidas"] .translation-verse.english-verse {
-  border-left-color: #f97316;
+  border-left-color: var(--ravidas-glow);
+}
+
+body[data-poet="sheikh-farid"] .translation-block:hover {
+  border-color: var(--farid-pill-border);
+  box-shadow: 0 6px 20px var(--farid-shadow);
+}
+body[data-poet="sheikh-farid"] .translation-lang-tag {
+  color: var(--farid-text);
+  border-color: var(--farid-pill-border);
+  background: var(--farid-pill-bg);
+}
+body[data-poet="sheikh-farid"] .translation-verse.hindi-verse {
+  border-left-color: var(--farid-primary);
+}
+body[data-poet="sheikh-farid"] .translation-verse.english-verse {
+  border-left-color: var(--farid-glow);
+}
+
+body[data-poet="meerabai"] .translation-block:hover {
+  border-color: var(--meerabai-pill-border);
+  box-shadow: 0 6px 20px var(--meerabai-shadow);
+}
+body[data-poet="meerabai"] .translation-lang-tag {
+  color: var(--meerabai-text);
+  border-color: var(--meerabai-pill-border);
+  background: var(--meerabai-pill-bg);
+}
+body[data-poet="meerabai"] .translation-verse.hindi-verse {
+  border-left-color: var(--meerabai-primary);
+}
+body[data-poet="meerabai"] .translation-verse.english-verse {
+  border-left-color: var(--meerabai-glow);
+}
+
+body[data-poet="sant-kabir"] .translation-block:hover {
+  border-color: var(--kabir-pill-border);
+  box-shadow: 0 6px 20px var(--kabir-shadow);
+}
+body[data-poet="sant-kabir"] .translation-lang-tag {
+  color: var(--kabir-text);
+  border-color: var(--kabir-pill-border);
+  background: var(--kabir-pill-bg);
+}
+body[data-poet="sant-kabir"] .translation-verse.hindi-verse {
+  border-left-color: var(--kabir-primary);
+}
+body[data-poet="sant-kabir"] .translation-verse.english-verse {
+  border-left-color: var(--kabir-glow);
 }
 
 /* Light Theme (Parchment) High-Contrast Overrides */
@@ -2185,20 +2838,17 @@ body[data-poet="sant-ravidas"] .translation-verse.english-verse {
   border-color: rgba(0, 0, 0, 0.08);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
 }
-
 [data-theme="light"] .translation-block:hover {
   background: #ffffff;
   border-color: var(--border-gold-strong);
   box-shadow: 0 6px 20px rgba(180, 83, 9, 0.12);
 }
-
 [data-theme="light"] .translation-verse.hindi-verse {
-  color: #0f172a; /* Deep crisp black/slate (14:1+ WCAG AAA contrast) */
+  color: #0f172a;
   font-weight: 600;
 }
-
 [data-theme="light"] .translation-verse.english-verse {
-  color: #1e293b; /* Deep slate (12:1+ WCAG AAA contrast) */
+  color: #1e293b;
   font-weight: 500;
 }
 
@@ -2206,58 +2856,54 @@ body[data-poet="sant-ravidas"] .translation-verse.english-verse {
   border-color: var(--ravidas-primary);
   box-shadow: 0 6px 20px var(--ravidas-shadow);
 }
-
 [data-theme="light"] body[data-poet="sant-ravidas"] .translation-lang-tag {
   color: var(--ravidas-text);
   background: var(--ravidas-pill-bg);
   border-color: var(--ravidas-pill-border);
 }
-
 [data-theme="light"] body[data-poet="sant-ravidas"] .poem-title-en {
   color: var(--ravidas-text);
   font-weight: 700;
 }
 
-/* Baba Sheikh Farid Theme */
-[data-poet="sheikh-farid"] #sidebar-poet-emblem {
-  color: hsl(165, 80%, 42%) !important;
+[data-theme="light"] body[data-poet="sheikh-farid"] .translation-block:hover {
+  border-color: var(--farid-primary);
+  box-shadow: 0 6px 20px var(--farid-shadow);
 }
-[data-poet="sheikh-farid"] .tab-btn.active {
-  background: linear-gradient(135deg, hsl(165, 80%, 42%), hsl(165, 90%, 30%));
-  color: #ffffff !important;
-  box-shadow: 0 0 10px rgba(16, 185, 129, 0.35);
+[data-theme="light"] body[data-poet="sheikh-farid"] .translation-lang-tag {
+  color: var(--farid-text);
+  background: var(--farid-pill-bg);
+  border-color: var(--farid-pill-border);
 }
-[data-poet="sheikh-farid"] .kafi-genre-pill,
-[data-poet="sheikh-farid"] .genre-badge {
-  color: hsl(165, 80%, 42%);
-  background: rgba(16, 185, 129, 0.12);
-  border-color: rgba(16, 185, 129, 0.3);
-}
-[data-poet="sheikh-farid"] .kafi-item.active {
-  border-color: rgba(16, 185, 129, 0.4);
-}
-[data-poet="sheikh-farid"] .kafi-item.active .kafi-item-title {
-  color: hsl(165, 80%, 42%);
+[data-theme="light"] body[data-poet="sheikh-farid"] .poem-title-en {
+  color: var(--farid-text);
+  font-weight: 700;
 }
 
-/* Sant Mirabai Theme */
-[data-poet="meerabai"] #sidebar-poet-emblem {
-  color: hsl(330, 85%, 60%) !important;
+[data-theme="light"] body[data-poet="meerabai"] .translation-block:hover {
+  border-color: var(--meerabai-primary);
+  box-shadow: 0 6px 20px var(--meerabai-shadow);
 }
-[data-poet="meerabai"] .tab-btn.active {
-  background: linear-gradient(135deg, hsl(330, 85%, 60%), hsl(330, 85%, 45%));
-  color: #ffffff !important;
-  box-shadow: 0 0 10px rgba(244, 63, 94, 0.35);
+[data-theme="light"] body[data-poet="meerabai"] .translation-lang-tag {
+  color: var(--meerabai-text);
+  background: var(--meerabai-pill-bg);
+  border-color: var(--meerabai-pill-border);
 }
-[data-poet="meerabai"] .kafi-genre-pill,
-[data-poet="meerabai"] .genre-badge {
-  color: hsl(330, 85%, 60%);
-  background: rgba(244, 63, 94, 0.12);
-  border-color: rgba(244, 63, 94, 0.3);
+[data-theme="light"] body[data-poet="meerabai"] .poem-title-en {
+  color: var(--meerabai-text);
+  font-weight: 700;
 }
-[data-poet="meerabai"] .kafi-item.active {
-  border-color: rgba(244, 63, 94, 0.4);
+
+[data-theme="light"] body[data-poet="sant-kabir"] .translation-block:hover {
+  border-color: var(--kabir-primary);
+  box-shadow: 0 6px 20px var(--kabir-shadow);
 }
-[data-poet="meerabai"] .kafi-item.active .kafi-item-title {
-  color: hsl(330, 85%, 60%);
+[data-theme="light"] body[data-poet="sant-kabir"] .translation-lang-tag {
+  color: var(--kabir-text);
+  background: var(--kabir-pill-bg);
+  border-color: var(--kabir-pill-border);
+}
+[data-theme="light"] body[data-poet="sant-kabir"] .poem-title-en {
+  color: var(--kabir-text);
+  font-weight: 700;
 }
