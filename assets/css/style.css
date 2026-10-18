@@ -1445,6 +1445,10 @@ body {
   border-top: 4px solid hsl(330, 85%, 60%);
 }
 
+.poet-card.kabir-theme {
+  border-top: 4px solid hsl(215, 90%, 55%);
+}
+
 .poet-card-header {
   display: flex;
   align-items: flex-start;
@@ -1473,6 +1477,21 @@ body {
 
 .poet-card.ravidas-theme .poet-emblem-large {
   background: var(--ravidas-gradient);
+  color: #fff;
+}
+
+.poet-card.farid-theme .poet-emblem-large {
+  background: linear-gradient(135deg, hsl(165, 80%, 42%), hsl(165, 90%, 28%));
+  color: #fff;
+}
+
+.poet-card.meerabai-theme .poet-emblem-large {
+  background: linear-gradient(135deg, hsl(330, 85%, 60%), hsl(330, 85%, 45%));
+  color: #fff;
+}
+
+.poet-card.kabir-theme .poet-emblem-large {
+  background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 50%, #2563eb 100%);
   color: #fff;
 }
 
@@ -1518,6 +1537,13 @@ body {
   font-weight: 700;
 }
 
+.meta-pill.kabir-pill {
+  color: #60a5fa;
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.35);
+  font-weight: 700;
+}
+
 .poet-card-desc {
   font-size: 0.95rem;
   color: var(--text-muted);
@@ -1535,6 +1561,18 @@ body {
 
 .poet-card.ravidas-theme .poet-quote-box {
   border-left-color: var(--ravidas-primary);
+}
+
+.poet-card.farid-theme .poet-quote-box {
+  border-left-color: hsl(165, 80%, 42%);
+}
+
+.poet-card.meerabai-theme .poet-quote-box {
+  border-left-color: hsl(330, 85%, 60%);
+}
+
+.poet-card.kabir-theme .poet-quote-box {
+  border-left-color: hsl(215, 90%, 55%);
 }
 
 .poet-quote-text {
@@ -1656,6 +1694,16 @@ body {
 .poet-card.meerabai-theme .enter-archive-btn:hover {
   background: linear-gradient(135deg, hsl(330, 85%, 68%), hsl(330, 85%, 52%));
   box-shadow: 0 8px 24px rgba(244, 63, 94, 0.4);
+}
+
+.poet-card.kabir-theme .enter-archive-btn {
+  background: linear-gradient(135deg, hsl(215, 90%, 55%), hsl(225, 85%, 42%));
+  color: #fff;
+}
+
+.poet-card.kabir-theme .enter-archive-btn:hover {
+  background: linear-gradient(135deg, hsl(215, 90%, 62%), hsl(225, 85%, 50%));
+  box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
 }
 
 /* Future Poets Section */

@@ -3,7 +3,10 @@
  * Multi-Poet Trilingual Master Edition:
  * - Baba Bulleh Shah (351 Masterpieces)
  * - Sant Ravidas Ji (208 Masterpieces)
- * Total: 559 Classical Masterpieces
+ * - Baba Sheikh Farid (134 Masterpieces)
+ * - Sant Mirabai (418 Masterpieces)
+ * - Sant Kabir Das (562 Masterpieces)
+ * Total: 1,673 Classical Masterpieces
  */
 
 (function () {
@@ -724,7 +727,7 @@
     if (totalMatches === 0) {
       el.hubSearchResults.innerHTML = `
         <div style="text-align: center; color: var(--text-faint); padding: 1.5rem;">
-          '${escapeHTML(query)}' के लिए 1,111 रचनाओं में कोई परिणाम नहीं मिला।
+          '${escapeHTML(query)}' के लिए 1,673 रचनाओं में कोई परिणाम नहीं मिला।
         </div>
       `;
       el.hubSearchResults.style.display = 'block';
@@ -815,11 +818,10 @@
 
     // Poet Switcher Button
     el.poetSwitcherBtn.addEventListener('click', () => {
-      if (state.currentPoet === 'bulleh-shah') {
-        window.location.hash = '#/sant-ravidas/';
-      } else {
-        window.location.hash = '#/bulleh-shah/';
-      }
+      const poetList = ['bulleh-shah', 'sant-ravidas', 'sheikh-farid', 'meerabai', 'sant-kabir'];
+      const currIdx = poetList.indexOf(state.currentPoet);
+      const nextPoetId = poetList[(currIdx + 1) % poetList.length];
+      window.location.hash = `#/${nextPoetId}/`;
     });
 
     // Sidebar back to hub button
