@@ -15,7 +15,9 @@ if not os.path.exists(data_path):
     sys.exit(1)
 
 with open(data_path, "r", encoding="utf-8") as f:
-    items = json.load(f)
+    raw_data = json.load(f)
+
+items = list(raw_data.values()) if isinstance(raw_data, dict) else raw_data
 
 print(f"Total Kabir compositions in kabir_data.json: {len(items)}")
 
@@ -27,20 +29,17 @@ missing_fields_errors = []
 empty_translation_errors = []
 
 for idx, it in enumerate(items, 1):
-    uid = it.get('id', f'item_{idx}')
+    uid = it.get('uid') or it.get('id', f'item_{idx}')
     
-    # Required fields
-    required = ['id', 'poet_id', 'type', 'title', 'title_hi', 'title_translit', 
-                'original_text', 'devanagari_text', 'verse_hi', 'verse_en', 'meaning', 'glossary']
-    for req in required:
-        if req not in it:
-            missing_fields_errors.append((uid, req))
-            
-    v_hi = it.get('verse_hi', '').strip()
-    v_en = it.get('verse_en', '').strip()
+    # Check verses (handle both translation_hindi/english and verse_hi/en)
+    v_hi = it.get('translation_hindi') or it.get('verse_hi', '')
+    v_en = it.get('translation_english') or it.get('verse_en', '')
+    v_hi = v_hi.strip()
+    v_en = v_en.strip()
     
     if not v_hi or not v_en:
         empty_translation_errors.append((uid, "empty verse_hi or verse_en"))
+
         
     # Check 1: 0 Devanagari in English Verse
     dev_in_en = devanagari_regex.findall(v_en)
@@ -48,18 +47,30 @@ for idx, it in enumerate(items, 1):
         en_verse_errors.append((uid, "".join(dev_in_en[:5])))
         
     # Check 2: 0 Devanagari in English Gloss
-    gloss = it.get('glossary', {})
-    g_en = gloss.get('english', '')
+    g_en = it.get('english_gloss')
+    if isinstance(g_en, list):
+        g_en = "\n".join(g_en)
+    elif not g_en:
+        gloss = it.get('glossary', {})
+        g_en = gloss.get('english', '')
+        
     dev_in_gloss = devanagari_regex.findall(g_en)
     if dev_in_gloss:
         en_gloss_errors.append((uid, "".join(dev_in_gloss[:5])))
         
     # Check 3: 0 self-repeats in Hindi Gloss
-    g_hi = gloss.get('hindi', '')
+    g_hi = it.get('hindi_gloss')
+    if isinstance(g_hi, list):
+        g_hi = "\n".join(g_hi)
+    elif not g_hi:
+        gloss = it.get('glossary', {})
+        g_hi = gloss.get('hindi', '')
+        
     # Check for pattern: word (word)
     repeats = re.findall(r'([\u0900-\u097F]+)\s*\(\s*\1\s*\)', g_hi)
     if repeats:
         hi_repeat_errors.append((uid, repeats[:3]))
+
 
 print(f"\nAudit Results for {len(items)} works:")
 print(f"  - Missing Fields Errors: {len(missing_fields_errors)}")

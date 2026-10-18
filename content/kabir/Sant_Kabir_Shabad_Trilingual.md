@@ -7,161 +7,161 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [शब्द 1: जननी जानत सुतु बडा होतु है](#shabad-1) | Shabad 1: Jananaee Jaanata Sautau Badaa Haotau Haai |
-| 2 | [शब्द 2: नगन फिरत जौ पाईऐ जोगु](#shabad-2) | Shabad 2: Nagana Phairata Jaau Paaeeai Jaogau |
-| 3 | [शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा](#shabad-3) | Shabad 3: Kaiaa Japau Kaiaa Tapau Kaiaa Barata Paoojaa |
-| 4 | [शब्द 4: गरभ वास महि कुलु नही जाती](#shabad-4) | Shabad 4: Garabha Vaasa Mahai Kaulau Nahaee Jaataee |
-| 5 | [शब्द 5: अवर मूए किआ सोगु करीजै](#shabad-5) | Shabad 5: Avara Maooe Kaiaa Saogau Karaeejaai |
-| 6 | [शब्द 6: जिह कुलि पूतु न गिआन बीचारी](#shabad-6) | Shabad 6: Jaiha Kaulai Paootau Na Gaiaana Baeechaaraee |
-| 7 | [शब्द 7: जो जन लेहि खसम का नाउ](#shabad-7) | Shabad 7: Jao Jana Laehai Khasama Kaa Naau |
-| 8 | [शब्द 8: ओइ जु दीसहि अम्बरि तारे](#shabad-8) | Shabad 8: Oi Jau Daeesahai Amabarai Taarae |
-| 9 | [शब्द 9: बेद की पुत्री सिम्रिति भाई](#shabad-9) | Shabad 9: Baeda Kaee Pautaraee Saimaraitai Bhaaee |
-| 10 | [शब्द 10: देइ मुहार लगामु पहिरावउ](#shabad-10) | Shabad 10: Daei Mauhaara Lagaamau Pahairaavau |
-| 11 | [शब्द 11: आपे पावकु आपे पवना](#shabad-11) | Shabad 11: Aapae Paavakau Aapae Pavanaa |
-| 12 | [शब्द 12: जिह सिरि रचि रचि बाधत पाग](#shabad-12) | Shabad 12: Jaiha Sairai Rachai Rachai Baadhata Paaga |
-| 13 | [शब्द 13: रे जीअ निलज लाज तोहि नाही](#shabad-13) | Shabad 13: Rae Jaeea Nailaja Laaja Taohai Naahaee |
-| 14 | [शब्द 14: कउनु को पूतु पिता को का को](#shabad-14) | Shabad 14: Kaunau Kao Paootau Paitaa Kao Kaa Kao |
-| 15 | [शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई](#shabad-15) | Shabad 15: Jalai Haai Saootakau Thalai Haai Saootakau Saootaka |
-| 16 | [शब्द 16: झगरा एकु निबेरहु राम](#shabad-16) | Shabad 16: Jhagaraa Ekau Naibaerahau Raama |
-| 17 | [शब्द 17: देखौ भाई ग्यान की आई आंधी](#shabad-17) | Shabad 17: Daekhaau Bhaaee Gayaana Kaee Aaee Aandhaee |
-| 18 | [शब्द 18: हरि जसु सुनहि न हरि गुन गावहि](#shabad-18) | Shabad 18: Harai Jasau Saunahai Na Harai Gauna Gaavahai |
-| 19 | [शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही](#shabad-19) | Shabad 19: Jaeevata Paitara Na Maanaai Kaooo Maooen Sairaa |
-| 20 | [शब्द 20: राम जपउ जीअ ऐसे ऐसे](#shabad-20) | Shabad 20: Raama Japau Jaeea Aisae Aisae |
-| 21 | [शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु](#shabad-21) | Shabad 21: Sauraga Baasau Na Baachhaeeai Daraeeai Na Narakai |
-| 22 | [शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु](#shabad-22) | Shabad 22: Rae Mana Taerao Kaoi Nahaee Khainchai Laei Ja |
-| 23 | [शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे](#shabad-23) | Shabad 23: Mana Rae Chhaadahau Bharamau Paragata Haoi Naacha |
-| 24 | [शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे](#shabad-24) | Shabad 24: Lakha Chauraasaeeha Jaeea Jaonai Mahai Bharamata |
-| 25 | [शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ](#shabad-25) | Shabad 25: Naindau Naindau Mao Kau Laogau Naindau |
-| 27 | [शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई](#shabad-27) | Shabad 27: Haindaoo Tauraka Kahaa Tae Aae Kainai Eha Ra |
-| 28 | [शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥](#shabad-28) | Shabad 28: Jaba Lagau Taelau Daeevae Maukhai Baataee Taba |
-| 29 | [शब्द 29: सुतु अपराध करत है जेते](#shabad-29) | Shabad 29: Sautau Aparaadha Karata Haai Jaetae |
-| 30 | [शब्द 30: हज हमारी गोमती तीर](#shabad-30) | Shabad 30: Haja Hamaaraee Gaomataee Taeera |
-| 31 | [शब्द 31: पाती तोरै मालिनी पाती पाती जीउ](#shabad-31) | Shabad 31: Paataee Taoraai Maalainaee Paataee Paataee Jaeeu |
-| 32 | [शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ](#shabad-32) | Shabad 32: Baaraha Barasa Baalapana Baeetae Baeesa Barasa Kachha |
-| 33 | [शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा](#shabad-33) | Shabad 33: Kaahaoo Daeenahae Paata Patamabara Kaahaoo Pala |
-| 34 | [शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै](#shabad-34) | Shabad 34: Hama Masakaeena Khaudaaee Bandae Tauma Raajasau |
-| 35 | [शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना](#shabad-35) | Shabad 35: Gagana Nagarai Ika Baoonda Na Barakhaai Naadau Ka |
-| 36 | [शब्द 36: सरपनी ते ऊपरि नही बलीआ](#shabad-36) | Shabad 36: Sarapanaee Tae Ooparai Nahaee Balaeeaa |
-| 37 | [शब्द 37: कहा सुआन कउ सिम्रिति सुनाए](#shabad-37) | Shabad 37: Kahaa Sauaana Kau Saimaraitai Saunaae |
-| 38 | [शब्द 38: लंका सा कोटु समुंद सी खाई](#shabad-38) | Shabad 38: Lankaa Saa Kaotau Samaunda Saee Khaaee |
-| 39 | [शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे](#shabad-39) | Shabad 39: Hama Gharai Saootau Tanahai Naita Taanaa Kanthai |
-| 40 | [शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै](#shabad-40) | Shabad 40: Raojaa Dharaai Manaavaai Alahau Sauaadatai Jaeea |
-| 41 | [शब्द 41: करवतु भला न करवट तेरी](#shabad-41) | Shabad 41: Karavatau Bhalaa Na Karavata Taeraee |
-| 42 | [शब्द 42: कोरी को काहू मरमु न जानां](#shabad-42) | Shabad 42: Kaoraee Kao Kaahaoo Maramau Na Jaanaan |
-| 43 | [शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां](#shabad-43) | Shabad 43: Antarai Maailau Jae Taeeratha Naavaai Taisau Ba |
-| 44 | [शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै](#shabad-44) | Shabad 44: Chaarai Paava Daui Sainga Gaunga Maukha Taba |
-| 45 | [शब्द 45: मुसि मुसि रोवै कबीर की माई](#shabad-45) | Shabad 45: Mausai Mausai Raovaai Kabaeera Kaee Maaee |
-| 46 | [शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई](#shabad-46) | Shabad 46: Bauta Paoojai Paoojai Haindaoo Maooe Tauraka Ma |
-| 47 | [शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई](#shabad-47) | Shabad 47: Jaba Jaraeeai Taba Haoi Bhasama Tanau Rahaai Kaira |
-| 48 | [शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा](#shabad-48) | Shabad 48: Baeda Pauraana Sabhaai Mata Saunai Kaai Karaee Ka |
-| 49 | [शब्द 49: दुइ दुइ लोचन पेखा](#shabad-49) | Shabad 49: Daui Daui Laochana Paekhaa |
-| 50 | [शब्द 50: जा के निगम दूध के ठाटा](#shabad-50) | Shabad 50: Jaa Kae Naigama Daoodha Kae Thaataa |
-| 51 | [शब्द 51: जिह बाझु न जीआ जाई](#shabad-51) | Shabad 51: Jaiha Baajhau Na Jaeeaa Jaaee |
-| 52 | [शब्द 52: किआ पड़ीऐ किआ गुनीऐ](#shabad-52) | Shabad 52: Kaiaa Paड़eeai Kaiaa Gaunaeeai |
-| 53 | [शब्द 53: ह्रिदै कपटु मुख गिआनी](#shabad-53) | Shabad 53: Haraidaai Kapatau Maukha Gaiaanaee |
-| 54 | [शब्द 54: बहु परपंच करि पर धनु लिआवै](#shabad-54) | Shabad 54: Bahau Parapancha Karai Para Dhanau Laiaavaai |
-| 55 | [शब्द 55: संतहु मन पवनै सुखु बनिआ](#shabad-55) | Shabad 55: Santahau Mana Pavanaai Saukhau Banaiaa |
-| 56 | [शब्द 56: भूखे भगति न कीजै](#shabad-56) | Shabad 56: Bhaookhae Bhagatai Na Kaeejaai |
-| 57 | [शब्द 57: सनक सनंद महेस समानां](#shabad-57) | Shabad 57: Sanaka Sananda Mahaesa Samaanaan |
-| 58 | [शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै](#shabad-58) | Shabad 58: Daina Tae Pahara Pahara Tae Gharaeeaan Aava Ghataai |
-| 59 | [शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो](#shabad-59) | Shabad 59: Jao Janau Bhaau Bhagatai Kachhau Jaanaai Taa Kau |
-| 60 | [शब्द 60: इंद्र लोक सिव लोकहि जैबो](#shabad-60) | Shabad 60: Indara Laoka Saiva Laokahai Jaaibao |
-| 61 | [शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई](#shabad-61) | Shabad 61: Raama Saimarai Raama Saimarai Raama Saimarai |
-| 62 | [शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ](#shabad-62) | Shabad 62: Baeda Kataeba Iphataraa Bhaaee Daila Kaa Phaikara |
-| 63 | [शब्द 63: अमलु सिरानो लेखा देना](#shabad-63) | Shabad 63: Amalau Sairaanao Laekhaa Daenaa |
-| 64 | [शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ](#shabad-64) | Shabad 64: Thaakae Naaina Saravana Saunai Thaakae Thaakaee |
-| 65 | [शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे](#shabad-65) | Shabad 65: Aisao Ihau Sansaarau Paekhanaa Rahanau Na Kao |
-| 66 | [शब्द 66: बिदिआ न परउ बादु नही जानउ](#shabad-66) | Shabad 66: Baidaiaa Na Parau Baadau Nahaee Jaanau |
-| 67 | [शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा](#shabad-67) | Shabad 67: Garaihau Tajai Bana Khanda Jaaeeai Chaunai Khaa |
-| 68 | [शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ](#shabad-68) | Shabad 68: Naita Uthai Kaoraee Gaagarai Aanaai Laeepata Jaee |
-| 69 | [शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ](#shabad-69) | Shabad 69: Santau Mailaai Kaichhau Saunaeeai Kahaeeai |
-| 70 | [शब्द 70: नरू मरै नरु कामि न आवै](#shabad-70) | Shabad 70: Naraoo Maraai Narau Kaamai Na Aavaai |
-| 71 | [शब्द 71: भुजा बांधि भिला करि डारिओ](#shabad-71) | Shabad 71: Bhaujaa Baandhai Bhailaa Karai Daaraio |
-| 72 | [शब्द 72: ना इहु मानसु ना इहु देउ](#shabad-72) | Shabad 72: Naa Ihau Maanasau Naa Ihau Daeu |
-| 73 | [शब्द 73: तूटे तागे निखुटी पानि](#shabad-73) | Shabad 73: Taootae Taagae Naikhautaee Paanai |
-| 74 | [शब्द 74: धंनु गुपाल धंनु गुरदेव](#shabad-74) | Shabad 74: Dhannau Gaupaala Dhannau Gauradaeva |
-| 75 | [शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै](#shabad-75) | Shabad 75: Jaiha Maukha Baedau Gaaitaraee Naikasaai Sao |
-| 76 | [शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे](#shabad-76) | Shabad 76: Maundaraa Maonai Daiaa Karai Jhaolaee Patara |
-| 77 | [शब्द 77: पडीआ कवन कुमति तुम लागे](#shabad-77) | Shabad 77: Padaeeaa Kavana Kaumatai Tauma Laagae |
-| 78 | [शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार](#shabad-78) | Shabad 78: Banahai Basae Kaiu Paaeeai Jau Lau Manahau Na |
-| 79 | [शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे](#shabad-79) | Shabad 79: Udaka Samaunda Salala Kaee Saakhaiaa Nadaee Taran |
-| 80 | [शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु](#shabad-80) | Shabad 80: Jainai Gaड़ Kaota Kaeee Kanchana Kae Chhaodai Ga |
-| 81 | [शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना](#shabad-81) | Shabad 81: Daehaee Gaavaa Jaeeu Dhara Mahatau Basahai Pancha |
-| 82 | [शब्द 82: राजन कउनु तुमारै आवै](#shabad-82) | Shabad 82: Raajana Kaunau Taumaaraai Aavaai |
-| 83 | [शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे](#shabad-83) | Shabad 83: Daeenau Baisaaraio Rae Daivaanae Daeenau Bai |
-| 84 | [शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना](#shabad-84) | Shabad 84: Usatatai Naindaa Daooo Baibarajaita Tajahau Ma |
-| 85 | [शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी](#shabad-85) | Shabad 85: Kaama Karaodha Taraisanaa Kae Laeenae Gatai |
-| 86 | [शब्द 86: टेढी पाग टेढे चले लागे बीरे खान](#shabad-86) | Shabad 86: Taedhaee Paaga Taedhae Chalae Laagae Baeerae Khaa |
-| 87 | [शब्द 87: चारि दिन अपनी नउबति चले बजाइ](#shabad-87) | Shabad 87: Chaarai Daina Apanaee Naubatai Chalae Bajaai |
-| 88 | [शब्द 88: नांगे आवनु नांगे जाना](#shabad-88) | Shabad 88: Naangae Aavanau Naangae Jaanaa |
-| 89 | [शब्द 89: मैला ब्रहमा मैला इंदु](#shabad-89) | Shabad 89: Maailaa Barahamaa Maailaa Indau |
-| 90 | [शब्द 90: मनु करि मका किबला करि देही](#shabad-90) | Shabad 90: Manau Karai Makaa Kaibalaa Karai Daehaee |
-| 91 | [शब्द 91: गंगा कै संगि सलिता बिगरी](#shabad-91) | Shabad 91: Gangaa Kaai Sangai Salaitaa Baigaraee |
-| 92 | [शब्द 92: माथे तिलकु हथि माला बानां](#shabad-92) | Shabad 92: Maathae Tailakau Hathai Maalaa Baanaan |
-| 93 | [शब्द 93: उलटि जाति कुल दोऊ बिसारी](#shabad-93) | Shabad 93: Ulatai Jaatai Kaula Daooo Baisaaraee |
-| 94 | [शब्द 94: निरधन आदरु कोई न देइ](#shabad-94) | Shabad 94: Nairadhana Aadarau Kaoee Na Daei |
-| 95 | [शब्द 95: सो मुलां जो मन सिउ लरै](#shabad-95) | Shabad 95: Sao Maulaan Jao Mana Saiu Laraai |
-| 96 | [शब्द 96: जब लगु मेरी मेरी करै](#shabad-96) | Shabad 96: Jaba Lagau Maeraee Maeraee Karaai |
-| 97 | [शब्द 97: सभु कोई चलन कहत है ऊहां](#shabad-97) | Shabad 97: Sabhau Kaoee Chalana Kahata Haai Oohaan |
-| 98 | [शब्द 98: गंग गुसाइनि गहिर ग्मभीर](#shabad-98) | Shabad 98: Ganga Gausaainai Gahaira Gamabhaeera |
-| 99 | [शब्द 99: मउली धरती मउलिआ अकासु](#shabad-99) | Shabad 99: Maulaee Dharataee Maulaiaa Akaasau |
-| 100 | [शब्द 100: पंडित जन माते पड़्हि पुरान](#shabad-100) | Shabad 100: Pandaita Jana Maatae Paड़hai Pauraana |
-| 101 | [शब्द 101: प्रहलाद पठाए पड़न साल](#shabad-101) | Shabad 101: Parahalaada Pathaae Paड़na Saala |
-| 102 | [शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे](#shabad-102) | Shabad 102: Maataa Jaoothaee Paitaa Bhaee Jaoothaa Jaoothae Haee |
-| 103 | [शब्द 103: कहा नर गरबसि थोरी बात](#shabad-103) | Shabad 103: Kahaa Nara Garabasai Thaoraee Baata |
-| 104 | [शब्द 104: राजास्रम मिति नही जानी तेरी](#shabad-104) | Shabad 104: Raajaasarama Maitai Nahaee Jaanaee Taeraee |
-| 105 | [शब्द 105: हरि बिनु कउनु सहाई मन का](#shabad-105) | Shabad 105: Harai Bainau Kaunau Sahaaee Mana Kaa |
-| 106 | [शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा](#shabad-106) | Shabad 106: Alahau Ekau Masaeetai Basatau Haai Avarau Mau |
-| 107 | [शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे](#shabad-107) | Shabad 107: Avalai Alaha Naoorau Upaaiaa Kaudaratai Kae |
-| 108 | [शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै](#shabad-108) | Shabad 108: Baeda Kataeba Kahahau Mata Jhaoothae Jhaoothaa Jao |
-| 109 | [शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई](#shabad-109) | Shabad 109: Saunna Sandhaiaa Taeraee Daeva Daevaakara Adhapa |
-| 110 | [शब्द 110: कोऊ हरि समानि नही राजा ॥](#shabad-110) | Shabad 110: Kaooo Harai Samaanai Nahaee Raajaa |
-| 111 | [शब्द 111: राखि लेहु हम ते बिगरी](#shabad-111) | Shabad 111: Raakhai Laehau Hama Tae Baigaraee |
-| 112 | [शब्द 112: दरमादे ठाढे दरबारि](#shabad-112) | Shabad 112: Daramaadae Thaadhae Darabaarai |
-| 113 | [शब्द 113: डंडा मुंद्रा खिंथा आधारी](#shabad-113) | Shabad 113: Dandaa Maundaraa Khainthaa Aadhaaraee |
-| 114 | [शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे](#shabad-114) | Shabad 114: Inahai Maaiaa Jagadaeesa Gausaaee Taumaharae |
-| 115 | [शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप](#shabad-115) | Shabad 115: Saraeera Saraovara Bhaeetarae Aachhaai Kamala Anaoopa |
-| 116 | [शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी](#shabad-116) | Shabad 116: Janama Marana Kaa Bharamau Gaiaa Gaobaida Laiva |
-| 117 | [शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव](#shabad-117) | Shabad 117: Charana Kamala Jaa Kaai Raidaai Basahai Sao Janau |
-| 118 | [शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले](#shabad-118) | Shabad 118: Aakaasai Gaganau Paataalai Gaganau Haai Chahau |
-| 119 | [शब्द 119: खसमु मरै तउ नारि न रोवै](#shabad-119) | Shabad 119: Khasamau Maraai Tau Naarai Na Raovaai |
-| 120 | [शब्द 120: ग्रिहि सोभा जा कै रे नाहि](#shabad-120) | Shabad 120: Garaihai Saobhaa Jaa Kaai Rae Naahai |
-| 121 | [शब्द 121: जैसे मंदर महि बलहर ना ठाहरै](#shabad-121) | Shabad 121: Jaaisae Mandara Mahai Balahara Naa Thaaharaai |
-| 122 | [शब्द 122: कूटनु सोइ जु मन कउ कूटै](#shabad-122) | Shabad 122: Kaootanau Saoi Jau Mana Kau Kaootaai |
-| 123 | [शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे](#shabad-123) | Shabad 123: Kaaiaa Kalaalanai Laahanai Maelau Gaura Kaa |
-| 124 | [शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा](#shabad-124) | Shabad 124: Gauड़u Karai Gaiaanau Dhaiaanau Karai Mahaooaa |
-| 125 | [शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी](#shabad-125) | Shabad 125: Taoon Maerao Maerau Parabatau Sauaamaee Ota Ga |
-| 126 | [शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी](#shabad-126) | Shabad 126: Santaa Maanau Daootaa Daanau Iha Kautavaaraee |
-| 127 | [शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ](#shabad-127) | Shabad 127: Taravarau Ekau Ananta Daara Saakhaa Pauhapa Pa |
-| 128 | [शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ](#shabad-128) | Shabad 128: Kavana Kaaja Sairajae Jaga Bhaeetarai Janamai Kava |
-| 129 | [शब्द 129: जिह सिमरनि होइ मुकति दुआरु](#shabad-129) | Shabad 129: Jaiha Saimaranai Haoi Maukatai Dauaarau |
-| 130 | [शब्द 130: बंधचि बंधनु पाइआ](#shabad-130) | Shabad 130: Bandhachai Bandhanau Paaiaa |
-| 131 | [शब्द 131: चंदु सूरजु दुइ जोति सरूपु](#shabad-131) | Shabad 131: Chandau Saoorajau Daui Jaotai Saraoopau |
-| 132 | [शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई](#shabad-132) | Shabad 132: Daunaeeaa Hausaeeaara Baedaara Jaagata Mausaeeata |
-| 133 | [शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज](#shabad-133) | Shabad 133: Raidhai Saidhai Jaa Kau Phauraee Taba Kaahaoo Sa |
-| 134 | [शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु](#shabad-134) | Shabad 134: Jau Taumaha Mao Kau Daoorai Karata Hau Tau |
-| 135 | [शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े](#shabad-135) | Shabad 135: Anabhau Kainaai Na Daekhaiaa Baairaagaeeaड़e |
-| 136 | [शब्द 136: रामु सिमरु पछुताहिगा मन](#shabad-136) | Shabad 136: Raamau Saimarau Pachhautaahaigaa Mana |
-| 137 | [शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी](#shabad-137) | Shabad 137: Kainahaee Banajaiaa Kaansaee Taanbaa Kainahaee |
-| 138 | [शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ](#shabad-138) | Shabad 138: Raee Kalavaarai Gavaarai Maoodha Matai Ulatao Pa |
-| 139 | [शब्द 139: इहु धनु मेरे हरि को नाउ](#shabad-139) | Shabad 139: Ihau Dhanau Maerae Harai Kao Naau |
-| 140 | [शब्द 140: गुर सेवा ते भगति कमाई](#shabad-140) | Shabad 140: Gaura Saevaa Tae Bhagatai Kamaaee |
-| 141 | [शब्द 141: सिव की पुरी बसै बुधि सारु](#shabad-141) | Shabad 141: Saiva Kaee Pauraee Basaai Baudhai Saarau |
-| 142 | [शब्द 142: जल महि मीन माइआ के बेधे](#shabad-142) | Shabad 142: Jala Mahai Maeena Maaiaa Kae Baedhae |
-| 143 | [शब्द 143: सतरि सैइ सलार है जा के](#shabad-143) | Shabad 143: Satarai Saaii Salaara Haai Jaa Kae |
-| 144 | [शब्द 144: किउ लीजै गढु बंका भाई](#shabad-144) | Shabad 144: Kaiu Laeejaai Gadhau Bankaa Bhaaee |
-| 145 | [शब्द 145: अगम द्रुगम गड़ि रचिओ बास](#shabad-145) | Shabad 145: Agama Daraugama Gaड़i Rachaio Baasa |
-| 146 | [शब्द 146: कोटि सूर जा कै परगास](#shabad-146) | Shabad 146: Kaotai Saoora Jaa Kaai Paragaasa |
-| 147 | [शब्द 147: जोइ खसमु है जाइआ](#shabad-147) | Shabad 147: Jaoi Khasamau Haai Jaaiaa |
-| 148 | [शब्द 148: इसु तन मन मधे मदन चोर](#shabad-148) | Shabad 148: Isau Tana Mana Madhae Madana Chaora |
-| 149 | [शब्द 149: नाइकु एकु बनजारे पाच](#shabad-149) | Shabad 149: Naaikau Ekau Banajaarae Paacha |
-| 150 | [शब्द 150: सुरह की जैसी तेरी चाल](#shabad-150) | Shabad 150: Sauraha Kaee Jaaisaee Taeraee Chaala |
+| 1 | [शब्द 1: जननी जानत सुतु बडा होतु है](#shabad-1) | माता का मोह, घटती आयु और यमराज का हास |
+| 2 | [शब्द 2: नगन फिरत जौ पाईऐ जोगु](#shabad-2) | नग्नता व मुंडन का खंडन: आत्माराम की पहचान |
+| 3 | [शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा](#shabad-3) | द्वैत में जप-तप व्यर्थ: निष्कपट प्रेम से रघुनाथ की प्राप्ति |
+| 4 | [शब्द 4: गरभ वास महि कुलु नही जाती](#shabad-4) | जाति-वर्ण का खंडन: रक्त और दुग्ध का प्रश्न |
+| 5 | [शब्द 5: अवर मूए किआ सोगु करीजै](#shabad-5) | संसार की नश्वरता: एक कुआं और पांच पनिहारिनें |
+| 6 | [शब्द 6: जिह कुलि पूतु न गिआन बीचारी](#shabad-6) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 6) |
+| 7 | [शब्द 7: जो जन लेहि खसम का नाउ](#shabad-7) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 7) |
+| 8 | [शब्द 8: ओइ जु दीसहि अम्बरि तारे](#shabad-8) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 8) |
+| 9 | [शब्द 9: बेद की पुत्री सिम्रिति भाई](#shabad-9) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 9) |
+| 10 | [शब्द 10: देइ मुहार लगामु पहिरावउ](#shabad-10) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 10) |
+| 11 | [शब्द 11: आपे पावकु आपे पवना](#shabad-11) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 11) |
+| 12 | [शब्द 12: जिह सिरि रचि रचि बाधत पाग](#shabad-12) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 12) |
+| 13 | [शब्द 13: रे जीअ निलज लाज तोहि नाही](#shabad-13) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 13) |
+| 14 | [शब्द 14: कउनु को पूतु पिता को का को](#shabad-14) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 14) |
+| 15 | [शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई](#shabad-15) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 15) |
+| 16 | [शब्द 16: झगरा एकु निबेरहु राम](#shabad-16) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 16) |
+| 17 | [शब्द 17: देखौ भाई ग्यान की आई आंधी](#shabad-17) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 17) |
+| 18 | [शब्द 18: हरि जसु सुनहि न हरि गुन गावहि](#shabad-18) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 18) |
+| 19 | [शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही](#shabad-19) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 19) |
+| 20 | [शब्द 20: राम जपउ जीअ ऐसे ऐसे](#shabad-20) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 20) |
+| 21 | [शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु](#shabad-21) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 21) |
+| 22 | [शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु](#shabad-22) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 22) |
+| 23 | [शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे](#shabad-23) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 23) |
+| 24 | [शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे](#shabad-24) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 24) |
+| 25 | [शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ](#shabad-25) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 25) |
+| 27 | [शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई](#shabad-27) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 27) |
+| 28 | [शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥](#shabad-28) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 28) |
+| 29 | [शब्द 29: सुतु अपराध करत है जेते](#shabad-29) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 29) |
+| 30 | [शब्द 30: हज हमारी गोमती तीर](#shabad-30) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 30) |
+| 31 | [शब्द 31: पाती तोरै मालिनी पाती पाती जीउ](#shabad-31) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 31) |
+| 32 | [शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ](#shabad-32) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 32) |
+| 33 | [शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा](#shabad-33) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 33) |
+| 34 | [शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै](#shabad-34) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 34) |
+| 35 | [शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना](#shabad-35) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 35) |
+| 36 | [शब्द 36: सरपनी ते ऊपरि नही बलीआ](#shabad-36) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 36) |
+| 37 | [शब्द 37: कहा सुआन कउ सिम्रिति सुनाए](#shabad-37) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 37) |
+| 38 | [शब्द 38: लंका सा कोटु समुंद सी खाई](#shabad-38) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 38) |
+| 39 | [शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे](#shabad-39) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 39) |
+| 40 | [शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै](#shabad-40) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 40) |
+| 41 | [शब्द 41: करवतु भला न करवट तेरी](#shabad-41) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 41) |
+| 42 | [शब्द 42: कोरी को काहू मरमु न जानां](#shabad-42) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 42) |
+| 43 | [शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां](#shabad-43) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 43) |
+| 44 | [शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै](#shabad-44) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 44) |
+| 45 | [शब्द 45: मुसि मुसि रोवै कबीर की माई](#shabad-45) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 45) |
+| 46 | [शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई](#shabad-46) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 46) |
+| 47 | [शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई](#shabad-47) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 47) |
+| 48 | [शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा](#shabad-48) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 48) |
+| 49 | [शब्द 49: दुइ दुइ लोचन पेखा](#shabad-49) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 49) |
+| 50 | [शब्द 50: जा के निगम दूध के ठाटा](#shabad-50) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 50) |
+| 51 | [शब्द 51: जिह बाझु न जीआ जाई](#shabad-51) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 51) |
+| 52 | [शब्द 52: किआ पड़ीऐ किआ गुनीऐ](#shabad-52) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 52) |
+| 53 | [शब्द 53: ह्रिदै कपटु मुख गिआनी](#shabad-53) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 53) |
+| 54 | [शब्द 54: बहु परपंच करि पर धनु लिआवै](#shabad-54) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 54) |
+| 55 | [शब्द 55: संतहु मन पवनै सुखु बनिआ](#shabad-55) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 55) |
+| 56 | [शब्द 56: भूखे भगति न कीजै](#shabad-56) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 56) |
+| 57 | [शब्द 57: सनक सनंद महेस समानां](#shabad-57) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 57) |
+| 58 | [शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै](#shabad-58) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 58) |
+| 59 | [शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो](#shabad-59) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 59) |
+| 60 | [शब्द 60: इंद्र लोक सिव लोकहि जैबो](#shabad-60) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 60) |
+| 61 | [शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई](#shabad-61) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 61) |
+| 62 | [शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ](#shabad-62) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 62) |
+| 63 | [शब्द 63: अमलु सिरानो लेखा देना](#shabad-63) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 63) |
+| 64 | [शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ](#shabad-64) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 64) |
+| 65 | [शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे](#shabad-65) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 65) |
+| 66 | [शब्द 66: बिदिआ न परउ बादु नही जानउ](#shabad-66) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 66) |
+| 67 | [शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा](#shabad-67) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 67) |
+| 68 | [शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ](#shabad-68) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 68) |
+| 69 | [शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ](#shabad-69) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 69) |
+| 70 | [शब्द 70: नरू मरै नरु कामि न आवै](#shabad-70) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 70) |
+| 71 | [शब्द 71: भुजा बांधि भिला करि डारिओ](#shabad-71) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 71) |
+| 72 | [शब्द 72: ना इहु मानसु ना इहु देउ](#shabad-72) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 72) |
+| 73 | [शब्द 73: तूटे तागे निखुटी पानि](#shabad-73) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 73) |
+| 74 | [शब्द 74: धंनु गुपाल धंनु गुरदेव](#shabad-74) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 74) |
+| 75 | [शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै](#shabad-75) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 75) |
+| 76 | [शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे](#shabad-76) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 76) |
+| 77 | [शब्द 77: पडीआ कवन कुमति तुम लागे](#shabad-77) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 77) |
+| 78 | [शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार](#shabad-78) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 78) |
+| 79 | [शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे](#shabad-79) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 79) |
+| 80 | [शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु](#shabad-80) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 80) |
+| 81 | [शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना](#shabad-81) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 81) |
+| 82 | [शब्द 82: राजन कउनु तुमारै आवै](#shabad-82) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 82) |
+| 83 | [शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे](#shabad-83) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 83) |
+| 84 | [शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना](#shabad-84) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 84) |
+| 85 | [शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी](#shabad-85) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 85) |
+| 86 | [शब्द 86: टेढी पाग टेढे चले लागे बीरे खान](#shabad-86) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 86) |
+| 87 | [शब्द 87: चारि दिन अपनी नउबति चले बजाइ](#shabad-87) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 87) |
+| 88 | [शब्द 88: नांगे आवनु नांगे जाना](#shabad-88) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 88) |
+| 89 | [शब्द 89: मैला ब्रहमा मैला इंदु](#shabad-89) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 89) |
+| 90 | [शब्द 90: मनु करि मका किबला करि देही](#shabad-90) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 90) |
+| 91 | [शब्द 91: गंगा कै संगि सलिता बिगरी](#shabad-91) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 91) |
+| 92 | [शब्द 92: माथे तिलकु हथि माला बानां](#shabad-92) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 92) |
+| 93 | [शब्द 93: उलटि जाति कुल दोऊ बिसारी](#shabad-93) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 93) |
+| 94 | [शब्द 94: निरधन आदरु कोई न देइ](#shabad-94) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 94) |
+| 95 | [शब्द 95: सो मुलां जो मन सिउ लरै](#shabad-95) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 95) |
+| 96 | [शब्द 96: जब लगु मेरी मेरी करै](#shabad-96) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 96) |
+| 97 | [शब्द 97: सभु कोई चलन कहत है ऊहां](#shabad-97) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 97) |
+| 98 | [शब्द 98: गंग गुसाइनि गहिर ग्मभीर](#shabad-98) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 98) |
+| 99 | [शब्द 99: मउली धरती मउलिआ अकासु](#shabad-99) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 99) |
+| 100 | [शब्द 100: पंडित जन माते पड़्हि पुरान](#shabad-100) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 100) |
+| 101 | [शब्द 101: प्रहलाद पठाए पड़न साल](#shabad-101) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 101) |
+| 102 | [शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे](#shabad-102) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 102) |
+| 103 | [शब्द 103: कहा नर गरबसि थोरी बात](#shabad-103) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 103) |
+| 104 | [शब्द 104: राजास्रम मिति नही जानी तेरी](#shabad-104) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 104) |
+| 105 | [शब्द 105: हरि बिनु कउनु सहाई मन का](#shabad-105) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 105) |
+| 106 | [शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा](#shabad-106) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 106) |
+| 107 | [शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे](#shabad-107) | अवलि अलह नूरु: कुदरत के सब बंदे और अखंड अद्वैत |
+| 108 | [शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै](#shabad-108) | वेद-कतेब को झूठा मत कहो: झूठा वह है जो विचार नहीं करता |
+| 109 | [शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई](#shabad-109) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 109) |
+| 110 | [शब्द 110: कोऊ हरि समानि नही राजा ॥](#shabad-110) | हरि के समान कोई राजा नहीं: निर्धन को भूपति बनाने वाला |
+| 111 | [शब्द 111: राखि लेहु हम ते बिगरी](#shabad-111) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 111) |
+| 112 | [शब्द 112: दरमादे ठाढे दरबारि](#shabad-112) | दरमादे ठाढे दरबारि: याचक की करुण पुकार |
+| 113 | [शब्द 113: डंडा मुंद्रा खिंथा आधारी](#shabad-113) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 113) |
+| 114 | [शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे](#shabad-114) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 114) |
+| 115 | [शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप](#shabad-115) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 115) |
+| 116 | [शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी](#shabad-116) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 116) |
+| 117 | [शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव](#shabad-117) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 117) |
+| 118 | [शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले](#shabad-118) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 118) |
+| 119 | [शब्द 119: खसमु मरै तउ नारि न रोवै](#shabad-119) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 119) |
+| 120 | [शब्द 120: ग्रिहि सोभा जा कै रे नाहि](#shabad-120) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 120) |
+| 121 | [शब्द 121: जैसे मंदर महि बलहर ना ठाहरै](#shabad-121) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 121) |
+| 122 | [शब्द 122: कूटनु सोइ जु मन कउ कूटै](#shabad-122) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 122) |
+| 123 | [शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे](#shabad-123) | काया कलालनि: अंतर में ज्ञान की शराब और रूहानी मस्ती |
+| 124 | [शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा](#shabad-124) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 124) |
+| 125 | [शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी](#shabad-125) | तूं मेरो मेरु परबतु: सुमेरु पर्वत की अटूट ओट |
+| 126 | [शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी](#shabad-126) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 126) |
+| 127 | [शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ](#shabad-127) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 127) |
+| 128 | [शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ](#shabad-128) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 128) |
+| 129 | [शब्द 129: जिह सिमरनि होइ मुकति दुआरु](#shabad-129) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 129) |
+| 130 | [शब्द 130: बंधचि बंधनु पाइआ](#shabad-130) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 130) |
+| 131 | [शब्द 131: चंदु सूरजु दुइ जोति सरूपु](#shabad-131) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 131) |
+| 132 | [शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई](#shabad-132) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 132) |
+| 133 | [शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज](#shabad-133) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 133) |
+| 134 | [शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु](#shabad-134) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 134) |
+| 135 | [शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े](#shabad-135) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 135) |
+| 136 | [शब्द 136: रामु सिमरु पछुताहिगा मन](#shabad-136) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 136) |
+| 137 | [शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी](#shabad-137) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 137) |
+| 138 | [शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ](#shabad-138) | सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 138) |
+| 139 | [शब्द 139: इहु धनु मेरे हरि को नाउ](#shabad-139) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 139) |
+| 140 | [शब्द 140: गुर सेवा ते भगति कमाई](#shabad-140) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 140) |
+| 141 | [शब्द 141: सिव की पुरी बसै बुधि सारु](#shabad-141) | प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 141) |
+| 142 | [शब्द 142: जल महि मीन माइआ के बेधे](#shabad-142) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 142) |
+| 143 | [शब्द 143: सतरि सैइ सलार है जा के](#shabad-143) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 143) |
+| 144 | [शब्द 144: किउ लीजै गढु बंका भाई](#shabad-144) | किउ लीजै गढु बंका भाई: मन रूपी दुर्ग की विजय |
+| 145 | [शब्द 145: अगम द्रुगम गड़ि रचिओ बास](#shabad-145) | मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 145) |
+| 146 | [शब्द 146: कोटि सूर जा कै परगास](#shabad-146) | बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 146) |
+| 147 | [शब्द 147: जोइ खसमु है जाइआ](#shabad-147) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 147) |
+| 148 | [शब्द 148: इसु तन मन मधे मदन चोर](#shabad-148) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 148) |
+| 149 | [शब्द 149: नाइकु एकु बनजारे पाच](#shabad-149) | माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 149) |
+| 150 | [शब्द 150: सुरह की जैसी तेरी चाल](#shabad-150) | सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 150) |
 
 ---
 
 <a name="shabad-1"></a>
 ## शब्द 1: जननी जानत सुतु बडा होतु है
-**English Title:** Shabad 1: Jananaee Jaanata Sautau Badaa Haotau Haai
+**English Title:** The Mother's Fondness and Diminishing Life: The Angel of Death Smiles
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -214,23 +214,28 @@ hukamu (hukamu) pachhaani (pachhaani) ta (upon that/his) khasamai (Master, the D
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जननी जानत सुतु बडा होतु है इतना कु न जानै जि दिन दिन अवध घटतु है—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+माता समझती है कि मेरा बेटा दिन-प्रतिदिन बड़ा हो रहा है, किंतु यह नहीं जानती कि उसकी आयु घटती जा रही है;
+'मेरा-मेरा' कहकर वह लाड लड़ाती है, और उधर खड़ा यमराज उसके अज्ञान पर मंद-मंद हंस रहा है!
+हे प्रभु! तूने संसार को कैसी माया के भ्रम में डाल दिया है; जब तक माया का मोह है, तब तक जीव सत्य को कैसे समझे?
+कबीर कहते हैं कि विषय-रस को छोड़ो, प्रभु का भजन करो; इस अमृत वाणी से ही भवसागर पार हुआ जा सकता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jananeejaanatasutubadaahotuhaiitanaakunajaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+The fond mother thinks her beloved son grows taller day by day, yet knows not that life is slipping away;
+Crying 'Mine, all mine!' she showers tender caresses, while the Angel of Death smiles upon his prey!
+O Sovereign Lord, what deep illusion hast Thou cast upon this mortal sphere;
+How can the soul perceive the Truth when drowned in earthly attachment and fear?
+Says Kabir: Renounce the poisonous pleasures of the senses, adore the indwelling Beloved Lord;
+By taking shelter in the celestial Ambrosial Name, the ocean of existence is safely crossed.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 1: जननी जानत सुतु बडा होतु है'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 1 का दार्शनिक विश्लेषण
+यह शब्द कबीर के दार्शनिक चिंतन का प्रारंभिक सोपान है। वात्सल्य प्रेम की आड़ में छिपी काल की छाया को कबीर ने अत्यंत मार्मिकता से उजागर किया है। माता जिसे जीवन की वृद्धि समझती है, वह वास्तव में मृत्यु की ओर अग्रसर होना है। 'रहाउ' में कबीर माया के सर्वग्रासी प्रभाव को रेखांकित करते हैं।
 
 ---
 
 <a name="shabad-2"></a>
 ## शब्द 2: नगन फिरत जौ पाईऐ जोगु
-**English Title:** Shabad 2: Nagana Phairata Jaau Paaeeai Jaogau
+**English Title:** Futility of Nudity and Tonsure: The Inner Lord Alone Liberates
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -277,25 +282,30 @@ raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-यदि नंगे घूमने से ही प्रभु-योग मिल जाता,
-तो वन का प्रत्येक हिरन सहज ही मुक्त हो जाता।
-क्या नंगे रहना और क्या चमड़े के वस्त्र धारण करना,
-जब तक अंतरात्मा में प्रभु-राम को नहीं पहचाना।
+यदि नंगे घूमने से ही प्रभु-योग की प्राप्ति हो जाती, तो वन का प्रत्येक हिरन सहज ही मुक्त हो जाता;
+क्या नंगे रहना और क्या चमड़े के वस्त्र धारण करना, जब तक अंतरात्मा में प्रभु-राम को नहीं पहचाना!
+यदि सिर मुंडाने से ही सिद्धि मिल जाती, तो संसार की समस्त भेड़ें कब की वैकुंठ चली गई होतीं;
+कबीर पुकार कर कहते हैं—हे भाइयो! बिना राम-नाम के स्मरण के आज तक किसने परम गति पाई है?
 
 #### 🇬🇧 Lyrical English Verse Translation
-If roaming naked were the way to attain union with the Divine,
-Then every wild deer of the forest would easily cross liberation's line.
-What matters shedding clothes, or wearing deer-skins so fine,
+If roaming naked were the way to attain union with the Divine Lord above;
+Then every wild deer of the forest would easily cross into liberation through love;
+What matters shedding clothes or wearing deerskins upon the frame so fine;
 If the inner soul has not recognized the indwelling Beloved Divine?
+If shaving the head could grant spiritual perfection and break the karmic bond;
+Why has not every shorn sheep attained the eternal paradise beyond?
+Says Kabir: Hearken O wandering brethren, let all false asceticism cease;
+Without the saving sweetness of the Divine Name, who has ever found everlasting peace?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir systematically deconstructs external asceticism and superficial physical mortification. True spirituality is an inward transformation of consciousness and love, rather than theatrical external displays such as renouncing clothing or shaving heads.
+### श्री गुरु ग्रंथ साहिब: शब्द 2 का दार्शनिक विश्लेषण
+कबीर बाह्य संन्यास और शारीरिक तपस्या (नग्नता, मुंडन, ब्रह्मचर्य के पाखंड) का तीखा उपहास करते हैं। वे स्पष्ट करते हैं कि बाह्य क्रियाएं पशुओं में भी पाई जाती हैं; वास्तविक आध्यात्मिकता अंतःकरण की शुद्धि और आत्म-साक्षात्कार में है।
 
 ---
 
 <a name="shabad-3"></a>
 ## शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा
-**English Title:** Shabad 3: Kaiaa Japau Kaiaa Tapau Kaiaa Barata Paoojaa
+**English Title:** Chanting and Fasting in Duality Are Vain: Innocent Love Attains the Lord
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -342,23 +352,28 @@ bhole (bhole) bhaai (bhaai) mile (to obtain) raghuraaia (raghuraaia) . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! किआ जपु किआ तपु किआ ब्रत पूजा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+क्या जप, क्या तप, क्या व्रत और क्या पूजा, जब तक हृदय के भीतर द्वैत और परायापन समाया है;
+हे मानव! अपने मन को उस परमात्मा से जोड़, सांसारिक चतुराई से चतुर्भुज भगवान कभी नहीं मिलते!
+लोभ और लोकाचार को त्याग दे, काम, क्रोध और अहंकार को विसर्जित कर दे;
+कबीर कहते हैं कि निष्कपट भक्ति से ही प्रभु मिलते हैं, भोले-भाले सच्चे प्रेम से ही रघुनाथ का साक्षात्कार होता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kiaajapukiaatapukiaabratapooja—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+What use are mechanical chants, penances, fasts, or ritual displays;
+When the secret heart harbors duality and wanders in selfish ways?
+O seeker, anchor thy restless mind to the Madhava supreme and whole;
+By clever worldly intellect the Four-Armed Lord can never be won by the soul!
+Cast away all greed, societal hypocrisy, lust, wrath, and prideful art;
+Says Kabir, through innocent devotion alone the Lord is found within the surrendered heart.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 3 का दार्शनिक विश्लेषण
+कबीर धार्मिक कर्मकांडों के पीछे छिपे पाखंड को उजागर करते हैं। ईश्वर बौद्धिक तर्कों या चतुराई का विषय नहीं है, वह 'भोले भाव' (निश्छल प्रेम) से ही प्राप्त होता है।
 
 ---
 
 <a name="shabad-4"></a>
 ## शब्द 4: गरभ वास महि कुलु नही जाती
-**English Title:** Shabad 4: Garabha Vaasa Mahai Kaulau Nahaee Jaataee
+**English Title:** Deconstructing Caste Hierarchy: Blood in Our Veins, Milk in Thine?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -405,23 +420,33 @@ so (that/the same) braahamanu (braahamanu) kaheeatu (it is said) hai (is) hamaar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गरभ वास महि कुलु नही जाती—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+माता के गर्भ-वास में न कोई कुल था, न कोई जाति थी; उस एक ब्रह्म-बिंदु से ही समस्त मानव जाति की उत्पत्ति हुई है;
+हे पंडित! तू बता कि तू कब से ब्राह्मण बन गया? ब्राह्मण-ब्राह्मण कहकर अपना अनमोल जीवन मत गंवा!
+यदि तू वास्तव में ब्राह्मणी का जना ब्राह्मण है, तो तू किसी दूसरे विशेष मार्ग से जन्म लेकर क्यों नहीं आया?
+तुम कैसे ब्राह्मण और हम कैसे शूद्र? क्या हमारी नसों में केवल लहू बहता है और तुम्हारी नसों में दूध?
+कबीर कहते हैं कि जो उस परब्रह्म का विचार करता है, वही हमारे दरबार में सच्चा ब्राह्मण कहलाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! garabhavaasamahikulunaheejaatee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In the dark sanctuary of the mother's womb, neither caste nor clan took root;
+From the single divine seed the entire human race blossomed as fruit;
+Tell me O learned scholar, since when didst thou become a Brahmin proud and high?
+Squander not thy mortal life repeating thy caste beneath the sky!
+If thou art truly a Brahmin born of a Brahmin mother from above;
+Why didst thou not arrive by some other noble avenue of love?
+How art thou a noble priest and how are we the outcast base?
+Is there red blood in our veins, and white milk flowing in thy race?
+Says Kabir: He alone who contemplates the Supreme Brahman day and night;
+Is acknowledged as a true Brahmin in our court of holy light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 4: गरभ वास महि कुलु नही जाती'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 4 का दार्शनिक विश्लेषण
+जाति-व्यवस्था पर किया गया यह विश्व-साहित्य का सबसे क्रांतिकारी और तर्कपूर्ण प्रहार है। जन्म की समानता, रक्त की एकरूपता और आत्म-ज्ञान को ही श्रेष्ठता का एकमात्र आधार बताकर कबीर ने सामाजिक समता का अमर घोषणापत्र दिया।
 
 ---
 
 <a name="shabad-5"></a>
 ## शब्द 5: अवर मूए किआ सोगु करीजै
-**English Title:** Shabad 5: Avara Maooe Kaiaa Saogau Karaeejaai
+**English Title:** The World's Mortality: One Well, Five Water-Bearers, and the Broken Rope
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -468,23 +493,30 @@ na (not) ohu (that Lord/soul) kooata (kooata) na (not) panihaaree (panihaaree) .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अवर मूए किआ सोगु करीजै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+औरों के मरने पर क्या शोक मनाना, शोक तो तब करो जब स्वयं तुम्हें अमर रहना हो;
+मैं तो कभी नहीं मरूँगा, मरेगा तो यह अज्ञानी संसार; क्योंकि मुझे तो जीवनदाता परमात्मा मिल चुका है!
+शरीर रूपी एक कुआं है और पांच इंद्रियां पनिहारिनें बनकर उसमें से निरंतर विषय-जल भर रही हैं;
+जब सांसों की रस्सी टूट जाती है तो बुद्धि हारी रह जाती है; कबीर कहते हैं कि आत्मज्ञान होने पर न कुआं रहता है न पनिहारी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! avaramooekiaasogukareejai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+Why mourn with bitter tears when others depart from mortal sight;
+Mourn only if thou thyself art destined to live forever in the light!
+I shall never perish, the blind world alone shall die and pass away;
+For I have met the deathless Giver of Life who turns the night to day!
+The body is a fragile well, and the five senses are water-bearers bold;
+The rope of breaths has snapped, leaving the intellect helpless in the cold;
+Says Kabir, when illumined consciousness dawns upon the soul's domain;
+Neither the earthen well nor the weary water-bearers remain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 5: अवर मूए किआ सोगु करीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 5 का दार्शनिक विश्लेषण
+कबीर मृत्यु के रहस्य को उद्घाटित करते हैं। शरीर और इंद्रियां नश्वर हैं, किंतु आत्मा अमर है। 'एक कुआं और पांच पनिहारिनें' शरीर और पंच-इंद्रियों का प्रसिद्ध रूपक है।
 
 ---
 
 <a name="shabad-6"></a>
 ## शब्द 6: जिह कुलि पूतु न गिआन बीचारी
-**English Title:** Shabad 6: Jaiha Kaulai Paootau Na Gaiaana Baeechaaraee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 6)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -525,23 +557,26 @@ naam (Divine Name) bina (without) jaise (just as) kubaj (kubaj) kuroop (kuroop) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिह कुलि पूतु न गिआन बीचारी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिह कुलि पूतु न गिआन बीचारी'—
+रहाउ: जनमत कस न मुओ अपराधी १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jihakulipootunagiaanabeechaaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 6: जिह कुलि पूतु न गिआन बीचारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 6 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 6)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-7"></a>
 ## शब्द 7: जो जन लेहि खसम का नाउ
-**English Title:** Shabad 7: Jao Jana Laehai Khasama Kaa Naau
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 7)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -582,23 +617,26 @@ sahaji (in spontaneous poise) sahaji (in spontaneous poise) gun (virtues/divine 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जो जन लेहि खसम का नाउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जो जन लेहि खसम का नाउ'—
+रहाउ: सो भाई मेरै मनि भावै १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jojanalehikhasamakaanaau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 7: जो जन लेहि खसम का नाउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 7 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 7)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-8"></a>
 ## शब्द 8: ओइ जु दीसहि अम्बरि तारे
-**English Title:** Shabad 8: Oi Jau Daeesahai Amabarai Taarae
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 8)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -639,23 +677,26 @@ hiradai (in the heart) raamu (Lord Rama's related) mukhi (face (in/having done))
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ओइ जु दीसहि अम्बरि तारे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ओइ जु दीसहि अम्बरि तारे'—
+रहाउ: बूझै बूझनहारु सभागा १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! oijudeesahiambaritaare—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 8: ओइ जु दीसहि अम्बरि तारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 8 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 8)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-9"></a>
 ## शब्द 9: बेद की पुत्री सिम्रिति भाई
-**English Title:** Shabad 9: Baeda Kaee Pautaraee Saimaraitai Bhaaee
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 9)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -696,23 +737,26 @@ kahu (tell) kabeer (Sant Kabir) mai (I/by me) raam (The All-Pervading Lord (Ram)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बेद की पुत्री सिम्रिति भाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बेद की पुत्री सिम्रिति भाई'—
+रहाउ: मोह कै फाधि काल सरु सांधिआ १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bedakeeputreesimritibhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 9: बेद की पुत्री सिम्रिति भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 9 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 9)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-10"></a>
 ## शब्द 10: देइ मुहार लगामु पहिरावउ
-**English Title:** Shabad 10: Daei Mauhaara Lagaamau Pahairaavau
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 10)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -753,23 +797,26 @@ bed (Vedas) kateb (holy scriptures) te (from/by) rahahi (rahahi) niraara (niraar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! देइ मुहार लगामु पहिरावउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'देइ मुहार लगामु पहिरावउ'—
+रहाउ: सहज कै पावड़ै पगु धरि लीजै १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! deimuhaaralagaamupahiraavau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 10: देइ मुहार लगामु पहिरावउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 10 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 10)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-11"></a>
 ## शब्द 11: आपे पावकु आपे पवना
-**English Title:** Shabad 11: Aapae Paavakau Aapae Pavanaa
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 11)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -810,23 +857,26 @@ hoiga (hoiga) khasamu (Master, the Divine Spouse) t (then indeed) leiga (leiga) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! आपे पावकु आपे पवना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'आपे पावकु आपे पवना'—
+रहाउ: राम नाम चितु रहिआ समाइ १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! aapepaavakuaapepavana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 11: आपे पावकु आपे पवना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 11 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 11)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-12"></a>
 ## शब्द 12: जिह सिरि रचि रचि बाधत पाग
-**English Title:** Shabad 12: Jaiha Sairai Rachai Rachai Baadhata Paaga
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 12)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -861,23 +911,26 @@ ihee (these) havaal (havaal) hohige (hohige) tere (in Your) . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिह सिरि रचि रचि बाधत पाग—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिह सिरि रचि रचि बाधत पाग'—
+रहाउ: राम नामु काहे न द्रिड़्हीआ १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jihasirirachirachibaadhatapaaga—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 12: जिह सिरि रचि रचि बाधत पाग'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 12 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 12)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-13"></a>
 ## शब्द 13: रे जीअ निलज लाज तोहि नाही
-**English Title:** Shabad 13: Rae Jaeea Nailaja Laaja Taohai Naahaee
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 13)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -930,23 +983,26 @@ ja (whose/when) ke (of) hiradai (in the heart) avaru (another/any other) n (not)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! रे जीअ निलज लाज तोहि नाही—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'रे जीअ निलज लाज तोहि नाही'—
+रहाउ: हरि तजि कत काहू के जांही १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! rejeeanilajalaajatohinaahee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 13: रे जीअ निलज लाज तोहि नाही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 13 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 13)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-14"></a>
 ## शब्द 14: कउनु को पूतु पिता को का को
-**English Title:** Shabad 14: Kaunau Kao Paootau Paitaa Kao Kaa Kao
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 14)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -987,23 +1043,26 @@ gaee (became) thagauree (thagauree) thagu (thagu) pahichaania (pahichaania) . . 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कउनु को पूतु पिता को का को—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कउनु को पूतु पिता को का को'—
+रहाउ: हरि के बिओग कैसे जीअउ मेरी माई १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kaunukopootupitaakokaako—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 14: कउनु को पूतु पिता को का को'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 14 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 14)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-15"></a>
 ## शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई
-**English Title:** Shabad 15: Jalai Haai Saootakau Thalai Haai Saootakau Saootaka
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 15)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1044,23 +1103,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) raamu (Lord Rama's related) ridai (in 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जलि है सूतकु थलि है सूतकु सूतक ओपति होई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जलि है सूतकु थलि है सूतकु सूतक ओपति होई'—
+रहाउ: ऐसा गिआनु जपहु मेरे मीता १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jalihaisootakuthalihaisootakusootakaopatihoee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 15 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 15)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-16"></a>
 ## शब्द 16: झगरा एकु निबेरहु राम
-**English Title:** Shabad 16: Jhagaraa Ekau Naibaerahau Raama
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 16)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1101,23 +1163,26 @@ teerathu (pilgrimage shrine) bada (great/large) ki (or is it) hari (The Lord who
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! झगरा एकु निबेरहु राम—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'झगरा एकु निबेरहु राम'—
+रहाउ: जउ तुम अपने जन सौ कामु १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jhagaraaekuniberahuraama—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 16: झगरा एकु निबेरहु राम'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 16 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 16)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-17"></a>
 ## शब्द 17: देखौ भाई ग्यान की आई आंधी
-**English Title:** Shabad 17: Daekhaau Bhaaee Gayaana Kaee Aaee Aandhaee
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 17)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1152,23 +1217,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) mani (in the mind) bhaia (became) prag
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! देखौ भाई ग्यान की आई आंधी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'देखौ भाई ग्यान की आई आंधी'—
+रहाउ: सभै उडानी भ्रम की टाटी रहै न माइआ बांधी १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! dekhaubhaaeegyaanakeeaaeeaandhee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 17: देखौ भाई ग्यान की आई आंधी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 17 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 17)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-18"></a>
 ## शब्द 18: हरि जसु सुनहि न हरि गुन गावहि
-**English Title:** Shabad 18: Harai Jasau Saunahai Na Harai Gauna Gaavahai
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 18)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1227,23 +1295,26 @@ tin (they/them) kau (unto) dekhi (beholding related) kabeer (Sant Kabir) lajaane
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हरि जसु सुनहि न हरि गुन गावहि—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हरि जसु सुनहि न हरि गुन गावहि'—
+रहाउ: जो प्रभ कीए भगति ते बाहज तिन ते सदा डराने रहीऐ १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! harijasusunahinaharigunagaavahi—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 18: हरि जसु सुनहि न हरि गुन गावहि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 18 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 18)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-19"></a>
 ## शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही
-**English Title:** Shabad 19: Jaeevata Paitara Na Maanaai Kaooo Maooen Sairaa
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 19)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1290,23 +1361,26 @@ kahat (speaking/saying) kabeer (Sant Kabir) akulu (akulu) nahee (not) chetia (ch
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जीवत पितर न मानै कोऊ मूएं सिराध कराही—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जीवत पितर न मानै कोऊ मूएं सिराध कराही'—
+रहाउ: कुसलु कुसलु करते जगु बिनसै कुसलु भी कैसे होई १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jeevatapitaranamaanaikooomooensiraadhakaraahee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 19 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 19)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-20"></a>
 ## शब्द 20: राम जपउ जीअ ऐसे ऐसे
-**English Title:** Shabad 20: Raama Japau Jaeea Aisae Aisae
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 20)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1353,23 +1427,26 @@ uravaari (this mortal shore) paari (across the ocean of rebirth, ultimate libera
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! राम जपउ जीअ ऐसे ऐसे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'राम जपउ जीअ ऐसे ऐसे'—
+रहाउ: सभु परवारु चड़ाइआ बेड़े १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raamajapaujeeaaiseaise—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 20: राम जपउ जीअ ऐसे ऐसे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 20 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 20)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-21"></a>
 ## शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु
-**English Title:** Shabad 21: Sauraga Baasau Na Baachhaeeai Daraeeai Na Narakai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 21)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1416,23 +1493,26 @@ sevak (devoted servant) so (that/the same) seva (devoted service) bhale (bhal (s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु'—
+रहाउ: जा ते पाईऐ परम निधानु १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! suragabaasunabaachheeaidareeainanarakinivaasu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 21 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 21)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-22"></a>
 ## शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु
-**English Title:** Shabad 22: Rae Mana Taerao Kaoi Nahaee Khainchai Laei Ja
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 22)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1473,23 +1553,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) chiti (consciousness/attention) chetia
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु'—
+रहाउ: जिह रस बिसरि गए रस अउर १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! remanaterokoinaheekhinchileijinibhaaru—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 22 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 22)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-23"></a>
 ## शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे
-**English Title:** Shabad 23: Mana Rae Chhaadahau Bharamau Paragata Haoi Naacha
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 23)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1524,23 +1607,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) raaja (realm/kingdom related) raam (Th
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे'—
+रहाउ: अब तउ जरे मरे सिधि पाईऐ लीनो हाथि संधउरा १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! manarechhaadahubharamupragatahoinaachahuiaamaaia—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 23 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 23)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-24"></a>
 ## शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे
-**English Title:** Shabad 24: Lakha Chauraasaeeha Jaeea Jaonai Mahai Bharamata
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 24)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1575,23 +1661,26 @@ kabeer (Sant Kabir) ko (unto/toward) suaamee (Lord/Master) aiso (aiso) thaakuru 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे'—
+रहाउ: धरनि अकासु दसो दिस नाही तब इहु नंदु कहा थो रे १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! lakhachauraaseehajeeajonimahibhramatanandubahuth—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 24 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 24)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-25"></a>
 ## शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ
-**English Title:** Shabad 25: Naindau Naindau Mao Kau Laogau Naindau
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 25)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1653,23 +1742,26 @@ nindaku (scoffer/slanderer) dooba (dooba) ham (we mortal beings) utare (utare) p
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! निंदउ निंदउ मो कउ लोगु निंदउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'निंदउ निंदउ मो कउ लोगु निंदउ'—
+रहाउ: निंदा बापु निंदा महतारी १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! nindaunindaumokaulogunindau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 25 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 25)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-27"></a>
 ## शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई
-**English Title:** Shabad 27: Haindaoo Tauraka Kahaa Tae Aae Kainai Eha Ra
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 27)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1716,23 +1808,26 @@ kabeerai (Sant Kabir) pakaree (pakaree) tek (refrain, central thematic anchor) r
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हिंदू तुरक कहा ते आए किनि एह राह चलाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हिंदू तुरक कहा ते आए किनि एह राह चलाई'—
+रहाउ: पड़्हत गुनत ऐसे सभ मारे किनहूं खबरि न जानी १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! hindooturakakahaateaaekinieharaahachalaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 27 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 27)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-28"></a>
 ## शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥
-**English Title:** Shabad 28: Jaba Lagau Taelau Daeevae Maukhai Baataee Taba
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 28)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1779,23 +1874,26 @@ isu (this) bande (beings, servants of God) siri (head related) julamu (julamu) h
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई'—
+रहाउ: तूं राम नामु जपि सोई १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jabalaguteludeevemukhibaateetabasoojhaisabhuk—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 28 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 28)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-29"></a>
 ## शब्द 29: सुतु अपराध करत है जेते
-**English Title:** Shabad 29: Sautau Aparaadha Karata Haai Jaetae
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 29)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1842,23 +1940,26 @@ sahaji (in spontaneous poise) sahaji (in spontaneous poise) gun (virtues/merits)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सुतु अपराध करत है जेते—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सुतु अपराध करत है जेते'—
+रहाउ: काहे न खंडसि अवगनु मेरा १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sutuaparaadhakaratahaijete—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 29: सुतु अपराध करत है जेते'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 29 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 29)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-30"></a>
 ## शब्द 30: हज हमारी गोमती तीर
-**English Title:** Shabad 30: Haja Hamaaraee Gaomataee Taeera
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 30)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1905,23 +2006,26 @@ hindoo (Hindu) turak (Muslim/Turk) dooo (both) samajhaavau (samajhaavau) . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हज हमारी गोमती तीर—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हज हमारी गोमती तीर'—
+रहाउ: हरि का नामु मेरै मनि भावता है १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! hajahamaareegomateeteera—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 30: हज हमारी गोमती तीर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 30 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 30)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-31"></a>
 ## शब्द 31: पाती तोरै मालिनी पाती पाती जीउ
-**English Title:** Shabad 31: Paataee Taoraai Maalainaee Paataee Paataee Jaeeu
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 31)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1974,23 +2078,26 @@ kahu (tell) kabeer (Sant Kabir) ham (we mortal beings) raam (The All-Pervading L
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! पाती तोरै मालिनी पाती पाती जीउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'पाती तोरै मालिनी पाती पाती जीउ'—
+रहाउ: सतिगुरु जागता है देउ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! paateetoraimaalineepaateepaateejeeu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 31: पाती तोरै मालिनी पाती पाती जीउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 31 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 31)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-32"></a>
 ## शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ
-**English Title:** Shabad 32: Baaraha Barasa Baalapana Baeetae Baeesa Barasa Kachha
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 32)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2043,23 +2150,26 @@ aaee (has come) talab (talab) gopaal (gopaal (spiritual sense)) raai (raai (spir
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ'—
+रहाउ: साइरु सोखि भुजं बलइओ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! baarahabarasabaalapanabeetebeesabarasakachhutapunakee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 32 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 32)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-33"></a>
 ## शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा
-**English Title:** Shabad 33: Kaahaoo Daeenahae Paata Patamabara Kaahaoo Pala
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 33)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2112,23 +2222,26 @@ chiragat (chiragat) phaari (phaar (spiritual sense)) chataara (chataara) lai (br
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! काहू दीन्हे पाट पट्मबर काहू पलघ निवारा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'काहू दीन्हे पाट पट्मबर काहू पलघ निवारा'—
+रहाउ: सुक्रितु करि करि लीजै रे मन १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kaahoodeenhepaatapatmabarakaahoopalaghanivaara—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 33 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 33)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-34"></a>
 ## शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै
-**English Title:** Shabad 34: Hama Masakaeena Khaudaaee Bandae Tauma Raajasau
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 34)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2178,23 +2291,26 @@ kahai (chants) kabeera (Sant Kabir) bhisat (bhisat) chhodi (chhodi) kari (having
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हम मसकीन खुदाई बंदे तुम राजसु मनि भावै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हम मसकीन खुदाई बंदे तुम राजसु मनि भावै'—
+रहाउ: काजी बोलिआ बनि नही आवै १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! hamamasakeenakhudaaeebandetumaraajasumanibhaavai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 34 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 34)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-35"></a>
 ## शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना
-**English Title:** Shabad 35: Gagana Nagarai Ika Baoonda Na Barakhaai Naadau Ka
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 35)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2247,23 +2363,26 @@ kahat (speaking/saying) kabeera (Sant Kabir) jo (that) hari (The Lord who dispel
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गगन नगरि इक बूंद न बरखै नादु कहा जु समाना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'गगन नगरि इक बूंद न बरखै नादु कहा जु समाना'—
+रहाउ: सुरति माहि जो निरते करते कथा बारता कहते १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! gagananagariikaboondanabarakhainaadukahaajusamaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 35 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 35)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-36"></a>
 ## शब्द 36: सरपनी ते ऊपरि नही बलीआ
-**English Title:** Shabad 36: Sarapanaee Tae Ooparai Nahaee Balaeeaa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 36)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2316,23 +2435,26 @@ gur (of the Master) prasaadi (divine grace (in/having done)) sahaji (in spontane
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सरपनी ते ऊपरि नही बलीआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सरपनी ते ऊपरि नही बलीआ'—
+रहाउ: जिनि त्रिभवणु डसीअले गुर प्रसादि डीठी १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sarapaneeteooparinaheebaleea—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 36: सरपनी ते ऊपरि नही बलीआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 36 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 36)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-37"></a>
 ## शब्द 37: कहा सुआन कउ सिम्रिति सुनाए
-**English Title:** Shabad 37: Kahaa Sauaana Kau Saimaraitai Saunaae
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 37)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2385,23 +2507,26 @@ kahat (speaking/saying) kabeer (Sant Kabir) ua (ua) ko (unto/toward) sahaju (spo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कहा सुआन कउ सिम्रिति सुनाए—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कहा सुआन कउ सिम्रिति सुनाए'—
+रहाउ: साकत सिउ भूलि नही कहीऐ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kahaasuaanakausimritisunaae—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 37: कहा सुआन कउ सिम्रिति सुनाए'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 37 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 37)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-38"></a>
 ## शब्द 38: लंका सा कोटु समुंद सी खाई
-**English Title:** Shabad 38: Lankaa Saa Kaotau Samaunda Saee Khaaee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 38)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2454,23 +2579,26 @@ raam (The All-Pervading Lord (Ram)) naam (Divine Name) binu (without/devoid of) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! लंका सा कोटु समुंद सी खाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'लंका सा कोटु समुंद सी खाई'—
+रहाउ: देखत नैन चलिओ जगु जाई १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! lankaasaakotusamundaseekhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 38: लंका सा कोटु समुंद सी खाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 38 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 38)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-39"></a>
 ## शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे
-**English Title:** Shabad 39: Hama Gharai Saootau Tanahai Naita Taanaa Kanthai
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 39)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2511,23 +2639,26 @@ tumh (You/Thou) tau (then/still) jaache (jaache) bhoopati (bhoopati) raaje (real
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे'—
+रहाउ: जम दुआर जब पूछसि बवरे तब किआ कहसि मुकंदा १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! hamagharisootutanahinitataanaakanthijaneootuma—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 39 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 39)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-40"></a>
 ## शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै
-**English Title:** Shabad 40: Raojaa Dharaai Manaavaai Alahau Sauaadatai Jaeea
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 40)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2568,23 +2699,26 @@ hindoo (Hindu) turak (Muslim/Turk) duhoon (duhoon) mahi (within/in) ekai (equal 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! रोजा धरै मनावै अलहु सुआदति जीअ संघारै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'रोजा धरै मनावै अलहु सुआदति जीअ संघारै'—
+रहाउ: खबरि न करहि दीन के बउरे ता ते जनमु अलेखै १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! rojaadharaimanaavaialahusuaadatijeeasanghaarai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 40 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 40)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-41"></a>
 ## शब्द 41: करवतु भला न करवट तेरी
-**English Title:** Shabad 41: Karavatau Bhalaa Na Karavata Taeraee
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 41)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2631,23 +2765,26 @@ ab (now) tumaree (tumaree) parateeti (parateeti) n (not) hoee (transpired) . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! करवतु भला न करवट तेरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'करवतु भला न करवट तेरी'—
+रहाउ: करवटु दे मो कउ काहे कउ मारे १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! karavatubhalaanakaravatateree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 41: करवतु भला न करवट तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 41 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 41)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-42"></a>
 ## शब्द 42: कोरी को काहू मरमु न जानां
-**English Title:** Shabad 42: Kaoraee Kao Kaahaoo Maramau Na Jaanaan
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 42)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2694,23 +2831,26 @@ sootai (sootai) soot (soot) milaae (milaae) koree (koree) . . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कोरी को काहू मरमु न जानां—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कोरी को काहू मरमु न जानां'—
+रहाउ: सभु जगु आनि तनाइओ तानां १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! koreekokaahoomaramunajaanaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 42: कोरी को काहू मरमु न जानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 42 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 42)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-43"></a>
 ## शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां
-**English Title:** Shabad 43: Antarai Maailau Jae Taeeratha Naavaai Taisau Ba
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 43)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2757,23 +2897,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) nar (man/mortal) tisahi (tisahi) dhiaa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां'—
+रहाउ: साचा नावणु गुर की सेवा १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! antarimailujeteerathanaavaitisubaikunthanaja—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 43 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 43)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-44"></a>
 ## शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै
-**English Title:** Shabad 44: Chaarai Paava Daui Sainga Gaunga Maukha Taba
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 44)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2820,23 +2963,26 @@ kahat (speaking/saying) kabeer (Sant Kabir) raam (The All-Pervading Lord (Ram)) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै'—
+रहाउ: फाटे नाकन टूटे काधन कोदउ को भुसु खईहै १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! chaaripaavaduisingagungamukhatabakaisegunag—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 44 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 44)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-45"></a>
 ## शब्द 45: मुसि मुसि रोवै कबीर की माई
-**English Title:** Shabad 45: Mausai Mausai Raovaai Kabaeera Kaee Maaee
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 45)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2883,23 +3029,26 @@ hamara (our/ours) in (unto all these) ka (of) daata (Supreme Giver/Benefactor) e
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मुसि मुसि रोवै कबीर की माई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मुसि मुसि रोवै कबीर की माई'—
+रहाउ: हरि का नामु लिखि लीओ सरीर १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! musimusirovaikabeerakeemaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 45: मुसि मुसि रोवै कबीर की माई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 45 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 45)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-46"></a>
 ## शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई
-**English Title:** Shabad 46: Bauta Paoojai Paoojai Haindaoo Maooe Tauraka Ma
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 46)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2946,23 +3095,26 @@ hari (The Lord who dispels grief (Hari)) ke (of) naam (Divine Name) binu (withou
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई'—
+रहाउ: चहु दिस पसरिओ है जम जेवरा १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! butapoojipoojihindoomooeturakamooesiruna—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 46 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 46)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-47"></a>
 ## शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई
-**English Title:** Shabad 47: Jaba Jaraeeai Taba Haoi Bhasama Tanau Rahaai Kaira
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 47)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3009,23 +3161,26 @@ jhoothee (jhoothee (spiritual sense)) maaia (cosmic illusion) aapu (oneself) ban
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई'—
+रहाउ: जब दस मास उरध मुख रहता सो दिनु कैसे भूलिआ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jabajareeaitabahoibhasamatanurahaikiramadalakhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 47 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 47)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-48"></a>
 ## शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा
-**English Title:** Shabad 48: Baeda Pauraana Sabhaai Mata Saunai Kaai Karaee Ka
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 48)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3072,23 +3227,26 @@ kahu (tell) kabeer (Sant Kabir) jan (devotee/humble servant) bhae (became) khaal
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बेद पुरान सभै मत सुनि कै करी करम की आसा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बेद पुरान सभै मत सुनि कै करी करम की आसा'—
+रहाउ: भजिओ न रघुपति राजा १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bedapuraanasabhaimatasunikaikareekaramakeeaasa—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 48 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 48)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-49"></a>
 ## शब्द 49: दुइ दुइ लोचन पेखा
-**English Title:** Shabad 49: Daui Daui Laochana Paekhaa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 49)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3159,23 +3317,26 @@ milio (milio) jagajeevan (jagajeevan (spiritual sense)) daata (Supreme Giver/Ben
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! दुइ दुइ लोचन पेखा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'दुइ दुइ लोचन पेखा'—
+रहाउ: जब राम नाम चितु लागा १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! duiduilochanapekha—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 49: दुइ दुइ लोचन पेखा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 49 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 49)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-50"></a>
 ## शब्द 50: जा के निगम दूध के ठाटा
-**English Title:** Shabad 50: Jaa Kae Naigama Daoodha Kae Thaataa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 50)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3246,23 +3407,26 @@ mero (my/mine) gur (of the Master) prasaadi (divine grace (in/having done)) manu
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जा के निगम दूध के ठाटा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जा के निगम दूध के ठाटा'—
+रहाउ: जगजीवन प्रान अधारा १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jaakenigamadoodhakethaata—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 50: जा के निगम दूध के ठाटा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 50 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 50)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-51"></a>
 ## शब्द 51: जिह बाझु न जीआ जाई
-**English Title:** Shabad 51: Jaiha Baajhau Na Jaeeaa Jaaee
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 51)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3333,23 +3497,26 @@ hari (The Lord who dispels grief (Hari)) bhetat (bhetat) aapu (oneself) mitaaia 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिह बाझु न जीआ जाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिह बाझु न जीआ जाई'—
+रहाउ: निज निरखत गत बिउहारा १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jihabaajhunajeeaajaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 51: जिह बाझु न जीआ जाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 51 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 51)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-52"></a>
 ## शब्द 52: किआ पड़ीऐ किआ गुनीऐ
-**English Title:** Shabad 52: Kaiaa Paड़eeai Kaiaa Gaunaeeai
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 52)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3408,23 +3575,26 @@ n (not) pateejai (pateejai) tau (then/still) kia (what) keejai (please do) . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! किआ पड़ीऐ किआ गुनीऐ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'किआ पड़ीऐ किआ गुनीऐ'—
+रहाउ: किआ सोचहि बारं बारा १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kiaapadeeaikiaaguneeai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 52: किआ पड़ीऐ किआ गुनीऐ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 52 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 52)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-53"></a>
 ## शब्द 53: ह्रिदै कपटु मुख गिआनी
-**English Title:** Shabad 53: Haraidaai Kapatau Maukha Gaiaanaee
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 53)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3465,23 +3635,26 @@ bhav (ocean of mortal existence) saagaru (ocean of life) taari (redeem/ferry acr
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ह्रिदै कपटु मुख गिआनी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ह्रिदै कपटु मुख गिआनी'—
+रहाउ: जउ घट भीतरि है मलनां १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! hridaikapatumukhagiaanee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 53: ह्रिदै कपटु मुख गिआनी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 53 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 53)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-54"></a>
 ## शब्द 54: बहु परपंच करि पर धनु लिआवै
-**English Title:** Shabad 54: Bahau Parapancha Karai Para Dhanau Laiaavaai
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 54)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3522,23 +3695,26 @@ hiradai (in the heart) raamu (Lord Rama's related) kee (of) n (not) japahi (chan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बहु परपंच करि पर धनु लिआवै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बहु परपंच करि पर धनु लिआवै'—
+रहाउ: अंति निबेरा तेरे जीअ पहि लीजै १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bahuparapanchakariparadhanuliaavai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 54: बहु परपंच करि पर धनु लिआवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 54 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 54)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-55"></a>
 ## शब्द 55: संतहु मन पवनै सुखु बनिआ
-**English Title:** Shabad 55: Santahau Mana Pavanaai Saukhau Banaiaa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 55)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3585,23 +3761,26 @@ jau (if/when) jaania (jaania) tau (then/still) manu (mind/inner spirit) maania (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! संतहु मन पवनै सुखु बनिआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'संतहु मन पवनै सुखु बनिआ'—
+रहाउ: किछु जोगु परापति गनिआ  रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! santahumanapavanaisukhubania—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 55: संतहु मन पवनै सुखु बनिआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 55 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 55)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-56"></a>
 ## शब्द 56: भूखे भगति न कीजै
-**English Title:** Shabad 56: Bhaookhae Bhagatai Na Kaeejaai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 56)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3672,23 +3851,26 @@ manu (mind/inner spirit) maania (maania) tau (then/still) hari (The Lord who dis
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! भूखे भगति न कीजै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'भूखे भगति न कीजै'—
+रहाउ: आपि न देहु त लेवउ मंगे  रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bhookhebhagatinakeejai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 56: भूखे भगति न कीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 56 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 56)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-57"></a>
 ## शब्द 57: सनक सनंद महेस समानां
-**English Title:** Shabad 57: Sanaka Sananda Mahaesa Samaanaan
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 57)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3732,23 +3914,26 @@ pag (foot) lagi (attached to/until) raam (The All-Pervading Lord (Ram)) rahai (m
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सनक सनंद महेस समानां—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सनक सनंद महेस समानां'—
+रहाउ: संतसंगति रामु रिदै बसाई १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sanakasanandamahesasamaanaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 57: सनक सनंद महेस समानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 57 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 57)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-58"></a>
 ## शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै
-**English Title:** Shabad 58: Daina Tae Pahara Pahara Tae Gharaeeaan Aava Ghataai
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 58)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3789,23 +3974,26 @@ keval (solely/pure) naamu (True Name) japahu (chanting/meditation (from/by)) re 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै'—
+रहाउ: मात पिता भाई सुत बनिता कहहु कोऊ है का का १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! dinatepaharapaharateghareeaanaavaghataitanuchheejai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 58 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 58)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-59"></a>
 ## शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो
-**English Title:** Shabad 59: Jao Janau Bhaau Bhagatai Kachhau Jaanaai Taa Kau
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 59)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3840,23 +4028,26 @@ kia (what) kaasee (kaasee (spiritual sense)) kia (what) ookharu (ookharu) magaha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो'—
+रहाउ: जउ तनु कासी तजहि कबीरा रमईऐ कहा निहोरा १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jojanubhaaubhagatikachhujaanaitaakauacharajukaah—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 59 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 59)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-60"></a>
 ## शब्द 60: इंद्र लोक सिव लोकहि जैबो
-**English Title:** Shabad 60: Indara Laoka Saiva Laokahai Jaaibao
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 60)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3903,23 +4094,26 @@ hamarai (hamarai) man (mind/inner consciousness) dhan (wealth) raam (The All-Per
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! इंद्र लोक सिव लोकहि जैबो—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'इंद्र लोक सिव लोकहि जैबो'—
+रहाउ: राम नाम रखु मन माही १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! indralokasivalokahijaibo—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 60: इंद्र लोक सिव लोकहि जैबो'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 60 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 60)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-61"></a>
 ## शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई
-**English Title:** Shabad 61: Raama Saimarai Raama Saimarai Raama Saimarai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 61)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3966,23 +4160,26 @@ gur (of the Master) prasaadi (divine grace (in/having done)) jan (devotee/humble
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! राम सिमरि राम सिमरि राम सिमरि भाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'राम सिमरि राम सिमरि राम सिमरि भाई'—
+रहाउ: राम नाम सिमरन बिनु बूडते अधिकाई १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raamasimariraamasimariraamasimaribhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 61 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 61)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-62"></a>
 ## शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ
-**English Title:** Shabad 62: Baeda Kataeba Iphataraa Bhaaee Daila Kaa Phaikara
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 62)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4029,23 +4226,26 @@ kabeer (Sant Kabir) karamu (rituals related) kareem (Bountiful Lord) ka (of) uhu
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बेद कतेब इफतरा भाई दिल का फिकरु न जाइ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बेद कतेब इफतरा भाई दिल का फिकरु न जाइ'—
+रहाउ: इह जु दुनीआ सिहरु मेला दसतगीरी नाहि १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bedakatebaiphataraabhaaeedilakaaphikarunajaai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 62 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 62)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-63"></a>
 ## शब्द 63: अमलु सिरानो लेखा देना
-**English Title:** Shabad 63: Amalau Sairaanao Laekhaa Daenaa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 63)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4116,23 +4316,26 @@ khasamu (Master, the Divine Spouse) bisaari (bisaari (spiritual sense)) maatee (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अमलु सिरानो लेखा देना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'अमलु सिरानो लेखा देना'—
+रहाउ: हरि फुरमानु दरगह का आइआ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! amalusiraanolekhaadena—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 63: अमलु सिरानो लेखा देना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 63 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 63)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-64"></a>
 ## शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ
-**English Title:** Shabad 64: Thaakae Naaina Saravana Saunai Thaakae Thaakaee
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 64)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4179,23 +4382,26 @@ kahu (tell) kabeer (Sant Kabir) te (from/by) jan (devotee/humble servant) kabahu
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ'—
+रहाउ: बिरथा जनमु गवाइआ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! thaakenainasravanasunithaakethaakeesundarikaai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 64 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 64)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-65"></a>
 ## शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे
-**English Title:** Shabad 65: Aisao Ihau Sansaarau Paekhanaa Rahanau Na Kao
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 65)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4242,23 +4448,26 @@ kahat (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे'—
+रहाउ: सूधे सूधे रेगि चलहु तुम नतर कुधका दिवईहै रे १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! aisoihusansaarupekhanaarahanunakooopaeehaire—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 65 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 65)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-66"></a>
 ## शब्द 66: बिदिआ न परउ बादु नही जानउ
-**English Title:** Shabad 66: Baidaiaa Na Parau Baadau Nahaee Jaanau
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 66)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4311,23 +4520,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) raamai (The All-Pervading Lord (Ram)) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बिदिआ न परउ बादु नही जानउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बिदिआ न परउ बादु नही जानउ'—
+रहाउ: मै बिगरिओ बिगरै मति अउरा १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bidiaanaparaubaadunaheejaanau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 66: बिदिआ न परउ बादु नही जानउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 66 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 66)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-67"></a>
 ## शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा
-**English Title:** Shabad 67: Garaihau Tajai Bana Khanda Jaaeeai Chaunai Khaa
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 67)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4374,23 +4586,26 @@ tum (You/Thou) samasari (equal/alike) naahee (not) daiaalu (Compassionate Lord) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा'—
+रहाउ: राखु राखु मेरे बीठुला जनु सरनि तुम्हारी १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! grihutajibanakhandajaaeeaichunikhaaeeaikanda—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 67 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 67)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-68"></a>
 ## शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ
-**English Title:** Shabad 68: Naita Uthai Kaoraee Gaagarai Aanaai Laeepata Jaee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 68)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4437,23 +4652,26 @@ kahat (speaking/saying) kabeeru (Sant Kabir) sagal (all/entire) paap (sin/transg
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! नित उठि कोरी गागरि आनै लीपत जीउ गइओ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'नित उठि कोरी गागरि आनै लीपत जीउ गइओ'—
+रहाउ: जब की माला लई निपूते तब ते सुखु न भइओ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! nitauthikoreegaagariaanaileepatajeeugaio—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 68 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 68)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-69"></a>
 ## शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ
-**English Title:** Shabad 69: Santau Mailaai Kaichhau Saunaeeai Kahaeeai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 69)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4500,23 +4718,26 @@ bharia (bharia) hoi (having become) su (that) kabahu (ever/sometimes) n (not) do
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! संतु मिलै किछु सुनीऐ कहीऐ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'संतु मिलै किछु सुनीऐ कहीऐ'—
+रहाउ: जैसे राम नाम रवि रहीऐ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! santumilaikichhusuneeaikaheeai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 69 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 69)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-70"></a>
 ## शब्द 70: नरू मरै नरु कामि न आवै
-**English Title:** Shabad 70: Naraoo Maraai Narau Kaamai Na Aavaai
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 70)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4557,23 +4778,26 @@ jam (Yamraj/Death) ka (of) dandu (punishment/rod) moond (moond) mahi (within/in)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! नरू मरै नरु कामि न आवै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'नरू मरै नरु कामि न आवै'—
+रहाउ: मै किआ जानउ बाबा रे १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! naroomarainarukaaminaaavai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 70: नरू मरै नरु कामि न आवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 70 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 70)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-71"></a>
 ## शब्द 71: भुजा बांधि भिला करि डारिओ
-**English Title:** Shabad 71: Bhaujaa Baandhai Bhailaa Karai Daaraio
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 71)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4644,23 +4868,26 @@ chauthe (chauthe) pad (spiritual station/hymn) mahi (within/in) jan (devotee/hum
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! भुजा बांधि भिला करि डारिओ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'भुजा बांधि भिला करि डारिओ'—
+रहाउ: काजी बकिबो हसती तोरु १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bhujaabaandhibhilaakaridaario—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 71: भुजा बांधि भिला करि डारिओ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 71 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 71)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-72"></a>
 ## शब्द 72: ना इहु मानसु ना इहु देउ
-**English Title:** Shabad 72: Naa Ihau Maanasau Naa Ihau Daeu
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 72)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4731,23 +4958,26 @@ jas (glory/praise) kaagad (letter) par (but/upon) mitai (being erased (does/beco
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ना इहु मानसु ना इहु देउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ना इहु मानसु ना इहु देउ'—
+रहाउ: ता का अंतु न कोऊ पाई १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! naaihumaanasunaaihudeu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 72: ना इहु मानसु ना इहु देउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 72 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 72)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-73"></a>
 ## शब्द 73: तूटे तागे निखुटी पानि
-**English Title:** Shabad 73: Taootae Taagae Naikhautaee Paanai
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 73)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4818,23 +5048,26 @@ inh (inh) mundeean (mundeean) bhaji (bhaji) sarani (head/lake (of/in)) kabeer (S
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! तूटे तागे निखुटी पानि—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'तूटे तागे निखुटी पानि'—
+रहाउ: आवत जात नाक सर होई १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! tootetaagenikhuteepaani—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 73: तूटे तागे निखुटी पानि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 73 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 73)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-74"></a>
 ## शब्द 74: धंनु गुपाल धंनु गुरदेव
-**English Title:** Shabad 74: Dhannau Gaupaala Dhannau Gauradaeva
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 74)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4905,23 +5138,26 @@ dhannu (dhann (spiritual sense)) anaadi (anaadi) thaakur (temple) manu (mind/inn
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! धंनु गुपाल धंनु गुरदेव—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'धंनु गुपाल धंनु गुरदेव'—
+रहाउ: जपीऐ नामु अंन कै सादि १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! dhannugupaaladhannuguradeva—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 74: धंनु गुपाल धंनु गुरदेव'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 74 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 74)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-75"></a>
 ## शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै
-**English Title:** Shabad 75: Jaiha Maukha Baedau Gaaitaraee Naikasaai Sao
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 75)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4962,23 +5198,26 @@ hamare (hamare) raam (The All-Pervading Lord (Ram)) naam (Divine Name) kahi (fro
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै'—
+रहाउ: रामु न बोलहि पाडे दोजकु भरहि १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jihamukhabedugaaitreenikasaisokiubrahaman—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 75 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 75)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-76"></a>
 ## शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे
-**English Title:** Shabad 76: Maundaraa Maonai Daiaa Karai Jhaolaee Patara
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 76)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5019,23 +5258,26 @@ kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे'—
+रहाउ: जप तप संजमु गुरमुखि भोगी १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! mundraamonidaiaakarijholeepatrakaakarahub—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 76 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 76)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-77"></a>
 ## शब्द 77: पडीआ कवन कुमति तुम लागे
-**English Title:** Shabad 77: Padaeeaa Kavana Kaumatai Tauma Laagae
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 77)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5082,23 +5324,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) raamai (The All-Pervading Lord (Ram)) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! पडीआ कवन कुमति तुम लागे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'पडीआ कवन कुमति तुम लागे'—
+रहाउ: बूडहुगे परवार सकल सिउ रामु न जपहु अभागे १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! padeeaakavanakumatitumalaage—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 77: पडीआ कवन कुमति तुम लागे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 77 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 77)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-78"></a>
 ## शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार
-**English Title:** Shabad 78: Banahai Basae Kaiu Paaeeai Jau Lau Manahau Na
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 78)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5145,23 +5390,26 @@ antaragati (antaragati (spiritual sense)) hari (The Lord who dispels grief (Hari
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार'—
+रहाउ: रंगि रवहु आतमै राम १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! banahibasekiupaaeeaijaulaumanahunatajahibika—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 78 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 78)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-79"></a>
 ## शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे
-**English Title:** Shabad 79: Udaka Samaunda Salala Kaee Saakhaiaa Nadaee Taran
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 79)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5208,23 +5456,26 @@ kahu (tell) kabeer (Sant Kabir) jo (that) naami (Divine Name) samaane (samaane) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! उदक समुंद सलल की साखिआ नदी तरंग समावहिगे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'उदक समुंद सलल की साखिआ नदी तरंग समावहिगे'—
+रहाउ: आवन जाना हुकमु तिसै का हुकमै बुझि समावहिगे १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! udakasamundasalalakeesaakhiaanadeetarangasamaavahige—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 79 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 79)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-80"></a>
 ## शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु
-**English Title:** Shabad 80: Jainai Gaड़ Kaota Kaeee Kanchana Kae Chhaodai Ga
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 80)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5256,23 +5507,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) te (from/by) ante (inner core) mukate 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु १—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु १'—
+रहाउ: जब जमु आइ केस ते पकरै तह हरि को नामु छडावन १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jinigadakotakeeekanchanakechhodigaiaasoraavan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 80 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 80)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-81"></a>
 ## शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना
-**English Title:** Shabad 81: Daehaee Gaavaa Jaeeu Dhara Mahatau Basahai Pancha
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 81)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5313,23 +5567,26 @@ ab (now) kee (of) baar (door) bakhasi (bakhasi) bande (beings, servants of God) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! देही गावा जीउ धर महतउ बसहि पंच किरसाना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'देही गावा जीउ धर महतउ बसहि पंच किरसाना'—
+रहाउ: घरी घरी का लेखा मागै काइथु चेतू नाउ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! deheegaavaajeeudharamahataubasahipanchakirasaana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 81 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 81)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-82"></a>
 ## शब्द 82: राजन कउनु तुमारै आवै
-**English Title:** Shabad 82: Raajana Kaunau Taumaaraai Aavaai
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 82)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5364,23 +5621,26 @@ kabeer (Sant Kabir) ko (unto/toward) thaakuru (temple related) anad (anad) binod
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! राजन कउनु तुमारै आवै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'राजन कउनु तुमारै आवै'—
+रहाउ: ऐसो भाउ बिदर को देखिओ ओहु गरीबु मोहि भावै १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raajanakaunutumaaraiaavai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 82: राजन कउनु तुमारै आवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 82 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 82)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-83"></a>
 ## शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे
-**English Title:** Shabad 83: Daeenau Baisaaraio Rae Daivaanae Daeenau Bai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 83)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5427,23 +5687,26 @@ raamu (Lord Rama's related) naamu (True Name) jaanio (jaanio) nahee (not) kaise 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे'—
+रहाउ: पेटु भरिओ पसूआ जिउ सोइओ मनुखु जनमु है हारिओ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! deenubisaarioredivaanedeenubisaariore—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 83 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 83)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-84"></a>
 ## शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना
-**English Title:** Shabad 84: Usatatai Naindaa Daooo Baibarajaita Tajahau Ma
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 84)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5490,23 +5753,26 @@ nirabhau (nirabhau) poori (pervading everywhere) rahe (remain) bhramu (illusion/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना'—
+रहाउ: कामु क्रोधु लोभु मोहु बिबरजित हरि पदु चीन्है सोई १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! usatatinindaadooobibarajitatajahumaanuabhimaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 84 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 84)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-85"></a>
 ## शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी
-**English Title:** Shabad 85: Kaama Karaodha Taraisanaa Kae Laeenae Gatai
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 85)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5553,23 +5819,26 @@ kahu (tell) kabeer (Sant Kabir) jih (which) raamu (Lord Rama's related) n (not) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! काम क्रोध त्रिसना के लीने गति नही एकै जानी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'काम क्रोध त्रिसना के लीने गति नही एकै जानी'—
+रहाउ: असति चरम बिसटा के मूंदे दुरगंध ही के बेढे १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kaamakrodhatrisanaakeleenegatinaheeekaija—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 85 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 85)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-86"></a>
 ## शब्द 86: टेढी पाग टेढे चले लागे बीरे खान
-**English Title:** Shabad 86: Taedhaee Paaga Taedhae Chalae Laagae Baeerae Khaa
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 86)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5604,23 +5873,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) ant (inner core) kee (of) ber (wild pl
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! टेढी पाग टेढे चले लागे बीरे खान—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'टेढी पाग टेढे चले लागे बीरे खान'—
+रहाउ: कनिक कामनी महा सुंदरी पेखि पेखि सचु मानि १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! tedheepaagatedhechalelaagebeerekhaana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 86: टेढी पाग टेढे चले लागे बीरे खान'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 86 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 86)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-87"></a>
 ## शब्द 87: चारि दिन अपनी नउबति चले बजाइ
-**English Title:** Shabad 87: Chaarai Daina Apanaee Naubatai Chalae Bajaai
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 87)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5655,23 +5927,26 @@ kahatu (speaking/saying) kabeeru (Sant Kabir) raamu (Lord Rama's related) kee (o
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! चारि दिन अपनी नउबति चले बजाइ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'चारि दिन अपनी नउबति चले बजाइ'—
+रहाउ: इतनकु खटीआ गठीआ मटीआ संगि न कछु लै जाइ १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! chaaridinaapaneenaubatichalebajaai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 87: चारि दिन अपनी नउबति चले बजाइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 87 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 87)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-88"></a>
 ## शब्द 88: नांगे आवनु नांगे जाना
-**English Title:** Shabad 88: Naangae Aavanau Naangae Jaanaa
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 88)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5718,23 +5993,26 @@ chale (departs/walks) juaaree (juaaree) dui (two/duality) hath (hath) jhaari (jh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! नांगे आवनु नांगे जाना—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'नांगे आवनु नांगे जाना'—
+रहाउ: स्मपै हेतु कलतु धनु तेरै १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! naangeaavanunaangejaana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 88: नांगे आवनु नांगे जाना'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 88 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 88)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-89"></a>
 ## शब्द 89: मैला ब्रहमा मैला इंदु
-**English Title:** Shabad 89: Maailaa Barahamaa Maailaa Indau
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 89)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5793,23 +6071,26 @@ niramal (niramal) te (from/by) jo (that) raamahi (The All-Pervading Lord (Ram) (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मैला ब्रहमा मैला इंदु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मैला ब्रहमा मैला इंदु'—
+रहाउ: इकु हरि निरमलु जा का अंतु न पारु १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! mailaabrahamaamailaaindu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 89: मैला ब्रहमा मैला इंदु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 89 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 89)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-90"></a>
 ## शब्द 90: मनु करि मका किबला करि देही
-**English Title:** Shabad 90: Manau Karai Makaa Kaibalaa Karai Daehaee
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 90)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5856,23 +6137,26 @@ musi (musi) musi (musi) manooa (manooa) sahaji (in spontaneous poise) samaana (t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मनु करि मका किबला करि देही—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मनु करि मका किबला करि देही'—
+रहाउ: एक मसीति दसै दरवाज १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! manukarimakaakibalaakaridehee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 90: मनु करि मका किबला करि देही'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 90 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 90)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-91"></a>
 ## शब्द 91: गंगा कै संगि सलिता बिगरी
-**English Title:** Shabad 91: Gangaa Kaai Sangai Salaitaa Baigaraee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 91)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5919,23 +6203,26 @@ so (that/the same) kabeeru (Sant Kabir) raamai (The All-Pervading Lord (Ram)) ho
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गंगा कै संगि सलिता बिगरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'गंगा कै संगि सलिता बिगरी'—
+रहाउ: साचु भइओ अन कतहि न जाई १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! gangaakaisangisalitaabigaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 91: गंगा कै संगि सलिता बिगरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 91 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 91)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-92"></a>
 ## शब्द 92: माथे तिलकु हथि माला बानां
-**English Title:** Shabad 92: Maathae Tailakau Hathai Maalaa Baanaan
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 92)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5982,23 +6269,26 @@ kabeer (Sant Kabir) ka (of) maramu (inner secret/mystery) raam (The All-Pervadin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! माथे तिलकु हथि माला बानां—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'माथे तिलकु हथि माला बानां'—
+रहाउ: लोगु मरमु कह जानै मोरा १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! maathetilakuhathimaalaabaanaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 92: माथे तिलकु हथि माला बानां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 92 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 92)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-93"></a>
 ## शब्द 93: उलटि जाति कुल दोऊ बिसारी
-**English Title:** Shabad 93: Ulatai Jaatai Kaula Daooo Baisaaraee
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 93)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6045,23 +6335,26 @@ aapu (oneself) khoji (khoji) khoji (khoji) mile (to obtain) kabeera (Sant Kabir)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! उलटि जाति कुल दोऊ बिसारी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'उलटि जाति कुल दोऊ बिसारी'—
+रहाउ: पंडित मुलां छाडे दोऊ १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! ulatijaatikuladooobisaaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 93: उलटि जाति कुल दोऊ बिसारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 93 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 93)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-94"></a>
 ## शब्द 94: निरधन आदरु कोई न देइ
-**English Title:** Shabad 94: Nairadhana Aadarau Kaoee Na Daei
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 94)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6108,23 +6401,26 @@ ja (whose/when) ke (of) hiradai (in the heart) naamu (True Name) n (not) hoee (t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! निरधन आदरु कोई न देइ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'निरधन आदरु कोई न देइ'—
+रहाउ: लाख जतन करै ओहु चिति न धरेइ १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! niradhanaaadarukoeenadei—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 94: निरधन आदरु कोई न देइ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 94 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 94)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-95"></a>
 ## शब्द 95: सो मुलां जो मन सिउ लरै
-**English Title:** Shabad 95: Sao Maulaan Jao Mana Saiu Laraai
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 95)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6195,23 +6491,26 @@ kabeer (Sant Kabir) ka (of) suaamee (Lord/Master) rahia (rahia) samaai (absorbed
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सो मुलां जो मन सिउ लरै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सो मुलां जो मन सिउ लरै'—
+रहाउ: दुंदर बाधहु सुंदर पावहु १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! somulaanjomanasiularai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 95: सो मुलां जो मन सिउ लरै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 95 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 95)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-96"></a>
 ## शब्द 96: जब लगु मेरी मेरी करै
-**English Title:** Shabad 96: Jaba Lagau Maeraee Maeraee Karaai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 96)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6270,23 +6569,26 @@ keval (solely/pure) raam (The All-Pervading Lord (Ram)) rahahu (rahahu) liv (unb
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जब लगु मेरी मेरी करै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जब लगु मेरी मेरी करै'—
+रहाउ: हरि की न सिमरहु दुख भंजना १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jabalagumereemereekarai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 96: जब लगु मेरी मेरी करै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 96 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 96)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-97"></a>
 ## शब्द 97: सभु कोई चलन कहत है ऊहां
-**English Title:** Shabad 97: Sabhau Kaoee Chalana Kahata Haai Oohaan
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 97)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6333,23 +6635,26 @@ saadhasangati (holy communion related) baikunthai (baikunth (spiritual sense)) a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सभु कोई चलन कहत है ऊहां—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सभु कोई चलन कहत है ऊहां'—
+रहाउ: ना जानउ बैकुंठु है कहां १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sabhukoeechalanakahatahaioohaan—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 97: सभु कोई चलन कहत है ऊहां'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 97 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 97)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-98"></a>
 ## शब्द 98: गंग गुसाइनि गहिर ग्मभीर
-**English Title:** Shabad 98: Ganga Gausaainai Gahaira Gamabhaeera
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 98)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6390,23 +6695,26 @@ jal (water) thal (thal (spiritual sense)) raakhan (raakhan) hai (is) raghunaath 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गंग गुसाइनि गहिर ग्मभीर—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'गंग गुसाइनि गहिर ग्मभीर'—
+रहाउ: चरन कमल चितु रहिओ समाइ  रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! gangagusaainigahiragmabheera—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 98: गंग गुसाइनि गहिर ग्मभीर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 98 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 98)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-99"></a>
 ## शब्द 99: मउली धरती मउलिआ अकासु
-**English Title:** Shabad 99: Maulaee Dharataee Maulaiaa Akaasau
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 99)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6447,23 +6755,26 @@ kabeer (Sant Kabir) ko (unto/toward) suaamee (Lord/Master) sabh (all) samaan (sa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! मउली धरती मउलिआ अकासु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'मउली धरती मउलिआ अकासु'—
+रहाउ: जह देखउ तह रहिआ समाइ १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! mauleedharateemauliaaakaasu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 99: मउली धरती मउलिआ अकासु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 99 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 99)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-100"></a>
 ## शब्द 100: पंडित जन माते पड़्हि पुरान
-**English Title:** Shabad 100: Pandaita Jana Maatae Paड़hai Pauraana
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 100)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6522,23 +6833,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) bhaji (bhaji) raam (The All-Pervading 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! पंडित जन माते पड़्हि पुरान—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'पंडित जन माते पड़्हि पुरान'—
+रहाउ: संग ही चोर घरु मुसन लाग १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! panditajanamaatepadhipuraana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 100: पंडित जन माते पड़्हि पुरान'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 100 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 100)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-101"></a>
 ## शब्द 101: प्रहलाद पठाए पड़न साल
-**English Title:** Shabad 101: Parahalaada Pathaae Paड़na Saala
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 101)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6601,23 +6915,26 @@ prabhi (Supreme Lord) jal (water) thal (thal (spiritual sense)) giri (giri (spir
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! प्रहलाद पठाए पड़न साल—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'प्रहलाद पठाए पड़न साल'—
+रहाउ: मेरो अउर पड़्हन सिउ नही कामु १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! prahalaadapathaaepadanasaala—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 101: प्रहलाद पठाए पड़न साल'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 101 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 101)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-102"></a>
 ## शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे
-**English Title:** Shabad 102: Maataa Jaoothaee Paitaa Bhaee Jaoothaa Jaoothae Haee
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 102)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6664,23 +6981,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) teee (teee) nar (man/mortal) sooche (s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! माता जूठी पिता भी जूठा जूठे ही फल लागे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'माता जूठी पिता भी जूठा जूठे ही फल लागे'—
+रहाउ: जहां बैसि हउ भोजनु खाउ १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! maataajootheepitaabheejoothaajootheheephalalaage—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 102 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 102)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-103"></a>
 ## शब्द 103: कहा नर गरबसि थोरी बात
-**English Title:** Shabad 103: Kahaa Nara Garabasai Thaoraee Baata
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 103)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6727,23 +7047,26 @@ kahat (speaking/saying) kabeeru (Sant Kabir) raam (The All-Pervading Lord (Ram))
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कहा नर गरबसि थोरी बात—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कहा नर गरबसि थोरी बात'—
+रहाउ: मन दस नाजु टका चारि गांठी ऐंडौ टेढौ जातु १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kahaanaragarabasithoreebaata—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 103: कहा नर गरबसि थोरी बात'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 103 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 103)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-104"></a>
 ## शब्द 104: राजास्रम मिति नही जानी तेरी
-**English Title:** Shabad 104: Raajaasarama Maitai Nahaee Jaanaee Taeraee
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 104)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6790,23 +7113,26 @@ kahu (tell) kabeer (Sant Kabir) saadhoo (saint related) ko (unto/toward) preetam
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! राजास्रम मिति नही जानी तेरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'राजास्रम मिति नही जानी तेरी'—
+रहाउ: तेरे संतन की हउ चेरी १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raajaasramamitinaheejaaneeteree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 104: राजास्रम मिति नही जानी तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 104 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 104)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-105"></a>
 ## शब्द 105: हरि बिनु कउनु सहाई मन का
-**English Title:** Shabad 105: Harai Bainau Kaunau Sahaaee Mana Kaa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 105)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6841,23 +7167,26 @@ kahai (chants) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re (Divine Wi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! हरि बिनु कउनु सहाई मन का—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'हरि बिनु कउनु सहाई मन का'—
+रहाउ: मात पिता भाई सुत बनिता हितु लागो सभ फन का १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! haribinukaunusahaaeemanaka—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 105: हरि बिनु कउनु सहाई मन का'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 105 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 105)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-106"></a>
 ## शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा
-**English Title:** Shabad 106: Alahau Ekau Masaeetai Basatau Haai Avarau Mau
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 106)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6916,23 +7245,26 @@ keval (solely/pure) naamu (True Name) japahu (chanting/meditation (from/by)) re 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा'—
+रहाउ: तू करि मिहरामति साई १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! alahuekumaseetibasatuhaiavarumulakhukisuk—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 106 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 106)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-107"></a>
 ## शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे
-**English Title:** Shabad 107: Avalai Alaha Naoorau Upaaiaa Kaudaratai Kae
+**English Title:** First Allah Created the Primordial Light: All Beings Are Children of Nature
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6979,25 +7311,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) meree (my life's) sanka (doubt/suspici
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सर्वप्रथम उस प्रभु ने अपनी ज्योति से यह संसार रचाया,
-कुदरत के सब बंदे हैं, किसमें कौन भला कौन बुरा ठहराया।
-हे मानव, तू भ्रम और भेद में मत भटक,
-स्रष्टा सृष्टि में और सृष्टि स्रष्टा में, हर घट में समाया।
+सर्वप्रथम उस परम सत्ता ने अपनी दिव्य ज्योति से यह सृष्टि रची, कुदरत के हम सब बंदे हैं;
+जब एक ही दिव्य नूर से संपूर्ण संसार उत्पन्न हुआ है, तो फिर कौन भला और कौन बुरा?
+हे मानव! तू जाति, धर्म और संप्रदाय के भ्रम में मत भटक;
+स्रष्टा सृष्टि में और सृष्टि स्रष्टा में समाई हुई है, वह परमात्मा प्रत्येक घट और कण-कण में विद्यमान है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-First, the Divine created the primordial Light, and all beings of Nature were born;
-From that single Light the entire cosmos emerged—who then is noble, and who to scorn?
+First, the Almighty brought forth the primordial Light, and all beings of Nature were born;
+From that single luminous Source the universe arose—who then is noble, and who to scorn?
 O worldly folk, wander not lost in doubts and divided sight;
 The Creator dwells within creation, and creation within the Creator, omnipresent and bright.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This sublime Shabad is Kabir's quintessential declaration of universal oneness and spiritual egalitarianism. Rejecting sectarian animosity between religious factions, Kabir affirms that the primordial Light (Noor) is the single source of all humanity. The Creator is not an external monarch residing in distant skies, but an indwelling essence immanent in every atom.
+### श्री गुरु ग्रंथ साहिब: शब्द 107 का दार्शनिक विश्लेषण
+यह शब्द कबीर का विश्व-प्रसिद्ध समतावादी और अद्वैतवादी महावाक्य है। इस्लाम और हिंदू धर्म के संकीर्ण सांप्रदायिक मतभेदों को ध्वस्त करते हुए कबीर सिद्ध करते हैं कि समस्त मानवता एक ही दिव्य प्रकाश की संतान है।
 
 ---
 
 <a name="shabad-108"></a>
 ## शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै
-**English Title:** Shabad 108: Baeda Kataeba Kahahau Mata Jhaoothae Jhaoothaa Jao
+**English Title:** Call Not the Scriptures False: False Is He Who Contemplates Them Not
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7044,23 +7377,27 @@ kahi (from (unto/in)) kabeer (Sant Kabir) bhisati (bhisati) te (from/by) chooka 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बेद कतेब कहहु मत झूठे झूठा जो न बिचारै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+वेद और कतेब (कुरान) आदि धर्मग्रंथों को झूठा मत कहो; झूठा तो वह नासमझ है जो उनके वास्तविक मर्म पर विचार नहीं करता;
+यदि तू कहता है कि एक ही खुदा सब में समाया है, तो फिर तू जीव-हत्या क्यों करता है?
+हे काजी! तू जिस परमात्मा का दावा करता है, उसके प्रति सच्चा हो; दया और अहिंसा ही सच्चा धर्म है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bedakatebakahahumatajhoothejhoothaajonabichaarai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+Do not denounce the Vedas or the Semitic scriptures as false or blind;
+False is he who contemplates not their inner essence with an awakened mind;
+If thou declarest that the One Lord resides within each living heart;
+Why dost thou slaughter innocent beasts and tear their lives apart?
+O learned cleric, awaken to the truth of the Sovereign Creator's grace;
+Compassion and mercy alone reveal the Beloved in every place.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 108 का दार्शनिक विश्लेषण
+कबीर धार्मिक ग्रंथों के आलोचक नहीं हैं, बल्कि उनके अंधानुकरण और कर्मकांडी व्याख्या के विरोधी हैं। वे शास्त्र के अक्षर के स्थान पर उसके आध्यात्मिक मर्म (विचार) पर बल देते हैं।
 
 ---
 
 <a name="shabad-109"></a>
 ## शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई
-**English Title:** Shabad 109: Saunna Sandhaiaa Taeraee Daeva Daevaakara Adhapa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 109)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7101,23 +7438,26 @@ kabeer (Sant Kabir) daas (devoted servant) teree (Thine) aaratee (supreme cosmic
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई'—
+रहाउ: ठाढा ब्रहमा निगम बीचारै अलखु न लखिआ जाई १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sunnasandhiaatereedevadevaakaraadhapatiaadisama—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 109 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 109)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-110"></a>
 ## शब्द 110: कोऊ हरि समानि नही राजा ॥
-**English Title:** Shabad 110: Kaooo Harai Samaanai Nahaee Raajaa
+**English Title:** No Sovereign Equals Hari: Elevating the Destitute to Kingship
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7152,23 +7492,27 @@ kahi (from (unto/in)) kabeer (Sant Kabir) sansa (doubt/skepticism) bhramu (illus
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कोऊ हरि समानि नही राजा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+तीनों लोकों में उस परमात्मा के समान कोई दूसरा राजा नहीं है;
+यह संसारी राजा तो दो-चार दिन के छत्रधारी हैं, मृत्यु आते ही धूल में मिल जाते हैं।
+मेरा राजा राम तो वह समर्थ स्वामी है, जो एक क्षण में रंक को राजा और राजा को रंक बना देता है;
+कबीर कहते हैं कि जो उस सच्चे स्वामी की शरण में आता है, वह सदा के लिए अभय हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! koooharisamaaninaheeraaja—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+None equals the Sovereign Lord in majesty across the heavens and earth below;
+These petty earthly monarchs wear their fleeting crowns for a season's show;
+My Beloved King Ram is the almighty Master who rules the cosmic throne;
+Elevating the humble pauper to sovereignty, while haughty kings are overthrown;
+Says Kabir: He who seeks the sanctuary of the True King attains fearless peace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 110: कोऊ हरि समानि नही राजा ॥'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 110 का दार्शनिक विश्लेषण
+कबीर राजनैतिक सत्ता के अहंकार को चुनौती देते हैं। संसार के शासक नश्वर और पराधीन हैं; केवल परमात्मा ही सच्चा सार्वभौम अधिपति (अकाली राजा) है।
 
 ---
 
 <a name="shabad-111"></a>
 ## शब्द 111: राखि लेहु हम ते बिगरी
-**English Title:** Shabad 111: Raakhai Laehau Hama Tae Baigaraee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 111)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7203,23 +7547,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) ih (these) binatee (binatee) suneeahu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! राखि लेहु हम ते बिगरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'राखि लेहु हम ते बिगरी'—
+रहाउ: सीलु धरमु जपु भगति न कीनी हउ अभिमान टेढ पगरी १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raakhilehuhamatebigaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 111: राखि लेहु हम ते बिगरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 111 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 111)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-112"></a>
 ## शब्द 112: दरमादे ठाढे दरबारि
-**English Title:** Shabad 112: Daramaadae Thaadhae Darabaarai
+**English Title:** Standing Destitute at the Court: The Beggar's Yearning for Grace
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7254,23 +7601,25 @@ kahi (from (unto/in)) kabeer (Sant Kabir) tum (You/Thou) samrath (samrath) daate
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! दरमादे ठाढे दरबारि—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+हे प्रभु! मैं असहाय और दरिद्र होकर तेरे पावन दरबार में खड़ा हूँ;
+न मेरे पास कोई ज्ञान है, न ध्यान, न जप और न कोई साधना का धन;
+मुझे केवल तेरे दर्शन और नाम-दान की ही भीख चाहिए; कबीर कहते हैं कि हे कृपालु! अपनी दया से मुझे तार दो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! daramaadethaadhedarabaari—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+Destitute and empty-handed I stand at Thy celestial portal, Lord of grace;
+I possess neither wealth of intellect, nor austere penance, nor worthy place;
+I beg only for the alms of Thy holy vision and Thy redeeming Name;
+Says Kabir: O Merciful Master, shelter this humble seeker from grief and shame.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 112: दरमादे ठाढे दरबारि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 112 का दार्शनिक विश्लेषण
+यह शब्द परम दैन्य और शरणागति का अनुपम उदाहरण है। साधक अपनी संपूर्ण योग्यता और अहंकार को शून्य करके प्रभु के सम्मुख केवल अनुग्रह की याचना करता है।
 
 ---
 
 <a name="shabad-113"></a>
 ## शब्द 113: डंडा मुंद्रा खिंथा आधारी
-**English Title:** Shabad 113: Dandaa Maundaraa Khainthaa Aadhaaraee
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 113)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7305,23 +7654,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) kesau (kesau (spiritual sense)) jagi (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! डंडा मुंद्रा खिंथा आधारी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'डंडा मुंद्रा खिंथा आधारी'—
+रहाउ: छोडि कपटु नित हरि भजु बवरे १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! dandaamundraakhinthaaaadhaaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 113: डंडा मुंद्रा खिंथा आधारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 113 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 113)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-114"></a>
 ## शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे
-**English Title:** Shabad 114: Inahai Maaiaa Jagadaeesa Gausaaee Taumaharae
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 114)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7356,23 +7708,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) te (from/by) anti (inner core (in/havi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे'—
+रहाउ: किंचत प्रीति न उपजै जन कउ जन कहा करहि बेचारे १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! inhimaaiaajagadeesagusaaeetumharecharanabisaar—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 114 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 114)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-115"></a>
 ## शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप
-**English Title:** Shabad 115: Saraeera Saraovara Bhaeetarae Aachhaai Kamala Anaoopa
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 115)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7410,23 +7765,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) seva (devoted service) karahu (doing (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सरीर सरोवर भीतरे आछै कमल अनूप—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सरीर सरोवर भीतरे आछै कमल अनूप'—
+रहाउ: रे मन हरि भजु भ्रमु तजहु जगजीवन राम १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sareerasarovarabheetareaachhaikamalaanoopa—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 115 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 115)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-116"></a>
 ## शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी
-**English Title:** Shabad 116: Janama Marana Kaa Bharamau Gaiaa Gaobaida Laiva
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 116)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7467,23 +7825,26 @@ kahu (tell) kabeer (Sant Kabir) ab (now) jaania (jaania) gobid (gobid) manu (min
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जनम मरन का भ्रमु गइआ गोबिद लिव लागी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जनम मरन का भ्रमु गइआ गोबिद लिव लागी'—
+रहाउ: जीवत सुंनि समानिआ गुर साखी जागी १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! janamamaranakaabhramugaiaagobidalivalaagee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 116 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 116)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-117"></a>
 ## शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव
-**English Title:** Shabad 117: Charana Kamala Jaa Kaai Raidaai Basahai Sao Janau
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 117)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7518,23 +7879,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) mera (my/mine) manu (mind/inner spirit
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव'—
+रहाउ: मानौ सभ सुख नउ निधि ता कै सहजि सहजि जसु बोलै देव  रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! charanakamalajaakairidaibasahisojanukiudolai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 117 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 117)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-118"></a>
 ## शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले
-**English Title:** Shabad 118: Aakaasai Gaganau Paataalai Gaganau Haai Chahau
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 118)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7575,23 +7939,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) raam (The All-Pervading Lord (Ram)) na
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले'—
+रहाउ: इहु जीउ आइ कहा गइओ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! aakaasigaganupaataaligaganuhaichahudisigaganu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 118 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 118)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-119"></a>
 ## शब्द 119: खसमु मरै तउ नारि न रोवै
-**English Title:** Shabad 119: Khasamau Maraai Tau Naarai Na Raovaai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 119)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7662,23 +8029,26 @@ sansaarai (mortal world) kai (of) anchali (anchali) laree (laree) . . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! खसमु मरै तउ नारि न रोवै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'खसमु मरै तउ नारि न रोवै'—
+रहाउ: सगले जीअ जंत की नारी १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! khasamumaraitaunaarinarovai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 119: खसमु मरै तउ नारि न रोवै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 119 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 119)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-120"></a>
 ## शब्द 120: ग्रिहि सोभा जा कै रे नाहि
-**English Title:** Shabad 120: Garaihai Saobhaa Jaa Kaai Rae Naahai
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 120)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7741,23 +8111,26 @@ pag (foot) nevar (nevar) chhanak (chhanak) chhanaharee (chhanaharee) .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! ग्रिहि सोभा जा कै रे नाहि—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'ग्रिहि सोभा जा कै रे नाहि'—
+रहाउ: तपे तपीसर डोलै चीत १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! grihisobhaajaakairenaahi—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 120: ग्रिहि सोभा जा कै रे नाहि'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 120 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 120)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-121"></a>
 ## शब्द 121: जैसे मंदर महि बलहर ना ठाहरै
-**English Title:** Shabad 121: Jaaisae Mandara Mahai Balahara Naa Thaaharaai
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 121)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7828,23 +8201,26 @@ guramukhi (guramukhi) hoi (having become) bahuri (again/once more) nahee (not) m
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जैसे मंदर महि बलहर ना ठाहरै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जैसे मंदर महि बलहर ना ठाहरै'—
+रहाउ: तन मन रमत रहै महि खेतै १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jaisemandaramahibalaharanaathaaharai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 121: जैसे मंदर महि बलहर ना ठाहरै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 121 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 121)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-122"></a>
 ## शब्द 122: कूटनु सोइ जु मन कउ कूटै
-**English Title:** Shabad 122: Kaootanau Saoi Jau Mana Kau Kaootaai
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 122)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7915,23 +8291,26 @@ dhannu (dhann (spiritual sense)) guradev (guradev) ati (exceedingly/greatly) roo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कूटनु सोइ जु मन कउ कूटै—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कूटनु सोइ जु मन कउ कूटै'—
+रहाउ: सगल बोलन के माहि बीचार १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kootanusoijumanakaukootai—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 122: कूटनु सोइ जु मन कउ कूटै'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 122 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 122)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-123"></a>
 ## शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे
-**English Title:** Shabad 123: Kaaiaa Kalaalanai Laahanai Maelau Gaura Kaa
+**English Title:** The Body as the Wine-Shop: Brewing the Nectar of the Word
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7978,23 +8357,25 @@ kahi (from (unto/in)) kabeer (Sant Kabir) sagale (all/entire) mad (wine) chhooch
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+यह शरीर ही मदिरालय है और सद्गुरु का शब्द ही इसमें डाला गया गुड़ और महुआ है;
+ईश्वर का भय ही भट्ठी है और ज्ञान ही वह पवित्र प्याला है जिसमें नाम का अमृत टपकता है।
+कबीर कहते हैं कि इस रूहानी मदिरा को पीकर जो मतवाला हो जाता है, उसकी जन्म-मरण की खुमारी सदा के लिए मिट जाती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kaaiaakalaalanilaahanimelaugurakaasabadugudu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+The body is the sacred distillery, and the Master's Word the sweet molasses within;
+Reverence of God is the furnace fire that purges the soul of dross and sin;
+Divine discernment is the cup in which celestial nectar distills sweet and bright;
+Says Kabir: Whosoever drinks of this spiritual wine abides forever in intoxicated light.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 123 का दार्शनिक विश्लेषण
+कबीर सूफी 'शराब-ए-तहूर' (पवित्र रूहानी मदिरा) के रूपक को भारतीय परिप्रेक्ष्य (कलालनि) में ढालते हैं। सांसारिक नशा पतन का कारण है, किंतु नाम का नशा परम चेतना प्रदान करता है।
 
 ---
 
 <a name="shabad-124"></a>
 ## शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा
-**English Title:** Shabad 124: Gauड़u Karai Gaiaanau Dhaiaanau Karai Mahaooaa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 124)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8035,23 +8416,26 @@ daasu (devoted servant) kabeeru (Sant Kabir) taasu (whose/of that) mad (wine) ma
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा'—
+रहाउ: उनमद चढा मदन रसु चाखिआ त्रिभवन भइआ उजिआरा १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! gudukarigiaanudhiaanukarimahooaabhaubhaatheeman—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 124 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 124)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-125"></a>
 ## शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी
-**English Title:** Shabad 125: Taoon Maerao Maerau Parabatau Sauaamaee Ota Ga
+**English Title:** Thou Art My Mount Meru: Sheltered Beneath Thy Unshakable Height
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8110,23 +8494,25 @@ raam (The All-Pervading Lord (Ram)) kabeera (Sant Kabir) ek (equal and one) bhae
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+हे स्वामी! तू ही मेरा अचल सुमेरु पर्वत है, मैंने तेरी ही दृढ़ ओट और शरण ग्रहण की है;
+तू तिनके को पर्वत और पर्वत को तिनका बना देने की असीम सामर्थ्य रखता है;
+जब तू मेरे सिर पर रक्षा करने वाला है, तो मुझे किसी यमराज या काल का क्या भय हो सकता है?
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! toonmeromeruparabatusuaameeotagaheemaiteree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+Thou art my mighty Mount Meru, O Sovereign Lord, in Thy high refuge I abide;
+Thou turnest the fragile straw into a mountain, and castest mountains aside;
+When Thy protecting hand rests upon my head through storm and darkness deep;
+What terror can the messenger of death or mortal peril over my spirit heap?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 125 का दार्शनिक विश्लेषण
+कबीर का परमात्मा पर अटूट विश्वास इस शब्द में प्रकट होता है। परमात्मा सुमेरु पर्वत के समान अचल और आश्रयदाता है।
 
 ---
 
 <a name="shabad-126"></a>
 ## शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी
-**English Title:** Shabad 126: Santaa Maanau Daootaa Daanau Iha Kautavaaraee
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 126)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8179,23 +8565,26 @@ amrit (amrit) rasu (nectar of divine essence) jini (do not/who) paaia (have foun
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! संता मानउ दूता डानउ इह कुटवारी मेरी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'संता मानउ दूता डानउ इह कुटवारी मेरी'—
+रहाउ: भउकहि आगै बदनु पसारि १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! santaamaanaudootaadaanauihakutavaareemeree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 126 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 126)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-127"></a>
 ## शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ
-**English Title:** Shabad 127: Taravarau Ekau Ananta Daara Saakhaa Pauhapa Pa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 127)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8236,23 +8625,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) ta (upon that/his) ka (of)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ'—
+रहाउ: अंतरि जोति राम परगासा गुरमुखि बिरलै जानी १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! taravaruekuanantadaarasaakhaapuhapapatrarasabharee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 127 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 127)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-128"></a>
 ## शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ
-**English Title:** Shabad 128: Kavana Kaaja Sairajae Jaga Bhaeetarai Janamai Kava
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 128)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8305,23 +8697,26 @@ kahat (speaking/saying) kabeer (Sant Kabir) bheer (bheer) jan (devotee/humble se
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ'—
+रहाउ: जिनि प्रभि जीउ पिंडु था दीआ तिस की भाउ भगति नही साधी १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kavanakaajasirajejagabheetarijanamikavanaphalupaaia—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 128 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 128)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-129"></a>
 ## शब्द 129: जिह सिमरनि होइ मुकति दुआरु
-**English Title:** Shabad 129: Jaiha Saimaranai Haoi Maukatai Dauaarau
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 129)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8396,23 +8791,26 @@ deepaku (lamp/flame) baandhi (baandhi) dhario (dhario) binu (without/devoid of) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जिह सिमरनि होइ मुकति दुआरु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जिह सिमरनि होइ मुकति दुआरु'—
+रहाउ: बिनु सिमरन मुकति कत नाहि १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jihasimaranihoimukatiduaaru—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 129: जिह सिमरनि होइ मुकति दुआरु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 129 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 129)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-130"></a>
 ## शब्द 130: बंधचि बंधनु पाइआ
-**English Title:** Shabad 130: Bandhachai Bandhanau Paaiaa
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 130)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8483,23 +8881,26 @@ kahai (chants) kabeera (Sant Kabir) saaran (care/tidings related) . . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! बंधचि बंधनु पाइआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'बंधचि बंधनु पाइआ'—
+रहाउ: नही मिरतु न जनमु जरा १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! bandhachibandhanupaaia—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 130: बंधचि बंधनु पाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 130 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 130)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-131"></a>
 ## शब्द 131: चंदु सूरजु दुइ जोति सरूपु
-**English Title:** Shabad 131: Chandau Saoorajau Daui Jaotai Saraoopau
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 131)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8534,23 +8935,26 @@ kahai (chants) kabeeru (Sant Kabir) niranjan (immaculate, untainted by Maya) ale
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! चंदु सूरजु दुइ जोति सरूपु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'चंदु सूरजु दुइ जोति सरूपु'—
+रहाउ: जोती अंतरि धरिआ पसारु १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! chandusoorajuduijotisaroopu—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 131: चंदु सूरजु दुइ जोति सरूपु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 131 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 131)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-132"></a>
 ## शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई
-**English Title:** Shabad 132: Daunaeeaa Hausaeeaara Baedaara Jaagata Mausaeeata
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 132)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8585,23 +8989,26 @@ kahi (from (unto/in)) kameer (kameer) kul (all/entire) jaati (caste/social divis
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई'—
+रहाउ: निगम हुसीआर पहरूआ देखत जमु ले जाई १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! duneeaahuseeaarabedaarajaagatamuseeatahaurebhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 132 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 132)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-133"></a>
 ## शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज
-**English Title:** Shabad 133: Raidhai Saidhai Jaa Kau Phauraee Taba Kaahaoo Sa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 133)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8648,23 +9055,26 @@ kahu (tell) kabeer (Sant Kabir) kanchanu (pure gold) bhaia (became) bhramu (illu
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज'—
+रहाउ: ते भवहि न बारै बार १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! ridhisidhijaakauphureetabakaahoosiukiaakaaj—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 133 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 133)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-134"></a>
 ## शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु
-**English Title:** Shabad 134: Jau Taumaha Mao Kau Daoorai Karata Hau Tau
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 134)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8699,23 +9109,26 @@ ab (now) tau (then/still) bimal (pure/unblemished) bhae (became) ghat (body/inne
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु'—
+रहाउ: सोधउ मुकति कहा देउ कैसी करि प्रसादु मोहि पाई है १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jautumhamokaudoorikaratahautautumamukati—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 134 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 134)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-135"></a>
 ## शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े
-**English Title:** Shabad 135: Anabhau Kainaai Na Daekhaiaa Baairaagaeeaड़e
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 135)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8780,23 +9193,26 @@ mo (unto me) kau (unto) bhaujalu (bhaujalu) paari (across the ocean of rebirth, 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अनभउ किनै न देखिआ बैरागीअड़े—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'अनभउ किनै न देखिआ बैरागीअड़े'—
+रहाउ: बिनु भै अनभउ होइ वणाह्मबै १।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! anabhaukinainadekhiaabairaageeade—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 135 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 135)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-136"></a>
 ## शब्द 136: रामु सिमरु पछुताहिगा मन
-**English Title:** Shabad 136: Raamau Saimarau Pachhautaahaigaa Mana
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 136)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8837,23 +9253,26 @@ kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! रामु सिमरु पछुताहिगा मन—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'रामु सिमरु पछुताहिगा मन'—
+रहाउ: पापी जीअरा लोभु करतु है आजु कालि उठि जाहिगा १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! raamusimarupachhutaahigaamana—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 136: रामु सिमरु पछुताहिगा मन'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 136 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 136)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-137"></a>
 ## शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी
-**English Title:** Shabad 137: Kainahaee Banajaiaa Kaansaee Taanbaa Kainahaee
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 137)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8900,23 +9319,26 @@ kahatu (speaking/saying) kabeeru (Sant Kabir) sunahu (hearing (from/by)) re (Re 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! किनही बनजिआ कांसी तांबा किनही लउग सुपारी—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'किनही बनजिआ कांसी तांबा किनही लउग सुपारी'—
+रहाउ: हीरा हाथि चड़िआ निरमोलकु छूटि गई संसारी १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kinaheebanajiaakaanseetaanbaakinaheelaugasupaaree—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 137 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 137)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-138"></a>
 ## शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ
-**English Title:** Shabad 138: Raee Kalavaarai Gavaarai Maoodha Matai Ulatao Pa
+**English Title:** Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 138)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8963,23 +9385,26 @@ ubat (ubat) chalante (chalante) ihu (this) madu (wine) paaia (have found) jaise 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ'—
+रहाउ: पीवहु संत सदा मति दुरलभ सहजे पिआस बुझाई १ रहाउ।
+अंतर-घट में जब अनाहत नाद गूंजता है, तब जीव सहज समाधि में लीन हो जाता है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! reekalavaarigavaarimoodhamatiulatopavanuphiraavau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+When the unstruck melody resounds within, the spirit merges in blissful Sahaja.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 138 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 138)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-139"></a>
 ## शब्द 139: इहु धनु मेरे हरि को नाउ
-**English Title:** Shabad 139: Ihau Dhanau Maerae Harai Kao Naau
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 139)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9026,23 +9451,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) hau (I/ego) ta (upon that/his) ko (unt
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! इहु धनु मेरे हरि को नाउ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'इहु धनु मेरे हरि को नाउ'—
+रहाउ: गांठि न बाधउ बेचि न खाउ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! ihudhanumereharikonaau—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 139: इहु धनु मेरे हरि को नाउ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 139 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 139)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-140"></a>
 ## शब्द 140: गुर सेवा ते भगति कमाई
-**English Title:** Shabad 140: Gaura Saevaa Tae Bhagatai Kamaaee
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 140)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9105,23 +9533,26 @@ aavai (comes/arrives) antu (inner core) n (not) bhajia (bhajia) jaaee (slip away
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! गुर सेवा ते भगति कमाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'गुर सेवा ते भगति कमाई'—
+रहाउ: मानस जनम का एही लाहु १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! gurasevaatebhagatikamaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 140: गुर सेवा ते भगति कमाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 140 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 140)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-141"></a>
 ## शब्द 141: सिव की पुरी बसै बुधि सारु
-**English Title:** Shabad 141: Saiva Kaee Pauraee Basaai Baudhai Saarau
+**English Title:** Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 141)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9180,23 +9611,26 @@ kahi (from (unto/in)) kabeer (Sant Kabir) ta (upon that/his) ka (of) antu (inner
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सिव की पुरी बसै बुधि सारु—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सिव की पुरी बसै बुधि सारु'—
+रहाउ: राजा राम नामु मोरा ब्रहम गिआनु १ रहाउ।
+प्रभु के पावन चरणों में पूर्ण समर्पण ही समस्त संतापों से मुक्ति का मार्ग है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! sivakeepureebasaibudhisaaru—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Surrendering all to the sovereign Beloved dissolveth every sorrow and doubt.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 141: सिव की पुरी बसै बुधि सारु'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 141 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 141)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-142"></a>
 ## शब्द 142: जल महि मीन माइआ के बेधे
-**English Title:** Shabad 142: Jala Mahai Maeena Maaiaa Kae Baedhae
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 142)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9259,23 +9693,26 @@ navai (new) naath (Lord/Protector) sooraj (sooraj) aru (and) chanda (radiant moo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जल महि मीन माइआ के बेधे—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जल महि मीन माइआ के बेधे'—
+रहाउ: जेते जीअ तेते डहकाई १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! jalamahimeenamaaiaakebedhe—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 142: जल महि मीन माइआ के बेधे'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 142 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 142)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-143"></a>
 ## शब्द 143: सतरि सैइ सलार है जा के
-**English Title:** Shabad 143: Satarai Saaii Salaara Haai Jaa Kae
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 143)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9346,23 +9783,26 @@ bhisatu (bhisatu) najeeki (najeeki) raakhu (protect/shelter) rahamaana (The Merc
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सतरि सैइ सलार है जा के—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सतरि सैइ सलार है जा के'—
+रहाउ: मजलसि दूरि महलु को पावै १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! satarisaiisalaarahaijaake—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 143: सतरि सैइ सलार है जा के'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 143 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 143)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-144"></a>
 ## शब्द 144: किउ लीजै गढु बंका भाई
-**English Title:** Shabad 144: Kaiu Laeejaai Gadhau Bankaa Bhaaee
+**English Title:** How to Conquer the Treacherous Fortress: The Soul Ascends the Battlements
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9421,23 +9861,26 @@ daasu (devoted servant) kameeru (kameeru) chadhio (chadhio) gadh (gadh) oopari (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! किउ लीजै गढु बंका भाई—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+हे भाइयो! यह शरीर रूपी दुर्ग कितना विकट और दुर्गम है; दोहरी दीवारें हैं और तिहरी खाइयां खुदी हैं!
+काम, क्रोध, लोभ, मोह और अहंकार के पांच पहरेदार इस पर कड़ा पहरा दे रहे हैं;
+सद्गुरु के ज्ञान का तोपखाना चलाकर कबीर ने इस दुर्ग पर विजय प्राप्त कर ली है और अविनाशी साम्राज्य को पा लिया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kiuleejaigadhubankaabhaaee—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+How shall this treacherous fortress of the body be conquered, O brethren dear;
+Surrounded by double ramparts of delusion, with triple moats of karma near?
+The five fierce sentinels of lust and wrath mount unceasing watch upon the wall;
+Firing the heavy artillery of the Master's Word, Kabir scaled the battlements tall;
+And seated on the ramparts of consciousness, claimed the imperishable Kingdom of Light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 144: किउ लीजै गढु बंका भाई'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 144 का दार्शनिक विश्लेषण
+कबीर शरीर को एक प्राचीन किले (गढ़ बंका) का रूपक देते हैं जिसे विकारों ने घेर रखा है। ज्ञान और गुरु-कृपा से ही इस किले को जीता जा सकता है।
 
 ---
 
 <a name="shabad-145"></a>
 ## शब्द 145: अगम द्रुगम गड़ि रचिओ बास
-**English Title:** Shabad 145: Agama Daraugama Gaड़i Rachaio Baasa
+**English Title:** Inevitability of Mortality and Overcoming Fear of Death (Shabad 145)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9512,23 +9955,26 @@ tria (tria) asathaan (asathaan) teeni (three) tria (tria) khanda (sugar/portion)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! अगम द्रुगम गड़ि रचिओ बास—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'अगम द्रुगम गड़ि रचिओ बास'—
+रहाउ: जरा मरनु छूटै भ्रमु भागै १ रहाउ।
+आयु पल-पल घट रही है; समय रहते प्रभु का सिमरन कर जीवन को सार्थक करो।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! agamadrugamagadirachiobaasa—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Life slips away with every breath; awake and adore the Divine before the bell tolls.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 145: अगम द्रुगम गड़ि रचिओ बास'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 145 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 145)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-146"></a>
 ## शब्द 146: कोटि सूर जा कै परगास
-**English Title:** Shabad 146: Kaotai Saoora Jaa Kaai Paragaasa
+**English Title:** Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 146)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9603,23 +10049,26 @@ baasak (baasak) koti (crores/millions) sej (bridal bed of union) bisatharahi (bi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! कोटि सूर जा कै परगास—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'कोटि सूर जा कै परगास'—
+रहाउ: आन देव सिउ नाही काम १ रहाउ।
+कर्मकांड और पांडित्य व्यर्थ हैं; हृदय की शुद्धता और प्रेम ही सच्ची साधना है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! kotisoorajaakaiparagaasa—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+External rites and barren dogmas avail nothing; purity of heart and love reveal the Lord.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 146: कोटि सूर जा कै परगास'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 146 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 146)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-147"></a>
 ## शब्द 147: जोइ खसमु है जाइआ
-**English Title:** Shabad 147: Jaoi Khasamau Haai Jaaiaa
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 147)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9675,23 +10124,26 @@ kahu (tell) kabeer (Sant Kabir) samajhaaee (having explained) . . . .
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! जोइ खसमु है जाइआ—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'जोइ खसमु है जाइआ'—
+रहाउ: सुति मुकलाई अपनी माउ १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! joikhasamuhaijaaia—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 147: जोइ खसमु है जाइआ'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 147 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 147)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-148"></a>
 ## शब्द 148: इसु तन मन मधे मदन चोर
-**English Title:** Shabad 148: Isau Tana Mana Madhae Madana Chaora
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 148)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9750,23 +10202,26 @@ sukh (true bliss) saagar (ocean/sea) gun (virtues/merits) rau (rau) kabeer (Sant
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! इसु तन मन मधे मदन चोर—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'इसु तन मन मधे मदन चोर'—
+रहाउ: मेरो चपल बुधि सिउ कहा बसाइ १ रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! isutanamanamadhemadanachora—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 148: इसु तन मन मधे मदन चोर'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 148 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 148)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-149"></a>
 ## शब्द 149: नाइकु एकु बनजारे पाच
-**English Title:** Shabad 149: Naaikau Ekau Banajaarae Paacha
+**English Title:** Transcending the Snares of Maya and Worldly Delusion (Shabad 149)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9825,23 +10280,26 @@ sahaj (spontaneous spiritual equilibrium, effortless bliss) samaano (samaano) t 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! नाइकु एकु बनजारे पाच—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'नाइकु एकु बनजारे पाच'—
+रहाउ: जिह घटै मूलु नित बढै बिआजु  रहाउ।
+सांसारिक मोह-माया क्षणभंगुर और दुखदायी है; प्रभु-नाम ही शाश्वत सहारा है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! naaikuekubanajaarepaacha—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+All worldly wealth and illusions are fleeting shadows; Hari's Name alone endures.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 149: नाइकु एकु बनजारे पाच'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 149 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 149)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 
 <a name="shabad-150"></a>
 ## शब्द 150: सुरह की जैसी तेरी चाल
-**English Title:** Shabad 150: Sauraha Kaee Jaaisaee Taeraee Chaala
+**English Title:** Grace of the True Master and the Transformative Word (Shabad 150)
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9891,17 +10349,20 @@ mati (intellect/mind) kooo (anyone) maarai (striking/killing) eent (eent) dhem (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे संत जनों! सुरह की जैसी तेरी चाल—
-अज्ञान और भ्रम को त्यागकर जब आत्मा प्रभु के अनाहत नाद को सुनती है, तब घट-घट में वही अखंड ज्योति प्रकाशमान होती है।
-कबीर कहते हैं कि विषय-विकारों को छोड़कर प्रभु के चरणों में समर्पित होने से ही जीवन की सार्थकता है।
+कबीर इस पावन शब्द में उद्घोष करते हैं: 'सुरह की जैसी तेरी चाल'—
+रहाउ: अउर किस ही के तू मति ही जाहि १ रहाउ।
+सद्गुरु की कृपा के बिना कोई भवसागर पार नहीं कर सकता; गुरु का शब्द ही तारक है।
+जो अंतर्मन से सांसारिक प्रपंचों को त्यागकर परमात्मा में लीन होता है, वही परम पद को पाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-O seekers of Truth! surahakeejaiseetereechaala—
-Casting aside ignorance and illusion, when the soul hears the unstruck celestial music of the Divine, the one eternal Light radiates in every vessel.
-Says Kabir, surrendering worldly distractions at the feet of the Beloved alone brings fulfillment to this mortal existence.
+In this sacred hymn Bhagat Kabir proclaims the truth of divine wisdom;
+Refrain: Stilling the restless wanderings of the mind, seek the sanctuary of the True King;
+Without the Master's grace none crosses the sea of perils; His Word is salvation.
+Whoever surrenders the ego and merges into the Indwelling Beloved crosses the mortal tide.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this profound Shabad from Sri Guru Granth Sahib Ji, Bhagat Kabir expounds on the theme of 'शब्द 150: सुरह की जैसी तेरी चाल'. Employing his signature directness, Kabir dismantles dogmatic pretensions and calls the devotee toward direct experiential union with the omnipresent Lord.
+### श्री गुरु ग्रंथ साहिब: शब्द 150 का दार्शनिक विश्लेषण
+इस शब्द में कबीर 'सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 150)' के गंभीर विषय का निरूपण करते हैं। संसार की नश्वरता और बाह्य भ्रमों का भेदन करते हुए वे साधक को आंतरिक अनुभूति, नाम-स्मरण और सद्गुरु के शब्द का आश्रय लेने का उपदेश देते हैं।
 
 ---
 

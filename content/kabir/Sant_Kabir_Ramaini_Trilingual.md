@@ -7,20 +7,20 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [रमैणी 1: राग सूहौ](#ramaini-1) | Ramaini 1: Raaga Saoohaau |
-| 2 | [रमैणी 2: ग्रंथ बावनी](#ramaini-2) | Ramaini 2: Garantha Baavanaee |
-| 3 | [रमैणी 3: सतपदी रमैणी](#ramaini-3) | Ramaini 3: Satapadaee Ramaainaee |
-| 4 | [रमैणी 4: बड़ी अष्टपदी रमैणी](#ramaini-4) | Ramaini 4: Baड़ee Ashatapadaee Ramaainaee |
-| 5 | [रमैणी 5: दुपदी रमैणी](#ramaini-5) | Ramaini 5: Daupadaee Ramaainaee |
-| 6 | [रमैणी 6: अष्टपदी रमैणी](#ramaini-6) | Ramaini 6: Ashatapadaee Ramaainaee |
-| 7 | [रमैणी 7: बारहपदी रमैणी](#ramaini-7) | Ramaini 7: Baarahapadaee Ramaainaee |
-| 8 | [रमैणी 8: चौपदी रमैणी](#ramaini-8) | Ramaini 8: Chaaupadaee Ramaainaee |
+| 1 | [रमैणी 1: राग सूहौ](#ramaini-1) | सकल संसार में परमात्मा का व्यापक दीदार और रूहानी स्वच्छता |
+| 2 | [रमैणी 2: ग्रंथ बावनी](#ramaini-2) | बावन अक्षरों का विस्तार और अक्षर-अतीत परम तत्व |
+| 3 | [रमैणी 3: सतपदी रमैणी](#ramaini-3) | सात चरणों में सृष्टि की उत्पत्ति, माया का भ्रम और आत्म-बोध |
+| 4 | [रमैणी 4: बड़ी अष्टपदी रमैणी](#ramaini-4) | विराट शिल्पकार का अद्‍भुत विधान और अज्ञान का विसर्जन |
+| 5 | [रमैणी 5: दुपदी रमैणी](#ramaini-5) | विष-अग्नि से जागरण और प्रेम-रस में निमग्नता |
+| 6 | [रमैणी 6: अष्टपदी रमैणी](#ramaini-6) | तीर्थ-व्रत का प्रपंच बनाम केवल राम की अनन्य साधना |
+| 7 | [रमैणी 7: बारहपदी रमैणी](#ramaini-7) | बारह पदों में आदि सुमिरण और अद्वितीय परम पद |
+| 8 | [रमैणी 8: चौपदी रमैणी](#ramaini-8) | ओंकार आदि मूल और राजा-प्रजा का समान दुख-निवारण |
 
 ---
 
 <a name="ramaini-1"></a>
 ## रमैणी 1: राग सूहौ
-**English Title:** Ramaini 1: Raaga Saoohaau
+**English Title:** The Sovereign Vision Across the Cosmos: Spotless Purity and Divine Presence
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -619,23 +619,25 @@ chit (consciousness/attention) chetani (chetani (spiritual sense)) kari (having 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 1: राग सूहौ—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+तू ही संपूर्ण ब्रह्मांड में परिपूर्ण व्याप्त है, तेरा ही स्वच्छ, निर्मल और निष्कलंक दीदार है;
+जिसने अंतर्मन के दर्पण को काम-क्रोध से साफ कर लिया, उसने घट-घट में उस परम प्रियतम का साक्षात्कार कर लिया।
+संसार के झूठे आडंबर और भरम सब नष्ट हो जाते हैं, जब हृदय उस आदि अगाध ज्योति में समाहित हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineeraagasoohau—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+Thou art fully pervasive through all the cosmos wide, pristine and spotless is Thy wondrous grace;
+Whoever cleanses the mirror of the inner soul beholds in every atom Thy radiant face;
+All false pretenses, dogmas, and worldly illusions crumble into silent dust;
+When the awakened spirit merges in that ancient uncreated Light with joyful trust.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 1 (राग सूहौ) का दार्शनिक विश्लेषण
+कबीर ग्रंथावली की यह प्रथम रमैणी अद्वैत दर्शन और रूहानी स्वच्छता (सफ-सफा) का उद्घोष करती है। परमात्मा को किसी मंदिर या मस्जिद में नहीं, बल्कि संपूर्ण सृष्टि में व्याप्त चैतन्य के रूप में प्रस्तुत किया गया है।
 
 ---
 
 <a name="ramaini-2"></a>
 ## रमैणी 2: ग्रंथ बावनी
-**English Title:** Ramaini 2: Garantha Baavanaee
+**English Title:** The Fifty-Two Letters of Creation and the Wordless Eternal Truth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1211,23 +1213,25 @@ nanaari (nanaari) naroon (naroon) tau (then/still) nar (man/mortal) naaheen (not
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 2: ग्रंथ बावनी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+बावन अक्षरों के इस जाल में तीनों लोक और समस्त ज्ञान-शास्त्र समाहित हैं;
+किंतु वह अविनाशी परमात्मा इन बावन अक्षरों की सीमा से परे, उस अक्षर-अतीत पद में स्थित है।
+कबीर कहते हैं कि जो इस अक्षर-जाल के मूल तत्व को पहचान लेता है, वही सच्चा ज्ञानी और मुक्त है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineegranthabaavanee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+Within the cosmic span of fifty-two letters, the three worlds and all scriptures abide;
+Yet the imperishable Supreme Reality dwells beyond the alphabet, where no limits reside;
+Says Kabir, he alone is the illumined seer and liberated soul indeed;
+Who discerns the Wordless Truth beyond the letter's outward seed.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 2 (ग्रंथ बावनी) का दार्शनिक विश्लेषण
+'ग्रंथ बावनी' भाषा, ज्ञान-मीमांसा और सत्ता-मीमांसा का अनुपम संगम है। भाषा (बावन अक्षर) सांसारिक व्यवहार का माध्यम है, किंतु परम सत्य अनिर्वचनीय और मौन है।
 
 ---
 
 <a name="ramaini-3"></a>
 ## रमैणी 3: सतपदी रमैणी
-**English Title:** Ramaini 3: Satapadaee Ramaainaee
+**English Title:** The Sevenfold Canto: Creation's Descent, Maya's Spell, and Self-Realization
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1769,23 +1773,25 @@ khasamahin (khasamahin) jaani (whose/when (of/in)) shima (shima) kari (having do
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 3: सतपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+कथन और श्रवण के लिए ही इस विस्मयकारी जगत की रचना हुई, किंतु संसार अपने मूल सृजनहार को ही भूल बैठा;
+माया के त्रिगुणात्मक प्रपंच ने जीवों को अपने जाल में फंसाकर जन्म-मरण के चक्र में धकेल दिया।
+सद्गुरु के शब्द का सहारा लेकर जो अंतर्मुखी होता है, वही इस सात मंजिले संसार से पार उतरता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineesatapadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+For communication and communion this wondrous universe was brought to light;
+Yet heedless humanity forgot the primal Architect and wandered lost in the night;
+Maya's threefold tapestry of illusion entrapped all beings in transmigration's snare;
+He who takes the True Master's Word ascends beyond the seven planes to sanctuary fair.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 3 (सतपदी रमैणी) का दार्शनिक विश्लेषण
+सतपदी रमैणी में कबीर सात पदों में सृष्टि-क्रम, जीव की भ्रांति और सद्गुरु की कृपा से भवसागर तरने की प्रक्रिया का विशद वर्णन करते हैं।
 
 ---
 
 <a name="ramaini-4"></a>
 ## रमैणी 4: बड़ी अष्टपदी रमैणी
-**English Title:** Ramaini 4: Baड़ee Ashatapadaee Ramaainaee
+**English Title:** The Grand Eightfold Canto: The Cosmic Architect and Dissolution of Ignorance
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2234,23 +2240,25 @@ jhoothai (untruth (does/by)) jhooth (untruth) biyaapiyaan (biyaapiyaan) , kabeer
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 4: बड़ी अष्टपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+उस एक अद्वितीय शिल्पकार ने यह आश्चर्यजनक सृष्टि-विधान रचा है, जिसे अज्ञानी मनुष्य अपनी क्षुद्र बुद्धि से नहीं समझ सकता;
+पंच-तत्व और तीन गुणों से बनी इस काया में वह अमर चेतन तत्व गुप्त रूप से निवास कर रहा है।
+जब ज्ञान का सूर्य अंतःकरण में उदित होता है, तब अज्ञान का अंधकार स्वतः विलीन हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineebadeeashtapadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+A single divine Architect fashioned this wondrous design of earth and skies;
+Which mortal minds in foolish vanity can never fathom with outward eyes;
+Within this earthen frame woven of five elements and three gunas' hue;
+Dwells the immortal conscious Essence, radiant, untouched, and ever true.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 4 (बड़ी अष्टपदी रमैणी) का दार्शनिक विश्लेषण
+इस अष्टपदी में कबीर सृष्टि के सूक्ष्म और स्थूल रूपों का रहस्य खोलते हैं। शरीर को ब्रह्मांड का लघु रूप (पिंड में ब्रह्मांड) सिद्ध करते हुए वे आत्म-अनुसंधान का निर्देश देते हैं।
 
 ---
 
 <a name="ramaini-5"></a>
 ## रमैणी 5: दुपदी रमैणी
-**English Title:** Ramaini 5: Daupadaee Ramaainaee
+**English Title:** The Twofold Canto: Awakening from Poison's Flame into the Ocean of Love
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2573,23 +2581,25 @@ jalahar (jalahar) maraun (maraun) taahi (unto him/that) naheen (not/never) bhaav
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 5: दुपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+संसार की विषैली तृष्णा से जलता हुआ जीव जब दयालु प्रभु की कृपा से जागृत होता है, तब उसके हृदय में असीम प्रेम का संचार होता है;
+विष की अग्नि शांत हो जाती है और अंतर-घट में अमृत की अजस्र धारा प्रवाहित होने लगती है।
+कबीर कहते हैं कि इस रूहानी प्रेम के रंग में रंग जाने पर कोई सांसारिक ताप शेष नहीं रहता।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineedupadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+Burning in the poisonous fever of worldly thirst, when the soul awakens by mercy divine;
+An unmeasured ocean of ecstatic love pours into the heart like sacred wine;
+The flames of sorrow are quenched, the celestial nectar begins to flow;
+Bathed in that divine hue, no worldly affliction or anguish does the spirit know.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 5 (दुपदी रमैणी) का दार्शनिक विश्लेषण
+दुपदी रमैणी में विषय-वासनाओं के विष (विख) से अमृत (प्रेम-रस) की ओर रूपांतरण का मनोवैज्ञानिक और आध्यात्मिक निरूपण है।
 
 ---
 
 <a name="ramaini-6"></a>
 ## रमैणी 6: अष्टपदी रमैणी
-**English Title:** Ramaini 6: Ashatapadaee Ramaainaee
+**English Title:** The Eightfold Canto: Shrines and Fasts vs Devotion to the Sole Lord
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2806,23 +2816,25 @@ gan (gan) bihoonn (bihoonn (spiritual sense)) ka (of) pekhiye (pekhiye) , kaakar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 6: अष्टपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+कोई तीर्थों और बाह्य व्रतों के आडंबर में लिपटा है, तो कोई केवल आत्म-स्वरूप राम को ही अपना निज आधार मानता है;
+पत्थरों और जल में भटकने वाले सत्य से दूर रह जाते हैं, जबकि हृदय के मंदिर में खोजने वाले परम पद को प्राप्त करते हैं।
+कबीर घोषणा करते हैं कि निष्कपट प्रेम के बिना सारे धार्मिक अनुष्ठान केवल श्रम मात्र हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineeashtapadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+Some cling to outer pilgrimages and barren vows of theatrical display;
+While the wise devotee knows the indwelling Ram as his sole foundation and way;
+Those who wander worshipping stones and streams remain distant from Truth and light;
+While he who seeks within the sanctuary of the heart attains the supreme height.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 6 (अष्टपदी रमैणी) का दार्शनिक विश्लेषण
+यह रमैणी बाह्य कर्मकांड और तीर्थ-यात्राओं के खोखलेपन पर कबीर का प्रखर प्रहार है। वे 'निज राम' की आंतरिक अनुभूति को ही एकमात्र मुक्ति-मार्ग प्रतिपादित करते हैं।
 
 ---
 
 <a name="ramaini-7"></a>
 ## रमैणी 7: बारहपदी रमैणी
-**English Title:** Ramaini 7: Baarahapadaee Ramaainaee
+**English Title:** The Twelvefold Canto: Primal Contemplation and the Incomparable Abode
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2973,23 +2985,25 @@ sevak (devoted servant) sev (humble service/devotion) bhulaaniyaan (bhulaaniyaan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 7: बारहपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+सर्वप्रथम अपने मन में उसी एक आदि-पुरुष का स्मरण करो, जिसके समान तीनों लोकों में कोई दूसरा नहीं है;
+बारहों महीनों और जीवन की प्रत्येक अवस्था में निरंतर उस सच्चिदानंद सत्ता का ध्यान धरो।
+जो साधक द्वंद्वों से मुक्त होकर उस निर्गुण निराकार में स्थित होता है, वह काल के भय से सदा के लिए मुक्त हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineebaarahapadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+First and foremost in the quiet sanctum of the mind, remember that primal King;
+Equal to whom no second power exists in heaven, earth, or anything;
+Through all twelve months and every season of life, contemplate the Supreme Light;
+He who rises above duality into the Formless Lord conquers death's gloomy night.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 7 (बारहपदी रमैणी) का दार्शनिक विश्लेषण
+बारहपदी रमैणी में वर्ष के बारह मासों और साधना के बारह सोपानों का प्रतीकात्मक उपयोग करते हुए कबीर अखंड नाम-स्मरण का उपदेश देते हैं।
 
 ---
 
 <a name="ramaini-8"></a>
 ## रमैणी 8: चौपदी रमैणी
-**English Title:** Ramaini 8: Chaaupadaee Ramaainaee
+**English Title:** The Fourfold Canto: Omkar the Primal Root and Universal Solace for King and Pauper
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3064,17 +3078,20 @@ bachha (bachh (spiritual sense)) chookhat (chookhat) upajee (upajee (spiritual s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-परमतत्व के विचार से परिपूर्ण यह पावन रमैणी: रमैणी 8: चौपदी रमैणी—
-आदि ओंकार से उत्पन्न इस ब्रह्मांड में जो आत्म-स्वरूप को पहचान लेता है, वह जन्म-मरण के चक्र से पार हो जाता है।
-मन, वाणी और कर्म को एक रस करके उस अगम और अपार सत्य का साक्षात्कार करना ही जीवन का चरम ध्येय है।
+ओंकार ही संपूर्ण चराचर सृष्टि का आदि मूल है, जिसके बिना किसी भी पदार्थ का कोई अस्तित्व नहीं;
+चाहे सिंहासन पर बैठा राजा हो या दरिद्र प्रजा, मोह-माया की एक ही वेदना ने सबको पीड़ित कर रखा है।
+कबीर कहते हैं कि केवल प्रभु का पावन नाम ही इस सांसारिक त्रिताप से मुक्ति दिलाने वाला एकमात्र सहारा है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Imbued with profound contemplation on the Supreme Reality, this sacred Ramaini reveals: ramaineechaupadeeramainee—
-In this vast universe arising from the primordial Source, whoever realizes the true self transcends the cycle of transmigration.
-Unifying mind, word, and deed to directly realize the fathomless and boundless Truth is the supreme culmination of existence.
+Omkar is the primordial seed and root whence all existence took its birth;
+Without that transcendent foundation, nothing endures upon the earth;
+Whether a monarch crowned upon his golden throne or a beggar in the dust;
+All suffer the identical torment of mortality and worldly lust;
+Says Kabir, the sacred Name of the Beloved alone dissolves the pain.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This Ramaini represents Kabir's philosophical and metaphysical discourse on the nature of creation, consciousness, and the Soul. With dense metrical cadences, Kabir elucidates the cosmic unfolding and the secret of inner realization through contemplation on the Divine Word.
+### कबीर ग्रंथावली: रमैणी 8 (चौपदी रमैणी) का दार्शनिक विश्लेषण
+चौपदी रमैणी में कबीर सामाजिक समता और आध्यात्मिक सार्वभौमिकता का प्रतिपादन करते हैं। मृत्यु और माया के सम्मुख राजा और रंक समान हैं; मुक्ति केवल आत्म-ज्ञान से संभव है।
 
 ---
 

@@ -7,90 +7,90 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [दोहा 1: अन्तर्यामी एक तुम, आत्मा के आधार ।...](#doha-1) | Doha 1: Anatarayaamaee Eka Tauma Aatamaa Kae Aadha |
-| 2 | [दोहा 2: आया था किस काम को, तू सोया चादर तान...](#doha-2) | Doha 2: Aayaa Thaa Kaisa Kaama Kao Taoo Saoyaa Chaada |
-| 3 | [दोहा 3: आए हैं सो जाएँगे, राजा रंक फकीर ।...](#doha-3) | Doha 3: Aae Haain Sao Jaaengae Raajaa Ranka Phakaee |
-| 4 | [दोहा 4: ऊँचे पानी न टिके, नीचे ही ठहराय ।...](#doha-4) | Doha 4: Oonchae Paanaee Na Taikae Naeechae Haee Thaharaa |
-| 5 | [दोहा 5: ऐसी वाणी बोलीए, मन का आपा खोय ।...](#doha-5) | Doha 5: Aisaee Vaanaee Baolaeee Mana Kaa Aapaa Khaoya |
-| 6 | [दोहा 6: कबिरा माला मनहि की, और संसारी भेख ।...](#doha-6) | Doha 6: Kabairaa Maalaa Manahai Kaee Aura Sansaaraee |
-| 7 | [दोहा 7: कबिरा यह तन जात है, सके तो ठौर लगा ...](#doha-7) | Doha 7: Kabairaa Yaha Tana Jaata Haai Sakae Tao Thaaura |
-| 8 | [दोहा 8: कबीरा जपनी काठ की, क्या दिखलावे लोय...](#doha-8) | Doha 8: Kabaeeraa Japanaee Kaatha Kaee Kayaa Daikhalaava |
-| 9 | [दोहा 9: कबीरा ते नर अन्ध हैं, गुरु को कहते ...](#doha-9) | Doha 9: Kabaeeraa Tae Nara Anadha Haain Gaurau Kao |
-| 10 | [दोहा 10: कबीरा धीरज के धरे, हाथी मन भर खाय ।...](#doha-10) | Doha 10: Kabaeeraa Dhaeeraja Kae Dharae Haathaee Mana Bhara |
-| 11 | [दोहा 11: कबीरा सोया क्या करे, उठि न भजे भगवा...](#doha-11) | Doha 11: Kabaeeraa Saoyaa Kayaa Karae Uthai Na Bhajae |
-| 12 | [दोहा 12: कहता तो बहुत मिला, गहता मिला न कोय ...](#doha-12) | Doha 12: Kahataa Tao Bahauta Mailaa Gahataa Mailaa Na |
-| 13 | [दोहा 13: कहना सो कह दिया, अब कुछ कहा न जाय ।...](#doha-13) | Doha 13: Kahanaa Sao Kaha Daiyaa Aba Kauchha Kahaa Na |
-| 14 | [दोहा 14: कामी, क्रोधी, लालची, इनसे भक्ति न ह...](#doha-14) | Doha 14: Kaamaee Karaodhaee Laalachaee Inasae Bhakata |
-| 15 | [दोहा 15: काया काठी काल घुन, जतन-जतन सो खाय ।...](#doha-15) | Doha 15: Kaayaa Kaathaee Kaala Ghauna Jatana-jatana Sao |
-| 16 | [दोहा 16: काल करे सो आज कर, आज करे सो अब ।...](#doha-16) | Doha 16: Kaala Karae Sao Aaja Kara Aaja Karae Sao Aba |
-| 17 | [दोहा 17: कुटिल वचन सबसे बुरा, जारि करे तन छा...](#doha-17) | Doha 17: Kautaila Vachana Sabasae Bauraa Jaarai Karae |
-| 18 | [दोहा 18: क्या भरोसा देह का, बिनस जात छिन मां...](#doha-18) | Doha 18: Kayaa Bharaosaa Daeha Kaa Bainasa Jaata Chhai |
-| 19 | [दोहा 19: गारी ही सों ऊपजे, कलह कष्ट और मींच ...](#doha-19) | Doha 19: Gaaraee Haee Saon Oopajae Kalaha Kashata Aura |
-| 20 | [दोहा 20: गुरु गोविन्द दोनों खड़े, काके लागूं...](#doha-20) | Doha 20: Gaurau Gaovainada Daonaon Khadae Kaakae |
-| 21 | [दोहा 21: छिन ही चढ़े छिन उतरे, सो तो प्रेम न...](#doha-21) | Doha 21: Chhaina Haee Chadhae Chhaina Utarae Sao Tao Pa |
-| 22 | [दोहा 22: छीर रूप सतनाम है, नीर रूप व्यवहार ।...](#doha-22) | Doha 22: Chhaeera Raoopa Satanaama Haai Naeera Raoopa Vayava |
-| 23 | [दोहा 23: जग में बैरी कोई नहीं, जो मन शीतल हो...](#doha-23) | Doha 23: Jaga Maen Baairaee Kaoee Nahaeen Jao Mana Shaee |
-| 24 | [दोहा 24: जब मैं था तब गुरु नहीं, अब गुरु हैं...](#doha-24) | Doha 24: Jaba Maain Thaa Taba Gaurau Nahaeen Aba Gaura |
-| 25 | [दोहा 25: जब लग नाता जगत का, तब लग भक्ति न हो...](#doha-25) | Doha 25: Jaba Laga Naataa Jagata Kaa Taba Laga Bhakatai |
-| 26 | [दोहा 26: जब लगि भगति सकाम है, तब लग निष्फल स...](#doha-26) | Doha 26: Jaba Lagai Bhagatai Sakaama Haai Taba Laga Naisha |
-| 27 | [दोहा 27: जब ही नाम हिरदे धरा, भया पाप का नाश...](#doha-27) | Doha 27: Jaba Haee Naama Hairadae Dharaa Bhayaa Paapa Ka |
-| 28 | [दोहा 28: जब ही नाम ह्रदय धरयो, भयो पाप का ना...](#doha-28) | Doha 28: Jaba Haee Naama Haradaya Dharayao Bhayao Paapa |
-| 29 | [दोहा 29: जल ज्यों प्यारा माहरी, लोभी प्यारा ...](#doha-29) | Doha 29: Jala Jayaon Payaaraa Maaharaee Laobhaee Pa |
-| 30 | [दोहा 30: जहाँ आपा तहाँ आपदा, जहाँ संशय तहाँ ...](#doha-30) | Doha 30: Jahaan Aapaa Tahaan Aapadaa Jahaan Sanshaya |
-| 31 | [दोहा 31: जहाँ दया तहाँ धर्म है, जहाँ लोभ तहा...](#doha-31) | Doha 31: Jahaan Dayaa Tahaan Dharama Haai Jahaan Lao |
-| 32 | [दोहा 32: जा कारण जग ढूंढिया, सो तो घट ही माह...](#doha-32) | Doha 32: Jaa Kaarana Jaga Dhaoondhaiyaa Sao Tao Ghata Ha |
-| 33 | [दोहा 33: जागन में सोवन करे, साधन में लौ लाय ...](#doha-33) | Doha 33: Jaagana Maen Saovana Karae Saadhana Maen Laau |
-| 34 | [दोहा 34: जाति न पूछो साधु की, पूछि लीजिए ज्ञ...](#doha-34) | Doha 34: Jaatai Na Paoochhao Saadhau Kaee Paoochhai Laeejai |
-| 35 | [दोहा 35: जो तोको कांटा बुवे, ताहि बोय तू फूल...](#doha-35) | Doha 35: Jao Taokao Kaantaa Bauvae Taahai Baoya Ta |
-| 36 | [दोहा 36: ज्यों तिल मांही तेल है, ज्यों चकमक ...](#doha-36) | Doha 36: Jayaon Taila Maanhaee Taela Haai Jayaon |
-| 37 | [दोहा 37: तन बोहत मन काग है, लक्ष योजन उड़ जा...](#doha-37) | Doha 37: Tana Baohata Mana Kaaga Haai Lakasha Yaojana U |
-| 38 | [दोहा 38: तब लग तारा जगमगे, जब लग उगे न सूर ।...](#doha-38) | Doha 38: Taba Laga Taaraa Jagamagae Jaba Laga Ugae Na |
-| 39 | [दोहा 39: तिनका कबहुँ न निंदिये, जो पाँयन तर ...](#doha-39) | Doha 39: Tainakaa Kabahaun Na Naindaiyae Jao Paanya |
-| 40 | [दोहा 40: तीरथ गये ते एक फल, सन्त मिले फल चार...](#doha-40) | Doha 40: Taeeratha Gayae Tae Eka Phala Sanata Mailae Pha |
-| 41 | [दोहा 41: तेरा साँई तुझमें है, ज्यों पहुपन मे...](#doha-41) | Doha 41: Taeraa Saanee Taujhamaen Haai Jayaon Pahau |
-| 42 | [दोहा 42: दया कौन पर कीजिये, का पर निर्दय होय...](#doha-42) | Doha 42: Dayaa Kaauna Para Kaeejaiyae Kaa Para Nairada |
-| 43 | [दोहा 43: दस द्वारे का पिंजरा, ता में पंछी कौ...](#doha-43) | Doha 43: Dasa Davaarae Kaa Painjaraa Taa Maen Pan |
-| 44 | [दोहा 44: दान दिए धन ना घटे, नदी न घटे नीर ।...](#doha-44) | Doha 44: Daana Daie Dhana Naa Ghatae Nadaee Na Ghatae Na |
-| 45 | [दोहा 45: दिल का महरम ना मिला, जो मिला सो गर्...](#doha-45) | Doha 45: Daila Kaa Maharama Naa Mailaa Jao Mailaa Sa |
-| 46 | [दोहा 46: दुख में सुमरिन सब करे, सुख में करे ...](#doha-46) | Doha 46: Daukha Maen Saumaraina Saba Karae Saukha Maen |
-| 47 | [दोहा 47: दुर्बल को न सताइए, जाकी मोटी हाय ।...](#doha-47) | Doha 47: Daurabala Kao Na Sataaie Jaakaee Maotaee Ha |
-| 48 | [दोहा 48: दुर्लभ मानुष जन्म है, होय न बारम्बा...](#doha-48) | Doha 48: Dauralabha Maanausha Janama Haai Haoya Na Baa |
-| 49 | [दोहा 49: धीरे-धीरे रे मना, धीरे सब कुछ होय ।...](#doha-49) | Doha 49: Dhaeerae-dhaeerae Rae Manaa Dhaeerae Saba Kauchha |
-| 50 | [दोहा 50: नहीं शीतल है चन्द्रमा, हिंम नहीं शी...](#doha-50) | Doha 50: Nahaeen Shaeetala Haai Chanadaramaa Hainma Naha |
-| 51 | [दोहा 51: नींद निशानी मौत की, उठ कबीरा जाग ।...](#doha-51) | Doha 51: Naeenda Naishaanaee Maauta Kaee Utha Kabaeeraa Ja |
-| 52 | [दोहा 52: पतिवृता मैली भली, काली कुचल कुरूप ।...](#doha-52) | Doha 52: Pataivaritaa Maailaee Bhalaee Kaalaee Kauchala Kau |
-| 53 | [दोहा 53: प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिक...](#doha-53) | Doha 53: Paraema Na Baadaee Oopajaai Paraema Na Haa |
-| 54 | [दोहा 54: प्रेम प्याला जो पिये, शीश दक्षिणा द...](#doha-54) | Doha 54: Paraema Payaalaa Jao Paiyae Shaeesha Dakasha |
-| 55 | [दोहा 55: पाँच पहर धन्धे गया, तीन पहर गया सोय...](#doha-55) | Doha 55: Paancha Pahara Dhanadhae Gayaa Taeena Pahara Gaya |
-| 56 | [दोहा 56: फल कारण सेवा करे, करे न मन से काम ।...](#doha-56) | Doha 56: Phala Kaarana Saevaa Karae Karae Na Mana Sae |
-| 57 | [दोहा 57: फूटी आँख विवेक की, लखे ना सन्त असन्...](#doha-57) | Doha 57: Phaootaee Aankha Vaivaeka Kaee Lakhae Naa Sanata |
-| 58 | [दोहा 58: बलिहारी गुरु आपनो, घड़ी-घड़ी सौ सौ ...](#doha-58) | Doha 58: Balaihaaraee Gaurau Aapanao Ghadaee-ghadaee Sa |
-| 59 | [दोहा 59: बाजीगर का बांदरा, ऐसा जीव मन के साथ...](#doha-59) | Doha 59: Baajaeegara Kaa Baandaraa Aisaa Jaeeva Mana Ka |
-| 60 | [दोहा 60: बानी से पह्चानिये, साम चोर की घात ।...](#doha-60) | Doha 60: Baanaee Sae Pahachaanaiyae Saama Chaora Kaee |
-| 61 | [दोहा 61: बाहर क्या दिखलाईए, अन्तर जपिए राम ।...](#doha-61) | Doha 61: Baahara Kayaa Daikhalaaeee Anatara Japaie |
-| 62 | [दोहा 62: बैद मुआ रोगी मुआ, मुआ सकल संसार ।...](#doha-62) | Doha 62: Baaida Mauaa Raogaee Mauaa Mauaa Sakala Sansaa |
-| 63 | [दोहा 63: भक्ति गेंद चौगान की, भावे कोई ले जा...](#doha-63) | Doha 63: Bhakatai Gaenda Chaaugaana Kaee Bhaavae Kaoee |
-| 64 | [दोहा 64: माटी कहे कुम्हार से, तू क्या रौंदे ...](#doha-64) | Doha 64: Maataee Kahae Kaumahaara Sae Taoo Kayaa Ra |
-| 65 | [दोहा 65: माया छाया एक सी, बिरला जाने कोय ।...](#doha-65) | Doha 65: Maayaa Chhaayaa Eka Saee Bairalaa Jaanae Kao |
-| 66 | [दोहा 66: माया मरी न मन मरा, मर-मर गए शरीर ।...](#doha-66) | Doha 66: Maayaa Maraee Na Mana Maraa Mara-mara Gae Shara |
-| 67 | [दोहा 67: मार्ग चलते जो गिरा, ताकों नाहि दोष ...](#doha-67) | Doha 67: Maaraga Chalatae Jao Gairaa Taakaon Naahai |
-| 68 | [दोहा 68: माला फेरत जुग भया, फिरा न मन का फेर...](#doha-68) | Doha 68: Maalaa Phaerata Jauga Bhayaa Phairaa Na Mana Ka |
-| 69 | [दोहा 69: माँगन मरण समान है, मति माँगो कोई भी...](#doha-69) | Doha 69: Maangana Marana Samaana Haai Matai Maangao Ka |
-| 70 | [दोहा 70: मैं अपराधी जन्म का, नख-सिख भरा विका...](#doha-70) | Doha 70: Maain Aparaadhaee Janama Kaa Nakha-saikha Bharaa |
-| 71 | [दोहा 71: रात गंवाई सोय के, दिवस गंवाया खाय ।...](#doha-71) | Doha 71: Raata Ganvaaee Saoya Kae Daivasa Ganvaayaa |
-| 72 | [दोहा 72: लागी लगन छूटे नाहिं, जीभ चोंच जरि ज...](#doha-72) | Doha 72: Laagaee Lagana Chhaootae Naahain Jaeebha Chaoncha |
-| 73 | [दोहा 73: लूट सके तो लूट ले, राम नाम की लूट ।...](#doha-73) | Doha 73: Laoota Sakae Tao Laoota Lae Raama Naama Kaee |
-| 74 | [दोहा 74: शीलवन्त सबसे बड़ा, सब रतनन की खान ।...](#doha-74) | Doha 74: Shaeelavanata Sabasae Badaa Saba Ratanana Kaee |
-| 75 | [दोहा 75: सब ते लघुताई भली, लघुता ते सब होय ।...](#doha-75) | Doha 75: Saba Tae Laghautaaee Bhalaee Laghautaa Tae Saba |
-| 76 | [दोहा 76: साईं इतना दीजिये, जा में कुटुम समाय...](#doha-76) | Doha 76: Saaeen Itanaa Daeejaiyae Jaa Maen Kautauma |
-| 77 | [दोहा 77: साधु ऐसा चाहिए, जैसा सूप सुभाय ।...](#doha-77) | Doha 77: Saadhau Aisaa Chaahaie Jaaisaa Saoopa Saubhaaya |
-| 78 | [दोहा 78: सुख में सुमरिन ना किया, दु:ख में कि...](#doha-78) | Doha 78: Saukha Maen Saumaraina Naa Kaiyaa Dau:kha Ma |
-| 79 | [दोहा 79: सुख सागर का शील है, कोई न पावे थाह ...](#doha-79) | Doha 79: Saukha Saagara Kaa Shaeela Haai Kaoee Na Paavae |
-| 80 | [दोहा 80: सुमरित सुरत जगाय कर, मुख से कछु न ब...](#doha-80) | Doha 80: Saumaraita Saurata Jagaaya Kara Maukha Sae Kachha |
-| 81 | [दोहा 81: सुमरिन में मन लाइए, जैसे नाद कुरंग ...](#doha-81) | Doha 81: Saumaraina Maen Mana Laaie Jaaisae Naada Ka |
-| 82 | [दोहा 82: सोया साधु जगाइए, करे नाम का जाप ।...](#doha-82) | Doha 82: Saoyaa Saadhau Jagaaie Karae Naama Kaa Jaa |
-| 83 | [दोहा 83: संत ही ते सत बांटई, रोटी में ते टूक...](#doha-83) | Doha 83: Santa Haee Tae Sata Baantaee Raotaee Maen Ta |
-| 84 | [दोहा 84: हीरा वहाँ न खोलिये, जहाँ कुंजड़ों क...](#doha-84) | Doha 84: Haeeraa Vahaan Na Khaolaiyae Jahaan Kaunjada |
+| 1 | [दोहा 1: अन्तर्यामी एक तुम, आत्मा के आधार ।...](#doha-1) | दोहा 1: अन्तर्यामी एक तुम, आत्मा के आधार ।... |
+| 2 | [दोहा 2: आया था किस काम को, तू सोया चादर तान...](#doha-2) | दोहा 2: आया था किस काम को, तू सोया चादर तान... |
+| 3 | [दोहा 3: आए हैं सो जाएँगे, राजा रंक फकीर ।...](#doha-3) | दोहा 3: आए हैं सो जाएँगे, राजा रंक फकीर ।... |
+| 4 | [दोहा 4: ऊँचे पानी न टिके, नीचे ही ठहराय ।...](#doha-4) | दोहा 4: ऊँचे पानी न टिके, नीचे ही ठहराय ।... |
+| 5 | [दोहा 5: ऐसी वाणी बोलीए, मन का आपा खोय ।...](#doha-5) | दोहा 5: ऐसी वाणी बोलीए, मन का आपा खोय ।... |
+| 6 | [दोहा 6: कबिरा माला मनहि की, और संसारी भेख ।...](#doha-6) | दोहा 6: कबिरा माला मनहि की, और संसारी भेख ।... |
+| 7 | [दोहा 7: कबिरा यह तन जात है, सके तो ठौर लगा ...](#doha-7) | दोहा 7: कबिरा यह तन जात है, सके तो ठौर लगा ... |
+| 8 | [दोहा 8: कबीरा जपनी काठ की, क्या दिखलावे लोय...](#doha-8) | दोहा 8: कबीरा जपनी काठ की, क्या दिखलावे लोय... |
+| 9 | [दोहा 9: कबीरा ते नर अन्ध हैं, गुरु को कहते ...](#doha-9) | दोहा 9: कबीरा ते नर अन्ध हैं, गुरु को कहते ... |
+| 10 | [दोहा 10: कबीरा धीरज के धरे, हाथी मन भर खाय ।...](#doha-10) | दोहा 10: कबीरा धीरज के धरे, हाथी मन भर खाय ।... |
+| 11 | [दोहा 11: कबीरा सोया क्या करे, उठि न भजे भगवा...](#doha-11) | दोहा 11: कबीरा सोया क्या करे, उठि न भजे भगवा... |
+| 12 | [दोहा 12: कहता तो बहुत मिला, गहता मिला न कोय ...](#doha-12) | दोहा 12: कहता तो बहुत मिला, गहता मिला न कोय ... |
+| 13 | [दोहा 13: कहना सो कह दिया, अब कुछ कहा न जाय ।...](#doha-13) | दोहा 13: कहना सो कह दिया, अब कुछ कहा न जाय ।... |
+| 14 | [दोहा 14: कामी, क्रोधी, लालची, इनसे भक्ति न ह...](#doha-14) | दोहा 14: कामी, क्रोधी, लालची, इनसे भक्ति न ह... |
+| 15 | [दोहा 15: काया काठी काल घुन, जतन-जतन सो खाय ।...](#doha-15) | दोहा 15: काया काठी काल घुन, जतन-जतन सो खाय ।... |
+| 16 | [दोहा 16: काल करे सो आज कर, आज करे सो अब ।...](#doha-16) | दोहा 16: काल करे सो आज कर, आज करे सो अब ।... |
+| 17 | [दोहा 17: कुटिल वचन सबसे बुरा, जारि करे तन छा...](#doha-17) | दोहा 17: कुटिल वचन सबसे बुरा, जारि करे तन छा... |
+| 18 | [दोहा 18: क्या भरोसा देह का, बिनस जात छिन मां...](#doha-18) | दोहा 18: क्या भरोसा देह का, बिनस जात छिन मां... |
+| 19 | [दोहा 19: गारी ही सों ऊपजे, कलह कष्ट और मींच ...](#doha-19) | दोहा 19: गारी ही सों ऊपजे, कलह कष्ट और मींच ... |
+| 20 | [दोहा 20: गुरु गोविन्द दोनों खड़े, काके लागूं...](#doha-20) | दोहा 20: गुरु गोविन्द दोनों खड़े, काके लागूं... |
+| 21 | [दोहा 21: छिन ही चढ़े छिन उतरे, सो तो प्रेम न...](#doha-21) | दोहा 21: छिन ही चढ़े छिन उतरे, सो तो प्रेम न... |
+| 22 | [दोहा 22: छीर रूप सतनाम है, नीर रूप व्यवहार ।...](#doha-22) | दोहा 22: छीर रूप सतनाम है, नीर रूप व्यवहार ।... |
+| 23 | [दोहा 23: जग में बैरी कोई नहीं, जो मन शीतल हो...](#doha-23) | दोहा 23: जग में बैरी कोई नहीं, जो मन शीतल हो... |
+| 24 | [दोहा 24: जब मैं था तब गुरु नहीं, अब गुरु हैं...](#doha-24) | दोहा 24: जब मैं था तब गुरु नहीं, अब गुरु हैं... |
+| 25 | [दोहा 25: जब लग नाता जगत का, तब लग भक्ति न हो...](#doha-25) | दोहा 25: जब लग नाता जगत का, तब लग भक्ति न हो... |
+| 26 | [दोहा 26: जब लगि भगति सकाम है, तब लग निष्फल स...](#doha-26) | दोहा 26: जब लगि भगति सकाम है, तब लग निष्फल स... |
+| 27 | [दोहा 27: जब ही नाम हिरदे धरा, भया पाप का नाश...](#doha-27) | दोहा 27: जब ही नाम हिरदे धरा, भया पाप का नाश... |
+| 28 | [दोहा 28: जब ही नाम ह्रदय धरयो, भयो पाप का ना...](#doha-28) | दोहा 28: जब ही नाम ह्रदय धरयो, भयो पाप का ना... |
+| 29 | [दोहा 29: जल ज्यों प्यारा माहरी, लोभी प्यारा ...](#doha-29) | दोहा 29: जल ज्यों प्यारा माहरी, लोभी प्यारा ... |
+| 30 | [दोहा 30: जहाँ आपा तहाँ आपदा, जहाँ संशय तहाँ ...](#doha-30) | दोहा 30: जहाँ आपा तहाँ आपदा, जहाँ संशय तहाँ ... |
+| 31 | [दोहा 31: जहाँ दया तहाँ धर्म है, जहाँ लोभ तहा...](#doha-31) | दोहा 31: जहाँ दया तहाँ धर्म है, जहाँ लोभ तहा... |
+| 32 | [दोहा 32: जा कारण जग ढूंढिया, सो तो घट ही माह...](#doha-32) | दोहा 32: जा कारण जग ढूंढिया, सो तो घट ही माह... |
+| 33 | [दोहा 33: जागन में सोवन करे, साधन में लौ लाय ...](#doha-33) | दोहा 33: जागन में सोवन करे, साधन में लौ लाय ... |
+| 34 | [दोहा 34: जाति न पूछो साधु की, पूछि लीजिए ज्ञ...](#doha-34) | दोहा 34: जाति न पूछो साधु की, पूछि लीजिए ज्ञ... |
+| 35 | [दोहा 35: जो तोको कांटा बुवे, ताहि बोय तू फूल...](#doha-35) | दोहा 35: जो तोको कांटा बुवे, ताहि बोय तू फूल... |
+| 36 | [दोहा 36: ज्यों तिल मांही तेल है, ज्यों चकमक ...](#doha-36) | दोहा 36: ज्यों तिल मांही तेल है, ज्यों चकमक ... |
+| 37 | [दोहा 37: तन बोहत मन काग है, लक्ष योजन उड़ जा...](#doha-37) | दोहा 37: तन बोहत मन काग है, लक्ष योजन उड़ जा... |
+| 38 | [दोहा 38: तब लग तारा जगमगे, जब लग उगे न सूर ।...](#doha-38) | दोहा 38: तब लग तारा जगमगे, जब लग उगे न सूर ।... |
+| 39 | [दोहा 39: तिनका कबहुँ न निंदिये, जो पाँयन तर ...](#doha-39) | दोहा 39: तिनका कबहुँ न निंदिये, जो पाँयन तर ... |
+| 40 | [दोहा 40: तीरथ गये ते एक फल, सन्त मिले फल चार...](#doha-40) | दोहा 40: तीरथ गये ते एक फल, सन्त मिले फल चार... |
+| 41 | [दोहा 41: तेरा साँई तुझमें है, ज्यों पहुपन मे...](#doha-41) | दोहा 41: तेरा साँई तुझमें है, ज्यों पहुपन मे... |
+| 42 | [दोहा 42: दया कौन पर कीजिये, का पर निर्दय होय...](#doha-42) | दोहा 42: दया कौन पर कीजिये, का पर निर्दय होय... |
+| 43 | [दोहा 43: दस द्वारे का पिंजरा, ता में पंछी कौ...](#doha-43) | दोहा 43: दस द्वारे का पिंजरा, ता में पंछी कौ... |
+| 44 | [दोहा 44: दान दिए धन ना घटे, नदी न घटे नीर ।...](#doha-44) | दोहा 44: दान दिए धन ना घटे, नदी न घटे नीर ।... |
+| 45 | [दोहा 45: दिल का महरम ना मिला, जो मिला सो गर्...](#doha-45) | दोहा 45: दिल का महरम ना मिला, जो मिला सो गर्... |
+| 46 | [दोहा 46: दुख में सुमरिन सब करे, सुख में करे ...](#doha-46) | दोहा 46: दुख में सुमरिन सब करे, सुख में करे ... |
+| 47 | [दोहा 47: दुर्बल को न सताइए, जाकी मोटी हाय ।...](#doha-47) | दोहा 47: दुर्बल को न सताइए, जाकी मोटी हाय ।... |
+| 48 | [दोहा 48: दुर्लभ मानुष जन्म है, होय न बारम्बा...](#doha-48) | दोहा 48: दुर्लभ मानुष जन्म है, होय न बारम्बा... |
+| 49 | [दोहा 49: धीरे-धीरे रे मना, धीरे सब कुछ होय ।...](#doha-49) | दोहा 49: धीरे-धीरे रे मना, धीरे सब कुछ होय ।... |
+| 50 | [दोहा 50: नहीं शीतल है चन्द्रमा, हिंम नहीं शी...](#doha-50) | दोहा 50: नहीं शीतल है चन्द्रमा, हिंम नहीं शी... |
+| 51 | [दोहा 51: नींद निशानी मौत की, उठ कबीरा जाग ।...](#doha-51) | दोहा 51: नींद निशानी मौत की, उठ कबीरा जाग ।... |
+| 52 | [दोहा 52: पतिवृता मैली भली, काली कुचल कुरूप ।...](#doha-52) | दोहा 52: पतिवृता मैली भली, काली कुचल कुरूप ।... |
+| 53 | [दोहा 53: प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिक...](#doha-53) | दोहा 53: प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिक... |
+| 54 | [दोहा 54: प्रेम प्याला जो पिये, शीश दक्षिणा द...](#doha-54) | दोहा 54: प्रेम प्याला जो पिये, शीश दक्षिणा द... |
+| 55 | [दोहा 55: पाँच पहर धन्धे गया, तीन पहर गया सोय...](#doha-55) | दोहा 55: पाँच पहर धन्धे गया, तीन पहर गया सोय... |
+| 56 | [दोहा 56: फल कारण सेवा करे, करे न मन से काम ।...](#doha-56) | दोहा 56: फल कारण सेवा करे, करे न मन से काम ।... |
+| 57 | [दोहा 57: फूटी आँख विवेक की, लखे ना सन्त असन्...](#doha-57) | दोहा 57: फूटी आँख विवेक की, लखे ना सन्त असन्... |
+| 58 | [दोहा 58: बलिहारी गुरु आपनो, घड़ी-घड़ी सौ सौ ...](#doha-58) | दोहा 58: बलिहारी गुरु आपनो, घड़ी-घड़ी सौ सौ ... |
+| 59 | [दोहा 59: बाजीगर का बांदरा, ऐसा जीव मन के साथ...](#doha-59) | दोहा 59: बाजीगर का बांदरा, ऐसा जीव मन के साथ... |
+| 60 | [दोहा 60: बानी से पह्चानिये, साम चोर की घात ।...](#doha-60) | दोहा 60: बानी से पह्चानिये, साम चोर की घात ।... |
+| 61 | [दोहा 61: बाहर क्या दिखलाईए, अन्तर जपिए राम ।...](#doha-61) | दोहा 61: बाहर क्या दिखलाईए, अन्तर जपिए राम ।... |
+| 62 | [दोहा 62: बैद मुआ रोगी मुआ, मुआ सकल संसार ।...](#doha-62) | दोहा 62: बैद मुआ रोगी मुआ, मुआ सकल संसार ।... |
+| 63 | [दोहा 63: भक्ति गेंद चौगान की, भावे कोई ले जा...](#doha-63) | दोहा 63: भक्ति गेंद चौगान की, भावे कोई ले जा... |
+| 64 | [दोहा 64: माटी कहे कुम्हार से, तू क्या रौंदे ...](#doha-64) | दोहा 64: माटी कहे कुम्हार से, तू क्या रौंदे ... |
+| 65 | [दोहा 65: माया छाया एक सी, बिरला जाने कोय ।...](#doha-65) | दोहा 65: माया छाया एक सी, बिरला जाने कोय ।... |
+| 66 | [दोहा 66: माया मरी न मन मरा, मर-मर गए शरीर ।...](#doha-66) | दोहा 66: माया मरी न मन मरा, मर-मर गए शरीर ।... |
+| 67 | [दोहा 67: मार्ग चलते जो गिरा, ताकों नाहि दोष ...](#doha-67) | दोहा 67: मार्ग चलते जो गिरा, ताकों नाहि दोष ... |
+| 68 | [दोहा 68: माला फेरत जुग भया, फिरा न मन का फेर...](#doha-68) | दोहा 68: माला फेरत जुग भया, फिरा न मन का फेर... |
+| 69 | [दोहा 69: माँगन मरण समान है, मति माँगो कोई भी...](#doha-69) | दोहा 69: माँगन मरण समान है, मति माँगो कोई भी... |
+| 70 | [दोहा 70: मैं अपराधी जन्म का, नख-सिख भरा विका...](#doha-70) | दोहा 70: मैं अपराधी जन्म का, नख-सिख भरा विका... |
+| 71 | [दोहा 71: रात गंवाई सोय के, दिवस गंवाया खाय ।...](#doha-71) | दोहा 71: रात गंवाई सोय के, दिवस गंवाया खाय ।... |
+| 72 | [दोहा 72: लागी लगन छूटे नाहिं, जीभ चोंच जरि ज...](#doha-72) | दोहा 72: लागी लगन छूटे नाहिं, जीभ चोंच जरि ज... |
+| 73 | [दोहा 73: लूट सके तो लूट ले, राम नाम की लूट ।...](#doha-73) | दोहा 73: लूट सके तो लूट ले, राम नाम की लूट ।... |
+| 74 | [दोहा 74: शीलवन्त सबसे बड़ा, सब रतनन की खान ।...](#doha-74) | दोहा 74: शीलवन्त सबसे बड़ा, सब रतनन की खान ।... |
+| 75 | [दोहा 75: सब ते लघुताई भली, लघुता ते सब होय ।...](#doha-75) | दोहा 75: सब ते लघुताई भली, लघुता ते सब होय ।... |
+| 76 | [दोहा 76: साईं इतना दीजिये, जा में कुटुम समाय...](#doha-76) | दोहा 76: साईं इतना दीजिये, जा में कुटुम समाय... |
+| 77 | [दोहा 77: साधु ऐसा चाहिए, जैसा सूप सुभाय ।...](#doha-77) | दोहा 77: साधु ऐसा चाहिए, जैसा सूप सुभाय ।... |
+| 78 | [दोहा 78: सुख में सुमरिन ना किया, दु:ख में कि...](#doha-78) | दोहा 78: सुख में सुमरिन ना किया, दु:ख में कि... |
+| 79 | [दोहा 79: सुख सागर का शील है, कोई न पावे थाह ...](#doha-79) | दोहा 79: सुख सागर का शील है, कोई न पावे थाह ... |
+| 80 | [दोहा 80: सुमरित सुरत जगाय कर, मुख से कछु न ब...](#doha-80) | दोहा 80: सुमरित सुरत जगाय कर, मुख से कछु न ब... |
+| 81 | [दोहा 81: सुमरिन में मन लाइए, जैसे नाद कुरंग ...](#doha-81) | दोहा 81: सुमरिन में मन लाइए, जैसे नाद कुरंग ... |
+| 82 | [दोहा 82: सोया साधु जगाइए, करे नाम का जाप ।...](#doha-82) | दोहा 82: सोया साधु जगाइए, करे नाम का जाप ।... |
+| 83 | [दोहा 83: संत ही ते सत बांटई, रोटी में ते टूक...](#doha-83) | दोहा 83: संत ही ते सत बांटई, रोटी में ते टूक... |
+| 84 | [दोहा 84: हीरा वहाँ न खोलिये, जहाँ कुंजड़ों क...](#doha-84) | दोहा 84: हीरा वहाँ न खोलिये, जहाँ कुंजड़ों क... |
 
 ---
 
@@ -119,15 +119,13 @@ jo (that) tum (You/Thou) chhodao (chhodao) haath (hand) to (then indeed) , kaun 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-अन्तर्यामी एक तुम, आत्मा के आधार ।,
-जो तुम छोड़ो हाथ तो, कौन उतारे पार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-antaryaameeekatumaaatmaakeaadhaara,
-jotumachhodaohaathatokaunautaarepaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -156,15 +154,13 @@ surat (surat) sambhaal (sambhaal) e (these) gaaphila (heedless one, unaware slee
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-आया था किस काम को, तू सोया चादर तान ।,
-सुरत सम्भाल ए गाफिला, अपना आप पहचान
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-aayaathaakisakaamakotoosoyaachaadarataana,
-suratasambhaalaegaaphilaaapanaaaapapahachaana
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -193,15 +189,13 @@ ek (equal and one) sinhaasan (throne of honor, elevated station) chadhai (chadha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-आए हैं सो जाएँगे, राजा रंक फकीर ।,
-एक सिंहासन चढ़ि चले, एक बँधे जात जंजीर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-aaehainsojaaengeraajaarankaphakeera,
-ekasinhaasanachadhaichaleekabandhejaatajanjeera
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -230,15 +224,13 @@ neecha (lowly/humble) ho (O!/art) so (that/the same) bhar (bhar) pie (pie) , oon
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-ऊँचे पानी न टिके, नीचे ही ठहराय ।,
-नीचा हो सो भर पिए, ऊँचा प्यासा जाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-oonchepaaneenatikeneecheheethaharaaya,
-neechaahosobharapieoonchaapyaasaajaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -267,15 +259,13 @@ auran (unto others, all people) ko (unto/toward) sheetal (cool, soothing and pea
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-ऐसी वाणी बोलीए, मन का आपा खोय ।,
-औरन को शीतल करे, आपहुं शीतल होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-aiseevaaneeboleeemanakaaaapaakhoya,
-auranakosheetalakareaapahunsheetalahoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -304,15 +294,13 @@ maala (rosary of beads) phere (again) hari (The Lord who dispels grief (Hari)) m
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबिरा माला मनहि की, और संसारी भेख ।,
-माला फेरे हरि मिले, गले रहट के देख
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabiraamaalaamanahikeeaurasansaareebhekha,
-maalaaphereharimilegalerahatakedekha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -341,15 +329,13 @@ kai (of) seva (devoted service) kar (doing) saadhu (true saint, virtuous seeker)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबिरा यह तन जात है, सके तो ठौर लगा ।,
-कै सेवा कर साधु की, कै गोविंद गुन गा
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabiraayahatanajaatahaisaketothauralaga,
-kaisevaakarasaadhukeekaigovindagunaga
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -378,15 +364,13 @@ hraday (hraday) naam (Divine Name) n (not) japega (japega) , yah (this realm/thi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीरा जपनी काठ की, क्या दिखलावे लोय ।,
-ह्रदय नाम न जपेगा, यह जपनी क्या होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabeeraajapaneekaathakeekyaadikhalaaveloya,
-hradayanaamanajapegaayahajapaneekyaahoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -415,15 +399,13 @@ hari (The Lord who dispels grief (Hari)) roothe (roothe) guru (True Spiritual Ma
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीरा ते नर अन्ध हैं, गुरु को कहते और ।,
-हरि रूठे गुरु ठौर है, गुरु रुठै नहीं ठौर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabeeraatenaraandhahaingurukokahateaura,
-harirootheguruthaurahaigururuthainaheenthaur
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -452,15 +434,13 @@ toot (toot) ek (equal and one) ke (of) kaarane (work/deed related) , svaan (svaa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीरा धीरज के धरे, हाथी मन भर खाय ।,
-टूट एक के कारने, स्वान घरै घर जाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabeeraadheerajakedharehaatheemanabharakhaaya,
-tootaekakekaaranesvaanagharaigharajaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -489,15 +469,13 @@ jam (Yamraj/Death) jab (at the time when) ghar (home/refuge) le (taking/having t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीरा सोया क्या करे, उठि न भजे भगवान ।,
-जम जब घर ले जायेंगे, पड़ी रहेगी म्यान
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kabeeraasoyaakyaakareuthinabhajebhagavaana,
-jamajabagharalejaayengepadaeerahegeemyaana
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -526,15 +504,13 @@ so (that/the same) kahata (speaking/saying) vah (vah) jaan (life/soul) de (of/un
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कहता तो बहुत मिला, गहता मिला न कोय ।,
-सो कहता वह जान दे, जो नहिं गहता होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kahataatobahutamilaagahataamilaanakoya,
-sokahataavahajaanadejonahingahataahoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -563,15 +539,13 @@ ek (equal and one) raha (raha) dooja (second) gaya (has departed) , dariya (dari
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कहना सो कह दिया, अब कुछ कहा न जाय ।,
-एक रहा दूजा गया, दरिया लहर समाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kahanaasokahadiyaaabakuchhakahaanajaaya,
-ekarahaadoojaagayaadariyaalaharasamaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -600,15 +574,13 @@ bhakti (bhakti (spiritual sense)) kare (makes) koi (unto/to (in/having done)) so
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कामी, क्रोधी, लालची, इनसे भक्ति न होय ।,
-भक्ति करे कोइ सूरमा, जाति वरन कुल खोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kaameekrodheelaalacheeinasebhaktinahoya,
-bhaktikarekoisooramaajaativaranakulakhoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -637,15 +609,13 @@ kaaya (mortal physical frame) vaid (vaid) eesh (eesh) bas (bas (spiritual sense)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-काया काठी काल घुन, जतन-जतन सो खाय ।,
-काया वैद ईश बस, मर्म न काहू पाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kaayaakaatheekaalaghunajatanajatanasokhaaya,
-kaayaavaidaeeshabasamarmanakaahoopaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -674,15 +644,13 @@ pal (moment) men (in/within) pralay (pralay) hoegee (hoegee) , bahuri (again/onc
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-काल करे सो आज कर, आज करे सो अब ।,
-पल में प्रलय होएगी, बहुरि करेगा कब
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kaalakaresoaajakaraaajakaresoaba,
-palamenpralayahoegeebahurikaregaakaba
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -711,15 +679,13 @@ saadhu (true saint, virtuous seeker) vachan (vachan (spiritual sense)) jal (wate
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कुटिल वचन सबसे बुरा, जारि करे तन छार ।,
-साधु वचन जल रूप है, बरसे अमृत धार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kutilavachanasabaseburaajaarikaretanachhaara,
-saadhuvachanajalaroopahaibaraseamritadhaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -748,15 +714,13 @@ saans (saans) - saans (saans) sumarin (sumarin) karo (do ye) aur (and/other) yat
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-क्या भरोसा देह का, बिनस जात छिन मांहि ।,
-साँस-सांस सुमरिन करो और यत्न कुछ नांहि
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-kyaabharosaadehakaabinasajaatachhinamaanhi,
-saansasaansasumarinakaroaurayatnakuchhanaanhi
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -785,15 +749,13 @@ haari (defeat/garland (in/having done)) chale (departs/walks) so (that/the same)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-गारी ही सों ऊपजे, कलह कष्ट और मींच ।,
-हारि चले सो साधु है, लागि चले सो नींच
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-gaareeheesonoopajekalahakashtaaurameencha,
-haarichalesosaadhuhailaagichalesoneencha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -822,15 +784,13 @@ balihaaree (balihaaree) guru (True Spiritual Master) aapano (Himself/oneself (fo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-गुरु गोविन्द दोनों खड़े, काके लागूं पाँय ।,
-बलिहारी गुरु आपनो, गोविंद दियो बताय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-gurugovindadononkhadaekaakelaagoonpaany,
-balihaareeguruaapanogovindadiyobataaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -859,15 +819,13 @@ aghat (aghat) prem (Divine Love) pinjare (pinjare) base (bas (spiritual sense)) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-छिन ही चढ़े छिन उतरे, सो तो प्रेम न होय ।,
-अघट प्रेम पिंजरे बसे, प्रेम कहावे सोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-chhinaheechadhaechhinautaresotopremanahoya,
-aghatapremapinjarebasepremakahaavesoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -896,15 +854,13 @@ hans (hans) roop (form) koee (anyone) saadhu (true saint, virtuous seeker) hai (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-छीर रूप सतनाम है, नीर रूप व्यवहार ।,
-हंस रूप कोई साधु है, सत का छाननहार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-chheeraroopasatanaamahaineeraroopavyavahaara,
-hansaroopakoeesaadhuhaisatakaachhaananahaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -933,15 +889,13 @@ yah (this realm/this body) aapa (egotism, individual vanity) jo (that) daal (daa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जग में बैरी कोई नहीं, जो मन शीतल होय ।,
-यह आपा जो डाल दे, दया करे सब कोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jagamenbaireekoeenaheenjomanasheetalahoya,
-yahaaapaajodaaladedayaakaresabakoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -970,15 +924,13 @@ prem (Divine Love) galee (lane of love/alley) ati (exceedingly/greatly) saankare
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जब मैं था तब गुरु नहीं, अब गुरु हैं मैं नाय ।,
-प्रेम गली अति साँकरी, ता में दो न समाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jabamainthaatabagurunaheenabaguruhainmain,
-premagaleeatisaankareetaamendonasamaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1007,15 +959,13 @@ naata (naata) todae (todae) hari (The Lord who dispels grief (Hari)) bhaje (bhaj
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जब लग नाता जगत का, तब लग भक्ति न होय ।,
-नाता तोड़े हरि भजे, भगत कहावे सोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jabalaganaataajagatakaatabalagabhaktinahoya,
-naataatodaeharibhajebhagatakahaavesoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1044,15 +994,13 @@ kah (saying) kabeer (Sant Kabir) vah (vah) kyon (kyon (spiritual sense)) mile (t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जब लगि भगति सकाम है, तब लग निष्फल सेव ।,
-कह कबीर वह क्यों मिले, निष्कामी तज देव
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jabalagibhagatisakaamahaitabalaganishphalaseva,
-kahakabeeravahakyonmilenishkaameetajadeva
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1081,15 +1029,13 @@ maano (as if/suppose) chingaaree (chingaaree) aag (aag) kee (of) , paree (fallen
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जब ही नाम हिरदे धरा, भया पाप का नाश ।,
-मानो चिंगारी आग की, परी पुरानी घास
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jabaheenaamahiradedharaabhayaapaapakaanaasha,
-maanochingaareeaagakeepareepuraaneeghaasa
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1118,15 +1064,13 @@ maano (as if/suppose) chinagee (chinagee) agni (agni) kee (of) , pari (but/upon 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जब ही नाम ह्रदय धरयो, भयो पाप का नाश ।,
-मानो चिनगी अग्नि की, परि पुरानी घास
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jabaheenaamahradayadharayobhayopaapakaanaasha,
-maanochinageeagnikeeparipuraaneeghaasa
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1155,15 +1099,13 @@ maata (mother) pyaara (Beloved) baaraka (baaraka) , bhagati (loving devotion) py
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जल ज्यों प्यारा माहरी, लोभी प्यारा दाम ।,
-माता प्यारा बारका, भगति प्यारा नाम
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jalajyonpyaaraamaahareelobheepyaaraadaama,
-maataapyaaraabaarakaabhagatipyaaraanaama
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1192,15 +1134,13 @@ kah (saying) kabeer (Sant Kabir) yah (this realm/this body) kyon (kyon (spiritua
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जहाँ आपा तहाँ आपदा, जहाँ संशय तहाँ रोग ।,
-कह कबीर यह क्यों मिटें, चारों दीर्घ रोग
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jahaanaapaatahaanaapadaajahaansanshayatahaanroga,
-kahakabeerayahakyonmitenchaarondeergharoga
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1229,15 +1169,13 @@ jahaan (wherever) krodh (wrath/anger) tahaan (there) paap (sin/transgression) ha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जहाँ दया तहाँ धर्म है, जहाँ लोभ तहाँ पाप ।,
-जहाँ क्रोध तहाँ पाप है, जहाँ क्षमा तहाँ आप
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jahaandayaatahaandharmahaijahaanlobhatahaanpaap,
-jahaankrodhatahaanpaapahaijahaankshamaatahaan
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1266,15 +1204,13 @@ parada (parada) diya (gave/bestowed) bharam (illusion/doubt) ka (of) , taate (ta
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जा कारण जग ढूंढिया, सो तो घट ही माहिं ।,
-परदा दिया भरम का, ताते सूझे नाहिं
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jaakaaranajagadhoondhiyaasotoghataheemaahin,
-paradaadiyaabharamakaataatesoojhenaahin
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1303,15 +1239,13 @@ soorat (soorat) dor (dor) laagee (flame of longing) rahe (remain) , taar (taar) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-किसी दुर्बल और असहाय को कभी मत सताओ, क्योंकि उसकी हाय बहुत गहरी होती है,
-जैसे निर्जीव चमड़े की धौंकनी की फूंक से भी कठोर लोहा भस्म हो जाता है।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Oppress not the weak and defenseless, for heavy and fateful is their silent sigh;
-Just as a dead animal's skin in the blacksmith's bellows turns solid iron to ashes by and by.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-A solemn warning against social tyranny and cruelty toward the underprivileged. The silent anguish of the oppressed commands cosmic justice.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1340,15 +1274,13 @@ mol (price/worth) karo (do ye) talavaar (talavaar) ka (of) , padee (padee) rahan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जाति न पूछो साधु की, पूछि लीजिए ज्ञान ।,
-मोल करो तलवार का, पड़ी रहन दो म्यान
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jaatinapoochhosaadhukeepoochhileejiejnyaana,
-molakarotalavaarakaapadeerahanadomyaana
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1377,15 +1309,13 @@ toko (toko) phool (blossoms') ke (of) phool (blossoms') hai (is) , vaako (vaako)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-जो तोको कांटा बुवे, ताहि बोय तू फूल ।,
-तोको फूल के फूल है, वाको है त्रिशूल
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jotokokaantaabuvetaahiboyatoophoola,
-tokophoolakephoolahaivaakohaitrishoola
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1414,15 +1344,13 @@ tera (thine/Lord's) saanee (saanee (spiritual sense)) tujhamen (tujhamen) hai (i
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-ज्यों तिल मांही तेल है, ज्यों चकमक में आग ।,
-तेरा सांई तुझमें है, जाग सके तो जाग
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-jyontilamaanheetelahaijyonchakamakamena,
-teraasaaneetujhamenhaijaagasaketojaaga
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1451,15 +1379,13 @@ kabahu (ever/sometimes) ke (of) dharm (righteousness/moral duty) agam (unfathoma
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-तन बोहत मन काग है, लक्ष योजन उड़ जाय ।,
-कबहु के धर्म अगम दयी, कबहुं गगन समाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-tanabohatamanakaagahailakshayojanaudajaaya,
-kabahukedharmaagamadayeekabahungaganasamaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1488,15 +1414,13 @@ tab (at that time/then) lag (attaching/cleaving unto) jeev (living soul/creature
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-तब लग तारा जगमगे, जब लग उगे न सूर ।,
-तब लग जीव जग कर्मवश, ज्यों लग ज्ञान न पूर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-tabalagataaraajagamagejabalagaugenasoora,
-tabalagajeevajagakarmavashajyonlagajnyaananapoo
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1525,15 +1449,13 @@ kabahun (kabahun) uda (uda) aankhin (aankhin) pare (aside) , peer (spiritual mas
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-तिनका कबहुँ न निंदिये, जो पाँयन तर होय ।,
-कबहुँ उड़ आँखिन परे, पीर घनेरी होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-tinakaakabahunnanindiyejopaanyanatarahoya,
-kabahunudaaankhinaparepeeraghanereehoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1562,15 +1484,13 @@ satguru (satguru) mile (to obtain) anek (many/various) phal (fruit, divine reali
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-तीरथ गये ते एक फल, सन्त मिले फल चार ।,
-सत्गुरु मिले अनेक फल, कहे कबीर विचार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-teerathagayeteekaphalasantamilephalachaara,
-satgurumileanekaphalakahekabeeravichaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1599,15 +1519,13 @@ kastooree (musk, innate inner fragrance of God) ka (of) hiran (deer) jyon (just 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-तेरा साँई तुझमें है, ज्यों पहुपन में बास ।,
-कस्तूरी का हिरन ज्यों, फिर-फिर ढ़ूँढ़त घास
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-teraasaaneetujhamenhaijyonpahupanamenbaas,
-kastooreekaahiranajyonphiraphiradhaoondhatagh
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1636,15 +1554,13 @@ saanee (saanee (spiritual sense)) ke (of) sab (all) jeev (living soul/creature) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दया कौन पर कीजिये, का पर निर्दय होय ।,
-सांई के सब जीव हैं, कीरी कुंजर दोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-dayaakaunaparakeejiyekaaparanirdayahoya,
-saaneekesabajeevahainkeereekunjaradoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1673,15 +1589,13 @@ rahe (remain) ko (unto/toward) acharaj (acharaj) hai (is) , gae (went) achambha 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दस द्वारे का पिंजरा, ता में पंछी कौन ।,
-रहे को अचरज है, गए अचम्भा कौन
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-dasadvaarekaapinjaraataamenpanchheekauna,
-rahekoacharajahaigaeachambhaakauna
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1710,15 +1624,13 @@ apanee (apanee (spiritual sense)) aankhon (aankhon) dekh (beholding) lo (lo) , y
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दान दिए धन ना घटे, नदी न घटे नीर ।,
-अपनी आँखों देख लो, यों कह गए कबीर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-daanadiedhananaaghatenadeenaghateneera,
-apaneeaankhondekhaloyonkahagaekabeera
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1747,15 +1659,13 @@ kah (saying) kabeer (Sant Kabir) aasamaan (aasamaan) phata (phata) , kyonkar (ky
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दिल का महरम ना मिला, जो मिला सो गर्जी ।,
-कह कबीर आसमान फटा, क्योंकर सीवे दर्जी
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-dilakaamaharamanaamilaajomilaasogarjee,
-kahakabeeraaasamaanaphataakyonkaraseevedarjee
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1784,15 +1694,13 @@ jo (that) sukh (true bliss) men (in/within) sumarin (sumarin) kare (makes) , duk
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दुख में सुमरिन सब करे, सुख में करे न कोय ।,
-जो सुख में सुमरिन करे, दुख काहे को होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-dukhamensumarinasabakaresukhamenkarenakoy,
-josukhamensumarinakaredukhakaahekohoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1821,15 +1729,13 @@ bina (without) jeebh (jeebh) kee (of) haay (lament, silent curse of the oppresse
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे मेरे मन, धैर्य रख, सब कुछ अपनी स्वाभाविक गति से ही होता है,
-माली चाहे सौ घड़े जल सींच ले, फल तो अपनी निश्चित ऋतु आने पर ही लगता है।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Slowly, gently, O my restless mind, in patient season does all unfold;
-Though the gardener pours a hundred jars of water, only when the due season arrives does the fruit ripen like gold.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-A timeless counsel on spiritual patience (Sahaja) and non-anxious surrender. Spiritual growth and karmic ripening cannot be forced through frantic willpower; they blossom when ripened by sincere devotion, divine grace, and appointed time.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1858,15 +1764,13 @@ taruvar (taruvar) jyon (just as) patta (patta) jhadae (jhadae) , bahuri (again/o
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-दुर्लभ मानुष जन्म है, होय न बारम्बार ।,
-तरुवर ज्यों पत्ता झड़े, बहुरि न लागे डार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-durlabhamaanushajanmahaihoyanabaarambaara,
-taruvarajyonpattaajhadaebahurinalaagedaar
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1895,15 +1799,13 @@ maalee (gardener, tender of the soul) seenche (waters, nourishes with effort) sa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-धीरे-धीरे रे मना, धीरे सब कुछ होय ।,
-माली सींचे सौ घड़ा, ॠतु आए फल होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-dheeredheereremanaadheeresabakuchhahoya,
-maaleeseenchesaughadaaatuaaephalahoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1932,15 +1834,13 @@ kabeera (Sant Kabir) sheetal (cool, soothing and peaceful) sant (sant) jan (devo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-नहीं शीतल है चन्द्रमा, हिंम नहीं शीतल होय ।,
-कबीरा शीतल सन्त जन, नाम सनेही सोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-naheensheetalahaichandramaahinmanaheensheetalaho,
-kabeeraasheetalasantajananaamasaneheesoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -1969,15 +1869,13 @@ aur (and/other) rasaayan (rasaayan) chhaandai (chhaandai (spiritual sense)) ke (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-नींद निशानी मौत की, उठ कबीरा जाग ।,
-और रसायन छांड़ि के, नाम रसायन लाग
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-neendanishaaneemautakeeuthakabeeraajaaga,
-aurarasaayanachhaandaikenaamarasaayanalaaga
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2006,15 +1904,13 @@ pativrita (pativrita) ke (of) roop (form) par (but/upon) , vaaro (sacrifice) kot
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-पतिवृता मैली भली, काली कुचल कुरूप ।,
-पतिवृता के रूप पर, वारो कोटि सरूप
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-pativritaamaileebhaleekaaleekuchalakuroopa,
-pativritaakeroopaparavaarokotisaroopa
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2043,15 +1939,13 @@ raaja (realm/kingdom related) - paraja (paraja) jehi (if (unto/in)) ruchen (ruch
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिकाय ।,
-राजा-परजा जेहि रुचें, शीश देई ले जाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-premanabaadaeeoopajaipremanahaatabikaaya,
-raajaaparajaajehiruchensheeshadeeelejaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2080,15 +1974,13 @@ lobhee (greed/avarice) sheesh (sheesh) n (not) de (of/unto) sake (could/were abl
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-प्रेम प्याला जो पिये, शीश दक्षिणा देय ।,
-लोभी शीश न दे सके, नाम प्रेम का लेय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-premapyaalaajopiyesheeshadakshinaadeya,
-lobheesheeshanadesakenaamapremakaaleya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2117,15 +2009,13 @@ ek (equal and one) pahar (pahar) hari (The Lord who dispels grief (Hari)) naam (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-पाँच पहर धन्धे गया, तीन पहर गया सोय ।,
-एक पहर हरि नाम बिन, मुक्ति कैसे होय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-paanchapaharadhandhegayaateenapaharagayaasoya,
-ekapaharaharinaamabinamuktikaisehoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2154,15 +2044,13 @@ kahe (saying) kabeer (Sant Kabir) sevak (devoted servant) naheen (not/never) , c
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माटी कुम्हार से कहती है कि तू आज मुझे पैरों से क्या रौंद रहा है,
-एक दिन ऐसा अवश्य आएगा जब मैं तुझे अपने भीतर विलीन कर रौंदूँगी।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-The clay speaks to the potter: Why dost thou trample upon me today with pride?
-A day will surely come when under the earth thou shalt reside, and I shall trample thee inside.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir delivers a poignant memento mori on the inevitability of physical mortality. The mortal body, fashioned from earthly dust, must eventually dissolve back into the earth. Awareness of death dissolves human arrogance and awakens genuine spiritual humility.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2191,15 +2079,13 @@ jaake (whose) sang (with/in company) das (ten) - bees (bees (spiritual sense)) h
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-फूटी आँख विवेक की, लखे ना सन्त असन्त ।,
-जाके संग दस-बीस हैं, ताको नाम महन्त
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-phooteeaankhavivekakeelakhenaasantaasanta,
-jaakesangadasabeesahaintaakonaamamahanta
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2228,15 +2114,13 @@ maanush (human being) se (from/by) devata (devata) kiya (performed/done) karat (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हाथों में माला फेरते हुए युग बीत गए, किंतु मन का फेर न मिट सका,
-हाथ की माला के मनके को छोड़ दे, और अपने अंतर्मन के मनके को फेरना सीख।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Ages passed turning rosary beads in hand, yet the restless wanderings of the mind did not cease;
-Cast away the external bead from thy fingers, and turn the inner rosary of the heart toward peace.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-A masterly critique of superficial mechanical chanting. True prayer occurs within the sanctum of the heart, turning consciousness inward to dissolve worldly agitation.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2265,15 +2149,13 @@ naana (various/manifold) naach (naach) dikhaay (dikhaay) kar (doing) , raakhe (r
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-बाजीगर का बांदरा, ऐसा जीव मन के साथ ।,
-नाना नाच दिखाय कर, राखे अपने साथ
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-baajeegarakaabaandaraaaisaajeevamanakesaatha,
-naanaanaachadikhaayakararaakheapanesaatha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2302,15 +2184,13 @@ andar (andar) kee (of) karanee (righteous deeds/actions) se (from/by) sab (all) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-बानी से पह्चानिये, साम चोर की घात ।,
-अन्दर की करनी से सब, निकले मुँह कई बात
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-baaneesepahchaaniyesaamachorakeeghaata,
-andarakeekaraneesesabanikalemunhakaeebaata
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2339,15 +2219,13 @@ kaha (what/where) kaaj (work/purpose) sansaar (mortal world) se (from/by) , tujh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-बाहर क्या दिखलाईए, अन्तर जपिए राम ।,
-कहा काज संसार से, तुझे धनी से काम
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-baaharakyaadikhalaaeeeantarajapieraama,
-kahaakaajasansaarasetujhedhaneesekaama
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2376,15 +2254,13 @@ ek (equal and one) kabeera (Sant Kabir) na (not) mua (mua) , jehi (if (unto/in))
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-बैद मुआ रोगी मुआ, मुआ सकल संसार ।,
-एक कबीरा ना मुआ, जेहि के राम अधार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-baidamuaarogeemuaamuaasakalasansaara,
-ekakabeeraanaamuaajehikeraamaadhaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2413,15 +2289,13 @@ kah (saying) kabeer (Sant Kabir) kuchh (anything/something) bhed (secret) naahin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-भक्ति गेंद चौगान की, भावे कोई ले जाय ।,
-कह कबीर कुछ भेद नाहिं, कहां रंक कहां राय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-bhaktigendachaugaanakeebhaavekoeelejaaya,
-kahakabeerakuchhabhedanaahinkahaanrankakahaanraay
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2450,15 +2324,13 @@ ik (in one) din (day) aisa (such/like this) aaega (aaega) , main (I/this humble 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माटी कहे कुम्हार से, तू क्या रौंदे मोहि ।,
-इक दिन ऐसा आएगा, मैं रौंदूंगी तोहि
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maateekahekumhaarasetookyaaraundemohi,
-ikadinaaisaaaaegaamainraundoongeetohi
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2487,15 +2359,13 @@ bhagataan (devotee) ke (of) peechhe (peechhe) lage (attaching/cleaving unto) , s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माया छाया एक सी, बिरला जाने कोय ।,
-भगतां के पीछे लगे, सम्मुख भागे सोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maayaachhaayaaekaseebiralaajaanekoya,
-bhagataankepeechhelagesammukhabhaagesoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2524,15 +2394,13 @@ aasha (aasha) trishna (trishna) n (not) maree (maree) , kah (saying) gae (went) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माया मरी न मन मरा, मर-मर गए शरीर ।,
-आशा तृष्णा न मरी, कह गए दास कबीर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maayaamareenamanamaraamaramaragaeshareera,
-aashaatrishnaanamareekahagaedaasakabeera
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2561,15 +2429,13 @@ jo (that) kabira (kabira) baitha (baitha) rahe (remain) , to (then indeed) sir (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-मार्ग चलते जो गिरा, ताकों नाहि दोष ।,
-जो कबिरा बैठा रहे, तो सिर करड़े दोष
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maargachalatejogiraataakonnaahidosha,
-jokabiraabaithaarahetosirakaradaedosha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2598,15 +2464,13 @@ kar (doing) ka (of) man (mind/inner consciousness) ka (of) daar (discard, cast a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माला फेरत जुग भया, फिरा न मन का फेर ।,
-कर का मन का डार दे, मन का मनका फेर
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maalaapheratajugabhayaaphiraanamanakaaphera,
-karakaamanakaadaarademanakaamanakaaphera
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2635,15 +2499,13 @@ maangan (maangan) se (from/by) marana (death) bhala (well/fortunate) , yah (this
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-माँगन मरण समान है, मति माँगो कोई भीख ।,
-माँगन से मरना भला, यह सतगुरु की सीख
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-maanganamaranasamaanahaimatimaangokoeebheekha,
-maanganasemaranaabhalaayahasatagurukeeseekha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2672,15 +2534,13 @@ tum (You/Thou) daata (Supreme Giver/Benefactor) du (du) : kh (kh) bhanjana (bhan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-मैं अपराधी जन्म का, नख-सिख भरा विकार ।,
-तुम दाता दु:ख भंजना, मेरी करो सम्हार
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-mainaparaadheejanmakaanakhasikhabharaavikaara,
-tumadaataadukhabhanjanaamereekarosamhaara
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2709,15 +2569,13 @@ heera (diamond) janm (birth/human life) amol (amol) hai (is) , kaudaee (kaudaee 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-रात गंवाई सोय के, दिवस गंवाया खाय ।,
-हीरा जन्म अमोल है, कौड़ी बदले जाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-raataganvaaeesoyakedivasaganvaayaakhaaya,
-heeraajanmaamolahaikaudaeebadalejaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2746,15 +2604,13 @@ meetha (meetha) kaha (what/where) angaar (burning ember, fire of love) men (in/w
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हे प्रभु, मुझे केवल उतना ही दीजिए जिसमें मेरे परिवार का भरण-पोषण हो सके,
-मैं भी भूखा न रहूँ और द्वार पर आया साधु-अतिथि भी भूखा न लौटे।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-Grant me only this much, O Lord, that suffices to sustain my household's need;
-May I not remain hungry, nor may the wandering seeker leave my door unfed in deed.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir's prayer represents the golden mean of contentment (Santokh). Rejecting both greedy accumulation and extreme self-destructive asceticism, he embraces dignified simplicity and generous hospitality.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2783,15 +2639,13 @@ paachhe (behind/afterwards) phire (phire) pachhataaoge (pachhataaoge) , praan (p
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-साधु का स्वभाव सूपड़े के समान होना चाहिए,
-जो सार-तत्व को अपने भीतर ग्रहण कर ले और व्यर्थ के भूसे को उड़ा दे।
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-A true seeker should be like the winnowing basket in character and grace;
-Holding firmly to the essential grains of truth, while blowing empty chaff out into space.
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir defines spiritual discrimination (Viveka). The wise devotee ignores the superficial flaws and theological controversies of the world, focusing entirely on the immortal essence of Divine Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2820,15 +2674,13 @@ teen (teen (spiritual sense)) lok (worldly people) kee (of) sampada (sampada) , 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-शीलवन्त सबसे बड़ा, सब रतनन की खान ।,
-तीन लोक की सम्पदा, रही शील में आन
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sheelavantasabasebadaaasabaratananakeekhaana,
-teenalokakeesampadaaraheesheelamenaana
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2857,15 +2709,13 @@ jaise (just as) dooj (dooj) ka (of) chandrama (chandrama) , sheesh (sheesh) nave
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सब ते लघुताई भली, लघुता ते सब होय ।,
-जैसे दूज का चन्द्रमा, शीश नवे सब कोय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sabatelaghutaaeebhaleelaghutaatesabahoya,
-jaisedoojakaachandramaasheeshanavesabakoya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2894,15 +2744,13 @@ main (I/this humble servant) bhee (also/even) bhookha (bhookha) n (not) rahoon (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-साईं इतना दीजिये, जा में कुटुम समाय ।,
-मैं भी भूखा न रहूँ, साधु ना भूखा जाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-saaeenitanaadeejiyejaamenkutumasamaaya,
-mainbheebhookhaanarahoonsaadhunaabhookhaajaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2931,15 +2779,13 @@ saar (essence, supreme truth) - saar (essence, supreme truth) ko (unto/toward) g
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-साधु ऐसा चाहिए, जैसा सूप सुभाय ।,
-सार-सार को गहि रहे, थोथ देइ उड़ाय
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-saadhuaisaachaahiejaisaasoopasubhaaya,
-saarasaarakogahirahethothadeiudaaaya
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -2968,15 +2814,13 @@ kah (saying) kabeer (Sant Kabir) ta (upon that/his) daas (devoted servant) kee (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सुख में सुमरिन ना किया, दु:ख में किया याद ।,
-कह कबीर ता दास की, कौन सुने फरियाद
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sukhamensumarinanaakiyaadukhamenkiyaaya,
-kahakabeerataadaasakeekaunasunephariyaada
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3005,15 +2849,13 @@ shabd (shabd) bina (without) saadhu (true saint, virtuous seeker) naheen (not/ne
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सुख सागर का शील है, कोई न पावे थाह ।,
-शब्द बिना साधु नहीं, द्रव्य बिना नहीं शाह
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sukhasaagarakaasheelahaikoeenapaavethaaha,
-shabdabinaasaadhunaheendravyabinaanaheensha
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3042,15 +2884,13 @@ baahar (baahar) ka (of) pat (veil, inner door) band (band) kar (doing) , andar (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सुमरित सुरत जगाय कर, मुख से कछु न बोल ।,
-बाहर का पट बन्द कर, अन्दर का पट खोल
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sumaritasuratajagaayakaramukhasekachhunabola,
-baaharakaapatabandakaraandarakaapatakhola
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3079,15 +2919,13 @@ kahai (chants) kabeer (Sant Kabir) bisare (bisare) naheen (not/never) , praan (l
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सुमरिन में मन लाइए, जैसे नाद कुरंग ।,
-कहै कबीर बिसरे नहीं, प्रान तजे तेहि संग
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-sumarinamenmanalaaiejaisenaadakuranga,
-kahaikabeerabisarenaheenpraanatajetehisanga
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3116,15 +2954,13 @@ yah (this realm/this body) teenon (teen (spiritual sense)) sote (sote) bhale (bh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सोया साधु जगाइए, करे नाम का जाप ।,
-यह तीनों सोते भले, साकित सिंह और साँप
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-soyaasaadhujagaaiekarenaamakaajaapa,
-yahateenonsotebhalesaakitasinhaaurasaanpa
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3153,15 +2989,13 @@ kahe (saying) kabeer (Sant Kabir) ta (upon that/his) daas (devoted servant) ko (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-संत ही ते सत बांटई, रोटी में ते टूक ।,
-कहे कबीर ता दास को, कबहूँ न आवे चूक
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-santaheetesatabaantaeeroteementetooka,
-kahekabeerataadaasakokabahoonnaaavechooka
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 
@@ -3190,15 +3024,13 @@ baandho (baandho) chup (chup) kee (of) potaree (potaree) , laagahu (laagahu) apa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-हीरा वहाँ न खोलिये, जहाँ कुंजड़ों की हाट ।,
-बांधो चुप की पोटरी, लागहु अपनी बाट
+कबीर कहते हैं: प्रभु-नाम का स्मरण ही संसार-सागर से पार उतरने का सच्चा मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-heeraavahaannakholiyejahaankunjadaonkeehaat,
-baandhochupakeepotareelaagahuapaneebaata
+Says Kabir: Contemplation on the Divine Name alone is the true path to cross the ocean of existence.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This classical Doha of Sant Kabir illuminates the path of practical ethical wisdom and inner devotion. Kabir uses vivid everyday metaphors to remind the aspirant that outer posturing is futile without sincerity, humility, and dedication to Truth.
+In this composition, Kabir expounds on sincere devotion and surrender to the Divine.
 
 ---
 

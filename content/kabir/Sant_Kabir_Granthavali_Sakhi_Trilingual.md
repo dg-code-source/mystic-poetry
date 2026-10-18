@@ -7,71 +7,71 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [साखी अंग 1: अबिहड़ कौ अंग : भक्त कबीर जी](#sakhi-1) | Sakhi Ang 1: Abaihaड़ Kaau Anga : Bhakata Kabaeera Jaee |
-| 2 | [साखी अंग 2: अपारिष कौ अंग : भक्त कबीर जी](#sakhi-2) | Sakhi Ang 2: Apaaraisha Kaau Anga : Bhakata Kabaeera Jaee |
-| 3 | [साखी अंग 3: असाध कौ अंग : भक्त कबीर जी](#sakhi-3) | Sakhi Ang 3: Asaadha Kaau Anga : Bhakata Kabaeera Jaee |
-| 4 | [साखी अंग 4: बेलि कौ अंग : भक्त कबीर जी](#sakhi-4) | Sakhi Ang 4: Baelai Kaau Anga : Bhakata Kabaeera Jaee |
-| 5 | [साखी अंग 5: बेसास कौ अंग : भक्त कबीर जी](#sakhi-5) | Sakhi Ang 5: Baesaasa Kaau Anga : Bhakata Kabaeera Jaee |
-| 6 | [साखी अंग 6: भेष कौ अंग : भक्त कबीर जी](#sakhi-6) | Sakhi Ang 6: Bhaesha Kaau Anga : Bhakata Kabaeera Jaee |
-| 7 | [साखी अंग 7: भ्रम विधौंसण कौ अंग : भक्त कबीर जी](#sakhi-7) | Sakhi Ang 7: Bharama Vaidhaaunsana Kaau Anga : Bhakata Kabaeera Jaee |
-| 8 | [साखी अंग 8: बीनती कौ अंग : भक्त कबीर जी](#sakhi-8) | Sakhi Ang 8: Baeenataee Kaau Anga : Bhakata Kabaeera Jaee |
-| 9 | [साखी अंग 9: बिरह कौ अंग : भक्त कबीर जी](#sakhi-9) | Sakhi Ang 9: Bairaha Kaau Anga : Bhakata Kabaeera Jaee |
-| 10 | [साखी अंग 10: बिर्कताई कौ अंग : भक्त कबीर जी](#sakhi-10) | Sakhi Ang 10: Bairakataaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 11 | [साखी अंग 11: चाँणक कौ अंग : भक्त कबीर जी](#sakhi-11) | Sakhi Ang 11: Chaannaka Kaau Anga : Bhakata Kabaeera Jaee |
-| 12 | [साखी अंग 12: चित कपटी कौ अंग : भक्त कबीर जी](#sakhi-12) | Sakhi Ang 12: Chaita Kapataee Kaau Anga : Bhakata Kabaeera Jaee |
-| 13 | [साखी अंग 13: चितावणी कौ अंग : भक्त कबीर जी](#sakhi-13) | Sakhi Ang 13: Chaitaavanaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 14 | [साखी अंग 14: दया निरबैरता कौ अंग : भक्त कबीर जी](#sakhi-14) | Sakhi Ang 14: Dayaa Nairabaairataa Kaau Anga : Bhakata Kabaeera Jaee |
-| 15 | [साखी अंग 15: गुरुसिष हेरा कौ अंग : भक्त कबीर जी](#sakhi-15) | Sakhi Ang 15: Gaurausaisha Haeraa Kaau Anga : Bhakata Kabaeera Jaee |
-| 16 | [साखी अंग 16: गुरुदेव कौ अंग : भक्त कबीर जी](#sakhi-16) | Sakhi Ang 16: Gauraudaeva Kaau Anga : Bhakata Kabaeera Jaee |
-| 17 | [साखी अंग 17: ग्यान बिरह कौ अंग : भक्त कबीर जी](#sakhi-17) | Sakhi Ang 17: Gayaana Bairaha Kaau Anga : Bhakata Kabaeera Jaee |
-| 18 | [साखी अंग 18: हैरान कौ अंग : भक्त कबीर जी](#sakhi-18) | Sakhi Ang 18: Haairaana Kaau Anga : Bhakata Kabaeera Jaee |
-| 19 | [साखी अंग 19: हेत प्रीति सनेह कौ अंग : भक्त कबीर जी](#sakhi-19) | Sakhi Ang 19: Haeta Paraeetai Sanaeha Kaau Anga : Bhakata Kabaeera Jaee |
-| 20 | [साखी अंग 20: जर्णा कौ अंग : भक्त कबीर जी](#sakhi-20) | Sakhi Ang 20: Jaranaa Kaau Anga : Bhakata Kabaeera Jaee |
-| 21 | [साखी अंग 21: जीवन मृतक कौ अंग : भक्त कबीर जी](#sakhi-21) | Sakhi Ang 21: Jaeevana Maritaka Kaau Anga : Bhakata Kabaeera Jaee |
-| 22 | [साखी अंग 22: काल कौ अंग : भक्त कबीर जी](#sakhi-22) | Sakhi Ang 22: Kaala Kaau Anga : Bhakata Kabaeera Jaee |
-| 23 | [साखी अंग 23: कामी नर कौ अंग : भक्त कबीर जी](#sakhi-23) | Sakhi Ang 23: Kaamaee Nara Kaau Anga : Bhakata Kabaeera Jaee |
-| 24 | [साखी अंग 24: करणीं बिना कथणीं कौ अंग : भक्त कबीर जी](#sakhi-24) | Sakhi Ang 24: Karanaeen Bainaa Kathanaeen Kaau Anga : Bhakata Kabaeera Jaee |
-| 25 | [साखी अंग 25: कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी](#sakhi-25) | Sakhi Ang 25: Kasataooraiyaan Mariga Kaau Anga : Bhakata Kabaeera Jaee |
-| 26 | [साखी अंग 26: कथणीं बिना करणी कौ अंग : भक्त कबीर जी](#sakhi-26) | Sakhi Ang 26: Kathanaeen Bainaa Karanaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 27 | [साखी अंग 27: कुसबद कौ अंग : भक्त कबीर जी](#sakhi-27) | Sakhi Ang 27: Kausabada Kaau Anga : Bhakata Kabaeera Jaee |
-| 28 | [साखी अंग 28: कुसंगति कौ अंग : भक्त कबीर जी](#sakhi-28) | Sakhi Ang 28: Kausangatai Kaau Anga : Bhakata Kabaeera Jaee |
-| 29 | [साखी अंग 29: लांबि कौ अंग : भक्त कबीर जी](#sakhi-29) | Sakhi Ang 29: Laanbai Kaau Anga : Bhakata Kabaeera Jaee |
-| 30 | [साखी अंग 30: लै कौ अंग : भक्त कबीर जी](#sakhi-30) | Sakhi Ang 30: Laai Kaau Anga : Bhakata Kabaeera Jaee |
-| 31 | [साखी अंग 31: मधि कौ अंग : भक्त कबीर जी](#sakhi-31) | Sakhi Ang 31: Madhai Kaau Anga : Bhakata Kabaeera Jaee |
-| 32 | [साखी अंग 32: मन कौ अंग : भक्त कबीर जी](#sakhi-32) | Sakhi Ang 32: Mana Kaau Anga : Bhakata Kabaeera Jaee |
-| 33 | [साखी अंग 33: माया कौ अंग : भक्त कबीर जी](#sakhi-33) | Sakhi Ang 33: Maayaa Kaau Anga : Bhakata Kabaeera Jaee |
-| 34 | [साखी अंग 34: निगुणाँ कौ अंग : भक्त कबीर जी](#sakhi-34) | Sakhi Ang 34: Naigaunaan Kaau Anga : Bhakata Kabaeera Jaee |
-| 35 | [साखी अंग 35: निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी](#sakhi-35) | Sakhi Ang 35: Naihakaramaee Pataibarataa Kaau Anga : Bhakata Kabaeera Jaee |
-| 36 | [साखी अंग 36: निंद्या कौ अंग : भक्त कबीर जी](#sakhi-36) | Sakhi Ang 36: Naindayaa Kaau Anga : Bhakata Kabaeera Jaee |
-| 37 | [साखी अंग 37: परचा कौ अंग : भक्त कबीर जी](#sakhi-37) | Sakhi Ang 37: Parachaa Kaau Anga : Bhakata Kabaeera Jaee |
-| 38 | [साखी अंग 38: पारिष कौ अंग : भक्त कबीर जी](#sakhi-38) | Sakhi Ang 38: Paaraisha Kaau Anga : Bhakata Kabaeera Jaee |
-| 39 | [साखी अंग 39: पीव पिछाँणन कौ अंग : भक्त कबीर जी](#sakhi-39) | Sakhi Ang 39: Paeeva Paichhaannana Kaau Anga : Bhakata Kabaeera Jaee |
-| 40 | [साखी अंग 40: रस कौ अंग : भक्त कबीर जी](#sakhi-40) | Sakhi Ang 40: Rasa Kaau Anga : Bhakata Kabaeera Jaee |
-| 41 | [साखी अंग 41: सबद कौ अंग : भक्त कबीर जी](#sakhi-41) | Sakhi Ang 41: Sabada Kaau Anga : Bhakata Kabaeera Jaee |
-| 42 | [साखी अंग 42: साध कौ अंग : भक्त कबीर जी](#sakhi-42) | Sakhi Ang 42: Saadha Kaau Anga : Bhakata Kabaeera Jaee |
-| 43 | [साखी अंग 43: साध महिमाँ कौ अंग : भक्त कबीर जी](#sakhi-43) | Sakhi Ang 43: Saadha Mahaimaan Kaau Anga : Bhakata Kabaeera Jaee |
-| 44 | [साखी अंग 44: साध साषीभूत कौ अंग : भक्त कबीर जी](#sakhi-44) | Sakhi Ang 44: Saadha Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee |
-| 45 | [साखी अंग 45: सहज कौ अंग : भक्त कबीर जी](#sakhi-45) | Sakhi Ang 45: Sahaja Kaau Anga : Bhakata Kabaeera Jaee |
-| 46 | [साखी अंग 46: सजीवनी कौ अंग : भक्त कबीर जी](#sakhi-46) | Sakhi Ang 46: Sajaeevanaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 47 | [साखी अंग 47: सम्रथाई कौ अंग : भक्त कबीर जी](#sakhi-47) | Sakhi Ang 47: Samarathaaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 48 | [साखी अंग 48: साँच कौ अंग : भक्त कबीर जी](#sakhi-48) | Sakhi Ang 48: Saancha Kaau Anga : Bhakata Kabaeera Jaee |
-| 49 | [साखी अंग 49: संगति कौ अंग : भक्त कबीर जी](#sakhi-49) | Sakhi Ang 49: Sangatai Kaau Anga : Bhakata Kabaeera Jaee |
-| 50 | [साखी अंग 50: सारग्राही कौ अंग : भक्त कबीर जी](#sakhi-50) | Sakhi Ang 50: Saaragaraahaee Kaau Anga : Bhakata Kabaeera Jaee |
-| 51 | [साखी अंग 51: साषीभूत कौ अंग : भक्त कबीर जी](#sakhi-51) | Sakhi Ang 51: Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee |
-| 52 | [साखी अंग 52: सुमिरण कौ अंग : भक्त कबीर जी](#sakhi-52) | Sakhi Ang 52: Saumairana Kaau Anga : Bhakata Kabaeera Jaee |
-| 53 | [साखी अंग 53: सुंदरि कौ अंग : भक्त कबीर जी](#sakhi-53) | Sakhi Ang 53: Saundarai Kaau Anga : Bhakata Kabaeera Jaee |
-| 54 | [साखी अंग 54: सूरा तन कौ अंग : भक्त कबीर जी](#sakhi-54) | Sakhi Ang 54: Saooraa Tana Kaau Anga : Bhakata Kabaeera Jaee |
-| 55 | [साखी अंग 55: सूषिम जनम कौ अंग : भक्त कबीर जी](#sakhi-55) | Sakhi Ang 55: Saooshaima Janama Kaau Anga : Bhakata Kabaeera Jaee |
-| 56 | [साखी अंग 56: सूषिम मारग कौ अंग : भक्त कबीर जी](#sakhi-56) | Sakhi Ang 56: Saooshaima Maaraga Kaau Anga : Bhakata Kabaeera Jaee |
-| 57 | [साखी अंग 57: उपदेश कौ अंग : भक्त कबीर जी](#sakhi-57) | Sakhi Ang 57: Upadaesha Kaau Anga : Bhakata Kabaeera Jaee |
-| 58 | [साखी अंग 58: उपजणि कौ अंग : भक्त कबीर जी](#sakhi-58) | Sakhi Ang 58: Upajanai Kaau Anga : Bhakata Kabaeera Jaee |
-| 59 | [साखी अंग 59: विचार कौ अंग : भक्त कबीर जी](#sakhi-59) | Sakhi Ang 59: Vaichaara Kaau Anga : Bhakata Kabaeera Jaee |
+| 1 | [साखी अंग 1: अबिहड़ कौ अंग : भक्त कबीर जी](#sakhi-1) | साधक की निर्भीकता और सत्य पर अडिग निष्ठा |
+| 2 | [साखी अंग 2: अपारिष कौ अंग : भक्त कबीर जी](#sakhi-2) | अंधे अज्ञानियों की दशा और पारख विहीनता |
+| 3 | [साखी अंग 3: असाध कौ अंग : भक्त कबीर जी](#sakhi-3) | असाधु और पाखंडियों के लक्षण और कुसंग |
+| 4 | [साखी अंग 4: बेलि कौ अंग : भक्त कबीर जी](#sakhi-4) | प्रभु-प्रेम की अमृत बेल और उसका पोषण |
+| 5 | [साखी अंग 5: बेसास कौ अंग : भक्त कबीर जी](#sakhi-5) | प्रभु पर अटूट विश्वास और शरणागति |
+| 6 | [साखी अंग 6: भेष कौ अंग : भक्त कबीर जी](#sakhi-6) | बाह्य वेशभूषा और पाखंड का खंडन |
+| 7 | [साखी अंग 7: भ्रम विधौंसण कौ अंग : भक्त कबीर जी](#sakhi-7) | संशयों और भ्रमों का पूर्ण विध्वंस |
+| 8 | [साखी अंग 8: बीनती कौ अंग : भक्त कबीर जी](#sakhi-8) | दीनतापूर्ण प्रार्थना और आत्म-निवेदन |
+| 9 | [साखी अंग 9: बिरह कौ अंग : भक्त कबीर जी](#sakhi-9) | परमात्मा के विरह की तपन और मिलन-प्यास |
+| 10 | [साखी अंग 10: बिर्कताई कौ अंग : भक्त कबीर जी](#sakhi-10) | सच्चा वैराग्य और अनासक्ति का भाव |
+| 11 | [साखी अंग 11: चाँणक कौ अंग : भक्त कबीर जी](#sakhi-11) | चेतना का दिव्य प्रकाश और जागरण |
+| 12 | [साखी अंग 12: चित कपटी कौ अंग : भक्त कबीर जी](#sakhi-12) | कपट-युक्त चित्त की दुर्गति और चेतावनी |
+| 13 | [साखी अंग 13: चितावणी कौ अंग : भक्त कबीर जी](#sakhi-13) | मृत्यु की अवश्यंभाविता और सचेत होने की पुकार |
+| 14 | [साखी अंग 14: दया निरबैरता कौ अंग : भक्त कबीर जी](#sakhi-14) | दया, करुणा और निर्वैर भाव की साधना |
+| 15 | [साखी अंग 15: गुरुसिष हेरा कौ अंग : भक्त कबीर जी](#sakhi-15) | सद्गुरु और सच्चे शिष्य का पारस्पर संबंध |
+| 16 | [साखी अंग 16: गुरुदेव कौ अंग : भक्त कबीर जी](#sakhi-16) | सद्गुरु की महिमा और शब्द-दीक्षा |
+| 17 | [साखी अंग 17: ग्यान बिरह कौ अंग : भक्त कबीर जी](#sakhi-17) | तत्वज्ञान के विरह की उच्चतर अवस्था |
+| 18 | [साखी अंग 18: हैरान कौ अंग : भक्त कबीर जी](#sakhi-18) | विस्मय, अचरज और अवाक् समाधि |
+| 19 | [साखी अंग 19: हेत प्रीति सनेह कौ अंग : भक्त कबीर जी](#sakhi-19) | निःस्वार्थ प्रेम और रूहानी प्रीति |
+| 20 | [साखी अंग 20: जर्णा कौ अंग : भक्त कबीर जी](#sakhi-20) | सहनशीलता, क्षमा और तितिक्षा |
+| 21 | [साखी अंग 21: जीवन मृतक कौ अंग : भक्त कबीर जी](#sakhi-21) | जीवनमुक्त अवस्था और द्वंद्वातीत स्थिति |
+| 22 | [साखी अंग 22: काल कौ अंग : भक्त कबीर जी](#sakhi-22) | कथनी और करनी की एकता का महत्व |
+| 23 | [साखी अंग 23: कामी नर कौ अंग : भक्त कबीर जी](#sakhi-23) | कस्तूरी मृग का रूपक और अंतर्मुखी खोज |
+| 24 | [साखी अंग 24: करणीं बिना कथणीं कौ अंग : भक्त कबीर जी](#sakhi-24) | लोभ और अहंकार के नाश का उपदेश |
+| 25 | [साखी अंग 25: कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी](#sakhi-25) | समत्व, संतुलन और मध्यम मार्ग |
+| 26 | [साखी अंग 26: कथणीं बिना करणी कौ अंग : भक्त कबीर जी](#sakhi-26) | चंचल मन को वश में करने की साधना |
+| 27 | [साखी अंग 27: कुसबद कौ अंग : भक्त कबीर जी](#sakhi-27) | माया की मोहिनी शक्ति और उसका रहस्य |
+| 28 | [साखी अंग 28: कुसंगति कौ अंग : भक्त कबीर जी](#sakhi-28) | परमेश्वर और उसके भक्तों की अलौकिक महिमा |
+| 29 | [साखी अंग 29: लांबि कौ अंग : भक्त कबीर जी](#sakhi-29) | रूहानी मौन और आंतरिक शांति |
+| 30 | [साखी अंग 30: लै कौ अंग : भक्त कबीर जी](#sakhi-30) | निष्काम कर्म और कर्तृत्व-भाव का विसर्जन |
+| 31 | [साखी अंग 31: मधि कौ अंग : भक्त कबीर जी](#sakhi-31) | दृढ़ निश्चय और आध्यात्मिक संकल्प |
+| 32 | [साखी अंग 32: मन कौ अंग : भक्त कबीर जी](#sakhi-32) | साक्षात आत्म-साक्षात्कार और एकाकारिता |
+| 33 | [साखी अंग 33: माया कौ अंग : भक्त कबीर जी](#sakhi-33) | सार और असार की सूक्ष्म रूहानी पारख |
+| 34 | [साखी अंग 34: निगुणाँ कौ अंग : भक्त कबीर जी](#sakhi-34) | प्रियतम परमात्मा की पहचान और साक्षात्कार |
+| 35 | [साखी अंग 35: निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी](#sakhi-35) | राम-नाम के मजीठ रंग में रंग जाना |
+| 36 | [साखी अंग 36: निंद्या कौ अंग : भक्त कबीर जी](#sakhi-36) | हरि-रस का अमृत पान और तृप्ति |
+| 37 | [साखी अंग 37: परचा कौ अंग : भक्त कबीर जी](#sakhi-37) | भक्ति का रसायन और आत्मा का स्वर्ण बनना |
+| 38 | [साखी अंग 38: पारिष कौ अंग : भक्त कबीर जी](#sakhi-38) | सच्चे साधु का स्वरूप, स्वभाव और लक्षण |
+| 39 | [साखी अंग 39: पीव पिछाँणन कौ अंग : भक्त कबीर जी](#sakhi-39) | संतों के सान्निध्य का अलौकिक प्रभाव |
+| 40 | [साखी अंग 40: रस कौ अंग : भक्त कबीर जी](#sakhi-40) | सहज अवस्था और अनायास मुक्ति |
+| 41 | [साखी अंग 41: सबद कौ अंग : भक्त कबीर जी](#sakhi-41) | क्षणभंगुर समय का सदुपयोग और साधना |
+| 42 | [साखी अंग 42: साध कौ अंग : भक्त कबीर जी](#sakhi-42) | सर्वसमर्थ परमात्मा की असीम शक्ति |
+| 43 | [साखी अंग 43: साध महिमाँ कौ अंग : भक्त कबीर जी](#sakhi-43) | संदेह और संशय का निवारण |
+| 44 | [साखी अंग 44: साध साषीभूत कौ अंग : भक्त कबीर जी](#sakhi-44) | परमात्मा से अनन्य स्नेह और लाड |
+| 45 | [साखी अंग 45: सहज कौ अंग : भक्त कबीर जी](#sakhi-45) | संतों की समदृष्टि और परोपकारिता |
+| 46 | [साखी अंग 46: सजीवनी कौ अंग : भक्त कबीर जी](#sakhi-46) | संतोष धन का महत्व और तृष्णा-मुक्ति |
+| 47 | [साखी अंग 47: सम्रथाई कौ अंग : भक्त कबीर जी](#sakhi-47) | सत्य का स्वरूप और सत्यनिष्ठ जीवन |
+| 48 | [साखी अंग 48: साँच कौ अंग : भक्त कबीर जी](#sakhi-48) | सच्चाई की जीत और झूठे का पराभव |
+| 49 | [साखी अंग 49: संगति कौ अंग : भक्त कबीर जी](#sakhi-49) | सत्संग और कुसंग का प्रत्यक्ष प्रभाव |
+| 50 | [साखी अंग 50: सारग्राही कौ अंग : भक्त कबीर जी](#sakhi-50) | सार तत्व को ग्रहण करना और असार को छोड़ना |
+| 51 | [साखी अंग 51: साषीभूत कौ अंग : भक्त कबीर जी](#sakhi-51) | साक्षी भाव और निर्लिप्त दृष्टा होना |
+| 52 | [साखी अंग 52: सुमिरण कौ अंग : भक्त कबीर जी](#sakhi-52) | अखंड नाम-सुमिरन की महिमा और विधि |
+| 53 | [साखी अंग 53: सुंदरि कौ अंग : भक्त कबीर जी](#sakhi-53) | जीवात्मा रूपी सुंदरी का विरह-निवेदन |
+| 54 | [साखी अंग 54: सूरा तन कौ अंग : भक्त कबीर जी](#sakhi-54) | आध्यात्मिक शूरवीरता और अंतर्मन का युद्ध |
+| 55 | [साखी अंग 55: सूषिम जनम कौ अंग : भक्त कबीर जी](#sakhi-55) | सूक्ष्म जन्म और नवीन चेतना का उदय |
+| 56 | [साखी अंग 56: सूषिम मारग कौ अंग : भक्त कबीर जी](#sakhi-56) | अध्यात्म का सूक्ष्म और दुर्गम मार्ग |
+| 57 | [साखी अंग 57: उपदेश कौ अंग : भक्त कबीर जी](#sakhi-57) | मानव मात्र के लिए जीवनोपयोगी दिव्य उपदेश |
+| 58 | [साखी अंग 58: उपजणि कौ अंग : भक्त कबीर जी](#sakhi-58) | अंतर्मन में विवेक और ज्ञान का सहज प्रस्फुटन |
+| 59 | [साखी अंग 59: विचार कौ अंग : भक्त कबीर जी](#sakhi-59) | गहन तत्व-विचार और सत्य का अनुसंधान |
 
 ---
 
 <a name="sakhi-1"></a>
 ## साखी अंग 1: अबिहड़ कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 1: Abaihaड़ Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Fearlessness and Steadfast Devotion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -109,23 +109,20 @@ kabeer (Sant Kabir) us (his) karata (doing related) kee (of) , sevag (sevag (spi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'अबिहड़ कौ अंग : भक्त कबीर जी' (3 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सत्य के मार्ग पर चलने वाला साधक काल और संसार के भय से मुक्त होकर अभय पद को प्राप्त करता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'abihadakauangabhaktakabeerajee' (3 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The seeker of Truth walks fearless and serene, casting away all dread of mortality and worldly strife.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'अबिहड़ कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 3 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: अबिहड़ कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'अबिहड़ कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-2"></a>
 ## साखी अंग 2: अपारिष कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 2: Apaaraisha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Unawakened Mind and Blind Ignorance
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -185,23 +182,20 @@ bagula (heron, spiritual pretender) kaanee (kaanee) garabiyaan (garabiyaan) , ba
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'अपारिष कौ अंग : भक्त कबीर जी' (9 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जिसके पास रूहानी पारख नहीं, वह कांच को हीरा और हीरे को कांच समझकर अपना अनमोल जीवन गंवा देता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'apaarishakauangabhaktakabeerajee' (9 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Lacking spiritual discernment, the blind soul mistakes glass for jewels and squanders precious life in vain.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'अपारिष कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 9 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: अपारिष कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'अपारिष कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-3"></a>
 ## साखी अंग 3: असाध कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 3: Asaadha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Traits of the Impious and False Seekers
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -239,23 +233,20 @@ pahalee (first) thaah (thaah) dikhaaee (manifests/visible) kari (having done/wit
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'असाध कौ अंग : भक्त कबीर जी' (3 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+असाधु का संग उस जहर के समान है जो धीरे-धीरे आत्मा की चेतना को नष्ट कर देता है; इससे सदा दूर रहो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'asaadhakauangabhaktakabeerajee' (3 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The company of the deceitful is like poison that dims the soul; shun it and seek the righteous whole.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'असाध कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 3 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: असाध कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'असाध कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-4"></a>
 ## साखी अंग 4: बेलि कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 4: Baelai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Sacred Creeper of Divine Love
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -309,23 +300,20 @@ sasa (sasa) seeng (seeng) kee (of) dhoonahadee (dhoonahadee) , ramai (ramai (spi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'बेलि कौ अंग : भक्त कबीर जी' (7 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+हृदय में बोई गई प्रेम की बेल जब सद्गुरु के ज्ञान-जल से सींची जाती है, तब उसमें अमरता के फल लगते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'belikauangabhaktakabeerajee' (7 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The vine of divine love sown within the heart yields fruits of immortality when watered by the Master's grace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'बेलि कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 7 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: बेलि कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'बेलि कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-5"></a>
 ## साखी अंग 5: बेसास कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 5: Baesaasa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Unwavering Trust and Surrender in God
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -433,23 +421,20 @@ anti (inner core (in/having done)) kaali (death/time) sooka (sooka) padai (padai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'बेसास कौ अंग : भक्त कबीर जी' (25 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जिसका विश्वास अडिग है, उसे संसार का कोई झंझावात नहीं डिगा सकता; प्रभु स्वयं उसकी रक्षा करते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'besaasakauangabhaktakabeerajee' (25 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+He whose faith is steadfast cannot be shaken by earthly storms; the Lord Himself shields him from harm.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'बेसास कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 25 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: बेसास कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'बेसास कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-6"></a>
 ## साखी अंग 6: भेष कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 6: Bhaesha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Critique of Ascetic Garb and Outer Pretension
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -563,23 +548,20 @@ gaangee (gaangee) role (role) bahi (heart (in/having done)) gaya (has departed) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'भेष कौ अंग : भक्त कबीर जी' (27 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+मन को निर्मल किए बिना केवल गेरुए वस्त्र धारण करने और तिलक लगाने से मुक्ति नहीं मिलती।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'bheshakauangabhaktakabeerajee' (27 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Wearing saffron robes and smearing ashes brings no release unless the inner mind is cleansed in peace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'भेष कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 27 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: भेष कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'भेष कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-7"></a>
 ## साखी अंग 7: भ्रम विधौंसण कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 7: Bharama Vaidhaaunsana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Annihilation of Delusion and Doubts
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -657,23 +639,20 @@ poojanahaara (poojanahaara) andhala (andhala) , laaga (attached/engaged) khotee 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'भ्रम विधौंसण कौ अंग : भक्त कबीर जी' (15 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जब ज्ञान का खड्ग चलता है, तब जन्म-जन्मांतर के भ्रम और संशय एक क्षण में कटकर समाप्त हो जाते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'bhramavidhaunsanakauangabhaktakabeerajee' (15 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+When the sword of divine wisdom strikes, the tangled knots of doubt and illusion dissolve away forever.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'भ्रम विधौंसण कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 15 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: भ्रम विधौंसण कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'भ्रम विधौंसण कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-8"></a>
 ## साखी अंग 8: बीनती कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 8: Baeenataee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Humble Supplication and Devotional Prayer
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -730,23 +709,20 @@ hari (The Lord who dispels grief (Hari)) jini (do not/who) chhaadai (chhaadai) h
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'बीनती कौ अंग : भक्त कबीर जी' (8 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+हे प्रभु! मैं अवगुणों की खान हूँ, तेरी असीम दया ही मेरे उद्धार का एकमात्र सहारा है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'beenateekauangabhaktakabeerajee' (8 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+O Lord, I am a vessel of frailties and flaws; Thy boundless compassion alone is my sanctuary and cause.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'बीनती कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 8 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: बीनती कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'बीनती कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-9"></a>
 ## साखी अंग 9: बिरह कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 9: Bairaha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Pain of Mystical Separation and Longing
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -917,23 +893,20 @@ kabeer (Sant Kabir) bichhutya (bichhutya) raam (The All-Pervading Lord (Ram)) so
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'बिरह कौ अंग : भक्त कबीर जी' (46 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जिसके अंतर्मन में प्रियतम का विरह जाग उठता है, उसे न दिन में भूख लगती है और न रात में नींद आती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'birahakauangabhaktakabeerajee' (46 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+He in whose heart the flame of mystical separation burns knows neither hunger by day nor slumber by night.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'बिरह कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 46 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: बिरह कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'बिरह कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-10"></a>
 ## साखी अंग 10: बिर्कताई कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 10: Bairakataaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** True Detachment and Renunciation of World
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1002,23 +975,20 @@ bahut (many related) sayaanaan (sayaanaan) pachi (pachi) gaya (has departed) , p
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'बिर्कताई कौ अंग : भक्त कबीर जी' (12 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+संसार में जल में कमल की भांति निर्लिप्त रहना ही सच्चा वैराग्य है, घर छोड़ना नहीं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'birkataaeekauangabhaktakabeerajee' (12 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Living in the world like a lotus upon the water, untouched by the mire, is authentic detachment.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'बिर्कताई कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 12 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: बिर्कताई कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'बिर्कताई कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-11"></a>
 ## साखी अंग 11: चाँणक कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 11: Chaannaka Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Spiritual Illumination and Awakening
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1139,23 +1109,20 @@ raam (The All-Pervading Lord (Ram)) naanm (naanm) kaanthai (kaanthai) rahya (rah
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'चाँणक कौ अंग : भक्त कबीर जी' (29 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सद्गुरु के एक ही वचन से अंतर्मन में ज्ञान का ऐसा प्रकाश फैल जाता है मानो सहस्रों सूर्य उदित हो गए हों।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'chaannakakauangabhaktakabeerajee' (29 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+A single word from the True Master illuminates the soul as though ten thousand suns had risen at once.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'चाँणक कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 29 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: चाँणक कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'चाँणक कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-12"></a>
 ## साखी अंग 12: चित कपटी कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 12: Chaita Kapataee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Treacherous Mind and Deceitful Heart
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1200,23 +1167,20 @@ ke (of) le (taking/having taken) doonee (doonee) kaalima (kaalima) , bhaaven (em
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'चित कपटी कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+मुख में राम और बगल में छुरी रखने वाले कपटी मनुष्य को परमात्मा कभी स्वीकार नहीं करता।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'chitakapateekauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The deceitful hypocrite who chants holy names while harboring malice within can never enter grace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'चित कपटी कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: चित कपटी कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'चित कपटी कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-13"></a>
 ## साखी अंग 13: चितावणी कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 13: Chaitaavanaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Stern Warnings Against Mortality and Carelessness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1498,23 +1462,20 @@ te (from/by) mandir (temple/sanctuary) khaalee (khaalee) padae (padae (spiritual
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'चितावणी कौ अंग : भक्त कबीर जी' (83 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+काल निरंतर सिर पर खड़ा प्रहार कर रहा है; ऐ नादान मानव, जाग और अपनी रूहानी पूंजी को संभाल!
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'chitaavaneekauangabhaktakabeerajee' (83 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Death stands unmoving above thy head; awake, O mortal traveler, before the final bell is tolled!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'चितावणी कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 83 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: चितावणी कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'चितावणी कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-14"></a>
 ## साखी अंग 14: दया निरबैरता कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 14: Dayaa Nairabaairataa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Compassion, Forgiveness, and Universal Non-Enmity
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1552,23 +1513,20 @@ jahaan (wherever) kabeera (Sant Kabir) pag (foot) dharai (placing (does/by)) , t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'दया निरबैरता कौ अंग : भक्त कबीर जी' (3 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जिस हृदय में दया और करुणा का वास है, वहीं साक्षात परमात्मा विराजमान रहता है; किसी से बैर मत रखो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'dayaanirabairataakauangabhaktakabeerajee' (3 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Where compassion and forgiveness abide, there dwells the Supreme; harbor malice toward no living being.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'दया निरबैरता कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 3 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: दया निरबैरता कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'दया निरबैरता कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-15"></a>
 ## साखी अंग 15: गुरुसिष हेरा कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 15: Gaurausaisha Haeraa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Sacred Bond of Master and Disciple
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1648,23 +1606,20 @@ panchoon (panchoon) larika (larika) patik (patik) kari (having done/with hands) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'गुरुसिष हेरा कौ अंग : भक्त कबीर जी' (16 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जब सच्चा प्यासा शिष्य और पूर्ण सद्गुरु मिलते हैं, तब ज्ञान का प्रकाश सहज ही प्रस्फुटित हो उठता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'gurusishaheraakauangabhaktakabeerajee' (16 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+When the sincere seeker meets the illumined Master, the spark of divine wisdom blazes into radiant life.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'गुरुसिष हेरा कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 16 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: गुरुसिष हेरा कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'गुरुसिष हेरा कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-16"></a>
 ## साखी अंग 16: गुरुदेव कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 16: Gauraudaeva Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Supreme Glory of the Divine Master
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1808,23 +1763,20 @@ kya (what) le (taking/having taken) gur (of the Master) santoshie (santoshie) , 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'गुरुदेव कौ अंग : भक्त कबीर जी' (37 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+गुरु गोविंद दोऊ खड़े काके लागूं पांय; बलिहारी गुरु आपने जिन गोविंद दियो बताय।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'gurudevakauangabhaktakabeerajee' (37 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The Master and the Lord both stand before me; unto the Master I bow, who revealed the Beloved's face.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'गुरुदेव कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 37 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: गुरुदेव कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'गुरुदेव कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-17"></a>
 ## साखी अंग 17: ग्यान बिरह कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 17: Gayaana Bairaha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Longing for Higher Wisdom and Divine Insight
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1887,23 +1839,20 @@ jogee (yogi) tha (tha) so (that/the same) rami (absorbed in divine remembrance) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'ग्यान बिरह कौ अंग : भक्त कबीर जी' (10 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+केवल शब्द-ज्ञान नहीं, बल्कि परमात्मा के साक्षात ज्ञान के लिए हृदय में तड़प होना ही सच्ची साधना है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'gyaanabirahakauangabhaktakabeerajee' (10 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Not mere intellectual learning, but a burning thirst for direct divine realization marks the true seeker.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'ग्यान बिरह कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 10 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: ग्यान बिरह कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'ग्यान बिरह कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-18"></a>
 ## साखी अंग 18: हैरान कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 18: Haairaana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Mystical Wonder and Ecstatic Awe
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1934,23 +1883,20 @@ kahai (chants) kabeera (Sant Kabir) sant (holy saint) hau (am/I) , bada (bada (s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'हैरान कौ अंग : भक्त कबीर जी' (2 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+उस परम सत्ता के अद्‍भुत रूप को देखकर बुद्धि स्तब्ध रह जाती है और वाणी मौन हो जाती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'hairaanakauangabhaktakabeerajee' (2 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Beholding the boundless splendor of the Infinite, the intellect is struck dumb in awe and wonder.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'हैरान कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 2 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: हैरान कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'हैरान कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-19"></a>
 ## साखी अंग 19: हेत प्रीति सनेह कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 19: Haeta Paraeetai Sanaeha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Pure Divine Affection and Soulful Love
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1995,23 +1941,20 @@ chaturaaee (chaturaaee) reejhai (reejhai) naheen (not/never) , reejhai (reejhai)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'हेत प्रीति सनेह कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सच्चा प्रेम वही है जो बिना किसी स्वार्थ और कामना के केवल प्रियतम के सुख के लिए समर्पित हो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'hetapreetisanehakauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+True love demands no reward and harbors no selfish design, living only to delight the Beloved.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'हेत प्रीति सनेह कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: हेत प्रीति सनेह कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'हेत प्रीति सनेह कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-20"></a>
 ## साखी अंग 20: जर्णा कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 20: Jaranaa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Divine Forbearance, Endurance, and Patience
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2063,23 +2006,20 @@ ajahoon (ajahoon (spiritual sense)) bera (wild plum/times) samand (samand) main 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'जर्णा कौ अंग : भक्त कबीर जी' (5 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+कठिन से कठिन कष्ट और अपमान को हंसकर सह जाना ही साधक के आंतरिक बल की वास्तविक पहचान है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'jarnaakauangabhaktakabeerajee' (5 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Enduring trials and insults with serene patience is the hallmark of spiritual maturity and power.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'जर्णा कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 5 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: जर्णा कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'जर्णा कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-21"></a>
 ## साखी अंग 21: जीवन मृतक कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 21: Jaeevana Maritaka Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Living Liberation: Free While in the Mortal Body
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2175,23 +2115,20 @@ hari (The Lord who dispels grief (Hari)) aadar (aadar) aagai (aagai (spiritual s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'जीवन मृतक कौ अंग : भक्त कबीर जी' (21 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जो जीवित रहते ही अहंकार से मर गया, वह संसार में रहते हुए भी माया के बंधनों से सर्वथा मुक्त है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'jeevanamritakakauangabhaktakabeerajee' (21 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+He who dies to the false self while yet breathing walks through the world completely liberated and free.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'जीवन मृतक कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 21 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: जिवनमुकुत कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'जिवनमुकुत कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-22"></a>
 ## साखी अंग 22: काल कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 22: Kaala Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Harmony of Speech and Action: Walk the Talk
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2383,23 +2320,20 @@ kaal (death/time) khada (khada) sir (head) uparai (uparai) , jyoon (jyoon (spiri
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'काल कौ अंग : भक्त कबीर जी' (53 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जो कहता है किंतु करता नहीं, उसका ज्ञान व्यर्थ है; कथनी और करनी का सामंजस्य ही मुक्तिदाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kaalakauangabhaktakabeerajee' (53 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Words unbacked by righteous deeds are empty chaff; alignment of speech and action brings salvation.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'काल कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 53 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: कथणी-करणी कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'कथणी-करणी कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-23"></a>
 ## साखी अंग 23: कामी नर कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 23: Kaamaee Nara Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Musk Deer: Seeking the Divine Within
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2528,23 +2462,20 @@ khaataan (khaataan) meethee (meethee) khaand (khaand) see (s (spiritual sense)) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'कामी नर कौ अंग : भक्त कबीर जी' (32 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जैसे कस्तूरी हिरन की नाभि में होती है पर वह उसे वन में ढूंढता है, वैसे ही राम घट-घट में बसते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kaameenarakauangabhaktakabeerajee' (32 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+As the musk deer searches the forest for the fragrance dwelling in its own navel, so mortals seek Ram outside.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'कामी नर कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 32 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: कस्तूरिया मृग कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'कस्तूरिया मृग कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-24"></a>
 ## साखी अंग 24: करणीं बिना कथणीं कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 24: Karanaeen Bainaa Kathanaeen Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Dismantling Greed and Arrogance
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2596,23 +2527,20 @@ jaannai (jaannai) boojhe (comprehends) kuchh (anything/something) naheen (not/ne
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'करणीं बिना कथणीं कौ अंग : भक्त कबीर जी' (5 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+लोभ पाप का मूल है और मद पतन का द्वार; इन दोनों का त्याग किए बिना ईश्वर-प्राप्ति असंभव है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'karaneenbinaakathaneenkauangabhaktakabeerajee' (5 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Greed is the root of transgression and pride the gate of ruin; renounce both to enter the kingdom of grace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'करणीं बिना कथणीं कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 5 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: लोभ-मद कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'लोभ-मद कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-25"></a>
 ## साखी अंग 25: कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 25: Kasataooraiyaan Mariga Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Golden Mean: Equilibrium and Stillness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2687,23 +2615,20 @@ mujhako (mujhako) soee (the very same) roisee (roisee) , je (if) raam (The All-P
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी' (14 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+अति का त्याग कर मध्य में स्थित होना ही सहज समाधि है; न अधिक बोलना न चुप रहना।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kastooriyaanmrigakauangabhaktakabeerajee' (14 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Avoiding all extremes and resting in the golden center of equilibrium is the secret of Sahaja.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 14 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: मध्य कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'मध्य कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-26"></a>
 ## साखी अंग 26: कथणीं बिना करणी कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 26: Kathanaeen Bainaa Karanaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Mastering the Restless and Turbulent Mind
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2748,23 +2673,20 @@ ekai (equal and one (does/by)) aashir (aashir) peev (Beloved Lord) ka (of) , pad
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'कथणीं बिना करणी कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+मन के हारे हार है मन के जीते जीत; जिसने मन को जीत लिया उसने संपूर्ण संसार को जीत लिया।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kathaneenbinaakaraneekauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Surrendering to the mind brings defeat, mastering it brings victory; conquer the mind and conquer the world.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'कथणीं बिना करणी कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: मन कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'मन कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-27"></a>
 ## साखी अंग 27: कुसबद कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 27: Kausabada Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Unveiling the Treacherous Veil of Maya
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2816,23 +2738,20 @@ jihin (jihin (spiritual sense)) baisandar (baisandar) jag (world's) jalya (jalya
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'कुसबद कौ अंग : भक्त कबीर जी' (5 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+माया दीपक की पतंग जैसी आकर्षक और विनाशकारी है; ज्ञानी साधक इसके भ्रम से स्वयं को बचा लेता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kusabadakauangabhaktakabeerajee' (5 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Maya is like the flame that lures the moth to destruction; the wise seeker walks unentangled by its glow.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'कुसबद कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 5 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: माया कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'माया कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-28"></a>
 ## साखी अंग 28: कुसंगति कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 28: Kausangatai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Glory of the Supreme Divine and His Devotees
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2889,23 +2808,20 @@ vo (vo) haalai (state) vo (vo) cheeriye (cheeriye) , saashit (saashit) sang (wit
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'कुसंगति कौ अंग : भक्त कबीर जी' (8 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+हरि के भक्तों की महिमा का पार कोई नहीं पा सकता; उनके दर्शन मात्र से हृदय पवित्र हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'kusangatikauangabhaktakabeerajee' (8 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The exalted glory of the Lord's devotees is boundless; a glimpse of their presence purifies the soul.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'कुसंगति कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 8 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: महिमा कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'महिमा कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-29"></a>
 ## साखी अंग 29: लांबि कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 29: Laanbai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Sacred Silence and Inward Contemplation
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2950,23 +2866,20 @@ samand (samand) samaana (to merge/permeate) boond (boond (spiritual sense)) main
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'लांबि कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+व्यर्थ के प्रपंचों को छोड़कर मौन धारण करना ही अंतर के अनाहत नाद को सुनने का सर्वोत्तम मार्ग है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'laanbikauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Silencing worldly chatter is the sacred gateway to hearing the unstruck celestial melody within.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'लांबि कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: मौन कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'मौन कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-30"></a>
 ## साखी अंग 30: लै कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 30: Laai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Action Without Attachment: The Selfless Way
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3004,23 +2917,20 @@ tahaan (there) kabeerai (Sant Kabir) math (math) rachya (rachya) , muni (silent 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'लै कौ अंग : भक्त कबीर जी' (3 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+कर्म करो किंतु फल की आसक्ति और 'मैं कर रहा हूँ' के अहंकार को सर्वथा त्याग दो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'laikauangabhaktakabeerajee' (3 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Perform all righteous duties with diligent hands, casting away selfish desires and the pride of authorship.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'लै कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 3 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: निहकर्मी कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'निहकर्मी कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-31"></a>
 ## साखी अंग 31: मधि कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 31: Madhai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Firm Conviction and Unshakable Faith
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3086,23 +2996,20 @@ kabeer (Sant Kabir) tahaan (there) bilanbiya (bilanbiya) , jahaan (wherever) chh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'मधि कौ अंग : भक्त कबीर जी' (11 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सत्य के मार्ग पर जिसके पैर दृढ़ संकल्प से जम जाते हैं, संपूर्ण प्रकृति उसकी सहायिका बन जाती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'madhikauangabhaktakabeerajee' (11 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+When the soul takes its stand on Truth with unshakable resolve, the cosmos itself becomes its ally.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'मधि कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 11 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: निश्चय कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'निश्चय कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-32"></a>
 ## साखी अंग 32: मन कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 32: Mana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Direct Experiential Realization of Oneness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3237,23 +3144,20 @@ gun (virtues/divine attributes) gaavai (sings in praise) laileen (laileen) hoi (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'मन कौ अंग : भक्त कबीर जी' (34 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जब बूंद समुद्र में और समुद्र बूंद में समा जाता है, तब ज्ञाता और ज्ञेय का सारा भेद मिट जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'manakauangabhaktakabeerajee' (34 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+When the drop dissolves into the ocean and the ocean abides in the drop, all duality vanishes.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'मन कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 34 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: परचा कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'परचा कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-33"></a>
 ## साखी अंग 33: माया कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 33: Maayaa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Discrimination Between the Eternal and Transient
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3389,23 +3293,20 @@ pooree (pooree (spiritual sense)) keenahoon (keenahoon) n (not) bhogaee (bhogaee
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'माया कौ अंग : भक्त कबीर जी' (34 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सच्चा पारखी वही है जो संसार के कंकड़ों में से नाम रूपी अनमोल हीरे को पहचान कर ग्रहण कर ले।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'maayaakauangabhaktakabeerajee' (34 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The true connoisseur sifts the priceless diamond of the Divine Name from the pebbles of earthly dust.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'माया कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 34 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: पारख कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'पारख कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-34"></a>
 ## साखी अंग 34: निगुणाँ कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 34: Naigaunaan Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Recognition of the Indwelling Beloved
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3480,23 +3381,20 @@ neer (water, flowing stream) mibaanaan (mibaanaan) thaaharai (thaaharai) , naaoo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'निगुणाँ कौ अंग : भक्त कबीर जी' (14 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जो हर घट में, हर श्वास में अपने प्रियतम को पहचान लेता है, उसके लिए सारा संसार ही वृंदावन बन जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'nigunaankauangabhaktakabeerajee' (14 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+He who recognizes the Beloved in every heart and every breath finds the whole universe turned sacred.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'निगुणाँ कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 14 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: पीव पहिचाण कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'पीव पहिचाण कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-35"></a>
 ## साखी अंग 35: निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 35: Naihakaramaee Pataibarataa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The True Dye: Imbued in Divine Ecstasy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3589,23 +3487,20 @@ nainoon (nainoon) ramaiya (ramaiya (spiritual sense)) rami (absorbed in divine r
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी' (20 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+संसार के सारे रंग कच्चे हैं जो धूप में उड़ जाते हैं; राम-नाम का रंग मजीठ है जो कभी फीका नहीं पड़ता।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'nihakarmeepatibrataakauangabhaktakabeerajee' (20 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Worldly dyes fade in the sun, but the crimson dye of divine love remains unfading forever.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 20 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: रंग कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'रंग कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-36"></a>
 ## साखी अंग 36: निंद्या कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 36: Naindayaa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Supreme Nectar of Divine Consciousness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3671,23 +3566,20 @@ bin (without/devoid of) saaban (saaban) paannee (paannee) bina (without) , niram
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'निंद्या कौ अंग : भक्त कबीर जी' (11 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+संसार के समस्त विषय-रस फीके पड़ जाते हैं, जब आत्मा एक बार उस हरि-नाम के अमृत रस का आस्वादन कर लेती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'nindyaakauangabhaktakabeerajee' (11 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+All worldly pleasures taste insipid once the soul partakes of the sublime nectar of the Divine Name.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'निंद्या कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 11 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: रस कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'रस कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-37"></a>
 ## साखी अंग 37: परचा कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 37: Parachaa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Spiritual Alchemy of Transmutation
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3864,23 +3756,20 @@ jahaan (wherever) kabeera (Sant Kabir) bandigee (humble devotion/prayer) , tahaa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'परचा कौ अंग : भक्त कबीर जी' (48 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जैसे पारस के स्पर्श से लोहा सोना बन जाता है, वैसे ही संतों की संगति से पापी जीव भी पावन हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'parachaakauangabhaktakabeerajee' (48 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+As the philosopher's stone turns iron into gold, the company of saints transmutes the fallen into holiness.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'परचा कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 48 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: रसायण कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'रसायण कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-38"></a>
 ## साखी अंग 38: पारिष कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 38: Paaraisha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Exemplary Life of the True Saint
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3939,23 +3828,20 @@ meree (my life's) bolee (bolee (spiritual sense)) so (that/the same) lakhai (lak
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'पारिष कौ अंग : भक्त कबीर जी' (6 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+साधु नदी के बहते जल के समान निर्मल और चंदन के समान शीतल होता है, जो सबको शीतलता प्रदान करता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'paarishakauangabhaktakabeerajee' (6 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The holy saint is pure as running water and fragrant as sandalwood, giving peace and coolness to all.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'पारिष कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 6 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: साध कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'साध कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-39"></a>
 ## साखी अंग 39: पीव पिछाँणन कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 39: Paeeva Paichhaannana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Ineffable Glory of Holy Fellowship
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4007,23 +3893,20 @@ kabeer (Sant Kabir) magan (absorbed) ta (upon that/his) roop (form) main (I/this
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'पीव पिछाँणन कौ अंग : भक्त कबीर जी' (5 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+कोटि तीर्थों के स्नान का जो फल है, वह संतों के चरणों की धूलि में क्षण भर बैठने से प्राप्त हो जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'peevapichhaannanakauangabhaktakabeerajee' (5 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The fruit of bathing at countless sacred shrines is attained in a single moment at the feet of the pure.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'पीव पिछाँणन कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 5 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: साध-महिमा कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'साध-महिमा कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-40"></a>
 ## साखी अंग 40: रस कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 40: Rasa Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Sahaja: The State of Natural Divine Stillness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4080,23 +3963,20 @@ mainmanta (mainmanta) ghoonmat (ghoonmat) rahai (may abide/remain) , naanhee (na
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'रस कौ अंग : भक्त कबीर जी' (8 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+न कोई हठ, न कोई क्लेश; केवल स्वभाविक रूप से प्रभु में लीन हो जाना ही सहज समाधि है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'rasakauangabhaktakabeerajee' (8 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Without forced austerity or frantic strain, resting effortlessly in divine presence is true Sahaja.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'रस कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 8 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सहज कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सहज कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-41"></a>
 ## साखी अंग 41: सबद कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 41: Sabada Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Value of the Present Moment in Time
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4156,23 +4036,20 @@ laagat (laagat) hee (alone/only) men (in/within) mili (meet related) gaya (has d
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सबद कौ अंग : भक्त कबीर जी' (9 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+बीता हुआ पल कभी लौटकर नहीं आता; जीवन के प्रत्येक श्वास को प्रभु-स्मरण में लगाना ही बुद्धिमत्ता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sabadakauangabhaktakabeerajee' (9 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The departed moment never returns; breathing each precious breath in divine contemplation is true wisdom.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सबद कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 9 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: समय कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'समय कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-42"></a>
 ## साखी अंग 42: साध कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 42: Saadha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Omnipotence and Sovereign Might of God
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4250,23 +4127,20 @@ vo (vo) hai (is) daata (Supreme Giver/Benefactor) mukati (spiritual liberation) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'साध कौ अंग : भक्त कबीर जी' (15 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+वह समर्थ प्रभु तिनके को सुमेरु पर्वत और सुमेरु को तिनका बना देने की असीम सामर्थ्य रखता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saadhakauangabhaktakabeerajee' (15 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The almighty Sovereign possesses the power to turn a humble straw into a mountain and a mountain to dust.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'साध कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 15 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सम्रथाई कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सम्रथाई कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-43"></a>
 ## साखी अंग 43: साध महिमाँ कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 43: Saadha Mahaimaan Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Overcoming Spiritual Skepticism and Hesitation
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4332,23 +4206,20 @@ ta (upon that/his) sukh (true bliss) thain (from/by) bhishya (bhishya) bhalee (b
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'साध महिमाँ कौ अंग : भक्त कबीर जी' (11 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जब तक मन में संशय का तिनका भी रहेगा, तब तक आत्म-ज्ञान का दीपक प्रज्वलित नहीं हो सकता।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saadhamahimaankauangabhaktakabeerajee' (11 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+As long as a single straw of doubt lingers within, the lamp of inner illumination cannot be lit.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'साध महिमाँ कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 11 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: संदेह कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'संदेह कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-44"></a>
 ## साखी अंग 44: साध साषीभूत कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 44: Saadha Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Tender Affection and Intimate Devotion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4444,23 +4315,20 @@ raini (raini) n (not) aavai (comes/arrives) neendadee (neendadee) , angi (every 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'साध साषीभूत कौ अंग : भक्त कबीर जी' (21 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जैसे बालक अपनी माता की गोद में निश्चिंत रहता है, वैसे ही भक्त अपने प्रभु के स्नेह में निर्भय रहता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saadhasaasheebhootakauangabhaktakabeerajee' (21 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+As a child rests tranquil in its mother's lap, the surrendered devotee rests secure in divine affection.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'साध साषीभूत कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 21 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सनेह कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सनेह कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-45"></a>
 ## साखी अंग 45: सहज कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 45: Sahaja Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Sanctity, Compassion, and Equanimity of Saints
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4505,23 +4373,20 @@ jinh (jinh) sahajai (spontaneous spiritual equilibrium, effortless bliss) harije
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सहज कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+संत का हृदय मक्खन से भी अधिक कोमल होता है, जो दूसरों के दुख को देखकर स्वतः पिघल जाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sahajakauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The heart of a saint is softer than butter, melting instantly at the sight of another's suffering.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सहज कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: संत कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'संत कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-46"></a>
 ## साखी अंग 46: सजीवनी कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 46: Sajaeevanaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Contentment: The Supreme Treasure of Peace
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4575,23 +4440,20 @@ pangul (pangul) hnai (hnai) pivapiv (pivapiv) karai (doing (does/by)) , peechhai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सजीवनी कौ अंग : भक्त कबीर जी' (7 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+गोधन गजधन बाजिधन और रतनधन खान; जब आवै संतोष धन सब धन धूरि समान।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sajeevaneekauangabhaktakabeerajee' (7 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Cattle, elephants, horses, and mines of gold; before the treasure of contentment all are like dust of old.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सजीवनी कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 7 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: संतोष कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'संतोष कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-47"></a>
 ## साखी अंग 47: सम्रथाई कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 47: Samarathaaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Truth: The Bedrock of Righteousness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4666,23 +4528,20 @@ saaeen (saaeen) mera (my/mine) sulashana (sulashana) , soota (soota (spiritual s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सम्रथाई कौ अंग : भक्त कबीर जी' (14 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सांच बराबर तप नहीं झूठ बराबर पाप; जाके हिरदै सांच है ताके हिरदै आप।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'samrathaaeekauangabhaktakabeerajee' (14 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+No penance equals Truth, no transgression equals a lie; in whose heart Truth abides, the Lord is ever nigh.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सम्रथाई कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 14 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सत कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सत कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-48"></a>
 ## साखी अंग 48: साँच कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 48: Saancha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Sovereign Power of Authentic Truth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4766,23 +4625,20 @@ jab (at the time when) lag (attaching/cleaving unto) saans (saans) sareer (morta
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'साँच कौ अंग : भक्त कबीर जी' (17 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+सत्य को किसी ढाल या तलवार की आवश्यकता नहीं; सत्य स्वयं अपनी रक्षा करने में पूर्ण समर्थ है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saanchakauangabhaktakabeerajee' (17 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Truth requires neither sword nor shield; standing upon its own purity, it triumphs on every field.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'साँच कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 17 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: साँच कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'साँच कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-49"></a>
 ## साखी अंग 49: संगति कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 49: Sangatai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Inevitable Influence of Association
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4839,23 +4695,20 @@ sir (head) oopari (upon) aaraas (aaraas) hai (is) , taoo (yet/still) n (not) doo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'संगति कौ अंग : भक्त कबीर जी' (8 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जैसी संगति बैठिए तैसा ही फल दीन; पारस परसे कंचन होइ, लोहे संग लोह छीन।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sangatikauangabhaktakabeerajee' (8 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+As is the company thou keepest, so is the fruit thou receivest; touch the philosopher's stone and turn to gold.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'संगति कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 8 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: संगति कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'संगति कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-50"></a>
 ## साखी अंग 50: सारग्राही कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 50: Saaragaraahaee Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Winnowing Swan: Grasping the Essence
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4909,23 +4762,20 @@ ghat (body/inner temple) ghat (body/inner temple) mahu (great) ke (of) madhup (b
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सारग्राही कौ अंग : भक्त कबीर जी' (7 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+हंस जैसे दूध को पीकर पानी को छोड़ देता है, वैसे ही ज्ञानी साधक संसार के सार को चुन लेता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saaragraaheekauangabhaktakabeerajee' (7 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Like the mythical swan that sips the milk and discards the water, the wise soul extracts divine Truth.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सारग्राही कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 7 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सारग्राही कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सारग्राही कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-51"></a>
 ## साखी अंग 51: साषीभूत कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 51: Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Detached Witness Consciousness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4963,23 +4813,20 @@ dekhat (beholding (while doing)) hee (alone/only) dah (ten directions) main (I/t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'साषीभूत कौ अंग : भक्त कबीर जी' (3 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+संसार के समस्त सुख-दुख और घटनाओं का केवल साक्षी बनकर रहो, उनमें कर्ता बनकर मत उलझो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'saasheebhootakauangabhaktakabeerajee' (3 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Abide as the silent, untouched witness of all cosmic play, without becoming entangled as the actor.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'साषीभूत कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 3 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: साषीभूत कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'साषीभूत कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-52"></a>
 ## साखी अंग 52: सुमिरण कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 52: Saumairana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Eternal Science of Divine Remembrance
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5108,23 +4955,20 @@ manasa (manasa) bacha (escaping/word) kramanaan (kramanaan) , kabeer (Sant Kabir
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सुमिरण कौ अंग : भक्त कबीर जी' (32 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+दुख में सुमिरन सब करे सुख में करे न कोय; जो सुख में सुमिरन करे तो दुख काहे को होय।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sumiranakauangabhaktakabeerajee' (32 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+In sorrow all remember God, in joy remembers none; if one remembered Him in joy, sorrow would be undone.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सुमिरण कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 32 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सुमिरण कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सुमिरण कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-53"></a>
 ## साखी अंग 53: सुंदरि कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 53: Saundarai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Divine Maiden: The Soul's Bridal Longing
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5183,23 +5027,20 @@ soee (the very same) naari (woman/spouse) sulashanee (sulashanee) , nit (daily/e
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सुंदरि कौ अंग : भक्त कबीर जी' (6 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+हे मेरे प्राणेश्वर! अब देर मत करो, शीघ्र आकर अपनी विरहिणी दासी को दर्शन देकर कृतार्थ करो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sundarikauangabhaktakabeerajee' (6 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+O Lord of my life, delay no longer; come swift and bless Thy yearning bride with Thy divine vision.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सुंदरि कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 6 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सुंदरि कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सुंदरि कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-54"></a>
 ## साखी अंग 54: सूरा तन कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 54: Saooraa Tana Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Spiritual Warrior: Bravery of the Soul
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5358,23 +5199,20 @@ kabeer (Sant Kabir) yaun (yaun (spiritual sense)) bin (without/devoid of) sooriv
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सूरा तन कौ अंग : भक्त कबीर जी' (42 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+शूरवीर वह नहीं जो तलवार से लड़े, सच्चा शूरवीर वह है जो अपने पांचों विकारों को पराजित कर दे।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sooraatanakauangabhaktakabeerajee' (42 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The true warrior fights not with steel on earthly sod, but conquers his own passions for the love of God.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सूरा तन कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 42 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सूरा तन कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सूरा तन कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-55"></a>
 ## साखी अंग 55: सूषिम जनम कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 55: Saooshaima Janama Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Subtle Rebirth into Spiritual Consciousness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5419,23 +5257,20 @@ panch (five vices) tatt (tatt) tattahi (tattahi) milai (is obtained/received) , 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सूषिम जनम कौ अंग : भक्त कबीर जी' (4 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+भौतिक देह के रहते हुए भी रूहानी चेतना में नया जन्म लेना ही अमरत्व की पहली सीढ़ी है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sooshimajanamakauangabhaktakabeerajee' (4 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Taking birth in the subtle realm of divine awareness while in the flesh is the first step to immortality.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सूषिम जनम कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 4 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सूषिम जनम कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सूषिम जनम कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-56"></a>
 ## साखी अंग 56: सूषिम मारग कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 56: Saooshaima Maaraga Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** The Razor's Path: The Subtle Journey Within
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5501,23 +5336,20 @@ preeti (love related) n (not) jodaee (jodaee) raam (The All-Pervading Lord (Ram)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'सूषिम मारग कौ अंग : भक्त कबीर जी' (11 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+अध्यात्म का मार्ग सुई के नाके से भी बारीक है; यहाँ अहंकार का भारी बोझ लेकर प्रवेश नहीं किया जा सकता।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'sooshimamaaragakauangabhaktakabeerajee' (11 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+The spiritual path is finer than a needle's eye; none can enter burdened with the heavy luggage of pride.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'सूषिम मारग कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 11 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: सूषिम मारग कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'सूषिम मारग कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-57"></a>
 ## साखी अंग 57: उपदेश कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 57: Upadaesha Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Master's Sacred Counsel to Humanity
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5583,23 +5415,20 @@ bidhi (manner/way) bidhi (manner/way) baanon (baanon) bolata (bolata) so (that/t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'उपदेश कौ अंग : भक्त कबीर जी' (11 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+यह मानव जीवन बार-बार नहीं मिलता; विषय-वासनाओं को छोड़कर सत्य और प्रेम के मार्ग को अपनाओ।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'upadeshakauangabhaktakabeerajee' (11 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+This precious human birth comes not again and again; forsake petty illusions and embrace Truth and love.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'उपदेश कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 11 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: उपदेश कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'उपदेश कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-58"></a>
 ## साखी अंग 58: उपजणि कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 58: Upajanai Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Spontaneous Awakening of Inner Wisdom
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5671,23 +5500,20 @@ pasoo (pasoo) pansheroo (pansheroo) jeev (living soul/creature) jant (creatures/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'उपजणि कौ अंग : भक्त कबीर जी' (13 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+जब अंतर में प्रभु-प्रेम का अंकुर फूटता है, तब संसार की सारी शुष्कता समाप्त होकर हरियाली छा जाती है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'upajanikauangabhaktakabeerajee' (13 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+When the seed of divine love sprouts within the soul, all barren sorrow departs and eternal spring arrives.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'उपजणि कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 13 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: उपजणि कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'उपजणि कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 
 <a name="sakhi-59"></a>
 ## साखी अंग 59: विचार कौ अंग : भक्त कबीर जी
-**English Title:** Sakhi Ang 59: Vaichaara Kaau Anga : Bhakata Kabaeera Jaee
+**English Title:** Profound Contemplation and Discrimination
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5756,17 +5582,14 @@ naannaan (naannaan) baannee (baannee) boliya (boliya) , joti (divine radiance/li
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन 'विचार कौ अंग : भक्त कबीर जी' (12 दोहे):
-सत्य का साक्षात्कार कराने वाली यह दिव्य साखी अंतःकरण के समस्त विकारों का शमन करती है।
-सच्चे ज्ञान और प्रेम के आलोक में जब साधक अपने मन को प्रभु में लीन करता है, तब द्वैत का भ्रम मिटकर केवल अद्वैत परमात्मा ही शेष रहता है।
+केवल अंधविश्वास से नहीं, बल्कि गहन विवेक और विचार से सत्य को जानकर अपने जीवन को धन्य करो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From the sacred Kabir Granthavali, the revered 'vichaarakauangabhaktakabeerajee' (12 couplets):
-These luminous witness-testimony couplets dissolve the illusions of the mind and awaken the dormant soul.
-In the effulgent light of divine wisdom and selfless devotion, the seeker transcends duality and abides in pure non-dual communion with the Beloved.
+Not through blind superstition, but through deep discrimination and contemplation is eternal Truth realized.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This section comprises the complete 'विचार कौ अंग : भक्त कबीर जी' from the historic Kabir Granthavali edited by Dr. Shyam Sundar Das. Containing 12 masterly rhyming couplets, it forms a cohesive thematic discourse expounding Kabir's experiential mysticism on this vital dimension of spiritual life.
+### कबीर ग्रंथावली: विचार कौ अंग का दार्शनिक विश्लेषण
+यह अंग कबीर ग्रंथावली का अत्यंत महत्वपूर्ण प्रभाग है, जिसमें कबीर 'विचार कौ अंग' के गूढ़ आध्यात्मिक रहस्य का उद्घाटन करते हैं। बाह्य अंधविश्वासों और अहंकार का शमन कर आत्मा को सहज अद्वैत में लीन करने का यह अनुपम उपदेश है।
 
 ---
 

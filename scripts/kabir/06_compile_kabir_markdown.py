@@ -11,6 +11,9 @@ os.makedirs(content_dir, exist_ok=True)
 with open("data/kabir/kabir_data.json", "r", encoding="utf-8") as f:
     all_items = json.load(f)
 
+if isinstance(all_items, dict):
+    all_items = list(all_items.values())
+
 print(f"Loaded {len(all_items)} translated items for markdown compilation.")
 
 # Group by category
@@ -38,7 +41,7 @@ def render_markdown_volume(filename, title, subtitle, intro, items, prefix):
             num = it.get('num', 1)
             t_hi = it['title_hi']
             anchor = f"{prefix}-{num}"
-            theme = it['title']
+            theme = it.get('theme_hi', it.get('theme', it['title']))
             f.write(f"| {num} | [{t_hi}](#{anchor}) | {theme} |\n")
             
         f.write("\n---\n\n")
@@ -46,7 +49,8 @@ def render_markdown_volume(filename, title, subtitle, intro, items, prefix):
         for it in items:
             num = it.get('num', 1)
             t_hi = it['title_hi']
-            t_en = it['title']
+            t_en = it.get('theme_en', it['title'])
+
             anchor = f"{prefix}-{num}"
             orig = it['original_text']
             v_hi = it['verse_hi']

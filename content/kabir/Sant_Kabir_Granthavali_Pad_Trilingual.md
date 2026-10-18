@@ -7,29 +7,29 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [पद: राग आसावरी : भक्त कबीर जी](#pad-1) | Pad: Raaga Aasaavaraee : Bhakata Kabaeera Jaee |
-| 2 | [पद: राग बसंत : भक्त कबीर जी](#pad-2) | Pad: Raaga Basanta : Bhakata Kabaeera Jaee |
-| 3 | [पद: राग भैरूँ : भक्त कबीर जी](#pad-3) | Pad: Raaga Bhaairaoon : Bhakata Kabaeera Jaee |
-| 4 | [पद: राग बिलावल : भक्त कबीर जी](#pad-4) | Pad: Raaga Bailaavala : Bhakata Kabaeera Jaee |
-| 5 | [पद: राग धनाश्री : भक्त कबीर जी](#pad-5) | Pad: Raaga Dhanaasharaee : Bhakata Kabaeera Jaee |
-| 6 | [पद: राग गौड़ी : भक्त कबीर जी](#pad-6) | Pad: Raaga Gaaudaee : Bhakata Kabaeera Jaee |
-| 7 | [पद: राग कल्याण : भक्त कबीर जी](#pad-7) | Pad: Raaga Kalayaana : Bhakata Kabaeera Jaee |
-| 8 | [पद: राग केदारौ : भक्त कबीर जी](#pad-8) | Pad: Raaga Kaedaaraau : Bhakata Kabaeera Jaee |
-| 9 | [पद: राग ललित : भक्त कबीर जी](#pad-9) | Pad: Raaga Lalaita : Bhakata Kabaeera Jaee |
-| 10 | [पद: राग मलार : भक्त कबीर जी](#pad-10) | Pad: Raaga Malaara : Bhakata Kabaeera Jaee |
-| 11 | [पद: राग माली गौड़ी : भक्त कबीर जी](#pad-11) | Pad: Raaga Maalaee Gaaudaee : Bhakata Kabaeera Jaee |
-| 12 | [पद: राग मारू : भक्त कबीर जी](#pad-12) | Pad: Raaga Maaraoo : Bhakata Kabaeera Jaee |
-| 13 | [पद: राग रामकली : भक्त कबीर जी](#pad-13) | Pad: Raaga Raamakalaee : Bhakata Kabaeera Jaee |
-| 14 | [पद: राग सारंग : भक्त कबीर जी](#pad-14) | Pad: Raaga Saaranga : Bhakata Kabaeera Jaee |
-| 15 | [पद: राग सोरठि : भक्त कबीर जी](#pad-15) | Pad: Raaga Saorathai : Bhakata Kabaeera Jaee |
-| 16 | [पद: राग सूहौ : भक्त कबीर जी](#pad-16) | Pad: Raaga Saoohaau : Bhakata Kabaeera Jaee |
-| 17 | [पद: राग टोड़ी : भक्त कबीर जी](#pad-17) | Pad: Raaga Taodaee : Bhakata Kabaeera Jaee |
+| 1 | [पद: राग आसावरी : भक्त कबीर जी](#pad-1) | रागात्मक विरह, सुबह की प्रार्थना और आत्म-समर्पण |
+| 2 | [पद: राग बसंत : भक्त कबीर जी](#pad-2) | आध्यात्मिक वसंत, रूहानी उल्लास और नव-जीवन |
+| 3 | [पद: राग भैरूँ : भक्त कबीर जी](#pad-3) | गंभीर आत्म-चेतना, निर्भयता और ब्रह्म-साक्षात्कार |
+| 4 | [पद: राग बिलावल : भक्त कबीर जी](#pad-4) | हर्षोल्लास, कृतज्ञता और ईश्वरीय अनुग्रह का उत्सव |
+| 5 | [पद: राग धनाश्री : भक्त कबीर जी](#pad-5) | आरती, कृतज्ञ वंदना और प्रियतम के प्रति समर्पण |
+| 6 | [पद: राग गौड़ी : भक्त कबीर जी](#pad-6) | गहन अंतर्मुखी ध्यान, मन की शांति और माया का शमन |
+| 7 | [पद: राग कल्याण : भक्त कबीर जी](#pad-7) | शुभता, कल्याण और परम मंगल की प्राप्ति |
+| 8 | [पद: राग केदारौ : भक्त कबीर जी](#pad-8) | वैराग्य की तीव्र पुकार, शिव-तत्व और चित्त की एकाग्रता |
+| 9 | [पद: राग ललित : भक्त कबीर जी](#pad-9) | भोर की करुण पुकार और आध्यात्मिक नव-प्रभात |
+| 10 | [पद: राग मलार : भक्त कबीर जी](#pad-10) | अमृत वर्षा, तपन की शांति और रूहानी हरियाली |
+| 11 | [पद: राग माली गौड़ी : भक्त कबीर जी](#pad-11) | हृदय-वाटिका की सेवा और सद्कर्मों के सुगंधित पुष्प |
+| 12 | [पद: राग मारू : भक्त कबीर जी](#pad-12) | वीर रस, रणभेरी और विकारों के विरुद्ध महा-संग्राम |
+| 13 | [पद: राग रामकली : भक्त कबीर जी](#pad-13) | योगिक सिद्धि, अनाहत नाद और दशम-द्वार का भेदन |
+| 14 | [पद: राग सारंग : भक्त कबीर जी](#pad-14) | मध्याह्न की तपन में अमृत-शीतलता और नाम-छाया |
+| 15 | [पद: राग सोरठि : भक्त कबीर जी](#pad-15) | गहरी रात की शांति, अनन्य प्रेम और प्रियतम से एकाकारिता |
+| 16 | [पद: राग सूहौ : भक्त कबीर जी](#pad-16) | नव-वधू का शृंगार, समर्पण और प्रियतम का आगमन |
+| 17 | [पद: राग टोड़ी : भक्त कबीर जी](#pad-17) | परम दीनता, आर्तनाद और करुणामय परमात्मा की पुकार |
 
 ---
 
 <a name="pad-1"></a>
 ## पद: राग आसावरी : भक्त कबीर जी
-**English Title:** Pad: Raaga Aasaavaraee : Bhakata Kabaeera Jaee
+**English Title:** Morning Aspiration, Deep Pathos of Separation, and Surrender
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -522,23 +522,24 @@ man (mind/inner consciousness) ka (of) bhram (illusion/doubt) man (mind/inner co
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग आसावरी : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+प्रातःकाल की शांत बेला में गाया जाने वाला राग आसावरी विरह की गहरी वेदना और समर्पण का नाद है;
+कबीर पुकारते हैं कि हे गोविंद! इस भवसागर के अथाह जल में मेरी नैया डोल रही है, मुझे पार लगाओ।
+संसार के झूठे बंधनों को तोड़कर जो प्रभु के चरणों में शरण लेता है, उसका उद्धार निश्चित है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagaaasaavareebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Chanted in the stillness of dawn, Raag Asavari evokes the deep pathos of mystical yearning and release;
+Kabir cries out: O Govind! Upon this ocean of mortal peril my boat tosses in the gale, grant me Thy peace;
+Severing all earthly bonds, whoever seeks the shelter of Thy lotus feet crosses safely home.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग आसावरी : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग आसावरी के पदों का संगीत-दार्शनिक विश्लेषण
+राग आसावरी प्रातःकालीन राग है जो मन में त्याग, वैराग्य और कारुणिक पुकार का भाव जाग्रत करता है। कबीर इस राग में सांसारिक असहायता और ईश्वर-कृपा की अनिवार्यता को अभिव्यक्त करते हैं।
 
 ---
 
 <a name="pad-2"></a>
 ## पद: राग बसंत : भक्त कबीर जी
-**English Title:** Pad: Raaga Basanta : Bhakata Kabaeera Jaee
+**English Title:** The Spiritual Springtime, Ecstatic Renewal, and Mystic Bloom
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -678,23 +679,24 @@ ratan (gem) pravaalai (pravaalai) param (supreme/highest) joti (divine radiance/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग बसंत : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+अंतर-घट में जब सद्गुरु के ज्ञान का वसंत खिलता है, तब आत्मा के सारे संताप मिट जाते हैं;
+चारों ओर आनंद की सुगंध फैल जाती है और जीवात्मा प्रभु-प्रेम के अनहद रंग में रंग जाती है।
+कबीर कहते हैं कि यह रूहानी वसंत कभी नहीं मुरझाता, यह सदा-सदा हरा-भरा रहता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagabasantabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+When the springtime of the Master's wisdom blossoms in the garden of the soul, all sorrows take flight;
+The fragrance of bliss radiates everywhere, and the spirit is dyed in the Beloved's ecstatic light;
+Says Kabir, this celestial spring never withers with the seasons, flourishing in timeless green.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग बसंत : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग बसंत के पदों का संगीत-दार्शनिक विश्लेषण
+राग बसंत प्रकृति के उल्लास का प्रतीक है। कबीर इसे अंतर्मन के आध्यात्मिक जागरण और 'अमर बसंत' (शाश्वत आनंद) का रूपक बनाकर प्रस्तुत करते हैं।
 
 ---
 
 <a name="pad-3"></a>
 ## पद: राग भैरूँ : भक्त कबीर जी
-**English Title:** Pad: Raaga Bhaairaoon : Bhakata Kabaeera Jaee
+**English Title:** Profound Awakening, Fearlessness, and Absorption in the Absolute
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -995,23 +997,24 @@ man (mind/inner consciousness) hee (alone/only) duvidhya (duvidhya) man (mind/in
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग भैरूँ : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+भोर की प्रथम किरण के साथ राग भैरव की गंभीर ध्वनि साधक को अज्ञान की निद्रा से जगाती है;
+संसार के सारे भ्रम और भय दूर हो जाते हैं जब आत्मा साक्षात परब्रह्म के स्वरूप में लीन होती है।
+कबीर घोषणा करते हैं कि राम-नाम के सिमरन से बड़ा कोई दूसरा बल और प्रकाश नहीं है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagabhairoonbhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+With the first ray of dawn, the solemn notes of Raag Bhairav rouse the soul from slumber of the night;
+All earthly phantoms and terrors dissolve away as consciousness merges into the Absolute Light;
+Proclaims Kabir: No strength, no sanctuary equals the continuous remembrance of the holy Name.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग भैरूँ : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग भैरव के पदों का संगीत-दार्शनिक विश्लेषण
+राग भैरव भारतीय शास्त्रीय संगीत का अत्यंत गंभीर और प्रशांत राग है। कबीर इसमें निर्भयता और ब्रह्म-साक्षात्कार के उच्चतम सोपानों को उद्घाटित करते हैं।
 
 ---
 
 <a name="pad-4"></a>
 ## पद: राग बिलावल : भक्त कबीर जी
-**English Title:** Pad: Raaga Bailaavala : Bhakata Kabaeera Jaee
+**English Title:** Joyous Celebration, Gratitude, and Triumph of Divine Grace
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1150,23 +1153,24 @@ brisapati (brisapati) bishiya (bishiya (spiritual sense)) dei (of/unto (in/havin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग बिलावल : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग बिलावल के मधुर स्वर अंतःकरण को परम शांति और कृतज्ञता के आनंद से भर देते हैं;
+जब परमात्मा की कृपा का अनुभव होता है, तब जीवन का हर क्षण एक उत्सव बन जाता है।
+कबीर कहते हैं कि जिस पर कृपालु प्रभु की दृष्टि हो गई, उसके सारे मनोरथ सहज ही सिद्ध हो गए।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagabilaavalabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+The bright melodious cadences of Raag Bilawal fill the grateful heart with serene delight;
+When the boundless touch of divine grace is felt, existence turns into a festival of light;
+Says Kabir, upon whom the compassionate gaze of the Sovereign falls, all longings are fulfilled in peace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग बिलावल : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग बिलावल के पदों का संगीत-दार्शनिक विश्लेषण
+बिलावल संपूर्ण और शुद्ध स्वरों का राग है जो निर्मल आनंद और विजय-भाव को प्रकट करता है। कबीर यहाँ संशय-मुक्ति और प्रभु-प्राप्ति का उल्लास व्यक्त करते हैं।
 
 ---
 
 <a name="pad-5"></a>
 ## पद: राग धनाश्री : भक्त कबीर जी
-**English Title:** Pad: Raaga Dhanaasharaee : Bhakata Kabaeera Jaee
+**English Title:** Mystic Adoration, Reverent Aarti, and Yearning for Union
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1262,23 +1266,24 @@ loh (iron, hardest metal) naav (boat/vessel of truth) paahan (paahan) bharee (bh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग धनाश्री : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग धनाश्री में गाई गई वंदना अंतर्मन को प्रियतम की अलौकिक आरती में निमग्न कर देती है;
+गगन-थाल में रवि और चंद्र दीपक बनकर उस जगदीश्वर की निरंतर आरती उतार रहे हैं।
+कबीर अपने अश्रुपूरित नेत्रों से उस परम ज्योति की वंदना करते हुए आत्म-समर्पण करते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagadhanaashreebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Hymns composed in Raag Dhanashri draw the enraptured soul into cosmic adoration and grace;
+Where the sky is the salver, sun and moon are lamps, offering ceaseless aarti to the Beloved's face;
+Kabir surrenders with eyes bathed in tears of gratitude, resting at the threshold of the Supreme.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग धनाश्री : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग धनाश्री के पदों का संगीत-दार्शनिक विश्लेषण
+राग धनाश्री शांत और भक्ति-रस से परिपूर्ण राग है। कबीर इसमें विराट ब्रह्मांडीय वंदना (गगन में थालु) और अंतर्मुखी समर्पण का चित्रण करते हैं।
 
 ---
 
 <a name="pad-6"></a>
 ## पद: राग गौड़ी : भक्त कबीर जी
-**English Title:** Pad: Raaga Gaaudaee : Bhakata Kabaeera Jaee
+**English Title:** Deep Inward Contemplation, Mind Stillness, and Subduing of Illusion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2348,23 +2353,24 @@ bahut (many related) dinan (dinan) thain (from/by) main (I/this humble servant) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग गौड़ी : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग गौड़ी की गंभीर और प्रशांत धारा चंचल मन को शांत कर अंतर्मुखी समाधि की ओर ले जाती है;
+हजारों पदों का यह विशाल संकलन माया के प्रपंचों को नष्ट कर आत्म-स्वरूप का दर्शन कराता है।
+कबीर कहते हैं कि जब मन सहज में थिर हो जाता है, तब अंतर में अमृत का अनहद नाद गूंजने लगता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagagaudaeebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+The profound and tranquil flow of Raag Gauri stills the restless intellect and guides it into meditation deep;
+This vast treasury of hymns unravels the web of illusion that worldly souls in slumber keep;
+Says Kabir, when the mind rests unmoving in the stillness of Sahaja, the celestial unstruck melody resounds.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग गौड़ी : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग गौड़ी के पदों का संगीत-दार्शनिक विश्लेषण
+राग गौड़ी कबीर के पदों का सबसे बड़ा संकलन (1029 पंक्तियां) है। यह राग संध्याकालीन शांति और अंतर्मुखता का वाहक है, जहाँ कबीर मन को साधने की सूक्ष्म विधियां सिखाते हैं।
 
 ---
 
 <a name="pad-7"></a>
 ## पद: राग कल्याण : भक्त कबीर जी
-**English Title:** Pad: Raaga Kalayaana : Bhakata Kabaeera Jaee
+**English Title:** Auspiciousness, Supreme Welfare, and Abiding Peace
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2408,23 +2414,24 @@ kahai (chants) kabeer (Sant Kabir) daasani (daasani) ko (unto/toward) daas (devo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग कल्याण : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग कल्याण का गायन जीवन में समस्त अमंगल को दूर कर परम कल्याणकारी शांति प्रदान करता है;
+जिसने उस मंगलमय प्रभु का आश्रय ले लिया, उसका लोक और परलोक दोनों संवर जाते हैं।
+कबीर कहते हैं कि सत्य के मार्ग पर चलने से बड़ा कोई दूसरा मंगल और कल्याण नहीं है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagakalyaanabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+The singing of Raag Kalyan dispels all dark misfortune and brings the soul to supreme welfare and rest;
+He who takes refuge in the auspicious Lord finds both this world and the hereafter blest;
+Says Kabir, walking the straight highway of Truth is the highest good that mortal breath can know.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग कल्याण : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग कल्याण के पदों का संगीत-दार्शनिक विश्लेषण
+कल्याण राग रात्रि के प्रथम प्रहर का कल्याणकारी राग है। कबीर इसमें जीवन की पूर्णता और ईश्वरीय कृपा का गुणगान करते हैं।
 
 ---
 
 <a name="pad-8"></a>
 ## पद: राग केदारौ : भक्त कबीर जी
-**English Title:** Pad: Raaga Kaedaaraau : Bhakata Kabaeera Jaee
+**English Title:** Fervent Cry of Detachment, Inward Stillness, and Union with the Infinite
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2623,23 +2630,24 @@ hai (is) hari (The Lord who dispels grief (Hari)) bhajan (worship/run swiftly (f
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग केदारौ : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग केदारा के तीव्र स्वर संसार की असारता को दर्शाकर चित्त को एक बिंदु पर एकाग्र करते हैं;
+मनुष्य व्यर्थ की तृष्णाओं में जल रहा है, जबकि शीतलता केवल नाम-स्मरण के सरोवर में ही है।
+कबीर पुकारते हैं कि समय रहते संभल जाओ और उस अविनाशी पद को प्राप्त करो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagakedaaraubhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+The penetrating strains of Raag Kedaro reveal the vanity of earthly desires, focusing the mind upon the One;
+Mankind burns in the desert of restless craving, while cool waters flow in the Name alone;
+Kabir implores: Awake while breath remains and claim thine inheritance in the deathless realm.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग केदारौ : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग केदारा के पदों का संगीत-दार्शनिक विश्लेषण
+राग केदारा गंभीर, करुणामय और एकाग्रता उत्पन्न करने वाला राग है। कबीर यहाँ वैराग्य और मन की एकाग्रता का उपदेश देते हैं।
 
 ---
 
 <a name="pad-9"></a>
 ## पद: राग ललित : भक्त कबीर जी
-**English Title:** Pad: Raaga Lalaita : Bhakata Kabaeera Jaee
+**English Title:** Tender Dawn Supplication and the Spiritual Morning of Awakening
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2707,23 +2715,24 @@ jal (water) bin (without/devoid of) hans (hans) nisah (without s (spiritual sens
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग ललित : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+रात के अंतिम प्रहर में राग ललित की करुण धुन साधक के हृदय में विरह का मधुर भाव जगाती है;
+अज्ञान का अंधकार छंट रहा है और अंतर-गगन में आत्मज्ञान का अरुणोदय हो रहा है।
+कबीर कहते हैं कि जाग मुसाफिर भोर भई, अब सोने का समय नहीं रहा।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagalalitabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+In the final watch of the night, the poignant tenderness of Raag Lalit awakens sweet longing in the heart;
+The darkness of ignorance is parting, and the crimson dawn of divine wisdom prepares to start;
+Says Kabir: Awake, O traveler of the soul, dawn has arrived—slumber not in heedless delay!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग ललित : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग ललित के पदों का संगीत-दार्शनिक विश्लेषण
+राग ललित भोर से पूर्व का अत्यंत कोमल और करुणामय राग है जो जागरण और नव-प्रभात का प्रतीक है।
 
 ---
 
 <a name="pad-10"></a>
 ## पद: राग मलार : भक्त कबीर जी
-**English Title:** Pad: Raaga Malaara : Bhakata Kabaeera Jaee
+**English Title:** Showers of Nectar, Quenching the Soul's Drought, and Verdant Spring
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2782,23 +2791,24 @@ raam (The All-Pervading Lord (Ram)) adhaar (foundation/support) kahat (speaking/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग मलार : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग मलार की मेघ-गर्जना के साथ जब ज्ञान की अमृतमयी वर्षा होती है, तब संसार की सारी तपन बुझ जाती है;
+हृदय की सूखी भूमि हरी-भरी हो जाती है और जीवात्मा आनंद के मयूर की भांति नाचने लगती है।
+कबीर कहते हैं कि प्रभु-कृपा की इस वर्षा में भीगना ही जीवन का परम सौभाग्य है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagamalaarabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+With the thunderous resonance of Raag Malhar, when showers of nectar-wisdom pour from the skies;
+The burning drought of worldly sorrow is quenched, and verdant beauty greets the seeker's eyes;
+The soul dances like an ecstatic peacock, bathed in the cleansing rains of sovereign grace.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग मलार : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग मलार के पदों का संगीत-दार्शनिक विश्लेषण
+राग मलार वर्षा ऋतु का राग है। कबीर इसे आध्यात्मिक कृपा-वृष्टि और त्रिताप-शमन के रूपक के रूप में प्रयुक्त करते हैं।
 
 ---
 
 <a name="pad-11"></a>
 ## पद: राग माली गौड़ी : भक्त कबीर जी
-**English Title:** Pad: Raaga Maalaee Gaaudaee : Bhakata Kabaeera Jaee
+**English Title:** Tending the Garden of the Heart and Fragrant Blossoms of Virtue
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2861,23 +2871,24 @@ abhiantari (abhiantar (spiritual sense)) bhed (secret) naheen (not/never) , kaan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग माली गौड़ी : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग माली गौड़ी अंतःकरण रूपी वाटिका को सींचने और उसमें सद्कर्मों के फूल खिलाने का संदेश देता है;
+काम-क्रोध के खरपतवार को उखाड़कर जब भक्ति का पौधा लगाया जाता है, तब प्रभु स्वयं माली बनकर रक्षा करते हैं।
+कबीर कहते हैं कि अपनी अंतर-वाटिका को पवित्र रखो ताकि प्रियतम वहाँ विश्राम कर सके।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagamaaleegaudaeebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Raag Mali Gauri sings of tending the secret garden of the heart and nurturing blossoms of righteousness;
+Uprooting the wild weeds of lust and wrath, planting the sapling of devotion in humility and distress;
+The Master Himself becomes the loving Gardener, guarding the fragrant sanctuary from all harm.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग माली गौड़ी : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग माली गौड़ी के पदों का संगीत-दार्शनिक विश्लेषण
+माली गौड़ी माली और उपवन के रूपक से जीवन को संवारने का संगीत-उपदेश है।
 
 ---
 
 <a name="pad-12"></a>
 ## पद: राग मारू : भक्त कबीर जी
-**English Title:** Pad: Raaga Maaraoo : Bhakata Kabaeera Jaee
+**English Title:** Martial Valor, Celestial War-Trumpet, and the Battlefield of the Mind
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2941,23 +2952,24 @@ jan (devotee/humble servant) kabeer (Sant Kabir) gur (of the Master) prasaadi (d
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग मारू : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग मारू के वीर रस से परिपूर्ण स्वर अंतर्मन में पांचों विकारों के विरुद्ध युद्ध का शंखनाद करते हैं;
+कायर साधक इस मार्ग से भाग जाते हैं, किंतु सच्चा शूरवीर शीश काटकर रणभूमि में डटा रहता है।
+कबीर कहते हैं कि जो इस आंतरिक संग्राम को जीत लेता है, वही त्रिलोकी का विजेता बनता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagamaaroobhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+The heroic, martial cadences of Raag Maru sound the battle-trumpet against the five inner adversaries of lust and pride;
+Faint-hearted cowards flee the spiritual battlefield, while the true warrior stands steadfast with his Guide;
+Severing his head of selfish vanity, he wins the crown of eternal liberation.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग मारू : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग मारू के पदों का संगीत-दार्शनिक विश्लेषण
+राग मारू रेगिस्तान और युद्ध का राग है। कबीर इसमें साधक को आंतरिक विकारों से लड़ने वाले आध्यात्मिक योद्धा के रूप में प्रस्तुत करते हैं।
 
 ---
 
 <a name="pad-13"></a>
 ## पद: राग रामकली : भक्त कबीर जी
-**English Title:** Pad: Raaga Raamakalaee : Bhakata Kabaeera Jaee
+**English Title:** Yogic Mastery, the Unstruck Sound (Anahata), and the Tenth Gate
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3434,23 +3446,25 @@ aisa (such/like this) gyaan (divine wisdom, supreme spiritual knowledge) bichaar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग रामकली : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग रामकली नाथ-योगियों की साधना और कबीर की सहज समाधि का अद्भुत संगम है;
+इड़ा, पिंगला और सुषुम्ना के संगम पर जब प्राण स्थिर होते हैं, तब दशम-द्वार में अनहद नाद गूंज उठता है।
+कबीर कहते हैं कि बाह्य हठयोग को छोड़कर जो प्रेम-रस में लीन होता है, वही सहज शून्य में समाता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagaraamakaleebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Raag Ramkali bridges the ancient discipline of Nath yogis with Kabir's effortless Sahaja trance;
+Where Ida, Pingala, and Sushumna unite, the breath is stilled and celestial seraphs dance;
+In the Tenth Gate the unstruck celestial gong resounds, bathing the consciousness in bliss;
+Surpassing rigid asceticism, the lover of God enters non-dual oneness.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग रामकली : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग रामकली के पदों का संगीत-दार्शनिक विश्लेषण
+रामकली कबीर के प्रमुख संकलनों में से एक है (436 पंक्तियां)। यह योग, कुंडलिनी और अनाहत नाद की शब्दावली को सहज भक्ति में ढालने वाला अमर संकलन है।
 
 ---
 
 <a name="pad-14"></a>
 ## पद: राग सारंग : भक्त कबीर जी
-**English Title:** Pad: Raaga Saaranga : Bhakata Kabaeera Jaee
+**English Title:** Midday Solace, Cool Oasis in the Desert, and Hari's Shelter
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3506,23 +3520,24 @@ kahai (chants) kabeer (Sant Kabir) sant (holy saint) bhal (bhal (spiritual sense
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग सारंग : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+दोपहर की भीषण धूप में राग सारंग की शीतल फुहार मन के सारे संतापों को हर लेती है;
+संसार की मोह-माया की आग में झुलसती हुई आत्मा को केवल राम-नाम की छाया ही परम विश्राम देती है।
+कबीर कहते हैं कि उस अमृत सरोवर के तट पर आओ और अपनी जन्मों की प्यास बुझा लो।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagasaarangabhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Amid the blazing noon of worldly strife, Raag Sarang pours forth its cool, refreshing rain;
+To the weary soul parched in the desert of illusion, Hari's shadow dissolves every pain;
+Kabir invites: Approach the immortal lake of Truth and slake thy ancient thirst forever.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग सारंग : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग सारंग के पदों का संगीत-दार्शनिक विश्लेषण
+राग सारंग ग्रीष्म की दोपहर का राग है, जो संसार रूपी मरुस्थल में ईश्वर-स्मरण को एक शीतल मरुद्यान (Oasis) के रूप में सिद्ध करता है।
 
 ---
 
 <a name="pad-15"></a>
 ## पद: राग सोरठि : भक्त कबीर जी
-**English Title:** Pad: Raaga Saorathai : Bhakata Kabaeera Jaee
+**English Title:** Midnight Stillness, Unbroken Communion, and Non-Dual Union
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3872,23 +3887,24 @@ kahain (kahain (spiritual sense)) kabeer (Sant Kabir) main (I/this humble servan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग सोरठि : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+मध्य रात्रि के मौन में राग सोरठि के गंभीर स्वर आत्मा और परमात्मा के अद्वैत मिलन का गान करते हैं;
+संसार जब निद्रा में अचेत पड़ा होता है, तब प्रेमी भक्त अपने प्रियतम के पावन चरणों में अश्रु बहाता है।
+कबीर कहते हैं कि प्रेम की इस नीरव बेला में जो जागता है, वही रूहानी खजाने का स्वामी बनता है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagasorathibhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+In the hush of midnight, the solemn chords of Raag Sorath celebrate the non-dual embrace of soul and Lord;
+While the heedless world lies drowned in slumber, the true lover pours his tears before the silent Word;
+Says Kabir, he who keeps vigil in love's holy stillness inherits the boundless treasure of the Spirit.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग सोरठि : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग सोरठि के पदों का संगीत-दार्शनिक विश्लेषण
+राग सोरठि कबीर का अत्यंत महत्वपूर्ण संकलन है (309 पंक्तियां)। यह रात्रि का राग विरह और मिलन के शिखर को प्रस्तुत करता है।
 
 ---
 
 <a name="pad-16"></a>
 ## पद: राग सूहौ : भक्त कबीर जी
-**English Title:** Pad: Raaga Saoohaau : Bhakata Kabaeera Jaee
+**English Title:** Bridal Adornment, Surrendered Heart, and the Sovereign Groom's Arrival
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3992,23 +4008,24 @@ ardh (ardh) urdh (urdh) bichi (bichi) aani (coming) utaara (utaara) , soee (the 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग सूहौ : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग सूही जीवात्मा रूपी दुल्हन के रूहानी शृंगार और प्रियतम परमात्मा के स्वागत का पावन नाद है;
+अहंकार को त्यागकर जब आत्मा शील, संतोष और सत्य के आभूषण पहनती है, तब स्वामी स्वयं पधारते हैं।
+कबीर कहते हैं कि सुहागिन वही है जिसके सिर पर प्रियतम का अमर आशीर्वाद विराजमान है।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagasoohaubhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Raag Suhi is the sacred hymn of the soul-bride adorning herself to meet the Sovereign Groom;
+Wearing garments of modesty, contentment, and Truth, casting away ego's heavy gloom;
+The beloved Master arrives to claim His surrendered bride into eternal delight.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग सूहौ : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग सूही के पदों का संगीत-दार्शनिक विश्लेषण
+राग सूही विरह और मिलन, जीवात्मा रूपी दुल्हन और परमात्मा रूपी दूल्हे के रहस्यवादी विवाह का प्रतीक है।
 
 ---
 
 <a name="pad-17"></a>
 ## पद: राग टोड़ी : भक्त कबीर जी
-**English Title:** Pad: Raaga Taodaee : Bhakata Kabaeera Jaee
+**English Title:** Supreme Humility, Helpless Cry of the Soul, and Unconditional Mercy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4070,17 +4087,18 @@ kabeer (Sant Kabir) bichaari (four related) ihai (these (does/by)) dar (fear) da
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर ग्रंथावली का पावन संगीतमय संकलन 'राग टोड़ी : भक्त कबीर जी':
-रागात्मक भक्ति और आध्यात्मिक विरह से ओत-प्रोत यह पद घट-घट में व्याप्त उस अनहद परमात्मा का गुणगान करता है।
-कबीर पुकार कर कहते हैं कि नाम-रस का पान करो और इस भवसागर के झूठे प्रपंचों से मुक्त होकर सहज समाधि में लीन हो जाओ।
+राग तोड़ी साधक की परम दीनता और अश्रुपूरित करुण पुकार की पराकाष्ठा है;
+जब मनुष्य अपने सारे सांसारिक सहारे टूटे हुए देखता है, तब वह दोनों हाथ उठाकर प्रभु को पुकारता है।
+कबीर कहते हैं कि जो अहंकार त्यागकर दीन बन जाता है, कृपालु प्रभु तुरंत दौड़कर उसे गले लगा लेते हैं।
 
 #### 🇬🇧 Lyrical English Verse Translation
-From Kabir Granthavali, the sacred musical collection composed in 'raagatodaeebhaktakabeerajee':
-Resonating with devotional ecstasy and the longing of the soul, these hymns celebrate the all-pervading Divine Melody.
-Says Kabir, drink deeply of the sweet nectar of the Divine Name, cast away worldly illusions, and abide in the spontaneous bliss of Sahaja.
+Raag Todi expresses the uttermost depth of humble weeping and sincere petition before the throne of grace;
+When every mortal prop has crumbled, the soul raises empty hands toward the Beloved's face;
+Says Kabir, unto the truly humble who claims no merit, the compassionate Lord runs with open arms.
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-This collection contains Kabir's celebrated Padas set to the classical melodic framework of 'राग टोड़ी : भक्त कबीर जी'. Melding musical depth with profound Nirguna philosophy, Kabir expresses the soul's passionate quest for communion with the Formless Lord.
+### कबीर ग्रंथावली: राग तोड़ी के पदों का संगीत-दार्शनिक विश्लेषण
+राग तोड़ी करुण रस का सर्वोच्च राग है। कबीर इसमें निर्बल के बल राम की शरण में पूर्ण समर्पण का उपदेश देते हैं।
 
 ---
 

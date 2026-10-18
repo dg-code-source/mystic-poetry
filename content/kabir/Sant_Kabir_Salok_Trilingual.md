@@ -7,257 +7,257 @@
 
 | क्र.सं. | शीर्षक (Title) | मुख्य विषय (Theme) |
 |---|---|---|
-| 1 | [सलोक 1: कबीर मेरी सिमरनी रसना ऊपरि रामु ॥...](#salok-1) | Salok 1: Kabaeera Maeraee Saimaranaee Rasanaa Ooparai Raama |
-| 2 | [सलोक 2: कबीर मेरी जाति कउ सभु को हसनेहारु ॥...](#salok-2) | Salok 2: Kabaeera Maeraee Jaatai Kau Sabhau Kao Hasanaeha |
-| 3 | [सलोक 3: कबीर डगमग किआ करहि कहा डुलावहि जीउ ...](#salok-3) | Salok 3: Kabaeera Dagamaga Kaiaa Karahai Kahaa Daulaavahai |
-| 4 | [सलोक 4: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा...](#salok-4) | Salok 4: Kabaeera Kanchana Kae Kaundala Banae Ooparai Laa |
-| 5 | [सलोक 5: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ...](#salok-5) | Salok 5: Kabaeera Aisaa Ekau Aadhau Jao Jaeevata Mairataka |
-| 6 | [सलोक 6: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥...](#salok-6) | Salok 6: Kabaeera Jaa Daina Hau Maooaa Paachhaai Bhaiaa Ana |
-| 7 | [सलोक 7: कबीर सभ ते हम बुरे हम तजि भलो सभु क...](#salok-7) | Salok 7: Kabaeera Sabha Tae Hama Baurae Hama Tajai Bhalao |
-| 8 | [सलोक 8: कबीर आई मुझहि पहि अनिक करे करि भेस ...](#salok-8) | Salok 8: Kabaeera Aaee Maujhahai Pahai Anaika Karae Karai |
-| 9 | [सलोक 9: कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥...](#salok-9) | Salok 9: Kabaeera Saoee Maaraeeai Jaiha Maooai Saukhau Hao |
-| 10 | [सलोक 10: कबीर राती होवहि कारीआ कारे ऊभे जंत ...](#salok-10) | Salok 10: Kabaeera Raataee Haovahai Kaaraeeaa Kaarae Oobhae |
-| 11 | [सलोक 11: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक ...](#salok-11) | Salok 11: Kabaeera Chandana Kaa Bairavaa Bhalaa Baeड़haio |
-| 12 | [सलोक 12: कबीर बांसु बडाई बूडिआ इउ मत डूबहु क...](#salok-12) | Salok 12: Kabaeera Baansau Badaaee Baoodaiaa Iu Mata Daoo |
-| 13 | [सलोक 13: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल...](#salok-13) | Salok 13: Kabaeera Daeenau Gavaaiaa Daunaee Saiu Daunaee |
-| 14 | [सलोक 14: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥...](#salok-14) | Salok 14: Kabaeera Jaha Jaha Hau Phairaio Kautaka Thaao Tha |
-| 15 | [सलोक 15: कबीर संतन की झुंगीआ भली भठि कुसती ग...](#salok-15) | Salok 15: Kabaeera Santana Kaee Jhaungaeeaa Bhalaee Bhathai Kau |
-| 16 | [सलोक 16: कबीर संत मूए किआ रोईऐ जो अपुने ग्रि...](#salok-16) | Salok 16: Kabaeera Santa Maooe Kaiaa Raoeeai Jao Apaunae |
-| 17 | [सलोक 17: कबीर साकतु ऐसा है जैसी लसन की खानि ...](#salok-17) | Salok 17: Kabaeera Saakatau Aisaa Haai Jaaisaee Lasana Kaee |
-| 18 | [सलोक 18: कबीर माइआ डोलनी पवनु झकोलनहारु ॥...](#salok-18) | Salok 18: Kabaeera Maaiaa Daolanaee Pavanau Jhakaolanahaarau |
-| 19 | [सलोक 19: कबीर माइआ डोलनी पवनु वहै हिव धार ॥...](#salok-19) | Salok 19: Kabaeera Maaiaa Daolanaee Pavanau Vahaai Haiva Dha |
-| 20 | [सलोक 20: कबीर माइआ चोरटी मुसि मुसि लावै हाटि...](#salok-20) | Salok 20: Kabaeera Maaiaa Chaorataee Mausai Mausai Laavaai |
-| 21 | [सलोक 21: कबीर सूखु न एंह जुगि करहि जु बहुतै ...](#salok-21) | Salok 21: Kabaeera Saookhau Na Enha Jaugai Karahai Jau Ba |
-| 22 | [सलोक 22: कबीर जिसु मरने ते जगु डरै मेरे मनि ...](#salok-22) | Salok 22: Kabaeera Jaisau Maranae Tae Jagau Daraai Maerae |
-| 23 | [सलोक 23: राम पदारथु पाइ कै कबीरा गांठि न खोल...](#salok-23) | Salok 23: Raama Padaarathau Paai Kaai Kabaeeraa Gaanthai |
-| 24 | [सलोक 24: कबीर ता सिउ प्रीति करि जा को ठाकुरु...](#salok-24) | Salok 24: Kabaeera Taa Saiu Paraeetai Karai Jaa Kao Tha |
-| 25 | [सलोक 25: कबीर प्रीति इक सिउ कीए आन दुबिधा जा...](#salok-25) | Salok 25: Kabaeera Paraeetai Ika Saiu Kaeee Aana Daubai |
-| 26 | [सलोक 26: कबीर जगु काजल की कोठरी अंध परे तिस ...](#salok-26) | Salok 26: Kabaeera Jagau Kaajala Kaee Kaotharaee Andha Parae |
-| 27 | [सलोक 27: कबीर इहु तनु जाइगा सकहु त लेहु बहोर...](#salok-27) | Salok 27: Kabaeera Ihau Tanau Jaaigaa Sakahau Ta Laehau |
-| 28 | [सलोक 28: कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥...](#salok-28) | Salok 28: Kabaeera Ihau Tanau Jaaigaa Kavanaai Maaragai |
-| 29 | [सलोक 29: कबीर मरता मरता जगु मूआ मरि भी न जान...](#salok-29) | Salok 29: Kabaeera Marataa Marataa Jagau Maooaa Marai Bhaee |
-| 30 | [सलोक 30: कबीर मानस जनमु दुल्मभु है होइ न बार...](#salok-30) | Salok 30: Kabaeera Maanasa Janamau Daulamabhau Haai Haoi |
-| 31 | [सलोक 31: कबीरा तुही कबीरु तू तेरो नाउ कबीरु ...](#salok-31) | Salok 31: Kabaeeraa Tauhaee Kabaeerau Taoo Taerao Naau Ka |
-| 32 | [सलोक 32: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ...](#salok-32) | Salok 32: Kabaeera Jhankhau Na Jhankhaeeai Taumarao Kahaio Na |
-| 33 | [सलोक 33: कबीर कसउटी राम की झूठा टिकै न कोइ ॥...](#salok-33) | Salok 33: Kabaeera Kasautaee Raama Kaee Jhaoothaa Taikaai Na |
-| 34 | [सलोक 34: कबीर ऊजल पहिरहि कापरे पान सुपारी खा...](#salok-34) | Salok 34: Kabaeera Oojala Pahairahai Kaaparae Paana Saupaa |
-| 35 | [सलोक 35: कबीर बेड़ा जरजरा फूटे छेंक हजार ॥...](#salok-35) | Salok 35: Kabaeera Baeड़a Jarajaraa Phaootae Chhaenka Hajaara |
-| 36 | [सलोक 36: कबीर हाड जरे जिउ लाकरी केस जरे जिउ ...](#salok-36) | Salok 36: Kabaeera Haada Jarae Jaiu Laakaraee Kaesa Jarae |
-| 37 | [सलोक 37: कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥...](#salok-37) | Salok 37: Kabaeera Garabau Na Kaeejaeeai Chaama Lapaetae Haa |
-| 38 | [सलोक 38: कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥...](#salok-38) | Salok 38: Kabaeera Garabau Na Kaeejaeeai Oochaa Daekhai Avaa |
-| 39 | [सलोक 39: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥...](#salok-39) | Salok 39: Kabaeera Garabau Na Kaeejaeeai Rankau Na Hasaeeai |
-| 40 | [सलोक 40: कबीर गरबु न कीजीऐ देही देखि सुरंग ॥...](#salok-40) | Salok 40: Kabaeera Garabau Na Kaeejaeeai Daehaee Daekhai Sau |
-| 41 | [सलोक 41: कबीर लूटना है त लूटि लै राम नाम है ...](#salok-41) | Salok 41: Kabaeera Laootanaa Haai Ta Laootai Laai Raama Naa |
-| 42 | [सलोक 42: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै ...](#salok-42) | Salok 42: Kabaeera Aisaa Kaoee Na Janamaio Apanaai Gharai |
-| 43 | [सलोक 43: को है लरिका बेचई लरिकी बेचै कोइ ॥...](#salok-43) | Salok 43: Kao Haai Laraikaa Baechaee Laraikaee Baechaai Kao |
-| 44 | [सलोक 44: कबीर इह चेतावनी मत सहसा रहि जाइ ॥...](#salok-44) | Salok 44: Kabaeera Iha Chaetaavanaee Mata Sahasaa Rahai Jaa |
-| 45 | [सलोक 45: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ...](#salok-45) | Salok 45: Kabaeera Maai Jaanaio Paड़ibao Bhalao Paड़ibae |
-| 46 | [सलोक 46: कबीर लोगु कि निंदै बपुड़ा जिह मनि ना...](#salok-46) | Salok 46: Kabaeera Laogau Kai Naindaai Bapauड़a Jaiha Ma |
-| 47 | [सलोक 47: कबीर परदेसी कै घाघरै चहु दिसि लागी ...](#salok-47) | Salok 47: Kabaeera Paradaesaee Kaai Ghaagharaai Chahau Daisai |
-| 48 | [सलोक 48: कबीर खिंथा जलि कोइला भई खापरु फूट म...](#salok-48) | Salok 48: Kabaeera Khainthaa Jalai Kaoilaa Bhaee Khaaparau |
-| 49 | [सलोक 49: कबीर थोरै जलि माछुली झीवरि मेलिओ जा...](#salok-49) | Salok 49: Kabaeera Thaoraai Jalai Maachhaulaee Jhaeevarai Maela |
-| 50 | [सलोक 50: कबीर समुंदु न छोडीऐ जउ अति खारो होइ...](#salok-50) | Salok 50: Kabaeera Samaundau Na Chhaodaeeai Jau Atai Khaara |
-| 51 | [सलोक 51: कबीर निगुसांएं बहि गए थांघी नाही को...](#salok-51) | Salok 51: Kabaeera Naigausaanen Bahai Gae Thaanghaee Naa |
-| 52 | [सलोक 52: कबीर बैसनउ की कूकरि भली साकत की बुर...](#salok-52) | Salok 52: Kabaeera Baaisanau Kaee Kaookarai Bhalaee Saakata Ka |
-| 53 | [सलोक 53: कबीर हरना दूबला इहु हरीआरा तालु ॥...](#salok-53) | Salok 53: Kabaeera Haranaa Daoobalaa Ihau Haraeeaaraa Taala |
-| 54 | [सलोक 54: कबीर गंगा तीर जु घरु करहि पीवहि निर...](#salok-54) | Salok 54: Kabaeera Gangaa Taeera Jau Gharau Karahai Paeevaha |
-| 55 | [सलोक 55: कबीर मनु निरमलु भइआ जैसा गंगा नीरु ...](#salok-55) | Salok 55: Kabaeera Manau Nairamalau Bhaiaa Jaaisaa Gangaa |
-| 56 | [सलोक 56: कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥...](#salok-56) | Salok 56: Kabaeera Haradaee Paeearaee Chaoonnaan Oojala Bhaai |
-| 57 | [सलोक 57: कबीर हरदी पीरतनु हरै चून चिहनु न रह...](#salok-57) | Salok 57: Kabaeera Haradaee Paeeratanau Haraai Chaoona Chaihanau |
-| 58 | [सलोक 58: कबीर मुकति दुआरा संकुरा राई दसएं भा...](#salok-58) | Salok 58: Kabaeera Maukatai Dauaaraa Sankauraa Raaee Dasa |
-| 59 | [सलोक 59: कबीर ऐसा सतिगुरु जे मिलै तुठा करे प...](#salok-59) | Salok 59: Kabaeera Aisaa Sataigaurau Jae Mailaai Tauthaa |
-| 60 | [सलोक 60: कबीर ना मोहि छानि न छापरी ना मोहि घ...](#salok-60) | Salok 60: Kabaeera Naa Maohai Chhaanai Na Chhaaparaee Naa Ma |
-| 61 | [सलोक 61: कबीर मुहि मरने का चाउ है मरउ त हरि ...](#salok-61) | Salok 61: Kabaeera Mauhai Maranae Kaa Chaau Haai Marau Ta |
-| 62 | [सलोक 62: कबीर ना हम कीआ न करहिगे ना करि सकै ...](#salok-62) | Salok 62: Kabaeera Naa Hama Kaeeaa Na Karahaigae Naa Karai |
-| 63 | [सलोक 63: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक...](#salok-63) | Salok 63: Kabaeera Saupanaai Haoo Baraड़ai Kaai Jaiha Maukha |
-| 64 | [सलोक 64: कबीर माटी के हम पूतरे मानसु राखिओ न...](#salok-64) | Salok 64: Kabaeera Maataee Kae Hama Paootarae Maanasau Raa |
-| 65 | [सलोक 65: कबीर महिदी करि घालिआ आपु पीसाइ पीसा...](#salok-65) | Salok 65: Kabaeera Mahaidaee Karai Ghaalaiaa Aapau Paeesaai |
-| 66 | [सलोक 66: कबीर जिह दरि आवत जातिअहु हटकै नाही ...](#salok-66) | Salok 66: Kabaeera Jaiha Darai Aavata Jaataiahau Hatakaai |
-| 67 | [सलोक 67: कबीर डूबा था पै उबरिओ गुन की लहरि झ...](#salok-67) | Salok 67: Kabaeera Daoobaa Thaa Paai Ubaraio Gauna Kaee La |
-| 68 | [सलोक 68: कबीर पापी भगति न भावई हरि पूजा न सु...](#salok-68) | Salok 68: Kabaeera Paapaee Bhagatai Na Bhaavaee Harai Paoojaa |
-| 69 | [सलोक 69: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा...](#salok-69) | Salok 69: Kabaeera Baaidau Maooaa Raogaee Maooaa Maooaa Sabhau |
-| 70 | [सलोक 70: कबीर रामु न धिआइओ मोटी लागी खोरि ॥...](#salok-70) | Salok 70: Kabaeera Raamau Na Dhaiaaio Maotaee Laagaee Khao |
-| 71 | [सलोक 71: कबीर ऐसी होइ परी मन को भावतु कीनु ॥...](#salok-71) | Salok 71: Kabaeera Aisaee Haoi Paraee Mana Kao Bhaavatau Ka |
-| 72 | [सलोक 72: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ ...](#salok-72) | Salok 72: Kabaeera Rasa Kao Gaandao Chaoosaeeai Gauna Kau |
-| 73 | [सलोक 73: कबीर गागरि जल भरी आजु काल्हि जैहै फ...](#salok-73) | Salok 73: Kabaeera Gaagarai Jala Bharaee Aajau Kaalahai Ja |
-| 74 | [सलोक 74: कबीर कूकरु राम को मुतीआ मेरो नाउ ॥...](#salok-74) | Salok 74: Kabaeera Kaookarau Raama Kao Mautaeeaa Maerao Na |
-| 75 | [सलोक 75: कबीर जपनी काठ की किआ दिखलावहि लोइ ॥...](#salok-75) | Salok 75: Kabaeera Japanaee Kaatha Kaee Kaiaa Daikhalaavahai |
-| 76 | [सलोक 76: कबीर बिरहु भुयंगमु मनि बसै मंतु न म...](#salok-76) | Salok 76: Kabaeera Bairahau Bhauyangamau Manai Basaai Manta |
-| 77 | [सलोक 77: कबीर पारस चंदनै तिन्ह है एक सुगंध ॥...](#salok-77) | Salok 77: Kabaeera Paarasa Chandanaai Tainaha Haai Eka Sau |
-| 78 | [सलोक 78: कबीर जम का ठेंगा बुरा है ओहु नही सह...](#salok-78) | Salok 78: Kabaeera Jama Kaa Thaengaa Bauraa Haai Ohau Na |
-| 79 | [सलोक 79: कबीर बैदु कहै हउ ही भला दारू मेरै व...](#salok-79) | Salok 79: Kabaeera Baaidau Kahaai Hau Haee Bhalaa Daaraoo Ma |
-| 80 | [सलोक 80: कबीर नउबति आपनी दिन दस लेहु बजाइ ॥...](#salok-80) | Salok 80: Kabaeera Naubatai Aapanaee Daina Dasa Laehau Baja |
-| 81 | [सलोक 81: कबीर सात समुंदहि मसु करउ कलम करउ बन...](#salok-81) | Salok 81: Kabaeera Saata Samaundahai Masau Karau Kalama Ka |
-| 82 | [सलोक 82: कबीर जाति जुलाहा किआ करै हिरदै बसे ...](#salok-82) | Salok 82: Kabaeera Jaatai Jaulaahaa Kaiaa Karaai Hairadaai |
-| 83 | [सलोक 83: कबीर ऐसा को नही मंदरु देइ जराइ ॥...](#salok-83) | Salok 83: Kabaeera Aisaa Kao Nahaee Mandarau Daei Jaraai |
-| 84 | [सलोक 84: कबीर ऐसा को नही इहु तनु देवै फूकि ॥...](#salok-84) | Salok 84: Kabaeera Aisaa Kao Nahaee Ihau Tanau Daevaai Pha |
-| 85 | [सलोक 85: कबीर सती पुकारै चिह चड़ी सुनु हो बीर...](#salok-85) | Salok 85: Kabaeera Sataee Paukaaraai Chaiha Chaड़ee Saunau Ha |
-| 86 | [सलोक 86: कबीर मनु पंखी भइओ उडि उडि दह दिस जा...](#salok-86) | Salok 86: Kabaeera Manau Pankhaee Bhaio Udai Udai Daha Da |
-| 87 | [सलोक 87: कबीर जा कउ खोजते पाइओ सोई ठउरु ॥...](#salok-87) | Salok 87: Kabaeera Jaa Kau Khaojatae Paaio Saoee Thaurau |
-| 88 | [सलोक 88: कबीर मारी मरउ कुसंग की केले निकटि ज...](#salok-88) | Salok 88: Kabaeera Maaraee Marau Kausanga Kaee Kaelae Nai |
-| 89 | [सलोक 89: कबीर भार पराई सिरि चरै चलिओ चाहै बा...](#salok-89) | Salok 89: Kabaeera Bhaara Paraaee Sairai Charaai Chalaio Chaa |
-| 90 | [सलोक 90: कबीर बन की दाधी लाकरी ठाढी करै पुका...](#salok-90) | Salok 90: Kabaeera Bana Kaee Daadhaee Laakaraee Thaadhaee Karaai |
-| 91 | [सलोक 91: कबीर एक मरंते दुइ मूए दोइ मरंतह चार...](#salok-91) | Salok 91: Kabaeera Eka Marantae Daui Maooe Daoi Maranta |
-| 92 | [सलोक 92: कबीर देखि देखि जगु ढूंढिआ कहूं न पा...](#salok-92) | Salok 92: Kabaeera Daekhai Daekhai Jagau Dhaoondhaiaa Kahaoon |
-| 93 | [सलोक 93: कबीर संगति करीऐ साध की अंति करै निर...](#salok-93) | Salok 93: Kabaeera Sangatai Karaeeai Saadha Kaee Antai Kara |
-| 94 | [सलोक 94: कबीर जग महि चेतिओ जानि कै जग महि रह...](#salok-94) | Salok 94: Kabaeera Jaga Mahai Chaetaio Jaanai Kaai Jaga Ma |
-| 95 | [सलोक 95: कबीर आसा करीऐ राम की अवरै आस निरास ...](#salok-95) | Salok 95: Kabaeera Aasaa Karaeeai Raama Kaee Avaraai Aasa Na |
-| 96 | [सलोक 96: कबीर सिख साखा बहुते कीए केसो कीओ न ...](#salok-96) | Salok 96: Kabaeera Saikha Saakhaa Bahautae Kaeee Kaesao Ka |
-| 97 | [सलोक 97: कबीर कारनु बपुरा किआ करै जउ रामु न ...](#salok-97) | Salok 97: Kabaeera Kaaranau Bapauraa Kaiaa Karaai Jau Raa |
-| 98 | [सलोक 98: कबीर अवरह कउ उपदेसते मुख मै परि है ...](#salok-98) | Salok 98: Kabaeera Avaraha Kau Upadaesatae Maukha Maai Para |
-| 99 | [सलोक 99: कबीर साधू की संगति रहउ जउ की भूसी ख...](#salok-99) | Salok 99: Kabaeera Saadhaoo Kaee Sangatai Rahau Jau Kaee Bha |
-| 100 | [सलोक 100: कबीर संगति साध की दिन दिन दूना हेतु...](#salok-100) | Salok 100: Kabaeera Sangatai Saadha Kaee Daina Daina Daoonaa |
-| 101 | [सलोक 101: कबीर मनु मूंडिआ नही केस मुंडाए कांइ...](#salok-101) | Salok 101: Kabaeera Manau Maoondaiaa Nahaee Kaesa Maundaae |
-| 102 | [सलोक 102: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ...](#salok-102) | Salok 102: Kabaeera Raamau Na Chhaodaeeai Tanau Dhanau Jaai |
-| 103 | [सलोक 103: कबीर जो हम जंतु बजावते टूटि गईं सभ ...](#salok-103) | Salok 103: Kabaeera Jao Hama Jantau Bajaavatae Taootai Gaee |
-| 104 | [सलोक 104: कबीर माइ मूंडउ तिह गुरू की जा ते भर...](#salok-104) | Salok 104: Kabaeera Maai Maoondau Taiha Gauraoo Kaee Jaa |
-| 105 | [सलोक 105: कबीर जेते पाप कीए राखे तलै दुराइ ॥...](#salok-105) | Salok 105: Kabaeera Jaetae Paapa Kaeee Raakhae Talaai Daura |
-| 106 | [सलोक 106: कबीर हरि का सिमरनु छाडि कै पालिओ बह...](#salok-106) | Salok 106: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Paala |
-| 107 | [सलोक 107: कबीर हरि का सिमरनु छाडि कै राति जगा...](#salok-107) | Salok 107: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Raata |
-| 108 | [सलोक 108: कबीर हरि का सिमरनु छाडि कै अहोई राख...](#salok-108) | Salok 108: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Ahao |
-| 109 | [सलोक 109: कबीर चतुराई अति घनी हरि जपि हिरदै म...](#salok-109) | Salok 109: Kabaeera Chatauraaee Atai Ghanaee Harai Japai Hai |
-| 110 | [सलोक 110: कबीर सोई मुखु धंनि है जा मुखि कहीऐ ...](#salok-110) | Salok 110: Kabaeera Saoee Maukhau Dhannai Haai Jaa Maukhai |
-| 111 | [सलोक 111: कबीर सोई कुल भली जा कुल हरि को दासु...](#salok-111) | Salok 111: Kabaeera Saoee Kaula Bhalaee Jaa Kaula Harai Kao |
-| 112 | [सलोक 112: कबीर है गइ बाहन सघन घन लाख धजा फहरा...](#salok-112) | Salok 112: Kabaeera Haai Gai Baahana Saghana Ghana Laakha Dhajaa |
-| 113 | [सलोक 113: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ...](#salok-113) | Salok 113: Kabaeera Sabhau Jagau Hau Phairaio Maandalau Ka |
-| 114 | [सलोक 114: मारगि मोती बीथरे अंधा निकसिओ आइ ॥...](#salok-114) | Salok 114: Maaragai Maotaee Baeetharae Andhaa Naikasaio Aa |
-| 115 | [सलोक 115: बूडा बंसु कबीर का उपजिओ पूतु कमालु ...](#salok-115) | Salok 115: Baoodaa Bansau Kabaeera Kaa Upajaio Paootau Ka |
-| 116 | [सलोक 116: कबीर साधू कउ मिलने जाईऐ साथि न लीजै...](#salok-116) | Salok 116: Kabaeera Saadhaoo Kau Mailanae Jaaeeai Saathai Na |
-| 117 | [सलोक 117: कबीर जगु बाधिओ जिह जेवरी तिह मत बंध...](#salok-117) | Salok 117: Kabaeera Jagau Baadhaio Jaiha Jaevaraee Taiha Ma |
-| 118 | [सलोक 118: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना...](#salok-118) | Salok 118: Kabaeera Hansau Udaio Tanau Gaadaio Saojhaaee |
-| 119 | [सलोक 119: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त...](#salok-119) | Salok 119: Kabaeera Naaina Naihaarau Taujha Kau Saravana Sa |
-| 120 | [सलोक 120: कबीर सुरग नरक ते मै रहिओ सतिगुर के ...](#salok-120) | Salok 120: Kabaeera Sauraga Naraka Tae Maai Rahaio Sataigau |
-| 121 | [सलोक 121: कबीर चरन कमल की मउज को कहि कैसे उनम...](#salok-121) | Salok 121: Kabaeera Charana Kamala Kaee Mauja Kao Kahai Kaaisa |
-| 122 | [सलोक 122: कबीर देखि कै किह कहउ कहे न को पतीआइ...](#salok-122) | Salok 122: Kabaeera Daekhai Kaai Kaiha Kahau Kahae Na Kao |
-| 123 | [सलोक 123: कबीर चुगै चितारै भी चुगै चुगि चुगि ...](#salok-123) | Salok 123: Kabaeera Chaugaai Chaitaaraai Bhaee Chaugaai Chaugai |
-| 124 | [सलोक 124: कबीर अम्बर घनहरु छाइआ बरखि भरे सर त...](#salok-124) | Salok 124: Kabaeera Amabara Ghanaharau Chhaaiaa Barakhai Bharae |
-| 125 | [सलोक 125: कबीर चकई जउ निसि बीछुरै आइ मिलै परभ...](#salok-125) | Salok 125: Kabaeera Chakaee Jau Naisai Baeechhauraai Aai Maila |
-| 126 | [सलोक 126: कबीर रैनाइर बिछोरिआ रहु रे संख मझूर...](#salok-126) | Salok 126: Kabaeera Raainaaira Baichhaoraiaa Rahau Rae Sankha |
-| 127 | [सलोक 127: कबीर सूता किआ करहि जागु रोइ भै दुख ...](#salok-127) | Salok 127: Kabaeera Saootaa Kaiaa Karahai Jaagau Raoi Bhaai |
-| 128 | [सलोक 128: कबीर सूता किआ करहि उठि कि न जपहि मु...](#salok-128) | Salok 128: Kabaeera Saootaa Kaiaa Karahai Uthai Kai Na Japa |
-| 129 | [सलोक 129: कबीर सूता किआ करहि बैठा रहु अरु जाग...](#salok-129) | Salok 129: Kabaeera Saootaa Kaiaa Karahai Baaithaa Rahau Ara |
-| 130 | [सलोक 130: कबीर संत की गैल न छोडीऐ मारगि लागा ...](#salok-130) | Salok 130: Kabaeera Santa Kaee Gaaila Na Chhaodaeeai Maaragai |
-| 131 | [सलोक 131: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ...](#salok-131) | Salok 131: Kabaeera Saakata Sangau Na Kaeejaeeai Daoorahai Ja |
-| 132 | [सलोक 132: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥...](#salok-132) | Salok 132: Kabaeeraa Raamau Na Chaetaio Jaraa Pahaoonchaio |
-| 133 | [सलोक 133: कबीर कारनु सो भइओ जो कीनो करतारि ॥...](#salok-133) | Salok 133: Kabaeera Kaaranau Sao Bhaio Jao Kaeenao Karataa |
-| 134 | [सलोक 134: कबीर फल लागे फलनि पाकनि लागे आंब ॥...](#salok-134) | Salok 134: Kabaeera Phala Laagae Phalanai Paakanai Laagae Aa |
-| 135 | [सलोक 135: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर...](#salok-135) | Salok 135: Kabaeera Thaakaurau Paoojahai Maolai Lae Manahatha |
-| 136 | [सलोक 136: कबीर पाहनु परमेसुरु कीआ पूजै सभु सं...](#salok-136) | Salok 136: Kabaeera Paahanau Paramaesaurau Kaeeaa Paoojaai Sa |
-| 137 | [सलोक 137: कबीर कागद की ओबरी मसु के करम कपाट ॥...](#salok-137) | Salok 137: Kabaeera Kaagada Kaee Obaraee Masau Kae Karama Ka |
-| 138 | [सलोक 138: कबीर कालि करंता अबहि करु अब करता सु...](#salok-138) | Salok 138: Kabaeera Kaalai Karantaa Abahai Karau Aba Kara |
-| 139 | [सलोक 139: कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला...](#salok-139) | Salok 139: Kabaeera Aisaa Jantau Ikau Daekhaiaa Jaaisaee Dha |
-| 140 | [सलोक 140: कबीर मेरी बुधि कउ जमु न करै तिसकार ...](#salok-140) | Salok 140: Kabaeera Maeraee Baudhai Kau Jamau Na Karaai Tai |
-| 141 | [सलोक 141: कबीरु कसतूरी भइआ भवर भए सभ दास ॥...](#salok-141) | Salok 141: Kabaeerau Kasataooraee Bhaiaa Bhavara Bhae Sabha Daasa |
-| 142 | [सलोक 142: कबीर गहगचि परिओ कुट्मब कै कांठै रहि...](#salok-142) | Salok 142: Kabaeera Gahagachai Paraio Kautamaba Kaai Kaantha |
-| 143 | [सलोक 143: कबीर साकत ते सूकर भला राखै आछा गाउ ...](#salok-143) | Salok 143: Kabaeera Saakata Tae Saookara Bhalaa Raakhaai Aachhaa |
-| 144 | [सलोक 144: कबीर कउडी कउडी जोरि कै जोरे लाख करो...](#salok-144) | Salok 144: Kabaeera Kaudaee Kaudaee Jaorai Kaai Jaorae Laa |
-| 145 | [सलोक 145: कबीर बैसनो हूआ त किआ भइआ माला मेलीं...](#salok-145) | Salok 145: Kabaeera Baaisanao Haooaa Ta Kaiaa Bhaiaa Maalaa |
-| 146 | [सलोक 146: कबीर रोड़ा होइ रहु बाट का तजि मन का ...](#salok-146) | Salok 146: Kabaeera Raoड़a Haoi Rahau Baata Kaa Tajai Ma |
-| 147 | [सलोक 147: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख...](#salok-147) | Salok 147: Kabaeera Raoड़a Haooaa Ta Kaiaa Bhaiaa Panthaee Ka |
-| 148 | [सलोक 148: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै...](#salok-148) | Salok 148: Kabaeera Khaeha Haooee Tau Kaiaa Bhaiaa Jau Udai |
-| 149 | [सलोक 149: कबीर पानी हूआ त किआ भइआ सीरा ताता ह...](#salok-149) | Salok 149: Kabaeera Paanaee Haooaa Ta Kaiaa Bhaiaa Saeeraa Ta |
-| 150 | [सलोक 150: ऊच भवन कनकामनी सिखरि धजा फहराइ ॥...](#salok-150) | Salok 150: Oocha Bhavana Kanakaamanaee Saikharai Dhajaa Phaharaai |
-| 151 | [सलोक 151: कबीर पाटन ते ऊजरु भला राम भगत जिह ठ...](#salok-151) | Salok 151: Kabaeera Paatana Tae Oojarau Bhalaa Raama Bhagata |
-| 152 | [सलोक 152: कबीर गंग जमुन के अंतरे सहज सुंन के ...](#salok-152) | Salok 152: Kabaeera Ganga Jamauna Kae Antarae Sahaja Saun |
-| 153 | [सलोक 153: कबीर जैसी उपजी पेड ते जउ तैसी निबहै...](#salok-153) | Salok 153: Kabaeera Jaaisaee Upajaee Paeda Tae Jau Taaisaee |
-| 154 | [सलोक 154: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक...](#salok-154) | Salok 154: Kabaeeraa Ekau Achamabhau Daekhaio Haeeraa Haa |
-| 155 | [सलोक 155: कबीरा जहा गिआनु तह धरमु है जहा झूठु...](#salok-155) | Salok 155: Kabaeeraa Jahaa Gaiaanau Taha Dharamau Haai Jahaa |
-| 156 | [सलोक 156: कबीर माइआ तजी त किआ भइआ जउ मानु तजि...](#salok-156) | Salok 156: Kabaeera Maaiaa Tajaee Ta Kaiaa Bhaiaa Jau Maana |
-| 157 | [सलोक 157: कबीर साचा सतिगुरु मै मिलिआ सबदु जु ...](#salok-157) | Salok 157: Kabaeera Saachaa Sataigaurau Maai Mailaiaa Sabada |
-| 158 | [सलोक 158: कबीर साचा सतिगुरु किआ करै जउ सिखा म...](#salok-158) | Salok 158: Kabaeera Saachaa Sataigaurau Kaiaa Karaai Jau Sa |
-| 159 | [सलोक 159: कबीर है गै बाहन सघन घन छत्रपती की न...](#salok-159) | Salok 159: Kabaeera Haai Gaai Baahana Saghana Ghana Chhatarapataee |
-| 160 | [सलोक 160: कबीर न्रिप नारी किउ निंदीऐ किउ हरि ...](#salok-160) | Salok 160: Kabaeera Naraipa Naaraee Kaiu Naindaeeai Kaiu |
-| 161 | [सलोक 161: कबीर थूनी पाई थिति भई सतिगुर बंधी ध...](#salok-161) | Salok 161: Kabaeera Thaoonaee Paaee Thaitai Bhaee Sataigaura Ba |
-| 162 | [सलोक 162: कबीर हरि हीरा जन जउहरी ले कै मांडै ...](#salok-162) | Salok 162: Kabaeera Harai Haeeraa Jana Jauharaee Lae Kaai Ma |
-| 163 | [सलोक 163: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु ...](#salok-163) | Salok 163: Kabaeera Kaama Parae Harai Saimaraeeai Aisaa Sai |
-| 164 | [सलोक 164: कबीर सेवा कउ दुइ भले एकु संतु इकु र...](#salok-164) | Salok 164: Kabaeera Saevaa Kau Daui Bhalae Ekau Santau |
-| 165 | [सलोक 165: कबीर जिह मारगि पंडित गए पाछै परी बह...](#salok-165) | Salok 165: Kabaeera Jaiha Maaragai Pandaita Gae Paachhaai Pa |
-| 166 | [सलोक 166: कबीर दुनीआ के दोखे मूआ चालत कुल की ...](#salok-166) | Salok 166: Kabaeera Daunaeeaa Kae Daokhae Maooaa Chaalata Kau |
-| 167 | [सलोक 167: कबीर डूबहिगो रे बापुरे बहु लोगन की ...](#salok-167) | Salok 167: Kabaeera Daoobahaigao Rae Baapaurae Bahau Laoga |
-| 168 | [सलोक 168: कबीर भली मधूकरी नाना बिधि को नाजु ॥...](#salok-168) | Salok 168: Kabaeera Bhalaee Madhaookaraee Naanaa Baidhai Kao Na |
-| 169 | [सलोक 169: कबीर दावै दाझनु होतु है निरदावै रहै...](#salok-169) | Salok 169: Kabaeera Daavaai Daajhanau Haotau Haai Nairadaava |
-| 170 | [सलोक 170: कबीर पालि समुहा सरवरु भरा पी न सकै ...](#salok-170) | Salok 170: Kabaeera Paalai Samauhaa Saravarau Bharaa Paee Na |
-| 171 | [सलोक 171: कबीर परभाते तारे खिसहि तिउ इहु खिसै...](#salok-171) | Salok 171: Kabaeera Parabhaatae Taarae Khaisahai Taiu Ihau |
-| 172 | [सलोक 172: कबीर कोठी काठ की दह दिसि लागी आगि ॥...](#salok-172) | Salok 172: Kabaeera Kaothaee Kaatha Kaee Daha Daisai Laagaee |
-| 173 | [सलोक 173: कबीर संसा दूरि करु कागद देह बिहाइ ॥...](#salok-173) | Salok 173: Kabaeera Sansaa Daoorai Karau Kaagada Daeha Bai |
-| 174 | [सलोक 174: कबीर संतु न छाडै संतई जउ कोटिक मिलह...](#salok-174) | Salok 174: Kabaeera Santau Na Chhaadaai Santaee Jau Kaotaika |
-| 175 | [सलोक 175: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु...](#salok-175) | Salok 175: Kabaeera Manau Saeetalau Bhaiaa Paaiaa Barahama |
-| 176 | [सलोक 176: कबीर सारी सिरजनहार की जानै नाही कोइ...](#salok-176) | Salok 176: Kabaeera Saaraee Sairajanahaara Kaee Jaanaai Naaha |
-| 177 | [सलोक 177: कबीर भली भई जो भउ परिआ दिसा गईं सभ ...](#salok-177) | Salok 177: Kabaeera Bhalaee Bhaee Jao Bhau Paraiaa Daisaa Gaee |
-| 178 | [सलोक 178: कबीरा धूरि सकेलि कै पुरीआ बांधी देह...](#salok-178) | Salok 178: Kabaeeraa Dhaoorai Sakaelai Kaai Pauraeeaa Baandha |
-| 179 | [सलोक 179: कबीर सूरज चांद कै उदै भई सभ देह ॥...](#salok-179) | Salok 179: Kabaeera Saooraja Chaanda Kaai Udaai Bhaee Sabha Dae |
-| 180 | [सलोक 180: जह अनभउ तह भै नही जह भउ तह हरि नाहि...](#salok-180) | Salok 180: Jaha Anabhau Taha Bhaai Nahaee Jaha Bhau Taha Harai |
-| 181 | [सलोक 181: कबीर जिनहु किछू जानिआ नही तिन सुख न...](#salok-181) | Salok 181: Kabaeera Jainahau Kaichhaoo Jaanaiaa Nahaee Taina |
-| 182 | [सलोक 182: कबीर मारे बहुतु पुकारिआ पीर पुकारै ...](#salok-182) | Salok 182: Kabaeera Maarae Bahautau Paukaaraiaa Paeera Pau |
-| 183 | [सलोक 183: कबीर चोट सुहेली सेल की लागत लेइ उसा...](#salok-183) | Salok 183: Kabaeera Chaota Sauhaelaee Saela Kaee Laagata Lae |
-| 184 | [सलोक 184: कबीर मुलां मुनारे किआ चढहि सांई न ब...](#salok-184) | Salok 184: Kabaeera Maulaan Maunaarae Kaiaa Chadhahai Saan |
-| 185 | [सलोक 185: सेख सबूरी बाहरा किआ हज काबे जाइ ॥...](#salok-185) | Salok 185: Saekha Sabaooraee Baaharaa Kaiaa Haja Kaabae Jaa |
-| 186 | [सलोक 186: कबीर अलह की करि बंदगी जिह सिमरत दुख...](#salok-186) | Salok 186: Kabaeera Alaha Kaee Karai Bandagaee Jaiha Saimara |
-| 187 | [सलोक 187: कबीर जोरी कीए जुलमु है कहता नाउ हला...](#salok-187) | Salok 187: Kabaeera Jaoraee Kaeee Jaulamau Haai Kahataa Naa |
-| 188 | [सलोक 188: कबीर खूबु खाना खीचरी जा महि अम्रितु...](#salok-188) | Salok 188: Kabaeera Khaoobau Khaanaa Khaeecharaee Jaa Mahai Ama |
-| 189 | [सलोक 189: कबीर गुरु लागा तब जानीऐ मिटै मोहु त...](#salok-189) | Salok 189: Kabaeera Gaurau Laagaa Taba Jaanaeeai Maitaai Ma |
-| 190 | [सलोक 190: कबीर राम कहन महि भेदु है ता महि एकु...](#salok-190) | Salok 190: Kabaeera Raama Kahana Mahai Bhaedau Haai Taa Maha |
-| 191 | [सलोक 191: कबीर रामै राम कहु कहिबे माहि बिबेक ...](#salok-191) | Salok 191: Kabaeera Raamaai Raama Kahau Kahaibae Maahai Ba |
-| 192 | [सलोक 192: कबीर जा घर साध न सेवीअहि हरि की सेव...](#salok-192) | Salok 192: Kabaeera Jaa Ghara Saadha Na Saevaeeahai Harai Ka |
-| 193 | [सलोक 193: कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥...](#salok-193) | Salok 193: Kabaeera Gaoongaa Haooaa Baavaraa Baharaa Haooaa |
-| 194 | [सलोक 194: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु...](#salok-194) | Salok 194: Kabaeera Sataigaura Saooramae Baahaiaa Baanau Ja |
-| 195 | [सलोक 195: कबीर निरमल बूंद अकास की परि गई भूमि...](#salok-195) | Salok 195: Kabaeera Nairamala Baoonda Akaasa Kaee Parai Gaee |
-| 196 | [सलोक 196: कबीर निरमल बूंद अकास की लीनी भूमि म...](#salok-196) | Salok 196: Kabaeera Nairamala Baoonda Akaasa Kaee Laeenaee Bha |
-| 197 | [सलोक 197: कबीर हज काबे हउ जाइ था आगै मिलिआ खु...](#salok-197) | Salok 197: Kabaeera Haja Kaabae Hau Jaai Thaa Aagaai Maila |
-| 198 | [सलोक 198: कबीर हज काबै होइ होइ गइआ केती बार क...](#salok-198) | Salok 198: Kabaeera Haja Kaabaai Haoi Haoi Gaiaa Kaetaee |
-| 199 | [सलोक 199: कबीर जीअ जु मारहि जोरु करि कहते हहि...](#salok-199) | Salok 199: Kabaeera Jaeea Jau Maarahai Jaorau Karai Kahata |
-| 200 | [सलोक 200: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु...](#salok-200) | Salok 200: Kabaeera Jaorau Kaeeaa Sao Jaulamau Haai Laei |
-| 201 | [सलोक 201: कबीर लेखा देना सुहेला जउ दिल सूची ह...](#salok-201) | Salok 201: Kabaeera Laekhaa Daenaa Sauhaelaa Jau Daila Sa |
-| 202 | [सलोक 202: कबीर धरती अरु आकास महि दुइ तूं बरी ...](#salok-202) | Salok 202: Kabaeera Dharataee Arau Aakaasa Mahai Daui Taoon |
-| 203 | [सलोक 203: कबीर मेरा मुझ महि किछु नही जो किछु ...](#salok-203) | Salok 203: Kabaeera Maeraa Maujha Mahai Kaichhau Nahaee Jao |
-| 204 | [सलोक 204: कबीर तूं तूं करता तू हूआ मुझ महि रह...](#salok-204) | Salok 204: Kabaeera Taoon Taoon Karataa Taoo Haooaa Maujha Ma |
-| 205 | [सलोक 205: कबीर बिकारह चितवते झूठे करते आस ॥...](#salok-205) | Salok 205: Kabaeera Baikaaraha Chaitavatae Jhaoothae Karatae Aa |
-| 206 | [सलोक 206: कबीर हरि का सिमरनु जो करै सो सुखीआ ...](#salok-206) | Salok 206: Kabaeera Harai Kaa Saimaranau Jao Karaai Sao Sa |
-| 207 | [सलोक 207: कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥...](#salok-207) | Salok 207: Kabaeera Ghaanaee Paeeड़tae Sataigaura Laeee Chhadaa |
-| 208 | [सलोक 208: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ...](#salok-208) | Salok 208: Kabaeera Taalaai Taolaai Dainau Gaiaa Baiaajau |
-| 209 | [सलोक 209: महला ५ ॥...](#salok-209) | Salok 209: Mahalaa ५ |
-| 210 | [सलोक 210: महला ५ ॥...](#salok-210) | Salok 210: Mahalaa ५ |
-| 211 | [सलोक 211: महला ५ ॥...](#salok-211) | Salok 211: Mahalaa ५ |
-| 212 | [सलोक 212: नामा माइआ मोहिआ कहै तिलोचनु मीत ॥...](#salok-212) | Salok 212: Naamaa Maaiaa Maohaiaa Kahaai Tailaochanau Maee |
-| 213 | [सलोक 213: नामा कहै तिलोचना मुख ते रामु सम्हाल...](#salok-213) | Salok 213: Naamaa Kahaai Tailaochanaa Maukha Tae Raamau Sa |
-| 214 | [सलोक 214: महला ५ ॥...](#salok-214) | Salok 214: Mahalaa ५ |
-| 215 | [सलोक 215: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ...](#salok-215) | Salok 215: Kabaeera Kaeechaड़i Aataa Gairai Paraiaa Kaichhaoo |
-| 216 | [सलोक 216: कबीर मनु जानै सभ बात जानत ही अउगनु ...](#salok-216) | Salok 216: Kabaeera Manau Jaanaai Sabha Baata Jaanata Haee A |
-| 217 | [सलोक 217: कबीर लागी प्रीति सुजान सिउ बरजै लोग...](#salok-217) | Salok 217: Kabaeera Laagaee Paraeetai Saujaana Saiu Baraja |
-| 218 | [सलोक 218: कबीर कोठे मंडप हेतु करि काहे मरहु स...](#salok-218) | Salok 218: Kabaeera Kaothae Mandapa Haetau Karai Kaahae Ma |
-| 219 | [सलोक 219: कबीर जो मै चितवउ ना करै किआ मेरे चि...](#salok-219) | Salok 219: Kabaeera Jao Maai Chaitavau Naa Karaai Kaiaa Mae |
-| 220 | [सलोक 220: मः ३ ॥...](#salok-220) | Salok 220: Ma ३ |
-| 221 | [सलोक 221: मः ५ ॥...](#salok-221) | Salok 221: Ma ५ |
-| 222 | [सलोक 222: कबीर काइआ काची कारवी केवल काची धातु...](#salok-222) | Salok 222: Kabaeera Kaaiaa Kaachaee Kaaravaee Kaevala Kaachaee |
-| 223 | [सलोक 223: कबीर केसो केसो कूकीऐ न सोईऐ असार ॥...](#salok-223) | Salok 223: Kabaeera Kaesao Kaesao Kaookaeeai Na Saoeeai Asa |
-| 224 | [सलोक 224: कबीर काइआ कजली बनु भइआ मनु कुंचरु म...](#salok-224) | Salok 224: Kabaeera Kaaiaa Kajalaee Banau Bhaiaa Manau Kaun |
-| 225 | [सलोक 225: कबीर राम रतनु मुखु कोथरी पारख आगै ख...](#salok-225) | Salok 225: Kabaeera Raama Ratanau Maukhau Kaotharaee Paarakha |
-| 226 | [सलोक 226: कबीर राम नामु जानिओ नही पालिओ कटकु ...](#salok-226) | Salok 226: Kabaeera Raama Naamau Jaanaio Nahaee Paalaio |
-| 227 | [सलोक 227: कबीर आखी केरे माटुके पलु पलु गई बिह...](#salok-227) | Salok 227: Kabaeera Aakhaee Kaerae Maataukae Palau Palau Ga |
-| 228 | [सलोक 228: कबीर तरवर रूपी रामु है फल रूपी बैरा...](#salok-228) | Salok 228: Kabaeera Taravara Raoopaee Raamau Haai Phala Raoopaee |
-| 229 | [सलोक 229: कबीर ऐसा बीजु बोइ बारह मास फलंत ॥...](#salok-229) | Salok 229: Kabaeera Aisaa Baeejau Baoi Baaraha Maasa Phalan |
-| 230 | [सलोक 230: कबीर दाता तरवरु दया फलु उपकारी जीवं...](#salok-230) | Salok 230: Kabaeera Daataa Taravarau Dayaa Phalau Upakaaraee |
-| 231 | [सलोक 231: कबीर साधू संगु परापती लिखिआ होइ लिल...](#salok-231) | Salok 231: Kabaeera Saadhaoo Sangau Paraapataee Laikhaiaa Hao |
-| 232 | [सलोक 232: कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥...](#salok-232) | Salok 232: Kabaeera Eka Ghaड़ee Aadhaee Gharaee Aadhaee Haoon Tae |
-| 233 | [सलोक 233: कबीर भांग माछुली सुरा पानि जो जो प्...](#salok-233) | Salok 233: Kabaeera Bhaanga Maachhaulaee Sauraa Paanai Jao |
-| 234 | [सलोक 234: नीचे लोइन करि रहउ ले साजन घट माहि ॥...](#salok-234) | Salok 234: Naeechae Laoina Karai Rahau Lae Saajana Ghata Ma |
-| 235 | [सलोक 235: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ...](#salok-235) | Salok 235: Aatha Jaama Chausathai Gharaee Taua Nairakhata Rahaai |
-| 236 | [सलोक 236: सुनु सखी पीअ महि जीउ बसै जीअ महि बस...](#salok-236) | Salok 236: Saunau Sakhaee Paeea Mahai Jaeeu Basaai Jaeea Ma |
-| 237 | [सलोक 237: कबीर बामनु गुरू है जगत का भगतन का ग...](#salok-237) | Salok 237: Kabaeera Baamanau Gauraoo Haai Jagata Kaa Bhagatana |
-| 238 | [सलोक 238: हरि है खांडु रेतु महि बिखरी हाथी चु...](#salok-238) | Salok 238: Harai Haai Khaandau Raetau Mahai Baikharaee Haa |
-| 239 | [सलोक 239: कबीर जउ तुहि साध पिरम की सीसु काटि ...](#salok-239) | Salok 239: Kabaeera Jau Tauhai Saadha Pairama Kaee Saeesau |
-| 240 | [सलोक 240: कबीर जउ तुहि साध पिरम की पाके सेती ...](#salok-240) | Salok 240: Kabaeera Jau Tauhai Saadha Pairama Kaee Paakae |
-| 241 | [सलोक 241: ढूंढत डोलहि अंध गति अरु चीनत नाही स...](#salok-241) | Salok 241: Dhaoondhata Daolahai Andha Gatai Arau Chaeenata Na |
-| 242 | [सलोक 242: हरि सो हीरा छाडि कै करहि आन की आस ॥...](#salok-242) | Salok 242: Harai Sao Haeeraa Chhaadai Kaai Karahai Aana Kaee |
-| 243 | [सलोक 243: कबीर जउ ग्रिहु करहि त धरमु करु नाही...](#salok-243) | Salok 243: Kabaeera Jau Garaihau Karahai Ta Dharamau Karau |
-| 244 | [सलोक 244: गगन दमामा बाजिओ परिओ नीसानै घाउ ॥...](#salok-244) | Salok 244: Gagana Damaamaa Baajaio Paraio Naeesaanaai Ghaa |
-| 245 | [सलोक 245: सूरा सो पहिचानीऐ जु लरै दीन के हेत ...](#salok-245) | Salok 245: Saooraa Sao Pahaichaanaeeai Jau Laraai Daeena Kae |
+| 1 | [सलोक 1: कबीर मेरी सिमरनी रसना ऊपरि रामु ॥...](#salok-1) | रसना पर नाम-माला और संतों का परम विश्राम |
+| 2 | [सलोक 2: कबीर मेरी जाति कउ सभु को हसनेहारु ॥...](#salok-2) | निम्न जाति का उपहास और सृजनहार की महिमा |
+| 3 | [सलोक 3: कबीर डगमग किआ करहि कहा डुलावहि जीउ ...](#salok-3) | चित्त का डोलना और राम-नाम का सर्व-सुख |
+| 4 | [सलोक 4: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा...](#salok-4) | कंचन-कुंडल का व्यर्थ आडंबर और नाम-विहीन देह |
+| 5 | [सलोक 5: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ...](#salok-5) | जीवत-मृतक की दुर्लभ अवस्था और सर्वत्र प्रभु-दर्शन |
+| 6 | [सलोक 6: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥...](#salok-6) | अहंकार की मृत्यु और परमानंद का प्राकट्य |
+| 7 | [सलोक 7: कबीर सभ ते हम बुरे हम तजि भलो सभु क...](#salok-7) | परम विनम्रता और आत्म-निरीक्षण |
+| 8 | [सलोक 8: कबीर आई मुझहि पहि अनिक करे करि भेस ...](#salok-8) | माया के मोहक रूप और सद्गुरु की रक्षा |
+| 9 | [सलोक 9: कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥...](#salok-9) | अहंकार और वासना का वध |
+| 10 | [सलोक 10: कबीर राती होवहि कारीआ कारे ऊभे जंत ...](#salok-10) | अज्ञान की काली रात्रि और दुष्टों का दमन |
+| 11 | [सलोक 11: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक ...](#salok-11) | चंदन का पावन संग और पलाश का सुगंधित होना |
+| 12 | [सलोक 12: कबीर बांसु बडाई बूडिआ इउ मत डूबहु क...](#salok-12) | बांस का खोखला अभिमान और सुगंध-विहीनता |
+| 13 | [सलोक 13: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल...](#salok-13) | संसार के पीछे धर्म की हानि और अपने पैर पर कुल्हाड़ी |
+| 14 | [सलोक 14: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥...](#salok-14) | राम-स्नेही के बिना संसार का उजड़ापन |
+| 15 | [सलोक 15: कबीर संतन की झुंगीआ भली भठि कुसती ग...](#salok-15) | संतों की टूटी झोपड़ी बनाम प्रभु-विहीन महल |
+| 16 | [सलोक 16: कबीर संत मूए किआ रोईऐ जो अपुने ग्रि...](#salok-16) | संत की अमर मुक्ति और साक्त का भटकाव |
+| 17 | [सलोक 17: कबीर साकतु ऐसा है जैसी लसन की खानि ...](#salok-17) | साक्त की लहसुन जैसी दुर्गंध |
+| 18 | [सलोक 18: कबीर माइआ डोलनी पवनु झकोलनहारु ॥...](#salok-18) | माया की मथानी और सार-मक्खन का आस्वादन |
+| 19 | [सलोक 19: कबीर माइआ डोलनी पवनु वहै हिव धार ॥...](#salok-19) | शीतल साधना का मंथन और रूहानी फल |
+| 20 | [सलोक 20: कबीर माइआ चोरटी मुसि मुसि लावै हाटि...](#salok-20) | माया चोरटी और कबीर की सजगता |
+| 21 | [सलोक 21: कबीर सूखु न एंह जुगि करहि जु बहुतै ...](#salok-21) | अनेकों मित्रों का भ्रम और एक प्रभु से नित्य सुख |
+| 22 | [सलोक 22: कबीर जिसु मरने ते जगु डरै मेरे मनि ...](#salok-22) | मृत्यु का आनंद और पूर्ण परमानंद |
+| 23 | [सलोक 23: राम पदारथु पाइ कै कबीरा गांठि न खोल...](#salok-23) | राम-रत्न की अनमोलता और अपात्रों से गोपनीयता |
+| 24 | [सलोक 24: कबीर ता सिउ प्रीति करि जा को ठाकुरु...](#salok-24) | राम के अनन्य सेवक से प्रीति और नश्वर राजा |
+| 25 | [सलोक 25: कबीर प्रीति इक सिउ कीए आन दुबिधा जा...](#salok-25) | एक से प्रीति और बाह्य वेश की निरर्थकता |
+| 26 | [सलोक 26: कबीर जगु काजल की कोठरी अंध परे तिस ...](#salok-26) | काजल की कोठरी रूपी संसार और निर्लिप्तता |
+| 27 | [सलोक 27: कबीर इहु तनु जाइगा सकहु त लेहु बहोर...](#salok-27) | नश्वर देह का विनाश और नंगे पैर गमन |
+| 28 | [सलोक 28: कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥...](#salok-28) | देह का सदुपयोग: साधु-संगत और हरि-गुण |
+| 29 | [सलोक 29: कबीर मरता मरता जगु मूआ मरि भी न जान...](#salok-29) | जीवत-मरण की कला और अमर पद |
+| 30 | [सलोक 30: कबीर मानस जनमु दुल्मभु है होइ न बार...](#salok-30) | दुर्लभ मानव जन्म और पका हुआ फल |
+| 31 | [सलोक 31: कबीरा तुही कबीरु तू तेरो नाउ कबीरु ...](#salok-31) | तू ही कबीर और देह-अभिमान का त्याग |
+| 32 | [सलोक 32: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ...](#salok-32) | व्यर्थ विलाप का निषेध और करीम का अटल विधान |
+| 33 | [सलोक 33: कबीर कसउटी राम की झूठा टिकै न कोइ ॥...](#salok-33) | राम की कसौटी और मरि-जीवा साधक |
+| 34 | [सलोक 34: कबीर ऊजल पहिरहि कापरे पान सुपारी खा...](#salok-34) | श्वेत वस्त्र, पान-सुपारी और नाम-विहीन यम-दंड |
+| 35 | [सलोक 35: कबीर बेड़ा जरजरा फूटे छेंक हजार ॥...](#salok-35) | हजार छेदों वाली जर्जर नाव और सिर का भार |
+| 36 | [सलोक 36: कबीर हाड जरे जिउ लाकरी केस जरे जिउ ...](#salok-36) | लकड़ी जैसी हड्डियां, घास जैसे केश और कबीर की उदासी |
+| 37 | [सलोक 37: कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥...](#salok-37) | चमड़े से लिपटी हड्डियों का गर्व और धूल में दफन |
+| 38 | [सलोक 38: कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥...](#salok-38) | ऊंचे महलों का अभिमान और कब्र पर उगती घास |
+| 39 | [सलोक 39: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥...](#salok-39) | दीन-रंक का उपहास न करना और समुद्र में नाव |
+| 40 | [सलोक 40: कबीर गरबु न कीजीऐ देही देखि सुरंग ॥...](#salok-40) | सुंदर देह का त्याग और सर्प की केंचुल |
+| 41 | [सलोक 41: कबीर लूटना है त लूटि लै राम नाम है ...](#salok-41) | राम-नाम की पावन लूट और अंतिम पश्चाताप |
+| 42 | [सलोक 42: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै ...](#salok-42) | अपने घर में आग लगाना और पांचों विकारों का दहन |
+| 43 | [सलोक 43: को है लरिका बेचई लरिकी बेचै कोइ ॥...](#salok-43) | संसार के पुत्र-पुत्री का व्यापार और कबीर की रूहानी साझेदारी |
+| 44 | [सलोक 44: कबीर इह चेतावनी मत सहसा रहि जाइ ॥...](#salok-44) | चेतावनी और पाप-भोगों का गुड़ रूपी विष |
+| 45 | [सलोक 45: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ...](#salok-45) | विद्या, योग और राम-भक्ति का अटल संकल्प |
+| 46 | [सलोक 46: कबीर लोगु कि निंदै बपुड़ा जिह मनि ना...](#salok-46) | अज्ञानी लोक-निंदा की उपेक्षा और राम में लीनता |
+| 47 | [सलोक 47: कबीर परदेसी कै घाघरै चहु दिसि लागी ...](#salok-47) | परदेशी की गुदड़ी में आग और अखंड चेतना |
+| 48 | [सलोक 48: कबीर खिंथा जलि कोइला भई खापरु फूट म...](#salok-48) | जोगी का खप्पर फूटना और भस्म की स्थिरता |
+| 49 | [सलोक 49: कबीर थोरै जलि माछुली झीवरि मेलिओ जा...](#salok-49) | कम जल की मछली, धीवर का जाल और समुद्र का संभलना |
+| 50 | [सलोक 50: कबीर समुंदु न छोडीऐ जउ अति खारो होइ...](#salok-50) | समुद्र का न त्यागना और पोखर-पोखर की भटकाव |
+| 51 | [सलोक 51: कबीर निगुसांएं बहि गए थांघी नाही को...](#salok-51) | बिना गुरु के बह जाना और दीनता की शरण |
+| 52 | [सलोक 52: कबीर बैसनउ की कूकरि भली साकत की बुर...](#salok-52) | वैष्णव की कुतिया बनाम साक्त की माता |
+| 53 | [सलोक 53: कबीर हरना दूबला इहु हरीआरा तालु ॥...](#salok-53) | कमजोर हिरन, हरा सरोवर और लाखों शिकारी |
+| 54 | [सलोक 54: कबीर गंगा तीर जु घरु करहि पीवहि निर...](#salok-54) | गंगा-तट का वास और हरि-भक्ति के बिना व्यर्थता |
+| 55 | [सलोक 55: कबीर मनु निरमलु भइआ जैसा गंगा नीरु ...](#salok-55) | गंगा जैसा निर्मल मन और कबीर के पीछे हरि |
+| 56 | [सलोक 56: कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥...](#salok-56) | हल्दी और चूने का रंग-त्याग और राम-मिलन |
+| 57 | [सलोक 57: कबीर हरदी पीरतनु हरै चून चिहनु न रह...](#salok-57) | पीलापन और सफेदी का लोप तथा जाति-कुल का त्याग |
+| 58 | [सलोक 58: कबीर मुकति दुआरा संकुरा राई दसएं भा...](#salok-58) | राई के दसवें भाग जैसा संकरा मुक्ति-द्वार और हाथी जैसा मन |
+| 59 | [सलोक 59: कबीर ऐसा सतिगुरु जे मिलै तुठा करे प...](#salok-59) | सद्गुरु की असीम कृपा और मुक्ति-द्वार का सहज खुलना |
+| 60 | [सलोक 60: कबीर ना मोहि छानि न छापरी ना मोहि घ...](#salok-60) | घर-गांव और जाति-नाम से मुक्ति |
+| 61 | [सलोक 61: कबीर मुहि मरने का चाउ है मरउ त हरि ...](#salok-61) | प्रभु के द्वार पर मरने का चाव |
+| 62 | [सलोक 62: कबीर ना हम कीआ न करहिगे ना करि सकै ...](#salok-62) | अहंकार-रहित कर्म और केवल हरि का कर्तृत्व |
+| 63 | [सलोक 63: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक...](#salok-63) | स्वप्न में भी राम-नाम की महिमा और देह की जूती |
+| 64 | [सलोक 64: कबीर माटी के हम पूतरे मानसु राखिओ न...](#salok-64) | मिट्टी के पुतले और चार दिन के मेहमान |
+| 65 | [सलोक 65: कबीर महिदी करि घालिआ आपु पीसाइ पीसा...](#salok-65) | मेहंदी की भांति पिसना और मौन सेवा |
+| 66 | [सलोक 66: कबीर जिह दरि आवत जातिअहु हटकै नाही ...](#salok-66) | सदा खुला प्रभु-द्वार और अनन्य शरणागति |
+| 67 | [सलोक 67: कबीर डूबा था पै उबरिओ गुन की लहरि झ...](#salok-67) | जर्जर नाव से छलांग और गुण-लहर द्वारा उद्धार |
+| 68 | [सलोक 68: कबीर पापी भगति न भावई हरि पूजा न सु...](#salok-68) | पापी की विमुखता और मक्खी का दुर्गंध-प्रेम |
+| 69 | [सलोक 69: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा...](#salok-69) | वैद्य-रोगी का मरण और कबीर का अमृत्व |
+| 70 | [सलोक 70: कबीर रामु न धिआइओ मोटी लागी खोरि ॥...](#salok-70) | राम-विस्मरण का भारी घाटा और काठ की हांडी |
+| 71 | [सलोक 71: कबीर ऐसी होइ परी मन को भावतु कीनु ॥...](#salok-71) | मृत्यु-भय का अभाव और हाथ में सिधौरा |
+| 72 | [सलोक 72: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ ...](#salok-72) | रसदार ईख का आस्वादन और दुर्गुणों का तिरस्कार |
+| 73 | [सलोक 73: कबीर गागरि जल भरी आजु काल्हि जैहै फ...](#salok-73) | जल से भरी फूटी गागर और गुरु-विहीन लूट |
+| 74 | [सलोक 74: कबीर कूकरु राम को मुतीआ मेरो नाउ ॥...](#salok-74) | राम का श्वान और प्रेम की डोरी |
+| 75 | [सलोक 75: कबीर जपनी काठ की किआ दिखलावहि लोइ ॥...](#salok-75) | काष्ठ की जपनी का ढोंग और हृदय का राम |
+| 76 | [सलोक 76: कबीर बिरहु भुयंगमु मनि बसै मंतु न म...](#salok-76) | विरह रूपी सर्प और राम-वियोगी की उन्मत्तता |
+| 77 | [सलोक 77: कबीर पारस चंदनै तिन्ह है एक सुगंध ॥...](#salok-77) | पारस और चंदन की पारस-सुगंध |
+| 78 | [सलोक 78: कबीर जम का ठेंगा बुरा है ओहु नही सह...](#salok-78) | यम का भयानक डंडा और साधु का आंचल |
+| 79 | [सलोक 79: कबीर बैदु कहै हउ ही भला दारू मेरै व...](#salok-79) | वैद्य का दंभ और गोपाल का परम अधिकार |
+| 80 | [सलोक 80: कबीर नउबति आपनी दिन दस लेहु बजाइ ॥...](#salok-80) | दस दिन का नगाड़ा और नदी-नाव संजोग |
+| 81 | [सलोक 81: कबीर सात समुंदहि मसु करउ कलम करउ बन...](#salok-81) | सात समुद्रों की मसि और हरि-यश की असीमता |
+| 82 | [सलोक 82: कबीर जाति जुलाहा किआ करै हिरदै बसे ...](#salok-82) | जुलाहा जाति और हृदय में गोपाल का वास |
+| 83 | [सलोक 83: कबीर ऐसा को नही मंदरु देइ जराइ ॥...](#salok-83) | मोह-मंदिर का दहन और पांचों विकारों का अंत |
+| 84 | [सलोक 84: कबीर ऐसा को नही इहु तनु देवै फूकि ॥...](#salok-84) | देह-अभिमान का दहन और कबीर की पुकार |
+| 85 | [सलोक 85: कबीर सती पुकारै चिह चड़ी सुनु हो बीर...](#salok-85) | सती की पुकार, मसान की संगति और संसार की विदाई |
+| 86 | [सलोक 86: कबीर मनु पंखी भइओ उडि उडि दह दिस जा...](#salok-86) | मन रूपी पक्षी और संगति का फल |
+| 87 | [सलोक 87: कबीर जा कउ खोजते पाइओ सोई ठउरु ॥...](#salok-87) | खोजते-खोजते स्वयं वही हो जाना (अद्वैत बोध) |
+| 88 | [सलोक 88: कबीर मारी मरउ कुसंग की केले निकटि ज...](#salok-88) | केले और बेर का कुसंग और साक्त का त्याग |
+| 89 | [सलोक 89: कबीर भार पराई सिरि चरै चलिओ चाहै बा...](#salok-89) | दूसरों के भार का ढोना और आगे दुर्गम घाटी |
+| 90 | [सलोक 90: कबीर बन की दाधी लाकरी ठाढी करै पुका...](#salok-90) | वन की जली लकड़ी की पुकार और लोहार की भट्ठी |
+| 91 | [सलोक 91: कबीर एक मरंते दुइ मूए दोइ मरंतह चार...](#salok-91) | अहंकार के मरने से समस्त द्वैत और विकारों का अंत |
+| 92 | [सलोक 92: कबीर देखि देखि जगु ढूंढिआ कहूं न पा...](#salok-92) | संसार की खोज में भटकना और नाम-विहीन भ्रम |
+| 93 | [सलोक 93: कबीर संगति करीऐ साध की अंति करै निर...](#salok-93) | साधु-संगत का अंतिम निर्वाह और साक्त का विनाश |
+| 94 | [सलोक 94: कबीर जग महि चेतिओ जानि कै जग महि रह...](#salok-94) | सर्वव्यापी प्रभु का स्मरण और नाम-विहीन व्यर्थ जन्म |
+| 95 | [सलोक 95: कबीर आसा करीऐ राम की अवरै आस निरास ...](#salok-95) | राम की आशा और सांसारिक आशाओं की निराशा |
+| 96 | [सलोक 96: कबीर सिख साखा बहुते कीए केसो कीओ न ...](#salok-96) | सिख-शाखा का विस्तार और केशव से मित्रता का अभाव |
+| 97 | [सलोक 97: कबीर कारनु बपुरा किआ करै जउ रामु न ...](#salok-97) | राम की सहायता के बिना यत्नों की विफलता |
+| 98 | [सलोक 98: कबीर अवरह कउ उपदेसते मुख मै परि है ...](#salok-98) | दूसरों को उपदेश देना और अपना खेत चर जाना |
+| 99 | [सलोक 99: कबीर साधू की संगति रहउ जउ की भूसी ख...](#salok-99) | संतों के संग जौ की भूसी भली और साक्त का त्याग |
+| 100 | [सलोक 100: कबीर संगति साध की दिन दिन दूना हेतु...](#salok-100) | साधु-संगत का दूना प्रेम और साक्त की काली कमली |
+| 101 | [सलोक 101: कबीर मनु मूंडिआ नही केस मुंडाए कांइ...](#salok-101) | मन का मुंडन न करना और केश मुंडाने की व्यर्थता |
+| 102 | [सलोक 102: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ...](#salok-102) | तन-धन की हानि पर भी राम का न छोड़ना |
+| 103 | [सलोक 103: कबीर जो हम जंतु बजावते टूटि गईं सभ ...](#salok-103) | वाद्य-यंत्र के तारों का टूटना और बजाने वाले का गमन |
+| 104 | [सलोक 104: कबीर माइ मूंडउ तिह गुरू की जा ते भर...](#salok-104) | भ्रम न मिटाने वाले गुरु की भर्त्सना और वेदों में डूबना |
+| 105 | [सलोक 105: कबीर जेते पाप कीए राखे तलै दुराइ ॥...](#salok-105) | छिपाए गए पापों का धर्मराज के सम्मुख प्रकटीकरण |
+| 106 | [सलोक 106: कबीर हरि का सिमरनु छाडि कै पालिओ बह...](#salok-106) | हरि-सिमरन त्यागकर कुटुंब का पोषण और अंत में अकेलापन |
+| 107 | [सलोक 107: कबीर हरि का सिमरनु छाडि कै राति जगा...](#salok-107) | हरि-सिमरन छोड़ रति-जगा करना और सर्पिणी की योनि |
+| 108 | [सलोक 108: कबीर हरि का सिमरनु छाडि कै अहोई राख...](#salok-108) | अहोई-अष्टमी का व्रत और गधी की योनि |
+| 109 | [सलोक 109: कबीर चतुराई अति घनी हरि जपि हिरदै म...](#salok-109) | अत्यधिक चतुराई, हृदय में हरि-जप और तलवार की धार |
+| 110 | [सलोक 110: कबीर सोई मुखु धंनि है जा मुखि कहीऐ ...](#salok-110) | राम कहने वाले मुख की धन्यता और संपूर्ण गांव की पवित्रता |
+| 111 | [सलोक 111: कबीर सोई कुल भली जा कुल हरि को दासु...](#salok-111) | हरि-दास के कुल की श्रेष्ठता और ढाक-पलाश जैसा कुल |
+| 112 | [सलोक 112: कबीर है गइ बाहन सघन घन लाख धजा फहरा...](#salok-112) | हाथी-घोड़ों की सेना पर भिक्षा की श्रेष्ठता |
+| 113 | [सलोक 113: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ...](#salok-113) | सत्य का ढोल बजाकर संसार की परख और अकेलापन |
+| 114 | [सलोक 114: मारगि मोती बीथरे अंधा निकसिओ आइ ॥...](#salok-114) | मार्ग में बिखरे मोती और अंधे संसार का लांघ जाना |
+| 115 | [सलोक 115: बूडा बंसु कबीर का उपजिओ पूतु कमालु ...](#salok-115) | पुत्र कमाल का धन-संग्रह और कबीर के वंश की विडंबना |
+| 116 | [सलोक 116: कबीर साधू कउ मिलने जाईऐ साथि न लीजै...](#salok-116) | अकेले संत-दर्शन को जाना और पीछे पैर न हटाना |
+| 117 | [सलोक 117: कबीर जगु बाधिओ जिह जेवरी तिह मत बंध...](#salok-117) | संसार की जेवरी से न बंधना और आटे में नमक जैसा शरीर |
+| 118 | [सलोक 118: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना...](#salok-118) | हंस का उड़ना, देह का दफन और नयनों की तृष्णा |
+| 119 | [सलोक 119: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त...](#salok-119) | नयनों में रूप, कानों में नाम और हृदय में चरण-कमल |
+| 120 | [सलोक 120: कबीर सुरग नरक ते मै रहिओ सतिगुर के ...](#salok-120) | स्वर्ग-नरक से मुक्ति और चरण-कमलों की मौज |
+| 121 | [सलोक 121: कबीर चरन कमल की मउज को कहि कैसे उनम...](#salok-121) | चरण-कमल की मौज की अनिर्वचनीयता |
+| 122 | [सलोक 122: कबीर देखि कै किह कहउ कहे न को पतीआइ...](#salok-122) | देखकर किसे कहें: हरि जैसा है वैसा ही है |
+| 123 | [सलोक 123: कबीर चुगै चितारै भी चुगै चुगि चुगि ...](#salok-123) | कुंज पक्षी का दाना चुगना और बच्चे का स्मरण |
+| 124 | [सलोक 124: कबीर अम्बर घनहरु छाइआ बरखि भरे सर त...](#salok-124) | आकाश में बादल, लबालब सरोवर और चातक की प्यास |
+| 125 | [सलोक 125: कबीर चकई जउ निसि बीछुरै आइ मिलै परभ...](#salok-125) | चकवी का प्रातः मिलन और राम-वियोगी का अखंड विरह |
+| 126 | [सलोक 126: कबीर रैनाइर बिछोरिआ रहु रे संख मझूर...](#salok-126) | समुद्र से बिछुड़ा शंख और मंदिरों में क्रंदन |
+| 127 | [सलोक 127: कबीर सूता किआ करहि जागु रोइ भै दुख ...](#salok-127) | कब्र के निवासी का सुख से सोना व्यर्थ |
+| 128 | [सलोक 128: कबीर सूता किआ करहि उठि कि न जपहि मु...](#salok-128) | मुरारी का स्मरण और कब्र में पैर पसारना |
+| 129 | [सलोक 129: कबीर सूता किआ करहि बैठा रहु अरु जाग...](#salok-129) | जिससे बिछुड़े उसी के संग लगो |
+| 130 | [सलोक 130: कबीर संत की गैल न छोडीऐ मारगि लागा ...](#salok-130) | संतों का मार्ग न छोड़ना और दर्शन से पवित्रता |
+| 131 | [सलोक 131: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ...](#salok-131) | साक्त की संगति से दूर भागना और कालिख का दाग |
+| 132 | [सलोक 132: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥...](#salok-132) | राम का न जपना, वृद्धावस्था और जलते घर से क्या बचाएं |
+| 133 | [सलोक 133: कबीर कारनु सो भइओ जो कीनो करतारि ॥...](#salok-133) | करतार का अटल विधान और अद्वैत सृजनहार |
+| 134 | [सलोक 134: कबीर फल लागे फलनि पाकनि लागे आंब ॥...](#salok-134) | आम का पकना और ओलों से बचाव |
+| 135 | [सलोक 135: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर...](#salok-135) | मोल लिए पत्थर के ठाकुर और मनहठ के तीर्थ |
+| 136 | [सलोक 136: कबीर पाहनु परमेसुरु कीआ पूजै सभु सं...](#salok-136) | पाषाण को परमेश्वर मानना और काली धार में डूबना |
+| 137 | [सलोक 137: कबीर कागद की ओबरी मसु के करम कपाट ॥...](#salok-137) | कागज की कोठरी, स्याही के कपाट और पंडितों की लूट |
+| 138 | [सलोक 138: कबीर कालि करंता अबहि करु अब करता सु...](#salok-138) | कल का कार्य आज और तत्क्षण साधन |
+| 139 | [सलोक 139: कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला...](#salok-139) | धोई लाख जैसा जीव: चंचल किंतु मतिहीन |
+| 140 | [सलोक 140: कबीर मेरी बुधि कउ जमु न करै तिसकार ...](#salok-140) | यम का तिरस्कार न करना और परवरदिगार का भजन |
+| 141 | [सलोक 141: कबीरु कसतूरी भइआ भवर भए सभ दास ॥...](#salok-141) | कबीर कस्तूरी और भक्त भंवरे: राम का निवास |
+| 142 | [सलोक 142: कबीर गहगचि परिओ कुट्मब कै कांठै रहि...](#salok-142) | कुटुंब के प्रपंच में फंसना और धर्मराज के दूत |
+| 143 | [सलोक 143: कबीर साकत ते सूकर भला राखै आछा गाउ ...](#salok-143) | साक्त से सूअर भला और नाम-विहीन मृत्यु |
+| 144 | [सलोक 144: कबीर कउडी कउडी जोरि कै जोरे लाख करो...](#salok-144) | कौड़ी-कौड़ी जोड़कर करोड़ों का संग्रह और लंगोटी का छिनना |
+| 145 | [सलोक 145: कबीर बैसनो हूआ त किआ भइआ माला मेलीं...](#salok-145) | वैष्णव का ढोंग, चार मालाएं और भीतर भंगार |
+| 146 | [सलोक 146: कबीर रोड़ा होइ रहु बाट का तजि मन का ...](#salok-146) | मार्ग का रोड़ा बनना और अहंकार का त्याग |
+| 147 | [सलोक 147: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख...](#salok-147) | रोड़े से धूल की श्रेष्ठता |
+| 148 | [सलोक 148: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै...](#salok-148) | धूल से जल की श्रेष्ठता |
+| 149 | [सलोक 149: कबीर पानी हूआ त किआ भइआ सीरा ताता ह...](#salok-149) | जल से स्वयं हरि जैसा होना (समता का शिखर) |
+| 150 | [सलोक 150: ऊच भवन कनकामनी सिखरि धजा फहराइ ॥...](#salok-150) | ऊंचे महलों और ध्वजों पर संतों की मधुकरी की श्रेष्ठता |
+| 151 | [सलोक 151: कबीर पाटन ते ऊजरु भला राम भगत जिह ठ...](#salok-151) | राम-भक्त का उजाड़ गांव उत्तम और राजधानी यमलोक |
+| 152 | [सलोक 152: कबीर गंग जमुन के अंतरे सहज सुंन के ...](#salok-152) | गंगा-यमुना के मध्य सहज-सुन्न का घाट और कबीर की कुटिया |
+| 153 | [सलोक 153: कबीर जैसी उपजी पेड ते जउ तैसी निबहै...](#salok-153) | प्रारंभिक अनुराग का अंत तक निर्वाह और हीरों की तुच्छता |
+| 154 | [सलोक 154: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक...](#salok-154) | हाट में बिकता हीरा और पारखी के बिना कौड़ी मोल |
+| 155 | [सलोक 155: कबीरा जहा गिआनु तह धरमु है जहा झूठु...](#salok-155) | ज्ञान, धर्म, झूठ, पाप, लोभ, काल और क्षमा |
+| 156 | [सलोक 156: कबीर माइआ तजी त किआ भइआ जउ मानु तजि...](#salok-156) | माया-त्याग के बाद मान का अहंकार और मुनियों का पतन |
+| 157 | [सलोक 157: कबीर साचा सतिगुरु मै मिलिआ सबदु जु ...](#salok-157) | सच्चे सद्गुरु का शब्द-बाण और कलेजे में छेद |
+| 158 | [सलोक 158: कबीर साचा सतिगुरु किआ करै जउ सिखा म...](#salok-158) | सद्गुरु क्या करे जब शिष्य में खोट हो (बांस में फूंक) |
+| 159 | [सलोक 159: कबीर है गै बाहन सघन घन छत्रपती की न...](#salok-159) | छत्रपति की रानी पर हरि-जन की पनिहारी की श्रेष्ठता |
+| 160 | [सलोक 160: कबीर न्रिप नारी किउ निंदीऐ किउ हरि ...](#salok-160) | राजा की रानी की निंदा और हरि-चेरी का सम्मान |
+| 161 | [सलोक 161: कबीर थूनी पाई थिति भई सतिगुर बंधी ध...](#salok-161) | सद्गुरु का धैर्य-स्तंभ और मानसरोवर तट पर हीरा-व्यापार |
+| 162 | [सलोक 162: कबीर हरि हीरा जन जउहरी ले कै मांडै ...](#salok-162) | हरि हीरा, संत जौहरी और पारखी की हाट |
+| 163 | [सलोक 163: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु ...](#salok-163) | विपत्ति के समान नित्य सिमरन और अमरापुर का वास |
+| 164 | [सलोक 164: कबीर सेवा कउ दुइ भले एकु संतु इकु र...](#salok-164) | सेवा के दो ही पात्र: संत और राम |
+| 165 | [सलोक 165: कबीर जिह मारगि पंडित गए पाछै परी बह...](#salok-165) | पंडितों का राजपथ और राम की अवघट घाटी पर कबीर |
+| 166 | [सलोक 166: कबीर दुनीआ के दोखे मूआ चालत कुल की ...](#salok-166) | कुल की मर्यादा की चिंता में मरण और श्मशान में लज्जा |
+| 167 | [सलोक 167: कबीर डूबहिगो रे बापुरे बहु लोगन की ...](#salok-167) | पड़ोसी का अंत देखकर स्वयं का बोध |
+| 168 | [सलोक 168: कबीर भली मधूकरी नाना बिधि को नाजु ॥...](#salok-168) | मधुकरी का संतोष और विशाल साम्राज्य |
+| 169 | [सलोक 169: कबीर दावै दाझनु होतु है निरदावै रहै...](#salok-169) | दावे में जलन और निष्दावे में निडरता |
+| 170 | [सलोक 170: कबीर पालि समुहा सरवरु भरा पी न सकै ...](#salok-170) | पाल पर लबालब सरोवर और कबीर का अघाकर पीना |
+| 171 | [सलोक 171: कबीर परभाते तारे खिसहि तिउ इहु खिसै...](#salok-171) | ऐसी मृत्यु मरो जिससे परमानंद हो |
+| 172 | [सलोक 172: कबीर कोठी काठ की दह दिसि लागी आगि ॥...](#salok-172) | मार्ग में पाषाण का अगाध होना और द्वैत की निवृत्ति |
+| 173 | [सलोक 173: कबीर संसा दूरि करु कागद देह बिहाइ ॥...](#salok-173) | पाषाण की छाती पर पैर रख मूर्ति बनाना |
+| 174 | [सलोक 174: कबीर संतु न छाडै संतई जउ कोटिक मिलह...](#salok-174) | कलियुग की कुटिलता और साधु के कुल की अगाधता |
+| 175 | [सलोक 175: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु...](#salok-175) | साधु के पावन चरणों का जल और देह की नश्वरता |
+| 176 | [सलोक 176: कबीर सारी सिरजनहार की जानै नाही कोइ...](#salok-176) | साधु की उत्तम मति और साक्त की अंधी दृष्टि |
+| 177 | [सलोक 177: कबीर भली भई जो भउ परिआ दिसा गईं सभ ...](#salok-177) | साक्त की संगति का त्याग और दावानल में जलना |
+| 178 | [सलोक 178: कबीरा धूरि सकेलि कै पुरीआ बांधी देह...](#salok-178) | पत्थर की नाव में साक्त के संग बैठना और डूबना |
+| 179 | [सलोक 179: कबीर सूरज चांद कै उदै भई सभ देह ॥...](#salok-179) | बांस की फांस जैसी साक्त-संगति |
+| 180 | [सलोक 180: जह अनभउ तह भै नही जह भउ तह हरि नाहि...](#salok-180) | कच्ची धातु का घट और राम-भजन से साबुत रहना |
+| 181 | [सलोक 181: कबीर जिनहु किछू जानिआ नही तिन सुख न...](#salok-181) | काया-मंदिर में आग और राम-विस्मरण का संताप |
+| 182 | [सलोक 182: कबीर मारे बहुतु पुकारिआ पीर पुकारै ...](#salok-182) | सद्गुरु की कृपा से मुक्ति-विश्राम और चरण-कमल |
+| 183 | [सलोक 183: कबीर चोट सुहेली सेल की लागत लेइ उसा...](#salok-183) | ब्रह्म-ज्ञान से मन की शीतलता और अभिमान-त्यागी पर बलिहारी |
+| 184 | [सलोक 184: कबीर मुलां मुनारे किआ चढहि सांई न ब...](#salok-184) | मन के रहस्य को समझाने वाला ही कबीर का सच्चा मित्र |
+| 185 | [सलोक 185: सेख सबूरी बाहरा किआ हज काबे जाइ ॥...](#salok-185) | वाद्य-यंत्र का टूटना और बजाने वाले की विदाई |
+| 186 | [सलोक 186: कबीर अलह की करि बंदगी जिह सिमरत दुख...](#salok-186) | ऐसी मृत्यु मरो कि पुनः जन्म-मरण न हो |
+| 187 | [सलोक 187: कबीर जोरी कीए जुलमु है कहता नाउ हला...](#salok-187) | चरण-कमल की मौज में मग्नता और उपाधियों से मुक्ति |
+| 188 | [सलोक 188: कबीर खूबु खाना खीचरी जा महि अम्रितु...](#salok-188) | हरि के द्वार पर मरण और जहां कोई नहीं रोकता |
+| 189 | [सलोक 189: कबीर गुरु लागा तब जानीऐ मिटै मोहु त...](#salok-189) | साक्त से सूअर भला और अनाम मृत्यु |
+| 190 | [सलोक 190: कबीर राम कहन महि भेदु है ता महि एकु...](#salok-190) | कौड़ी-कौड़ी जोड़ना और लंगोटी का छिनना |
+| 191 | [सलोक 191: कबीर रामै राम कहु कहिबे माहि बिबेक ...](#salok-191) | राम-स्मरण में विवेक और अद्वैत बोध |
+| 192 | [सलोक 192: कबीर जा घर साध न सेवीअहि हरि की सेव...](#salok-192) | साधु-सेवा विहीन घर श्मशान तुल्य |
+| 193 | [सलोक 193: कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥...](#salok-193) | सद्गुरु के शब्द-बाण से इंद्रिय-मौन और आत्म-समर्पण |
+| 194 | [सलोक 194: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु...](#salok-194) | सद्गुरु शूरवीर का शब्द-बाण और कलेजे में छेद |
+| 195 | [सलोक 195: कबीर निरमल बूंद अकास की परि गई भूमि...](#salok-195) | निर्मल बूंद, कुसंग की भूमि और भाड़ की राख |
+| 196 | [सलोक 196: कबीर निरमल बूंद अकास की लीनी भूमि म...](#salok-196) | मिट्टी में मिली बूंद और अद्वैत की अखंडता |
+| 197 | [सलोक 197: कबीर हज काबे हउ जाइ था आगै मिलिआ खु...](#salok-197) | हज काबा, गो-वध और खुदा की फटकार |
+| 198 | [सलोक 198: कबीर हज काबै होइ होइ गइआ केती बार क...](#salok-198) | बार-बार काबा जाना और पीर की चुप्पी |
+| 199 | [सलोक 199: कबीर जीअ जु मारहि जोरु करि कहते हहि...](#salok-199) | जबरन जीव-हत्या को हलाल बताना और ईश्वरीय लेखा |
+| 200 | [सलोक 200: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु...](#salok-200) | ज्यादती ही जुल्म है और मुंह पर मार |
+| 201 | [सलोक 201: कबीर लेखा देना सुहेला जउ दिल सूची ह...](#salok-201) | पवित्र हृदय का सरल लेखा और बेदाग मुक्ति |
+| 202 | [सलोक 202: कबीर धरती अरु आकास महि दुइ तूं बरी ...](#salok-202) | धरती-आकाश का विस्तार और षट्-दर्शन का संशय |
+| 203 | [सलोक 203: कबीर मेरा मुझ महि किछु नही जो किछु ...](#salok-203) | सर्वस्व समर्पण: मेरा मुझ में कुछ नहीं |
+| 204 | [सलोक 204: कबीर तूं तूं करता तू हूआ मुझ महि रह...](#salok-204) | तू-तू करता तू हुआ और अद्वैत दर्शन |
+| 205 | [सलोक 205: कबीर बिकारह चितवते झूठे करते आस ॥...](#salok-205) | विकारों का चिंतन, झूठी आशाएं और निराशा में प्रस्थान |
+| 206 | [सलोक 206: कबीर हरि का सिमरनु जो करै सो सुखीआ ...](#salok-206) | हरि-सिमरन से अखंड सुख और अभय |
+| 207 | [सलोक 207: कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥...](#salok-207) | कोल्हू की घानी से गुरु ने उबारा |
+| 208 | [सलोक 208: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ...](#salok-208) | टालमटोल में जीवन बीता, बढ़ता ब्याज और काल का आगमन |
+| 209 | [सलोक 209: महला ५ ॥...](#salok-209) | कुत्ते का हड्डियों के पीछे दौड़ना और गुरु द्वारा मुक्ति |
+| 210 | [सलोक 210: महला ५ ॥...](#salok-210) | साधु की धरती, चोरों का उपद्रव और संतों का लाभ |
+| 211 | [सलोक 211: महला ५ ॥...](#salok-211) | चावल के लिए भूसे पर मूसल और कुसंग का फल |
+| 212 | [सलोक 212: नामा माइआ मोहिआ कहै तिलोचनु मीत ॥...](#salok-212) | त्रिलोचन का प्रश्न: नामा माया में क्यों लिप्त है |
+| 213 | [सलोक 213: नामा कहै तिलोचना मुख ते रामु सम्हाल...](#salok-213) | हाथ-पांव से काम और चित्त निरंजन में |
+| 214 | [सलोक 214: महला ५ ॥...](#salok-214) | हमारा कोई नहीं, हम किसी के नहीं: केवल स्रष्टा में लीन |
+| 215 | [सलोक 215: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ...](#salok-215) | कीचड़ में गिरा आटा और साथ जाने वाला दाना |
+| 216 | [सलोक 216: कबीर मनु जानै सभ बात जानत ही अउगनु ...](#salok-216) | मन सब जानता है फिर भी अवगुण: हाथ में दीपक लेकर कुएं में गिरना |
+| 217 | [सलोक 217: कबीर लागी प्रीति सुजान सिउ बरजै लोग...](#salok-217) | सुजान प्रभु से प्रीति और अज्ञानी संसार की रोक |
+| 218 | [सलोक 218: कबीर कोठे मंडप हेतु करि काहे मरहु स...](#salok-218) | महलों-मण्डपों का मोह व्यर्थ: आवश्यकता केवल साढ़े तीन हाथ |
+| 219 | [सलोक 219: कबीर जो मै चितवउ ना करै किआ मेरे चि...](#salok-219) | मनुष्य की सोच निष्फल: हरि वही करता है जो उसकी रज़ा में है |
+| 220 | [सलोक 220: मः ३ ॥...](#salok-220) | चिंता भी वही कराता है, निश्चिंत भी वही करता है |
+| 221 | [सलोक 221: मः ५ ॥...](#salok-221) | लालच में भटकाव, पापों का संचय और क्षण में मृत्यु |
+| 222 | [सलोक 222: कबीर काइआ काची कारवी केवल काची धातु...](#salok-222) | कच्ची मिट्टी का करवा: राम-भजन से ही रक्षा |
+| 223 | [सलोक 223: कबीर केसो केसो कूकीऐ न सोईऐ असार ॥...](#salok-223) | केशव-केशव की निरंतर पुकार और जागृति |
+| 224 | [सलोक 224: कबीर काइआ कजली बनु भइआ मनु कुंचरु म...](#salok-224) | काया कजली बन, मन मतवाला हाथी और ज्ञान का अंकुश |
+| 225 | [सलोक 225: कबीर राम रतनु मुखु कोथरी पारख आगै ख...](#salok-225) | मुख की पोटली में राम-रत्न और जौहरी के सामने प्रदर्शन |
+| 226 | [सलोक 226: कबीर राम नामु जानिओ नही पालिओ कटकु ...](#salok-226) | कुटुंब के पोषण में जीवन बीता और व्यर्थ अंत |
+| 227 | [सलोक 227: कबीर आखी केरे माटुके पलु पलु गई बिह...](#salok-227) | आंख की पलक झपकते बीता जीवन और यम का नगाड़ा |
+| 228 | [सलोक 228: कबीर तरवर रूपी रामु है फल रूपी बैरा...](#salok-228) | तरुवर रूपी राम, वैराग्य का फल और साधु की छाया |
+| 229 | [सलोक 229: कबीर ऐसा बीजु बोइ बारह मास फलंत ॥...](#salok-229) | बारह मास फलने वाला बीज और पंछियों की क्रीड़ा |
+| 230 | [सलोक 230: कबीर दाता तरवरु दया फलु उपकारी जीवं...](#salok-230) | दाता तरुवर, दया का फल और परोपकारी जीवन |
+| 231 | [सलोक 231: कबीर साधू संगु परापती लिखिआ होइ लिल...](#salok-231) | मस्तक पर लिखा साधु-संग और मुक्ति का सुगम मार्ग |
+| 232 | [सलोक 232: कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥...](#salok-232) | घड़ी, आधी घड़ी, आधी की आधी: संतों का संवाद ही सच्चा लाभ |
+| 233 | [सलोक 233: कबीर भांग माछुली सुरा पानि जो जो प्...](#salok-233) | मादक द्रव्य, मांस-मदिरा और तीर्थ-व्रत का रसातल जाना |
+| 234 | [सलोक 234: नीचे लोइन करि रहउ ले साजन घट माहि ॥...](#salok-234) | नीचे नैन, अंतर्मन में प्रियतम और गुप्त रस-विलास |
+| 235 | [सलोक 235: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ...](#salok-235) | आठों पहर प्रियतम का दर्शन: नैन नीचे क्यों करूं |
+| 236 | [सलोक 236: सुनु सखी पीअ महि जीउ बसै जीअ महि बस...](#salok-236) | सखी! प्रियतम में जीव या जीव में प्रियतम: अद्वैत रहस्य |
+| 237 | [सलोक 237: कबीर बामनु गुरू है जगत का भगतन का ग...](#salok-237) | ब्राह्मण जगत का गुरु है, भक्तों का नहीं: वेदों में उलझकर मृत्यु |
+| 238 | [सलोक 238: हरि है खांडु रेतु महि बिखरी हाथी चु...](#salok-238) | रेत में बिखरी चीनी रूपी हरि: चींटी बनकर ही पान |
+| 239 | [सलोक 239: कबीर जउ तुहि साध पिरम की सीसु काटि ...](#salok-239) | प्रेम की बाजी: सिर काटकर गेंद बनाना और मस्त होकर खेलना |
+| 240 | [सलोक 240: कबीर जउ तुहि साध पिरम की पाके सेती ...](#salok-240) | प्रेम का खेल पक्के से: कच्ची सरसों पेरने से न तेल न खल |
+| 241 | [सलोक 241: ढूंढत डोलहि अंध गति अरु चीनत नाही स...](#salok-241) | अंधों की भांति खोज और संतों को न पहचानना |
+| 242 | [सलोक 242: हरि सो हीरा छाडि कै करहि आन की आस ॥...](#salok-242) | हरि रूपी हीरा छोड़कर दूसरों की आशा: नर्क का गमन |
+| 243 | [सलोक 243: कबीर जउ ग्रिहु करहि त धरमु करु नाही...](#salok-243) | गृहस्थी में धर्म या पूर्ण वैराग्य: वैरागी का बंधन महा-अभाग्य |
+| 244 | [सलोक 244: गगन दमामा बाजिओ परिओ नीसानै घाउ ॥...](#salok-244) | गगन दमामा बाजिओ: अंतर्मन का युद्ध और शूरवीर का प्रस्थान |
+| 245 | [सलोक 245: सूरा सो पहिचानीऐ जु लरै दीन के हेत ...](#salok-245) | सूरा सो पहचानिए: दीन-दुखियों के हित में कट मरना |
 
 ---
 
 <a name="salok-1"></a>
 ## सलोक 1: कबीर मेरी सिमरनी रसना ऊपरि रामु ॥...
-**English Title:** Salok 1: Kabaeera Maeraee Saimaranaee Rasanaa Ooparai Raama
+**English Title:** The Tongue as the Rosary of Ram and the Rest of Saints
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -280,21 +280,23 @@ aadi (primordial/origin) jugaadee (jugaadee) sagal (all/entire) bhagat (devotee)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-मेरी रसना पर निरंतर राम-नाम की ही जपमाला है,
-युग-युगांतर के समस्त संतों का यही परम विश्राम और सुख निराला है।
+मेरी रसना (जिह्वा) पर निरंतर प्रभु-राम के नाम की ही अजपा जपमाला है;
+आदि से लेकर युग-युगांतर तक के समस्त संतों का यही परम विश्राम और आनंदमय धाम है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-My tongue is the ceaseless rosary upon which the Beloved Name rests;
-From the primal dawn of time, in this sacred remembrance all saints find supreme peace and blest.
+My tongue is the ceaseless rosary upon which the Beloved Name does rest;
+From the primal dawn of time, in this remembrance all saints are truly blest!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir inaugurates his collection of Saloks in Sri Guru Granth Sahib Ji with this proclamation of pure devotion. Rather than clutching wooden or stone beads in his hands, his tongue and breath themselves have become a living, uninterrupted rosary of divine contemplation.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रसना रूपी सिमरनी**: कबीर बाह्य माला के स्थान पर श्वास और जिह्वा द्वारा निरंतर नाम-स्मरण को ही सच्ची साधना मानते हैं।
+2. **संतों का विश्राम**: आदि-जुगादी—सत्य सनातन काल से ही संतों की शांति का एकमात्र आधार राम-नाम रहा है।
 
 ---
 
 <a name="salok-2"></a>
 ## सलोक 2: कबीर मेरी जाति कउ सभु को हसनेहारु ॥...
-**English Title:** Salok 2: Kabaeera Maeraee Jaatai Kau Sabhau Kao Hasanaeha
+**English Title:** Mockery of Low Caste and Glory of Remembering the Creator
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -317,21 +319,23 @@ balihaaree (balihaaree) is (this) jaati (caste/social division) kau (unto) jih (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मेरी जाति कउ सभु को हसनेहारु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार का प्रत्येक अभिमानी व्यक्ति मेरी निम्न जुलाहा जाति पर हंसता और उपहास करता है;
+किंतु मैं तो अपनी इस जाति पर बलिहारी जाता हूँ, जिसमें जन्म लेकर मैंने साक्षात सृजनहार परमात्मा का भजन किया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramereejaatikausabhukohasanehaaru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Everyone in worldly arrogance laughs and mocks my lowly weaver caste;
+Yet all sacrifice am I unto this birth, wherein I attained the Creator at last!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मेरी जाति कउ सभु को हसनेहारु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जातिवाद पर प्रहार**: कबीर सामंती जाति-व्यवस्था की धज्जियां उड़ाते हैं। जन्म से कोई ऊंचा या नीचा नहीं होता; जो ईश्वर को भजता है वही सर्वोच्च है।
+2. **भक्ति का स्वाभिमान**: कबीर अपनी जुलाहा जाति को हीन मानने के बजाय ईश्वर की कृपा का माध्यम मानकर गर्व करते हैं।
 
 ---
 
 <a name="salok-3"></a>
 ## सलोक 3: कबीर डगमग किआ करहि कहा डुलावहि जीउ ...
-**English Title:** Salok 3: Kabaeera Dagamaga Kaiaa Karahai Kahaa Daulaavahai
+**English Title:** Waver Not in Doubt: Drink the Supreme Nectar of Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -354,21 +358,23 @@ sarab (with all) sookh (sookh) ko (unto/toward) naaiko (Lord/Master) raam (The A
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर डगमग किआ करहि कहा डुलावहि जीउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हे नासमझ मन! तू शंकाओं में क्यों डगमगाता है, और अपने हृदय को व्यर्थ क्यों डोलाता है?
+जो समस्त सुखों और आनंद का अधिपति है, उसी प्रभु-राम के नाम-अमृत का तू अघाकर पान कर!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradagamagakiaakarahikahaadulaavahijeeu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why dost thou waver in anxious doubt, why does thy fragile heart shake?
+Drink deep of the nectar of Ram's Holy Name, for all peace is His to take!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर डगमग किआ करहि कहा डुलावहि जीउ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चित्त की स्थिरता**: संसार में भय और अस्थिरता केवल तभी तक है जब तक मन बाह्य परिस्थितियों पर निर्भर है।
+2. **सर्व-सुख का स्वामी**: परमात्मा समस्त सुखों के स्रोत हैं; उनका आश्रय मिलते ही भय स्वतः विलीन हो जाता है।
 
 ---
 
 <a name="salok-4"></a>
 ## सलोक 4: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा...
-**English Title:** Salok 4: Kabaeera Kanchana Kae Kaundala Banae Ooparai Laa
+**English Title:** Golden Earrings with Rubies Are Burnt Ears without the Name
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -391,21 +397,23 @@ deesahi (deesahi) daadhe (burnt, scorched) kaan (twigs/straws) jiu (just as) jin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चाहे कानों में सोने के सुंदर कुंडल सजे हों और उन पर बहुमूल्य लाल-माणिक्य जड़े हों;
+किंतु यदि मन के भीतर प्रभु का नाम नहीं है, तो वे आभूषण व्यर्थ हैं और जले हुए कानों के समान कुरूप दिखाई देते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakanchanakekundalabaneooparilaalajadaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Though ears be adorned with rings of gold inlaid with rubies bright and fine;
+They appear like scorched, burnt ears in ruin, if the heart holds not the Name Divine!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **दाधे कान का रूपक**: कबीर बाह्य शारीरिक सजावट और अलंकारों की निरर्थकता को रेखांकित करते हैं।
+2. **नाम ही वास्तविक सौंदर्य**: आत्म-ज्ञान और ईश्वरीय प्रेम के बिना मनुष्य के राजसी आभूषण भी श्मशान की भस्म के समान हैं।
 
 ---
 
 <a name="salok-5"></a>
 ## सलोक 5: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ...
-**English Title:** Salok 5: Kabaeera Aisaa Ekau Aadhau Jao Jaeevata Mairataka
+**English Title:** Dead to the Ego While Alive: Beholding the One Everywhere
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -428,21 +436,23 @@ nirabhai (free from fear/dread) hoi (having become) kai (of) gun (virtues/merits
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+संसार में कोई विरला ही ऐसा आत्म-ज्ञानी होता है, जो जीवित रहते हुए भी अहंकार से मृतक के समान शून्य हो जाता है;
+वह सर्वथा निर्भय होकर प्रभु के पावन गुण गाता है, और जहाँ भी दृष्टि डालता है केवल उसी एक परमात्मा को देखता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaaekuaadhujojeevatamiratakuhoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Rare in this world is that awakened soul who becomes dead to self while yet alive;
+Fearless he chants celestial praises, and wherever he looks the Beloved does arrive!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जीवत मिरतकु**: देह में रहते हुए भी काम, क्रोध और 'अहं' से सर्वथा मुक्त हो जाना ही परम पद है।
+2. **निर्भयता और अद्वैत**: जो स्वयं को शून्य कर लेता है, वह मृत्यु के भय से पार हो जाता है।
 
 ---
 
 <a name="salok-6"></a>
 ## सलोक 6: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥...
-**English Title:** Salok 6: Kabaeera Jaa Daina Hau Maooaa Paachhaai Bhaiaa Ana
+**English Title:** The Day Ego Perished, Boundless Bliss Awoke
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -465,21 +475,23 @@ mohi (unto me) milio (milio) prabhu (Supreme Lord) aapana (Himself/oneself (folk
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस दिन मेरे भीतर का क्षुद्र अहंकार ('मैं-भाव') मरकर समाप्त हो गया, उसी क्षण मेरे जीवन में अखंड परमानंद का उदय हुआ;
+मुझे मेरा परम प्रियतम प्रभु साक्षात मिल गया, और अब मेरे सभी संगी-साथी भी उसी गोविंद का भजन करने लगे हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaadinahaumooaapaachhaibhaiaaanandu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Says Kabir: The fateful day my fragile ego died, boundless bliss welled in my soul;
+I was united with my Sovereign Master, and my companions now praise Govind and are made whole!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **'हउ मूआ' का रहस्य**: अहंकार ही आत्मा और परमात्मा के बीच की दीवार है।
+2. **परमानंद**: जब अहंता मिटती है तो गोविंद का साक्षात्कार होता है।
 
 ---
 
 <a name="salok-7"></a>
 ## सलोक 7: कबीर सभ ते हम बुरे हम तजि भलो सभु क...
-**English Title:** Salok 7: Kabaeera Sabha Tae Hama Baurae Hama Tajai Bhalao
+**English Title:** I Am the Lowest of All: True Friendship of the Humble
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -502,21 +514,23 @@ jini (do not/who) aisa (such/like this) kari (having done/with hands) boojhia (b
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सभ ते हम बुरे हम तजि भलो सभु कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में सब मनुष्यों से अधिक बुरा और अपूर्ण मैं स्वयं हूँ, मुझे छोड़कर संसार का प्रत्येक प्राणी भला और उत्तम है;
+जिसने अपने अंतर्मन में ऐसी निष्कपट विनम्रता को समझकर अनुभव कर लिया है, वही वास्तव में हमारा सच्चा मित्र है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasabhatehamaburehamatajibhalosabhukoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Of all beings I am the lowest and worst, everyone else is noble and good;
+He who has realized this humble truth is my true companion in brotherhood!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सभ ते हम बुरे हम तजि भलो सभु क'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अहं-शून्यता**: दूसरों में दोष देखना अज्ञान है; अपने भीतर की कमियों को देखना संत का लक्षण है।
+2. **सच्चा मित्र**: कबीर निरहंकारी साधक को ही सच्चा मित्र मानते हैं।
 
 ---
 
 <a name="salok-8"></a>
 ## सलोक 8: कबीर आई मुझहि पहि अनिक करे करि भेस ...
-**English Title:** Salok 8: Kabaeera Aaee Maujhahai Pahai Anaika Karae Karai
+**English Title:** Maya in Myriad Disguises Bows before the Master
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -539,21 +553,23 @@ ham (we mortal beings) raakhe (raakhe) gur (of the Master) aapane (one's own) un
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर आई मुझहि पहि अनिक करे करि भेस—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह माया मुझे आकर्षित करने के लिए अनेक प्रकार के मोहक वेश धारण करके मेरे सम्मुख आई;
+किंतु मेरे पूर्ण सद्गुरु ने ज्ञान का अंकुश देकर मेरी रक्षा की, और पराजित होकर उसी माया ने मुझे नतमस्तक होकर प्रणाम किया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaaeemujhahipahianikakarekaribhesa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Maya approached to enchant my soul, adorned in a thousand seductive disguises;
+Yet my Master sheltered me in His grace, and she bowed in defeat as wisdom arises!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर आई मुझहि पहि अनिक करे करि भेस '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **माया के रूप**: माया मान-बड़ाई और वासना बनकर साधक को भटकाती है।
+2. **गुरु की कृपा**: गुरु-ज्ञान के आगे माया परास्त होकर दासी बन जाती है।
 
 ---
 
 <a name="salok-9"></a>
 ## सलोक 9: कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥...
-**English Title:** Salok 9: Kabaeera Saoee Maaraeeai Jaiha Maooai Saukhau Hao
+**English Title:** Slay Only That Whose Death Brings Universal Joy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -576,21 +592,23 @@ bhalo (bhal (spiritual sense)) bhalo (bhal (spiritual sense)) sabhu (everything/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सोई मारीऐ जिह मूऐ सुखु होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि वध करना ही है तो अपने भीतर के उस अहंकार और दुर्मति को मारो, जिसके नष्ट होने पर संपूर्ण सुख की प्राप्ति होती है;
+इस आंतरिक विकार के मारे जाने पर सम्पूर्ण संसार प्रशंसा करता है, और कोई भी तनिक भी शोक या बुरा नहीं मानता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasoeemaareeaijihamooaisukhuhoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Slay only that whose dying causes supreme peace and joy to awake;
+Everyone sings praise of that righteous slaying, and none laments for its sake!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आंतरिक बलि**: कबीर बाह्य पशु-बलि को नकारते हैं; मारना है तो काम और अहंकार को मारो।
+2. **सुख का उद्गम**: आंतरिक विकारों का शमन ही अक्षय सुख देता है।
 
 ---
 
 <a name="salok-10"></a>
 ## सलोक 10: कबीर राती होवहि कारीआ कारे ऊभे जंत ...
-**English Title:** Salok 10: Kabaeera Raataee Haovahai Kaaraeeaa Kaarae Oobhae
+**English Title:** Dark Is the Night of Ignorance: The Lord Smites the Wicked
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -613,21 +631,23 @@ lai (bringing) phaahe (phaahe) uthi (having arisen) dhaavate (dhaavate) si (s (s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर राती होवहि कारीआ कारे ऊभे जंत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+अज्ञान और वासना की यह रात्रि अत्यंत काली और भयानक है, जिसमें पाप-कर्म करने वाले मलिन जीव सक्रिय होकर खड़े हैं;
+वे दूसरों का सर्वस्व लूटने के लिए फंदे लेकर दौड़ते हैं, किंतु सर्वज्ञाता परमात्मा उनके पापों को जानकर उनका समूल नाश कर देते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraateehovahikaareeaakaareoobhejanta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Dark are the nights of worldly ignorance, where sinister thieves prowl in pride;
+Carrying nooses they run to plunder, but the Lord strikes them down far and wide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर राती होवहि कारीआ कारे ऊभे जंत '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अज्ञान की रात**: पंच-विकार जीव की रूहानी पूंजी लूटने के लिए घात लगाए रहते हैं।
+2. **न्याय**: ईश्वर के विधान में पापियों का विनाश निश्चित है।
 
 ---
 
 <a name="salok-11"></a>
 ## सलोक 11: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक ...
-**English Title:** Salok 11: Kabaeera Chandana Kaa Bairavaa Bhalaa Baeड़haio
+**English Title:** The Sandalwood Tree Transforms the Surrounding Forest
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -650,21 +670,22 @@ oi (they all) bhee (also/even) chandanu (fragrant sandalwood) hoi (having become
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक पलास—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चंदन का छोटा सा पौधा भी परम कल्याणकारी है, जिसके चारों ओर साधारण ढाक और पलाश के निष्फल वृक्ष उगे रहते हैं;
+किंतु उस चंदन के निरंतर सान्निध्य में रहकर वे साधारण वृक्ष भी अपनी गंधहीनता त्यागकर स्वयं सुगंधित चंदन बन जाते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerachandanakaabiravaabhalaabedhiodhaakapalaasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Blessed is the humble sandalwood sapling encircled by ordinary trees of the wild;
+Dwelling near its perfume, even scentless timber becomes fragrant and mild!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चंदन का बिरवा भला बेड़्हिओ ढाक '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्संगति का प्रभाव**: चंदन अपने पास के पेड़ों को सुगंधित कर देता है; वैसे ही संत पतितों को पावन कर देते हैं।
 
 ---
 
 <a name="salok-12"></a>
 ## सलोक 12: कबीर बांसु बडाई बूडिआ इउ मत डूबहु क...
-**English Title:** Salok 12: Kabaeera Baansau Badaaee Baoodaiaa Iu Mata Daoo
+**English Title:** The Hollow Pride of Bamboo: Barren Beside Sandalwood
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -687,21 +708,22 @@ chandan (fragrant sandalwood) kai (of) nikate (without severing/cutting) basai (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बांसु बडाई बूडिआ इउ मत डूबहु कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+बांस अपनी अत्यधिक ऊंचाई और खोखले अभिमान के कारण ही डूबकर नष्ट हो गया, कबीर चेतावनी देते हैं कि उसकी भांति कोई मत डूबो;
+वह जीवन भर चंदन के निकट ही निवास करता रहा, फिर भी अपने आंतरिक छिद्रों और अहंकार के कारण कभी सुगंधित न हो सका!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaansubadaaeeboodiaaiumatadoobahukoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The bamboo drowned in its hollow height—let no seeker drown in such vanity and pride;
+Though dwelling forever beside the sandalwood tree, devoid of fragrance it did abide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बांसु बडाई बूडिआ इउ मत डूबहु क'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अहंकार की जड़ता**: बांस लंबा और कठोर होता है इसलिए चंदन का सान्निध्य पाकर भी सुगंध नहीं ले पाता। घमंडी व्यक्ति ज्ञान से वंचित रहता है।
 
 ---
 
 <a name="salok-13"></a>
 ## सलोक 13: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल...
-**English Title:** Salok 13: Kabaeera Daeenau Gavaaiaa Daunaee Saiu Daunaee
+**English Title:** Striking an Axe upon One's Own Feet for Worldly Praise
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -724,21 +746,24 @@ paai (broad mark (in/having done)) kuhaada (kuhaada) maaria (maaria) gaaphali (g
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाली साथि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—इस नश्वर संसार की झूठी प्रशंसा और लोभ में पड़कर मनुष्य ने अपने आध्यात्मिक धर्म और आत्म-धन को गंवा दिया;
+किंतु अंत समय में वह संसार भी उसके साथ नहीं चला; उस अज्ञानी प्रमादी ने अपने ही हाथों अपने पैरों पर कुल्हाड़ी मार ली!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradeenugavaaiaaduneesiuduneenachaaleesaath—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+For the sake of worldly wealth and fame, the mortal threw his spiritual faith away;
+Yet when death arrived, the world departed not with him along the lonely way;
+With his own reckless, heedless hands the foolish wanderer struck the blow,
+Severing his own feet with an axe, plunging his soul into bitter woe!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आध्यात्मिक हानि**: संसार की खातिर धर्म गंवाना अपने पैरों पर कुल्हाड़ी मारना है।
 
 ---
 
 <a name="salok-14"></a>
 ## सलोक 14: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥...
-**English Title:** Salok 14: Kabaeera Jaha Jaha Hau Phairaio Kautaka Thaao Tha
+**English Title:** Without the Beloved's Devotee, the Entire Cosmos Is a Wilderness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -761,21 +786,22 @@ ik (in one) raam (The All-Pervading Lord (Ram)) sanehee (sanehee (spiritual sens
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं संसार में जहाँ-जहाँ भी गया, मैंने स्थान-स्थान पर लोगों को सांसारिक कौतुक और तमाशों में उलझे देखा;
+किंतु जिस स्थान पर प्रभु-राम का सच्चा प्रेमी और साधक उपस्थित नहीं है, वह स्थान मेरी दृष्टि में नितांत उजाड़ और श्मशान के समान है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajahajahahauphiriokautakathaaothaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Wherever I roamed across the world I beheld theatrical spectacles and worldly art;
+Yet bereft of the Beloved Lord's loving devotee, it remains a desolate wilderness in my heart!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भक्त से धरती की शोभा**: जहाँ प्रभु का प्रेमी नहीं, वह स्थान उजाड़ श्मशान है।
 
 ---
 
 <a name="salok-15"></a>
 ## सलोक 15: कबीर संतन की झुंगीआ भली भठि कुसती ग...
-**English Title:** Salok 15: Kabaeera Santana Kaee Jhaungaeeaa Bhalaee Bhathai Kau
+**English Title:** Better the Saint's Humble Thatched Hut than Palaces Devoid of God
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -798,21 +824,22 @@ aagi (aagi) lagau (lagau) tih (that/their) dhaulahar (dhaulahar) jih (which) naa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संतन की झुंगीआ भली भठि कुसती गाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+प्रभु के संतों की टूटी-फूटी घास की झोपड़ी भी परम पावन और उत्तम है, जबकि कुकर्मियों और ईश्वर-विमुखों का समृद्ध गांव भी जलती हुई भट्ठी के समान त्याज्य है;
+आग लग जाए उन गगनचुंबी धवल महलों और अटारियों में, जहाँ बैठकर कभी उस परमात्मा के पावन नाम का उच्चारण नहीं किया जाता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasantanakeejhungeeaabhaleebhathikusateegaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Blessed is the humble thatched hut of the saints, while the sinner's village is a burning pyre;
+May those towering palatial mansions without the Lord's Name be consumed in roaring fire!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संतन की झुंगीआ भली भठि कुसती ग'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **त्याग और सादगी**: नाम-विहीन महल नरक के समान हैं; संत की झोपड़ी वैकुंठ है।
 
 ---
 
 <a name="salok-16"></a>
 ## सलोक 16: कबीर संत मूए किआ रोईऐ जो अपुने ग्रि...
-**English Title:** Salok 16: Kabaeera Santa Maooe Kaiaa Raoeeai Jao Apaunae
+**English Title:** Weep Not for the Saint Returning Home, Weep for the Reborn Sceptic
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -835,21 +862,22 @@ rovahu (rovahu) saakat (saakat) baapure (lowly/helpless) ju (who/whoever) haatai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संत मूए किआ रोईऐ जो अपुने ग्रिहि जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—किसी सच्चे संत के देहावसान पर भला क्यों रोना, वह तो इस नश्वर कारागार से छूटकर अपने वास्तविक निज-धाम को लौट रहा है;
+रोना है तो उस अभागे ईश्वर-विमुख (साक्त) के लिए रोओ, जो चौरासी लाख योनियों के हाट-बाजार में बार-बार बिकने और भटकने जा रहा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasantamooekiaaroeeaijoapunegrihija—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why weep when the holy saint departs, for he returns unto his own celestial home of grace;
+Mourn rather for the miserable sceptic who is sold from market to market in rebirth's maze!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संत मूए किआ रोईऐ जो अपुने ग्रि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निज-घर गमन**: संत मृत्यु के बाद अपने वास्तविक घर (परमात्मा) जाते हैं; साक्त चौरासी में भटकता है।
 
 ---
 
 <a name="salok-17"></a>
 ## सलोक 17: कबीर साकतु ऐसा है जैसी लसन की खानि ...
-**English Title:** Salok 17: Kabaeera Saakatau Aisaa Haai Jaaisaee Lasana Kaee
+**English Title:** The Godless Sceptic Is like an Incurable Store of Garlic
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -872,21 +900,22 @@ kone (kone) baithe (seated pl.) khaaeeai (khaaeeai) paragat (paragat) hoi (havin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साकतु ऐसा है जैसी लसन की खानि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर से विमुख साक्त मनुष्य लहसुन की दुर्गंधित खान के समान होता है;
+लहसुन को चाहे घर के सबसे गुप्त कोने में बैठकर एकांत में खाया जाए, किंतु अंततः उसकी दुर्गंध चारों दिशाओं में प्रकट होकर ही रहती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaakatuaisaahaijaiseelasanakeekhaani—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The godless cynic is like a storehouse of garlic, foul and pungent in nature and core;
+Though eaten in the darkest hidden corner, its stench spills through the threshold door!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साकतु ऐसा है जैसी लसन की खानि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **लहसुन का रूपक**: साक्त के दुर्गुण छिप नहीं सकते, वे अंततः प्रकट हो ही जाते हैं।
 
 ---
 
 <a name="salok-18"></a>
 ## सलोक 18: कबीर माइआ डोलनी पवनु झकोलनहारु ॥...
-**English Title:** Salok 18: Kabaeera Maaiaa Daolanaee Pavanau Jhakaolanahaarau
+**English Title:** Maya as the Churning Pot: Saints Feast upon the Butter
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -909,21 +938,22 @@ santahu (O holy saints!) maakhanu (maakhanu) khaaia (khaaia) chhaachhi (chhaachh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माइआ डोलनी पवनु झकोलनहारु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+यह संपूर्ण संसार और माया दही मथने वाली मथानी के समान है और निरंतर चलती श्वास-प्रश्वास इसे मथने वाला झकोरू है;
+संतों ने ज्ञान के मंथन से सत्य का शुद्ध मक्खन निकाल कर ग्रहण कर लिया, जबकि अज्ञानी संसारी लोग केवल बची हुई खट्टी छाछ ही पीते रह गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaaiaadolaneepavanujhakolanahaaru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Maya is the churning pot, and the vital breath swings the churning cord day by day;
+The wise saints feasted upon the pure butter of Truth, while worldly fools drink the sour whey!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माइआ डोलनी पवनु झकोलनहारु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मक्खन और छाछ**: संतों ने आत्म-ज्ञान रूपी मक्खन पाया; संसारी विषयों की छाछ में उलझे रहे।
 
 ---
 
 <a name="salok-19"></a>
 ## सलोक 19: कबीर माइआ डोलनी पवनु वहै हिव धार ॥...
-**English Title:** Salok 19: Kabaeera Maaiaa Daolanaee Pavanau Vahaai Haiva Dha
+**English Title:** Churning with Serene Discipline: The Harvest of Truth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -946,21 +976,22 @@ jini (do not/who) biloia (biloia) tini (they/them (in/having done)) khaaia (khaa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माइआ डोलनी पवनु वहै हिव धार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+माया की इस मथानी में जब अंतःकरण की शीतल बर्फ जैसी शांत धारा बहती है और संयम से मंथन होता है;
+तब जिस विवेकी साधक ने अपने चित्त को मथा उसने आत्म-ज्ञान का अमृत पा लिया, जबकि शेष संसार व्यर्थ के प्रपंचों में ही मथता रह गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaaiaadolaneepavanuvahaihivadhaara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+When through the churning vessel of life a stream of serene stillness begins to pour;
+He who truly churned the depths gathered the nectar, while others toil blindly upon the shore!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माइआ डोलनी पवनु वहै हिव धार ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शीतल साधना**: चित्त की शांति में ही सत्य का मंथन सफल होता है।
 
 ---
 
 <a name="salok-20"></a>
 ## सलोक 20: कबीर माइआ चोरटी मुसि मुसि लावै हाटि...
-**English Title:** Salok 20: Kabaeera Maaiaa Chaorataee Mausai Mausai Laavaai
+**English Title:** Maya the Master Thief Plunders All, but Spares Awakened Kabir
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -983,21 +1014,22 @@ eku (The One Supreme Lord) kabeera (Sant Kabir) na (not) musai (musai) jini (do 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माइआ चोरटी मुसि मुसि लावै हाटि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह माया अत्यंत चतुर चोरनी है, जो प्रत्येक मनुष्य की रूहानी पूंजी को चुरा-चुराकर संसार के हाट में नीलाम करती है;
+किंतु केवल एक कबीर ही इस चोरनी द्वारा लूटा न जा सका, जिसने ज्ञान का खड्ग लेकर उसके स्वयं बारह टुकड़े कर दिए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaaiaachorateemusimusilaavaihaati—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Maya is the cunning thief who robs mortals of their divine wealth and sells them in the mart;
+Only Kabir stood unplundered, whose wisdom severed her twelve deceptive paths apart!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माइआ चोरटी मुसि मुसि लावै हाटि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **माया का दमन**: कबीर ने ज्ञान से माया के बारह द्वारों को खंडित कर दिया।
 
 ---
 
 <a name="salok-21"></a>
 ## सलोक 21: कबीर सूखु न एंह जुगि करहि जु बहुतै ...
-**English Title:** Salok 21: Kabaeera Saookhau Na Enha Jaugai Karahai Jau Ba
+**English Title:** Futility of Many Worldly Friends: Eternal Peace in the One
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1020,21 +1052,22 @@ jo (that) chitu (inner mind) raakhahi (raakhahi) ek (equal and one) siu (with/fr
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सूखु न एंह जुगि करहि जु बहुतै मीत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—इस नश्वर संसार में बहुत से सांसारिक मित्र बनाने से कभी सच्चा सुख नहीं मिल सकता;
+जो साधक अपने चित्त को केवल उस एक परमात्मा से जोड़कर रखता है, वही नित्य और अखंड शांति का भोग करता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasookhunaenhajugikarahijubahutaimeeta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Says Kabir: No true peace is found in amassing countless worldly friends;
+He who anchors his mind in the One Supreme Lord alone attains bliss that never ends!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सूखु न एंह जुगि करहि जु बहुतै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **एक साधे सब सधै**: अनेकों सांसारिक संबंधों में मन बिखर जाता है; एक परमात्मा में चित्त लगाने से अखंड सुख मिलता है।
 
 ---
 
 <a name="salok-22"></a>
 ## सलोक 22: कबीर जिसु मरने ते जगु डरै मेरे मनि ...
-**English Title:** Salok 22: Kabaeera Jaisau Maranae Tae Jagau Daraai Maerae
+**English Title:** The Ecstasy of Spiritual Dying: Attaining Supreme Bliss
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1057,21 +1090,22 @@ marane (to die) hee (alone/only) te (from/by) paaeeai (paaeeai) pooranu (The Per
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जिसु मरने ते जगु डरै मेरे मनि आनंदु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस मृत्यु के नाम से यह संपूर्ण संसार भयभीत होकर कांपता है, उसी के स्मरण से मेरे मन में परमानंद उमड़ता है;
+क्योंकि अहंकार और देह-अभिमान के इस मरने से ही उस पूर्ण परब्रह्म परमात्मा के साक्षात आनंद की प्राप्ति होती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajisumaranetejagudaraimeremaniaanandu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+That death at which the whole world trembles in terror brings bliss unto my soul;
+For through this spiritual dying alone is attained the Supreme Lord, complete and whole!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जिसु मरने ते जगु डरै मेरे मनि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अहंकार की मृत्यु**: भौतिक मृत्यु भय देती है, किंतु अहं-भाव की मृत्यु आत्मा को परमात्मा से मिलाकर अमर कर देती है।
 
 ---
 
 <a name="salok-23"></a>
 ## सलोक 23: राम पदारथु पाइ कै कबीरा गांठि न खोल...
-**English Title:** Salok 23: Raama Padaarathau Paai Kaai Kabaeeraa Gaanthai
+**English Title:** The Inestimable Jewel of Ram: Open Not the Bundle Before Fools
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1094,21 +1128,22 @@ nahee (not) patanu (patanu) nahee (not) paarakhoo (paarakhoo) nahee (not) gaahak
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: राम पदारथु पाइ कै कबीरा गांठि न खोल्ह—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब तुझे राम-नाम रूपी अनमोल परम पदार्थ प्राप्त हो गया है, तो उसकी गांठ को अपात्रों के आगे व्यर्थ मत खोल;
+क्योंकि इस संसार में न तो कोई पारखी है, न कोई ग्राहक है, न कोई इसका सच्चा कद्रदान है और न ही कोई इसका वास्तविक मूल्य जानता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: raamapadaarathupaaikaikabeeraagaanthinakholha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Having obtained the jewel of Ram's Name, O Kabir, untie not thy bundle in haste;
+There is no market, no connoisseur, no customer, and none who knows its worth in this waste!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'राम पदारथु पाइ कै कबीरा गांठि न खोल'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रूहानी रहस्य की रक्षा**: ब्रह्म-ज्ञान अपात्रों के सामने प्रकट करने से उपहास होता है; इसे जिज्ञासु साधकों के लिए ही सहेजना चाहिए।
 
 ---
 
 <a name="salok-24"></a>
 ## सलोक 24: कबीर ता सिउ प्रीति करि जा को ठाकुरु...
-**English Title:** Salok 24: Kabaeera Taa Saiu Paraeetai Karai Jaa Kao Tha
+**English Title:** Love the Servant of Ram: Worldly Kings Are of No Avail
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1131,21 +1166,22 @@ pandit (learned scholar/priest) raaje (realm/kingdom related) bhoopatee (bhoopat
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ता सिउ प्रीति करि जा को ठाकुरु रामु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में केवल उसी संत-महात्मा से प्रीति और नाता जोड़, जिसका एकमात्र स्वामी वह घट-घट वासी राम है;
+अहंकारी पंडित, राजा और चक्रवर्ती भूपति अंत समय में भला तेरे किस काम आ सकेंगे?
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerataasiupreetikarijaakothaakururaamu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Says Kabir: Fasten thy love unto him alone whose Sovereign Master is Ram;
+Of what avail are earthly pandits, rulers, and monarchs when death rings its calm?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ता सिउ प्रीति करि जा को ठाकुरु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सच्चा आश्रय**: सांसारिक सत्ताएं स्वयं नश्वर हैं; केवल राम का दास ही भवसागर से पार उतार सकता है।
 
 ---
 
 <a name="salok-25"></a>
 ## सलोक 25: कबीर प्रीति इक सिउ कीए आन दुबिधा जा...
-**English Title:** Salok 25: Kabaeera Paraeetai Ika Saiu Kaeee Aana Daubai
+**English Title:** Loving the One Erases Doubt: Matted Locks or Shaved Head Matter Not
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1168,21 +1204,22 @@ bhaavai (as pleases the heart) laanbe (laanbe) kes (kes) karu (hand/deed) bhaava
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर प्रीति इक सिउ कीए आन दुबिधा जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उस एक अद्वितीय परमात्मा से अनन्य प्रेम करने पर ही मन की संपूर्ण दुविधा और भटकाव नष्ट होता है;
+फिर चाहे कोई सिर पर लंबी जटाएं रख ले या सिर को घोंटकर मुंडवा ले, बाह्य वेशभूषा से कोई आध्यात्मिक अंतर नहीं पड़ता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapreetiikasiukeeeaanadubidhaajaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Loving the One Lord alone, all inner doubts and divisions melt away;
+Whether one keeps long matted hair or shaves the head bald, external forms hold no sway!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर प्रीति इक सिउ कीए आन दुबिधा जा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आंतरिक भक्ति बनाम बाह्य भेख**: कबीर केश रखने या मुंडवाने को महत्वहीन मानते हैं; महत्व केवल हृदय के प्रेम का है।
 
 ---
 
 <a name="salok-26"></a>
 ## सलोक 26: कबीर जगु काजल की कोठरी अंध परे तिस ...
-**English Title:** Salok 26: Kabaeera Jagau Kaajala Kaee Kaotharaee Andha Parae
+**English Title:** The World Is a Chamber of Soot: Blessed Are Those Who Emerge Clean
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1205,21 +1242,22 @@ hau (I/ego) balihaaree (balihaaree) tin (they/them) kau (unto) paisi (paisi) ju 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जगु काजल की कोठरी अंध परे तिस माहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह संपूर्ण संसार कालिख और काजल की अंधेरी कोठरी के समान है, जिसमें अज्ञानी अंधे होकर गिरते हैं;
+मैं तो उन विरले संतों पर बलिहारी जाता हूँ, जो इस मायावी संसार में रहकर भी सर्वथा निर्लिप्त और बेदाग बाहर निकल आते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajagukaajalakeekothareeandhaparetisamaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This world is a chamber of pitch-black soot where blind fools fall in defeat;
+All sacrifice am I unto those pure souls who enter and emerge unstained and sweet!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जगु काजल की कोठरी अंध परे तिस '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **काजल की कोठरी**: संसार में काम-क्रोध की कालिख हर ओर है; केवल हरि-भक्त ही इससे अछूते रह पाते हैं।
 
 ---
 
 <a name="salok-27"></a>
 ## सलोक 27: कबीर इहु तनु जाइगा सकहु त लेहु बहोर...
-**English Title:** Salok 27: Kabaeera Ihau Tanau Jaaigaa Sakahau Ta Laehau
+**English Title:** This Body Shall Pass: The Wealthiest Departed Barefoot
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1242,21 +1280,22 @@ naange (naange) paavahu (paavahu) te (from/by) gae (went) jin (jin) ke (of) laak
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर इहु तनु जाइगा सकहु त लेहु बहोरि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह नश्वर शरीर अवश्य ही मृत्यु को प्राप्त होगा, यदि किसी में सामर्थ्य हो तो इसे रोककर दिखा दे;
+जिनके पास लाखों और करोड़ों की अपार धन-संपत्ति थी, वे भी अंत समय में खाली हाथ और नंगे पैर ही विदा हुए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraihutanujaaigaasakahutalehubahori—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This physical body shall surely perish—hold it back if thou hast the power;
+Those who possessed millions and billions departed barefoot in their final hour!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर इहु तनु जाइगा सकहु त लेहु बहोर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मृत्यु की अनिवार्यता**: कोई भी औषधि या धन शरीर को अमर नहीं बना सकता; सब नंगे पैर ही जाते हैं।
 
 ---
 
 <a name="salok-28"></a>
 ## सलोक 28: कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥...
-**English Title:** Salok 28: Kabaeera Ihau Tanau Jaaigaa Kavanaai Maaragai
+**English Title:** Employ This Perishing Clay in Holy Fellowship or Divine Song
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1279,21 +1318,22 @@ kai (of) sangati (holy company) kari (having done/with hands) saadh (saint) kee 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर इहु तनु जाइगा कवनै मारगि लाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब यह शरीर निश्चित ही नष्ट होने वाला है, तो इसे किस श्रेष्ठ और कल्याणकारी मार्ग में लगाया जाए?
+या तो निष्कपट भाव से सच्चे संतों की संगति कर, या फिर अपने अंतर्मन से परमात्मा के पावन गुणों का गान कर!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraihutanujaaigaakavanaimaaragilaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Since this mortal clay must surely pass away, in what noble pathway should it be applied?
+Either keep company with the humble saints, or sing the virtues of the Lord far and wide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सार्थक जीवन**: जब देह मिटनी ही है, तो इसे सत्संग और सिमरन में लगाना ही परम बुद्धिमत्ता है।
 
 ---
 
 <a name="salok-29"></a>
 ## सलोक 29: कबीर मरता मरता जगु मूआ मरि भी न जान...
-**English Title:** Salok 29: Kabaeera Marataa Marataa Jagau Maooaa Marai Bhaee
+**English Title:** The Art of Dying to the Ego: Dying Thus One Dies No More
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1316,21 +1356,22 @@ aise (like this) marane (to die) jo (that) marai (dies (does/becomes)) bahuri (a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मरता मरता जगु मूआ मरि भी न जानिआ कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार का प्रत्येक प्राणी बार-बार मरता हुआ काल के गाल में समाता रहा, किंतु किसी ने भी मरने की सच्ची कला को नहीं जाना;
+जो जीते जी अपने अहंकार से मरकर परमात्मा में लीन हो जाता है, उसे फिर कभी जन्म-मरण के चक्र में नहीं मरना पड़ता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramarataamarataajagumooaamaribheenajaaniaako—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Dying and dying the entire world perished, yet none knew how to truly die;
+He who dies to self in spiritual awakening shall never again in mortality lie!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मरता मरता जगु मूआ मरि भी न जान'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सच्ची मृत्यु**: शारीरिक मृत्यु अज्ञान में होती है; अहंकार की मृत्यु मोक्ष प्रदान करती है।
 
 ---
 
 <a name="salok-30"></a>
 ## सलोक 30: कबीर मानस जनमु दुल्मभु है होइ न बार...
-**English Title:** Salok 30: Kabaeera Maanasa Janamau Daulamabhau Haai Haoi
+**English Title:** Rare Human Birth: The Fallen Fruit Returns Not to the Bough
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1353,21 +1394,22 @@ jiu (just as) ban (forest) phal (fruit, divine realization) paake (paake) bhui (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मानस जनमु दुल्मभु है होइ न बारै बार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह मानव जन्म अत्यंत दुर्लभ है, यह अवसर बार-बार प्राप्त नहीं होता;
+जैसे जंगल का पका हुआ फल एक बार टूटकर धरती पर गिर जाए, तो वह पुनः कभी वृक्ष की डाल पर नहीं लग सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaanasajanamudulmabhuhaihoinabaaraibaar—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Rare and priceless is this human birth, it is not granted again and again;
+Like the ripe fruit falling from the forest tree, which never can return to the branch in vain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मानस जनमु दुल्मभु है होइ न बार'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अवसर की दुर्लभता**: मानव देह मुक्ति का एकमात्र साधन है; इसे गंवाने पर चौरासी का चक्र ही शेष रहता है।
 
 ---
 
 <a name="salok-31"></a>
 ## सलोक 31: कबीरा तुही कबीरु तू तेरो नाउ कबीरु ...
-**English Title:** Salok 31: Kabaeeraa Tauhaee Kabaeerau Taoo Taerao Naau Ka
+**English Title:** Thou Alone Art Kabir: Ram-Jewel Found When Body Is Renounced
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1390,21 +1432,22 @@ raam (The All-Pervading Lord (Ram)) ratanu (gem) tab (at that time/then) paaeeai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरा तुही कबीरु तू तेरो नाउ कबीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे प्रभु! तू ही वास्तव में सबसे महान (कबीर) है और तेरा पावन नाम ही सबसे ऊंचा है;
+राम-नाम का वह दिव्य रत्न केवल तभी प्राप्त होता है, जब साधक सर्वप्रथम अपने देह-अभिमान और अहंकार का त्याग कर देता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraatuheekabeerutooteronaaukabeeru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Thou alone art Kabir, the Supreme and Great, and Thy Name is elevated on high;
+The jewel of Ram is attained only when the seeker surrenders bodily pride and dies!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरा तुही कबीरु तू तेरो नाउ कबीरु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **'कबीर' का अर्थ**: अरबी में कबीर का अर्थ 'महान' (अकबर/ईश्वर) है। कबीर स्वयं को नहीं, परमात्मा को ही सच्चा कबीर कहते हैं।
 
 ---
 
 <a name="salok-32"></a>
 ## सलोक 32: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ...
-**English Title:** Salok 32: Kabaeera Jhankhau Na Jhankhaeeai Taumarao Kahaio Na
+**English Title:** Grieve Not in Vain: The Decrees of the Merciful Lord Cannot Be Erased
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1427,21 +1470,22 @@ karam (rituals) kareem (Bountiful Lord) ju (who/whoever) kari (having done/with 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—व्यर्थ चिंता और विलाप मत कर, तेरे चाहने या कहने से संसार की कोई घटना नहीं घटती;
+उस दयालु सृजनहार करीम परमात्मा ने जो विधान और कर्म निर्धारित कर दिया है, उसे तीनों लोकों में कोई मिटा नहीं सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajhankhunajhankheeaitumarokahionahoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Grieve not in anxious lamentation, for naught occurs at thy frail command;
+The destiny decreed by the Merciful Creator none can alter or withstand!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **ईश्वरीय रज़ा**: परमात्मा का विधान अटल है; व्यर्थ चिंता छोड़ प्रभु-इच्छा में संतुष्ट रहना ही भक्ति है।
 
 ---
 
 <a name="salok-33"></a>
 ## सलोक 33: कबीर कसउटी राम की झूठा टिकै न कोइ ॥...
-**English Title:** Salok 33: Kabaeera Kasautaee Raama Kaee Jhaoothaa Taikaai Na
+**English Title:** The Touchstone of Ram: Only the Self-Sacrificing Endures
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1464,21 +1508,22 @@ raam (The All-Pervading Lord (Ram)) kasautee (kasautee) so (that/the same) sahai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कसउटी राम की झूठा टिकै न कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा राम की पावन कसौटी पर कोई भी झूठा या पाखंडी टिक नहीं सकता;
+राम की उस कठोर कसौटी को केवल वही सच्चा साधक सहन कर पाता है, जो जीते जी अहंकार से मरकर आत्मा में जाग्रत हो चुका हो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakasauteeraamakeejhoothaatikainakoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Upon the touchstone of Ram no counterfeit metal can ever stand or stay;
+Only he endures the divine touchstone who dies to self and lives in spirit today!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कसउटी राम की झूठा टिकै न कोइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्य की कसौटी**: ईश्वर के दरबार में दिखावा नहीं चलता; केवल निष्कपट और समर्पित अंतःकरण ही खरा उतरता है।
 
 ---
 
 <a name="salok-34"></a>
 ## सलोक 34: कबीर ऊजल पहिरहि कापरे पान सुपारी खा...
-**English Title:** Salok 34: Kabaeera Oojala Pahairahai Kaaparae Paana Saupaa
+**English Title:** Spotless Robes and Betel-Nuts: Bound to the Realm of Death without the Name
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1501,21 +1546,22 @@ ekas (ekas) hari (The Lord who dispels grief (Hari)) ke (of) naam (Divine Name) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऊजल पहिरहि कापरे पान सुपारी खाहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+वे बाहर से उज्ज्वल और श्वेत वस्त्र धारण करते हैं तथा मुख में स्वादिष्ट पान और सुपारी चबाते हैं;
+किंतु उस एक परमात्मा के पावन नाम के स्मरण के बिना, वे अंत समय में यमदूतों द्वारा बांधकर यमलोक को ले जाए जाते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraoojalapahirahikaaparepaanasupaareekhaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+They wear spotless garments of white and chew betel-leaf with fragrant spice;
+Yet bereft of the One Lord's Name, they are bound and led away into death's vice!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऊजल पहिरहि कापरे पान सुपारी खा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शारीरिक विलास की नश्वरता**: श्वेत वस्त्र और सुगंधित पान मनुष्य को मृत्यु के पाश से नहीं बचा सकते; केवल राम-नाम ही रक्षा करता है।
 
 ---
 
 <a name="salok-35"></a>
 ## सलोक 35: कबीर बेड़ा जरजरा फूटे छेंक हजार ॥...
-**English Title:** Salok 35: Kabaeera Baeड़a Jarajaraa Phaootae Chhaenka Hajaara
+**English Title:** The Leaking Vessel of a Thousand Holes: The Light-Burdened Cross Over
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1538,21 +1584,22 @@ harooe (harooe) harooe (harooe) tiri (tiri) gae (went) doobe (doobe) jin (jin) s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बेड़ा जरजरा फूटे छेंक हजार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार-समुद्र में तैरने वाली यह देह रूपी नाव अत्यंत जर्जर है और इसमें हजारों छिद्र हो चुके हैं;
+जो मोह-माया के भारी बोझ से मुक्त होकर हलके थे, वे सहज ही तैरकर पार हो गए, किंतु जिनके सिर पर पापों का भारी बोझ था वे बीच भंवर में डूब गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabedaajarajaraaphootechhenkahajaara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Dilapidated is the mortal raft, broken with a thousand gaping holes and leaks;
+Those lightened of worldly load crossed over, while the heavy-laden sank in the deeps!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बेड़ा जरजरा फूटे छेंक हजार ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जरजरा बेड़ा**: शरीर इन्द्रियों के छिद्रों से रिस रहा है; वासनाओं का बोझ ढोने वाले डूब जाते हैं, संन्यास-भाव वाले तैर जाते हैं।
 
 ---
 
 <a name="salok-36"></a>
 ## सलोक 36: कबीर हाड जरे जिउ लाकरी केस जरे जिउ ...
-**English Title:** Salok 36: Kabaeera Haada Jarae Jaiu Laakaraee Kaesa Jarae
+**English Title:** Bones Burn like Firewood, Hair like Dry Grass: Kabir's Detachment
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1575,21 +1622,22 @@ ihu (this) jagu (the world/mortal realm) jarata (jarata) dekhi (beholding relate
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हाड जरे जिउ लाकरी केस जरे जिउ घासु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+चिता की अग्नि में मनुष्य की कठोर हड्डियां सूखी लकड़ी के समान जलती हैं, और सुंदर केश सूखे तिनकों व घास की तरह धू-धू कर जल जाते हैं;
+इस संपूर्ण संसार को इस प्रकार नश्वरता की दावानल में जलता हुआ देखकर कबीर का अंतर्मन संसार के प्रति पूर्णतः विरक्त और उदासीन हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahaadajarejiulaakareekesajarejiughaasu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Bones burn like dry firewood upon the pyre, and hair burns away like withered straw;
+Beholding this whole world burning in mortality, detached is Kabir in sacred awe!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हाड जरे जिउ लाकरी केस जरे जिउ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **श्मशान-वैराग्य नहीं, स्थायी बोध**: शरीर का यह अंत देखकर कबीर संसार के नश्वर सुखों से मुक्त होकर परमात्मा की शरण लेते हैं।
 
 ---
 
 <a name="salok-37"></a>
 ## सलोक 37: कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥...
-**English Title:** Salok 37: Kabaeera Garabau Na Kaeejaeeai Chaama Lapaetae Haa
+**English Title:** Pride Not in Skin-Wrapped Bones: Monarchs Lie Buried in the Dirt
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1612,21 +1660,22 @@ haivar (haivar) oopari (upon) chhatr (chhatr) tar (tree) te (from/by) phuni (aga
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गरबु न कीजीऐ चाम लपेटे हाड—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चमड़े से लिपटी हुई इन नश्वर हड्डियों के ढांचे पर रंचमात्र भी गर्व और अहंकार मत करो;
+जो अभिमानी कभी उत्तम घोड़ों पर सवार होकर राजसी छत्रों के नीचे चलते थे, वे भी अंततः इसी मिट्टी की धरती में दफन होकर खाक हो गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragarabunakeejeeaichaamalapetehaada—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Boast not in haughty pride over this brittle frame of bones wrapped in mortal skin;
+Those who rode majestic steeds beneath royal parasols lie buried the dust within!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **देह का यथार्थ**: शरीर केवल हड्डियों और चाम का खोल है; इस पर अहंकार करना अज्ञान की पराकाष्ठा है।
 
 ---
 
 <a name="salok-38"></a>
 ## सलोक 38: कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥...
-**English Title:** Salok 38: Kabaeera Garabau Na Kaeejaeeai Oochaa Daekhai Avaa
+**English Title:** Boast Not of Towering Palaces: Tomorrow Wild Grass Shall Sprout Over Thee
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1649,21 +1698,24 @@ aaju (aaj (spiritual sense)) kaalhi (kaalhi) bhui (bhui) letana (letana) oopari 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गरबु न कीजीऐ ऊचा देखि अवासु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अपने ऊंचे-ऊंचे भव्य महलों और अट्टालिकाओं को देखकर कभी अहंकार मत करो;
+आज या कल में तुझे इसी मिट्टी की धरती पर सीधे लेटना पड़ेगा, और तेरी उस देह के ऊपर जंगली घास उगकर लहराएगी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragarabunakeejeeaioochaadekhiavaasu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Pride not thyself beholding thy lofty towers and palaces towering high;
+Today or on the morrow flat upon the earth beneath the sod thou must lie,
+And wild green grass shall sprout and wave above thy silent sleeping head;
+Remember the final dust, and cast away the vanity of the dead!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भवनों की क्षणभंगुरता**: आज के महल कल के खंडहर बन जाते हैं; मनुष्य की स्थायी भूमि केवल साढ़े तीन हाथ मिट्टी है।
 
 ---
 
 <a name="salok-39"></a>
 ## सलोक 39: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥...
-**English Title:** Salok 39: Kabaeera Garabau Na Kaeejaeeai Rankau Na Hasaeeai
+**English Title:** Mock Not the Poor Pauper: Thy Own Boat Is Still upon the Waves
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1686,21 +1738,24 @@ ajahu (even today/still) su (that) naau (name) samundr (samundr) mahi (within/in
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अपने ऐश्वर्य का घमंड मत करो और किसी निर्धन, असहाय व रंक व्यक्ति का कभी उपहास मत उड़ाओ;
+क्योंकि तेरी अपनी जीवन-नौका भी अभी संसार के तूफानी समुद्र के बीच डोल रही है, कौन जानता है कि अगले क्षण तेरे साथ क्या घटित हो जाए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragarabunakeejeeairankunahaseeaikoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Take no pride in thy temporary fortune, and laugh not at the destitute and poor;
+Thy own fragile vessel still tosses upon the high seas, far from the peaceful shore;
+Who knows what sudden tempest may rise, or what fate shall strike thy mast?
+Humble thy heart before the Divine, while life's uncertain moments last!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अस्थिरता का बोध**: आज जो राजा है वह कल रंक बन सकता है। किसी की विपत्ति पर हंसना अज्ञान है।
 
 ---
 
 <a name="salok-40"></a>
 ## सलोक 40: कबीर गरबु न कीजीऐ देही देखि सुरंग ॥...
-**English Title:** Salok 40: Kabaeera Garabau Na Kaeejaeeai Daehaee Daekhai Sau
+**English Title:** This Fair Body Cast Off like a Serpent's Sloughed Skin
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1723,21 +1778,24 @@ aaju (aaj (spiritual sense)) kaalhi (kaalhi) taji (having renounced) jaahuge (ja
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गरबु न कीजीऐ देही देखि सुरंग—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—इस शरीर के गोरे रंग और रूप-सौंदर्य को देखकर मन में रंचमात्र भी गर्व मत करो;
+आज या कल में तू इस शरीर को उसी प्रकार सदा के लिए त्यागकर चला जाएगा, जैसे सर्प अपनी पुरानी केंचुल को छोड़कर आगे बढ़ जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragarabunakeejeeaideheedekhisuranga—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Boast not in pride beholding this fair-complexioned physical form so bright;
+Today or tomorrow thou shalt cast it off and depart into the silent night,
+Even as the wandering serpent sloughs its withered skin upon the ground;
+And travels forth into the wild, leaving the lifeless husk unbound!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गरबु न कीजीऐ देही देखि सुरंग ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **केंचुल का रूपक**: गीता के 'वासांसि जीर्णानि' की भांति कबीर देह को सर्प की केंचुल बताते हैं जो आत्मा का केवल बाहरी आवरण है।
 
 ---
 
 <a name="salok-41"></a>
 ## सलोक 41: कबीर लूटना है त लूटि लै राम नाम है ...
-**English Title:** Salok 41: Kabaeera Laootanaa Haai Ta Laootai Laai Raama Naa
+**English Title:** Plunder the Plunder of Ram's Name: Regret Follows Death
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1760,21 +1818,24 @@ phiri (then (in/having done)) paachhai (afterwards, in the aftermath) pachhutaah
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर लूटना है त लूटि लै राम नाम है लूटि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि तुझे अपनी मुक्ति के लिए कुछ लूटना है, तो इस सुलभ राम-नाम के खजाने को जी-भरकर लूट ले;
+अन्यथा जब मृत्यु का क्षण आएगा और देह से प्राण छूट जाएंगे, तब पश्चाताप और विलाप के अतिरिक्त तेरे हाथ कुछ न लगेगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeralootanaahaitalootilairaamanaamahailooti—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Plunder while thou hast strength the open bounty of Ram's Holy Name;
+Lest when the appointed hour strikes and life departs from thy mortal frame,
+Thou shalt wander in bitter regret, weeping for the wasted golden chance;
+Awaken now from thy slumber and join the eternal spiritual dance!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर लूटना है त लूटि लै राम नाम है '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **नाम की लूट**: सत्संग में परमात्मा का नाम मुक्त रूप से बंट रहा है; इसे संचित करना ही जीवन की सफलता है।
 
 ---
 
 <a name="salok-42"></a>
 ## सलोक 42: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै ...
-**English Title:** Salok 42: Kabaeera Aisaa Kaoee Na Janamaio Apanaai Gharai
+**English Title:** Set Fire to Thy Worldly House: Incinerate the Five Adversaries
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1797,21 +1858,24 @@ paanchau (paanchau) larika (larika) jaari (jaari (spiritual sense)) kai (of) rah
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै आगि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में कोई ऐसा विरला शूरवीर दिखाई नहीं देता, जो अपने मोह-ममता के घर में ज्ञान की आग लगा दे;
+और अपने पांचों काम, क्रोध, लोभ, मोह, अहंकार रूपी पुत्रों को भस्म करके, अनन्य भाव से केवल प्रभु-राम के चरणों में लौ लगाए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaakoeenajanamioapanaigharilaavaiaagi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Scarce is the brave warrior born who dares set fiery torch unto his worldly house;
+Burning the five rebellious offspring of desire, anger, greed, ego, and delusion to ashes,
+To fix his unbroken consciousness in the pure flame of Ram alone,
+And ascend beyond all earthly bounds unto the Beloved's eternal throne!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा कोई न जनमिओ अपनै घरि लावै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **घर में आग लगाना (Mystic Paradox)**: यहाँ घर भौतिक मकान नहीं, बल्कि देह और मन का मोह है। पांच लड़के पांच आंतरिक विकार हैं।
 
 ---
 
 <a name="salok-43"></a>
 ## सलोक 43: को है लरिका बेचई लरिकी बेचै कोइ ॥...
-**English Title:** Salok 43: Kao Haai Laraikaa Baechaee Laraikaee Baechaai Kao
+**English Title:** Who Sells His Son and Daughter to Partner with Kabir in Hari's Trade
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1834,21 +1898,24 @@ saajha (saajha) karai (doing (does/by)) kabeer (Sant Kabir) siu (with/from) hari
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: को है लरिका बेचई लरिकी बेचै कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+संसार में ऐसा कौन त्यागी है जो अपनी सांसारिक संतानों के मोह को विसर्जित करके कबीर के साथ सच्ची साझेदारी करे;
+और कबीर के संग मिलकर केवल परमात्मा हरि के पावन नाम का अमर व्यापार करे?
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kohailarikaabechaeelarikeebechaikoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Who is there who will surrender attachment to worldly sons and daughters fair,
+To enter into sacred partnership with Kabir in holy enterprise and care,
+Carrying on the immortal commerce of the Supreme Lord's Sacred Name,
+Trading earthly delusion for the imperishable celestial flame?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'को है लरिका बेचई लरिकी बेचै कोइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संतान-मोह का त्याग**: कबीर लौकिक ममता के बंधनों को त्यागकर ईश्वर-भक्ति की साझेदारी का आह्वान करते हैं।
 
 ---
 
 <a name="salok-44"></a>
 ## सलोक 44: कबीर इह चेतावनी मत सहसा रहि जाइ ॥...
-**English Title:** Salok 44: Kabaeera Iha Chaetaavanaee Mata Sahasaa Rahai Jaa
+**English Title:** Warning of the Soul: The Sweet Jaggery of Past Pleasures
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1871,21 +1938,24 @@ paachhai (afterwards, in the aftermath) bhog (suffering of longing) ju (who/whoe
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर इह चेतावनी मत सहसा रहि जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह मेरी अंतिम चेतावनी है, मन में कोई संशय मत रहने दो;
+जिन सांसारिक विषय-भोगों को तू आज गुड़ समझकर बड़े स्वाद से खा रहा है, वे ही अंत में भयंकर विष बनकर आत्मा को नष्ट कर देंगे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraihachetaavaneematasahasaarahijaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This is my solemn counsel and warning: let no lingering doubt remain;
+The sensual pleasures that mortals relish like sweet jaggery in their reign,
+Shall turn to bitter poison and ash when retribution's hour draws near;
+Renounce the transient bait of Maya and revere the Beloved here!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर इह चेतावनी मत सहसा रहि जाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गुड़ का रूपक**: भोग प्रारंभ में मीठे लगते हैं किंतु परिणाम में घोर दुःख और दुर्गति लाते हैं।
 
 ---
 
 <a name="salok-45"></a>
 ## सलोक 45: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ...
-**English Title:** Salok 45: Kabaeera Maai Jaanaio Paड़ibao Bhalao Paड़ibae
+**English Title:** Scholarly Learning and Yoga: I Will Not Forsake Ram's Devotion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1908,21 +1978,24 @@ bhagati (loving devotion) n (not) chhaadau (I abandon) raam (The All-Pervading L
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भल जोगु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—पहले मैं समझता था कि शास्त्रों का पढ़ना ही श्रेष्ठ है, और पढ़ने से भी अधिक श्रेष्ठ योग-साधना है;
+किंतु अंत में मैंने यही जाना कि चाहे सारा संसार मेरी निंदा करे, मैं अपने प्रभु-राम की अनन्य प्रेम-भक्ति को कभी नहीं त्यागूँगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaijaaniopadibobhalopadibesiubhalajog—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Once I deemed that scriptural study was noble, and yogic trance higher still;
+Yet now I proclaim: Though the whole world mock and slander me at will,
+Never shall I abandon the devotional love of my Sovereign Ram,
+In whose lotus feet my awakened soul finds its eternal calm!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **ज्ञान और योग पर भक्ति की विजय**: पुस्तकीय ज्ञान और हठयोग अहंकार बढ़ा सकते हैं; केवल निष्काम प्रेम-भक्ति ही आत्मा को तारती है।
 
 ---
 
 <a name="salok-46"></a>
 ## सलोक 46: कबीर लोगु कि निंदै बपुड़ा जिह मनि ना...
-**English Title:** Salok 46: Kabaeera Laogau Kai Naindaai Bapauड़a Jaiha Ma
+**English Title:** Ignorant Worldly Slander Matters Not: Kabir Revels in Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1945,21 +2018,24 @@ raam (The All-Pervading Lord (Ram)) kabeera (Sant Kabir) ravi (sun/radiance) rah
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर लोगु कि निंदै बपुड़ा जिह मनि नाही गिआनु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार के अभागे और अज्ञानी लोग मेरी क्या निंदा करेंगे, जिनके अपने मन के भीतर रंचमात्र भी आत्म-ज्ञान नहीं है;
+कबीर तो अन्य समस्त सांसारिक प्रपंचों को त्यागकर केवल अपने प्रभु-राम के पावन ध्यान में अखंड रम रहा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeralogukinindaibapudaajihamaninaaheegi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What can the wretched multitude slander, in whose minds no wisdom does reside?
+Kabir has abandoned all petty worldly affairs and cast off empty pride,
+Dwelling absorbed in the unbroken presence of the Sovereign Lord above;
+Immune to the praises and curses of men, intoxicated with divine love!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर लोगु कि निंदै बपुड़ा जिह मनि ना'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **लोक-निंदा से अप्रभावित**: ज्ञानी संसार की स्तुति और निंदा दोनों से परे होता है।
 
 ---
 
 <a name="salok-47"></a>
 ## सलोक 47: कबीर परदेसी कै घाघरै चहु दिसि लागी ...
-**English Title:** Salok 47: Kabaeera Paradaesaee Kaai Ghaagharaai Chahau Daisai
+**English Title:** Fire Consumes the Pilgrim's Patchwork Robe, but the Sacred Thread Unhurt
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -1982,21 +2058,24 @@ khintha (khintha) jali (in water) koila (koila) bhaee (became) taage (taage) aan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर परदेसी कै घाघरै चहु दिसि लागी आगि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+इस संसार में परदेशी जीवात्मा की गुदड़ी रूपी शरीर में चारों दिशाओं से त्रिताप (आधि, व्याधि, उपाधि) की भयंकर आग लग गई;
+उसका शरीर रूपी वस्त्र जलकर कोयला हो गया, किंतु परमात्मा से जुड़ी सुरति रूपी अंतर-धागे को आंच का एक कण भी न छू सका!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraparadeseekaighaagharaichahudisilaageeaagi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Fire broke out on all four sides of the traveling pilgrim's patchwork gown;
+The fragile vesture of clay was burnt to charcoal and tumbled down;
+Yet the sacred thread of inner contemplation connecting the soul to God,
+Remained untouched by the roaring blaze, ascending from the sod!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर परदेसी कै घाघरै चहु दिसि लागी '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **खिंथा और धागा**: शरीर जल जाता है किंतु आत्मा और परमात्मा का संबंध (धागा) कभी नष्ट नहीं होता।
 
 ---
 
 <a name="salok-48"></a>
 ## सलोक 48: कबीर खिंथा जलि कोइला भई खापरु फूट म...
-**English Title:** Salok 48: Kabaeera Khainthaa Jalai Kaoilaa Bhaee Khaaparau
+**English Title:** The Begging Bowl Shattered, the Ascetic Departed, Ashes Remain
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2019,21 +2098,24 @@ jogee (yogi) bapuda (bapuda) khelio (khelio) aasani (hope (folk/plural)) rahee (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर खिंथा जलि कोइला भई खापरु फूट मफूट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुदड़ी जलकर कोयला हो गई और भिक्षा का खप्पर टुकड़े-टुकड़े होकर फूट गया;
+शरीर रूपी जोगी अपना सांसारिक खेल समाप्त कर विदा हो गया, और उसके साधना-आसन पर केवल निर्जीव भस्म ही शेष रह गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakhinthaajalikoilaabhaeekhaaparuphootamaphoota—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The patchwork robe was reduced to cinders, the begging bowl smashed to dust;
+The poor ascetic finished his worldly play and surrendered his mortal trust;
+Departed is the traveler from the stage, leaving no trace behind;
+Only cold ashes upon the empty seat remain for the worldly mind!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर खिंथा जलि कोइला भई खापरु फूट म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जीवन का तमाशा**: मृत्यु के आते ही शरीर का सारा ठाठ-बाट राख में बदल जाता है।
 
 ---
 
 <a name="salok-49"></a>
 ## सलोक 49: कबीर थोरै जलि माछुली झीवरि मेलिओ जा...
-**English Title:** Salok 49: Kabaeera Thaoraai Jalai Maachhaulaee Jhaeevarai Maela
+**English Title:** Fish in Shallow Waters Entangled in the Net: Seek the Deep Ocean
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2056,21 +2138,24 @@ ih (these) toghanai (toghanai) n (not) chhootasahi (chhootasahi) phiri (then (in
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर थोरै जलि माछुली झीवरि मेलिओ जालु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उथले और थोड़े से जल में रहने वाली मछली पर मछुआरे (काल) ने अपना घातक जाल फेंक दिया है;
+इस संकीर्ण गड्ढे में रहकर तू कभी बच नहीं पाएगी, यदि अपनी रक्षा चाहती है तो लौटकर अगाध समुद्र (परमात्मा) की शरण में जा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerathoraijalimaachhuleejheevarimeliojaalu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+In shallow, drying pools the foolish fish swims, where the fisherman casts his net;
+In this narrow pond of worldly desire thou canst never escape thy death;
+Turn back into the boundless depths of the ocean while life remains in thee;
+Seek the vast sanctuary of the Divine, and dwell forever safe and free!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर थोरै जलि माछुली झीवरि मेलिओ जा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **उथला जल बनाम समुद्र**: सांसारिक भोग उथले गड्ढे हैं जहाँ यम का जाल है; परमात्मा अगाध सागर हैं जहाँ पूर्ण सुरक्षा है।
 
 ---
 
 <a name="salok-50"></a>
 ## सलोक 50: कबीर समुंदु न छोडीऐ जउ अति खारो होइ...
-**English Title:** Salok 50: Kabaeera Samaundau Na Chhaodaeeai Jau Atai Khaara
+**English Title:** Abandon Not the Ocean: None Praises Wandering from Pond to Pond
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2093,21 +2178,24 @@ pokhari (pokhari) pokhari (pokhari) dhoodhate (dhoodhate) bhalo (bhal (spiritual
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर समुंदु न छोडीऐ जउ अति खारो होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा रूपी उस अगाध महासागर का आश्रय कभी मत छोड़ो, चाहे उसकी साधना का जल संसार की दृष्टि में कितना भी खारा व कठिन क्यों न प्रतीत हो;
+क्योंकि गंदे पोखरों और गड्ढों में जल खोजते भटकने वाले को संसार में कभी कोई भला और बुद्धिमान नहीं कहता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasamundunachhodeeaijauatikhaarohoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsake not the mighty ocean of the Divine, though its waters seem austere and saline;
+No wise soul praises the thirsty fool who wanders seeking small stagnant ponds to dine;
+Better to dwell in the vast presence of the Sovereign Lord through storm and tide,
+Than to beg for drops of pleasure from worldly puddles far and wide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर समुंदु न छोडीऐ जउ अति खारो होइ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **ईश्वर का अनन्य आश्रय**: साधना का मार्ग कठिन लग सकता है, पर छोटे देवी-देवताओं या सांसारिक स्वामियों के द्वारे भटकना अज्ञान है।
 
 ---
 
 <a name="salok-51"></a>
 ## सलोक 51: कबीर निगुसांएं बहि गए थांघी नाही को...
-**English Title:** Salok 51: Kabaeera Naigausaanen Bahai Gae Thaanghaee Naa
+**English Title:** Those Without a Master Are Swept Away: Refuge in Humility
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2130,21 +2218,24 @@ deen (the meek, the righteous cause) gareebee (lowly/destitute) aapunee (aapunee
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर निगुसांएं बहि गए थांघी नाही कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सद्गुरु के बिना जो मनमुख हैं, वे संसार-सागर के भंवर में बह गए और उन्हें थाह देने वाला कोई न मिला;
+हम तो अपनी दीनता और गरीबी को धारण कर प्रभु के चरणों में पड़े हैं, अब सृजनहार जो चाहे सो करे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranigusaanenbahigaethaangheenaaheekoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Those without a True Master were swept away in the surging worldly tide;
+Finding no bottom or steady foothold upon the waters deep and wide;
+As for me, I have laid down my pride in utter meekness and poverty sincere;
+Whatever the Creator ordains shall pass—I rest in His sanctuary here!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर निगुसांएं बहि गए थांघी नाही को'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निगुरे की गति**: गुरु के बिना मनुष्य वासनाओं की बाढ़ में बह जाता है; शरणागति ही मुक्ति का आधार है।
 
 ---
 
 <a name="salok-52"></a>
 ## सलोक 52: कबीर बैसनउ की कूकरि भली साकत की बुर...
-**English Title:** Salok 52: Kabaeera Baaisanau Kaee Kaookarai Bhalaee Saakata Ka
+**English Title:** Better the Devotee's Hound than the Sceptic's Worldly Mother
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2167,21 +2258,24 @@ oh (oh) nit (daily/ever) sunai (hearing (does/by)) hari (The Lord who dispels gr
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बैसनउ की कूकरि भली साकत की बुरी माइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—प्रभु-भक्त वैष्णव के द्वार पर बैठने वाली कुतिया भी उत्तम है, किंतु ईश्वर-विमुख साक्त की माता भी निंदनीय है;
+क्योंकि वह कुतिया दिन-रात संतों के मुख से हरि-नाम का यश सुनती है, जबकि साक्त की माता केवल पाप और वासनाओं का ही व्यापार करती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaisanaukeekookaribhaleesaakatakeebureemaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Far better is the humble hound that guards the true devotee's home and floor,
+Than the proud mother of the godless cynic who denies the Lord evermore;
+For the faithful hound hears day and night the sacred praises of the Divine,
+While the sceptic's mother breeds only sin, trading in darkness and decline!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बैसनउ की कूकरि भली साकत की बुर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्संग की श्रेष्ठता**: पशु भी यदि सत्संग में है तो वह उस मनुष्य से श्रेष्ठ है जो ईश्वर से विमुख होकर पाप करता है।
 
 ---
 
 <a name="salok-53"></a>
 ## सलोक 53: कबीर हरना दूबला इहु हरीआरा तालु ॥...
-**English Title:** Salok 53: Kabaeera Haranaa Daoobalaa Ihau Haraeeaaraa Taala
+**English Title:** The Frail Deer, the Verdant Lake, and a Hundred Thousand Hunters
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2204,21 +2298,24 @@ laakh (hundreds of thousands) aheree (aheree) eku (The One Supreme Lord) jeeu (h
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरना दूबला इहु हरीआरा तालु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+यह जीवात्मा रूपी हिरन अत्यंत निर्बल और असहाय है, और यह संसार रूपी सरोवर अत्यंत हरा-भरा और प्रलोभनों से भरा है;
+इस अकेले जीव को मारने के लिए लाखों शिकारी (काम, क्रोध आदि) बाण ताने खड़े हैं, यह अकेला जीव भला कब तक काल से बच पाएगा?
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharanaadoobalaaihuhareeaaraataalu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Frail and defenseless is the soul-deer, while lush and green is this worldly pool;
+A hundred thousand hunters aim their deadly arrows to trap the fool;
+With only a single life to guard amidst the snares of passion and strife,
+How long can the trembling creature escape the crushing jaws of mortal life?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरना दूबला इहु हरीआरा तालु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **हिरन और शिकारी**: जीवात्मा दुर्बल है और संसार के प्रलोभन अपार हैं; केवल परमात्मा की कृपा ही बचा सकती है।
 
 ---
 
 <a name="salok-54"></a>
 ## सलोक 54: कबीर गंगा तीर जु घरु करहि पीवहि निर...
-**English Title:** Salok 54: Kabaeera Gangaa Taeera Jau Gharau Karahai Paeevaha
+**English Title:** Dwelling on the Ganges Shore: No Liberation without Loving Devotion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2241,21 +2338,24 @@ binu (without/devoid of) hari (The Lord who dispels grief (Hari)) bhagati (lovin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गंगा तीर जु घरु करहि पीवहि निरमल नीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+चाहे कोई पवित्र गंगा के पावन तट पर अपना घर बना ले और दिन-रात उसका निर्मल पावन जल पीता रहे;
+किंतु कबीर सत्य कहते हैं कि हृदय में सच्ची हरि-भक्ति के बिना कभी मुक्ति प्राप्त नहीं हो सकती!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragangaateerajugharukarahipeevahiniramalanee—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Though one should build his dwelling upon the sacred Ganges' holy shore,
+And drink its crystal pristine waters day and night for evermore;
+Yet without sincere devotion to the Lord within the awakened breast,
+Liberation is never attained, proclaims Kabir in truth confessed!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गंगा तीर जु घरु करहि पीवहि निर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **बाह्य तीर्थ की सीमा**: गंगा जल केवल शरीर धो सकता है, मन की वासनाओं को केवल राम-भक्ति धो सकती है।
 
 ---
 
 <a name="salok-55"></a>
 ## सलोक 55: कबीर मनु निरमलु भइआ जैसा गंगा नीरु ...
-**English Title:** Salok 55: Kabaeera Manau Nairamalau Bhaiaa Jaaisaa Gangaa
+**English Title:** When the Mind Becomes Pure as Ganges Water, the Lord Follows Behind
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2278,21 +2378,24 @@ paachhai (afterwards, in the aftermath) laago (spark of love/attachment) hari (T
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मनु निरमलु भइआ जैसा गंगा नीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब साधना और नाम-स्मरण से मेरा अंतःकरण गंगा के पावन जल के समान सर्वथा निर्मल और निष्कलंक हो गया;
+तब साक्षात परमात्मा स्वयं मेरे पीछे-पीछे दौड़ते फिरते हैं और प्रेम से पुकारते हैं: 'कबीर! कबीर!'
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramanuniramalubhaiaajaisaagangaaneeru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+My mind has become immaculate and pure like the crystal waters of the stream;
+Now the Supreme Lord Himself follows behind, calling out in love supreme:
+'Kabir! Kabir!' seeking the devotee who in holiness does shine;
+When the heart is cleansed of ego, it becomes the throne of the Divine!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मनु निरमलु भइआ जैसा गंगा नीरु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भक्त के अधीन भगवान**: जब साधक का मन पूर्ण शुद्ध हो जाता है, तो भगवान स्वयं उसके पीछे-पीछे आते हैं।
 
 ---
 
 <a name="salok-56"></a>
 ## सलोक 56: कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥...
-**English Title:** Salok 56: Kabaeera Haradaee Paeearaee Chaoonnaan Oojala Bhaai
+**English Title:** Turmeric and Lime Shed Their Colors: Union with the Beloved
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2315,21 +2418,24 @@ raam (The All-Pervading Lord (Ram)) sanehee (sanehee (spiritual sense)) tau (the
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरदी पीअरी चूंनां ऊजल भाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हल्दी का स्वाभाविक रंग पीला होता है और चूना अपने स्वभाव से उज्ज्वल श्वेत होता है;
+किंतु वे दोनों मिलकर प्रेम का लाल रंग तभी रच पाते हैं जब दोनों अपने-अपने रंग को मिटा देते हैं; वैसे ही जीव और ब्रह्म का मिलन दोनों के अहं-भाव मिटने पर ही होता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharadeepeeareechoonnaanoojalabhaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Turmeric is bright yellow and lime is dazzling white in natural hue;
+Yet the Beloved Lord is met only when both surrender their colors true;
+Melting into a single radiant crimson of transcendent love divine,
+Where all separate identities dissolve and in ecstasy entwine!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **हल्दी और चूने का दृष्टांत**: हल्दी पीलापन छोड़ती है, चूना सफेदी छोड़ता है; तब लाल रंग बनता है। जीव 'मैं' छोड़े और परमात्मा में लीन हो।
 
 ---
 
 <a name="salok-57"></a>
 ## सलोक 57: कबीर हरदी पीरतनु हरै चून चिहनु न रह...
-**English Title:** Salok 57: Kabaeera Haradaee Paeeratanau Haraai Chaoona Chaihanau
+**English Title:** Dissolution of Caste, Color, and Lineage in Divine Love
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2352,21 +2458,24 @@ balihaaree (balihaaree) ih (these) preeti (love related) kau (unto) jih (which) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरदी पीरतनु हरै चून चिहनु न रहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हल्दी ने अपना पीलापन त्याग दिया और चूने का कोई पृथक चिह्न शेष न रहा;
+मैं तो इस दिव्य प्रेम-भक्ति पर सौ-सौ बार बलिहारी जाता हूँ, जिसमें जीव की समस्त जाति, वर्ण और कुल का अहंकार सदा के लिए मिट जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharadeepeeratanuharaichoonachihanunarahaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Turmeric sheds its yellowness and lime retains no separate trace or sign;
+All sacrifice am I unto that ecstatic love of the Lord Divine,
+Wherein all pride of birth, caste, lineage, and color fall away in light,
+Uniting the surrendered soul forever in the Beloved's sight!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरदी पीरतनु हरै चून चिहनु न रह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जाति-कुल का विसर्जन**: ईश्वरीय प्रेम में सामाजिक ऊंच-नीच और कुल का अभिमान पूरी तरह समाप्त हो जाता है।
 
 ---
 
 <a name="salok-58"></a>
 ## सलोक 58: कबीर मुकति दुआरा संकुरा राई दसएं भा...
-**English Title:** Salok 58: Kabaeera Maukatai Dauaaraa Sankauraa Raaee Dasa
+**English Title:** The Gate of Liberation Narrower than a Mustard Seed: The Elephant Mind
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2389,21 +2498,24 @@ manu (mind/inner spirit) tau (then/still) maigalu (maigalu) hoi (having become) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मुकति दुआरा संकुरा राई दसएं भाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मुक्ति का वह दिव्य द्वार राई के दाने के दसवें भाग से भी अधिक संकरा और सूक्ष्म है;
+किंतु यह अज्ञानी मन अहंकार और वासनाओं से फूलकर विशाल हाथी बन बैठा है, भला वह इस सूक्ष्म द्वार से कैसे पार निकल पाएगा?
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramukatiduaaraasankuraaraaeedasaenbhaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Narrow is the gate of liberation, smaller than the tenth part of a mustard seed;
+Yet the human mind has swollen like an elephant in arrogance and greed;
+How can such a ponderous monster squeeze through that razor-slender door?
+Only by becoming smaller than dust can the soul touch the celestial floor!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मुकति दुआरा संकुरा राई दसएं भा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सूक्ष्म द्वार**: अहंकार का हाथी मुक्ति के संकरे द्वार में नहीं समा सकता; चींटी बनकर ही प्रवेश संभव है।
 
 ---
 
 <a name="salok-59"></a>
 ## सलोक 59: कबीर ऐसा सतिगुरु जे मिलै तुठा करे प...
-**English Title:** Salok 59: Kabaeera Aisaa Sataigaurau Jae Mailaai Tauthaa
+**English Title:** When the True Master Is Pleased, the Gate Opens Wide
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2426,21 +2538,24 @@ mukati (spiritual liberation) duaara (duaara) mokala (mokala) sahaje (innate poi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा सतिगुरु जे मिलै तुठा करे पसाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि साधक को ऐसा पूर्ण सद्गुरु मिल जाए जो प्रसन्न होकर अपनी असीम कृपा का प्रसाद प्रदान करे;
+तो वही संकरा मुक्ति-द्वार अत्यंत चौड़ा और सुगम हो जाता है, और साधक सहज समाधि में वहाँ स्वतंत्रतापूर्वक आता-जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaasatigurujemilaituthaakarepasaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If such a perfect True Master is attained who showers His gracious boon,
+The narrow portal of liberation widens like the radiant sky at noon;
+The soul moves in spontaneous freedom, unhindered by fear or chain,
+Dwelling in effortless union where eternal peace and light remain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा सतिगुरु जे मिलै तुठा करे प'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गुरु की शक्ति**: जो द्वार अहंकार के लिए बंद है, वह गुरु-कृपा से सहज समाधि का खुला मार्ग बन जाता है।
 
 ---
 
 <a name="salok-60"></a>
 ## सलोक 60: कबीर ना मोहि छानि न छापरी ना मोहि घ...
-**English Title:** Salok 60: Kabaeera Naa Maohai Chhaanai Na Chhaaparaee Naa Ma
+**English Title:** No Hut, No Village, No Caste: Anonymous in the Presence of the Lord
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2463,21 +2578,24 @@ mat (wisdom) hari (The Lord who dispels grief (Hari)) poochhai (poochhai) kaunu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ना मोहि छानि न छापरी ना मोहि घरु नही गाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—न तो मेरी कोई घास की छानी है और न कोई झोपड़ी, न मेरा कोई निजी घर है और न ही कोई गांव;
+प्रभु के सम्मुख मैं सर्वथा निरहंकारी हूँ, कहीं प्रभु मुझसे पूछ न बैठें कि तू कौन है—क्योंकि न तो मेरी कोई जाति है और न ही कोई सांसारिक नाम!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranaamohichhaaninachhaapareenaamohigharunah—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I possess neither thatched roof nor humble hut, neither worldly house nor clan;
+Lest the Sovereign Lord should ask who I am, I stand devoid of caste and name;
+A nameless soul of pure surrender, free from earthly claim and pride,
+Resting alone in the boundless shelter of the Beloved by my side!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ना मोहि छानि न छापरी ना मोहि घ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पूर्ण अनासक्ति**: कबीर सांसारिक पहचान (घर, गांव, जाति) को त्यागकर शून्य हो जाते हैं; यही परम संन्यास है।
 
 ---
 
 <a name="salok-61"></a>
 ## सलोक 61: कबीर मुहि मरने का चाउ है मरउ त हरि ...
-**English Title:** Salok 61: Kabaeera Mauhai Maranae Kaa Chaau Haai Marau Ta
+**English Title:** Yearning to Die at the Threshold of the Lord's Door
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2500,21 +2618,24 @@ mat (wisdom) hari (The Lord who dispels grief (Hari)) poochhai (poochhai) kaunu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मुहि मरने का चाउ है मरउ त हरि कै दुआर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मेरे मन में भौतिक देह त्यागने का बड़ा चाव और उमंग है, किंतु यदि मरूँ तो केवल उस परमात्मा के पावन द्वार पर मरूँ;
+ताकि वह परम प्रभु कृपापूर्वक पूछें कि यह कौन अनन्य प्रेमी भक्त है जो हमारे द्वार पर आकर गिरा पड़ा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramuhimaranekaachaauhaimarautaharikaidu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I yearn with eager joy to die, but let me fall at the threshold of the Lord;
+Lest looking down the Cherisher may ask who lies upon His paved floor;
+Claiming the fallen servant who abandoned all worldly refuge and pride,
+To breathe his final breath of love with the Beloved Master beside!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मुहि मरने का चाउ है मरउ त हरि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **प्रभु-द्वार पर मरण**: साधक का परम लक्ष्य ईश्वर के चरणों में अपने प्राणों का समर्पण करना है।
 
 ---
 
 <a name="salok-62"></a>
 ## सलोक 62: कबीर ना हम कीआ न करहिगे ना करि सकै ...
-**English Title:** Salok 62: Kabaeera Naa Hama Kaeeaa Na Karahaigae Naa Karai
+**English Title:** Nothing Done by Me: The Lord Did All, Crying Kabir! Kabir!
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2537,21 +2658,24 @@ kia (what) jaanau (life/soul) kichhu (anything/a little) hari (The Lord who disp
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ना हम कीआ न करहिगे ना करि सकै सरीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—न तो मैंने कुछ किया है, न मैं आगे कुछ करूँगा, और न ही इस नश्वर शरीर में कुछ करने की सामर्थ्य है;
+मैं क्या जानूँ कि उस परमात्मा ने क्या दिव्य लीला की है, जिसके कारण चारों ओर 'कबीर! कबीर!' की जय-जयकार हो रही है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranaahamakeeaanakarahigenaakarisakaisareeru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Naught was accomplished by me, nor shall I ever do, nor can this frail body perform;
+I know not what miracle the Sovereign Lord has wrought amidst the storm,
+That throughout the world the multitudes cry aloud in wonder and light:
+'Kabir! Kabir!'—the Master alone is the Doer in majesty and might!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ना हम कीआ न करहिगे ना करि सकै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अकर्ता-भाव**: कबीर अपनी प्रसिद्धि का श्रेय स्वयं को नहीं, केवल परमात्मा की कृपा को देते हैं।
 
 ---
 
 <a name="salok-63"></a>
 ## सलोक 63: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक...
-**English Title:** Salok 63: Kabaeera Saupanaai Haoo Baraड़ai Kaai Jaiha Maukha
+**English Title:** Even in Wandering Dreams, He Who Utters Ram: My Skin for His Shoes
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2574,21 +2698,24 @@ ta (upon that/his) ke (of) pag (foot) kee (of) paanahee (paanahee) mere (my) tan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निकसै रामु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि स्वप्न की तंद्रा में बड़बड़ाते हुए भी किसी के मुख से प्रभु-राम का पावन नाम निकल जाए;
+तो उसके चरणों की जूती बनाने के लिए मैं अपने शरीर का चमड़ा समर्पित करने को सहर्ष प्रस्तुत हूँ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasupanaihoobaradaaikaijihamukhinikasaira—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Even if wandering in a fitful dream, the Name of Ram from his lips should fall,
+Unto the footwear for his sacred feet I would offer my body's skin and all;
+So exalted in my devotion is the tongue that utters the Name Divine,
+That all sacrifice am I unto that soul where celestial radiances shine!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **नाम की महिमा**: अचेतन अवस्था में भी जिसका मन ईश्वर में रमा है, वह परम पूज्य है।
 
 ---
 
 <a name="salok-64"></a>
 ## सलोक 64: कबीर माटी के हम पूतरे मानसु राखिओ न...
-**English Title:** Salok 64: Kabaeera Maataee Kae Hama Paootarae Maanasau Raa
+**English Title:** Puppets Fashioned of Dust: Four-Day Guests Coveting Vast Lands
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2611,21 +2738,24 @@ chaari (four related) divas (day) ke (of) paahune (paahune) bad (great/large) ba
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माटी के हम पूतरे मानसु राखिओ नाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हम सब तो केवल मिट्टी के निर्जीव पुतले हैं, जिन्हें संसार में 'मनुष्य' का नाम दे दिया गया है;
+हम इस पृथ्वी पर केवल चार दिनों के क्षणिक मेहमान हैं, फिर भी अभिमान में भरकर बड़ी-बड़ी हवेलियां और जागीरें घेरते फिरते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaateekehamapootaremaanasuraakhionaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+We are mere puppets fashioned of earthly clay, given the name of mortal man;
+Guests of four fleeting, transient days upon this terrestrial span;
+Yet in foolish greed we covet and claim vast dominions far and wide,
+Forgetting that beneath the dust all our glory must eventually hide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माटी के हम पूतरे मानसु राखिओ न'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चार दिन का मेहमान**: जीवन क्षणिक सराय है; यहाँ संपत्ति का संचय करना अज्ञान है।
 
 ---
 
 <a name="salok-65"></a>
 ## सलोक 65: कबीर महिदी करि घालिआ आपु पीसाइ पीसा...
-**English Title:** Salok 65: Kabaeera Mahaidaee Karai Ghaalaiaa Aapau Paeesaai
+**English Title:** Ground to Powder like Henna in Dedicated Service
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2648,21 +2778,24 @@ tai (by thee/from) sah (Lord/Husband-Lord) baat (word/matter) n (not) poochheeai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर महिदी करि घालिआ आपु पीसाइ पीसाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जैसे हरी पत्तियां स्वयं को सिल-बट्टे पर पीस-पीस कर मेहंदी बना देती हैं, वैसे ही मैंने प्रभु की सेवा में अपने अहंकार को पूर्णतः पीस डाला;
+किंतु उस परम स्वामी ने मुड़कर मेरी कुशल-क्षेम तक न पूछी और न ही मुझे अपने चरणों में लगाया—फिर भी मेरा समर्पण अखंड है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramahideekarighaaliaaaapupeesaaipeesaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Like green henna leaves ground fine upon the stone, I crushed my selfish pride;
+Surrendering all in humble service to dwell at the Master's side;
+Yet the Beloved Sovereign spoke not a word nor applied me to His feet;
+Still unshakeable in devotion I remain, finding His neglect itself sweet!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर महिदी करि घालिआ आपु पीसाइ पीसा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निस्वार्थ समर्पण**: भक्त फल या मान की इच्छा किए बिना स्वयं को समर्पित करता रहता है।
 
 ---
 
 <a name="salok-66"></a>
 ## सलोक 66: कबीर जिह दरि आवत जातिअहु हटकै नाही ...
-**English Title:** Salok 66: Kabaeera Jaiha Darai Aavata Jaataiahau Hatakaai
+**English Title:** The Ever-Open Door of the Lord Where None Is Barred
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2685,21 +2818,22 @@ so (that/the same) daru (daru) kaise (how) chhodeeai (chhodeeai) jo (that) daru 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जिह दरि आवत जातिअहु हटकै नाही कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उस परमात्मा के पावन द्वार पर आते-जाते किसी भी प्राणी को कभी कोई नहीं रोकता;
+भला ऐसे कृपालु और सर्व-सुलभ द्वार को कोई विवेकशील साधक कैसे छोड़ सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajihadariaavatajaatiahuhatakainaaheekoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+At that divine threshold of the Sovereign Lord, none is ever turned away or barred;
+How can any wise soul forsake that compassionate gate where grace is unmarred?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जिह दरि आवत जातिअहु हटकै नाही '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **खुला द्वार**: प्रभु का दरबार जाति, कुल या कर्म के आधार पर किसी को नहीं रोकता; वहाँ सभी के लिए शरण खुली है।
 
 ---
 
 <a name="salok-67"></a>
 ## सलोक 67: कबीर डूबा था पै उबरिओ गुन की लहरि झ...
-**English Title:** Salok 67: Kabaeera Daoobaa Thaa Paai Ubaraio Gauna Kaee La
+**English Title:** Leaping from the Sinking Raft: Rescued by the Wave of Divine Virtue
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2722,21 +2856,22 @@ jab (at the time when) dekhio (beholding related) beda (beda) jarajara (jarajara
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर डूबा था पै उबरिओ गुन की लहरि झबकि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं तो संसार-सागर में डूब ही चला था, किंतु परमात्मा के पावन गुणों की एक कृपा-लहर ने मुझे बचा लिया;
+जैसे ही मैंने देखा कि कर्मकांडों और संप्रदायों की यह नाव जर्जर है, मैं तुरंत छलांग लगाकर अलग कूद पड़ा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradoobaathaapaiubariogunakeelaharijhabaki—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I was sinking into the dark ocean, but the surging wave of divine virtue lifted me free;
+Beholding that the raft of dogma was shattered and leaking, I leapt into the sea!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर डूबा था पै उबरिओ गुन की लहरि झ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्मकांडों की जर्जर नाव**: बाह्य अनुष्ठानों की नौका पार नहीं लगा सकती; कबीर उससे कूदकर प्रभु-कृपा के सहारे तैर गए।
 
 ---
 
 <a name="salok-68"></a>
 ## सलोक 68: कबीर पापी भगति न भावई हरि पूजा न सु...
-**English Title:** Salok 68: Kabaeera Paapaee Bhagatai Na Bhaavaee Harai Paoojaa
+**English Title:** The Sinner Loves Not Devotion: The Fly Forsakes Sandalwood for Filth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2759,21 +2894,22 @@ maakhee (maakhee (spiritual sense)) chandanu (fragrant sandalwood) paraharai (pa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पापी भगति न भावई हरि पूजा न सुहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+पापी और कुटिल मनुष्य को परमात्मा की सच्ची भक्ति कभी नहीं भाती और न ही हरि की आराधना उसे सुहाती है;
+जैसे मक्खी सुगंधित चंदन को त्याग देती है, और जहाँ सड़ी हुई दुर्गंध होती है वहीं जाकर बैठती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaapeebhagatinabhaavaeeharipoojaanasuhaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Pure devotion pleases not the hardened sinner, nor does worship of the Lord delight his mind;
+As the common fly forsakes fragrant sandalwood, rushing to the foulest filth it can find!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पापी भगति न भावई हरि पूजा न सु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मक्खी का रूपक**: विकारी स्वभाव वाले को सत्संग कड़वा लगता है और सांसारिक कुसंग मीठा लगता है।
 
 ---
 
 <a name="salok-69"></a>
 ## सलोक 69: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा...
-**English Title:** Salok 69: Kabaeera Baaidau Maooaa Raogaee Maooaa Maooaa Sabhau
+**English Title:** Physician and Patient Both Died: Kabir Dies Not, Anchored in Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2796,21 +2932,22 @@ eku (The One Supreme Lord) kabeera (Sant Kabir) na (not) mooa (mooa) jih (which)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसारु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+दवा देने वाला वैद्य भी मर गया, रोग से पीड़ित रोगी भी मर गया, और यह संपूर्ण नश्वर संसार मृत्यु के गाल में समा गया;
+किंतु केवल एक कबीर कभी नहीं मरा, क्योंकि उसका रोने वाला कोई सांसारिक नहीं, वह तो साक्षात राम में लीन हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaidumooaarogeemooaamooaasabhusansaaru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The physician died, the patient died, the entire mortal world dissolved away;
+Only Kabir died not into sorrow, for anchored in Ram's eternity he did stay!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अमर पद**: जो परमात्मा से एक हो गया, वह जन्म-मरण के भय से सदा के लिए मुक्त हो जाता है।
 
 ---
 
 <a name="salok-70"></a>
 ## सलोक 70: कबीर रामु न धिआइओ मोटी लागी खोरि ॥...
-**English Title:** Salok 70: Kabaeera Raamau Na Dhaiaaio Maotaee Laagaee Khao
+**English Title:** Colossal Loss without Ram: The Wooden Pot Mounts the Hearth No More
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2833,21 +2970,22 @@ kaaia (kaaia) haandee (haandee) kaath (kaath) kee (of) na (not) oh (oh) charhai 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रामु न धिआइओ मोटी लागी खोरि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिसने जीवन में परमात्मा राम का ध्यान नहीं किया, उसने अपने जीवन में सबसे भारी घाटा उठा लिया;
+यह मानव शरीर लकड़ी की हांडी के समान है, जो एक बार चिता में जल जाने पर दोबारा कभी चूल्हे पर नहीं चढ़ती!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamunadhiaaiomoteelaageekhori—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He contemplated not the Lord, bringing catastrophic ruin upon his soul;
+This body is an earthen wooden pot—once burnt, it never again returns whole!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रामु न धिआइओ मोटी लागी खोरि ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **काठ की हांडी**: लकड़ी का बर्तन आग में केवल एक बार जलता है; यह मानव जन्म पुनः सुलभ नहीं होता।
 
 ---
 
 <a name="salok-71"></a>
 ## सलोक 71: कबीर ऐसी होइ परी मन को भावतु कीनु ॥...
-**English Title:** Salok 71: Kabaeera Aisaee Haoi Paraee Mana Kao Bhaavatau Ka
+**English Title:** Why Fear Death When the Coconut of Surrender Is in Hand
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2870,21 +3008,22 @@ marane (to die) te (from/by) kia (what) darapana (darapana) jab (at the time whe
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसी होइ परी मन को भावतु कीनु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अब तो मन की वह परम प्रिय अवस्था सिद्ध हो चुकी है, जिसके लिए अंतरात्मा लालायित थी;
+जब हाथ में आत्म-समर्पण का सिधौरा (नारियल) ले ही लिया है, तो अब मृत्यु और लोक-लाज से भला क्या डरना!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaiseehoipareemanakobhaavatukeenu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The heart's supreme desire has been fulfilled, taking the final spiritual vow;
+When the coconut of surrender rests in hand, what fear can death strike now?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसी होइ परी मन को भावतु कीनु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सिधौरा का प्रतीक**: सती होने वाली स्त्री जैसे हाथ में नारियल लेकर निर्भय अग्नि में प्रवेश करती है, वैसे ही साधक संसार के मोह को त्यागकर परमात्मा में समर्पित होता है।
 
 ---
 
 <a name="salok-72"></a>
 ## सलोक 72: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ ...
-**English Title:** Salok 72: Kabaeera Rasa Kao Gaandao Chaoosaeeai Gauna Kau
+**English Title:** Chew the Sweet Sugarcane: None Praises the Man of Vices
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2907,21 +3046,22 @@ avaguneeaare (avaguneeaare) maanasai (maanasai) bhalo (bhal (spiritual sense)) n
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ रोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जैसे गन्ने की रसभरी गांठ का रस चूसकर आनंद लिया जाता है, वैसे ही ईश्वरीय गुणों की प्राप्ति के लिए विरह में रोना सार्थक है;
+किंतु अवगुणों और विकारों से भरे मनुष्य को इस संसार में कभी कोई भला और आदरणीय नहीं कहता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerarasakogaandochooseeaigunakaumareeairoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Savor the sweetness of the sugarcane node, and weep in longing for virtue's grace;
+None in this world honors the wicked, devoid of righteousness and empty of trace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गुणों की खोज**: जीवन का सार ईश्वरीय गुणों और सद्भाव को ग्रहण करने में है।
 
 ---
 
 <a name="salok-73"></a>
 ## सलोक 73: कबीर गागरि जल भरी आजु काल्हि जैहै फ...
-**English Title:** Salok 73: Kabaeera Gaagarai Jala Bharaee Aajau Kaalahai Ja
+**English Title:** The Water Pitcher Shrouded in Fragility: Plundered Midway without the Master
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2944,21 +3084,22 @@ guru (True Spiritual Master) ju (who/whoever) n (not) chetahi (chetahi) aapano (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गागरि जल भरी आजु काल्हि जैहै फूटि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+यह देह जल से भरी हुई मिट्टी की कच्ची गागर के समान है, जो आज या कल में अवश्य ही टूटकर बिखर जाएगी;
+यदि समय रहते अपने सद्गुरु का स्मरण न किया, तो जीवन के आधे मार्ग में ही यमदूत तेरी संपूर्ण पूंजी लूट लेंगे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragaagarijalabhareeaajukaalhijaihaiphooti—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Filled with water is this earthen clay pot, which today or tomorrow must surely break;
+If thou rememberest not thy Master, midway the robbers thy soul's wealth shall take!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गागरि जल भरी आजु काल्हि जैहै फ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **फूटी गागर**: आयु का जल प्रतिपल रिस रहा है; गुरु-ज्ञान ही काल के लुटेरों से बचाता है।
 
 ---
 
 <a name="salok-74"></a>
 ## सलोक 74: कबीर कूकरु राम को मुतीआ मेरो नाउ ॥...
-**English Title:** Salok 74: Kabaeera Kaookarau Raama Kao Mautaeeaa Maerao Na
+**English Title:** The Devoted Hound of Ram: Guided by His Loving Leash
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -2981,21 +3122,22 @@ gale (at the throat/around neck) hamaare (ours/of us devotees) jevaree (rope/sha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कूकरु राम को मुतीआ मेरो नाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं तो अपने परमात्मा राम के द्वार का विनम्र कुत्ता हूँ, और 'मोतिया' मेरा प्रेम-नाम है;
+मेरे गले में उनके अनन्य प्रेम की डोरी बंधी है, वे जिधर खींचते हैं मैं उधर ही सहज भाव से चला जाता हूँ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakookaruraamakomuteeaameronaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I am the faithful hound of Ram, and Mutia is my devoted name;
+Around my neck is His loving leash—wherever He draws, I go without claim!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कूकरु राम को मुतीआ मेरो नाउ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परम दास्य-भाव**: कबीर स्वयं को प्रभु का वफादार कुत्ता कहकर अपनी पूर्ण शरणागति और अहंकार-शून्यता को प्रकट करते हैं।
 
 ---
 
 <a name="salok-75"></a>
 ## सलोक 75: कबीर जपनी काठ की किआ दिखलावहि लोइ ॥...
-**English Title:** Salok 75: Kabaeera Japanaee Kaatha Kaee Kaiaa Daikhalaavahai
+**English Title:** Wooden Beads Flaunted to the World: Vain without Inner Remembrance
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3018,21 +3160,22 @@ hiradai (in the heart) raamu (Lord Rama's related) n (not) chetahee (chetahee) i
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जपनी काठ की किआ दिखलावहि लोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हाथ में लकड़ी की माला लेकर संसार के लोगों को क्या दिखावा कर रहा है?
+यदि तेरे हृदय के भीतर राम-नाम का निरंतर स्मरण नहीं है, तो इस निर्जीव काष्ठ की माला को घुमाने से क्या लाभ होगा?
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajapaneekaathakeekiaadikhalaavahiloi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Flaunting a wooden rosary before the eyes of men, what dost thou seek to gain?
+If the inner heart contemplates not Ram, turning these beads is all in vain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जपनी काठ की किआ दिखलावहि लोइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आडंबर का खंडन**: माला फेरना यांत्रिक क्रिया है; सच्ची साधना अंतःकरण की एकाग्रता है।
 
 ---
 
 <a name="salok-76"></a>
 ## सलोक 76: कबीर बिरहु भुयंगमु मनि बसै मंतु न म...
-**English Title:** Salok 76: Kabaeera Bairahau Bhauyangamau Manai Basaai Manta
+**English Title:** The Serpent of Separation: The Separated Lover Lives in Ecstasy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3055,21 +3198,22 @@ raam (The All-Pervading Lord (Ram)) biogee (biogee) na (not) jeeai (jeeai) jeeai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बिरहु भुयंगमु मनि बसै मंतु न मानै कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वरीय विरह रूपी काला सर्प जिसके हृदय में डस लेता है, उस पर संसार का कोई तंत्र-मंत्र या दवा असर नहीं करती;
+प्रभु-राम का सच्चा वियोगी संसार के लिए जीवित नहीं रहता, और यदि जीता भी है तो वह दिव्य प्रेम में मतवाला और बावरा होकर जीता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabirahubhuyangamumanibasaimantunamaanaik—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The serpent of divine separation has bitten the heart, no worldly charm can heal;
+The lover parted from Ram lives not, or wanders intoxicated in mystical zeal!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बिरहु भुयंगमु मनि बसै मंतु न म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **विरह-भुयंगम**: ईश्वरीय वियोग की पीड़ा सांसारिक औषधियों से शांत नहीं होती; केवल प्रभु-मिलन ही इसका उपचार है।
 
 ---
 
 <a name="salok-77"></a>
 ## सलोक 77: कबीर पारस चंदनै तिन्ह है एक सुगंध ॥...
-**English Title:** Salok 77: Kabaeera Paarasa Chandanaai Tainaha Haai Eka Sau
+**English Title:** The Touchstone and Sandalwood: Iron and Timber Transformed
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3092,21 +3236,22 @@ tih (that/their) mili (meet related) teoo (they too) ootam (ootam) bhae (became)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पारस चंदनै तिन्ह है एक सुगंध—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+पारस मणि और चंदन वृक्ष—इन दोनों में दूसरों को अपने जैसा बना देने की एक ही जैसी अलौकिक शक्ति होती है;
+इनका सान्निध्य पाकर कठोर काला लोहा स्वर्ण बन जाता है, और गंधहीन साधारण लकड़ी भी सुगंधित चंदन बन जाती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaarasachandanaitinhahaiekasugandha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The philosopher's stone and the sandalwood tree possess one single wondrous art;
+Meeting them, crude iron turns to gold, and scentless timber fragrant in every part!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पारस चंदनै तिन्ह है एक सुगंध ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्संगति की शक्ति**: संत पारस और चंदन की भांति दुर्जनों को भी अपने समान पावन बना देते हैं।
 
 ---
 
 <a name="salok-78"></a>
 ## सलोक 78: कबीर जम का ठेंगा बुरा है ओहु नही सह...
-**English Title:** Salok 78: Kabaeera Jama Kaa Thaengaa Bauraa Haai Ohau Na
+**English Title:** The Terrible Club of Death: Sheltered Under the Saint's Robe
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3129,21 +3274,22 @@ eku (The One Supreme Lord) ju (who/whoever) saadhoo (saint related) mohi (unto m
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जम का ठेंगा बुरा है ओहु नही सहिआ जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यमराज का डंडा अत्यंत भयानक और क्रूर होता है, उसकी असह्य मार किसी से सही नहीं जाती;
+परंतु मुझ पर कृपा करके एक पूर्ण संत मिल गए, जिन्होंने दयापूर्वक मुझे अपने पावन आंचल की ओट में छिपाकर बचा लिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajamakaathengaaburaahaiohunaheesahiaaja—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Terrible is the crushing club of Death, unbearable is its agonizing blow;
+Yet a holy saint of God blessed my soul, sheltering me in his robe from woe!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जम का ठेंगा बुरा है ओहु नही सह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संत की शरण**: काल के चक्र और कर्मों के दंड से केवल पूर्ण सद्गुरु का आश्रय ही रक्षा कर सकता है।
 
 ---
 
 <a name="salok-79"></a>
 ## सलोक 79: कबीर बैदु कहै हउ ही भला दारू मेरै व...
-**English Title:** Salok 79: Kabaeera Baaidau Kahaai Hau Haee Bhalaa Daaraoo Ma
+**English Title:** The Physician Boasts of His Cure: Life Belongs to Gopal Alone
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3166,21 +3312,22 @@ ih (these) tau (then/still) basatu (goods/commodity) gupaal (gupaal) kee (of) ja
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बैदु कहै हउ ही भला दारू मेरै वसि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+संसार का वैद्य अहंकार में कहता है कि मैं ही सबसे बड़ा कुशल चिकित्सक हूँ और प्राणों की रक्षा करने वाली औषधि मेरे वश में है;
+अरे नादान! यह प्राण और शरीर तो साक्षात गोपाल की अमानत है, जब उनका मन चाहेगा वे क्षण भर में इसे छीनकर वापस ले लेंगे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaidukahaihauheebhalaadaaroomeraivasi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The physician proudly boasts: 'I am the healer, medicine rests in my hand!';
+Yet this mortal breath belongs to Gopal alone, snatched when His decrees command!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बैदु कहै हउ ही भला दारू मेरै व'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चिकित्सक की सीमा**: प्राण देने और लेने वाला केवल परमात्मा है; मनुष्य का ज्ञान उसके सम्मुख तुच्छ है।
 
 ---
 
 <a name="salok-80"></a>
 ## सलोक 80: कबीर नउबति आपनी दिन दस लेहु बजाइ ॥...
-**English Title:** Salok 80: Kabaeera Naubatai Aapanaee Daina Dasa Laehau Baja
+**English Title:** Sound Thy Drum for Ten Short Days: The River-Boat Union Returns No More
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3203,21 +3350,24 @@ nadee (river) naav (boat/vessel of truth) sanjog (conjunction/union) jiu (just a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर नउबति आपनी दिन दस लेहु बजाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में अपने अधिकार और मान-सम्मान का नगाड़ा दस दिन (क्षण भर) के लिए बजा लो;
+यह मानव जीवन और संसार तो नदी और नाव के संयोग के समान है, जो एक बार बिछुड़ जाने पर पुनः दोबारा कभी नहीं मिलता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranaubatiaapaneedinadasalehubajaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Sound the royal drum of thy authority for ten short fleeting days;
+This world is like the passing union of river and boat parting along the ways;
+Once the traveler departs from the landing, never to return again;
+Awake from pride and seek the Eternal, beyond this earthly pain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर नउबति आपनी दिन दस लेहु बजाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **नदी-नाव संजोग**: सांसारिक रिश्ते नदी और नाव की भांति क्षणिक संगम हैं; स्थायी संग केवल परमात्मा का है।
 
 ---
 
 <a name="salok-81"></a>
 ## सलोक 81: कबीर सात समुंदहि मसु करउ कलम करउ बन...
-**English Title:** Salok 81: Kabaeera Saata Samaundahai Masau Karau Kalama Ka
+**English Title:** Seven Oceans as Ink, All Forests as Pens: God's Glory Unwritten
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3240,21 +3390,24 @@ basudha (basudha) kaagadu (letter) jau (if/when) karau (doing) hari (The Lord wh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सात समुंदहि मसु करउ कलम करउ बनराइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि मैं सातों समुद्रों के जल को स्याही बना लूँ, समस्त जंगलों के वृक्षों को काटकर लेखनी बना दूँ;
+और इस संपूर्ण पृथ्वी को कागज बना लूँ, तब भी उस अनंत परमात्मा के पावन गुणों और महिमा का पार नहीं पाया जा सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaatasamundahimasukaraukalamakaraubanaraai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Though I turn all seven oceans to ink, and every forest bough to a pen of reed;
+Though the vast earth become paper white, the infinite glory of God none can read;
+Unfathomable, boundless, and supreme is the splendor of the Beloved Lord;
+Words dissolve in reverent wonder before the immortal living Word!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सात समुंदहि मसु करउ कलम करउ बन'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परमात्मा की अनन्तता**: यह दोहा विश्व रहस्यवाद की अमर घोषणा है। ईश्वर वाणी और बुद्धि की समस्त सीमाओं से परे है।
 
 ---
 
 <a name="salok-82"></a>
 ## सलोक 82: कबीर जाति जुलाहा किआ करै हिरदै बसे ...
-**English Title:** Salok 82: Kabaeera Jaatai Jaulaahaa Kaiaa Karaai Hairadaai
+**English Title:** What Matters the Weaver Caste When Gopal Dwells in the Heart
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3277,21 +3430,22 @@ kabeer (Sant Kabir) ramaeea (all-pervading Divine Rama) kanthi (kanthi) milu (me
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जाति जुलाहा किआ करै हिरदै बसे गुपाल—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मेरी जुलाहा जाति मेरा क्या बिगाड़ सकती है, जब साक्षात सृष्टि के स्वामी गोपाल मेरे हृदय में विराजमान हैं;
+हे कबीर! तू उस सर्वव्यापी रमैया परमात्मा के गले लगकर एक हो जा, ताकि तेरे जीवन के समस्त सांसारिक जंजाल सदा के लिए समाप्त हो जाएं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaatijulaahaakiaakaraihiradaibasegupaal—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What does my lowly weaver caste matter, when Gopal reigns in my heart's space?
+O Kabir, embrace the all-pervading Lord, that all earthly entanglements cease in grace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जाति जुलाहा किआ करै हिरदै बसे '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जाति पर भक्ति की विजय**: जब अंतःकरण में परमात्मा का वास है, तो सामाजिक वर्ण-व्यवस्था नितांत निरर्थक हो जाती है।
 
 ---
 
 <a name="salok-83"></a>
 ## सलोक 83: कबीर ऐसा को नही मंदरु देइ जराइ ॥...
-**English Title:** Salok 83: Kabaeera Aisaa Kao Nahaee Mandarau Daei Jaraai
+**English Title:** Burn the Mansion of Delusion, Slay the Five Sons
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3314,21 +3468,22 @@ paanchau (paanchau) larike (larike) maari (striking/killing) kai (of) rahai (may
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा को नही मंदरु देइ जराइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में कोई ऐसा विरला शूरवीर दिखाई नहीं देता, जो अपने मोह और अहंकार के इस विशाल मंदिर (शरीर-भवन) को जलाकर भस्म कर दे;
+और अपने पांचों विकारों को समूल नष्ट करके, केवल उस एक परमात्मा राम के चरणों में अखंड ध्यान लगाए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaakonaheemandarudeijaraai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+None seems bold enough to burn down the deceptive palace of selfish pride;
+Slaying the five lustful sons of desire to dwell forever by Ram's side!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा को नही मंदरु देइ जराइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मंदिर जलाना**: देह-भाव और ममता के महल को ज्ञान की अग्नि से भस्म करना ही मुक्ति का मार्ग है।
 
 ---
 
 <a name="salok-84"></a>
 ## सलोक 84: कबीर ऐसा को नही इहु तनु देवै फूकि ॥...
-**English Title:** Salok 84: Kabaeera Aisaa Kao Nahaee Ihau Tanau Daevaai Pha
+**English Title:** None Burns the Arrogant Body: The Blind World Ignores Kabir's Cry
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3351,21 +3506,22 @@ andha (blind/spiritually blind) logu (worldly folk) n (not) jaanaee (jaanaee) ra
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा को नही इहु तनु देवै फूकि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में ऐसा कोई त्यागी नहीं दिखता जो इस नश्वर देह के अभिमान को ज्ञान की अग्नि में फूंक दे;
+यह अंधा संसार सत्य को नहीं जानता, और कबीर पुकार-पुकार कर सत्य कहते-कहते थक गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaakonaheeihutanudevaiphooki—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+None appears courageous enough to consume this physical vanity in the fire;
+The blind world understands not, while Kabir cries aloud with unswerving desire!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा को नही इहु तनु देवै फूकि ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संसार का अंधापन**: लोग देह को सजाने में लगे हैं; कोई भी देह के पार स्थित आत्मा को नहीं पहचानता।
 
 ---
 
 <a name="salok-85"></a>
 ## सलोक 85: कबीर सती पुकारै चिह चड़ी सुनु हो बीर...
-**English Title:** Salok 85: Kabaeera Sataee Paukaaraai Chaiha Chaड़ee Saunau Ha
+**English Title:** The Sati's Cry upon the Pyre: All Have Departed, Only Thou and I Remain
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3388,21 +3544,24 @@ logu (worldly folk) sabaaia (sabaaia) chali (depart/walk forth (in/having done))
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सती पुकारै चिह चड़ी सुनु हो बीर मसान—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+चिता पर चढ़ी हुई सती पुकार कर कहती है कि हे मसान (श्मशान) के अधिष्ठाता! सुन;
+संसार के समस्त सगे-संबंधी और नातेदार मुझे छोड़कर अपने-अपने घर लौट गए हैं, अब अंत में केवल तेरा और मेरा ही साथ शेष रह गया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasateepukaaraichihachadeesunuhobeeramasaan—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Mounted upon the burning pyre, the faithful Sati cries: 'Listen, O funeral ground!
+All worldly kin and companions have departed home, leaving me unbound;
+None walks beside the soul in the end, all earthly bonds fade and die;
+Only the eternal sanctuary of truth remains beneath the silent sky!'
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सती पुकारै चिह चड़ी सुनु हो बीर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सती का रूपक**: जीवात्मा चिता पर चढ़ी सती की भांति संसार के झूठे नातों को विसर्जित कर परमात्मा में लीन होने की तैयारी करती है।
 
 ---
 
 <a name="salok-86"></a>
 ## सलोक 86: कबीर मनु पंखी भइओ उडि उडि दह दिस जा...
-**English Title:** Salok 86: Kabaeera Manau Pankhaee Bhaio Udai Udai Daha Da
+**English Title:** The Soul-Bird Flies in Ten Directions: Reaping the Fruit of Company
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3425,21 +3584,24 @@ jo (that) jaisee (just as) sangati (holy company) milai (is obtained/received) s
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मनु पंखी भइओ उडि उडि दह दिस जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह चंचल मन पक्षी बन गया है जो उड़-उड़कर दसों दिशाओं में भटकता रहता है;
+यह जिस प्रकार की संगति में बैठता है, वैसा ही फल भोगता है—सत्संग में अमृत और कुसंग में विष!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramanupankheebhaioudiudidahadisajaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The mind has become a restless bird, soaring across ten directions wide;
+Whichever company it chooses to keep, according to that fruit does it abide;
+Feeding upon nectar in holy communion, or swallowing poison in evil strife;
+Guarded awareness alone can anchor this wandering flyer to eternal life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मनु पंखी भइओ उडि उडि दह दिस जा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन पंछी**: संगति से ही वृत्तियां बनती हैं; संतों का संग मन को परमात्मा की ओर मोड़ देता है।
 
 ---
 
 <a name="salok-87"></a>
 ## सलोक 87: कबीर जा कउ खोजते पाइओ सोई ठउरु ॥...
-**English Title:** Salok 87: Kabaeera Jaa Kau Khaojatae Paaio Saoee Thaurau
+**English Title:** Searching for Him, I Became That Very One I Called Other
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3462,21 +3624,24 @@ soee (the very same) phiri (then (in/having done)) kai (of) too (Thou) bhaia (be
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जा कउ खोजते पाइओ सोई ठउरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस परमात्मा को मैं बाहर संसार में खोजता फिरता था, अंततः मैंने उसे अपने ही अंतर्मन में पा लिया;
+और जिसे मैं कभी 'दूसरा' समझकर पुकारता था, द्वैत के मिटने पर मैं स्वयं वही ब्रह्म-स्वरूप हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaakaukhojatepaaiosoeethauru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Searching for the Beloved Lord, I arrived at that transcendent inner place;
+And transformed by union, I became that very One whose otherness I used to trace;
+Duality dissolved away into the ocean of immaculate celestial light;
+No longer 'Thou' and 'I' remain, but One Supreme Essence in sight!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जा कउ खोजते पाइओ सोई ठउरु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अहं ब्रह्मास्मि / अनलहक**: कबीर की अद्वैत अनुभूति—खोजने वाला और खोजा जाने वाला दोनों एक ही चैतन्य हैं।
 
 ---
 
 <a name="salok-88"></a>
 ## सलोक 88: कबीर मारी मरउ कुसंग की केले निकटि ज...
-**English Title:** Salok 88: Kabaeera Maaraee Marau Kausanga Kaee Kaelae Nai
+**English Title:** The Plantain Tree Beside the Thorny Bush: Shun the Cynic's Company
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3499,21 +3664,24 @@ uh (him) jhoolai (jhoolai) uh (him) cheereeai (cheereeai) saakat (saakat) sangu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मारी मरउ कुसंग की केले निकटि जु बेरि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—कुसंगति की मार से आत्मा वैसे ही लहूलुहान होती है, जैसे कांटेदार बेर के पास उगा हुआ कोमल केले का वृक्ष;
+जब बेर हवा में झूलता है तो केले के सुंदर पत्ते छिन्न-भिन्न होकर फट जाते हैं, इसलिए ईश्वर-विमुख साक्त की संगति कभी मत करो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaareemaraukusangakeekelenikatijuber—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Tormented am I by evil company, as the tender plantain beside the thorny brier;
+The thorn bush sways in the wind, and shreds the delicate leaves in mire;
+Look not upon the face of the faithless cynic who scorns the Holy Name;
+Lest thy spiritual innocence be wounded and dragged down into shame!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मारी मरउ कुसंग की केले निकटि ज'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **केला और बेर**: कोमल साधक दुर्जन के सान्निध्य में आकर अपनी आध्यात्मिक साधना को खंडित कर बैठता है।
 
 ---
 
 <a name="salok-89"></a>
 ## सलोक 89: कबीर भार पराई सिरि चरै चलिओ चाहै बा...
-**English Title:** Salok 89: Kabaeera Bhaara Paraaee Sairai Charaai Chalaio Chaa
+**English Title:** Bearing Others' Sins While Forgetting One's Own Burden Before the Pass
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3536,21 +3704,24 @@ apane (one's own) bhaarahi (bhaarahi) na (not) darai (fear (does/by)) aagai (aag
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर भार पराई सिरि चरै चलिओ चाहै बाट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अज्ञानी मनुष्य दूसरों की निंदा और बुराई का भारी बोझ अपने सिर पर लादकर जीवन के मार्ग पर चलता है;
+वह अपने स्वयं के पापों के भारी बोझ से नहीं डरता, जबकि आगे मृत्यु की अत्यंत दुर्गम और संकरी घाटी उसका मार्ग रोके खड़ी है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabhaaraparaaeesiricharaichaliochaahaibaata—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He hoists the heavy burden of others' faults and gossip upon his head,
+Yet trembles not at the weight of his own sins while marching ahead;
+Before him lies the steep, terrifying pass of death and judgment stern;
+Drop the baggage of slander, and toward inner repentance turn!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर भार पराई सिरि चरै चलिओ चाहै बा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पर-निंदा का भार**: दूसरों के दोष देखना अपने सिर पर पाप का बोझ लादना है।
 
 ---
 
 <a name="salok-90"></a>
 ## सलोक 90: कबीर बन की दाधी लाकरी ठाढी करै पुका...
-**English Title:** Salok 90: Kabaeera Bana Kaee Daadhaee Laakaraee Thaadhaee Karaai
+**English Title:** The Burnt Timber Weeps: Let Me Not Fall into the Blacksmith's Forge Twice
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3573,21 +3744,24 @@ mati (intellect/mind) basi (under control) parau (but/upon) luhaar (luhaar) ke (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बन की दाधी लाकरी ठाढी करै पुकार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+दावानल से आधी जली हुई वन की लकड़ी खड़ी होकर विलाप करती हुई पुकारती है;
+कि हे विधाता! मुझे किसी लोहार के पाले मत पड़ने देना, अन्यथा वह मुझे कोयला बनाकर अपनी धधकती भट्ठी में दूसरी बार जलाएगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabanakeedaadheelaakareethaadheekaraipukaara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The half-burnt timber of the wild forest cries aloud in agony and dread:
+'May I never fall into the hands of the blacksmith where the furnace burns red;
+Lest he turn me into charcoal and burn my shattered soul a second time!'
+Deliver me, O Lord, from the recurring fire of rebirth's sorrowful climb!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बन की दाधी लाकरी ठाढी करै पुका'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **दूसरी बार जलना (पुनर्जन्म)**: एक बार देह छूटने पर यदि मुक्ति न हुई, तो पुनः जन्म लेकर संसार की भट्ठी में जलना पड़ता है।
 
 ---
 
 <a name="salok-91"></a>
 ## सलोक 91: कबीर एक मरंते दुइ मूए दोइ मरंतह चार...
-**English Title:** Salok 91: Kabaeera Eka Marantae Daui Maooe Daoi Maranta
+**English Title:** When Ego Died, Duality Died: Extinguishing the Six and Four
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3610,21 +3784,24 @@ chaari (four related) marantah (marantah) chhah (chhah) mooe (mooe) chaari (four
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर एक मरंते दुइ मूए दोइ मरंतह चारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब मूल अहंकार ('मैं') मरा तो उसके साथ द्वैत (सुख-दुख) भी मिट गया; और द्वैत मिटते ही चारों अंतःकरण (मन, बुद्धि, चित्त, अहंकार) का विकार शांत हो गया;
+और अंत में छहों ऋतुओं और दसों दिशाओं के समस्त विकार भस्म होकर शांत हो गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraekamaranteduimooedoimarantahachaari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+With the death of the primal ego, duality of mind perished in the light;
+With the death of duality, the fourfold turmoil vanished from sight;
+Six adversaries of passion fell, leaving the soul in pure release;
+Where the illusion of self dissolves, reigns everlasting peace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर एक मरंते दुइ मूए दोइ मरंतह चार'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आंतरिक गणित**: 'एक' (अहंकार) के मरने से 'दो' (द्वैत), 'चार' (अंतःकरण के भ्रम) और 'छह' (काम, क्रोध आदि षड्रिपु) स्वतः नष्ट हो जाते हैं।
 
 ---
 
 <a name="salok-92"></a>
 ## सलोक 92: कबीर देखि देखि जगु ढूंढिआ कहूं न पा...
-**English Title:** Salok 92: Kabaeera Daekhai Daekhai Jagau Dhaoondhaiaa Kahaoon
+**English Title:** Searching the World in Vain: No Resting Place without the Name
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3647,21 +3824,24 @@ jini (do not/who) hari (The Lord who dispels grief (Hari)) ka (of) naamu (True N
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर देखि देखि जगु ढूंढिआ कहूं न पाइआ ठउरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैंने अपनी आंखों से भली-भांति देखकर संपूर्ण संसार को छान मारा, किंतु ईश्वर के बिना मुझे कहीं कोई स्थायी विश्राम-स्थल न मिला;
+जिन्होंने उस परमात्मा के पावन नाम का स्मरण नहीं किया, वे अन्यत्र कहाँ-कहाँ भटकते फिरेंगे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradekhidekhijagudhoondhiaakahoonnapaaiaathau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Searching and searching across the world, I found no steady shore;
+Whosoever contemplates not the Lord's Name wanders lost forevermore;
+Cast off the empty mirage of worldly promise and deceit;
+The only enduring sanctuary lies at the Beloved's lotus feet!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर देखि देखि जगु ढूंढिआ कहूं न पा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सच्चा आश्रय**: संसार में कोई स्थान शांति नहीं दे सकता; केवल राम-नाम ही विश्राम-स्थल है।
 
 ---
 
 <a name="salok-93"></a>
 ## सलोक 93: कबीर संगति करीऐ साध की अंति करै निर...
-**English Title:** Salok 93: Kabaeera Sangatai Karaeeai Saadha Kaee Antai Kara
+**English Title:** The Fellowship of Saints Sustains Unto the End: Sceptic Brings Ruin
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3684,21 +3864,24 @@ saakat (saakat) sangu (holy company/companionship) n (not) keejeeai (keejeeai) j
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संगति करीऐ साध की अंति करै निरबाहु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सदा सच्चे संतों की संगति करो, क्योंकि वे जीवन से लेकर परलोक के अंतिम क्षण तक आत्मा का कल्याणकारी निर्वाह करते हैं;
+ईश्वर-विमुख साक्त की संगति कभी मत करो, क्योंकि उसकी संगति से अंततः संपूर्ण आत्मिक विनाश ही होता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasangatikareeaisaadhakeeantikarainirabaahu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Seek the holy company of the saints, for they sustain the soul unto the end;
+Shun the dark association of the godless cynic, who can never be a true friend;
+For the presence of the righteous delivers the traveler across the sea,
+While the company of the sceptic leads to moral ruin and agony!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संगति करीऐ साध की अंति करै निर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अंतिम निर्वाह**: सांसारिक मित्र मृत्यु पर छोड़ देते हैं; संत की वाणी परलोक में भी मार्गदर्शन करती है।
 
 ---
 
 <a name="salok-94"></a>
 ## सलोक 94: कबीर जग महि चेतिओ जानि कै जग महि रह...
-**English Title:** Salok 94: Kabaeera Jaga Mahai Chaetaio Jaanai Kaai Jaga Ma
+**English Title:** Remember the Indwelling Lord: Without the Name Birth Is Wasted
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3721,21 +3904,24 @@ jin (jin) hari (The Lord who dispels grief (Hari)) ka (of) naamu (True Name) n (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जग महि चेतिओ जानि कै जग महि रहिओ समाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में उस परमात्मा को सर्वव्यापी जानकर मैंने अपने अंतर्मन में निरंतर स्मरण किया, जो संपूर्ण सृष्टि के कण-कण में समाया हुआ है;
+किंतु जिन्होंने उस परमात्मा के नाम का स्मरण नहीं किया, उनका इस संसार में जन्म लेना सर्वथा व्यर्थ और निष्प्रयोजन सिद्ध हुआ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajagamahichetiojaanikaijagamahirahiosam—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Knowing Him as immanent in all creation, I contemplated the Divine;
+Those who remembered not the Holy Name wasted their life's design;
+Arriving upon this earth in vain, departing empty-handed in grief;
+Anchor thy soul in the Indwelling Essence, the only true relief!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जग महि चेतिओ जानि कै जग महि रह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जीवन की सार्थकता**: केवल श्वास लेना जीवन नहीं; परमात्मा का बोध ही मनुष्य जन्म को सार्थक बनाता है।
 
 ---
 
 <a name="salok-95"></a>
 ## सलोक 95: कबीर आसा करीऐ राम की अवरै आस निरास ...
-**English Title:** Salok 95: Kabaeera Aasaa Karaeeai Raama Kaee Avaraai Aasa Na
+**English Title:** Hope in Ram Brings Fulfillment, Other Hopes Bring Despair
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3758,21 +3944,24 @@ naraki (hell related) parahi (parahi) te (from/by) maanaee (maanaee) jo (that) h
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर आसा करीऐ राम की अवरै आस निरास—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सदा उस अविनाशी परमात्मा राम की ही आशा और भरोसा रखो, संसार की अन्य समस्त आशाएं अंततः केवल निराशा ही देती हैं;
+वे मनुष्य घोर नरक के कष्टों में गिरते हैं, जो परमात्मा के पावन नाम के प्रति उदासीन और विमुख बने रहते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaasaakareeairaamakeeavaraiaasaniraasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Place thy hope in Ram alone, for all other earthly hopes end in despair;
+Those mortals fall into the abyss of sorrow who for the Name hold no care;
+Trust not the fleeting promises of mortals who crumble back to clay;
+Fasten thy expectation to the Eternal Lord who abides night and day!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर आसा करीऐ राम की अवरै आस निरास '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अनन्य भरोसा**: संसार पर निर्भर रहने वाला सदा दुखी होता है; राम पर भरोसा रखने वाला सदा तृप्त रहता है।
 
 ---
 
 <a name="salok-96"></a>
 ## सलोक 96: कबीर सिख साखा बहुते कीए केसो कीओ न ...
-**English Title:** Salok 96: Kabaeera Saikha Saakhaa Bahautae Kaeee Kaesao Ka
+**English Title:** Countless Disciples Gathered, but Keshav Was Not Made a Friend
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3795,21 +3984,24 @@ chaale (chaal (spiritual sense)) the (were) hari (The Lord who dispels grief (Ha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सिख साखा बहुते कीए केसो कीओ न मीतु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उसने सांसारिक मान-बड़ाई के लिए अपने बहुत से शिष्य और अनुयायी तो बना लिए, किंतु उस परम प्रभु केशव को अपना सच्चा सखा नहीं बनाया;
+वे चले तो थे परमात्मा से मिलने के मार्ग पर, किंतु बीच मार्ग में ही उनका चित्त मान, पद और शिष्यों के प्रपंच में अटक कर रह गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasikhasaakhaabahutekeeekesokeeonameetu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He amassed countless disciples and followers to inflate his worldly name;
+Yet never befriended the Sovereign Lord, lost in ambition's game;
+He set forth on the journey to attain union with the Divine above,
+Yet stranded midway in pride, alienated from authentic love!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सिख साखा बहुते कीए केसो कीओ न '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गुरुडम का पाखंड**: शिष्य बनाना और पंथ चलाना साधना का भटकाव है; जब तक ईश्वर से व्यक्तिगत प्रेम नहीं, सब व्यर्थ है।
 
 ---
 
 <a name="salok-97"></a>
 ## सलोक 97: कबीर कारनु बपुरा किआ करै जउ रामु न ...
-**English Title:** Salok 97: Kabaeera Kaaranau Bapauraa Kaiaa Karaai Jau Raa
+**English Title:** Worldly Effort Is Powerless without Ram: Every Branch Snaps
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3832,21 +4024,24 @@ jih (which) jih (which) daalee (daal (spiritual sense)) pagu (foot) dharau (plac
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कारनु बपुरा किआ करै जउ रामु न करै सहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सांसारिक यत्न और उपाय भला क्या कर सकते हैं, जब तक स्वयं परमात्मा राम जीव की सहायता नहीं करते;
+जिस-जिस सांसारिक डाली पर मैं आश्रय पाने के लिए पैर रखता हूँ, वही डाली मेरे भार से मुड़-मुड़कर टूट जाती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaaranubapuraakiaakaraijauraamunakarais—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What can fragile human effort avail, if Ram extends not His saving hand?
+Every branch of worldly support upon which I place my foot snaps like sand;
+No earthly reed can bear the weight of the soul's deep yearning and strain;
+Only the unshakeable Pillar of the Almighty preserves through storm and pain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कारनु बपुरा किआ करै जउ रामु न '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **प्रभु-कृपा की अनिवार्यता**: मनुष्य के अपने प्रयास तब तक फलित नहीं होते जब तक ईश्वरीय अनुग्रह साथ न हो।
 
 ---
 
 <a name="salok-98"></a>
 ## सलोक 98: कबीर अवरह कउ उपदेसते मुख मै परि है ...
-**English Title:** Salok 98: Kabaeera Avaraha Kau Upadaesatae Maukha Maai Para
+**English Title:** Preaching to Others Pours Sand in the Mouth: Own Field Devoured
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3869,21 +4064,24 @@ raasi (raasi) biraanee (biraanee) raakhate (raakhate) khaaya (eat/consume (done/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर अवरह कउ उपदेसते मुख मै परि है रेतु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जो स्वयं आचरण किए बिना केवल दूसरों को उपदेश बांटता फिरता है, उसके मुख में केवल धूल और रेत ही पड़ती है;
+वह दूसरों के धन और खेत की पहरेदारी करने में व्यस्त रहा, और इधर उसके अपने ही घर की आत्मिक खेती को विकारों के पशु चर गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraavarahakauupadesatemukhamaiparihairetu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Preaching loftily to others without practicing pours sand into the mouth;
+Guarding the property of strangers while his own field is struck by drouth;
+The cattle of uncontrolled desires devour his inner spiritual harvest clean;
+Fie on the hypocrite who speaks words while living in darkness unseen!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर अवरह कउ उपदेसते मुख मै परि है '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **उपदेशकों को आईना**: कबीर उन पंडितों को लताड़ते हैं जो दूसरों को ज्ञान देते हैं पर स्वयं काम-क्रोध में लिप्त रहते हैं।
 
 ---
 
 <a name="salok-99"></a>
 ## सलोक 99: कबीर साधू की संगति रहउ जउ की भूसी ख...
-**English Title:** Salok 99: Kabaeera Saadhaoo Kaee Sangatai Rahau Jau Kaee Bha
+**English Title:** Better Barley Husks with Saints than Feasts with the Sceptic
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3906,21 +4104,24 @@ honahaaru (honahaaru) so (that/the same) hoihai (hoihai) saakat (saakat) sangi (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साधू की संगति रहउ जउ की भूसी खाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चाहे केवल जौ की सूखी भूसी खाकर ही जीवन बिताना पड़े, फिर भी मैं सदा सच्चे संतों की पावन संगति में ही रहूँगा;
+मेरे भाग्य में जो होना है सो हो, किंतु मैं कभी किसी ईश्वर-विमुख साक्त की संगति में नहीं जाऊँगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaadhookeesangatirahaujaukeebhooseekhaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Let me dwell in the holy company of the saints, even if feeding on coarse barley husk;
+Whatever destiny is ordained shall pass, from the morning light unto dusk;
+Never shall I step across the threshold to join the godless cynic's feast;
+For in the presence of the humble saint, the lowest becomes the priest!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साधू की संगति रहउ जउ की भूसी ख'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्संगति का संकल्प**: गरीबी में सत्संग करना राजसी ठाठ में कुसंग करने से अनंत गुना श्रेष्ठ है।
 
 ---
 
 <a name="salok-100"></a>
 ## सलोक 100: कबीर संगति साध की दिन दिन दूना हेतु...
-**English Title:** Salok 100: Kabaeera Sangatai Saadha Kaee Daina Daina Daoonaa
+**English Title:** Saint's Company Doubles Love: The Sceptic's Black Blanket Whitens Not
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3943,21 +4144,24 @@ saakat (saakat) kaaree (work/deed) kaanbaree (kaanbaree) dhoe (dhoe) hoi (having
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संगति साध की दिन दिन दूना हेतु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चे संतों की संगति करने से प्रभु के प्रति प्रेम और भक्ति दिन-प्रतिदिन दोगुनी होकर बढ़ती है;
+किंतु ईश्वर-विमुख साक्त तो काली कमली के समान है, जिसे कितना भी धोया जाए वह कभी उज्ज्वल और श्वेत नहीं हो सकती!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasangatisaadhakeedinadinadoonaahetu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The holy fellowship of the saints doubles divine love day by day in light;
+While the godless cynic is like a coarse black blanket that washing makes never white;
+Surround thyself with those who thirst for the water of the Sacred Word;
+And soar beyond the murky shadows where only worldly noise is heard!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संगति साध की दिन दिन दूना हेतु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **काली कमली**: दुर्जन का स्वभाव सत्संग से भी नहीं बदलता यदि उसमें आंतरिक ग्रहणशीलता न हो; संतों का संग भक्तों के प्रेम को बढ़ाता है।
 
 ---
 
 <a name="salok-101"></a>
 ## सलोक 101: कबीर मनु मूंडिआ नही केस मुंडाए कांइ...
-**English Title:** Salok 101: Kabaeera Manau Maoondaiaa Nahaee Kaesa Maundaae
+**English Title:** Shave the Mind, Not the Hair: The Mind Alone Committed Sins
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -3980,21 +4184,24 @@ jo (that) kichhu (anything/a little) keea (did/created) so (that/the same) man (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मनु मूंडिआ नही केस मुंडाए कांइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य ने अपने वासनायुक्त मन का तो मुंडन किया नहीं, फिर सिर के बालों को घोंटकर मुंडाने से क्या लाभ हुआ?
+संसार में जो कुछ भी पाप और कुकर्म किया गया वह तो इस चंचल मन ने किया, बेचारे निर्दोष सिर को व्यर्थ ही मुंडा डाला!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramanumoondiaanaheekesamundaaekaani—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He shaved not the lustful desires of his mind: why shave the hair of his head?
+Whatever sin and corruption was wrought, by the crooked mind was bred;
+Useless is the physical shearing of locks, leaving the inner beast alive;
+Shave the ego of the heart, that pure spiritual vision may thrive!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मनु मूंडिआ नही केस मुंडाए कांइ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन का मुंडन**: सिर मुंडवाना संन्यास का बाह्य ढोंग है; वास्तविक संन्यास मन की वासनाओं का मुंडन करना है।
 
 ---
 
 <a name="salok-102"></a>
 ## सलोक 102: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ...
-**English Title:** Salok 102: Kabaeera Raamau Na Chhaodaeeai Tanau Dhanau Jaai
+**English Title:** Forsake Not Ram Though Body and Wealth Perish
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4017,21 +4224,24 @@ charan (lotus feet) kamal (lotus flower) chitu (inner mind) bedhia (bedhia) raam
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा राम के पावन नाम का आश्रय कभी मत छोड़ो, चाहे यह नश्वर शरीर और सारा धन नष्ट होता हो तो हो जाए;
+जिसका चित्त प्रभु के चरण-कमलों में बिंध गया है, वह सदा के लिए राम के सत्य-नाम में लीन हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamunachhodeeaitanudhanujaaitajaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Abandon not the shelter of Ram, though mortal body and wealth decay and fly;
+When the soul is pierced by the beauty of His lotus feet, it merges into the sky;
+Unwavering through loss and trial, anchored in the eternal living Word;
+Nothing can shake the faithful heart that has the Beloved's whisper heard!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अखंड निष्ठा**: तन और धन नश्वर हैं; राम शाश्वत हैं। नश्वर की खातिर शाश्वत को नहीं छोड़ा जा सकता।
 
 ---
 
 <a name="salok-103"></a>
 ## सलोक 103: कबीर जो हम जंतु बजावते टूटि गईं सभ ...
-**English Title:** Salok 103: Kabaeera Jao Hama Jantau Bajaavatae Taootai Gaee
+**English Title:** All Strings of the Instrument Broke: The Musician Departed
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4054,21 +4264,24 @@ jantu (creatures/living beings) bichaara (four related) kia (what) karai (doing 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जो हम जंतु बजावते टूटि गईं सभ तार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह शरीर रूपी वाद्य-यंत्र जिसे हम जीवन भर बजाते रहे, अब इसके श्वास और नाड़ियों के सारे तार टूट चुके हैं;
+अब यह बेचारा निर्जीव वाद्य-यंत्र क्या कर सकता है, जब इसे बजाने वाला कुशल संगीतकार (जीवात्मा) ही इसे छोड़कर विदा हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajohamajantubajaavatetootigaeensabhataara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The body-instrument upon which we played has snapped all its vibrant strings;
+What can the poor lifeless lute perform, when the Musician spreads his wings?
+The melody of breath is silent, the music of motion has fled the frame;
+Only dry wood and severed chords remain, devoid of the living flame!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जो हम जंतु बजावते टूटि गईं सभ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शरीर एक वीणा है**: जब तक आत्मा रूपी वादक है, शरीर बोलता है; उसके निकलते ही यह काठ का खिलौना रह जाता है।
 
 ---
 
 <a name="salok-104"></a>
 ## सलोक 104: कबीर माइ मूंडउ तिह गुरू की जा ते भर...
-**English Title:** Salok 104: Kabaeera Maai Maoondau Taiha Gauraoo Kaee Jaa
+**English Title:** Shave That Guru Who Dispels Not Doubt: Drowned in Scholasticism
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4091,21 +4304,24 @@ aap (Himself/oneself) dube (dube) chahu (and (from/by)) bed (Vedas) mahi (within
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माइ मूंडउ तिह गुरू की जा ते भरमु न जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उस अज्ञानी गुरु की माता का सिर मुंडा देना चाहिए, जिसकी संगति से साधक के अंतर्मन का संशय और भ्रम नहीं मिटता;
+वह स्वयं तो चारों वेदों के शाब्दिक विवादों में डूबकर नष्ट हो गया, और अपने पीछे चलने वाले अभागे शिष्यों को भी अज्ञान की बाढ़ में बहा दिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaaimoondautihagurookeejaatebharamuna—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Renounce that blind master from whom lingering doubt is not swept away;
+He himself drowned in academic debates of the four Vedas day by day,
+And dragged his unfortunate disciples into the roaring flood of night;
+Fie on the guide who lacks the vision of the self-luminous inner light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माइ मूंडउ तिह गुरू की जा ते भर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अंधे गुरु का परिणाम**: जो स्वयं वेदों के शाब्दिक जाल में फंसा है और आत्म-साक्षात्कार नहीं रखता, वह शिष्यों को भी भटका देता है।
 
 ---
 
 <a name="salok-105"></a>
 ## सलोक 105: कबीर जेते पाप कीए राखे तलै दुराइ ॥...
-**English Title:** Salok 105: Kabaeera Jaetae Paapa Kaeee Raakhae Talaai Daura
+**English Title:** Concealed Sins Laid Bare Before the Righteous Judge
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4128,21 +4344,24 @@ paragat (paragat) bhae (became) nidaan (charity/alms related) sabh (all) jab (at
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जेते पाप कीए राखे तलै दुराइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य ने संसार की आंखों से छिपाकर जितने भी गुप्त पाप किए और उन्हें जमीन के नीचे दबाकर रखा;
+वे समस्त पाप अंत समय में साक्षात प्रत्यक्ष प्रकट हो गए, जब धर्मराज ने न्याय के आसन पर बैठकर कर्मों का हिसाब पूछा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajetepaapakeeeraakhetalaiduraai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Whatsoever sins were secretly committed and concealed beneath the sod,
+Stand revealed in glaring light before the judgment seat of God;
+When the Righteous Judge demands the ledger, no deceit can shield the soul;
+Every hidden act and thought is weighed, claiming its fateful toll!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जेते पाप कीए राखे तलै दुराइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्म की सर्वव्यापकता**: कोई भी पाप गुप्त नहीं रहता; अंततः अंतःकरण का बही-खाता सब कुछ उजागर कर देता है।
 
 ---
 
 <a name="salok-106"></a>
 ## सलोक 106: कबीर हरि का सिमरनु छाडि कै पालिओ बह...
-**English Title:** Salok 106: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Paala
+**English Title:** Nurturing the Family Without Ram: Standing Alone in the End
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4165,21 +4384,24 @@ dhandha (dhandha) karata (doing related) rahi (having remained) gaia (went/depar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरि का सिमरनु छाडि कै पालिओ बहुतु कुट्मबु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा के पावन स्मरण को छोड़कर उसने जीवन भर अपने विशाल कुटुंब और परिवार का ही पोषण किया;
+संसार के धंधों में ही उसकी सारी आयु बीत गई, और अंत समय में न कोई भाई साथ रहा और न ही कोई सगा संबंधी काम आया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharikaasimaranuchhaadikaipaaliobahutuk—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsaking the holy remembrance of the Lord, he reared a vast clan in greed;
+Consumed in endless worldly commerce, blind to his spirit's need;
+When the final breath departed, neither brother nor kin stood by his side;
+Alone the naked traveler marched across the desolate divide!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरि का सिमरनु छाडि कै पालिओ बह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कुटुंब का मोह**: परिवार के लिए पाप करने वाला अंत में अकेला ही कर्मों का फल भोगता है; कोई रिश्तेदार साथ नहीं जाता।
 
 ---
 
 <a name="salok-107"></a>
 ## सलोक 107: कबीर हरि का सिमरनु छाडि कै राति जगा...
-**English Title:** Salok 107: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Raata
+**English Title:** Night Vigils for Petty Spirits: Reborn as a Serpent Devouring Her Brood
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4202,21 +4424,24 @@ sarapani (sarapani) hoi (having become) kai (of) autarai (autarai) jaae (jaae) a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरि का सिमरनु छाडि कै राति जगावन जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा के पावन सिमरन को त्यागकर जो स्त्री क्षुद्र देवी-देवताओं और भूत-प्रेतों के रतजगे करने जाती है;
+वह परलोक में विषैली सर्पिणी बनकर जन्म लेती है, जो जन्म देकर स्वयं अपने ही बच्चों को खा जाती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharikaasimaranuchhaadikairaatijagaavanaja—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsaking the adoration of the Supreme Lord, she attends nocturnal rites in the dark;
+Worshiping petty spirits and ghosts, extinguishing the inner spark;
+Reborn as a venomous serpent she wanders across the wilderness of pain;
+Devouring her own newborn brood, reaping the harvest of folly in vain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरि का सिमरनु छाडि कै राति जगा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अंधविश्वास का खंडन**: कबीर एको ब्रह्म की उपासना पर बल देते हैं; तंत्र-मंत्र और भूत-प्रेत की पूजा आत्मिक अधोगति लाती है।
 
 ---
 
 <a name="salok-108"></a>
 ## सलोक 108: कबीर हरि का सिमरनु छाडि कै अहोई राख...
-**English Title:** Salok 108: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Ahao
+**English Title:** Ritual Fasting for Ahoi: Reborn as a Donkey Bearing Heavy Loads
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4239,21 +4464,24 @@ gadahee (gadahee) hoi (having become) kai (of) autarai (autarai) bhaaru (heavy b
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरि का सिमरनु छाडि कै अहोई राखै नारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा के नाम-स्मरण को छोड़कर जो स्त्री पुत्र-कामना में अहोई-अष्टमी के कर्मकांडी व्रत रखती है;
+वह अगले जन्म में गधी बनकर अवतार लेती है, और जीवन भर अपनी पीठ पर चार-चार मन का भारी बोझ ढोती फिरती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharikaasimaranuchhaadikaiahoeeraakhainaar—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsaking the contemplation of Hari, the woman observes superstitious fasts and vows;
+Trading spiritual enlightenment for rituals to which the worldly multitude bows;
+In the next birth she descends as a beast of burden, carrying four maunds of clay;
+Beaten with sticks upon dusty roads, squandering life away!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरि का सिमरनु छाडि कै अहोई राख'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्मकांडी व्रतों की व्यर्थता**: पुत्र या संपत्ति के लिए किए जाने वाले व्रत मुक्ति नहीं देते, केवल अज्ञान के बोझ को बढ़ाते हैं।
 
 ---
 
 <a name="salok-109"></a>
 ## सलोक 109: कबीर चतुराई अति घनी हरि जपि हिरदै म...
-**English Title:** Salok 109: Kabaeera Chatauraaee Atai Ghanaee Harai Japai Hai
+**English Title:** Deepest Wisdom: Chant Ram Within; Walking on the Razor's Edge
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4276,21 +4504,24 @@ sooree (wild boars/base vices) oopari (upon) khelana (khelana) girai (falls down
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चतुराई अति घनी हरि जपि हिरदै माहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में सबसे बड़ी और सच्ची चतुराई यही है कि मनुष्य अपने अंतःकरण में गुप्त रूप से हरि-नाम का जप करे;
+क्योंकि यह साधना सूली की नोक पर खेलने के समान अत्यंत सूक्ष्म और कठिन है, जहाँ से यदि मन फिसले तो गिरने के लिए कोई सहारा नहीं मिलता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerachaturaaeeatighaneeharijapihiradaimaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The highest wisdom and discernment is to chant the Name within the secret core;
+For walking this razor path of devotion is like dancing upon the spear evermore;
+A single slip of pride or lust casts the soul down into the abyss below;
+Stay vigilant in humble prayer, where living waters of grace overflow!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चतुराई अति घनी हरि जपि हिरदै म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सूली पर खेलना**: भक्ति का मार्ग तलवार की धार पर चलने के समान है; यहाँ निरंतर सजगता और शुद्धता अपेक्षित है।
 
 ---
 
 <a name="salok-110"></a>
 ## सलोक 110: कबीर सोई मुखु धंनि है जा मुखि कहीऐ ...
-**English Title:** Salok 110: Kabaeera Saoee Maukhau Dhannai Haai Jaa Maukhai
+**English Title:** Blessed Is the Mouth that Utters Ram: The Entire Village Is Sanctified
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4313,21 +4544,24 @@ dehee (mortal body/frame) kis (unto whom/whom) kee (of) baapuree (baapuree) pavi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सोई मुखु धंनि है जा मुखि कहीऐ रामु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में वही मुख परम धन्य और वंदनीय है, जिस मुख से प्रेमपूर्वक परमात्मा राम का नाम उच्चारित होता है;
+उस भक्त की नश्वर देह की तो बात ही क्या, जिस गांव में वह निवास करता है वह संपूर्ण गांव ही उसके प्रभाव से पवित्र हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasoeemukhudhannihaijaamukhikaheeairaamu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Blessed is that mouth and sacred tongue from which the Name of Ram does ring;
+What to speak of that humble devotee's body, anointed by the King—
+The entire village wherein he dwells is sanctified by his holy feet;
+Radiating divine fragrance through the dust, making the barren wasteland sweet!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सोई मुखु धंनि है जा मुखि कहीऐ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भक्त का प्रभाव**: जिस भूमि पर सच्चा संत रहता है, वह संपूर्ण क्षेत्र तीर्थ बन जाता है।
 
 ---
 
 <a name="salok-111"></a>
 ## सलोक 111: कबीर सोई कुल भली जा कुल हरि को दासु...
-**English Title:** Salok 111: Kabaeera Saoee Kaula Bhalaee Jaa Kaula Harai Kao
+**English Title:** Noble Is the Lineage Where God's Servant Is Born: Others Are Wild Weeds
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4350,21 +4584,24 @@ jih (which) kul (all/entire) daasu (devoted servant) n (not) oopajai (arises/is 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सोई कुल भली जा कुल हरि को दासु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में केवल वही कुल और वंश वास्तव में उत्तम और श्रेष्ठ है, जिस कुल में परमात्मा का कोई सच्चा भक्त उत्पन्न होता है;
+जिस कुल में भगवान का कोई दास जन्म नहीं लेता, वह कुल जंगल के निष्फल और गंधहीन ढाक-पलाश के समान निरर्थक है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasoeekulabhaleejaakulaharikodaasu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Blessed is that noble lineage wherein a servant of the Sovereign Lord is born;
+That clan where no devotee arises is like the wild palas tree, barren and forlorn;
+No fragrance of truth, no fruit of grace, only hollow branches in the wild;
+Exalted is the humble home that welcomes the Divine Beloved's child!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सोई कुल भली जा कुल हरि को दासु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सच्ची कुलीनता**: कुल की महानता धन या उच्च जाति से नहीं, बल्कि उसमें उत्पन्न होने वाले भक्तों और संतों से होती है।
 
 ---
 
 <a name="salok-112"></a>
 ## सलोक 112: कबीर है गइ बाहन सघन घन लाख धजा फहरा...
-**English Title:** Salok 112: Kabaeera Haai Gai Baahana Saghana Ghana Laakha Dhajaa
+**English Title:** Better to Beg for Bread While Chanting Ram than Own Cavalries and Flags
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4387,21 +4624,24 @@ ia (ia) sukh (true bliss) te (from/by) bhikhya (bhikhya) bhalee (bhal (spiritual
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर है गइ बाहन सघन घन लाख धजा फहराहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चाहे किसी के पास अनगिनत हाथी-घोड़ों की सेनाएं हों और लाखों राजसी ध्वज गर्व से फहरा रहे हों;
+उस राजसी सुख से तो भिक्षा मांगकर सूखी रोटी खाना कहीं अधिक श्रेष्ठ है, यदि वह जीवन प्रभु-नाम के स्मरण में व्यतीत होता हो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahaigaibaahanasaghanaghanalaakhadhajaaphaharaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Though one possess legions of proud steeds, tuskers, and chariots arrayed in light,
+With a hundred thousand royal banners fluttering from the castle's height;
+Better than all that earthly grandeur is begging for bread from door to door,
+If the days are sanctified in remembrance of the Lord for evermore!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर है गइ बाहन सघन घन लाख धजा फहरा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **फकीरी बनाम बादशाही**: ईश्वर-स्मरण के सम्मुख संसार के बड़े से बड़े साम्राज्य का वैभव भी तुच्छ है।
 
 ---
 
 <a name="salok-113"></a>
 ## सलोक 113: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ...
-**English Title:** Salok 113: Kabaeera Sabhau Jagau Hau Phairaio Maandalau Ka
+**English Title:** Beating the Drum of Truth Across the Earth: None Belongs to Anyone
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4424,21 +4664,24 @@ koee (anyone) kaahoo (anyone/anyone's) ko (unto/toward) nahee (not) sabh (all) d
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं अपने कंधे पर सत्य का ढोल रखकर संपूर्ण संसार में घूम-घूम कर देख आया;
+मैंने सबको भली-भांति ठोक-बजाकर परख लिया है, इस नश्वर संसार में कोई किसी का वास्तविक सगा नहीं है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasabhujaguhauphiriomaandalukandhachadhaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I roamed the entire world bearing the drum of truth upon my shoulder bold;
+Testing every relationship and bond, weighing them against silver and gold;
+None belongs to anyone in this transient play when the final curtain falls;
+Only the eternal Sovereign Lord responds when the awakened soul calls!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संसार की निःसारता**: कबीर ने संसार को कसौटी पर परखा; सभी रिश्ते स्वार्थ के हैं, केवल परमात्मा ही सच्चा संगी है।
 
 ---
 
 <a name="salok-114"></a>
 ## सलोक 114: मारगि मोती बीथरे अंधा निकसिओ आइ ॥...
-**English Title:** Salok 114: Maaragai Maotaee Baeetharae Andhaa Naikasaio Aa
+**English Title:** Pearls Scattered upon the Road: The Blind World Bypasses the Light
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4461,21 +4704,24 @@ joti (divine radiance/light) bina (without) jagadees (jagadees (spiritual sense)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: मारगि मोती बीथरे अंधा निकसिओ आइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+सत्य के पावन मार्ग पर ब्रह्म-ज्ञान के अनमोल मोती चारों ओर बिखरे पड़े हैं, किंतु संसार का अज्ञानी मनुष्य अंधा होकर वहाँ आ निकला;
+परमात्मा की दिव्य ज्योति के बिना यह अंधा संसार उन अमूल्य मोतियों को पैरों तले लांघकर आगे बढ़ जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: maaragimoteebeethareandhaanikasioaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Priceless pearls of divine wisdom lie scattered upon the open road;
+Yet the blind worldly wanderer stumbled forth from his dark abode;
+Devoid of the inner lamp of God, he perceives not the treasure at his feet;
+Stepping over the jewels of liberation, rushing toward bitter deceit!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'मारगि मोती बीथरे अंधा निकसिओ आइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मोती और अंधा**: ज्ञान सुलभ है, किंतु अज्ञानी जीव की अंतर्दृष्टि बंद होने के कारण वह इसे पहचान नहीं पाता।
 
 ---
 
 <a name="salok-115"></a>
 ## सलोक 115: बूडा बंसु कबीर का उपजिओ पूतु कमालु ...
-**English Title:** Salok 115: Baoodaa Bansau Kabaeera Kaa Upajaio Paootau Ka
+**English Title:** Kamal Brought Wealth Home: Kabir's Lineage Drowned in Worldliness
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4498,21 +4744,24 @@ hari (The Lord who dispels grief (Hari)) ka (of) simaranu (chanting of holy name
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: बूडा बंसु कबीर का उपजिओ पूतु कमालु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—कबीर का रूहानी वंश तो मानो डूब ही गया, जब उसके घर में कमाल जैसा सांसारिक पुत्र उत्पन्न हुआ;
+जिसने परमात्मा के पावन सिमरन को छोड़कर घर में नश्वर धन-दौलत और माल-असबाब बटोरना शुरू कर दिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: boodaabansukabeerakaaupajiopootukamaalu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Kabir's spiritual lineage drowned when his son Kamal took birth upon the floor;
+Forsaking the contemplation of Hari, he gathered earthly riches to the door;
+Trading divine poverty and surrender for transient worldly gold and store;
+Fie on the heart that leaves the Infinite to hoard upon the mortal shore!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'बूडा बंसु कबीर का उपजिओ पूतु कमालु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **धन-संचय की भर्त्सना**: कबीर फकीरी को धन-संग्रह से श्रेष्ठ मानते हैं। पुत्र द्वारा धन कमाना उनके वैराग्य के विपरीत था।
 
 ---
 
 <a name="salok-116"></a>
 ## सलोक 116: कबीर साधू कउ मिलने जाईऐ साथि न लीजै...
-**English Title:** Salok 116: Kabaeera Saadhaoo Kau Mailanae Jaaeeai Saathai Na
+**English Title:** Go Alone to Meet the Saint: Step Not Backward, Come What May
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4535,21 +4784,24 @@ paachhai (afterwards, in the aftermath) paau (paau) n (not) deejeeai (deejeeai) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साधू कउ मिलने जाईऐ साथि न लीजै कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब सच्चे संत के दर्शन करने जाओ, तो अपने साथ किसी सांसारिक व्यक्ति को मत लो;
+और एक बार संत की ओर कदम बढ़ा दिए तो पीछे पैर मत हटाओ, आगे मार्ग में जो भी हो सो सहर्ष स्वीकार करो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaadhookaumilanejaaeeaisaathinaleejaikoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+When thou goest to meet the holy saint, take no worldly companion by thy side;
+Turn not thy foot backward in hesitation, whatever trial or storm betide;
+March steadfast toward the sacred presence with a single-pointed focused heart;
+Receive the nectar of the Master's glance and never from His truth depart!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साधू कउ मिलने जाईऐ साथि न लीजै'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अनन्य निष्ठा**: संत से मिलने में किसी सांसारिक मध्यस्थ की आवश्यकता नहीं; समर्पण व्यक्तिगत और अडिग होना चाहिए।
 
 ---
 
 <a name="salok-117"></a>
 ## सलोक 117: कबीर जगु बाधिओ जिह जेवरी तिह मत बंध...
-**English Title:** Salok 117: Kabaeera Jagau Baadhaio Jaiha Jaevaraee Taiha Ma
+**English Title:** Bind Not with Worldly Rope: Golden Body Dissolves like Salt in Flour
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4572,21 +4824,24 @@ jaihahi (jaihahi) aata (aata) lon (lon) jiu (just as) son (son) samaani (equal/i
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जगु बाधिओ जिह जेवरी तिह मत बंधहु कबीर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस मोह-माया की रस्सी से सारा संसार जकड़ा हुआ है, हे कबीर! तू उस रस्सी में कभी मत बंधना;
+क्योंकि यह सोने के समान सुंदर दिखने वाला शरीर एक दिन आटे में नमक की तरह घुलकर विलीन हो जाएगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajagubaadhiojihajevareetihamatabandhahukab—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Entangle not thy soul in that treacherous rope which binds the worldly crowd;
+Though this body shines like polished gold, boastful and proud,
+It shall dissolve into nothingness, like a pinch of salt in flour lost;
+Free thyself from Maya's cord, whatever the earthly cost!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जगु बाधिओ जिह जेवरी तिह मत बंध'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आटे में नमक**: जैसे आटे में नमक घुलकर अदृश्य हो जाता है, वैसे ही काल में यह शरीर मिट जाता है।
 
 ---
 
 <a name="salok-118"></a>
 ## सलोक 118: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना...
-**English Title:** Salok 118: Kabaeera Hansau Udaio Tanau Gaadaio Saojhaaee
+**English Title:** The Swan Flew Away, the Body Buried: Eyes Still Yearned in Death
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4609,21 +4864,24 @@ ajahoo (even now) jeeu (heart/mind) n (not) chhodaee (chhodaee) rankaaee (rankaa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैनाह—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हंस रूपी आत्मा शरीर से उड़ गई और नश्वर देह को मिट्टी में गाड़ दिया गया;
+किंतु आश्चर्य देखो कि अंत समय तक भी इस जीव की आंखों से सांसारिक लालसा और तृष्णा की दीनता दूर न हो सकी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahansuudiotanugaadiosojhaaeesainaaha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The swan soul flew into the heavens, the discarded clay was buried deep;
+Signs and portents were displayed while mourners gathered around to weep;
+Yet even in the threshold of death the wretched soul abandoned not its greed;
+Starving in spiritual poverty, blind unto its immortal need!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अतृप्त तृष्णा**: देह छूट जाती है पर वासनाएं समाप्त नहीं होतीं; यही पुनर्जन्म का कारण बनती हैं।
 
 ---
 
 <a name="salok-119"></a>
 ## सलोक 119: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त...
-**English Title:** Salok 119: Kabaeera Naaina Naihaarau Taujha Kau Saravana Sa
+**English Title:** Eyes Behold Thee, Ears Hear Thy Name, Lotus Feet in the Heart
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4646,21 +4904,24 @@ bain (bain (spiritual sense)) ucharau (ucharau) tua (thy/thine) naam (Divine Nam
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ तुअ नाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे प्रभु! मेरे ये नेत्र सदा तेरे ही दिव्य रूप को निहारते रहें, और मेरे कान निरंतर तेरे ही पावन नाम को सुनते रहें;
+मेरी वाणी सदा तेरे ही नाम का उच्चारण करे, और मेरे हृदय के भीतर तेरे पावन चरण-कमलों का स्थायी वास हो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranainanihaarautujhakausravanasunautuana—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+May mine eyes ever gaze upon Thy beauty, my ears hear Thy sacred sound;
+May my lips proclaim Thy Holy Name, and within my heart Thy lotus feet be found;
+Sanctify all my senses in the ecstasy of Thine unbroken love;
+Dwelling as a temple of Thy presence, illuminated from above!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **इन्द्रियों का दिव्यीकरण**: जब आंख, कान, वाणी और हृदय सब परमात्मा में रम जाते हैं, तब समग्र जीवन भक्ति बन जाता है।
 
 ---
 
 <a name="salok-120"></a>
 ## सलोक 120: कबीर सुरग नरक ते मै रहिओ सतिगुर के ...
-**English Title:** Salok 120: Kabaeera Sauraga Naraka Tae Maai Rahaio Sataigau
+**English Title:** Transcending Heaven and Hell by Guru's Grace: Ecstasy of Lotus Feet
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4683,21 +4944,24 @@ charan (lotus feet) kamal (lotus flower) kee (of) mauj (mauj) mahi (within/in) r
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सुरग नरक ते मै रहिओ सतिगुर के परसादि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सद्गुरु की असीम कृपा से मैं स्वर्ग की लालसा और नरक के भय—दोनों के द्वंद्व से सर्वथा मुक्त हो गया हूँ;
+अब तो मैं आदि से अंत तक केवल परमात्मा के पावन चरण-कमलों की अखंड रूहानी मौज और परमानंद में ही निवास करता हूँ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasuraganarakatemairahiosatigurakeparasaad—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+By the gracious blessing of the True Master, I have transcended both heaven and hell;
+No longer lured by celestial gardens, nor terrified by the fiery pit where sinners dwell;
+In the boundless ecstasy of the Beloved's lotus feet I abide from dawn to night;
+Liberated in eternal union, bathed in uncreated light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सुरग नरक ते मै रहिओ सतिगुर के '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **स्वर्ग-नरक का अतिक्रमण**: स्वर्ग का लोभ और नरक का भय दोनों अज्ञान हैं; सच्चा भक्त केवल परमात्मा के प्रेम में मस्त रहता है।
 
 ---
 
 <a name="salok-121"></a>
 ## सलोक 121: कबीर चरन कमल की मउज को कहि कैसे उनम...
-**English Title:** Salok 121: Kabaeera Charana Kamala Kaee Mauja Kao Kahai Kaaisa
+**English Title:** The Indescribable Ecstasy of the Lotus Feet: Seeing Alone Is Proof
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4720,21 +4984,24 @@ kahibe (kahibe) kau (unto) sobha (glory/splendor) nahee (not) dekha (beheld/saw)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चरन कमल की मउज को कहि कैसे उनमान—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा के पावन चरण-कमलों की उस अलौकिक मौज और आनंद का कोई अनुमान शब्दों में कैसे लगाया जा सकता है;
+वह वाणी से वर्णन करने की वस्तु नहीं है, जिसने साक्षात उसका अनुभव कर लिया वही उसका एकमात्र सच्चा प्रमाण है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeracharanakamalakeemaujakokahikaiseunamaana—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+How can mortal words ever estimate the bliss of the Beloved's lotus feet?
+No description can capture that ecstasy, so boundless, tranquil, and sweet;
+It defies all worldly utterance, beyond what speech can ever explain;
+Only he who has tasted the nectar knows the mystery of the reign!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चरन कमल की मउज को कहि कैसे उनम'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गूँगे का गुड़**: ब्रह्म-रस का अनुभव अवर्णनीय है; इसे केवल अनुभव किया जा सकता है, कहा नहीं जा सकता।
 
 ---
 
 <a name="salok-122"></a>
 ## सलोक 122: कबीर देखि कै किह कहउ कहे न को पतीआइ...
-**English Title:** Salok 122: Kabaeera Daekhai Kaai Kaiha Kahau Kahae Na Kao
+**English Title:** Beholding Him, Unto Whom Shall I Speak: Hari Is as He Is
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4757,21 +5024,24 @@ hari (The Lord who dispels grief (Hari)) jaisa (just as/like) taisa (such/like t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर देखि कै किह कहउ कहे न को पतीआइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उस परमात्मा का साक्षात दर्शन करके अब मैं संसार में किससे कहूँ, क्योंकि कहने पर कोई अज्ञानी विश्वास ही नहीं करता;
+परमात्मा जैसा है वह स्वयं ही वैसा अद्वितीय है, मैं तो बस आनंदित होकर निरंतर उसके पावन गुणों का गान करता रहता हूँ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradekhikaikihakahaukahenakopateeaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Having beheld the Supreme Divine, unto whom in this world shall I impart?
+None believes the wonder of the vision, closed is the doubtful mortal heart;
+The Lord is as He is—incomparable, beyond all metaphors that fade and die;
+I dwell enraptured in His praise, singing glory beneath the sky!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर देखि कै किह कहउ कहे न को पतीआइ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अतुलनीय ब्रह्म**: परमात्मा की उपमा किसी सांसारिक वस्तु से नहीं दी जा सकती; वह अद्वितीय है।
 
 ---
 
 <a name="salok-123"></a>
 ## सलोक 123: कबीर चुगै चितारै भी चुगै चुगि चुगि ...
-**English Title:** Salok 123: Kabaeera Chaugaai Chaitaaraai Bhaee Chaugaai Chaugai
+**English Title:** The Crane Pecks Grain While Remembering Her Chick in the Heart
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4794,21 +5064,24 @@ jaise (just as) bacharahi (bacharahi) koonj (koonj) man (mind/inner consciousnes
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चुगै चितारै भी चुगै चुगि चुगि चितारे—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+जैसे कूंज (सारस) पक्षी दूर देश में दाना चुगती रहती है, किंतु उसका ध्यान निरंतर अपने घोंसले में बैठे बच्चे में लगा रहता है;
+वैसे ही हे मन! तू संसार के समस्त सांसारिक कार्य और व्यवहार कर, किंतु अपनी सुरति को सदा परमात्मा के स्मरण में जोड़े रख!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerachugaichitaaraibheechugaichugichugichitaar—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+As the migratory crane pecks grain upon the shore while remembering her distant young,
+Feeding with outward beak while her heart's unbroken cord to the chick is strung;
+Even so, O restless mind, perform thy worldly duties amidst earthly strife,
+While anchoring thy secret consciousness in the Lord of life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चुगै चितारै भी चुगै चुगि चुगि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कूंज का दृष्टांत**: गृहस्थ और साधना का सुंदर समन्वय—हाथ काम में और दिल राम में।
 
 ---
 
 <a name="salok-124"></a>
 ## सलोक 124: कबीर अम्बर घनहरु छाइआ बरखि भरे सर त...
-**English Title:** Salok 124: Kabaeera Amabara Ghanaharau Chhaaiaa Barakhai Bharae
+**English Title:** Rainclouds Fill All Lakes, Yet the Chatrik Thirsts Only for the Drop
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4831,21 +5104,24 @@ chaatrik (chaatrik) jiu (just as) tarasat (tarasat) rahai (may abide/remain) tin
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर अम्बर घनहरु छाइआ बरखि भरे सर ताल—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—आकाश में घने बादलों की घटा छा गई और मूसलाधार वर्षा से संसार के समस्त सरोवर और ताल लबालब भर गए;
+किंतु उस चातक पक्षी की दशा तो देखो जो स्वाति-नक्षत्र की बूंद के बिना अब भी प्यासा ही तड़प रहा है—भक्त भी केवल प्रभु-नाम का प्यासा होता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraambaraghanaharuchhaaiaabarakhibharesarataala—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Dark rainclouds filled the heavens and poured down, brimming all lakes and pools;
+Yet behold the solitary Chatrik bird that drinks not from ponds of fools;
+Thirsting only for that single pure celestial drop from the open sky;
+Even so the true devotee hungers for the Lord, letting worldly rivers pass by!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर अम्बर घनहरु छाइआ बरखि भरे सर त'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चातक की अनन्यता**: चातक सारे संसार का जल त्यागकर केवल स्वाति बूंद पीता है; भक्त केवल राम-रस का रसिक होता है।
 
 ---
 
 <a name="salok-125"></a>
 ## सलोक 125: कबीर चकई जउ निसि बीछुरै आइ मिलै परभ...
-**English Title:** Salok 125: Kabaeera Chakaee Jau Naisai Baeechhauraai Aai Maila
+**English Title:** The Chakvi Meets Her Mate at Dawn: The Soul Parted from Ram Meets Neither Day Nor Night
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4868,21 +5144,24 @@ jo (that) nar (man/mortal) bichhure (became separated) raam (The All-Pervading L
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चकई जउ निसि बीछुरै आइ मिलै परभाति—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चकवी पक्षी जब रात्रि में अपने प्रियतम से बिछुड़ जाती है, तो प्रातःकाल होते ही पुनः आकर उससे मिल जाती है;
+किंतु जो अभागा मनुष्य अपने परमात्मा राम से विमुख होकर बिछुड़ गया है, वह न दिन में कभी मिल पाता है और न रात में शांति पाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerachakaeejaunisibeechhuraiaaimilaiparabhaati—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+When the faithful Chakvi bird is parted by night, at the break of dawn she finds her mate;
+Yet the mortal who has alienated his soul from Ram suffers a far darker fate:
+He meets the Beloved neither by day, nor does peace visit him by night;
+Wandering in eternal exile, bereft of the divine light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चकई जउ निसि बीछुरै आइ मिलै परभ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चकवी और वियोगी**: चकवी का वियोग कुछ घंटों का है; राम से वियोग जन्म-जन्मांतरों का संताप है।
 
 ---
 
 <a name="salok-126"></a>
 ## सलोक 126: कबीर रैनाइर बिछोरिआ रहु रे संख मझूर...
-**English Title:** Salok 126: Kabaeera Raainaaira Baichhaoraiaa Rahau Rae Sankha
+**English Title:** Separated from the Ocean, the Conch Shell Wails in Every Temple
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4905,21 +5184,24 @@ deval (deval) deval (deval) dhaahadee (dhaahadee) desahi (desahi) ugavat (ugavat
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रैनाइर बिछोरिआ रहु रे संख मझूरि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे शंख! तू समुद्र के अगाध जल में ही समाया रह, उससे कभी अलग मत हो;
+क्योंकि समुद्र से बिछुड़ जाने पर प्रत्येक प्रातःकाल सूर्य उगते ही तुझे मंदिर-मंदिर में मुंह लगाकर फूंका जाएगा और तू चीत्कार करता रोएगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerarainaairabichhoriaarahuresankhamajhoori—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Separated from the deep ocean's calm, O conch shell, remain within the tide;
+Lest parted from the mother waters, at sunrise in every temple wide,
+Priests shall press their lips upon thee, blowing thy hollow frame in pain;
+And thou shalt wail aloud in grief, mourning for the ocean home in vain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रैनाइर बिछोरिआ रहु रे संख मझूर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शंख का रूपक**: आत्मा समुद्र (परमात्मा) का शंख है; जब वह उससे अलग होती है, तो संसार के द्वंद्वों में विलाप करती है।
 
 ---
 
 <a name="salok-127"></a>
 ## सलोक 127: कबीर सूता किआ करहि जागु रोइ भै दुख ...
-**English Title:** Salok 127: Kabaeera Saootaa Kaiaa Karahai Jaagau Raoi Bhaai
+**English Title:** Whose Ultimate Abode Is the Grave, How Can He Sleep in Peace
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4942,21 +5224,24 @@ ja (whose/when) ka (of) baasa (fragrance/permeating scent) gor (gor) mahi (withi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सूता किआ करहि जागु रोइ भै दुख—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे जीव! तू मोह की नींद में क्यों सोया पड़ा है? जाग और अपने पापों व आगामी दुखों के भय से विलाप कर;
+जिसका अंतिम स्थायी ठिकाना उस अंधियारी कब्र और चिता में है, वह भला यहाँ सुख और निश्चिंतता की नींद कैसे सो सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasootaakiaakarahijaaguroibhaidukha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why dost thou lie in careless slumber: arise and weep in fear of the grave;
+Whose final dwelling place is beneath the sod, how can he in false comfort rave?
+Awaken before the summons rings and the breath is snatched away in flight;
+Ponder thy mortality, and turn thy countenance toward the Light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सूता किआ करहि जागु रोइ भै दुख '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कब्र का वास**: मृत्यु निश्चित है; जो मौत को याद रखता है वह प्रमाद और पाप से बच जाता है।
 
 ---
 
 <a name="salok-128"></a>
 ## सलोक 128: कबीर सूता किआ करहि उठि कि न जपहि मु...
-**English Title:** Salok 128: Kabaeera Saootaa Kaiaa Karahai Uthai Kai Na Japa
+**English Title:** Chant Murari Now: One Day Thou Shalt Sleep with Legs Stretched Long
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -4979,21 +5264,24 @@ ik (in one) din (day) sovanu (sovanu) hoigo (having become related) laanbe (laan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सूता किआ करहि उठि कि न जपहि मुरारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे नादान! तू मोह की नींद में क्यों पड़ा है, उठकर उस परमात्मा मुरारी का नाम-जप क्यों नहीं करता?
+एक दिन ऐसा अवश्य आएगा जब तुझे कब्र और चिता में अपने पैर लंबे पसारकर सदा के लिए सो जाना पड़ेगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasootaakiaakarahiuthikinajapahimuraari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why dost thou lie in heavy slumber: arise and chant the Name of Murari so sweet!
+A fateful day will surely come when stretched out long from head to feet,
+Thou shalt sleep the endless sleep of death beneath the silent ground;
+Awaken now while life remains, and let thy prayer of love resound!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सूता किआ करहि उठि कि न जपहि मु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **लंबे पैर पसारना**: मृत्यु की शाश्वत निद्रा का लोक-मुहावरा; जब तक जागने का अवसर है तब तक प्रभु-भजन कर लो।
 
 ---
 
 <a name="salok-129"></a>
 ## सलोक 129: कबीर सूता किआ करहि बैठा रहु अरु जाग...
-**English Title:** Salok 129: Kabaeera Saootaa Kaiaa Karahai Baaithaa Rahau Ara
+**English Title:** Cling Unto Him from Whom Thou Wert Separated in Primal Time
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5016,21 +5304,24 @@ ja (whose/when) ke (of) sang (with/in company) te (from/by) beechhura (beechhura
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सूता किआ करहि बैठा रहु अरु जागु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे जीव! तू मोह में क्यों सो रहा है, उठकर बैठ और आध्यात्मिक रूप से जाग्रत रह;
+जिस परम प्रियतम परमात्मा से तू जन्म-जन्मांतरों से बिछुड़ा हुआ है, अब उसी के पावन चरणों से अपनी लौ जोड़कर लग जा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasootaakiaakarahibaithaarahuarujaagu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why slumber in delusion: sit upright and keep sacred vigil awake;
+Fasten thy heart unto that Beloved Lord for whose communion thy spirit does ache;
+From whom thou wert separated through long ages of wandering strain;
+Cling unto His feet alone, and never part from His grace again!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सूता किआ करहि बैठा रहु अरु जाग'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मूल स्रोत से मिलन**: आत्मा का वास्तविक प्रियतम ईश्वर है; उससे पुनः जुड़ जाना ही जीवन का ध्येय है।
 
 ---
 
 <a name="salok-130"></a>
 ## सलोक 130: कबीर संत की गैल न छोडीऐ मारगि लागा ...
-**English Title:** Salok 130: Kabaeera Santa Kaee Gaaila Na Chhaodaeeai Maaragai
+**English Title:** Forsake Not the Trail of the Saints: Beholding Them Purifies the Soul
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5053,21 +5344,24 @@ pekhat (pekhat) hee (alone/only) punneet (punneet) hoi (having become) bhetat (b
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संत की गैल न छोडीऐ मारगि लागा जाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चे संतों के दिखाए हुए पावन मार्ग को कभी मत छोड़ो, सदा उनके बताए पथ पर आगे बढ़ते रहो;
+क्योंकि संतों के केवल दर्शन मात्र से ही अंतःकरण पवित्र हो जाता है, और उनके सान्निध्य में परमात्मा के नाम का अखंड सिमरन सिद्ध होता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasantakeegailanachhodeeaimaaragilaagaajaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsake not the trail of the holy saints, march steadfastly along their way;
+Beholding their serene presence purifies the heart and cleanses the clay;
+Meeting them in sincere humility, the Sacred Name within does ignite;
+Guiding the traveling soul safely into the realm of eternal light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संत की गैल न छोडीऐ मारगि लागा '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संतों का पावन मार्ग**: संतों का मार्ग ही जीवन की सुरक्षित राह है; उनका संग दर्शन से लेकर सिमरन तक सब कुछ पवित्र कर देता है।
 
 ---
 
 <a name="salok-131"></a>
 ## सलोक 131: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ...
-**English Title:** Salok 131: Kabaeera Saakata Sangau Na Kaeejaeeai Daoorahai Ja
+**English Title:** Flee from the Godless Sceptic: Touch a Black Vessel and Soot Clings
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5090,21 +5384,24 @@ baasanu (baasanu) kaaro (work/deed) paraseeai (paraseeai) tau (then/still) kachh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भागि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर-विमुख साक्त मनुष्य की संगति कभी मत करो, उसे देखते ही दूर भाग जाओ;
+क्योंकि कालिख लगे हुए काले बर्तन को छूने पर जिस प्रकार हाथ में कालिख का काला दाग लग ही जाता है, वैसे ही दुष्ट की संगति से मन मलिन हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaakatasangunakeejeeaidoorahijaaeeaibhaagi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Keep no company with the godless cynic, flee far away from his sight;
+Just as touching a blackened pot leaves dark soot upon fingers bright;
+Even so the company of the sceptic stains the innocence of the heart;
+Turn away from darkness and choose the holy seeker's part!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कालिख का दाग**: कुसंग का प्रभाव जाने-अनजाने चित्त पर पड़ता ही है; इससे बचने का एकमात्र उपाय दूरी बनाना है।
 
 ---
 
 <a name="salok-132"></a>
 ## सलोक 132: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥...
-**English Title:** Salok 132: Kabaeeraa Raamau Na Chaetaio Jaraa Pahaoonchaio
+**English Title:** Remembered Not Ram, Old Age Arrived: Fire at the Gate, What Can Be Saved
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5127,21 +5424,24 @@ laagee (flame of longing) mandir (temple/sanctuary) duaar (duaar) te (from/by) a
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—युवावस्था में तूने परमात्मा राम का स्मरण नहीं किया और अब लाचारी की वृद्धावस्था सिर पर आ खड़ी हुई;
+जब शरीर रूपी मंदिर के मुख्य द्वार पर ही मृत्यु की आग लग चुकी है, तो अब भीतर से क्या बचाया जा सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaraamunachetiojaraapahoonchioaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Kabir, thou didst never contemplate Ram, and now trembling old age has arrived;
+When the roaring fire of mortality has engulfed the doorway, of what art thou deprived?
+What treasure canst thou rescue from the burning house when the rafters fall down?
+Awake before the flames consume the body's fragile crown!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **द्वार पर आग**: वृद्धावस्था और मृत्यु आने पर साधना का अवसर नहीं रहता; जीवन के रहते ही नाम-स्मरण करना आवश्यक है।
 
 ---
 
 <a name="salok-133"></a>
 ## सलोक 133: कबीर कारनु सो भइओ जो कीनो करतारि ॥...
-**English Title:** Salok 133: Kabaeera Kaaranau Sao Bhaio Jao Kaeenao Karataa
+**English Title:** Whatever Occurred Was the Creator's Deed: None Other Exists
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5164,21 +5464,24 @@ tisu (unto that one) binu (without/devoid of) doosaru (doosar (spiritual sense))
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कारनु सो भइओ जो कीनो करतारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में वही कारण और घटना घटित होती है, जिसे साक्षात सृजनहार परमात्मा ने निश्चित किया है;
+उस परम सत्ता के अतिरिक्त तीनों लोकों में कोई दूसरा कर्ता नहीं है, केवल वही एक परमात्मा संपूर्ण सृष्टि का रचियता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaaranusobhaiojokeenokarataari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+That alone came to pass which the Sovereign Creator decreed and ordained;
+Beside Him no second power exists, by His unbroken will the cosmos is sustained;
+Surrender thy anxious doubts and pride to the One supreme Hand;
+For all causes and destinies unfold at His sovereign command!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कारनु सो भइओ जो कीनो करतारि ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **एकमेवाद्वितीयम्**: संसार में जो कुछ भी घटता है, वह ईश्वर के नियम और इच्छा से ही होता है; जीव को उसकी रज़ा में संतुष्ट रहना चाहिए।
 
 ---
 
 <a name="salok-134"></a>
 ## सलोक 134: कबीर फल लागे फलनि पाकनि लागे आंब ॥...
-**English Title:** Salok 134: Kabaeera Phala Laagae Phalanai Paakanai Laagae Aa
+**English Title:** Mangoes Ripen on the Bough: They Reach the Master if Sparing the Hail
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5201,21 +5504,24 @@ jaai (whose/when (in/having done)) pahoochahi (pahoochahi) khasam (Master, the D
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर फल लागे फलनि पाकनि लागे आंब—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+डालियों पर सुंदर फल लग गए हैं और आम पक-पक कर मीठे होने लगे हैं;
+वे अपने स्वामी के हाथों तक तभी सकुशल पहुंच पाते हैं, यदि बीच मार्ग में पड़ने वाले तूफानी ओले उन्हें नष्ट न कर दें!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraphalalaagephalanipaakanilaageaanba—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Branches blossom with fruit, and sweet mangoes begin to ripen on the tree;
+They reach the presence of their Master, offering nectar pure and free,
+Only if the shattering hailstorm of sensual desire spares them midway;
+Preserve thy ripened spiritual wisdom from the temptations of the day!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर फल लागे फलनि पाकनि लागे आंब ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आम और ओले**: साधना में ज्ञान का फल पकना सरल है, पर काम-क्रोध के ओलों से बचकर मोक्ष तक पहुंचना कठिन है।
 
 ---
 
 <a name="salok-135"></a>
 ## सलोक 135: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर...
-**English Title:** Salok 135: Kabaeera Thaakaurau Paoojahai Maolai Lae Manahatha
+**English Title:** Worshiping Purchased Stone Idols: Stubborn Pilgrimages of Imitation
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5238,21 +5544,24 @@ dekha (beheld/saw) dekhee (dekhee (spiritual sense)) svaangu (disguise/masquerad
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीरथ जाहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—लोग बाजार से पैसे देकर पत्थर के ठाकुर खरीद लाते हैं और हठपूर्वक बाह्य तीर्थों की यात्राएं करते हैं;
+वे दूसरों की देखा-देखी पाखंडी स्वांग रचते हैं, और सत्य मार्ग से भटककर केवल कष्ट और ठोकरें खाते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerathaakurupoojahimolilemanahathiteerathajaah—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Buying stone idols in the market-place, they worship them as the Lord Divine;
+In stubborn willful pride they march on pilgrimage from shrine to shrine;
+Imitating external theatrical guises, lost in superstition and deceit;
+Wandering in spiritual darkness, bruised by the world's defeat!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मूर्ति-पूजा का खंडन**: जो स्वयं बिकता है वह ईश्वर कैसे हो सकता है? हठयोग और देखा-देखी किए गए कर्मकांड आत्म-कल्याण नहीं करते।
 
 ---
 
 <a name="salok-136"></a>
 ## सलोक 136: कबीर पाहनु परमेसुरु कीआ पूजै सभु सं...
-**English Title:** Salok 136: Kabaeera Paahanau Paramaesaurau Kaeeaa Paoojaai Sa
+**English Title:** Worshiping Stones as God: Drowned in the Black Ocean of Delusion
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5275,21 +5584,24 @@ is (this) bharavaase (bharavaase) jo (that) rahe (remain) boode (boode) kaalee (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पाहनु परमेसुरु कीआ पूजै सभु संसारु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अज्ञानी मनुष्यों ने निर्जीव पत्थर को ही परमेश्वर मान लिया और सारा संसार उसी की अंधी पूजा में लगा है;
+जो इस मिथ्या पाषाण के भरोसे बैठे रहे, वे अविद्या की काली और भयंकर धार में डूबकर नष्ट हो गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaahanuparamesurukeeaapoojaisabhusansaaru—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Mortals fashioned lifeless stone into God, and the foolish world bows down to adore;
+Those who placed their salvation in such cold idols were swept from the shore;
+Drowned in the black, surging torrent of ignorance and karmic night;
+Awake and worship the Living Consciousness pulsing with uncreated light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पाहनु परमेसुरु कीआ पूजै सभु सं'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निर्जीव पाषाण**: पत्थर कभी भवसागर से पार नहीं उतार सकता; पत्थर पर भरोसा करने वाला स्वयं पत्थर की तरह डूब जाता है।
 
 ---
 
 <a name="salok-137"></a>
 ## सलोक 137: कबीर कागद की ओबरी मसु के करम कपाट ॥...
-**English Title:** Salok 137: Kabaeera Kaagada Kaee Obaraee Masau Kae Karama Ka
+**English Title:** Chamber of Paper, Doors of Ink: Stones Sunk the Earth, Pandits Plundered
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5312,21 +5624,24 @@ paahan (paahan) boree (boree) pirathamee (pirathamee) pandit (learned scholar/pr
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कागद की ओबरी मसु के करम कपाट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+यह कर्मकांडी धर्म केवल कागज की कोठरी है जिसके कपाट स्याही के पोथों से बंद हैं;
+पत्थर की मूर्तियों ने पृथ्वी के मनुष्यों को अज्ञान में डुबो दिया, और पाखंडी पंडितों ने सत्य के मार्ग पर डकैती डालकर जीवों को लूट लिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaagadakeeobareemasukekaramakapaata—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+A flimsy chamber of paper is orthodoxy, with doors fashioned of inky scroll;
+Stone idols have dragged the populace down into the watery hole;
+And greedy priests have plundered the pilgrim upon the highway of truth;
+Waking neither the wisdom of age, nor guiding the innocence of youth!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कागद की ओबरी मसु के करम कपाट ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शास्त्रवाद और पुरोहितवाद पर चोट**: कबीर कागजी धर्म और अंधविश्वास फैलाने वाले पुरोहितों को आध्यात्मिक लुटेरा कहते हैं।
 
 ---
 
 <a name="salok-138"></a>
 ## सलोक 138: कबीर कालि करंता अबहि करु अब करता सु...
-**English Title:** Salok 138: Kabaeera Kaalai Karantaa Abahai Karau Aba Kara
+**English Title:** Do Today What Was for Tomorrow: When Death Strikes, All Ends
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5349,21 +5664,24 @@ paachhai (afterwards, in the aftermath) kachhoo (anything) n (not) hoiga (hoiga)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कालि करंता अबहि करु अब करता सुइ ताल—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जो शुभ कार्य कल करना है उसे आज ही कर ले, और जो आज करना है उसे इसी क्षण तत्काल संपन्न कर;
+क्योंकि जब सिर पर मृत्यु का काल आ खड़ा होगा, तब पश्चाताप के अतिरिक्त कुछ भी किया नहीं जा सकेगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaalikarantaaabahikaruabakarataasuitaal—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What thou wouldst do on the morrow accomplish right now without delay;
+What is due today complete this instant, while breath sustains the clay;
+When the final summons strikes thy head and the thread of life is shorn,
+Nothing can then be retrieved, leaving the unready soul to mourn!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कालि करंता अबहि करु अब करता सु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **क्षण की कीमत**: मृत्यु किसी की प्रतीक्षा नहीं करती; आत्म-उद्धार के कार्य में एक पल का भी प्रमाद घातक है।
 
 ---
 
 <a name="salok-139"></a>
 ## सलोक 139: कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला...
-**English Title:** Salok 139: Kabaeera Aisaa Jantau Ikau Daekhaiaa Jaaisaee Dha
+**English Title:** Like Washed Shellac: Nimble and Clever, Yet Impure and Witless
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5386,21 +5704,24 @@ deesai (is seen/appears) chanchalu (chanchal (spiritual sense)) bahu (many) guna
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा जंतु इकु देखिआ जैसी धोई लाख—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैंने संसार में एक ऐसा विचित्र मनुष्य देखा जो धुली हुई लाख के समान बाहर से चमकदार और चिकना दिखता है;
+वह देखने में बड़ा चंचल और बहुगुणी प्रतीत होता है, किंतु भीतर से वह आत्म-ज्ञान से हीन और सर्वथा अपवित्र है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaajantuikudekhiaajaiseedhoeelaakha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I beheld such a creature in the world, polished outside like washed shellac;
+Appearing nimble, gifted with clever arts, yet spiritually broken on the rack;
+Possessing neither inward wisdom nor devotion in the secret heart;
+A hollow glittering shell, playing a hypocrite's theatrical part!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **धोई लाख**: बाहरी चमक-दमक और वाक्-चातुर्य आंतरिक पवित्रता का विकल्प नहीं हो सकते।
 
 ---
 
 <a name="salok-140"></a>
 ## सलोक 140: कबीर मेरी बुधि कउ जमु न करै तिसकार ...
-**English Title:** Salok 140: Kabaeera Maeraee Baudhai Kau Jamau Na Karaai Tai
+**English Title:** Yama Dares Not Scorn My Intellect: I Contemplated the Lord Who Created Him
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5423,21 +5744,24 @@ jini (do not/who) ihu (this) jamooa (jamooa) sirajia (sirajia) su (that) japia (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मेरी बुधि कउ जमु न करै तिसकार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यमराज भी मेरी आध्यात्मिक बुद्धि और चेतना का तिरस्कार करने का साहस नहीं कर सकता;
+क्योंकि जिसने इस यमराज को उत्पन्न किया है, मैंने तो उस साक्षात परम दयालु परवरदिगार परमात्मा का ही निरंतर भजन किया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramereebudhikaujamunakaraitisakaara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The terrifying Messenger of Death dares not scorn or touch my awakened mind;
+For that Sovereign Creator who brought forth Yama and all his kind,
+Is the very Cherisher whom I adore and contemplate day and night;
+Dwelling in the master's presence, the servant of fear takes flight!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मेरी बुधि कउ जमु न करै तिसकार '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **काल पर विजय**: जो काल के स्वामी (परमात्मा) को भजता है, यमदूत भी उसके सम्मुख नतमस्तक होते हैं।
 
 ---
 
 <a name="salok-141"></a>
 ## सलोक 141: कबीरु कसतूरी भइआ भवर भए सभ दास ॥...
-**English Title:** Salok 141: Kabaeerau Kasataooraee Bhaiaa Bhavara Bhae Sabha Daasa
+**English Title:** Kabir Became Musk, Devotees Became Bees: Ram Took Abode
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5460,21 +5784,24 @@ jiu (just as) jiu (just as) bhagati (loving devotion) kabeer (Sant Kabir) kee (o
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरु कसतूरी भइआ भवर भए सभ दास—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—प्रभु-प्रेम में लीन होकर कबीर स्वयं कस्तूरी के समान सुगंधित हो गया है, और सभी संत-भक्त भंवरों की तरह उसकी ओर खिंचे चले आते हैं;
+जैसे-जैसे कबीर के हृदय में अनन्य भक्ति का विस्तार होता है, वैसे-वैसे साक्षात परमात्मा राम का उसमें पूर्ण निवास होता जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerukasatooreebhaiaabhavarabhaesabhadaasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Kabir has become fragrant musk, and all humble seekers swarm like bees;
+As devotion deepens within his soul, expanding like summer seas,
+Even so the Sovereign Lord Ram takes up His permanent abode within;
+Where divine fragrance abides, there is no room for shadows or sin!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरु कसतूरी भइआ भवर भए सभ दास ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कस्तूरी और भंवरे**: जब साधक आत्म-ज्ञान से परिपूर्ण होता है, तो उसकी रूहानी सुगंध से पिपासु जीव स्वतः आकर्षित होते हैं।
 
 ---
 
 <a name="salok-142"></a>
 ## सलोक 142: कबीर गहगचि परिओ कुट्मब कै कांठै रहि...
-**English Title:** Salok 142: Kabaeera Gahagachai Paraio Kautamaba Kaai Kaantha
+**English Title:** Tangled in Clan Delusion, Ram Was Cast Aside: Seized by Dharma Rai
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5497,21 +5824,24 @@ aai (arrived/came) pare (aside) dharam (righteousness) raai (raai (spiritual sen
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गहगचि परिओ कुट्मब कै कांठै रहि गइओ रामु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य अपने परिवार और कुटुंब के घने प्रपंचों में ऐसा उलझकर पड़ा कि परमात्मा राम का स्मरण किनारे ही धरा रह गया;
+और जब जीवन के मध्य में ही यमराज के दूत आ धमके, तब उसके सारे सांसारिक तमाशे और ठाठ-बाट धरे के धरे रह गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragahagachipariokutmabakaikaanthairahigaio—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Entangled in the dense thorny thicket of family pride and clan,
+Remembering the Sovereign Lord was pushed aside from the mortal's plan;
+Until the stern messengers of judgment burst in with unyielding might,
+And all his pomp and glory vanished like smoke into the night!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गहगचि परिओ कुट्मब कै कांठै रहि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परिवार का मोह**: परिवार के पोषण में ईश्वर को भूल जाना अंत समय में घोर पश्चाताप देता है।
 
 ---
 
 <a name="salok-143"></a>
 ## सलोक 143: कबीर साकत ते सूकर भला राखै आछा गाउ ...
-**English Title:** Salok 143: Kabaeera Saakata Tae Saookara Bhalaa Raakhaai Aachhaa
+**English Title:** Better the Village Swine than the Godless Sceptic: Dead and Forgotten
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5534,21 +5864,24 @@ uhu (that) saakatu (saakatu) bapura (eternal city/realm related) mari (mari) gai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साकत ते सूकर भला राखै आछा गाउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर-विमुख साक्त मनुष्य से तो गांव का सूअर कहीं अधिक भला है जो गांव की गंदगी को साफ रखता है;
+वह अभागा साक्त तो मरकर नष्ट हो जाता है और संसार में कोई उसका नाम तक सम्मान से लेने वाला नहीं रहता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaakatatesookarabhalaaraakhaiaachhaagaau—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Far better is the humble village swine than the proud godless cynic indeed;
+For the swine cleanses the village soil, serving a useful worldly need;
+While the miserable sceptic dies in his arrogance and vain conceit,
+Leaving no fragrant memory behind, forgotten in defeat!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साकत ते सूकर भला राखै आछा गाउ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **साक्त का जीवन व्यर्थ**: पशु भी प्रकृति के काम आता है, पर ईश्वर से विमुख मनुष्य केवल पाप का भार बढ़ाता है।
 
 ---
 
 <a name="salok-144"></a>
 ## सलोक 144: कबीर कउडी कउडी जोरि कै जोरे लाख करो...
-**English Title:** Salok 144: Kabaeera Kaudaee Kaudaee Jaorai Kaai Jaorae Laa
+**English Title:** Hoarding Pennies to Amass Millions: Departing Without Even a Loincloth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5571,21 +5904,24 @@ chalatee (while departing/moving) baar (door) n (not) kachhu (anything/something
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कउडी कउडी जोरि कै जोरे लाख करोरि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य ने कौड़ी-कौड़ी जोड़कर लाखों और करोड़ों का विशाल खजाना इकट्ठा किया;
+किंतु जब संसार से चलने की बेला आई तो उसे एक कौड़ी भी साथ न मिली, यहाँ तक कि उसके शरीर की लंगोटी भी फाड़कर छीन ली गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaudeekaudeejorikaijorelaakhakarori—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Hoarding penny by penny with eager greed, he gathered millions of gold;
+Yet when the summons of departure struck, not a single coin could he hold;
+Stripped bare of worldly possessions, even his loincloth was torn away;
+Naked he came from the womb, and naked he returned to the clay!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कउडी कउडी जोरि कै जोरे लाख करो'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कौड़ी-कौड़ी जोड़ना**: धन का संग्रह परलोक में साथ नहीं जाता; चिता पर कफन भी छीन लिया जाता है।
 
 ---
 
 <a name="salok-145"></a>
 ## सलोक 145: कबीर बैसनो हूआ त किआ भइआ माला मेलीं...
-**English Title:** Salok 145: Kabaeera Baaisanao Haooaa Ta Kaiaa Bhaiaa Maalaa
+**English Title:** What If One Wears Four Rosaries: Pure Gold Outside, Scrap Iron Within
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5608,21 +5944,24 @@ baahari (the Lord related) kanchanu (pure gold) baaraha (baaraha) bheetari (with
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बैसनो हूआ त किआ भइआ माला मेलीं चारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—गले में चार-चार मालाएं डालकर यदि कोई वैष्णव भक्त बन भी गया तो उससे क्या सिद्ध हुआ?
+जो बाहर से तो बारह बानी कुंदन सोने जैसा चमकता है, किंतु जिसके अंतर्मन के भीतर केवल लोभ, ईर्ष्या और भंगार भरा पड़ा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaisanohooaatakiaabhaiaamaalaameleenchaari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What if one calls himself a devotee, wearing four rosaries around the neck?
+Shining outside like pure twelve-carat gold without a visible fleck,
+While within his secret heart is crammed with greed, malice, and scrap;
+God sees through the hollow mask and breaks the hypocrite's trap!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बैसनो हूआ त किआ भइआ माला मेलीं'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **बाह्य भेष का पाखंड**: चार मालाएं पहनना भक्ति नहीं; यदि भीतर विकार हैं तो सब दिखावा व्यर्थ है।
 
 ---
 
 <a name="salok-146"></a>
 ## सलोक 146: कबीर रोड़ा होइ रहु बाट का तजि मन का ...
-**English Title:** Salok 146: Kabaeera Raoड़a Haoi Rahau Baata Kaa Tajai Ma
+**English Title:** Become a Pebble upon the Path: Unto Such a Servant God Is Revealed
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5645,21 +5984,24 @@ aisa (such/like this) koee (anyone) daasu (devoted servant) hoi (having become) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रोड़ा होइ रहु बाट का तजि मन का अभिमानु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अपने मन के समस्त अहंकार को त्यागकर सत्य के मार्ग का एक छोटा सा रोड़ा (कंकड़) बनकर पड़ा रह;
+जब कोई साधक ऐसा अत्यंत विनम्र और निरहंकारी दास बन जाता है, तभी उसे साक्षात भगवान के दर्शन प्राप्त होते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerarodaahoirahubaatakaatajimanakaaabhima—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Shedding all pride of mind, become a humble pebble upon the road;
+When a devotee attains such utter meekness, surrendering his heavy load,
+Unto him the Supreme Lord reveals His radiant face of grace;
+Exalting the lowly stone to dwell in His eternal dwelling place!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रोड़ा होइ रहु बाट का तजि मन का '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रोड़ा बनना**: विनम्रता का प्रथम सोपान—दूसरों के पैरों के नीचे कंकड़ बनकर भी शांत रहना।
 
 ---
 
 <a name="salok-147"></a>
 ## सलोक 147: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख...
-**English Title:** Salok 147: Kabaeera Raoड़a Haooaa Ta Kaiaa Bhaiaa Panthaee Ka
+**English Title:** The Pebble Hurts the Traveler's Feet: Be Humble Like Dust on the Earth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5682,21 +6024,24 @@ aisa (such/like this) tera (thine/Lord's) daasu (devoted servant) hai (is) jiu (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुखु देइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—कंकड़ बनने से भी क्या हुआ, वह तो मार्ग में चलने वाले पथिक के कोमल पैरों में चुभकर दुःख देता है;
+हे प्रभु! तेरा सच्चा दास तो वह होना चाहिए, जो धरती पर बिछी हुई धूल (खेह) के समान सर्वथा विनीत और शांत हो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerarodaahooaatakiaabhaiaapantheekaudukhudei—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What if one becomes a pebble on the path, causing pain to the traveler's feet?
+Thy true servant, O Lord, should be like the fine dust beneath the street;
+Lying flat and silent upon the earth, yielding to every tread and stride;
+Utterly devoid of resistance, free from the lingering trace of pride!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **धूल बनना**: कंकड़ में भी कठोरता है जो दूसरों को चुभ सकती है; धूल में वह कठोरता भी समाप्त हो जाती है।
 
 ---
 
 <a name="salok-148"></a>
 ## सलोक 148: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै...
-**English Title:** Salok 148: Kabaeera Khaeha Haooee Tau Kaiaa Bhaiaa Jau Udai
+**English Title:** Dust Flies and Soils the Body: God's Servant Should Be Like Water
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5719,21 +6064,24 @@ hari (The Lord who dispels grief (Hari)) janu (as if/devotee) aisa (such/like th
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै अंग—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—धूल बनने से भी क्या हुआ, वह तो हवा के झोंके से उड़कर लोगों के अंगों और आंखों पर चिपककर मैला करती है;
+हरि का सच्चा सेवक तो जल के समान होना चाहिए, जो स्वयं शीतल रहकर दूसरों के समस्त मैल को धोकर पवित्र कर देता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakhehahooeetaukiaabhaiaajauudilaagaianga—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What if one becomes dust, for borne on the wind it soils the stranger's skin?
+The true servant of the Lord should be like water, pure without and within;
+Cleansing all impurities away, giving life to parched desert ground;
+Flowing downward in selfless grace, wherever thirst and want are found!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर खेह हूई तउ किआ भइआ जउ उडि लागै'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जल का रूपक**: धूल में दूसरों को मैला करने का दोष है; जल स्वयं झुककर बहता है और सबको निर्मल करता है।
 
 ---
 
 <a name="salok-149"></a>
 ## सलोक 149: कबीर पानी हूआ त किआ भइआ सीरा ताता ह...
-**English Title:** Salok 149: Kabaeera Paanaee Haooaa Ta Kaiaa Bhaiaa Saeeraa Ta
+**English Title:** Water Turns Cold and Hot: God's Servant Must Be Like God Himself
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5756,21 +6104,24 @@ hari (The Lord who dispels grief (Hari)) janu (as if/devotee) aisa (such/like th
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पानी हूआ त किआ भइआ सीरा ताता होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जल बनने से भी क्या हुआ, वह भी तो परिस्थितियों और ऋतुओं के अनुसार कभी शीतल और कभी खौलता हुआ गर्म हो जाता है;
+हरि का सच्चा भक्त तो ऐसा निर्विकार होना चाहिए, जैसा स्वयं परमात्मा निर्विकार, समरस और अविचल रहता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaaneehooaatakiaabhaiaaseeraataataahoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What if one becomes like water, for it turns icy cold and boiling hot in turn?
+The true servant of Hari should be like Hari Himself—unmoved, sublime, and stern;
+Beyond all dualities of praise and blame, heat and frost, pleasure and pain;
+Merging into the changeless Divine, where eternal peace does reign!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पानी हूआ त किआ भइआ सीरा ताता ह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परम समता (Advaita)**: रोड़ा -> धूल -> जल -> ब्रह्म! यह कबीर की साधना का पूर्ण क्रम है जहाँ साधक स्वयं ब्रह्म-स्वरूप हो जाता है।
 
 ---
 
 <a name="salok-150"></a>
 ## सलोक 150: ऊच भवन कनकामनी सिखरि धजा फहराइ ॥...
-**English Title:** Salok 150: Oocha Bhavana Kanakaamanaee Saikharai Dhajaa Phaharaai
+**English Title:** Better Begged Crumbs with Saints than Lofty Mansions and Fluttering Flags
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5793,21 +6144,24 @@ ta (upon that/his) te (from/by) bhalee (bhal (spiritual sense)) madhookaree (mad
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: ऊच भवन कनकामनी सिखरि धजा फहराइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+चाहे किसी के पास गगनचुंबी ऊंचे महल हों, कंचन-कामिनी का विलास हो और शिखरों पर विजय-ध्वज फहरा रहे हों;
+उस राजसी प्रपंच से तो संतों की पावन संगति में भिक्षा की सूखी रोटी (मधुकरी) मांगकर खाना और हरि-गुण गाना अनंत गुना श्रेष्ठ है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: oochabhavanakanakaamaneesikharidhajaaphaharaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Though one possess towering mansions, piles of gold, pleasures, and fluttering crest;
+Far better is begging dry crusts in the holy company of saints blest;
+Singing the glorious praises of the Lord in humble, guileless grace;
+For regal pomp turns to ash, but devotion endures in every place!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'ऊच भवन कनकामनी सिखरि धजा फहराइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मधुकरी का आनंद**: भिक्षा का टुकड़ा खाकर संत-संगति में रहना महलों के विषैले भोगों से लाख गुना श्रेष्ठ है।
 
 ---
 
 <a name="salok-151"></a>
 ## सलोक 151: कबीर पाटन ते ऊजरु भला राम भगत जिह ठ...
-**English Title:** Salok 151: Kabaeera Paatana Tae Oojarau Bhalaa Raama Bhagata
+**English Title:** The Desolate Wild Is Noble Where a Devotee Dwells: The Capital Is Hell
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5830,21 +6184,24 @@ raam (The All-Pervading Lord (Ram)) sanehee (sanehee (spiritual sense)) baahara 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पाटन ते ऊजरु भला राम भगत जिह ठाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—बड़ी और समृद्ध राजधानी से तो वह बीहड़ उजाड़ जंगल कहीं अधिक उत्तम है, जहाँ परमात्मा का कोई सच्चा भक्त निवास करता है;
+और जिस नगर में प्रभु का प्रेमी नहीं रहता, वह वैभवशाली नगर मेरी दृष्टि में साक्षात यमपुरी और नरक के समान है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaatanateoojarubhalaaraamabhagatajihathaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Better is the lonely desolate wilderness where a devotee of Ram takes his seat;
+Than the wealthiest capital city where crowds march through the street;
+That dwelling which is devoid of the Lord's lover is a realm of death in my eyes;
+While the saint turns the barren desert into the garden of paradise!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पाटन ते ऊजरु भला राम भगत जिह ठ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भक्त से पावनता**: स्थान का मूल्य उसकी चकाचौंध से नहीं, वहाँ बसने वाले संतों की साधना से होता है।
 
 ---
 
 <a name="salok-152"></a>
 ## सलोक 152: कबीर गंग जमुन के अंतरे सहज सुंन के ...
-**English Title:** Salok 152: Kabaeera Ganga Jamauna Kae Antarae Sahaja Saun
+**English Title:** Between Ganga and Yamuna on the Ghat of Sahaja Sunya, Kabir Built His Hut
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5867,21 +6224,24 @@ taha (there) kabeerai (Sant Kabir) matu (matu) keea (did/created) khojat (search
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गंग जमुन के अंतरे सहज सुंन के घाट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+ईड़ा (गंगा) और पिंगला (यमुना) के मध्य सुषुम्ना नाड़ी में उस सहज-शून्य के दिव्य घाट पर कबीर ने अपनी समाधि-कुटिया स्थापित की है;
+जिस परम रहस्यमय घाट का मार्ग खोजने के लिए बड़े-बड़े मुनि और तपस्वी युगों-युगों से भटकते रहे हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragangajamunakeantaresahajasunnakeghaata—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Between the inner sacred currents of Ganga and Yamuna, upon the Ghat of Sahaja void,
+There Kabir has pitched his contemplative tent, in stillness unalloyed;
+That mystical threshold which ancient ascetics sought through penance and pain,
+Is attained in effortless surrender where the nectar drops down like rain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गंग जमुन के अंतरे सहज सुंन के '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सहज-सुन्न (Yogic Realization)**: ईड़ा और पिंगला को साधकर सुषुम्ना में शून्य (तुरीयावस्था) का साक्षात्कार करना ही कबीर की साधना है।
 
 ---
 
 <a name="salok-153"></a>
 ## सलोक 153: कबीर जैसी उपजी पेड ते जउ तैसी निबहै...
-**English Title:** Salok 153: Kabaeera Jaaisaee Upajaee Paeda Tae Jau Taaisaee
+**English Title:** If Initial Love Endures Unto the End, Millions of Jewels Cannot Equal It
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5904,21 +6264,24 @@ heera (diamond) kis (unto whom/whom) ka (of) baapura (baapura) pujahi (pujahi) n
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जैसी उपजी पेड ते जउ तैसी निबहै ओड़ि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—साधना के प्रारंभ में परमात्मा के प्रति जैसा तीव्र प्रेम और लगन उत्पन्न होती है, यदि वह जीवन के अंत तक वैसी ही अखंड निभ जाए;
+तो उस अमर प्रेम के सम्मुख यह भौतिक हीरा क्या वस्तु है, करोड़ों अमूल्य रत्नों का खजाना भी उसकी बराबरी नहीं कर सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaiseeupajeepedatejautaiseenibahaiodi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If that sweet, fervent devotion which blossomed at the start of the spiritual quest,
+Endures unbroken, pure and deep, until the final hour of rest;
+What is a worldly diamond compared to that immortal treasure bold?
+Millions of radiant jewels cannot equal the love that never grows cold!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जैसी उपजी पेड ते जउ तैसी निबहै'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अखंड निष्ठा**: प्रारंभ में उत्साह दिखाना सरल है, पर जीवन भर प्रेम की आंच को बनाए रखना ही सच्ची सिद्धि है।
 
 ---
 
 <a name="salok-154"></a>
 ## सलोक 154: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक...
-**English Title:** Salok 154: Kabaeeraa Ekau Achamabhau Daekhaio Haeeraa Haa
+**English Title:** The Diamond Sold in the Mart: Without a Connoisseur Traded for Shells
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5941,21 +6304,24 @@ banajanahaare (banajanahaare) baahara (baahara) kaudee (kaudee) badalai (badalai
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिकाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैंने संसार में एक बड़ा विचित्र कौतुक देखा कि ब्रह्म-ज्ञान का अनमोल हीरा खुले बाजार की हाट में बिक रहा है;
+किंतु उसका सच्चा पारखी और खरीदार न होने के कारण, अज्ञानी लोग उस अमूल्य हीरे को कौड़ियों के बदले बेच रहे हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaekuachmabhaudekhioheeraahaatabikaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I beheld a wondrous spectacle: a priceless diamond sold in the common street;
+Yet bereft of a true connoisseur who knows its value pure and sweet,
+The ignorant traders barter it away for worthless broken shells of clay;
+Blind to the celestial gem that turns darkness into eternal day!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अमूर्त ज्ञान की उपेक्षा**: परमात्मा का नाम सर्वत्र सुलभ है, पर पारखी दृष्टि के अभाव में संसार उसे कौड़ियों के मोल गंवा देता है।
 
 ---
 
 <a name="salok-155"></a>
 ## सलोक 155: कबीरा जहा गिआनु तह धरमु है जहा झूठु...
-**English Title:** Salok 155: Kabaeeraa Jahaa Gaiaanau Taha Dharamau Haai Jahaa
+**English Title:** Where Wisdom Is, Dharma Reigns: Where Forgiveness Dwells, God Resides
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -5978,21 +6344,24 @@ jaha (wherever) lobhu (greed, insatiable craving) tah (there) kaalu (death/time)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरा जहा गिआनु तह धरमु है जहा झूठु तह पापु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जहाँ सच्चा आत्म-ज्ञान है वहीं धर्म निवास करता है, और जहाँ असत्य व पाखंड है वहीं पाप का वास होता है;
+जहाँ स्वार्थी लोभ है वहाँ साक्षात काल और विनाश रहता है, और जहाँ पावन क्षमा का वास है वहाँ साक्षात परमात्मा स्वयं विराजमान रहते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraajahaagiaanutahadharamuhaijahaajhoothutahap—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Where spiritual wisdom abides, there righteousness takes its sacred stand;
+Where falsehood and deception reign, dark sin corrupts the land;
+Where selfish greed rules the heart, death and ruin take command;
+And where gentle forgiveness forgives, God Himself extends His hand!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरा जहा गिआनु तह धरमु है जहा झूठु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्य और क्षमा का सिद्धांत**: धर्म की नींव सत्य और ज्ञान है; और जहाँ क्षमा है वहाँ ईश्वर साक्षात उपस्थित हैं।
 
 ---
 
 <a name="salok-156"></a>
 ## सलोक 156: कबीर माइआ तजी त किआ भइआ जउ मानु तजि...
-**English Title:** Salok 156: Kabaeera Maaiaa Tajaee Ta Kaiaa Bhaiaa Jau Maana
+**English Title:** Renouncing Maya Matters Not if Pride Remains: Pride Devoured Sages
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6015,21 +6384,24 @@ maan (maan) munee (munee) munivar (munivar) gale (at the throat/around neck) maa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर माइआ तजी त किआ भइआ जउ मानु तजिआ नही जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि किसी ने धन-दौलत रूपी स्थूल माया को छोड़ भी दिया तो क्या हुआ, जब तक उसके भीतर का सूक्ष्म अहंकार (मान) नहीं छूटा;
+इस मान और प्रतिष्ठा की भूख ने बड़े-बड़े मुनियों और तपस्वियों को गलाकर नष्ट कर दिया, यह मान संपूर्ण संसार को निगल जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaaiaatajeetakiaabhaiaajaumaanutajiaanahee—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What if material wealth was renounced, if proud ego could not be cast aside?
+This subtle thirst for honor and fame has drowned great sages in their pride;
+Devouring ascetics in the wilderness who fled from worldly gold;
+Until pride is completely erased, the Divine Presence none can hold!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर माइआ तजी त किआ भइआ जउ मानु तजि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सूक्ष्म मान सबसे बड़ा बंधन**: कंचन-कामिनी छोड़ना सरल है, पर 'मैं त्यागी हूँ' का मान छोड़ना सबसे कठिन साधना है।
 
 ---
 
 <a name="salok-157"></a>
 ## सलोक 157: कबीर साचा सतिगुरु मै मिलिआ सबदु जु ...
-**English Title:** Salok 157: Kabaeera Saachaa Sataigaurau Maai Mailaiaa Sabada
+**English Title:** The True Master Fired the Arrow of the Word: Piercing the Inner Heart
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6052,21 +6424,24 @@ laagat (laagat) hee (alone/only) bhui (bhui) mili (meet related) gaia (went/depa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साचा सतिगुरु मै मिलिआ सबदु जु बाहिआ एकु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मुझे साक्षात पूर्ण सद्गुरु मिले, जिन्होंने प्रेम और ज्ञान का केवल एक ही शब्द-बाण खींचकर चलाया;
+उस बाण के लगते ही मेरा सारा अहंकार धराशायी होकर धरती पर गिर पड़ा, और मेरे कलेजे में प्रभु-प्रेम का गहरा छेद हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaachaasatigurumaimiliaasabadujubaahia—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The True Master met my soul and drew the bow of celestial art;
+Shooting a single piercing arrow of the Word straight into my heart;
+The instant it struck, I tumbled flat upon the earth in sweet release;
+Shattering the wall of ego, filling my being with eternal peace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साचा सतिगुरु मै मिलिआ सबदु जु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शब्द-बाण**: गुरु का उपदेश बाण के समान अहंकार को भेद देता है और विरह की मीठी पीड़ा जगा देता है।
 
 ---
 
 <a name="salok-158"></a>
 ## सलोक 158: कबीर साचा सतिगुरु किआ करै जउ सिखा म...
-**English Title:** Salok 158: Kabaeera Saachaa Sataigaurau Kaiaa Karaai Jau Sa
+**English Title:** What Can the Master Do if the Disciple Is Flawed: Blowing in Hollow Bamboo
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6089,21 +6464,24 @@ andhe (andhe) ek (equal and one) n (not) laagaee (affects/touches) jiu (just as)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साचा सतिगुरु किआ करै जउ सिखा महि चूक—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चा सद्गुरु भी भला क्या कर सकता है, यदि शिष्य के अपने अंतर्मन में ही कपट और खोट भरा पड़ा हो;
+अज्ञानी अंधे मनुष्य पर ज्ञान का एक भी उपदेश नहीं ठहरता, जैसे खोखले बांस में फूंक मारने पर हवा आर-पार निकल जाती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaachaasatigurukiaakaraijausikhaamahichoo—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What can the perfect True Master accomplish if the disciple is insincere and blind?
+No word of wisdom can take root within an obstinate, crooked mind;
+Just as blowing breath into a hollow bamboo leaves no music inside;
+The wind passes straight through, leaving only empty pride!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साचा सतिगुरु किआ करै जउ सिखा म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पात्रता की अनिवार्यता**: गुरु समर्थ होने पर भी शिष्य यदि कपटी है, तो ज्ञान फलित नहीं होता।
 
 ---
 
 <a name="salok-159"></a>
 ## सलोक 159: कबीर है गै बाहन सघन घन छत्रपती की न...
-**English Title:** Salok 159: Kabaeera Haai Gaai Baahana Saghana Ghana Chhatarapataee
+**English Title:** The Emperor's Queen Cannot Equal the Water-Bearer of God's Servant
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6126,21 +6504,24 @@ taasu (whose/of that) patantar (patantar) na (not) pujai (pujai) hari (The Lord 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर है गै बाहन सघन घन छत्रपती की नारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—चाहे कोई चक्रवर्ती सम्राट की पटरानी हो जिसके आगे अनगिनत हाथी-घोड़ों की सेनाएं और वैभव चलते हों;
+वह राजसी रानी भी उस परमात्मा के दास के घर पानी भरने वाली निर्धन पनिहारी की बराबरी कभी नहीं कर सकती!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahaigaibaahanasaghanaghanachhatrapateekeenaari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The crowned queen of a sovereign emperor who commands legions across the land,
+Can never equal the humble water-bearer serving at the devotee's hand;
+For the queen is bound in transient illusion and pride of earthly reign,
+While the humble servant-maid drinks the nectar of the Lord's domain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर है गै बाहन सघन घन छत्रपती की न'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रूहानी श्रेष्ठता**: संसार का सर्वोच्च पद भी परमात्मा के दास की सेवा के सम्मुख तुच्छ है।
 
 ---
 
 <a name="salok-160"></a>
 ## सलोक 160: कबीर न्रिप नारी किउ निंदीऐ किउ हरि ...
-**English Title:** Salok 160: Kabaeera Naraipa Naaraee Kaiu Naindaeeai Kaiu
+**English Title:** Why Praise the Lord's Maid and Blame the Queen: Devotion versus Lust
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6163,21 +6544,24 @@ oh (oh) maang (maang) savaarai (savaarai) bikhai (bikhai) kau (unto) oh (oh) sim
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर न्रिप नारी किउ निंदीऐ किउ हरि चेरी कउ मानु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+लोग पूछते हैं कि राजा की रानी की निंदा क्यों की जाती है और ईश्वर की निर्धन दासी को इतना मान क्यों दिया जाता है?
+कबीर उत्तर देते हैं—क्योंकि वह रानी तो अपनी मांग केवल काम-वासना और भोग के लिए संवारती है, जबकि हरि की दासी अपने हृदय में निरंतर प्रभु-नाम का स्मरण करती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeranripanaareekiunindeeaikiuharicheree—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why is the king's queen disdained and the Lord's humble handmaid honored on high?
+Because the queen decorates her hair for fleeting lust beneath the worldly sky;
+While the devoted handmaid of Hari consecrates her life in sacred prayer;
+Singing the praises of the Immortal King, free from delusion and despair!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर न्रिप नारी किउ निंदीऐ किउ हरि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भोग बनाम योग**: रानी का लक्ष्य भौतिक सुख है, दासी का लक्ष्य ईश्वरीय मिलन है।
 
 ---
 
 <a name="salok-161"></a>
 ## सलोक 161: कबीर थूनी पाई थिति भई सतिगुर बंधी ध...
-**English Title:** Salok 161: Kabaeera Thaoonaee Paaee Thaitai Bhaee Sataigaura Ba
+**English Title:** The Master's Pillar of Stability: Trading Diamonds by Mansarovar
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6200,21 +6584,24 @@ kabeer (Sant Kabir) heera (diamond) banajia (banajia) maan (maan) sarovar (sarov
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर थूनी पाई थिति भई सतिगुर बंधी धीर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब मुझे सद्गुरु के ज्ञान का सुदृढ़ स्तंभ प्राप्त हो गया, तो मेरे भटकते मन को परम स्थिरता और धीरज मिला;
+अब कबीर उस अंतर्मुखी मानसरोवर के पावन तट पर बैठकर ब्रह्म-ज्ञान के अनमोल हीरों का अमर व्यापार कर रहा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerathooneepaaeethitibhaeesatigurabandheedheera—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I attained the steadfast pillar of support, and my restless mind found calm;
+The True Master anchored my soul, soothing my wounds with celestial balm;
+Now upon the pristine banks of the inner Mansarovar lake I stand,
+Trading in immortal diamonds of truth, guided by the Master's hand!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर थूनी पाई थिति भई सतिगुर बंधी ध'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मानसरोवर पर व्यापार**: जब मन शांत सरोवर बनता है, तो आत्मा सत्य के हीरों का व्यापार करती है।
 
 ---
 
 <a name="salok-162"></a>
 ## सलोक 162: कबीर हरि हीरा जन जउहरी ले कै मांडै ...
-**English Title:** Salok 162: Kabaeera Harai Haeeraa Jana Jauharaee Lae Kaai Ma
+**English Title:** Hari Is the Diamond, the Devotee Is the Jeweler: Trading with the Wise
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6237,21 +6624,24 @@ jab (at the time when) hee (alone/only) paaeeahi (paaeeahi) paarakhoo (paarakhoo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरि हीरा जन जउहरी ले कै मांडै हाट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा राम साक्षात अनमोल हीरा हैं और उनका सच्चा भक्त उस हीरे का कुशल जौहरी है, जो सत्संग की हाट लगाकर बैठा है;
+जब कोई सच्चा पारखी और जिज्ञासु साधक वहाँ आता है, तभी वह इस रूहानी हीरे का सच्चा सौदा संपन्न करता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahariheeraajanajauhareelekaimaandaihaata—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Hari is the priceless diamond, and His humble servant is the jeweler wise;
+Setting up the market of truth beneath the open celestial skies;
+Only when a true connoisseur of the spirit approaches to inquire and see,
+Is the transaction of the diamond sealed in timeless ecstasy!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरि हीरा जन जउहरी ले कै मांडै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **हीरा और जौहरी**: परमात्मा का नाम अनमोल हीरा है; संत ही उसके सच्चे पारखी हैं जो अधिकारी शिष्य को यह रत्न प्रदान करते हैं।
 
 ---
 
 <a name="salok-163"></a>
 ## सलोक 163: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु ...
-**English Title:** Salok 163: Kabaeera Kaama Parae Harai Saimaraeeai Aisaa Sai
+**English Title:** Remember God in Peace as in Distress: Dwell in the Immortal Realm
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6274,21 +6664,24 @@ amara (immortal/deathless) pur (city) baasa (fragrance/permeating scent) karahu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु नित—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संकट और विपत्ति पड़ने पर मनुष्य जिस आकुलता से परमात्मा को पुकारता है, यदि वैसी ही व्याकुलता से प्रतिदिन नित्य सिमरन करे;
+तो वह जीते जी उस अमर लोक (अमरापुर) में निवास करेगा, और उसका नष्ट हुआ आत्मिक वैभव पुनः लौट आएगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaamapareharisimareeaiaisaasimarahunita—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+As urgently as thou criest unto Hari when struck by distress and pain,
+If thou shouldst remember Him with such fervor daily in sunshine and rain;
+Thou shalt take up thy eternal dwelling within the immortal celestial sphere;
+And all lost spiritual treasures shall be restored unto thee here!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **नित्य स्मरण**: यदि संकट जैसी तन्मयता सुख में भी बनी रहे, तो जीव सदा के लिए अमर पद प्राप्त कर लेता है।
 
 ---
 
 <a name="salok-164"></a>
 ## सलोक 164: कबीर सेवा कउ दुइ भले एकु संतु इकु र...
-**English Title:** Salok 164: Kabaeera Saevaa Kau Daui Bhalae Ekau Santau
+**English Title:** Only Two Worthy of Service: The Saint and Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6311,21 +6704,24 @@ raamu (Lord Rama's related) ju (who/whoever) daata (Supreme Giver/Benefactor) mu
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सेवा कउ दुइ भले एकु संतु इकु रामु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में निष्काम सेवा और समर्पण के लिए केवल दो ही परम पात्र श्रेष्ठ हैं—एक सच्चा संत और दूसरा परमात्मा राम;
+क्योंकि परमात्मा राम तो परम मुक्ति के दाता हैं, और सद्गुरु संत उस मुक्तिदायक नाम का स्मरण कराते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasevaakauduibhaleekusantuikuraamu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+For dedicated service only two are worthy across this earthly span:
+The holy enlightened saint of God, and the Supreme Sovereign Ram;
+For Ram is the bountiful Giver of ultimate liberation and peace,
+While the saint teaches the Holy Name, causing all bondage to cease!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सेवा कउ दुइ भले एकु संतु इकु र'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संत और राम**: राम मुक्तिदाता हैं और संत नाम-जपाने वाले हैं; दोनों ही सेवा के सर्वोच्च अधिकारी हैं।
 
 ---
 
 <a name="salok-165"></a>
 ## सलोक 165: कबीर जिह मारगि पंडित गए पाछै परी बह...
-**English Title:** Salok 165: Kabaeera Jaiha Maaragai Pandaita Gae Paachhaai Pa
+**English Title:** The Pandits Took the Easy Highway: Kabir Climbs the Steep Cliff of Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6348,21 +6744,24 @@ ik (in one) avaghat (precipitous/arduous) ghaatee (wharf/ferry) raam (The All-Pe
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जिह मारगि पंडित गए पाछै परी बहीर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस कर्मकांडी और बाह्य आडंबर के सुगम मार्ग पर पंडित चले, उनके पीछे अज्ञानी संसार की अंधी भीड़ चल पड़ी;
+किंतु परमात्मा राम की तो एक अत्यंत दुर्गम, संकरी और खड़ी अवघट घाटी है, जिस पर संसार की परवाह किए बिना कबीर अकेला चढ़ रहा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajihamaaragipanditagaepaachhaipareebaheera—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Along that broad, easy highway where orthodox pandits proudly tread,
+A blind, unthinking multitude followed blindly where they led;
+Yet there is a steep, razor-sharp precipice leading unto Sovereign Ram;
+Upon that lonely, perilous ascent climbs Kabir, fearless and calm!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जिह मारगि पंडित गए पाछै परी बह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अवघट घाटी (The Steep Precipice)**: सत्य का मार्ग संकरा और कठिन है जहाँ भीड़ नहीं जा सकती; केवल साहसी शूरवीर ही इस पर चढ़ता है।
 
 ---
 
 <a name="salok-166"></a>
 ## सलोक 166: कबीर दुनीआ के दोखे मूआ चालत कुल की ...
-**English Title:** Salok 166: Kabaeera Daunaeeaa Kae Daokhae Maooaa Chaalata Kau
+**English Title:** Perished for Family Pride: Whose Clan Is Shamed in the Cremation Ground
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6385,21 +6784,24 @@ tab (at that time/then) kulu (all/entire) kis (unto whom/whom) ka (of) laajasee 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर दुनीआ के दोखे मूआ चालत कुल की कानि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य संसार के तानों और कुल की झूठी मर्यादाओं की रक्षा करने की चिंता में घुट-घुट कर मर गया;
+किंतु जब उसकी देह को श्मशान में ले जाकर जला दिया गया, तब भला उस कुल की कौन सी प्रतिष्ठा शेष रह गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraduneeaakedokhemooaachaalatakulakeekaani—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He died tormented by the petty anxieties of worldly tongues and clan,
+Sacrificing his soul's salvation to preserve the false pride of man;
+Yet when his lifeless corpse was carried out to the cremation pyre,
+Whose lineage was honored as his bones were consumed in the fire?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर दुनीआ के दोखे मूआ चालत कुल की '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **लोक-लाज का भ्रम**: समाज की प्रशंसा और कुल की झूठी शान के पीछे जीवन गंवाना सबसे बड़ी मूर्खता है।
 
 ---
 
 <a name="salok-167"></a>
 ## सलोक 167: कबीर डूबहिगो रे बापुरे बहु लोगन की ...
-**English Title:** Salok 167: Kabaeera Daoobahaigao Rae Baapaurae Bahau Laoga
+**English Title:** Thou Shalt Drown in Worldly Opinions: What Befell Thy Neighbor Awaits Thee
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6422,21 +6824,24 @@ paarosee (paarosee) ke (of) jo (that) hooa (became/happened) too (Thou) apane (o
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर डूबहिगो रे बापुरे बहु लोगन की कानि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे अभागे जीव! तू संसार के लोगों के मत और मर्यादाओं की चिंता करते-करते इस भवसागर में डूब जाएगा;
+जो काल का चक्र आज तेरे पड़ोसी के साथ घटा है, उसे तू कल अपने साथ भी घटने वाला अटल सत्य मान!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradoobahigorebaapurebahuloganakeekaani—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Thou shalt surely drown, O wretched mortal, observing worldly praise and blame;
+Trading the eternal Truth of the Spirit for social shadow and name;
+Behold what tragedy befell thy neighbor when the death-knell rang on high;
+Know that the very same summons approaches—prepare thyself to die!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर डूबहिगो रे बापुरे बहु लोगन की '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पड़ोसी की मृत्यु से सीख**: दूसरों की मृत्यु देखकर भी जो नहीं जागता, वह अज्ञान में ही डूब जाता है।
 
 ---
 
 <a name="salok-168"></a>
 ## सलोक 168: कबीर भली मधूकरी नाना बिधि को नाजु ॥...
-**English Title:** Salok 168: Kabaeera Bhalaee Madhaookaraee Naanaa Baidhai Kao Na
+**English Title:** Blessed Is Begged Food from Many Doors: Boundless Kingdom Without Claims
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6459,21 +6864,24 @@ daava (daava) kaahoo (anyone/anyone's) ko (unto/toward) nahee (not) bada (great/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर भली मधूकरी नाना बिधि को नाजु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अनेक घरों से मांगकर लाई गई भिक्षा (मधुकरी) का सूखा अन्न अत्यंत पवित्र और उत्तम है, जिसमें अनेक प्रकार के अनाज मिले होते हैं;
+इस पर किसी का कोई मालिकाना दावा नहीं होता, यह निष्काम संतोष ही सबसे बड़ा देश और सबसे बड़ा साम्राज्य है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabhaleemadhookareenaanaabidhikonaaju—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Blessed is the simple bread gathered in humility from door to door;
+Composed of varied grains, asking neither ownership nor store;
+None can make claim or dispute this food, free from anxiety and strife;
+This sovereign contentment is the grandest empire of spiritual life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर भली मधूकरी नाना बिधि को नाजु ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मधुकरी का आनंद**: भिक्षा में कोई स्वामित्व नहीं होता; जहां स्वामित्व नहीं, वहां कोई चिंता या विवाद नहीं होता।
 
 ---
 
 <a name="salok-169"></a>
 ## सलोक 169: कबीर दावै दाझनु होतु है निरदावै रहै...
-**English Title:** Salok 169: Kabaeera Daavaai Daajhanau Haotau Haai Nairadaava
+**English Title:** Claims Bring Burning Anxiety: The Claimless Man Deems Indra a Pauper
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6496,21 +6904,24 @@ jo (that) janu (as if/devotee) niradaavai (niradaavai) rahai (may abide/remain) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर दावै दाझनु होतु है निरदावै रहै निसंक—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जहाँ 'यह मेरा है' का दावा होता है, वहीं ईर्ष्या और चिंता की आग धधकती है; और जो समस्त दावों से मुक्त है वह सदा निडर रहता है;
+जो निष्काम और दावे से रहित होकर जीता है, वह स्वर्ग के राजा इंद्र को भी अपने सम्मुख एक कंगाल रंक के समान समझता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradaavaidaajhanuhotuhainiradaavairahainisan—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Claims of possession ignite the scorching flames of anxiety and fear;
+While he who lays no claim to earthly goods walks in tranquility here;
+The devotee who dwells devoid of pride, asking naught from the worldly mart,
+Deems the mighty king of heaven, Indra himself, a pauper in his heart!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर दावै दाझनु होतु है निरदावै रहै'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निरदावै (Claimless State)**: 'मेरा कुछ नहीं' का भाव ही परम स्वतंत्रता है; इंद्र भी तृष्णा में कंगाल है, निष्काम संत सच्चा सम्राट है।
 
 ---
 
 <a name="salok-170"></a>
 ## सलोक 170: कबीर पालि समुहा सरवरु भरा पी न सकै ...
-**English Title:** Salok 170: Kabaeera Paalai Samauhaa Saravarau Bharaa Paee Na
+**English Title:** The Lake Brimming at the Embankment: Kabir, Drink Thy Fill
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6533,21 +6944,24 @@ bhaag (fortune/destiny) bade (great) tai (by thee/from) paaio (attained/found) t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर पालि समुहा सरवरु भरा पी न सकै कोई नीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—साधना की पाल पर परमात्मा रूपी अमृत का सरोवर लबालब भरा खड़ा है, किंतु अज्ञानी संसारी इसमें से एक घूंट भी जल नहीं पी सकते;
+हे कबीर! यह तो तेरे बड़े भाग्य और प्रभु-कृपा का फल है कि तूने यह सरोवर पा लिया, अब तू पात्र भर-भर कर इसका अमृत जी-भर के पी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerapaalisamuhaasaravarubharaapeenasakaikoeen—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Brimming with crystal water is the sacred lake right at the embankment's face;
+Yet blind worldly souls cannot drink a single drop of this living grace;
+By highest good fortune and divine mercy hast thou attained this holy pool;
+Fill thy cup, O Kabir, and drink deep, quenching thy thirsty soul!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर पालि समुहा सरवरु भरा पी न सकै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अमृत सरोवर**: प्रभु-रस सर्वत्र सुलभ है पर अज्ञानी प्यासा ही मरता है; भाग्यशाली भक्त ही इसका भरपूर पान करता है।
 
 ---
 
 <a name="salok-171"></a>
 ## सलोक 171: कबीर परभाते तारे खिसहि तिउ इहु खिसै...
-**English Title:** Salok 171: Kabaeera Parabhaatae Taarae Khaisahai Taiu Ihau
+**English Title:** Die Such a Death that Bliss Welcomes the Soul into Eternal Rest
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6570,21 +6984,24 @@ e (these) dui (two/duality) akhar (imperishable word/letter) na (not) khisahi (k
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर परभाते तारे खिसहि तिउ इहु खिसै सरीरु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे साधक! संसार में ऐसी अमर मृत्यु मरो, जिस मृत्यु के मरने पर जीवन में परमानंद का प्राकट्य हो जाए;
+जिस अहंकार-शून्य मृत्यु को मरने पर आत्मा को परमात्मा में सदा के लिए परम सुख और विश्राम प्राप्त हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraparabhaatetaarekhisahitiuihukhisaisareer—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Die such a noble death of the ego that celestial bliss greets the soul;
+Through whose sacred demise the seeker is united, peaceful and whole;
+Attaining that supreme rest where sorrow and rebirth cease to be;
+Dissolved forever in the ocean of divine eternity!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर परभाते तारे खिसहि तिउ इहु खिसै'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मरने का रहस्य**: अहं-भाव की मृत्यु ही परमात्मा के साथ नित्य आनंद का द्वार खोलती है।
 
 ---
 
 <a name="salok-172"></a>
 ## सलोक 172: कबीर कोठी काठ की दह दिसि लागी आगि ॥...
-**English Title:** Salok 172: Kabaeera Kaothaee Kaatha Kaee Daha Daisai Laagaee
+**English Title:** The Stone Dissolved in the Path: Duality Cured in Truth
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6607,21 +7024,24 @@ pandit (learned scholar/priest) pandit (learned scholar/priest) jali (in water) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कोठी काठ की दह दिसि लागी आगि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सत्य के मेरे मार्ग पर चलते ही जो पहले अज्ञान का कठोर पत्थर था, वह परमात्मा की अगाध कृपा बन गया;
+जिसने इस रहस्य को जान लिया उसने इसे स्वीकार कर लिया, और उसके भीतर से द्वैत का भयंकर रोग सदा के लिए समाप्त हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakotheekaathakeedahadisilaageeaagi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Walking upon my pathway of devotion, the heavy obstacle of stone dissolved in light;
+He who recognized this truth accepted it with joyful, single-pointed sight;
+The chronic disease of duality and division fell withered and dead;
+And the soul rested in the uncreated peace where holy angels tread!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कोठी काठ की दह दिसि लागी आगि ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **बाधा का निवारण**: जब साधक दृढ़ संकल्प से चलता है, तो मार्ग की सारी बाधाएं प्रभु-कृपा में बदल जाती हैं।
 
 ---
 
 <a name="salok-173"></a>
 ## सलोक 173: कबीर संसा दूरि करु कागद देह बिहाइ ॥...
-**English Title:** Salok 173: Kabaeera Sansaa Daoorai Karau Kaagada Daeha Bai
+**English Title:** Carving the Stone Idol Stepping on Its Chest: If God, It Would Devour the Carver
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6644,21 +7064,24 @@ baavan (baavan) akhar (imperishable word/letter) sodhi (having purified/scrutini
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संसा दूरि करु कागद देह बिहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मूर्तिकार ने पत्थर की छाती पर पैर रखकर छेनी-हथौड़े से तराशकर एक मूर्ति बनाई;
+यदि वह पत्थर वास्तव में सच्चा ईश्वर होता, तो अपनी छाती पर पैर रखने वाले उस मूर्तिकार को ही पहले खा जाता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasansaadoorikarukaagadadehabihaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Chiseling the hard rock, the sculptor fashioned an idol placing his foot upon its chest;
+If that stone were indeed the Living Creator, sovereign and blest,
+It would have devoured the bold carver who dared to step upon its frame;
+Worship the Uncreated Spirit, not idols fashioned in man's name!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संसा दूरि करु कागद देह बिहाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मूर्ति-पूजा पर तार्किक प्रहार**: कबीर का निर्भीक तर्क—जो पत्थर अपनी रक्षा नहीं कर सकता और गढ़ने वाले के पैरों तले दबता है, वह मनुष्य का उद्धार कैसे करेगा?
 
 ---
 
 <a name="salok-174"></a>
 ## सलोक 174: कबीर संतु न छाडै संतई जउ कोटिक मिलह...
-**English Title:** Salok 174: Kabaeera Santau Na Chhaadaai Santaee Jau Kaotaika
+**English Title:** Kaliyuga Is Wicked and Deep, but Sublime Is the Lineage of the Saint
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6681,21 +7104,24 @@ maliaagaru (maliaagaru) bhuyangam (bhuyangam) bedhio (bedhio) t (then indeed) se
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर संतु न छाडै संतई जउ कोटिक मिलहि असंत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह कलियुग अत्यंत खोटा, पाखंडी और पापों का अगाध सागर बन चुका है;
+किंतु जिस कुल में परमात्मा का कोई सच्चा संत-साधक जन्म ले लेता है, वह कुल इस कलियुग में भी परम अगाध, पावन और वंदनीय हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasantunachhaadaisantaeejaukotikamilahiasan—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Degenerate and corrupt is this dark age, deep with the mire of sin and strife;
+Yet that family wherein a holy saint of God takes birth into life,
+Becomes exalted, sanctified, and anchored in boundless celestial grace;
+A shining beacon of redemption in this bewildered mortal place!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर संतु न छाडै संतई जउ कोटिक मिलह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **युग-धर्म और संत**: युग चाहे कितना भी भ्रष्ट हो, संत की उपस्थिति सम्पूर्ण परिवेश को पावन कर देती है।
 
 ---
 
 <a name="salok-175"></a>
 ## सलोक 175: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु...
-**English Title:** Salok 175: Kabaeera Manau Saeetalau Bhaiaa Paaiaa Barahama
+**English Title:** Drink the Water of the Saint's Pure Feet: This Clay Yields Naught Else
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6718,21 +7144,24 @@ jini (do not/who) juaala (juaala) jagu (the world/mortal realm) jaaria (jaaria) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चे संतों के निर्मल चरणों को धो-धोकर उस चरणामृत का आदरपूर्वक पान करो;
+क्योंकि इस नश्वर शरीर के अन्य सांसारिक भोगों से आत्मा का कोई कल्याण होने वाला नहीं है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramanuseetalubhaiaapaaiaabrahamagiaanu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Wash the immaculate feet of the holy saints and drink the living water in reverence deep;
+For from this fragile mortal body no other enduring harvest shalt thou reap;
+All physical pursuits crumble into dust when the final breath flies free;
+Only the dust of the righteous endures in the presence of eternity!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **चरण-धूलि की महिमा**: संतों की विनम्र सेवा ही अहंकार को मिटाकर आत्म-शुद्धि करती है।
 
 ---
 
 <a name="salok-176"></a>
 ## सलोक 176: कबीर सारी सिरजनहार की जानै नाही कोइ...
-**English Title:** Salok 176: Kabaeera Saaraee Sairajanahaara Kaee Jaanaai Naaha
+**English Title:** The Saint's Intellect Is Exalted, the Sceptic's Blind: Vision Purifies
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6755,21 +7184,24 @@ kai (of) jaanai (life/soul (does/by)) aapan (Himself/oneself (folk/plural)) dhan
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सारी सिरजनहार की जानै नाही कोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चे संत की बुद्धि अत्यंत निर्मल और ज्ञान से परिपूर्ण होती है, जबकि ईश्वर-विमुख साक्त की बुद्धि अत्यंत मंद और अज्ञानी होती है;
+संत के दर्शन मात्र से अंतःकरण पवित्र हो जाता है, जबकि साक्त की संगति मनुष्य को आध्यात्मिक रूप से अंधा बना देती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaareesirajanahaarakeejaanainaaheekoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Exalted and pure is the intellect of the saint, while the cynic's mind is dull and blind;
+The sacred sight of the holy purifies the soul, leaving peace of mind behind;
+While gazing upon the godless sceptic clouds consciousness in gloom;
+Seek the luminous company of truth, and escape the worldly tomb!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सारी सिरजनहार की जानै नाही कोइ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मति का भेद**: संत की मति ब्रह्म में स्थिर है; साक्त की मति संसार में अंधी है।
 
 ---
 
 <a name="salok-177"></a>
 ## सलोक 177: कबीर भली भई जो भउ परिआ दिसा गईं सभ ...
-**English Title:** Salok 177: Kabaeera Bhalaee Bhaee Jao Bhau Paraiaa Daisaa Gaee
+**English Title:** Shun the Sinner's Company: Who Dwells with the Sceptic Burns in Fire
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6792,21 +7224,24 @@ ora (ora) gari (gari) paanee (water) bhaia (became) jaai (whose/when (in/having 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर भली भई जो भउ परिआ दिसा गईं सभ भूलि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर-विमुख साक्त की संगति कभी मत करो, पापी की संगति और मति का सर्वथा त्याग कर दो;
+जो मनुष्य साक्त के संग में रहता है, वह उसके पापों और दुर्गुणों की अग्नि में स्वयं जलकर भस्म हो जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabhaleebhaeejobhaupariaadisaagaeensabhabhooli—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Associate never with the godless cynic, forsake the evil sinner's track;
+He who chooses to dwell in the company of the sceptic turns from the light his back;
+Consumed in the raging fire of desires that burns the worldly mind;
+Losing the precious jewel of truth which he came on earth to find!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर भली भई जो भउ परिआ दिसा गईं सभ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कुसंग का दाह**: जैसे आग के पास रहने वाला जलता है, वैसे ही साक्त के संग रहने वाला अपनी साधना नष्ट कर लेता है।
 
 ---
 
 <a name="salok-178"></a>
 ## सलोक 178: कबीरा धूरि सकेलि कै पुरीआ बांधी देह...
-**English Title:** Salok 178: Kabaeeraa Dhaoorai Sakaelai Kaai Pauraeeaa Baandha
+**English Title:** Sit Not in the Stone Boat with the Sceptic: It Sinks the Crew
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6829,21 +7264,24 @@ divas (day) chaari (four related) ko (unto/toward) pekhana (pekhana) anti (inner
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीरा धूरि सकेलि कै पुरीआ बांधी देह—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर-विमुख साक्त के साथ जीवन की नाव में कभी मत बैठो, वह तो पत्थर की भारी नाव के समान है;
+जो न स्वयं तैर सकती है और न किसी को पार लगाती है, बल्कि अपने सवारों को भी बीच भंवर में ले जाकर डुबो देती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraadhoorisakelikaipureeaabaandheedeha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Embark not upon the waters of life with the godless cynic by thy side;
+His fellowship is like a heavy boat of stone upon the surging tide;
+It can never cross the turbulent waves nor reach the distant shore;
+It sinks like lead into the abyss, drowning its crew for evermore!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीरा धूरि सकेलि कै पुरीआ बांधी देह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पत्थर की नाव**: पाषाण-हृदय साक्त की संगति साधक को भी अपने साथ संसार-सागर में डुबो देती है।
 
 ---
 
 <a name="salok-179"></a>
 ## सलोक 179: कबीर सूरज चांद कै उदै भई सभ देह ॥...
-**English Title:** Salok 179: Kabaeera Saooraja Chaanda Kaai Udaai Bhaee Sabha Dae
+**English Title:** The Sceptic's Company Is Like a Bamboo Splinter: Entangled Unto Death
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6866,21 +7304,24 @@ gur (of the Master) gobind (Lord Govind) ke (of) binu (without/devoid of) mile (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सूरज चांद कै उदै भई सभ देह—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—साक्त की कुसंगति बांस की उस तीखी फांस के समान है, जो मांस में धंस जाती है;
+एक बार उलझ जाने पर वह कभी सुलझती नहीं, और अंततः प्राण लेकर ही छोड़ती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasoorajachaandakaiudaibhaeesabhadeha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The evil company of the godless cynic is like a sharp bamboo splinter in the flesh;
+Once entangled in its venomous thorns, none can escape the mesh;
+Festering deeper within the wound, it yields no healing breath;
+Until the trapped and poisoned soul perishes in agonizing death!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सूरज चांद कै उदै भई सभ देह ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **बांस की फांस**: कुसंग का जहर धीरे-धीरे आत्मा को अपने वश में कर लेता है और उसका निकलना अत्यंत कठिन हो जाता है।
 
 ---
 
 <a name="salok-180"></a>
 ## सलोक 180: जह अनभउ तह भै नही जह भउ तह हरि नाहि...
-**English Title:** Salok 180: Jaha Anabhau Taha Bhaai Nahaee Jaha Bhau Taha Harai
+**English Title:** An Unbaked Vessel of Clay: Keep It Intact by Chanting Ram
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6903,21 +7344,24 @@ kahio (from (unto/in) related) kabeer (Sant Kabir) bichaari (four related) kai (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: जह अनभउ तह भै नही जह भउ तह हरि नाहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह मानव शरीर कच्ची मिट्टी की गागर के समान नितांत क्षणभंगुर और कच्ची धातु से बना है;
+यदि इसे टूटकर नष्ट होने से बचाकर साबुत रखना चाहता है तो केवल राम का भजन कर, अन्यथा जीवन की सारी बाजी व्यर्थ बिगड़ जाएगी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: jahaanabhautahabhainaheejahabhautahaharinaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This physical frame is an unbaked pitcher fashioned of fragile clay;
+If thou wouldst preserve its integrity whole, chant Ram's Name night and day;
+Lest struck by a sudden blow of death the vessel shatter in vain;
+And the wasted opportunity never can be restored again!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'जह अनभउ तह भै नही जह भउ तह हरि नाहि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कच्चा घट**: शरीर किसी भी क्षण टूट सकता है; केवल परमात्मा की भक्ति ही इसे सार्थकता और अमरता प्रदान करती है।
 
 ---
 
 <a name="salok-181"></a>
 ## सलोक 181: कबीर जिनहु किछू जानिआ नही तिन सुख न...
-**English Title:** Salok 181: Kabaeera Jainahau Kaichhaoo Jaanaiaa Nahaee Taina
+**English Title:** Fire Consumes the Body-Temple: What Can Be Rescued When Ram Was Forgotten
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6940,21 +7384,24 @@ hamahu (hamahu) ju (who/whoever) boojha (boojha (spiritual sense)) boojhana (boo
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जिनहु किछू जानिआ नही तिन सुख नीद बिहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—तूने समय रहते परमात्मा राम का स्मरण नहीं किया और अब लाचारी की वृद्धावस्था आ पहुंची;
+जब इस शरीर रूपी सुंदर मंदिर में ही काल की आग धधक उठी है, तो अब जलती हुई भट्ठी में से क्या बाहर निकाला जा सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajinahukichhoojaaniaanaheetinasukhaneedabi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Kabir, thou didst never contemplate Ram, and now trembling old age has drawn near;
+The fire of mortality has consumed the body-temple, striking terror and fear;
+What treasure canst thou rescue from the blaze when all is turning to ash?
+Awaken before the final hour strikes with its shattering crash!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जिनहु किछू जानिआ नही तिन सुख न'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **समय का सदुपयोग**: जब तक युवावस्था और स्वास्थ्य है, तभी साधना संभव है; आग लगने पर कुआं खोदना व्यर्थ है।
 
 ---
 
 <a name="salok-182"></a>
 ## सलोक 182: कबीर मारे बहुतु पुकारिआ पीर पुकारै ...
-**English Title:** Salok 182: Kabaeera Maarae Bahautau Paukaaraiaa Paeera Pau
+**English Title:** The True Master Bestowed Rest and Liberation: Chanting Ram's Name
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -6977,21 +7424,24 @@ laagee (flame of longing) chot (wound/strike of love) maram (inner secret/myster
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मारे बहुतु पुकारिआ पीर पुकारै अउर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मुझ पर कृपा करके ऐसे पूर्ण सद्गुरु मिल गए, जिन्होंने मुझे जीवन-मुक्त करके शाश्वत विश्राम प्रदान किया;
+अब मैं उनके पावन चरण-कमलों में अपने चित्त को स्थिर रखकर निरंतर परमात्मा राम के पावन नाम का भजन करता हूँ!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramaarebahutupukaariaapeerapukaaraiaura—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I attained such an enlightened True Master who granted liberation and peace;
+Anchoring my restless wandering soul where all anxieties cease;
+Fixing my focused awareness within the beauty of His lotus feet;
+I chant the Holy Name of Ram, finding celestial nectar sweet!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मारे बहुतु पुकारिआ पीर पुकारै '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सद्गुरु का परम उपकार**: सद्गुरु ही जीवन-मुक्ति और अंतःकरण की पूर्ण शांति प्रदान करते हैं।
 
 ---
 
 <a name="salok-183"></a>
 ## सलोक 183: कबीर चोट सुहेली सेल की लागत लेइ उसा...
-**English Title:** Salok 183: Kabaeera Chaota Sauhaelaee Saela Kaee Laagata Lae
+**English Title:** Mind Cooled by Divine Wisdom: All Sacrifice Unto Him Who Shed Pride
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7014,21 +7464,24 @@ chot (wound/strike of love) sahaarai (sahaarai) sabad (Divine Word, sacred mysti
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर चोट सुहेली सेल की लागत लेइ उसास—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जब साक्षात ब्रह्म-ज्ञान का साक्षात्कार हुआ, तो यह अशांत मन सर्वथा शीतल और शांत हो गया;
+मैं तो उन विरले महापुरुषों पर सौ-सौ बार बलिहारी जाता हूँ, जिन्होंने अपने भीतर के अहंकार और अभिमान को जड़ से मिटा दिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerachotasuheleeselakeelaagataleiusaasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+My mind has become serene and cool, attaining the uncreated wisdom of God;
+All sacrifice am I unto that humble seeker who has surrendered pride upon the sod;
+Extinguishing the raging flames of passion, resting in quietude profound;
+Where the ego has completely vanished, there the eternal Truth is found!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर चोट सुहेली सेल की लागत लेइ उसा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन की शीतलता**: ब्रह्म-ज्ञान होते ही तृष्णा की आग शांत हो जाती है और निरहंकारी अवस्था प्राप्त होती है।
 
 ---
 
 <a name="salok-184"></a>
 ## सलोक 184: कबीर मुलां मुनारे किआ चढहि सांई न ब...
-**English Title:** Salok 184: Kabaeera Maulaan Maunaarae Kaiaa Chadhahai Saan
+**English Title:** None Deciphers the Mystery of the Mind: Who Understands Is Kabir's Friend
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7051,21 +7504,24 @@ ja (whose/when) kaarani (work/deed (of/in)) toon (Thou) baang (baang) dehi (give
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मुलां मुनारे किआ चढहि सांई न बहरा होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—संसार में ऐसा कोई विरला ज्ञानी दिखाई नहीं देता, जो इस चंचल मन के गहन रहस्य और सूक्ष्म चालों को समझा सके;
+जो इस मन के वास्तविक स्वरूप और गति को समझाकर शांत कर दे, वही वास्तव में कबीर का सच्चा मित्र और मार्गदर्शक है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramulaanmunaarekiaachadhahisaaneenabaharaah—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Scarce is the wise master found who can decipher the deep mystery of the mind;
+Unraveling its subtle delusions, leaving its restless wanderings behind;
+Whosoever can illuminate the nature of the mind and bring it to stillness and peace,
+Is the true friend of Kabir, unlocking the gates of eternal release!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मुलां मुनारे किआ चढहि सांई न ब'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन की पहेली**: मन को जीतना ही जगत को जीतना है; जो मन के विज्ञान को जानता है वही सच्चा ज्ञानी है।
 
 ---
 
 <a name="salok-185"></a>
 ## सलोक 185: सेख सबूरी बाहरा किआ हज काबे जाइ ॥...
-**English Title:** Salok 185: Saekha Sabaooraee Baaharaa Kaiaa Haja Kaabae Jaa
+**English Title:** The Lute Shattered, the Musician Departed: What Music Remains
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7088,21 +7544,24 @@ kabeer (Sant Kabir) ja (whose/when) kee (of) dil (heart) saabati (saabati) nahee
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: सेख सबूरी बाहरा किआ हज काबे जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह शरीर रूपी वाद्य-यंत्र जिसे हम जीवन भर बजाते रहे, अब वह टूटकर बिखर चुका है;
+इसे बजाने वाला कुशल संगीतकार (चेतना) इसे छोड़कर विदा हो गया, अब यह निर्जीव काठ भला क्या संगीत बजा सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: sekhasabooreebaaharaakiaahajakaabejaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The body-instrument upon which we played has shattered into brittle pieces of wood;
+The subtle Musician who strummed its strings has departed where holy angels stood;
+What melody can the broken lute evoke, lying silent upon the dusty floor?
+The song of life has flown into the heavens, leaving the cage for evermore!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'सेख सबूरी बाहरा किआ हज काबे जाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मृत्यु का रूपक**: आत्मा के बिना शरीर एक टूटा हुआ बाजा है जिससे कोई ध्वनि नहीं निकल सकती।
 
 ---
 
 <a name="salok-186"></a>
 ## सलोक 186: कबीर अलह की करि बंदगी जिह सिमरत दुख...
-**English Title:** Salok 186: Kabaeera Alaha Kaee Karai Bandagaee Jaiha Saimara
+**English Title:** Die Such a Death: Becoming Dead While Alive, Attaining the Ageless State
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7125,21 +7584,24 @@ dil (heart) mahi (within/in) saanee (saanee (spiritual sense)) paragatai (paraga
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर अलह की करि बंदगी जिह सिमरत दुखु जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि मरना ही है तो ऐसी आध्यात्मिक मृत्यु मरो, जिसमें अहंकार से मरकर आत्मा में जाग्रत (मरि-जीवा) हो जाया जाता है;
+ताकि इस नश्वर संसार में दोबारा कभी जन्म न लेना पड़े, और उस अजर-अमर अविनाशी पद की प्राप्ति हो जाए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraalahakeekaribandageejihasimaratadukhujaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If thou must die, die such a spiritual death that thou becomest alive in the Lord;
+Slaying the false identity of self, entering the presence of the eternal Word;
+Never again shalt thou return to wander through the cycles of womb and grave;
+Attaining the ageless, deathless sanctuary where eternal banners wave!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर अलह की करि बंदगी जिह सिमरत दुख'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अमर पद**: जीते जी 'मैं' को मारना ही अमरता की प्राप्ति का एकमात्र मार्ग है।
 
 ---
 
 <a name="salok-187"></a>
 ## सलोक 187: कबीर जोरी कीए जुलमु है कहता नाउ हला...
-**English Title:** Salok 187: Kabaeera Jaoraee Kaeee Jaulamau Haai Kahataa Naa
+**English Title:** Enraptured in the Lotus Feet: Master's Sanctuary Clears All Afflictions
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7162,21 +7624,24 @@ daphatari (daphatari) lekha (reckoning/account of deeds) maangeeai (maangeeai) t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जोरी कीए जुलमु है कहता नाउ हलालु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं तो दिन-रात परमात्मा के पावन चरण-कमलों की अखंड मौज और रूहानी मस्ती में मग्न रहता हूँ;
+मेरे पूर्ण सद्गुरु की शरणागति ने मेरे जीवन के समस्त मानसिक आधि-व्याधि और द्वंद्वों के उपाधियों से मुझे सदा के लिए मुक्त कर दिया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajoreekeeejulamuhaikahataanaauhalaalu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Enraptured in the boundless bliss of the lotus feet I dwell day and night;
+Sheltered in the sanctuary of the True Master, bathed in uncreated light;
+All afflictions, anxieties, and worldly entanglements have fallen away in grace;
+Resting forever at peace in the Beloved's divine embrace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जोरी कीए जुलमु है कहता नाउ हला'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **उपाधि-मुक्ति**: गुरु-शरण मन के समस्त भ्रमों और उपाधियों को समाप्त कर परम शांति प्रदान करती है।
 
 ---
 
 <a name="salok-188"></a>
 ## सलोक 188: कबीर खूबु खाना खीचरी जा महि अम्रितु...
-**English Title:** Salok 188: Kabaeera Khaoobau Khaanaa Khaeecharaee Jaa Mahai Ama
+**English Title:** Yearning to Die at Hari's Gate Where Coming and Going Is Unbarred
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7199,21 +7664,24 @@ hera (hera) rotee (rotee) kaarane (work/deed related) gala (gala) kataavai (kata
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर खूबु खाना खीचरी जा महि अम्रितु लोनु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मुझे भौतिक शरीर को त्यागने का तीव्र चाव है, किंतु मरूँ तो केवल उस परमात्मा के पावन द्वार पर मरूँ;
+जिस परम करुणामय द्वार पर आने-जाने वाले किसी भी शरणागत को कभी कोई नहीं रोकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakhoobukhaanaakheechareejaamahiamritulonu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I yearn with sweet eagerness to die, but let me fall at Hari's gate of light;
+That compassionate threshold where none is barred, by day nor by night;
+Where every humble surrendered soul finds welcome and boundless release;
+Resting beneath the sovereign canopy of everlasting peace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर खूबु खाना खीचरी जा महि अम्रितु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **प्रभु-द्वार की महिमा**: परमात्मा के दरबार में प्रेमियों के लिए कोई रोक-टोक नहीं है।
 
 ---
 
 <a name="salok-189"></a>
 ## सलोक 189: कबीर गुरु लागा तब जानीऐ मिटै मोहु त...
-**English Title:** Salok 189: Kabaeera Gaurau Laagaa Taba Jaanaeeai Maitaai Ma
+**English Title:** Better the Swine than the Sceptic: Dead Without a Name
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7236,21 +7704,24 @@ harakh (harakh) sog (sog) daajhai (daajhai) nahee (not) tab (at that time/then) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गुरु लागा तब जानीऐ मिटै मोहु तन ताप—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ईश्वर-विमुख साक्त से तो गांव का सूअर कहीं श्रेष्ठ है जो गांव की गंदगी को साफ रखकर उपकार करता है;
+वह अभागा साक्त तो मरकर नष्ट हो जाता है और संसार में कोई उसका नाम तक सम्मान से लेने वाला नहीं रहता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragurulaagaatabajaaneeaimitaimohutanataap—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Far better is the humble swine than the proud sceptic who denies the Lord above;
+For the swine cleanses the village soil, while the cynic lives devoid of love;
+He dies in the darkness of his conceit, unremembered, barren, and forlorn;
+Leaving no trace of righteousness to bless the day that he was born!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गुरु लागा तब जानीऐ मिटै मोहु त'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **साक्त की दुर्गति**: ईश्वर से विमुख अहंकारी का जीवन व्यर्थ है और उसका अंत भी अनाम विस्मृति में होता है।
 
 ---
 
 <a name="salok-190"></a>
 ## सलोक 190: कबीर राम कहन महि भेदु है ता महि एकु...
-**English Title:** Salok 190: Kabaeera Raama Kahana Mahai Bhaedau Haai Taa Maha
+**English Title:** Hoarding Penny by Penny: Even the Loincloth Stripped at Death
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7273,21 +7744,24 @@ soee (the very same) raamu (Lord Rama's related) sabhai (everything/all) kahahi 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर राम कहन महि भेदु है ता महि एकु बिचारु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य ने कौड़ी-कौड़ी जोड़कर लाखों-करोड़ों की अपार धन-संपत्ति का ढेर लगा लिया;
+किंतु जब संसार से कूच करने की घड़ी आई तो एक तिनका भी साथ न गया, यहाँ तक कि उसके शरीर की लंगोटी भी फाड़कर उतार ली गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamakahanamahibheduhaitaamahiekubicha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Hoarding penny by penny with eager greed, he gathered millions of gold in store;
+Yet when the summons of departure struck, not a single coin reached the other shore;
+Stripped bare of worldly possessions, even his loincloth was torn away;
+Naked he came from the womb, and naked he returned to the clay!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर राम कहन महि भेदु है ता महि एकु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **धन की असहायता**: करोड़ों की दौलत भी चिता पर कफन से ज्यादा कुछ नहीं दे सकती।
 
 ---
 
 <a name="salok-191"></a>
 ## सलोक 191: कबीर रामै राम कहु कहिबे माहि बिबेक ...
-**English Title:** Salok 191: Kabaeera Raamaai Raama Kahau Kahaibae Maahai Ba
+**English Title:** Discrimination in Uttering Ram: One in the Many, and the One Alone
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7310,21 +7784,24 @@ eku (The One Supreme Lord) anekahi (anekahi) mili (meet related) gaia (went/depa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर रामै राम कहु कहिबे माहि बिबेक—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—राम-राम का उच्चारण अवश्य करो, किंतु इस उच्चारण में तत्व-विवेक होना चाहिए;
+एक राम तो अनेक घटों में व्याप्त होकर लीला कर रहा है, और एक परम राम अपनी अखंड अद्वैत सत्ता में स्वयं स्थित है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamairaamakahukahibemaahibibeka—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Chant the name of Ram with awakened wisdom, discerning truth with heart profound;
+One Ram pervades through countless living forms in mortal garments bound;
+While the transcendent Ram abides beyond all forms, supreme, pristine, and whole;
+Discern between the cosmic play and the unmoving Master of the soul!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर रामै राम कहु कहिबे माहि बिबेक '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **विवेकपूर्वक स्मरण**: कबीर सगुण-निर्गुण के रहस्य को स्पष्ट करते हैं। केवल तोते की भांति 'राम' रटने से लाभ नहीं; उस परम तत्व को जानना आवश्यक है जो समष्टि में व्याप्त होकर भी निर्लेप है।
 
 ---
 
 <a name="salok-192"></a>
 ## सलोक 192: कबीर जा घर साध न सेवीअहि हरि की सेव...
-**English Title:** Salok 192: Kabaeera Jaa Ghara Saadha Na Saevaeeahai Harai Ka
+**English Title:** A House Bereft of Saints Is a Graveyard Where Ghosts Abide
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7347,21 +7824,24 @@ te (from/by) ghar (home/refuge) marahat (marahat) saarakhe (saarakhe) bhoot (bho
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जा घर साध न सेवीअहि हरि की सेवा नाहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जिस गृहस्थ के घर में संतों और साधकों की सेवा-सत्कार नहीं होता, और न ही हरि की भक्ति होती है;
+वे घर जीवित मनुष्यों के नहीं बल्कि श्मशान भूमि के समान हैं, जहाँ प्रेत और भूत निवास करते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaagharasaadhanaseveeahiharikeesevaanaah—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+That house wherein holy seekers are never served and Hari's praise unsung;
+Is like a desolate burning ground where gloom and spectral shadows are flung;
+No living warmth abides within its walls, though gold upon the floor is spread;
+It stands a haunted sepulchre, where wander ghosts among the unblessed dead!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जा घर साध न सेवीअहि हरि की सेव'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **साधु-सत्कार**: जिस घर में परोपकार, सत्संग और ईश्वर-भक्ति नहीं, वह भौतिक रूप से कितना भी समृद्ध क्यों न हो, आध्यात्मिक दृष्टि से मुर्दाघर के समान है।
 
 ---
 
 <a name="salok-193"></a>
 ## सलोक 193: कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥...
-**English Title:** Salok 193: Kabaeera Gaoongaa Haooaa Baavaraa Baharaa Haooaa
+**English Title:** Struck by the Master's Arrow: Dumb, Deaf, and Crippled in Ecstasy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7384,21 +7864,24 @@ paavahu (paavahu) te (from/by) pingul (pingul) bhaia (became) maaria (maaria) sa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर गूंगा हूआ बावरा बहरा हूआ कान—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सद्गुरु ने ज्ञान का ऐसा अचूक बाण मारा कि मैं सांसारिक प्रपंचों के लिए गूंगा हो गया, पागल जैसा बन गया और कानों से बहरा हो गया;
+मेरे पैर भी संसार की अंधी दौड़ के लिए पंगु हो गए, क्योंकि गुरु के बाण ने मेरे हृदय को भीतर तक बेध दिया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeragoongaahooaabaavaraabaharaahooaakaana—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The True Master drew His mighty bow and struck me with His arrow of grace;
+Dumb have I become to idle speech, and mad to the worldly market-place;
+Deaf are mine ears to earthly praise, and crippled my feet to run in vain;
+Pierced through the heart by divine love, dissolved is every mortal pain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **इंद्रिय-उपरामता (Pratyahara)**: गुरु के ज्ञान-बाण का आघात साधक की बहिर्मुखी इंद्रियों को संसार से विमुख कर अंतर्मुखी कर देता है।
 
 ---
 
 <a name="salok-194"></a>
 ## सलोक 194: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु...
-**English Title:** Salok 194: Kabaeera Sataigaura Saooramae Baahaiaa Baanau Ja
+**English Title:** The Master Warrior Shot a Single Dart: Pierced to the Core
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7421,21 +7904,24 @@ laagat (laagat) hee (alone/only) bhui (bhui) giri (giri (spiritual sense)) paria
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+सद्गुरु रूपी परम शूरवीर ने प्रेम और ज्ञान का केवल एक ही बाण साधकर मुझ पर चलाया;
+उसके लगते ही मेरा मिथ्या अहंकार भूमि पर गिर पड़ा और मेरे कलेजे में प्रभु-प्रेम का गहरा घाव हो गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasatigurasooramebaahiaabaanujueku—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The True Master, champion supreme, launched a single shaft of light;
+Striking the breast, my stubborn pride fell crumbling in His sight;
+A wondrous wound was torn within, where holy longing burns;
+No earthly salve can heal the heart that for its Maker yearns!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर सतिगुर सूरमे बाहिआ बानु जु एकु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **प्रेम का घाव**: सतगुरु का बाण मारक नहीं, तारक होता है। वह साधक के देहाभिमान को समाप्त कर आत्मा को परमात्मा के विरह-रस से भर देता है।
 
 ---
 
 <a name="salok-195"></a>
 ## सलोक 195: कबीर निरमल बूंद अकास की परि गई भूमि...
-**English Title:** Salok 195: Kabaeera Nairamala Baoonda Akaasa Kaee Parai Gaee
+**English Title:** The Pure Raindrop on Barren Soil: Turning to Furnace Ashes Without Company
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7458,21 +7944,24 @@ binu (without/devoid of) sangati (holy company) iu (in this manner) maannaee (ma
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर निरमल बूंद अकास की परि गई भूमि बिकार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+आकाश के बादलों से जो अमृतमयी निर्मल बूंद गिरी थी, वह विषय-विकारों से भरी अपवित्र भूमि पर जा गिरी;
+सत्संगति के अभाव में उस पवित्र आत्मा की ऐसी दुर्गति हुई कि वह भाड़ की राख बनकर व्यर्थ नष्ट हो गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraniramalaboondaakaasakeeparigaeebhoomibika—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+A pristine drop from the high sky fell upon foul and corrupted clay;
+Bereft of holy fellowship, it lost its purity and melted away;
+Just as sweet water falling in a furnace is reduced to barren ash and dust;
+So perishes the immaculate soul when drowned in worldly lust!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर निरमल बूंद अकास की परि गई भूमि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कुसंग का विनाशकारी प्रभाव**: जीवात्मा मूलतः शुद्ध और चेतन है, किंतु विषय-वासनाओं के कुसंग में पड़कर अपनी दिव्यता खो बैठती है।
 
 ---
 
 <a name="salok-196"></a>
 ## सलोक 196: कबीर निरमल बूंद अकास की लीनी भूमि म...
-**English Title:** Salok 196: Kabaeera Nairamala Baoonda Akaasa Kaee Laeenaee Bha
+**English Title:** The Droplet Mingled with Earth: Unseparable by Any Artifice
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7495,21 +7984,24 @@ anik (manifold/countless) siaane (siaane) pachi (pachi) gae (went) na (not) nira
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर निरमल बूंद अकास की लीनी भूमि मिलाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+आकाश से उतरी वह निर्मल बूंद जब धरती की मिट्टी में पूरी तरह घुल-मिलकर एक रूप हो गई;
+तो संसार के अनगिनत चतुर लोग सिर पटक-पटक कर थक गए, किंतु अब उसे मिट्टी से अलग नहीं किया जा सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraniramalaboondaakaasakeeleeneebhoomimilaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The sky's pure drop dissolved into earth, completely merged and blent;
+To sift that drop from out the soil, countless clever minds were spent;
+Yet none can sever what has fused in nature's unified embrace;
+Even so the soul merged in the Lord leaves not a separate trace!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर निरमल बूंद अकास की लीनी भूमि म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परमात्मा में विलय**: जब आत्मा परमात्मा रूपी मूल तत्व में लीन हो जाती है, तो सांसारिक तर्क-वितर्क उसे पुनः पृथक नहीं कर सकते।
 
 ---
 
 <a name="salok-197"></a>
 ## सलोक 197: कबीर हज काबे हउ जाइ था आगै मिलिआ खु...
-**English Title:** Salok 197: Kabaeera Haja Kaabae Hau Jaai Thaa Aagaai Maila
+**English Title:** Journeying to Mecca for Hajj: God Inquired Who Commanded Cruelty
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7532,21 +8024,24 @@ saanee (saanee (spiritual sense)) mujh (mujh) siu (with/from) lari (lari) paria 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हज काबे हउ जाइ था आगै मिलिआ खुदाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं हज करने के लिए मक्का के काबे की ओर जा रहा था, तभी मार्ग में मुझे साक्षात खुदा मिल गया;
+मेरा मालिक मुझसे नाराज होकर लड़ने लगा कि 'तुझे निरपराध जीव की हत्या करने का हुक्म भला किसने दिया था?'
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahajakaabehaujaaithaaaagaimiliaakhudaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I set my face toward Mecca's shrine, upon the holy pilgrimage to tread;
+When lo, the Lord met me along the way and sternly shook His head;
+My Sovereign Master challenged me: 'Who gave thee license to slaughter and kill?
+Thinkest thou religion thrives on blood against My sacred will?'
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हज काबे हउ जाइ था आगै मिलिआ खु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **धार्मिक पाखंड पर प्रहार**: कबीर बाहरी तीर्थयात्राओं और धर्म के नाम पर की जाने वाली पशु-हिंसा का कड़ा विरोध करते हैं। परमात्मा घट-घट में है और अहिंसा ही सच्चा धर्म है।
 
 ---
 
 <a name="salok-198"></a>
 ## सलोक 198: कबीर हज काबै होइ होइ गइआ केती बार क...
-**English Title:** Salok 198: Kabaeera Haja Kaabaai Haoi Haoi Gaiaa Kaetaee
+**English Title:** Visiting the Kaaba Times Untold: What Fault That the Master Speaks Not
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7569,21 +8064,24 @@ saanee (saanee (spiritual sense)) mujh (mujh) mahi (within/in) kia (what) khata 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हज काबै होइ होइ गइआ केती बार कबीर—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—हे मनुष्य, तू न जाने कितनी बार हज करने काबा गया और लौटा;
+किंतु विचार कर कि तेरे अंतःकरण में ऐसा कौन सा अपराध या दोष छिपा है जिसके कारण तेरा मालिक-पीर तुझसे एक शब्द भी नहीं बोलता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerahajakaabaihoihoigaiaaketeebaarakabeera—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+How many times hast thou walked to Mecca's stone, pilgrim worn and sore?
+Yet silent remains the inner Guide, unanswering at thy door;
+What hidden fault, what secret stain within thy heart dost thou conceal,
+That the Beloved speaks no word nor grants His face to reveal?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हज काबै होइ होइ गइआ केती बार क'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आंतरिक शुद्धि**: जब तक हृदय का कपट और अहंकार समाप्त नहीं होता, तब तक हजार तीर्थ भी परमात्मा का साक्षात्कार नहीं करा सकते।
 
 ---
 
 <a name="salok-199"></a>
 ## सलोक 199: कबीर जीअ जु मारहि जोरु करि कहते हहि...
-**English Title:** Salok 199: Kabaeera Jaeea Jau Maarahai Jaorau Karai Kahata
+**English Title:** Slaughtering by Force and Calling It Lawful: The Sovereign Ledger Awaits
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7606,21 +8104,24 @@ daphataru (daphataru) daee (daee (spiritual sense)) jab (at the time when) kaadh
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जीअ जु मारहि जोरु करि कहते हहि जु हलालु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—तुम बलपूर्वक असहाय मूक जीवों की हत्या करते हो और उसे धर्म-सम्मत 'हलाल' कहते हो;
+किंतु जब परमात्मा की न्याय-अदालत का बही-खाता खुलेगा, तब सोचो तुम्हारा क्या भयानक हाल होगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajeeajumaarahijorukarikahatehahijuh—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+By violent force ye slay mute beasts and call the murder sacred law;
+Blind to the cosmic agony, unmindful of the eternal awe;
+When God unrolls His mighty book of deeds at the reckoning gate;
+Where wilt thou hide thy trembling head from retribution's weight?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जीअ जु मारहि जोरु करि कहते हहि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्म का अटल सिद्धांत**: धर्म की आड़ में की गई हिंसा कर्म-बंधन से मुक्त नहीं कर सकती। ईश्वरीय न्याय में प्रत्येक प्राणी के प्रति की गई क्रूरता का हिसाब देना पड़ता है।
 
 ---
 
 <a name="salok-200"></a>
 ## सलोक 200: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु...
-**English Title:** Salok 200: Kabaeera Jaorau Kaeeaa Sao Jaulamau Haai Laei
+**English Title:** Coercion Is Cruelty: God Demands Answer and Striking Blows
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7643,21 +8144,24 @@ daphatari (daphatari) lekha (reckoning/account of deeds) neekasai (neekasai) maa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु खुदाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+किसी भी निर्बल पर किया गया बलप्रयोग साक्षात जुल्म और अत्याचार है, जिसका जवाब स्वयं खुदा तलब करेगा;
+जब प्रभु के दफ्तर में पापों का कच्चा-चिट्ठा निकलेगा, तो ऐसे अत्याचारियों को मुंह पर घूंसे और थप्पड़ खाने पड़ेंगे!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajorukeeaasojulamuhaileijabaabukhuda—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+All cruel force and tyranny is sin, an outrage in the Maker's eyes;
+Before His bar of justice none can bribe the Judge nor offer lies;
+When the ledgers of oppression are opened wide in heaven's hall;
+Blows upon the sinner's face shall mercilessly fall!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जोरु कीआ सो जुलमु है लेइ जबाबु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सामाजिक न्याय एवं अहिंसा**: कबीर बलवानों द्वारा निर्बलों के शोषण के विरुद्ध निर्भीक चेतावनी देते हैं।
 
 ---
 
 <a name="salok-201"></a>
 ## सलोक 201: कबीर लेखा देना सुहेला जउ दिल सूची ह...
-**English Title:** Salok 201: Kabaeera Laekhaa Daenaa Sauhaelaa Jau Daila Sa
+**English Title:** Rendering Accounts Is Easy When the Heart Is Pure: None Seizes the Hem
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7680,21 +8184,24 @@ usu (his) saache (saach (spiritual sense)) deebaan (deebaan) mahi (within/in) pa
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर लेखा देना सुहेला जउ दिल सूची होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा के दरबार में जीवन का हिसाब-किताब देना अत्यंत सरल और आनंददायी हो जाता है, यदि मनुष्य का अंतर्मन पवित्र और निष्कपट हो;
+उस परम सत्य के दरबार में कोई भी यमदूत ऐसे निष्कलंक भक्त का पल्ला पकड़ने का साहस नहीं कर सकता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeralekhaadenaasuhelaajaudilasoocheehoi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+To render account at the throne of grace is joyful, light, and free;
+If within the inner chamber of the soul dwells truth and purity;
+In that sovereign court of righteousness, where holy seraphs stand;
+None can seize the innocent hem or raise an accusing hand!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर लेखा देना सुहेला जउ दिल सूची ह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अंतःकरण की शुद्धता**: धार्मिक अनुष्ठानों से अधिक महत्व अंतर्मन की सच्चाई का है। शुद्ध हृदय वाले को किसी न्याय या दण्ड का भय नहीं रहता।
 
 ---
 
 <a name="salok-202"></a>
 ## सलोक 202: कबीर धरती अरु आकास महि दुइ तूं बरी ...
-**English Title:** Salok 202: Kabaeera Dharataee Arau Aakaasa Mahai Daui Taoon
+**English Title:** Earth and Sky Stand Bound: Six Philosophies and Eighty-Four Siddhas in Doubt
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7717,21 +8224,24 @@ khat (khat) darasan (vision/lesson (folk/plural)) sanse (sanse) pare (aside) aru
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर धरती अरु आकास महि दुइ तूं बरी अबध—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+धरती और आकाश के इस विराट घेरे में केवल दो ही सीमाएं (जन्म और मृत्यु / प्रकृति और पुरुष) बंधी हुई हैं;
+इस गूढ़ रहस्य को न समझ पाने के कारण छहों दार्शनिक संप्रदाय और चौरासी सिद्ध भी संशय और भ्रम के भंवर में पड़े हुए हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradharateearuaakaasamahiduitoonbareeabadha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Between the vaulted sky above and the wide earth spread below;
+The cosmic limits bind all mortal breath to ebb and flow;
+The six profound philosophies and eighty-four adepts of renown;
+Wander perplexed in doubt, unable to grasp the Maker's crown!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर धरती अरु आकास महि दुइ तूं बरी '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **माया की दुरुहता**: बौद्धिक पांडित्य और योगिक सिद्धियां भी जब तक प्रेम और भक्ति से नहीं जुड़तीं, तब तक वे मनुष्य को संशय से मुक्त नहीं कर सकतीं।
 
 ---
 
 <a name="salok-203"></a>
 ## सलोक 203: कबीर मेरा मुझ महि किछु नही जो किछु ...
-**English Title:** Salok 203: Kabaeera Maeraa Maujha Mahai Kaichhau Nahaee Jao
+**English Title:** Nothing of Mine in Me: Surrendering Thine Unto Thee, What Do I Lose?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7754,21 +8264,24 @@ tera (thine/Lord's) tujh (thee) kau (unto) saupate (saupate) kia (what) laagai (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मेरा मुझ महि किछु नही जो किछु है सो तेरा—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—इस शरीर और प्राण में मेरा अपना कुछ भी नहीं है, जो कुछ भी यहाँ विद्यमान है वह सब तेरा ही दिया हुआ है;
+तेरी ही दी हुई वस्तु जब मैं तुझे समर्पित कर देता हूँ, तो इसमें मेरा क्या नुकसान होता है या मेरा क्या जाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerameraamujhamahikichhunaheejokichhuhaiso—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Nothing within this transient frame belongs to me, O Lord of grace;
+All that I breathe, all that I own, is Thine in every time and place;
+When I return Thy sacred gift and lay it humbly at Thy feet;
+What loss is mine, what claim have I, where Thou and I in oneness meet?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मेरा मुझ महि किछु नही जो किछु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पूर्ण शरणागति (Total Surrender)**: कबीर का यह विश्वविख्यात सलोक अद्वैत शरणागति का शिखर है। जब साधक 'मैं' और 'मेरा' का विसर्जन कर देता है, तभी वास्तविक भक्ति प्रकट होती है।
 
 ---
 
 <a name="salok-204"></a>
 ## सलोक 204: कबीर तूं तूं करता तू हूआ मुझ महि रह...
-**English Title:** Salok 204: Kabaeera Taoon Taoon Karataa Taoo Haooaa Maujha Ma
+**English Title:** Repeating 'Thou, Thou', I Became Thee: No Ego Remains
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7791,21 +8304,24 @@ jab (at the time when) aapa (egotism, individual vanity) par (but/upon) ka (of) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर तूं तूं करता तू हूआ मुझ महि रहा न हूं—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—निरंतर 'तू ही तू' पुकारते-पुकारते मैं स्वयं तेरे ही स्वरूप में लीन हो गया, अब मेरे भीतर मेरा कोई 'मैं' या अहंकार शेष नहीं रहा;
+जब अपने और पराए का सारा भेद सदा के लिए मिट गया, तो अब जिधर भी दृष्टि डालता हूँ, उधर केवल तू ही तू दिखाई देता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeratoontoonkarataatoohooaamujhamahirahaanah—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Singing 'Thou, Thou', O Radiant Lord, into Thine essence I did dissolve;
+No shadow of an ego remains, no separate will nor proud resolve;
+When all division melted away between the self and Thee;
+Wherever I turn my gaze, none else but Thy glorious face I see!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर तूं तूं करता तू हूआ मुझ महि रह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अद्वैत का साक्षात्कार**: सूफी दर्शन के 'फना' (स्व-अस्तित्व का विलोप) और वेदांत के 'अहं ब्रह्मास्मि' की एकाकारिता यहाँ स्पष्ट होती है।
 
 ---
 
 <a name="salok-205"></a>
 ## सलोक 205: कबीर बिकारह चितवते झूठे करते आस ॥...
-**English Title:** Salok 205: Kabaeera Baikaaraha Chaitavatae Jhaoothae Karatae Aa
+**English Title:** Pondering Vices, Harboring False Hopes: Departed in Despair
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7828,21 +8344,24 @@ manorathu (manorath (spiritual sense)) koi (unto/to (in/having done)) n (not) po
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बिकारह चितवते झूठे करते आस—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य जीवन भर पापों और विकारों का ही चिंतन करता रहा और संसार से झूठी आशाएं बांधता रहा;
+परिणामस्वरूप उसका कोई भी सच्चा मनोरथ पूरा न हो सका, और अंततः वह घोर निराशा में खाली हाथ संसार से कूच कर गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabikaarahachitavatejhoothekarateaasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Brooding on petty sins and lusts, weaving illusions fond and frail;
+Seeking sweet water from the mirage, chasing shadows that ever fail;
+Not a single longing found fulfillment when the mortal curtain fell;
+Departing desolate and empty-handed into the silence of the cell!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बिकारह चितवते झूठे करते आस ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **तृष्णा की व्यर्थता**: वासनाओं की कोई तृप्ति नहीं होती; जो केवल भोगों के पीछे भागते हैं, वे जीवन के अंत में रिक्तहस्त ही रहते हैं।
 
 ---
 
 <a name="salok-206"></a>
 ## सलोक 206: कबीर हरि का सिमरनु जो करै सो सुखीआ ...
-**English Title:** Salok 206: Kabaeera Harai Kaa Saimaranau Jao Karaai Sao Sa
+**English Title:** He Who Remembers Hari Is Blessed: Protected by the Creator
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7865,21 +8384,24 @@ it (here) ut (there) katahi (katahi) n (not) dolaee (dolaee) jis (for whom) raak
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर हरि का सिमरनु जो करै सो सुखीआ संसारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+इस संसार में सच्चा सुखी केवल वही मनुष्य है, जो निरंतर उस परमात्मा का स्मरण करता है;
+जिसकी रक्षा स्वयं सृजनहार प्रभु करते हैं, वह न तो इस लोक में डोलता है और न ही परलोक में विचलित होता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraharikaasimaranujokaraisosukheeaasansaar—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He alone is truly blessed and tranquil within this turbulent sphere;
+Who cherishes Hari's sacred Name through every fleeting day and year;
+Whom the sovereign Creator shields beneath His mantle of peace;
+Neither here nor in the world beyond shall his steadfast comfort cease!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर हरि का सिमरनु जो करै सो सुखीआ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **नाम-रस का सुख**: सांसारिक सुख क्षणभंगुर और दुखों से युक्त हैं; वास्तविक और शाश्वत आनंद केवल प्रभु-सिमरन में ही प्राप्त होता है।
 
 ---
 
 <a name="salok-207"></a>
 ## सलोक 207: कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥...
-**English Title:** Salok 207: Kabaeera Ghaanaee Paeeड़tae Sataigaura Laeee Chhadaa
+**English Title:** Rescued from the Crushing Oil-Press: Ancient Primal Love Blossomed
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7902,21 +8424,24 @@ para (but/upon) poorabalee (poorabalee) bhaavanee (emotion (folk/plural)) paraga
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर घाणी पीड़ते सतिगुर लीए छडाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं तो संसार रूपी कोल्हू की घानी में तिल की भांति पेरा जा रहा था, किंतु मेरे कृपालु सद्गुरु ने मुझे बचाकर निकाल लिया;
+मेरे पूर्व जन्मों की संचित भक्ति और शुभ संस्कार ही आज मेरे जीवन में साक्षात प्रकट होकर मुझे मुक्त कर गए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraghaaneepeedatesatiguraleeechhadaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Crushed in the heavy oil-press of worldly desires and sorrowful plight;
+The compassionate Master reached His hand and drew me into light;
+The seeds of devotion sown of old in ancient karmic soil;
+Have blossomed in fullness to deliver me from bitter mortal toil!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गुरु-कृपा और संस्कार**: संसार का चक्रव्यूह कोल्हू के समान है जहाँ जीव पिसता रहता है। गुरु की कृपा ही उस बंधन से उबारने वाली है।
 
 ---
 
 <a name="salok-208"></a>
 ## सलोक 208: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ...
-**English Title:** Salok 208: Kabaeera Taalaai Taolaai Dainau Gaiaa Baiaajau
+**English Title:** Days Lost in Procrastination, Compounding Debt: Death Arrived
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7939,21 +8464,24 @@ na (not) hari (The Lord who dispels grief (Hari)) bhajio (bhajio) n (not) khatu 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—'कल करेंगे, परसों करेंगे' के टालमटोल में पूरा जीवन बीत गया और पापों व कर्मों का ब्याज दिन-प्रतिदिन बढ़ता चला गया;
+न तो कभी हरि का भजन किया और न ही कर्मों का ऋण-पत्र फटा, और अंत में अचानक सिर पर यमराज आ धमका!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerataalaitolaidinugaiaabiaajubadhantaujaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+In endless delays and foolish excuses the precious days drifted by;
+While the heavy debt of neglected deeds climbed higher to the sky;
+Neither was Hari's Name adored, nor the bond of karma torn in twain;
+When ruthless Death stepped through the door and made all sorrow vain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **प्रमाद की चेतावनी**: मनुष्य सोचता है कि वृद्धावस्था में भक्ति करेंगे, किंतु काल किसी की प्रतीक्षा नहीं करता। समय रहते साधना करना ही बुद्धिमत्ता है।
 
 ---
 
 <a name="salok-209"></a>
 ## सलोक 209: महला ५ ॥...
-**English Title:** Salok 209: Mahalaa ५
+**English Title:** The Barking Hound Chasing Bones: The Guru Rescued from the Frenzy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -7979,21 +8507,24 @@ karamee (rituals) satiguru (True Divine Master) paaia (have found) jini (do not/
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: महला ५—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अर्जन देव जी कहते हैं—यह लोभी मन एक भौंकते हुए कुत्ते के समान है, जो विषय-वासनाओं की सूखी हड्डियों के पीछे पागलों की तरह दौड़ता रहता है;
+प्रभु की असीम कृपा से मुझे पूर्ण सद्गुरु प्राप्त हुए, जिन्होंने दया करके मुझे इस तृष्णा के जाल से छुड़ा लिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: mahala—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Like a barking hound running wild after dry and lifeless bones;
+The greedy mind chases worldly meat with eager sighs and groans;
+By divine grace the True Guru arrived to break the wretched chain;
+Delivering the captive soul from lust and endless mortal pain!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'महला ५ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन रूपी श्वान**: सांसारिक भोग सूखी हड्डी के समान हैं जिनमें कोई रस नहीं, फिर भी अज्ञानी मन उन्हीं के पीछे भागता रहता है। गुरु ही इस भ्रांति को तोड़ते हैं।
 
 ---
 
 <a name="salok-210"></a>
 ## सलोक 210: महला ५ ॥...
-**English Title:** Salok 210: Mahalaa ५
+**English Title:** The Earth Belongs to Saints: Thieves Trample, Yet Saints Reap the Harvest
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8019,21 +8550,24 @@ dharatee (dharatee (spiritual sense)) bhaari (heavy burden) n (not) biaapaee (bi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: महला ५—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अर्जन देव जी कहते हैं—यह धरती मूलतः संतों और पुण्यात्माओं के लिए रची गई है, किंतु विषय-विकारों के चोर इस पर अधिकार जमाए बैठे हैं;
+फिर भी धरती पर उन पापियों का कोई भार नहीं पड़ता, और अंततः साधु-संत ही रूहानी लाभ का सच्चा खजाना प्राप्त करते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: mahala—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This sacred earth belongs to holy saints, a garden for their praise;
+Though worldly thieves and plunderers invade its peaceful ways;
+No heavy burden wearies the earth beneath the sinner's tread;
+For the saints alone reap golden grain while thieves go hungry to bed!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'महला ५ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **साधु का महत्व**: संसार संतों के सत्कर्मों और भक्ति के सहारे ही टिका हुआ है। दुष्ट चाहे जितना उपद्रव करें, रूहानी जीत सत्य की ही होती है।
 
 ---
 
 <a name="salok-211"></a>
 ## सलोक 211: महला ५ ॥...
-**English Title:** Salok 211: Mahalaa ५
+**English Title:** Chaff Pounded for Grain: Sitting with Evil Brings Judgment Before Dharmaraj
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8059,21 +8593,24 @@ sangi (in company of) kusangee (kusangee) baisate (baisate) tab (at that time/th
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: महला ५—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अर्जन देव जी कहते हैं—जिस प्रकार चावल के दानों को निकालने के लिए उसके साथ लगे हुए भूसे पर भी मूसल की मार पड़ती है;
+उसी प्रकार जो लोग दुष्टों और पाखंडियों की संगति में बैठते हैं, उन्हें भी धर्मराज के दरबार में कठोर दंड भुगतना पड़ता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: mahala—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+To husk the grain of wholesome rice, the pounding pestle falls;
+And with the grain the worthless chaff is bruised within the walls;
+Even so, whoever sits in league with evil, false, and vile;
+Must answer to the Judge of Truth and bear the blows meanwhile!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'महला ५ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कुसंगति का फल**: संगति का प्रभाव अवश्यंभावी है। दुष्टों का साथ देने वाले को भी उनके दुष्कर्मों का दंड भुगतना पड़ता है।
 
 ---
 
 <a name="salok-212"></a>
 ## सलोक 212: नामा माइआ मोहिआ कहै तिलोचनु मीत ॥...
-**English Title:** Salok 212: Naamaa Maaiaa Maohaiaa Kahaai Tailaochanau Maee
+**English Title:** Trilochan's Question: Why Art Thou Enamored by Maya, Printing Calico?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8096,21 +8633,24 @@ kaahe (wherefore/why) chheepahu (chheepahu) chhaailai (chhaailai) raam (The All-
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: नामा माइआ मोहिआ कहै तिलोचनु मीत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+भक्त त्रिलोचन अपने मित्र नामदेव से कहते हैं—'हे मित्र नामदेव! क्या तुम भी माया के मोह में फंस गए हो?
+तुम दिन-रात कपड़ों पर रंग-छपाई के काम में क्यों लगे रहते हो, अपने चित्त को राम के चरणों में क्यों नहीं लगाते?'
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: naamaamaaiaamohiaakahaitilochanumeeta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Friend Trilochan spoke to Nama: 'Art thou seduced by worldly gain?
+Printing colorful cloth day and night, bound in commercial chain?
+Why dost thou labor at the dye-vat, chasing mortal art?
+Why dost thou not surrender to Ram the affections of thy heart?'
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'नामा माइआ मोहिआ कहै तिलोचनु मीत ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्म बनाम भक्ति का द्वंद्व**: त्रिलोचन के इस प्रश्न के माध्यम से संतों के बीच गृहस्थ-कर्म और ईश्वर-स्मरण के सामंजस्य पर गहन विमर्श शुरू होता है।
 
 ---
 
 <a name="salok-213"></a>
 ## सलोक 213: नामा कहै तिलोचना मुख ते रामु सम्हाल...
-**English Title:** Salok 213: Naamaa Kahaai Tailaochanaa Maukha Tae Raamau Sa
+**English Title:** Hands and Feet for Honest Labor: Mind Centered on the Immaculate Lord
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8133,21 +8673,24 @@ haath (hand) paau (paau) kari (having done/with hands) kaamu (carnal desire/work
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: नामा कहै तिलोचना मुख ते रामु सम्हालि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+भक्त नामदेव उत्तर देते हैं—'हे त्रिलोचन! मुख से निरंतर प्रभु-राम का स्मरण करो;
+हाथों और पैरों से संसार का संपूर्ण कर्तव्य-कर्म ईमानदारी से करो, और अपने चित्त को उस निर्लेप निरंजन परमात्मा में जोड़े रखो!'
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: naamaakahaitilochanaamukhateraamusamhaali—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Nama answered: 'O Trilochan, let thy lips chant Ram's holy Name;
+With hands and feet perform all worldly tasks without neglect or blame;
+Yet keep the subtle inward mind tethered to the Immaculate Lord;
+Live in the world, yet let thy soul abide in the silent Word!'
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'नामा कहै तिलोचना मुख ते रामु सम्हाल'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **कर्मयोग का आदर्श**: यह भारतीय संत-काव्य का एक अमर सिद्धांत है। संसार त्यागने की आवश्यकता नहीं; कर्म करते हुए भी मन को ईश्वर में लीन रखना ही सच्ची साधना है।
 
 ---
 
 <a name="salok-214"></a>
 ## सलोक 214: महला ५ ॥...
-**English Title:** Salok 214: Mahalaa ५
+**English Title:** None Is Ours, Nor Are We Anyone's: Merged in the Sole Creator
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8173,21 +8716,24 @@ jini (do not/who) ihu (this) rachanu (rachanu) rachaaia (rachaaia) tis (that one
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: महला ५—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अर्जन देव जी कहते हैं—कबीर का यही अनुभव है कि इस नश्वर संसार में न कोई हमारा सच्चा सगा है और न हम किसी के हैं;
+जिस परम पिता ने इस सम्पूर्ण सृष्टि की रचना की है, अंततः उसी परम सत्ता में हमें लीन हो जाना चाहिए!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: mahala—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+None belongs to us on earth, and to none do we belong;
+Transient are the ties of blood, and frail the worldly throng;
+In Him alone who fashioned all with cosmic love and might;
+Let the wandering spirit merge and rest in boundless light!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'महला ५ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सांसारिक मोह की असत्यता**: भौतिक रिश्ते शरीर तक सीमित हैं। आत्मा का एकमात्र शाश्वत संबंध परमात्मा से है।
 
 ---
 
 <a name="salok-215"></a>
 ## सलोक 215: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ...
-**English Title:** Salok 215: Kabaeera Kaeechaड़i Aataa Gairai Paraiaa Kaichhaoo
+**English Title:** Flour Fallen in the Mud: Only What Was Chewed While Grinding Went Along
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8210,21 +8756,24 @@ peesat (peesat) peesat (peesat) chaabia (chaabia) soee (the very same) nibahia (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ हाथ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जीवन भर संचित किया हुआ आटा अंत में कीचड़ में गिर पड़ा और हाथ में कुछ भी न आया;
+केवल वही अन्न वास्तव में काम आया और साथ निभ सका, जिसे चक्की पीसते-पीसते मुख में डालकर चबा लिया गया था!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakeechadiaataagiripariaakichhoonaaaiohaatha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The sack of flour slipped and fell into the muddy mire;
+Nothing could be gathered up from the puddle of desire;
+Only that little handful chewed while turning the heavy stone;
+Sustained the traveler on the road when walking all alone!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जीवन की कमाई**: जीवन भर संचित किया गया धन-दौलत अंत में यहीं छूट जाता है। केवल वही भजन-सिमरन और परोपकार साथ जाता है जिसे जीवन जीते-जीते अभ्यास में उतार लिया गया।
 
 ---
 
 <a name="salok-216"></a>
 ## सलोक 216: कबीर मनु जानै सभ बात जानत ही अउगनु ...
-**English Title:** Salok 216: Kabaeera Manau Jaanaai Sabha Baata Jaanata Haee A
+**English Title:** The Mind Knows All Yet Errs: What Good the Lamp if Falling into the Well?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8247,21 +8796,24 @@ kaahe (wherefore/why) kee (of) kusalaat (kusalaat) haathi (hand related) deepu (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर मनु जानै सभ बात जानत ही अउगनु करै—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह मन भले और बुरे की सारी बातें भली-भांति जानता है, फिर भी जान-बूझकर पाप और अवगुण करता है;
+ऐसे मनुष्य की कुशलता या बुद्धिमत्ता का क्या लाभ, जो हाथ में जलता हुआ दीपक लेकर भी कुएं में जा गिरता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeramanujaanaisabhabaatajaanataheeauganukarai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The mind perceives the truth of things, yet knowingly commits the sin;
+Concealing dark deceit beneath, while darkness reigns within;
+Of what avail is wisdom's boast, or holding a lamp so bright;
+If with the torch in hand one plunges down into the well of night?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर मनु जानै सभ बात जानत ही अउगनु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **ज्ञान और आचरण का भेद**: केवल बौद्धिक ज्ञान मुक्ति नहीं देता। यदि ज्ञान आचरण में न उतरे, तो वह हाथ में दीपक लेकर कुएं में गिरने जैसा हास्यास्पद और घातक है।
 
 ---
 
 <a name="salok-217"></a>
 ## सलोक 217: कबीर लागी प्रीति सुजान सिउ बरजै लोग...
-**English Title:** Salok 217: Kabaeera Laagaee Paraeetai Saujaana Saiu Baraja
+**English Title:** Love Bound with the Omniscient Lord: How Can It Break When He Is Our Very Breath?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8284,21 +8836,24 @@ ta (upon that/his) siu (with/from) tootee (tootee) kiu (or is it) banai (forest)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर लागी प्रीति सुजान सिउ बरजै लोगु अजानु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मेरी सच्ची प्रीति तो उस सर्वज्ञ, सुजान परमात्मा से लग चुकी है, किंतु अज्ञानी संसारी लोग मुझे रोकने का व्यर्थ प्रयास करते हैं;
+भला उस परमेश्वर से मेरा प्रेम-संबंध कैसे टूट सकता है, जो मेरे प्राणों और आत्मा का एकमात्र आधार है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeralaageepreetisujaanasiubarajailoguaja—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+My heart is bound in sacred love to the All-Knowing Friend above;
+Yet foolish worldly folk forbid and mock this holy love;
+How can the bond be severed now, how can the longing die;
+When He who gave this living breath pervades the earth and sky?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर लागी प्रीति सुजान सिउ बरजै लोग'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अटूट भक्ति**: सांसारिक लोग भक्त की रूहानी दीवानगी को नहीं समझ सकते। भक्त का संबंध परमात्मा से जीवन और श्वास जैसा अभिन्न है।
 
 ---
 
 <a name="salok-218"></a>
 ## सलोक 218: कबीर कोठे मंडप हेतु करि काहे मरहु स...
-**English Title:** Salok 218: Kabaeera Kaothae Mandapa Haetau Karai Kaahae Ma
+**English Title:** Why Die Adorning Palaces? The Need Is Merely Three and a Half Cubits
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8321,21 +8876,24 @@ kaaraju (kaaraju) saadhe (three and a half cubits) teeni (three) hath (hath) gha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर कोठे मंडप हेतु करि काहे मरहु सवारि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ऊंचे-ऊंचे महलों, अटारियों और मंडपों से मोह लगाकर उन्हें सजाने-संवारने में क्यों अपनी जान गंवा रहे हो?
+अंत समय में तो तुम्हारी वास्तविक आवश्यकता केवल साढ़े तीन हाथ (या अधिक से अधिक पौने चार हाथ) जमीन की ही है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakothemandapahetukarikaahemarahusavaari—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Why toil and sweat with anxious greed to build thy mansions tall?
+Adorning lofty palaces that soon or late must fall;
+When all the space thy mortal clay shall need at journey's end;
+Is three cubits and a half of earth where dust and silence blend!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर कोठे मंडप हेतु करि काहे मरहु स'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सांसारिक तृष्णा की सीमा**: मनुष्य असीम हवेलियां बनाता है, किंतु मृत्यु के पश्चात उसे केवल कब्र या चिता के बराबर जमीन ही मिलती है। यह सादगी और वैराग्य का शाश्वत संदेश है।
 
 ---
 
 <a name="salok-219"></a>
 ## सलोक 219: कबीर जो मै चितवउ ना करै किआ मेरे चि...
-**English Title:** Salok 219: Kabaeera Jao Maai Chaitavau Naa Karaai Kaiaa Mae
+**English Title:** What I Contemplate Occurs Not: Hari Does What Never Entered My Thought
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8358,21 +8916,24 @@ apana (one's own) chitavia (chitavia) hari (The Lord who dispels grief (Hari)) k
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जो मै चितवउ ना करै किआ मेरे चितवे होइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जो कुछ मैं अपने मन में योजनाएं बनाता हूँ, वह घटित नहीं होता; क्योंकि मेरे केवल सोचने से क्या हो सकता है?
+परमात्मा तो वही करता है जो उसके अपने परम विधान में निश्चित है, जिसकी कल्पना भी कभी मेरे चित्त में नहीं आई थी!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajomaichitavaunaakaraikiaamerechitaveh—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+What I devise within my mind comes not to pass or stay;
+For what can mortal scheming do against the Master's way?
+The sovereign Lord performs His will, unasked and unforeseen;
+Beyond the wildest flights of thought His wondrous deeds have been!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जो मै चितवउ ना करै किआ मेरे चि'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **ईश्वरीय इच्छा (Raza)**: मनुष्य अपने अहंकार में योजनाएं बनाता है, किंतु संसार का संचालन परमात्मा के विधान से होता है। उसकी इच्छा के सम्मुख समर्पण ही शांति का मार्ग है।
 
 ---
 
 <a name="salok-220"></a>
 ## सलोक 220: मः ३ ॥...
-**English Title:** Salok 220: Ma ३
+**English Title:** He Imparts Anxiety and He Grants Freedom from Care: Praise the Provider
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8398,21 +8959,24 @@ naanak (naanak) so (that/the same) saalaaheeai (saalaaheeai) ji (j (spiritual se
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: मः ३—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अमरदास जी कहते हैं—मन में सांसारिक चिंताएं भी वही प्रभु उत्पन्न कराता है, और वही कृपालु होकर निश्चिंतता व परम शांति भी प्रदान करता है;
+हे नानक! उसी एक परम पिता की स्तुति और वंदना करो, जो संसार के सभी जीवों की निरंतर सार-संभाल करता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: ma—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He sends the prick of anxious care, and He imparts sweet peace;
+From His unseen and tender hand both doubt and comfort cease;
+O Nanak, sing the praise of Him whose bounties never fail;
+Who nourishes each living soul through every storm and gale!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'मः ३ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सर्वशक्तिमान का आश्रय**: दुख और सुख, चिंता और शांति दोनों उसी के विधान का अंग हैं। सच्चे भक्त को केवल प्रभु के नाम का ही आश्रय लेना चाहिए।
 
 ---
 
 <a name="salok-221"></a>
 ## सलोक 221: मः ५ ॥...
-**English Title:** Salok 221: Ma ५
+**English Title:** Wandering in Greed, Accumulating Sins: Life Ended in an Instant
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8438,21 +9002,24 @@ paap (sin/transgression) karanta (the Creator/doer) mari (mari) gaia (went/depar
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: मः ५—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+गुरु अर्जन देव जी कहते हैं—मनुष्य ने जीवन भर कभी प्रभु-राम का सिमरन नहीं किया और केवल धन-दौलत के लोभ-लालच में ही भटकता रहा;
+पाप कर्म करते-करते ही वह अचानक मृत्यु का ग्रास बन गया, और उसकी पूरी आयु एक क्षण में समाप्त हो गई!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: ma—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He never cherished Ram's pure Name, but ran in greed's dark race;
+Amassing wealth through sinful deeds and wearing falsehood's face;
+Until grim Death struck unannounced, ending the frantic strife;
+And in the twinkling of an eye expired the lease of life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'मः ५ ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जीवन की क्षणभंगुरता**: लालच में अंधा होकर पाप कमाने वाला मनुष्य यह भूल जाता है कि मृत्यु किसी भी क्षण आ सकती है।
 
 ---
 
 <a name="salok-222"></a>
 ## सलोक 222: कबीर काइआ काची कारवी केवल काची धातु...
-**English Title:** Salok 222: Kabaeera Kaaiaa Kaachaee Kaaravaee Kaevala Kaachaee
+**English Title:** The Fragile Vessel of Raw Clay: Adore Ram or All Is Shattered
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8475,21 +9042,24 @@ saabatu (saabatu) rakhahi (rakhahi) t (then indeed) raam (The All-Pervading Lord
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर काइआ काची कारवी केवल काची धातु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह मानव शरीर कच्ची मिट्टी के बने हुए करवे (घड़े) के समान है, जो अत्यंत दुर्बल और नश्वर धातु से गढ़ा गया है;
+यदि तू इसे वास्तव में सुरक्षित और सफल रखना चाहता है तो प्रभु-राम का भजन कर, अन्यथा एक क्षण में यह टूटकर नष्ट हो जाएगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaaiaakaacheekaaraveekevalakaacheedhaatu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+This fragile body is an earthen jar of unbaked, brittle clay;
+A single tremor from the wind can shatter it away;
+If thou wouldst keep this vessel sound and cross the stormy tide;
+Adore the holy Name of Ram, and let all pride subside!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर काइआ काची कारवी केवल काची धातु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **देह की नश्वरता**: कच्ची मिट्टी का घड़ा पानी पड़ते ही गल जाता है। केवल नाम-स्मरण रूपी पक्की आंच ही जीव को अमरता प्रदान कर सकती है।
 
 ---
 
 <a name="salok-223"></a>
 ## सलोक 223: कबीर केसो केसो कूकीऐ न सोईऐ असार ॥...
-**English Title:** Salok 223: Kabaeera Kaesao Kaesao Kaookaeeai Na Saoeeai Asa
+**English Title:** Cry Out 'Keso, Keso' Unceasingly: Sleep Not in Torpor
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8512,21 +9082,24 @@ raati (night (in/having done)) divas (day) ke (of) kookane (kookane) kabahoo (ka
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर केसो केसो कूकीऐ न सोईऐ असार—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—निरंतर 'केशव-केशव' (हे प्रभु!) की करुण पुकार लगाते रहो, अज्ञान की बेसुध नींद में कभी मत सोओ;
+दिन-रात इस प्रकार लगन से पुकारते रहने पर कभी न कभी वह कृपालु प्रभु तुम्हारी पुकार अवश्य सुनेगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakesokesokookeeainasoeeaiasaara—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Cry out 'Keso, Keso', Beloved Lord! Sleep not in heedless trance;
+Wasting the golden hours of life, squandering thy divine chance;
+By day and night in fervent love let thy petition rise;
+Some day the merciful Sovereign will hear thy longing cries!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर केसो केसो कूकीऐ न सोईऐ असार ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अथक प्रार्थना (Unceasing Prayer)**: संत-साधना में निरंतरता अनिवार्य है। जैसे पपीहा स्वाति बूंद के लिए रट लगाए रहता है, वैसे ही साधक को प्रभु-पुकार में रत रहना चाहिए।
 
 ---
 
 <a name="salok-224"></a>
 ## सलोक 224: कबीर काइआ कजली बनु भइआ मनु कुंचरु म...
-**English Title:** Salok 224: Kabaeera Kaaiaa Kajalaee Banau Bhaiaa Manau Kaun
+**English Title:** Body the Kajli Forest, Mind the Intoxicated Elephant: Wisdom the Goad
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8549,21 +9122,24 @@ ankasu (ankasu) gyaanu (divine wisdom, supreme spiritual knowledge) ratanu (gem)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर काइआ कजली बनु भइआ मनु कुंचरु मय मंतु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यह शरीर घने कजली वन के समान है और यह चंचल मन उसमें मदमस्त होकर झूमने वाला उन्मत्त हाथी है;
+आत्मज्ञान रूपी रत्न ही वह तीखा अंकुश है, जिससे कोई विरला संत-महात्मा ही इस मन-रूपी हाथी को वश में कर पाता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerakaaiaakajaleebanubhaiaamanukuncharumayamant—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The body is the tangled grove of Kajli's dense domain;
+The mind a wild, intoxicated elephant in disdain;
+Divine discernment is the goad of diamond-jeweled might;
+A rare and holy saint alone can steer the beast aright!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर काइआ कजली बनु भइआ मनु कुंचरु म'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **मन-नियंत्रण का रूपक**: मन विषय-वासनाओं के जंगल में अनियंत्रित हाथी की तरह भटकता है। गुरु-प्रदत्त ज्ञान का अंकुश ही इसे वश में कर सकता है।
 
 ---
 
 <a name="salok-225"></a>
 ## सलोक 225: कबीर राम रतनु मुखु कोथरी पारख आगै ख...
-**English Title:** Salok 225: Kabaeera Raama Ratanau Maukhau Kaotharaee Paarakha
+**English Title:** The Jewel of Ram in the Mouth's Pouch: Open It Only Before Connoisseurs
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8586,21 +9162,24 @@ koee (anyone) aai (arrived/came) milaigo (milaigo) gaahakee (gaahakee) lego (leg
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर राम रतनु मुखु कोथरी पारख आगै खोलि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—प्रभु-नाम रूपी अनमोल रत्न तेरे मुख रूपी पोटली में सुरक्षित है, इसे केवल सच्चे जौहरी (पारखी साधक) के सामने ही खोलना चाहिए;
+तभी कोई सच्चा पारखी ग्राहक आकर तुमसे मिलेगा और इस अनमोल नाम-रत्न को अत्यंत महंगे (सर्वस्व के) मूल्य पर ग्रहण करेगा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamaratanumukhukothareepaarakhaaagaikholi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The priceless diamond of Ram's Name lies in the purse of speech;
+Unfold its brilliance only where discerning hearts beseech;
+A worthy connoisseur shall come with spiritual longing sold;
+And buy the jewel of the soul at price far dearer than gold!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर राम रतनु मुखु कोथरी पारख आगै ख'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रूहानी रहस्य की मर्यादा**: अध्यात्म का गूढ़ रहस्य हर किसी के सामने प्रगट नहीं करना चाहिए। केवल अधिकारी और मुमुक्षु साधक ही इसका सच्चा मूल्यांकन कर सकते हैं।
 
 ---
 
 <a name="salok-226"></a>
 ## सलोक 226: कबीर राम नामु जानिओ नही पालिओ कटकु ...
-**English Title:** Salok 226: Kabaeera Raama Naamau Jaanaio Nahaee Paalaio
+**English Title:** Knew Not Ram's Name, Reared a Host of Kin: Died in Worldly Chores Unheard
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8623,21 +9202,24 @@ dhandhe (dhandhe) hee (alone/only) mahi (within/in) mari (mari) gaio (departed) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर राम नामु जानिओ नही पालिओ कटकु कुट्मबु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मनुष्य ने प्रभु के पावन नाम को कभी नहीं पहचाना, केवल सेना रूपी बड़े परिवार और कुटुंब का ही पालन-पोषण करता रहा;
+संसार के गोरखधंधों में ही उलझकर वह एक दिन मर गया, और उसके जाने पर बाहर किसी ने यश का नगाड़ा तक नहीं बजाया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraraamanaamujaanionaheepaaliokatakukutm—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+He never knew the saving sweetness of Ram's holy Name;
+Nourishing a greedy clan, chasing worldly fame;
+Engulfed in petty earthly chores he perished in the strife;
+No trumpet sounded at his death, no honor blessed his life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर राम नामु जानिओ नही पालिओ कटकु '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परिवार के मोह का अंत**: कुटुंब के भरण-पोषण में पूरा जीवन व्यतीत कर देने पर भी जीव अंत में अकेला ही जाता है। केवल ईश्वर-भक्ति ही शाश्वत यश प्रदान करती है।
 
 ---
 
 <a name="salok-227"></a>
 ## सलोक 227: कबीर आखी केरे माटुके पलु पलु गई बिह...
-**English Title:** Salok 227: Kabaeera Aakhaee Kaerae Maataukae Palau Palau Ga
+**English Title:** Life Passed in the Winking of an Eye: Mind Left Not Worldly Ties, Yam Sounded the Drum
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8660,21 +9242,24 @@ manu (mind/inner spirit) janjaalu (worldly entanglements) n (not) chhodaee (chho
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर आखी केरे माटुके पलु पलु गई बिहाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—आंख की पलक झपकने की गति में जीवन का एक-एक पल और क्षण बीतता चला गया;
+किंतु इस अभागे मन ने सांसारिक प्रपंचों का जंजाल फिर भी नहीं छोड़ा, यहाँ तक कि सिर पर आकर यमराज ने मौत का नगाड़ा बजा दिया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaakheekeremaatukepalupalugaeebihaai—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Swift as the blinking of an eye, the moments slipped away;
+Yet foolish desires clung to earth, refusing to obey;
+The soul renounced not worldly snares nor broke the selfish spell;
+Until the messenger of death struck loud the warning bell!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर आखी केरे माटुके पलु पलु गई बिह'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **काल की गति**: समय इतनी तीव्रता से बीतता है कि मनुष्य को संभलने का अवसर नहीं मिलता। संसार का मोह काल के द्वार तक पीछा करता है।
 
 ---
 
 <a name="salok-228"></a>
 ## सलोक 228: कबीर तरवर रूपी रामु है फल रूपी बैरा...
-**English Title:** Salok 228: Kabaeera Taravara Raoopaee Raamau Haai Phala Raoopaee
+**English Title:** Ram Is the Tree, Renunciation the Fruit, the Saint the Gentle Shade
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8697,21 +9282,24 @@ chhaaia (chhaaia) roopee (form) saadhu (true saint, virtuous seeker) hai (is) ji
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर तरवर रूपी रामु है फल रूपी बैरागु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—परमात्मा साक्षात एक विशाल कल्पवृक्ष के समान है और वैराग्य उस वृक्ष पर लगने वाला मधुर फल है;
+और वह साधु-संत शीतल छाया के समान है, जिसने संसार के व्यर्थ वाद-विवाद और कलह को सदा के लिए त्याग दिया है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerataravararoopeeraamuhaiphalaroopeebairaagu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The sovereign Lord is like a tree of boundless grace and might;
+Detachment is the luscious fruit that ripens in His light;
+The saint is like the cooling shade where weary pilgrims rest;
+Who casts away all dispute and abides in stillness blest!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर तरवर रूपी रामु है फल रूपी बैरा'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **भक्ति का रूपक**: ईश्वर वृक्ष है, वैराग्य उसका मीठा फल है और संत उसकी शांतिदायक छाया हैं। सत्संग में बैठने से संसार की तपन शांत होती है।
 
 ---
 
 <a name="salok-229"></a>
 ## सलोक 229: कबीर ऐसा बीजु बोइ बारह मास फलंत ॥...
-**English Title:** Salok 229: Kabaeera Aisaa Baeejau Baoi Baaraha Maasa Phalan
+**English Title:** Sow Such a Seed That Bears Fruit Through All Twelve Months
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8734,21 +9322,24 @@ seetal (seetal) chhaaia (chhaaia) gahir (gahir) phal (fruit, divine realization)
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर ऐसा बीजु बोइ बारह मास फलंत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—अपने अंतःकरण में नाम-स्मरण का ऐसा दिव्य बीज बोओ, जो वर्ष के बारहों महीने निरंतर फलता-फूलता रहे;
+जिसकी छाया परम शीतल हो, फल अत्यंत सघन और रसदार हों, और जिस पर जीवात्मा रूपी पंछी आनंदपूर्वक रूहानी क्रीड़ा करते रहें!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraaisaabeejuboibaarahamaasaphalanta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Sow in the garden of thy soul that seed of celestial birth;
+Which blossoms through all seasons round, unfading on the earth;
+Whose shade is cool, whose fruit is sweet, nourishing deep and true;
+Where birds of spiritual longing sing amid the morning dew!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर ऐसा बीजु बोइ बारह मास फलंत ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शाश्वत साधना**: ऋतु के फल मौसमी होते हैं, किंतु प्रभु-भक्ति का फल बारहों मास उपलब्ध रहता है। यह आत्मा को तृप्ति और आनंद प्रदान करता है।
 
 ---
 
 <a name="salok-230"></a>
 ## सलोक 230: कबीर दाता तरवरु दया फलु उपकारी जीवं...
-**English Title:** Salok 230: Kabaeera Daataa Taravarau Dayaa Phalau Upakaaraee
+**English Title:** The Generous Giver Is the Tree, Compassion Its Fruit: Birds Fly to Distant Lands
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8771,21 +9362,24 @@ pankhee (bird of the soul) chale (departs/walks) disaavaree (disaavaree) birakha
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर दाता तरवरु दया फलु उपकारी जीवंत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—उदार दानी मनुष्य एक विशाल वृक्ष के समान होता है, दया उसका अमृत फल है और परोपकार ही उसका वास्तविक जीवन है;
+पक्षी (आश्रित जन) उस पर बैठकर तृप्त होते हैं और दिशा-दिशा में उड़ जाते हैं, किंतु वह वृक्ष सदा शुभ फलों से लदा रहता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeradaataataravarudayaaphaluupakaareejeevanta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The generous soul is like a tree of shelter wide and deep;
+Compassion is the golden fruit its laden branches keep;
+The wandering birds partake of grace and fly to distant skies;
+While bountiful upon the bough new fruits of virtue rise!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर दाता तरवरु दया फलु उपकारी जीवं'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **परोपकार की महिमा**: सच्चा जीवन वही है जो दूसरों के कल्याण के लिए जिया जाए। दानी वृक्ष की भांति बिना किसी स्वार्थ के सबको छाया और फल देता है।
 
 ---
 
 <a name="salok-231"></a>
 ## सलोक 231: कबीर साधू संगु परापती लिखिआ होइ लिल...
-**English Title:** Salok 231: Kabaeera Saadhaoo Sangau Paraapataee Laikhaiaa Hao
+**English Title:** Company of Saints Written on the Forehead: Jewel of Liberation Unhindered
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8808,21 +9402,24 @@ mukati (spiritual liberation) padaarathu (padaarath (spiritual sense)) paaeeai (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर साधू संगु परापती लिखिआ होइ लिलाट—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—सच्चे संतों की संगति केवल उसी जीव को प्राप्त होती है, जिसके भाग्य में मस्तक पर ऐसा श्रेष्ठ लेख लिखा होता है;
+सत्संग से मुक्ति रूपी अनमोल पदार्थ सहज ही मिल जाता है, और परलोक के दुर्गम घाटों पर भी कोई रुकावट नहीं आती!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerasaadhoosanguparaapateelikhiaahoililaata—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The blessed fellowship of saints is granted from above;
+Inscribed upon the forehead by the hand of primal love;
+The supreme treasure of release is won without dismay;
+No obstacle can bar the gate along the treacherous way!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर साधू संगु परापती लिखिआ होइ लिल'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सत्संगति की शक्ति**: संतों का सान्निध्य पूर्वजन्मों के संचित पुण्यों से मिलता है। सत्संगति से संसार-सागर को पार करना सुगम हो जाता है।
 
 ---
 
 <a name="salok-232"></a>
 ## सलोक 232: कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥...
-**English Title:** Salok 232: Kabaeera Eka Ghaड़ee Aadhaee Gharaee Aadhaee Haoon Tae
+**English Title:** An Hour, Half an Hour, or Half of That: Discourse with Saints Is Supreme Gain
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8845,21 +9442,24 @@ bhagatan (bhagatan) setee (setee) gosate (gosate) jo (that) keene (what (folk/pl
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर एक घड़ी आधी घरी आधी हूं ते आध—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—एक घड़ी (24 मिनट), आधी घड़ी, या उस आधी की भी आधी (छह मिनट) ही सही;
+प्रभु के सच्चे भक्तों और संतों के साथ जो भी रूहानी सत्संग व संवाद किया जाए, वह जीवन का सबसे महान और अटूट लाभ है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeeraekaghadeeaadheeghareeaadheehoonteaadha—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+An hour, a fleeting half an hour, or half of half again;
+Whatever moments are shared with saints amidst the worldly pain;
+In holy dialogue and love, in search of truth profound;
+Are counted as eternal gain where lasting peace is found!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **क्षण भर का सत्संग**: यह कबीर का अत्यंत लोकप्रिय सलोक है। संतों के साथ बिताया गया एक छोटा सा पल भी जीवन की दिशा बदलने में समर्थ है।
 
 ---
 
 <a name="salok-233"></a>
 ## सलोक 233: कबीर भांग माछुली सुरा पानि जो जो प्...
-**English Title:** Salok 233: Kabaeera Bhaanga Maachhaulaee Sauraa Paanai Jao
+**English Title:** Intoxicants, Fish, and Wine: Pilgrimages and Fasting Sink into Hell
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8882,21 +9482,24 @@ teerath (pilgrimage shrine) barat (barat) nem (nem) keee (done/fashioned) te (fr
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर भांग माछुली सुरा पानि जो जो प्रानी खांहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—जो-जो प्राणी भांग, मछली, मांस और मदिरा जैसे तामसिक पदार्थों का सेवन करते हैं;
+वे चाहे कितने भी तीर्थ, व्रत, नेम और पूजा-पाठ क्यों न कर लें, वे सब के सब नरक के रसातल में ही गिरते हैं!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabhaangamaachhuleesuraapaanijojopraanee—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Whoever consumes intoxicating hemp, slain fish, and wine of lust;
+Trampling upon compassion, turning their soul to dust;
+Though they perform a thousand fasts and sacred shrines attend;
+Into the deepest nether-hell their empty souls descend!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर भांग माछुली सुरा पानि जो जो प्'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **तामसिक आहार का निषेध**: पवित्र आचरण और अहिंसक आहार के बिना कोई भी धार्मिक अनुष्ठान कल्याणकारी नहीं हो सकता। मन की शुद्धि के लिए आहार की शुद्धि अनिवार्य है।
 
 ---
 
 <a name="salok-234"></a>
 ## सलोक 234: नीचे लोइन करि रहउ ले साजन घट माहि ॥...
-**English Title:** Salok 234: Naeechae Laoina Karai Rahau Lae Saajana Ghata Ma
+**English Title:** Lowering My Eyes, Harboring the Beloved Within: Savoring Secret Delights
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8919,21 +9522,24 @@ sabh (all) ras (nectar) khelau (khelau) peea (peea) sau (from/with) kisee (anyon
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: नीचे लोइन करि रहउ ले साजन घट माहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—मैं अपने नेत्रों को संसार से नीचे झुकाकर रखता हूँ और अपने प्रियतम प्रभु को अपने हृदय-घट के भीतर छिपाए रखता हूँ;
+मैं अपने प्रियतम के साथ सभी रूहानी आनंदों का रस लेता हूँ, किंतु बाहर किसी संसारी को इसका भेद नहीं लगने देता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: neecheloinakarirahaulesaajanaghatamaahi—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+I keep mine eyes cast gently down from worldly sights apart;
+Sheltering the sweet Beloved deep within my secret heart;
+I revel in the nectar-streams of love beyond compare;
+Revealing not to outward eyes the holy rapture there!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'नीचे लोइन करि रहउ ले साजन घट माहि ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **गोपनीय भक्ति (Gupt Bhakti)**: रूहानी प्रेम प्रदर्शन की वस्तु नहीं है। यह अंतर्मन का अत्यंत व्यक्तिगत और पवित्र अनुभव है जिसे संसार के कौतूहल से बचाकर रखा जाता है।
 
 ---
 
 <a name="salok-235"></a>
 ## सलोक 235: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ...
-**English Title:** Salok 235: Aatha Jaama Chausathai Gharaee Taua Nairakhata Rahaai
+**English Title:** Gazing Upon Thee Eight Watches of the Day: Why Lower Eyes When Seeing Thee Everywhere?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8956,21 +9562,24 @@ neeche (neeche (spiritual sense)) loin (loin) kiu (or is it) karau (doing) sabh 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+मेरी जीवात्मा आठों पहर और चौंसठ घड़ियां निरंतर केवल तेरा ही दीदार करती रहती है;
+अब भला मैं अपने नेत्रों को नीचे क्यों झुकाऊं, जब मुझे इस संसार के प्रत्येक घट और कण-कण में केवल मेरा प्रियतम ही दिखाई देता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: aathajaamachausathighareetuanirakhatarahaijeeu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Through all eight watches of the day, sixty-four gharis long;
+My enraptured soul beholds Thy face in sweet unceasing song;
+Why should I bend mine eyelids low, why turn my gaze aside;
+When in each atom of the world my Beloved doth abide?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'आठ जाम चउसठि घरी तुअ निरखत रहै जीउ '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **सर्वव्यापी दर्शन**: सलोक 234 की अंतर्मुखी साधना यहाँ सलोक 235 में विराट विश्व-दर्शन में बदल जाती है। जब कण-कण में परमात्मा दिखने लगे, तो कहीं भी दृष्टि फेरने की आवश्यकता नहीं रह जाती।
 
 ---
 
 <a name="salok-236"></a>
 ## सलोक 236: सुनु सखी पीअ महि जीउ बसै जीअ महि बस...
-**English Title:** Salok 236: Saunau Sakhaee Paeea Mahai Jaeeu Basaai Jaeea Ma
+**English Title:** Listen Friend! Does Soul Dwell in Beloved, or Beloved in Soul?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -8993,21 +9602,24 @@ jeeu (heart/mind) peeu (Beloved Lord) boojhau (boojhau) nahee (not) ghat (body/i
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: सुनु सखी पीअ महि जीउ बसै जीअ महि बसै कि पीउ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+हे सखी! सुन, मेरी समझ में यह भेद नहीं आता कि मेरी आत्मा में वह प्रियतम बसता है, या उस प्रियतम के भीतर मेरी आत्मा निवास करती है;
+मुझे यह बिल्कुल समझ नहीं आता कि इस हृदय-घट में वास्तव में आत्मा है या स्वयं साक्षात प्रियतम परमात्मा!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: sunusakheepeeamahijeeubasaijeeamahibasaiki—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Hearken, my friend! A mystery deep enfolds my wonder-filled soul;
+Doth the lover dwell in the Beloved, or He within the whole?
+I know no longer where I end and where the Lord begins;
+Dissolved is every boundary line where love eternal wins!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'सुनु सखी पीअ महि जीउ बसै जीअ महि बस'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **रहस्यमयी अद्वैत**: यह सूफी 'वह्दत-उल-वुजूद' और अद्वैत वेदांत का शिखर है, जहाँ भक्त और भगवान का भेद पूरी तरह समाप्त होकर एकाकार हो जाता है।
 
 ---
 
 <a name="salok-237"></a>
 ## सलोक 237: कबीर बामनु गुरू है जगत का भगतन का ग...
-**English Title:** Salok 237: Kabaeera Baamanau Gauraoo Haai Jagata Kaa Bhagatana
+**English Title:** The Brahmin Is Guru of the World, Not of Devotees: Tangled in Four Vedas
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9030,21 +9642,24 @@ arajhi (arajhi) urajhi (entangled) kai (of) pachi (pachi) mooa (mooa) chaarau (c
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर बामनु गुरू है जगत का भगतन का गुरु नाहि—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—ब्राह्मण सांसारिक और कर्मकांडी लोगों का गुरु भले ही हो, किंतु वह सच्चे प्रभु-भक्तों का गुरु कभी नहीं हो सकता;
+क्योंकि वह तो चारों वेदों के शाब्दिक तर्क-वितर्क और कर्मकांड में ही उलझ-पुलझ कर व्यर्थ सड़-गल कर मर गया!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerabaamanuguroohaijagatakaabhagatanakaagurun—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The Brahmin priest may be the guide to worldly folk in blind array;
+Yet to the seekers of true love he cannot point the way;
+Entangled in the Vedic scrolls, bound in ritualist strife;
+He perished in the letter's web, bereft of living life!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर बामनु गुरू है जगत का भगतन का ग'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **जातिवाद और कर्मकांड का खंडन**: कबीर जन्मना श्रेष्ठता को नकारते हैं। सच्चा गुरु वह है जो परमात्मा का साक्षात अनुभव कराए, न कि केवल पांडित्य और कर्मकांड में उलझाए रखे।
 
 ---
 
 <a name="salok-238"></a>
 ## सलोक 238: हरि है खांडु रेतु महि बिखरी हाथी चु...
-**English Title:** Salok 238: Harai Haai Khaandau Raetau Mahai Baikharaee Haa
+**English Title:** Hari Is Sugar Scattered in Sand: The Elephant Cannot Pick, Become an Ant
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9067,21 +9682,24 @@ kahi (from (unto/in)) kabeer (Sant Kabir) guri (of the Master) bhalee (bhal (spi
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: हरि है खांडु रेतु महि बिखरी हाथी चुनी न जाइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+परमात्मा तो रेत में बिखरी हुई बारीक चीनी के समान है, जिसे अहंकारी हाथी अपनी विशाल सूंड से कभी नहीं चुन सकता;
+कबीर कहते हैं—सद्गुरु ने मुझे कितनी सुंदर युक्ति समझा दी कि अहंकार त्यागकर नन्हीं चींटी बन जाओ और सहज ही अमृत-चीनी को खा लो!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: harihaikhaanduretumahibikhareehaatheechuneena—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+The Lord is sweet as sugar grains scattered amid the sand;
+No mighty elephant with proud tusk can gather with his hand;
+Says Kabir, the Master taught this blessed truth to me:
+Become a tiny, humble ant, and feast in liberty!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'हरि है खांडु रेतु महि बिखरी हाथी चु'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **विनम्रता की विजय**: अहंकार का प्रतीक 'हाथी' सूक्ष्म सत्य को ग्रहण नहीं कर सकता। केवल दीनता और निरभिमान की प्रतीक 'चींटी' ही ईश्वर-रस का आस्वादन कर सकती है।
 
 ---
 
 <a name="salok-239"></a>
 ## सलोक 239: कबीर जउ तुहि साध पिरम की सीसु काटि ...
-**English Title:** Salok 239: Kabaeera Jau Tauhai Saadha Pairama Kaee Saeesau
+**English Title:** The Game of Love: Sever Thy Head to Make the Ball, Play in Ecstasy
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9104,21 +9722,24 @@ khelat (khelat) khelat (khelat) haal (state) kari (having done/with hands) jo (t
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जउ तुहि साध पिरम की सीसु काटि करि गोइ—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि तेरे मन में परमात्मा के सच्चे प्रेम का खेल खेलने की तीव्र अभिलाषा है, तो अपने अहंकार रूपी सिर को काटकर गेंद बना ले;
+और इस प्रेम-मैदान में ऐसी मस्ती से खेल कि फिर परिणाम चाहे जो कुछ भी हो, उसकी रंचमात्र भी चिंता मत कर!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajautuhisaadhapiramakeeseesukaatikarig—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If in thy heart there burns the thirst to play love's sacred game;
+Sever thy head of selfish pride and cast away all shame;
+Turn thy severed head into the ball, leap forth onto the field;
+And play in holy ecstasy, refusing ever to yield!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जउ तुहि साध पिरम की सीसु काटि '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शीश दान का रूपक**: प्रेम का मार्ग कायरों के लिए नहीं है। सिर काटने का अर्थ है अहंकार और बुद्धि के संशयों को पूर्णतः विसर्जित कर देना।
 
 ---
 
 <a name="salok-240"></a>
 ## सलोक 240: कबीर जउ तुहि साध पिरम की पाके सेती ...
-**English Title:** Salok 240: Kabaeera Jau Tauhai Saadha Pairama Kaee Paakae
+**English Title:** Play Love with the Ripe Master: Pressing Raw Mustard Yields Neither Oil nor Cake
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9141,21 +9762,24 @@ kaachee (kaachee (spiritual sense)) sarasaun (sarasaun) peli (peli) kai (of) na 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जउ तुहि साध पिरम की पाके सेती खेलु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि तुझे रूहानी प्रेम की साधना करनी है, तो किसी सिद्ध, पक्के और परिपक्व सद्गुरु के साथ खेल;
+क्योंकि कच्ची सरसों को कोल्हू में पेरने से न तो उसमें से तेल निकलता है और न ही पशुओं के लिए अच्छी खल बनती है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajautuhisaadhapiramakeepaakeseteekhelu—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If thou wouldst taste the fruit of love, play with the Master true and ripe;
+Whose soul has passed through cleansing fire, cleansed of each earthly stripe;
+For pressing seeds of mustard green yields neither oil nor feed;
+An unripe guide leaves the seeker starved in darkness and in need!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जउ तुहि साध पिरम की पाके सेती '. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **पूर्ण गुरु का महत्व**: अपरिपक्व गुरु के पीछे चलने से समय और साधना दोनों व्यर्थ हो जाते हैं। केवल पूर्ण गुरु ही शिष्य को पार लगा सकता है।
 
 ---
 
 <a name="salok-241"></a>
 ## सलोक 241: ढूंढत डोलहि अंध गति अरु चीनत नाही स...
-**English Title:** Salok 241: Dhaoondhata Daolahai Andha Gatai Arau Chaeenata Na
+**English Title:** Wandering Blind in Search, Recognizing Not Saints: How Attain God Without Seekers?
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9178,21 +9802,24 @@ kahi (from (unto/in)) naama (Divine Name related) kiu (or is it) paaeeai (paaeea
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: ढूंढत डोलहि अंध गति अरु चीनत नाही संत—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+भक्त नामदेव कहते हैं—अज्ञानी लोग अंधों की भांति बाहर जंगलों और तीर्थों में ईश्वर को ढूंढते फिरते हैं, किंतु अपने निकट बैठे हुए संतों को नहीं पहचानते;
+नामदेव कहते हैं कि संतों और भक्तों के संग के बिना भला उस परम भगवंत को कैसे प्राप्त किया जा सकता है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: dhoondhatadolahiandhagatiarucheenatanaaheesanta—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Like blind men groping in the dark they wander far and wide;
+Ignoring the illumined saints who walk close by their side;
+Says Nama: How can any soul attain the Lord above;
+Without the fellowship of saints who teach the path of love?
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'ढूंढत डोलहि अंध गति अरु चीनत नाही स'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **संत-कृपा से ही ईश्वर-प्राप्ति**: परमात्मा को जानने की कुंजी संतों के पास है। जो संतों की उपेक्षा करके बाहर भटकते हैं, वे कभी सत्य तक नहीं पहुँच सकते।
 
 ---
 
 <a name="salok-242"></a>
 ## सलोक 242: हरि सो हीरा छाडि कै करहि आन की आस ॥...
-**English Title:** Salok 242: Harai Sao Haeeraa Chhaadai Kaai Karahai Aana Kaee
+**English Title:** Forsaking Hari the Diamond, Yearning for Others: Mortals Enter Hell
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9215,21 +9842,24 @@ te (from/by) nar (man/mortal) dojak (dojak) jaahige (jaahige) sati (truth/true) 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: हरि सो हीरा छाडि कै करहि आन की आस—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+संत रविदास जी कहते हैं—जो मनुष्य साक्षात हरि रूपी अनमोल हीरे को छोड़कर संसार के नश्वर देवी-देवताओं और प्राणियों से आशाएं बांधते हैं;
+वे अधर्मी मनुष्य निश्चय ही घोर नरक में जाएंगे, यह रविदास सत्य वचन कह रहा है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: harisoheeraachhaadikaikarahiaanakeeaasa—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+Forsaking Hari, the diamond bright, the soul's eternal stay;
+Whoever clings to mortal hopes and chases gods of clay;
+Shall sink into the pit of grief where torment knows no end;
+Speaks Ravidas this solemn truth: on God alone depend!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'हरि सो हीरा छाडि कै करहि आन की आस ॥'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **अनन्य भक्ति**: केवल एक परमात्मा ही शाश्वत आश्रय है। सांसारिक अवलंबन और मिथ्या आशाएं अंततः पतन का कारण बनती हैं।
 
 ---
 
 <a name="salok-243"></a>
 ## सलोक 243: कबीर जउ ग्रिहु करहि त धरमु करु नाही...
-**English Title:** Salok 243: Kabaeera Jau Garaihau Karahai Ta Dharamau Karau
+**English Title:** In Household Practice Righteousness, Else Renounce: An Attached Ascetic Is Grave Misfortune
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9252,21 +9882,24 @@ bairaagee (renunciant ascetic) bandhanu (worldly shackles) karai (doing (does/by
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-कबीर कहते हैं: कबीर जउ ग्रिहु करहि त धरमु करु नाही त करु बैरागु—
-जो मन को साधकर परमात्मा के सत्य स्वरूप में लीन होता है, वह संसार के बंधनों से मुक्त होकर परम पद को पाता है।
+कबीर कहते हैं—यदि तू गृहस्थ आश्रम में रहता है तो सत्य और धर्म का दृढ़ता से पालन कर, और यदि ऐसा नहीं कर सकता तो संसार से पूर्ण वैराग्य ले ले;
+किंतु यदि कोई वैरागी या संन्यासी होकर फिर से सांसारिक बंधनों और संग्रह में लिप्त हो जाता है, तो उससे बड़ा अभागा संसार में कोई नहीं है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-Says Kabir: kabeerajaugrihukarahitadharamukarunaaheetakar—
-The soul that stilling the mind merges into the True Lord transcends all earthly bounds and attains the immortal abode.
+If thou dost choose the household life, walk in the righteous path;
+Else take the monk's renunciant garb and flee from worldly wrath;
+But he who dons the ascetic's robe yet hugs the bonds of greed;
+Is counted as the most forlorn and wretched soul indeed!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-In this poignant Salok recorded in Sri Guru Granth Sahib Ji, Sant Kabir reflects upon 'कबीर जउ ग्रिहु करहि त धरमु करु नाही'. He urges the seeker to pierce through the deceptive veils of external duality and experience the unbroken presence of the Supreme Divine within consciousness.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **निष्ठा और प्रामाणिकता**: कबीर ढोंग के विरोधी हैं। चाहे गृहस्थ हो या संन्यासी, अपने मार्ग के प्रति सच्चा और निष्ठावान होना चाहिए।
 
 ---
 
 <a name="salok-244"></a>
 ## सलोक 244: गगन दमामा बाजिओ परिओ नीसानै घाउ ॥...
-**English Title:** Salok 244: Gagana Damaamaa Baajaio Paraio Naeesaanaai Ghaa
+**English Title:** The Celestial War-Drum Resounds: The Spiritual Warrior Enters the Field
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9289,21 +9922,24 @@ khetu (battlefield of life and mind) ju (who/whoever) maandio (maandio) soorama 
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-आकाश-मंडल में रणभेरी बज उठी है, हृदय के निशाने पर चोट लगी है,
-शूरवीर ने अंतर्मन का युद्ध-क्षेत्र सजाया है, अब प्राण-प्रण से जूझने की बेला आ गई है।
+दशम-द्वार रूपी आकाश-मंडल में ईश्वरीय चेतना की रणभेरी बज उठी है और हृदय के सटीक निशाने पर प्रेम-बाण का घाव लगा है;
+आध्यात्मिक शूरवीर ने अंतर्मन के युद्ध-क्षेत्र में मोर्चा संभाल लिया है, अब प्राण-प्रण से पांचों विकारों से जूझने की बेला आ गई है!
 
 #### 🇬🇧 Lyrical English Verse Translation
-The battle-drum resounds in the celestial sky of the soul, the divine wound has struck deep;
-The spiritual warrior has taken the field of battle—now is the sacred moment his pledge to keep.
+The battle-drum resounds on high in the celestial dome;
+The arrow of awakening strikes the spiritual wanderer home;
+The valiant hero of the soul has marched onto the field;
+Now is the fateful hour to fight, with truth alone as shield!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-Kabir's martial metaphor describes the decisive awakening of spiritual consciousness. The battle is fought not on earthly fields with swords, but in the internal battlefield of the mind against the five inner adversaries: lust, anger, greed, attachment, and ego.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **आंतरिक रणक्षेत्र**: यह कबीर का अत्यंत ओजस्वी सलोक है। युद्ध बाहर किसी शत्रु से नहीं, बल्कि काम, क्रोध, लोभ, मोह और अहंकार रूपी आंतरिक शत्रुओं से है।
 
 ---
 
 <a name="salok-245"></a>
 ## सलोक 245: सूरा सो पहिचानीऐ जु लरै दीन के हेत ...
-**English Title:** Salok 245: Saooraa Sao Pahaichaanaeeai Jau Laraai Daeena Kae
+**English Title:** He Alone Is the True Hero: Fighting for the Meek, Never Abandoning the Field
 
 ### 📜 मूल रचना (Original Text - Devanagari)
 ```text
@@ -9326,15 +9962,18 @@ puraja (piece by piece, every fiber) puraja (piece by piece, every fiber) kati (
 
 ### 🪶 छंदोबद्ध काव्यानुवाद (Metered Poetic Translations)
 #### 🇮🇳 आधुनिक हिंदी पद्यानुवाद (Hindi Poetic Verse)
-सच्चा शूरवीर वही पहचाना जाता है जो दीन-दुखियों और धर्म के हित में लड़ता है,
-अंग-अंग कटकर गिर जाए फिर भी कभी धर्म-क्षेत्र को पीठ नहीं दिखाता है।
+सच्चा शूरवीर वही पहचाना जाता है जो दीन-दुखियों, दुर्बलों और सत्य-धर्म की रक्षा के लिए प्राणों की बाजी लगा देता है;
+जिसका अंग-अंग और टुकड़ा-टुकड़ा कटकर रणभूमि में गिर जाए, फिर भी वह कभी धर्म-क्षेत्र को छोड़कर पीठ नहीं दिखाता!
 
 #### 🇬🇧 Lyrical English Verse Translation
-He alone is recognized as the true heroic warrior who battles for the sake of the meek and righteousness;
-Though cut into pieces limb by limb, he never abandons the field in cowardice.
+He alone is recognized as the true and valiant knight;
+Who battles for the helpless weak, defending truth and right;
+Though severed limb by limb he fall upon the bleeding sod;
+He never yields the battlefield, steadfast unto his God!
 
 ### 💡 दार्शनिक एवं आध्यात्मिक मीमांसा (Philosophical Commentary)
-One of the most celebrated verses in Indian spiritual literature, this Salok defines authentic heroism. The true warrior of truth sacrifices the ego entirely for the welfare of the defenseless and the realization of divine righteousness, standing steadfast until the very end.
+### दार्शनिक एवं आध्यात्मिक विश्लेषण (Philosophical Commentary)
+1. **शहादत और वीरता का सर्वोच्च आदर्श**: श्री गुरु ग्रंथ साहिब जी में दर्ज यह अंतिम सलोक मानवीय गरिमा, आत्म-बलिदान और निर्भीकता की अमर गाथा है। सच्चा योद्धा वही है जो अपने स्वार्थ के लिए नहीं, बल्कि दीन-दुखियों और धर्म के लिए सर्वस्व न्योछावर कर देता है।
 
 ---
 

@@ -7,6 +7,10 @@ sys.stdout.reconfigure(encoding='utf-8')
 with open("data/kabir/kabir_data.json", "r", encoding="utf-8") as f:
     items = json.load(f)
 
+if isinstance(items, dict):
+    items = list(items.values())
+
+
 # Genre normalization for manifest and data
 genre_map = {
     "kabir_shabad": ("shabad", "शब्द"),
@@ -44,8 +48,8 @@ for it in items:
         "genre_label": genre_label,
         "id": num,
         "title": it["title_hi"],
-        "theme": it["title_hi"],
-        "theme_en": it["title"],
+        "theme": it.get("theme_hi", it["title_hi"]),
+        "theme_en": it.get("theme_en", it["title"]),
         "first_line": first_line
     }
     manifest.append(manifest_entry)
@@ -59,9 +63,10 @@ for it in items:
         "genre_label": genre_label,
         "id": num,
         "title": it["title_hi"],
-        "theme": it["title_hi"],
-        "theme_en": it["title"],
+        "theme": it.get("theme_hi", it["title_hi"]),
+        "theme_en": it.get("theme_en", it["title"]),
         "first_line": first_line,
+
         "lines": orig_lines,
         "hindi_gloss": hi_gloss_lines,
         "english_gloss": en_gloss_lines,

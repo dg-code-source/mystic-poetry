@@ -10,8 +10,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 1,
     "title": "शब्द 1: जननी जानत सुतु बडा होतु है",
-    "theme": "शब्द 1: जननी जानत सुतु बडा होतु है",
-    "theme_en": "Shabad 1: Jananaee Jaanata Sautau Badaa Haotau Haai",
+    "theme": "माता का मोह, घटती आयु और यमराज का हास",
+    "theme_en": "The Mother's Fondness and Diminishing Life: The Angel of Death Smiles",
     "first_line": "जननी जानत सुतु बडा होतु है इतना कु न जानै जि दिन दिन अवध घटतु है ॥"
   },
   {
@@ -22,8 +22,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 2,
     "title": "शब्द 2: नगन फिरत जौ पाईऐ जोगु",
-    "theme": "शब्द 2: नगन फिरत जौ पाईऐ जोगु",
-    "theme_en": "Shabad 2: Nagana Phairata Jaau Paaeeai Jaogau",
+    "theme": "नग्नता व मुंडन का खंडन: आत्माराम की पहचान",
+    "theme_en": "Futility of Nudity and Tonsure: The Inner Lord Alone Liberates",
     "first_line": "नगन फिरत जौ पाईऐ जोगु ॥"
   },
   {
@@ -34,8 +34,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 3,
     "title": "शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा",
-    "theme": "शब्द 3: किआ जपु किआ तपु किआ ब्रत पूजा",
-    "theme_en": "Shabad 3: Kaiaa Japau Kaiaa Tapau Kaiaa Barata Paoojaa",
+    "theme": "द्वैत में जप-तप व्यर्थ: निष्कपट प्रेम से रघुनाथ की प्राप्ति",
+    "theme_en": "Chanting and Fasting in Duality Are Vain: Innocent Love Attains the Lord",
     "first_line": "किआ जपु किआ तपु किआ ब्रत पूजा ॥"
   },
   {
@@ -46,8 +46,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 4,
     "title": "शब्द 4: गरभ वास महि कुलु नही जाती",
-    "theme": "शब्द 4: गरभ वास महि कुलु नही जाती",
-    "theme_en": "Shabad 4: Garabha Vaasa Mahai Kaulau Nahaee Jaataee",
+    "theme": "जाति-वर्ण का खंडन: रक्त और दुग्ध का प्रश्न",
+    "theme_en": "Deconstructing Caste Hierarchy: Blood in Our Veins, Milk in Thine?",
     "first_line": "गरभ वास महि कुलु नही जाती ॥"
   },
   {
@@ -58,8 +58,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 5,
     "title": "शब्द 5: अवर मूए किआ सोगु करीजै",
-    "theme": "शब्द 5: अवर मूए किआ सोगु करीजै",
-    "theme_en": "Shabad 5: Avara Maooe Kaiaa Saogau Karaeejaai",
+    "theme": "संसार की नश्वरता: एक कुआं और पांच पनिहारिनें",
+    "theme_en": "The World's Mortality: One Well, Five Water-Bearers, and the Broken Rope",
     "first_line": "अवर मूए किआ सोगु करीजै ॥"
   },
   {
@@ -70,8 +70,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 6,
     "title": "शब्द 6: जिह कुलि पूतु न गिआन बीचारी",
-    "theme": "शब्द 6: जिह कुलि पूतु न गिआन बीचारी",
-    "theme_en": "Shabad 6: Jaiha Kaulai Paootau Na Gaiaana Baeechaaraee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 6)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 6)",
     "first_line": "जिह कुलि पूतु न गिआन बीचारी ॥"
   },
   {
@@ -82,8 +82,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 7,
     "title": "शब्द 7: जो जन लेहि खसम का नाउ",
-    "theme": "शब्द 7: जो जन लेहि खसम का नाउ",
-    "theme_en": "Shabad 7: Jao Jana Laehai Khasama Kaa Naau",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 7)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 7)",
     "first_line": "जो जन लेहि खसम का नाउ ॥"
   },
   {
@@ -94,8 +94,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 8,
     "title": "शब्द 8: ओइ जु दीसहि अम्बरि तारे",
-    "theme": "शब्द 8: ओइ जु दीसहि अम्बरि तारे",
-    "theme_en": "Shabad 8: Oi Jau Daeesahai Amabarai Taarae",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 8)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 8)",
     "first_line": "ओइ जु दीसहि अम्बरि तारे ॥"
   },
   {
@@ -106,8 +106,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 9,
     "title": "शब्द 9: बेद की पुत्री सिम्रिति भाई",
-    "theme": "शब्द 9: बेद की पुत्री सिम्रिति भाई",
-    "theme_en": "Shabad 9: Baeda Kaee Pautaraee Saimaraitai Bhaaee",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 9)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 9)",
     "first_line": "बेद की पुत्री सिम्रिति भाई ॥"
   },
   {
@@ -118,8 +118,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 10,
     "title": "शब्द 10: देइ मुहार लगामु पहिरावउ",
-    "theme": "शब्द 10: देइ मुहार लगामु पहिरावउ",
-    "theme_en": "Shabad 10: Daei Mauhaara Lagaamau Pahairaavau",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 10)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 10)",
     "first_line": "देइ मुहार लगामु पहिरावउ ॥"
   },
   {
@@ -130,8 +130,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 11,
     "title": "शब्द 11: आपे पावकु आपे पवना",
-    "theme": "शब्द 11: आपे पावकु आपे पवना",
-    "theme_en": "Shabad 11: Aapae Paavakau Aapae Pavanaa",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 11)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 11)",
     "first_line": "आपे पावकु आपे पवना ॥"
   },
   {
@@ -142,8 +142,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 12,
     "title": "शब्द 12: जिह सिरि रचि रचि बाधत पाग",
-    "theme": "शब्द 12: जिह सिरि रचि रचि बाधत पाग",
-    "theme_en": "Shabad 12: Jaiha Sairai Rachai Rachai Baadhata Paaga",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 12)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 12)",
     "first_line": "जिह सिरि रचि रचि बाधत पाग ॥"
   },
   {
@@ -154,8 +154,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 13,
     "title": "शब्द 13: रे जीअ निलज लाज तोहि नाही",
-    "theme": "शब्द 13: रे जीअ निलज लाज तोहि नाही",
-    "theme_en": "Shabad 13: Rae Jaeea Nailaja Laaja Taohai Naahaee",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 13)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 13)",
     "first_line": "रे जीअ निलज लाज तोहि नाही ॥"
   },
   {
@@ -166,8 +166,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 14,
     "title": "शब्द 14: कउनु को पूतु पिता को का को",
-    "theme": "शब्द 14: कउनु को पूतु पिता को का को",
-    "theme_en": "Shabad 14: Kaunau Kao Paootau Paitaa Kao Kaa Kao",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 14)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 14)",
     "first_line": "कउनु को पूतु पिता को का को ॥"
   },
   {
@@ -178,8 +178,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 15,
     "title": "शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई",
-    "theme": "शब्द 15: जलि है सूतकु थलि है सूतकु सूतक ओपति होई",
-    "theme_en": "Shabad 15: Jalai Haai Saootakau Thalai Haai Saootakau Saootaka",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 15)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 15)",
     "first_line": "जलि है सूतकु थलि है सूतकु सूतक ओपति होई ॥"
   },
   {
@@ -190,8 +190,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 16,
     "title": "शब्द 16: झगरा एकु निबेरहु राम",
-    "theme": "शब्द 16: झगरा एकु निबेरहु राम",
-    "theme_en": "Shabad 16: Jhagaraa Ekau Naibaerahau Raama",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 16)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 16)",
     "first_line": "झगरा एकु निबेरहु राम ॥"
   },
   {
@@ -202,8 +202,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 17,
     "title": "शब्द 17: देखौ भाई ग्यान की आई आंधी",
-    "theme": "शब्द 17: देखौ भाई ग्यान की आई आंधी",
-    "theme_en": "Shabad 17: Daekhaau Bhaaee Gayaana Kaee Aaee Aandhaee",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 17)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 17)",
     "first_line": "देखौ भाई ग्यान की आई आंधी ॥"
   },
   {
@@ -214,8 +214,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 18,
     "title": "शब्द 18: हरि जसु सुनहि न हरि गुन गावहि",
-    "theme": "शब्द 18: हरि जसु सुनहि न हरि गुन गावहि",
-    "theme_en": "Shabad 18: Harai Jasau Saunahai Na Harai Gauna Gaavahai",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 18)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 18)",
     "first_line": "हरि जसु सुनहि न हरि गुन गावहि ॥"
   },
   {
@@ -226,8 +226,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 19,
     "title": "शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही",
-    "theme": "शब्द 19: जीवत पितर न मानै कोऊ मूएं सिराध कराही",
-    "theme_en": "Shabad 19: Jaeevata Paitara Na Maanaai Kaooo Maooen Sairaa",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 19)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 19)",
     "first_line": "जीवत पितर न मानै कोऊ मूएं सिराध कराही ॥"
   },
   {
@@ -238,8 +238,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 20,
     "title": "शब्द 20: राम जपउ जीअ ऐसे ऐसे",
-    "theme": "शब्द 20: राम जपउ जीअ ऐसे ऐसे",
-    "theme_en": "Shabad 20: Raama Japau Jaeea Aisae Aisae",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 20)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 20)",
     "first_line": "राम जपउ जीअ ऐसे ऐसे ॥"
   },
   {
@@ -250,8 +250,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 21,
     "title": "शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु",
-    "theme": "शब्द 21: सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु",
-    "theme_en": "Shabad 21: Sauraga Baasau Na Baachhaeeai Daraeeai Na Narakai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 21)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 21)",
     "first_line": "सुरग बासु न बाछीऐ डरीऐ न नरकि निवासु ॥"
   },
   {
@@ -262,8 +262,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 22,
     "title": "शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु",
-    "theme": "शब्द 22: रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु",
-    "theme_en": "Shabad 22: Rae Mana Taerao Kaoi Nahaee Khainchai Laei Ja",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 22)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 22)",
     "first_line": "रे मन तेरो कोइ नही खिंचि लेइ जिनि भारु ॥"
   },
   {
@@ -274,8 +274,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 23,
     "title": "शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे",
-    "theme": "शब्द 23: मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे",
-    "theme_en": "Shabad 23: Mana Rae Chhaadahau Bharamau Paragata Haoi Naacha",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 23)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 23)",
     "first_line": "मन रे छाडहु भरमु प्रगट होइ नाचहु इआ माइआ के डांडे ॥"
   },
   {
@@ -286,8 +286,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 24,
     "title": "शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे",
-    "theme": "शब्द 24: लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे",
-    "theme_en": "Shabad 24: Lakha Chauraasaeeha Jaeea Jaonai Mahai Bharamata",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 24)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 24)",
     "first_line": "लख चउरासीह जीअ जोनि महि भ्रमत नंदु बहु थाको रे ॥"
   },
   {
@@ -298,8 +298,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 25,
     "title": "शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ",
-    "theme": "शब्द 25: निंदउ निंदउ मो कउ लोगु निंदउ",
-    "theme_en": "Shabad 25: Naindau Naindau Mao Kau Laogau Naindau",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 25)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 25)",
     "first_line": "निंदउ निंदउ मो कउ लोगु निंदउ ॥"
   },
   {
@@ -310,8 +310,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 27,
     "title": "शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई",
-    "theme": "शब्द 27: हिंदू तुरक कहा ते आए किनि एह राह चलाई",
-    "theme_en": "Shabad 27: Haindaoo Tauraka Kahaa Tae Aae Kainai Eha Ra",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 27)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 27)",
     "first_line": "हिंदू तुरक कहा ते आए किनि एह राह चलाई ॥"
   },
   {
@@ -322,8 +322,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 28,
     "title": "शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥",
-    "theme": "शब्द 28: जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥",
-    "theme_en": "Shabad 28: Jaba Lagau Taelau Daeevae Maukhai Baataee Taba",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 28)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 28)",
     "first_line": "जब लगु तेलु दीवे मुखि बाती तब सूझै सभु कोई ॥"
   },
   {
@@ -334,8 +334,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 29,
     "title": "शब्द 29: सुतु अपराध करत है जेते",
-    "theme": "शब्द 29: सुतु अपराध करत है जेते",
-    "theme_en": "Shabad 29: Sautau Aparaadha Karata Haai Jaetae",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 29)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 29)",
     "first_line": "सुतु अपराध करत है जेते ॥"
   },
   {
@@ -346,8 +346,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 30,
     "title": "शब्द 30: हज हमारी गोमती तीर",
-    "theme": "शब्द 30: हज हमारी गोमती तीर",
-    "theme_en": "Shabad 30: Haja Hamaaraee Gaomataee Taeera",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 30)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 30)",
     "first_line": "हज हमारी गोमती तीर ॥"
   },
   {
@@ -358,8 +358,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 31,
     "title": "शब्द 31: पाती तोरै मालिनी पाती पाती जीउ",
-    "theme": "शब्द 31: पाती तोरै मालिनी पाती पाती जीउ",
-    "theme_en": "Shabad 31: Paataee Taoraai Maalainaee Paataee Paataee Jaeeu",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 31)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 31)",
     "first_line": "पाती तोरै मालिनी पाती पाती जीउ ॥"
   },
   {
@@ -370,8 +370,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 32,
     "title": "शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ",
-    "theme": "शब्द 32: बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ",
-    "theme_en": "Shabad 32: Baaraha Barasa Baalapana Baeetae Baeesa Barasa Kachha",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 32)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 32)",
     "first_line": "बारह बरस बालपन बीते बीस बरस कछु तपु न कीओ ॥"
   },
   {
@@ -382,8 +382,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 33,
     "title": "शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा",
-    "theme": "शब्द 33: काहू दीन्हे पाट पट्मबर काहू पलघ निवारा",
-    "theme_en": "Shabad 33: Kaahaoo Daeenahae Paata Patamabara Kaahaoo Pala",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 33)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 33)",
     "first_line": "काहू दीन्हे पाट पट्मबर काहू पलघ निवारा ॥"
   },
   {
@@ -394,8 +394,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 34,
     "title": "शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै",
-    "theme": "शब्द 34: हम मसकीन खुदाई बंदे तुम राजसु मनि भावै",
-    "theme_en": "Shabad 34: Hama Masakaeena Khaudaaee Bandae Tauma Raajasau",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 34)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 34)",
     "first_line": "हम मसकीन खुदाई बंदे तुम राजसु मनि भावै ॥"
   },
   {
@@ -406,8 +406,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 35,
     "title": "शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना",
-    "theme": "शब्द 35: गगन नगरि इक बूंद न बरखै नादु कहा जु समाना",
-    "theme_en": "Shabad 35: Gagana Nagarai Ika Baoonda Na Barakhaai Naadau Ka",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 35)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 35)",
     "first_line": "गगन नगरि इक बूंद न बरखै नादु कहा जु समाना ॥"
   },
   {
@@ -418,8 +418,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 36,
     "title": "शब्द 36: सरपनी ते ऊपरि नही बलीआ",
-    "theme": "शब्द 36: सरपनी ते ऊपरि नही बलीआ",
-    "theme_en": "Shabad 36: Sarapanaee Tae Ooparai Nahaee Balaeeaa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 36)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 36)",
     "first_line": "सरपनी ते ऊपरि नही बलीआ ॥"
   },
   {
@@ -430,8 +430,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 37,
     "title": "शब्द 37: कहा सुआन कउ सिम्रिति सुनाए",
-    "theme": "शब्द 37: कहा सुआन कउ सिम्रिति सुनाए",
-    "theme_en": "Shabad 37: Kahaa Sauaana Kau Saimaraitai Saunaae",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 37)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 37)",
     "first_line": "कहा सुआन कउ सिम्रिति सुनाए ॥"
   },
   {
@@ -442,8 +442,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 38,
     "title": "शब्द 38: लंका सा कोटु समुंद सी खाई",
-    "theme": "शब्द 38: लंका सा कोटु समुंद सी खाई",
-    "theme_en": "Shabad 38: Lankaa Saa Kaotau Samaunda Saee Khaaee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 38)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 38)",
     "first_line": "लंका सा कोटु समुंद सी खाई ॥"
   },
   {
@@ -454,8 +454,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 39,
     "title": "शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे",
-    "theme": "शब्द 39: हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे",
-    "theme_en": "Shabad 39: Hama Gharai Saootau Tanahai Naita Taanaa Kanthai",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 39)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 39)",
     "first_line": "हम घरि सूतु तनहि नित ताना कंठि जनेऊ तुमारे ॥"
   },
   {
@@ -466,8 +466,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 40,
     "title": "शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै",
-    "theme": "शब्द 40: रोजा धरै मनावै अलहु सुआदति जीअ संघारै",
-    "theme_en": "Shabad 40: Raojaa Dharaai Manaavaai Alahau Sauaadatai Jaeea",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 40)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 40)",
     "first_line": "रोजा धरै मनावै अलहु सुआदति जीअ संघारै ॥"
   },
   {
@@ -478,8 +478,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 41,
     "title": "शब्द 41: करवतु भला न करवट तेरी",
-    "theme": "शब्द 41: करवतु भला न करवट तेरी",
-    "theme_en": "Shabad 41: Karavatau Bhalaa Na Karavata Taeraee",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 41)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 41)",
     "first_line": "करवतु भला न करवट तेरी ॥"
   },
   {
@@ -490,8 +490,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 42,
     "title": "शब्द 42: कोरी को काहू मरमु न जानां",
-    "theme": "शब्द 42: कोरी को काहू मरमु न जानां",
-    "theme_en": "Shabad 42: Kaoraee Kao Kaahaoo Maramau Na Jaanaan",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 42)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 42)",
     "first_line": "कोरी को काहू मरमु न जानां ॥"
   },
   {
@@ -502,8 +502,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 43,
     "title": "शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां",
-    "theme": "शब्द 43: अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां",
-    "theme_en": "Shabad 43: Antarai Maailau Jae Taeeratha Naavaai Taisau Ba",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 43)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 43)",
     "first_line": "अंतरि मैलु जे तीरथ नावै तिसु बैकुंठ न जानां ॥"
   },
   {
@@ -514,8 +514,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 44,
     "title": "शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै",
-    "theme": "शब्द 44: चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै",
-    "theme_en": "Shabad 44: Chaarai Paava Daui Sainga Gaunga Maukha Taba",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 44)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 44)",
     "first_line": "चारि पाव दुइ सिंग गुंग मुख तब कैसे गुन गईहै ॥"
   },
   {
@@ -526,8 +526,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 45,
     "title": "शब्द 45: मुसि मुसि रोवै कबीर की माई",
-    "theme": "शब्द 45: मुसि मुसि रोवै कबीर की माई",
-    "theme_en": "Shabad 45: Mausai Mausai Raovaai Kabaeera Kaee Maaee",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 45)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 45)",
     "first_line": "मुसि मुसि रोवै कबीर की माई ॥"
   },
   {
@@ -538,8 +538,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 46,
     "title": "शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई",
-    "theme": "शब्द 46: बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई",
-    "theme_en": "Shabad 46: Bauta Paoojai Paoojai Haindaoo Maooe Tauraka Ma",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 46)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 46)",
     "first_line": "बुत पूजि पूजि हिंदू मूए तुरक मूए सिरु नाई ॥"
   },
   {
@@ -550,8 +550,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 47,
     "title": "शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई",
-    "theme": "शब्द 47: जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई",
-    "theme_en": "Shabad 47: Jaba Jaraeeai Taba Haoi Bhasama Tanau Rahaai Kaira",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 47)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 47)",
     "first_line": "जब जरीऐ तब होइ भसम तनु रहै किरम दल खाई ॥"
   },
   {
@@ -562,8 +562,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 48,
     "title": "शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा",
-    "theme": "शब्द 48: बेद पुरान सभै मत सुनि कै करी करम की आसा",
-    "theme_en": "Shabad 48: Baeda Pauraana Sabhaai Mata Saunai Kaai Karaee Ka",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 48)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 48)",
     "first_line": "बेद पुरान सभै मत सुनि कै करी करम की आसा ॥"
   },
   {
@@ -574,8 +574,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 49,
     "title": "शब्द 49: दुइ दुइ लोचन पेखा",
-    "theme": "शब्द 49: दुइ दुइ लोचन पेखा",
-    "theme_en": "Shabad 49: Daui Daui Laochana Paekhaa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 49)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 49)",
     "first_line": "दुइ दुइ लोचन पेखा ॥"
   },
   {
@@ -586,8 +586,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 50,
     "title": "शब्द 50: जा के निगम दूध के ठाटा",
-    "theme": "शब्द 50: जा के निगम दूध के ठाटा",
-    "theme_en": "Shabad 50: Jaa Kae Naigama Daoodha Kae Thaataa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 50)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 50)",
     "first_line": "जा के निगम दूध के ठाटा ॥"
   },
   {
@@ -598,8 +598,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 51,
     "title": "शब्द 51: जिह बाझु न जीआ जाई",
-    "theme": "शब्द 51: जिह बाझु न जीआ जाई",
-    "theme_en": "Shabad 51: Jaiha Baajhau Na Jaeeaa Jaaee",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 51)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 51)",
     "first_line": "जिह बाझु न जीआ जाई ॥"
   },
   {
@@ -610,8 +610,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 52,
     "title": "शब्द 52: किआ पड़ीऐ किआ गुनीऐ",
-    "theme": "शब्द 52: किआ पड़ीऐ किआ गुनीऐ",
-    "theme_en": "Shabad 52: Kaiaa Paड़eeai Kaiaa Gaunaeeai",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 52)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 52)",
     "first_line": "किआ पड़ीऐ किआ गुनीऐ ॥"
   },
   {
@@ -622,8 +622,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 53,
     "title": "शब्द 53: ह्रिदै कपटु मुख गिआनी",
-    "theme": "शब्द 53: ह्रिदै कपटु मुख गिआनी",
-    "theme_en": "Shabad 53: Haraidaai Kapatau Maukha Gaiaanaee",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 53)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 53)",
     "first_line": "ह्रिदै कपटु मुख गिआनी ॥"
   },
   {
@@ -634,8 +634,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 54,
     "title": "शब्द 54: बहु परपंच करि पर धनु लिआवै",
-    "theme": "शब्द 54: बहु परपंच करि पर धनु लिआवै",
-    "theme_en": "Shabad 54: Bahau Parapancha Karai Para Dhanau Laiaavaai",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 54)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 54)",
     "first_line": "बहु परपंच करि पर धनु लिआवै ॥"
   },
   {
@@ -646,8 +646,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 55,
     "title": "शब्द 55: संतहु मन पवनै सुखु बनिआ",
-    "theme": "शब्द 55: संतहु मन पवनै सुखु बनिआ",
-    "theme_en": "Shabad 55: Santahau Mana Pavanaai Saukhau Banaiaa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 55)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 55)",
     "first_line": "संतहु मन पवनै सुखु बनिआ ॥"
   },
   {
@@ -658,8 +658,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 56,
     "title": "शब्द 56: भूखे भगति न कीजै",
-    "theme": "शब्द 56: भूखे भगति न कीजै",
-    "theme_en": "Shabad 56: Bhaookhae Bhagatai Na Kaeejaai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 56)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 56)",
     "first_line": "भूखे भगति न कीजै ॥"
   },
   {
@@ -670,8 +670,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 57,
     "title": "शब्द 57: सनक सनंद महेस समानां",
-    "theme": "शब्द 57: सनक सनंद महेस समानां",
-    "theme_en": "Shabad 57: Sanaka Sananda Mahaesa Samaanaan",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 57)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 57)",
     "first_line": "सनक सनंद महेस समानां ॥"
   },
   {
@@ -682,8 +682,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 58,
     "title": "शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै",
-    "theme": "शब्द 58: दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै",
-    "theme_en": "Shabad 58: Daina Tae Pahara Pahara Tae Gharaeeaan Aava Ghataai",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 58)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 58)",
     "first_line": "दिन ते पहर पहर ते घरीआं आव घटै तनु छीजै ॥"
   },
   {
@@ -694,8 +694,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 59,
     "title": "शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो",
-    "theme": "शब्द 59: जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो",
-    "theme_en": "Shabad 59: Jao Janau Bhaau Bhagatai Kachhau Jaanaai Taa Kau",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 59)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 59)",
     "first_line": "जो जनु भाउ भगति कछु जानै ता कउ अचरजु काहो ॥"
   },
   {
@@ -706,8 +706,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 60,
     "title": "शब्द 60: इंद्र लोक सिव लोकहि जैबो",
-    "theme": "शब्द 60: इंद्र लोक सिव लोकहि जैबो",
-    "theme_en": "Shabad 60: Indara Laoka Saiva Laokahai Jaaibao",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 60)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 60)",
     "first_line": "इंद्र लोक सिव लोकहि जैबो ॥"
   },
   {
@@ -718,8 +718,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 61,
     "title": "शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई",
-    "theme": "शब्द 61: राम सिमरि राम सिमरि राम सिमरि भाई",
-    "theme_en": "Shabad 61: Raama Saimarai Raama Saimarai Raama Saimarai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 61)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 61)",
     "first_line": "राम सिमरि राम सिमरि राम सिमरि भाई ॥"
   },
   {
@@ -730,8 +730,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 62,
     "title": "शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ",
-    "theme": "शब्द 62: बेद कतेब इफतरा भाई दिल का फिकरु न जाइ",
-    "theme_en": "Shabad 62: Baeda Kataeba Iphataraa Bhaaee Daila Kaa Phaikara",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 62)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 62)",
     "first_line": "बेद कतेब इफतरा भाई दिल का फिकरु न जाइ ॥"
   },
   {
@@ -742,8 +742,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 63,
     "title": "शब्द 63: अमलु सिरानो लेखा देना",
-    "theme": "शब्द 63: अमलु सिरानो लेखा देना",
-    "theme_en": "Shabad 63: Amalau Sairaanao Laekhaa Daenaa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 63)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 63)",
     "first_line": "अमलु सिरानो लेखा देना ॥"
   },
   {
@@ -754,8 +754,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 64,
     "title": "शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ",
-    "theme": "शब्द 64: थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ",
-    "theme_en": "Shabad 64: Thaakae Naaina Saravana Saunai Thaakae Thaakaee",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 64)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 64)",
     "first_line": "थाके नैन स्रवन सुनि थाके थाकी सुंदरि काइआ ॥"
   },
   {
@@ -766,8 +766,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 65,
     "title": "शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे",
-    "theme": "शब्द 65: ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे",
-    "theme_en": "Shabad 65: Aisao Ihau Sansaarau Paekhanaa Rahanau Na Kao",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 65)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 65)",
     "first_line": "ऐसो इहु संसारु पेखना रहनु न कोऊ पईहै रे ॥"
   },
   {
@@ -778,8 +778,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 66,
     "title": "शब्द 66: बिदिआ न परउ बादु नही जानउ",
-    "theme": "शब्द 66: बिदिआ न परउ बादु नही जानउ",
-    "theme_en": "Shabad 66: Baidaiaa Na Parau Baadau Nahaee Jaanau",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 66)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 66)",
     "first_line": "बिदिआ न परउ बादु नही जानउ ॥"
   },
   {
@@ -790,8 +790,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 67,
     "title": "शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा",
-    "theme": "शब्द 67: ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा",
-    "theme_en": "Shabad 67: Garaihau Tajai Bana Khanda Jaaeeai Chaunai Khaa",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 67)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 67)",
     "first_line": "ग्रिहु तजि बन खंड जाईऐ चुनि खाईऐ कंदा ॥"
   },
   {
@@ -802,8 +802,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 68,
     "title": "शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ",
-    "theme": "शब्द 68: नित उठि कोरी गागरि आनै लीपत जीउ गइओ",
-    "theme_en": "Shabad 68: Naita Uthai Kaoraee Gaagarai Aanaai Laeepata Jaee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 68)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 68)",
     "first_line": "नित उठि कोरी गागरि आनै लीपत जीउ गइओ ॥"
   },
   {
@@ -814,8 +814,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 69,
     "title": "शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ",
-    "theme": "शब्द 69: संतु मिलै किछु सुनीऐ कहीऐ",
-    "theme_en": "Shabad 69: Santau Mailaai Kaichhau Saunaeeai Kahaeeai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 69)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 69)",
     "first_line": "संतु मिलै किछु सुनीऐ कहीऐ ॥"
   },
   {
@@ -826,8 +826,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 70,
     "title": "शब्द 70: नरू मरै नरु कामि न आवै",
-    "theme": "शब्द 70: नरू मरै नरु कामि न आवै",
-    "theme_en": "Shabad 70: Naraoo Maraai Narau Kaamai Na Aavaai",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 70)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 70)",
     "first_line": "नरू मरै नरु कामि न आवै ॥"
   },
   {
@@ -838,8 +838,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 71,
     "title": "शब्द 71: भुजा बांधि भिला करि डारिओ",
-    "theme": "शब्द 71: भुजा बांधि भिला करि डारिओ",
-    "theme_en": "Shabad 71: Bhaujaa Baandhai Bhailaa Karai Daaraio",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 71)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 71)",
     "first_line": "भुजा बांधि भिला करि डारिओ ॥"
   },
   {
@@ -850,8 +850,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 72,
     "title": "शब्द 72: ना इहु मानसु ना इहु देउ",
-    "theme": "शब्द 72: ना इहु मानसु ना इहु देउ",
-    "theme_en": "Shabad 72: Naa Ihau Maanasau Naa Ihau Daeu",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 72)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 72)",
     "first_line": "ना इहु मानसु ना इहु देउ ॥"
   },
   {
@@ -862,8 +862,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 73,
     "title": "शब्द 73: तूटे तागे निखुटी पानि",
-    "theme": "शब्द 73: तूटे तागे निखुटी पानि",
-    "theme_en": "Shabad 73: Taootae Taagae Naikhautaee Paanai",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 73)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 73)",
     "first_line": "तूटे तागे निखुटी पानि ॥"
   },
   {
@@ -874,8 +874,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 74,
     "title": "शब्द 74: धंनु गुपाल धंनु गुरदेव",
-    "theme": "शब्द 74: धंनु गुपाल धंनु गुरदेव",
-    "theme_en": "Shabad 74: Dhannau Gaupaala Dhannau Gauradaeva",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 74)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 74)",
     "first_line": "धंनु गुपाल धंनु गुरदेव ॥"
   },
   {
@@ -886,8 +886,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 75,
     "title": "शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै",
-    "theme": "शब्द 75: जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै",
-    "theme_en": "Shabad 75: Jaiha Maukha Baedau Gaaitaraee Naikasaai Sao",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 75)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 75)",
     "first_line": "जिह मुख बेदु गाइत्री निकसै सो किउ ब्रहमनु बिसरु करै ॥"
   },
   {
@@ -898,8 +898,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 76,
     "title": "शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे",
-    "theme": "शब्द 76: मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे",
-    "theme_en": "Shabad 76: Maundaraa Maonai Daiaa Karai Jhaolaee Patara",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 76)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 76)",
     "first_line": "मुंद्रा मोनि दइआ करि झोली पत्र का करहु बीचारु रे ॥"
   },
   {
@@ -910,8 +910,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 77,
     "title": "शब्द 77: पडीआ कवन कुमति तुम लागे",
-    "theme": "शब्द 77: पडीआ कवन कुमति तुम लागे",
-    "theme_en": "Shabad 77: Padaeeaa Kavana Kaumatai Tauma Laagae",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 77)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 77)",
     "first_line": "पडीआ कवन कुमति तुम लागे ॥"
   },
   {
@@ -922,8 +922,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 78,
     "title": "शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार",
-    "theme": "शब्द 78: बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार",
-    "theme_en": "Shabad 78: Banahai Basae Kaiu Paaeeai Jau Lau Manahau Na",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 78)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 78)",
     "first_line": "बनहि बसे किउ पाईऐ जउ लउ मनहु न तजहि बिकार ॥"
   },
   {
@@ -934,8 +934,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 79,
     "title": "शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे",
-    "theme": "शब्द 79: उदक समुंद सलल की साखिआ नदी तरंग समावहिगे",
-    "theme_en": "Shabad 79: Udaka Samaunda Salala Kaee Saakhaiaa Nadaee Taran",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 79)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 79)",
     "first_line": "उदक समुंद सलल की साखिआ नदी तरंग समावहिगे ॥"
   },
   {
@@ -946,8 +946,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 80,
     "title": "शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु",
-    "theme": "शब्द 80: जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु",
-    "theme_en": "Shabad 80: Jainai Gaड़ Kaota Kaeee Kanchana Kae Chhaodai Ga",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 80)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 80)",
     "first_line": "जिनि गड़ कोट कीए कंचन के छोडि गइआ सो रावनु ॥१॥"
   },
   {
@@ -958,8 +958,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 81,
     "title": "शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना",
-    "theme": "शब्द 81: देही गावा जीउ धर महतउ बसहि पंच किरसाना",
-    "theme_en": "Shabad 81: Daehaee Gaavaa Jaeeu Dhara Mahatau Basahai Pancha",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 81)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 81)",
     "first_line": "देही गावा जीउ धर महतउ बसहि पंच किरसाना ॥"
   },
   {
@@ -970,8 +970,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 82,
     "title": "शब्द 82: राजन कउनु तुमारै आवै",
-    "theme": "शब्द 82: राजन कउनु तुमारै आवै",
-    "theme_en": "Shabad 82: Raajana Kaunau Taumaaraai Aavaai",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 82)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 82)",
     "first_line": "राजन कउनु तुमारै आवै ॥"
   },
   {
@@ -982,8 +982,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 83,
     "title": "शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे",
-    "theme": "शब्द 83: दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे",
-    "theme_en": "Shabad 83: Daeenau Baisaaraio Rae Daivaanae Daeenau Bai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 83)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 83)",
     "first_line": "दीनु बिसारिओ रे दिवाने दीनु बिसारिओ रे ॥"
   },
   {
@@ -994,8 +994,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 84,
     "title": "शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना",
-    "theme": "शब्द 84: उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना",
-    "theme_en": "Shabad 84: Usatatai Naindaa Daooo Baibarajaita Tajahau Ma",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 84)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 84)",
     "first_line": "उसतति निंदा दोऊ बिबरजित तजहु मानु अभिमाना ॥"
   },
   {
@@ -1006,8 +1006,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 85,
     "title": "शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी",
-    "theme": "शब्द 85: काम क्रोध त्रिसना के लीने गति नही एकै जानी",
-    "theme_en": "Shabad 85: Kaama Karaodha Taraisanaa Kae Laeenae Gatai",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 85)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 85)",
     "first_line": "काम क्रोध त्रिसना के लीने गति नही एकै जानी ॥"
   },
   {
@@ -1018,8 +1018,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 86,
     "title": "शब्द 86: टेढी पाग टेढे चले लागे बीरे खान",
-    "theme": "शब्द 86: टेढी पाग टेढे चले लागे बीरे खान",
-    "theme_en": "Shabad 86: Taedhaee Paaga Taedhae Chalae Laagae Baeerae Khaa",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 86)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 86)",
     "first_line": "टेढी पाग टेढे चले लागे बीरे खान ॥"
   },
   {
@@ -1030,8 +1030,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 87,
     "title": "शब्द 87: चारि दिन अपनी नउबति चले बजाइ",
-    "theme": "शब्द 87: चारि दिन अपनी नउबति चले बजाइ",
-    "theme_en": "Shabad 87: Chaarai Daina Apanaee Naubatai Chalae Bajaai",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 87)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 87)",
     "first_line": "चारि दिन अपनी नउबति चले बजाइ ॥"
   },
   {
@@ -1042,8 +1042,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 88,
     "title": "शब्द 88: नांगे आवनु नांगे जाना",
-    "theme": "शब्द 88: नांगे आवनु नांगे जाना",
-    "theme_en": "Shabad 88: Naangae Aavanau Naangae Jaanaa",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 88)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 88)",
     "first_line": "नांगे आवनु नांगे जाना ॥"
   },
   {
@@ -1054,8 +1054,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 89,
     "title": "शब्द 89: मैला ब्रहमा मैला इंदु",
-    "theme": "शब्द 89: मैला ब्रहमा मैला इंदु",
-    "theme_en": "Shabad 89: Maailaa Barahamaa Maailaa Indau",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 89)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 89)",
     "first_line": "मैला ब्रहमा मैला इंदु ॥"
   },
   {
@@ -1066,8 +1066,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 90,
     "title": "शब्द 90: मनु करि मका किबला करि देही",
-    "theme": "शब्द 90: मनु करि मका किबला करि देही",
-    "theme_en": "Shabad 90: Manau Karai Makaa Kaibalaa Karai Daehaee",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 90)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 90)",
     "first_line": "मनु करि मका किबला करि देही ॥"
   },
   {
@@ -1078,8 +1078,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 91,
     "title": "शब्द 91: गंगा कै संगि सलिता बिगरी",
-    "theme": "शब्द 91: गंगा कै संगि सलिता बिगरी",
-    "theme_en": "Shabad 91: Gangaa Kaai Sangai Salaitaa Baigaraee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 91)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 91)",
     "first_line": "गंगा कै संगि सलिता बिगरी ॥"
   },
   {
@@ -1090,8 +1090,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 92,
     "title": "शब्द 92: माथे तिलकु हथि माला बानां",
-    "theme": "शब्द 92: माथे तिलकु हथि माला बानां",
-    "theme_en": "Shabad 92: Maathae Tailakau Hathai Maalaa Baanaan",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 92)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 92)",
     "first_line": "माथे तिलकु हथि माला बानां ॥"
   },
   {
@@ -1102,8 +1102,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 93,
     "title": "शब्द 93: उलटि जाति कुल दोऊ बिसारी",
-    "theme": "शब्द 93: उलटि जाति कुल दोऊ बिसारी",
-    "theme_en": "Shabad 93: Ulatai Jaatai Kaula Daooo Baisaaraee",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 93)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 93)",
     "first_line": "उलटि जाति कुल दोऊ बिसारी ॥"
   },
   {
@@ -1114,8 +1114,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 94,
     "title": "शब्द 94: निरधन आदरु कोई न देइ",
-    "theme": "शब्द 94: निरधन आदरु कोई न देइ",
-    "theme_en": "Shabad 94: Nairadhana Aadarau Kaoee Na Daei",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 94)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 94)",
     "first_line": "निरधन आदरु कोई न देइ ॥"
   },
   {
@@ -1126,8 +1126,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 95,
     "title": "शब्द 95: सो मुलां जो मन सिउ लरै",
-    "theme": "शब्द 95: सो मुलां जो मन सिउ लरै",
-    "theme_en": "Shabad 95: Sao Maulaan Jao Mana Saiu Laraai",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 95)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 95)",
     "first_line": "सो मुलां जो मन सिउ लरै ॥"
   },
   {
@@ -1138,8 +1138,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 96,
     "title": "शब्द 96: जब लगु मेरी मेरी करै",
-    "theme": "शब्द 96: जब लगु मेरी मेरी करै",
-    "theme_en": "Shabad 96: Jaba Lagau Maeraee Maeraee Karaai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 96)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 96)",
     "first_line": "जब लगु मेरी मेरी करै ॥"
   },
   {
@@ -1150,8 +1150,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 97,
     "title": "शब्द 97: सभु कोई चलन कहत है ऊहां",
-    "theme": "शब्द 97: सभु कोई चलन कहत है ऊहां",
-    "theme_en": "Shabad 97: Sabhau Kaoee Chalana Kahata Haai Oohaan",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 97)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 97)",
     "first_line": "सभु कोई चलन कहत है ऊहां ॥"
   },
   {
@@ -1162,8 +1162,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 98,
     "title": "शब्द 98: गंग गुसाइनि गहिर ग्मभीर",
-    "theme": "शब्द 98: गंग गुसाइनि गहिर ग्मभीर",
-    "theme_en": "Shabad 98: Ganga Gausaainai Gahaira Gamabhaeera",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 98)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 98)",
     "first_line": "गंग गुसाइनि गहिर ग्मभीर ॥"
   },
   {
@@ -1174,8 +1174,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 99,
     "title": "शब्द 99: मउली धरती मउलिआ अकासु",
-    "theme": "शब्द 99: मउली धरती मउलिआ अकासु",
-    "theme_en": "Shabad 99: Maulaee Dharataee Maulaiaa Akaasau",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 99)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 99)",
     "first_line": "मउली धरती मउलिआ अकासु ॥"
   },
   {
@@ -1186,8 +1186,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 100,
     "title": "शब्द 100: पंडित जन माते पड़्हि पुरान",
-    "theme": "शब्द 100: पंडित जन माते पड़्हि पुरान",
-    "theme_en": "Shabad 100: Pandaita Jana Maatae Paड़hai Pauraana",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 100)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 100)",
     "first_line": "पंडित जन माते पड़्हि पुरान ॥"
   },
   {
@@ -1198,8 +1198,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 101,
     "title": "शब्द 101: प्रहलाद पठाए पड़न साल",
-    "theme": "शब्द 101: प्रहलाद पठाए पड़न साल",
-    "theme_en": "Shabad 101: Parahalaada Pathaae Paड़na Saala",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 101)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 101)",
     "first_line": "प्रहलाद पठाए पड़न साल ॥"
   },
   {
@@ -1210,8 +1210,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 102,
     "title": "शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे",
-    "theme": "शब्द 102: माता जूठी पिता भी जूठा जूठे ही फल लागे",
-    "theme_en": "Shabad 102: Maataa Jaoothaee Paitaa Bhaee Jaoothaa Jaoothae Haee",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 102)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 102)",
     "first_line": "माता जूठी पिता भी जूठा जूठे ही फल लागे ॥"
   },
   {
@@ -1222,8 +1222,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 103,
     "title": "शब्द 103: कहा नर गरबसि थोरी बात",
-    "theme": "शब्द 103: कहा नर गरबसि थोरी बात",
-    "theme_en": "Shabad 103: Kahaa Nara Garabasai Thaoraee Baata",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 103)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 103)",
     "first_line": "कहा नर गरबसि थोरी बात ॥"
   },
   {
@@ -1234,8 +1234,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 104,
     "title": "शब्द 104: राजास्रम मिति नही जानी तेरी",
-    "theme": "शब्द 104: राजास्रम मिति नही जानी तेरी",
-    "theme_en": "Shabad 104: Raajaasarama Maitai Nahaee Jaanaee Taeraee",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 104)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 104)",
     "first_line": "राजास्रम मिति नही जानी तेरी ॥"
   },
   {
@@ -1246,8 +1246,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 105,
     "title": "शब्द 105: हरि बिनु कउनु सहाई मन का",
-    "theme": "शब्द 105: हरि बिनु कउनु सहाई मन का",
-    "theme_en": "Shabad 105: Harai Bainau Kaunau Sahaaee Mana Kaa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 105)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 105)",
     "first_line": "हरि बिनु कउनु सहाई मन का ॥"
   },
   {
@@ -1258,8 +1258,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 106,
     "title": "शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा",
-    "theme": "शब्द 106: अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा",
-    "theme_en": "Shabad 106: Alahau Ekau Masaeetai Basatau Haai Avarau Mau",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 106)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 106)",
     "first_line": "अलहु एकु मसीति बसतु है अवरु मुलखु किसु केरा ॥"
   },
   {
@@ -1270,8 +1270,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 107,
     "title": "शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे",
-    "theme": "शब्द 107: अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे",
-    "theme_en": "Shabad 107: Avalai Alaha Naoorau Upaaiaa Kaudaratai Kae",
+    "theme": "अवलि अलह नूरु: कुदरत के सब बंदे और अखंड अद्वैत",
+    "theme_en": "First Allah Created the Primordial Light: All Beings Are Children of Nature",
     "first_line": "अवलि अलह नूरु उपाइआ कुदरति के सभ बंदे ॥"
   },
   {
@@ -1282,8 +1282,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 108,
     "title": "शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै",
-    "theme": "शब्द 108: बेद कतेब कहहु मत झूठे झूठा जो न बिचारै",
-    "theme_en": "Shabad 108: Baeda Kataeba Kahahau Mata Jhaoothae Jhaoothaa Jao",
+    "theme": "वेद-कतेब को झूठा मत कहो: झूठा वह है जो विचार नहीं करता",
+    "theme_en": "Call Not the Scriptures False: False Is He Who Contemplates Them Not",
     "first_line": "बेद कतेब कहहु मत झूठे झूठा जो न बिचारै ॥"
   },
   {
@@ -1294,8 +1294,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 109,
     "title": "शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई",
-    "theme": "शब्द 109: सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई",
-    "theme_en": "Shabad 109: Saunna Sandhaiaa Taeraee Daeva Daevaakara Adhapa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 109)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 109)",
     "first_line": "सुंन संधिआ तेरी देव देवाकर अधपति आदि समाई ॥"
   },
   {
@@ -1306,8 +1306,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 110,
     "title": "शब्द 110: कोऊ हरि समानि नही राजा ॥",
-    "theme": "शब्द 110: कोऊ हरि समानि नही राजा ॥",
-    "theme_en": "Shabad 110: Kaooo Harai Samaanai Nahaee Raajaa",
+    "theme": "हरि के समान कोई राजा नहीं: निर्धन को भूपति बनाने वाला",
+    "theme_en": "No Sovereign Equals Hari: Elevating the Destitute to Kingship",
     "first_line": "कोऊ हरि समानि नही राजा ॥"
   },
   {
@@ -1318,8 +1318,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 111,
     "title": "शब्द 111: राखि लेहु हम ते बिगरी",
-    "theme": "शब्द 111: राखि लेहु हम ते बिगरी",
-    "theme_en": "Shabad 111: Raakhai Laehau Hama Tae Baigaraee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 111)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 111)",
     "first_line": "राखि लेहु हम ते बिगरी ॥"
   },
   {
@@ -1330,8 +1330,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 112,
     "title": "शब्द 112: दरमादे ठाढे दरबारि",
-    "theme": "शब्द 112: दरमादे ठाढे दरबारि",
-    "theme_en": "Shabad 112: Daramaadae Thaadhae Darabaarai",
+    "theme": "दरमादे ठाढे दरबारि: याचक की करुण पुकार",
+    "theme_en": "Standing Destitute at the Court: The Beggar's Yearning for Grace",
     "first_line": "दरमादे ठाढे दरबारि ॥"
   },
   {
@@ -1342,8 +1342,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 113,
     "title": "शब्द 113: डंडा मुंद्रा खिंथा आधारी",
-    "theme": "शब्द 113: डंडा मुंद्रा खिंथा आधारी",
-    "theme_en": "Shabad 113: Dandaa Maundaraa Khainthaa Aadhaaraee",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 113)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 113)",
     "first_line": "डंडा मुंद्रा खिंथा आधारी ॥"
   },
   {
@@ -1354,8 +1354,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 114,
     "title": "शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे",
-    "theme": "शब्द 114: इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे",
-    "theme_en": "Shabad 114: Inahai Maaiaa Jagadaeesa Gausaaee Taumaharae",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 114)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 114)",
     "first_line": "इन्हि माइआ जगदीस गुसाई तुम्हरे चरन बिसारे ॥"
   },
   {
@@ -1366,8 +1366,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 115,
     "title": "शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप",
-    "theme": "शब्द 115: सरीर सरोवर भीतरे आछै कमल अनूप",
-    "theme_en": "Shabad 115: Saraeera Saraovara Bhaeetarae Aachhaai Kamala Anaoopa",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 115)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 115)",
     "first_line": "सरीर सरोवर भीतरे आछै कमल अनूप ॥"
   },
   {
@@ -1378,8 +1378,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 116,
     "title": "शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी",
-    "theme": "शब्द 116: जनम मरन का भ्रमु गइआ गोबिद लिव लागी",
-    "theme_en": "Shabad 116: Janama Marana Kaa Bharamau Gaiaa Gaobaida Laiva",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 116)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 116)",
     "first_line": "जनम मरन का भ्रमु गइआ गोबिद लिव लागी ॥"
   },
   {
@@ -1390,8 +1390,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 117,
     "title": "शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव",
-    "theme": "शब्द 117: चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव",
-    "theme_en": "Shabad 117: Charana Kamala Jaa Kaai Raidaai Basahai Sao Janau",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 117)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 117)",
     "first_line": "चरन कमल जा कै रिदै बसहि सो जनु किउ डोलै देव ॥"
   },
   {
@@ -1402,8 +1402,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 118,
     "title": "शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले",
-    "theme": "शब्द 118: आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले",
-    "theme_en": "Shabad 118: Aakaasai Gaganau Paataalai Gaganau Haai Chahau",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 118)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 118)",
     "first_line": "आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले ॥"
   },
   {
@@ -1414,8 +1414,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 119,
     "title": "शब्द 119: खसमु मरै तउ नारि न रोवै",
-    "theme": "शब्द 119: खसमु मरै तउ नारि न रोवै",
-    "theme_en": "Shabad 119: Khasamau Maraai Tau Naarai Na Raovaai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 119)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 119)",
     "first_line": "खसमु मरै तउ नारि न रोवै ॥"
   },
   {
@@ -1426,8 +1426,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 120,
     "title": "शब्द 120: ग्रिहि सोभा जा कै रे नाहि",
-    "theme": "शब्द 120: ग्रिहि सोभा जा कै रे नाहि",
-    "theme_en": "Shabad 120: Garaihai Saobhaa Jaa Kaai Rae Naahai",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 120)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 120)",
     "first_line": "ग्रिहि सोभा जा कै रे नाहि ॥"
   },
   {
@@ -1438,8 +1438,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 121,
     "title": "शब्द 121: जैसे मंदर महि बलहर ना ठाहरै",
-    "theme": "शब्द 121: जैसे मंदर महि बलहर ना ठाहरै",
-    "theme_en": "Shabad 121: Jaaisae Mandara Mahai Balahara Naa Thaaharaai",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 121)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 121)",
     "first_line": "जैसे मंदर महि बलहर ना ठाहरै ॥"
   },
   {
@@ -1450,8 +1450,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 122,
     "title": "शब्द 122: कूटनु सोइ जु मन कउ कूटै",
-    "theme": "शब्द 122: कूटनु सोइ जु मन कउ कूटै",
-    "theme_en": "Shabad 122: Kaootanau Saoi Jau Mana Kau Kaootaai",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 122)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 122)",
     "first_line": "कूटनु सोइ जु मन कउ कूटै ॥"
   },
   {
@@ -1462,8 +1462,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 123,
     "title": "शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे",
-    "theme": "शब्द 123: काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे",
-    "theme_en": "Shabad 123: Kaaiaa Kalaalanai Laahanai Maelau Gaura Kaa",
+    "theme": "काया कलालनि: अंतर में ज्ञान की शराब और रूहानी मस्ती",
+    "theme_en": "The Body as the Wine-Shop: Brewing the Nectar of the Word",
     "first_line": "काइआ कलालनि लाहनि मेलउ गुर का सबदु गुड़ु कीनु रे ॥"
   },
   {
@@ -1474,8 +1474,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 124,
     "title": "शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा",
-    "theme": "शब्द 124: गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा",
-    "theme_en": "Shabad 124: Gauड़u Karai Gaiaanau Dhaiaanau Karai Mahaooaa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 124)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 124)",
     "first_line": "गुड़ु करि गिआनु धिआनु करि महूआ भउ भाठी मन धारा ॥"
   },
   {
@@ -1486,8 +1486,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 125,
     "title": "शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी",
-    "theme": "शब्द 125: तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी",
-    "theme_en": "Shabad 125: Taoon Maerao Maerau Parabatau Sauaamaee Ota Ga",
+    "theme": "तूं मेरो मेरु परबतु: सुमेरु पर्वत की अटूट ओट",
+    "theme_en": "Thou Art My Mount Meru: Sheltered Beneath Thy Unshakable Height",
     "first_line": "तूं मेरो मेरु परबतु सुआमी ओट गही मै तेरी ॥"
   },
   {
@@ -1498,8 +1498,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 126,
     "title": "शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी",
-    "theme": "शब्द 126: संता मानउ दूता डानउ इह कुटवारी मेरी",
-    "theme_en": "Shabad 126: Santaa Maanau Daootaa Daanau Iha Kautavaaraee",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 126)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 126)",
     "first_line": "संता मानउ दूता डानउ इह कुटवारी मेरी ॥"
   },
   {
@@ -1510,8 +1510,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 127,
     "title": "शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ",
-    "theme": "शब्द 127: तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ",
-    "theme_en": "Shabad 127: Taravarau Ekau Ananta Daara Saakhaa Pauhapa Pa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 127)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 127)",
     "first_line": "तरवरु एकु अनंत डार साखा पुहप पत्र रस भरीआ ॥"
   },
   {
@@ -1522,8 +1522,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 128,
     "title": "शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ",
-    "theme": "शब्द 128: कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ",
-    "theme_en": "Shabad 128: Kavana Kaaja Sairajae Jaga Bhaeetarai Janamai Kava",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 128)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 128)",
     "first_line": "कवन काज सिरजे जग भीतरि जनमि कवन फलु पाइआ ॥"
   },
   {
@@ -1534,8 +1534,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 129,
     "title": "शब्द 129: जिह सिमरनि होइ मुकति दुआरु",
-    "theme": "शब्द 129: जिह सिमरनि होइ मुकति दुआरु",
-    "theme_en": "Shabad 129: Jaiha Saimaranai Haoi Maukatai Dauaarau",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 129)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 129)",
     "first_line": "जिह सिमरनि होइ मुकति दुआरु ॥"
   },
   {
@@ -1546,8 +1546,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 130,
     "title": "शब्द 130: बंधचि बंधनु पाइआ",
-    "theme": "शब्द 130: बंधचि बंधनु पाइआ",
-    "theme_en": "Shabad 130: Bandhachai Bandhanau Paaiaa",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 130)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 130)",
     "first_line": "बंधचि बंधनु पाइआ ॥"
   },
   {
@@ -1558,8 +1558,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 131,
     "title": "शब्द 131: चंदु सूरजु दुइ जोति सरूपु",
-    "theme": "शब्द 131: चंदु सूरजु दुइ जोति सरूपु",
-    "theme_en": "Shabad 131: Chandau Saoorajau Daui Jaotai Saraoopau",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 131)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 131)",
     "first_line": "चंदु सूरजु दुइ जोति सरूपु ॥"
   },
   {
@@ -1570,8 +1570,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 132,
     "title": "शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई",
-    "theme": "शब्द 132: दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई",
-    "theme_en": "Shabad 132: Daunaeeaa Hausaeeaara Baedaara Jaagata Mausaeeata",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 132)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 132)",
     "first_line": "दुनीआ हुसीआर बेदार जागत मुसीअत हउ रे भाई ॥"
   },
   {
@@ -1582,8 +1582,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 133,
     "title": "शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज",
-    "theme": "शब्द 133: रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज",
-    "theme_en": "Shabad 133: Raidhai Saidhai Jaa Kau Phauraee Taba Kaahaoo Sa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 133)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 133)",
     "first_line": "रिधि सिधि जा कउ फुरी तब काहू सिउ किआ काज ॥"
   },
   {
@@ -1594,8 +1594,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 134,
     "title": "शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु",
-    "theme": "शब्द 134: जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु",
-    "theme_en": "Shabad 134: Jau Taumaha Mao Kau Daoorai Karata Hau Tau",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 134)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 134)",
     "first_line": "जउ तुम्ह मो कउ दूरि करत हउ तउ तुम मुकति बतावहु ॥"
   },
   {
@@ -1606,8 +1606,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 135,
     "title": "शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े",
-    "theme": "शब्द 135: अनभउ किनै न देखिआ बैरागीअड़े",
-    "theme_en": "Shabad 135: Anabhau Kainaai Na Daekhaiaa Baairaagaeeaड़e",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 135)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 135)",
     "first_line": "अनभउ किनै न देखिआ बैरागीअड़े ॥"
   },
   {
@@ -1618,8 +1618,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 136,
     "title": "शब्द 136: रामु सिमरु पछुताहिगा मन",
-    "theme": "शब्द 136: रामु सिमरु पछुताहिगा मन",
-    "theme_en": "Shabad 136: Raamau Saimarau Pachhautaahaigaa Mana",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 136)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 136)",
     "first_line": "रामु सिमरु पछुताहिगा मन ॥"
   },
   {
@@ -1630,8 +1630,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 137,
     "title": "शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी",
-    "theme": "शब्द 137: किनही बनजिआ कांसी तांबा किनही लउग सुपारी",
-    "theme_en": "Shabad 137: Kainahaee Banajaiaa Kaansaee Taanbaa Kainahaee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 137)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 137)",
     "first_line": "किनही बनजिआ कांसी तांबा किनही लउग सुपारी ॥"
   },
   {
@@ -1642,8 +1642,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 138,
     "title": "शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ",
-    "theme": "शब्द 138: री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ",
-    "theme_en": "Shabad 138: Raee Kalavaarai Gavaarai Maoodha Matai Ulatao Pa",
+    "theme": "सहज समाधि, अनाहत नाद और आत्म-साक्षात्कार (शब्द 138)",
+    "theme_en": "Sahaja Absorption, Unstruck Celestial Melody, and Illumination (Shabad 138)",
     "first_line": "री कलवारि गवारि मूढ मति उलटो पवनु फिरावउ ॥"
   },
   {
@@ -1654,8 +1654,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 139,
     "title": "शब्द 139: इहु धनु मेरे हरि को नाउ",
-    "theme": "शब्द 139: इहु धनु मेरे हरि को नाउ",
-    "theme_en": "Shabad 139: Ihau Dhanau Maerae Harai Kao Naau",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 139)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 139)",
     "first_line": "इहु धनु मेरे हरि को नाउ ॥"
   },
   {
@@ -1666,8 +1666,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 140,
     "title": "शब्द 140: गुर सेवा ते भगति कमाई",
-    "theme": "शब्द 140: गुर सेवा ते भगति कमाई",
-    "theme_en": "Shabad 140: Gaura Saevaa Tae Bhagatai Kamaaee",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 140)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 140)",
     "first_line": "गुर सेवा ते भगति कमाई ॥"
   },
   {
@@ -1678,8 +1678,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 141,
     "title": "शब्द 141: सिव की पुरी बसै बुधि सारु",
-    "theme": "शब्द 141: सिव की पुरी बसै बुधि सारु",
-    "theme_en": "Shabad 141: Saiva Kaee Pauraee Basaai Baudhai Saarau",
+    "theme": "प्रभु-स्मरण, अनन्य भक्ति और आत्म-समर्पण (शब्द 141)",
+    "theme_en": "Divine Contemplation, Singleminded Devotion, and Surrender (Shabad 141)",
     "first_line": "सिव की पुरी बसै बुधि सारु ॥"
   },
   {
@@ -1690,8 +1690,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 142,
     "title": "शब्द 142: जल महि मीन माइआ के बेधे",
-    "theme": "शब्द 142: जल महि मीन माइआ के बेधे",
-    "theme_en": "Shabad 142: Jala Mahai Maeena Maaiaa Kae Baedhae",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 142)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 142)",
     "first_line": "जल महि मीन माइआ के बेधे ॥"
   },
   {
@@ -1702,8 +1702,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 143,
     "title": "शब्द 143: सतरि सैइ सलार है जा के",
-    "theme": "शब्द 143: सतरि सैइ सलार है जा के",
-    "theme_en": "Shabad 143: Satarai Saaii Salaara Haai Jaa Kae",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 143)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 143)",
     "first_line": "सतरि सैइ सलार है जा के ॥"
   },
   {
@@ -1714,8 +1714,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 144,
     "title": "शब्द 144: किउ लीजै गढु बंका भाई",
-    "theme": "शब्द 144: किउ लीजै गढु बंका भाई",
-    "theme_en": "Shabad 144: Kaiu Laeejaai Gadhau Bankaa Bhaaee",
+    "theme": "किउ लीजै गढु बंका भाई: मन रूपी दुर्ग की विजय",
+    "theme_en": "How to Conquer the Treacherous Fortress: The Soul Ascends the Battlements",
     "first_line": "किउ लीजै गढु बंका भाई ॥"
   },
   {
@@ -1726,8 +1726,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 145,
     "title": "शब्द 145: अगम द्रुगम गड़ि रचिओ बास",
-    "theme": "शब्द 145: अगम द्रुगम गड़ि रचिओ बास",
-    "theme_en": "Shabad 145: Agama Daraugama Gaड़i Rachaio Baasa",
+    "theme": "मृत्यु की अवश्यंभाविता और काल-भय से मुक्ति (शब्द 145)",
+    "theme_en": "Inevitability of Mortality and Overcoming Fear of Death (Shabad 145)",
     "first_line": "अगम द्रुगम गड़ि रचिओ बास ॥"
   },
   {
@@ -1738,8 +1738,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 146,
     "title": "शब्द 146: कोटि सूर जा कै परगास",
-    "theme": "शब्द 146: कोटि सूर जा कै परगास",
-    "theme_en": "Shabad 146: Kaotai Saoora Jaa Kaai Paragaasa",
+    "theme": "बाह्य आडंबर का खंडन और आंतरिक सत्य की खोज (शब्द 146)",
+    "theme_en": "Critique of Outer Ritualism and the Quest for Inner Truth (Shabad 146)",
     "first_line": "कोटि सूर जा कै परगास ॥"
   },
   {
@@ -1750,8 +1750,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 147,
     "title": "शब्द 147: जोइ खसमु है जाइआ",
-    "theme": "शब्द 147: जोइ खसमु है जाइआ",
-    "theme_en": "Shabad 147: Jaoi Khasamau Haai Jaaiaa",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 147)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 147)",
     "first_line": "जोइ खसमु है जाइआ ॥"
   },
   {
@@ -1762,8 +1762,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 148,
     "title": "शब्द 148: इसु तन मन मधे मदन चोर",
-    "theme": "शब्द 148: इसु तन मन मधे मदन चोर",
-    "theme_en": "Shabad 148: Isau Tana Mana Madhae Madana Chaora",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 148)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 148)",
     "first_line": "इसु तन मन मधे मदन चोर ॥"
   },
   {
@@ -1774,8 +1774,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 149,
     "title": "शब्द 149: नाइकु एकु बनजारे पाच",
-    "theme": "शब्द 149: नाइकु एकु बनजारे पाच",
-    "theme_en": "Shabad 149: Naaikau Ekau Banajaarae Paacha",
+    "theme": "माया का भ्रम और सांसारिक आसक्ति से मुक्ति (शब्द 149)",
+    "theme_en": "Transcending the Snares of Maya and Worldly Delusion (Shabad 149)",
     "first_line": "नाइकु एकु बनजारे पाच ॥"
   },
   {
@@ -1786,8 +1786,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "शब्द",
     "id": 150,
     "title": "शब्द 150: सुरह की जैसी तेरी चाल",
-    "theme": "शब्द 150: सुरह की जैसी तेरी चाल",
-    "theme_en": "Shabad 150: Sauraha Kaee Jaaisaee Taeraee Chaala",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा का प्रभाव (शब्द 150)",
+    "theme_en": "Grace of the True Master and the Transformative Word (Shabad 150)",
     "first_line": "सुरह की जैसी तेरी चाल ॥"
   },
   {
@@ -1798,8 +1798,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 1,
     "title": "सलोक 1: कबीर मेरी सिमरनी रसना ऊपरि रामु ॥...",
-    "theme": "सलोक 1: कबीर मेरी सिमरनी रसना ऊपरि रामु ॥...",
-    "theme_en": "Salok 1: Kabaeera Maeraee Saimaranaee Rasanaa Ooparai Raama",
+    "theme": "रसना पर नाम-माला और संतों का परम विश्राम",
+    "theme_en": "The Tongue as the Rosary of Ram and the Rest of Saints",
     "first_line": "कबीर मेरी सिमरनी रसना ऊपरि रामु ॥"
   },
   {
@@ -1810,8 +1810,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 2,
     "title": "सलोक 2: कबीर मेरी जाति कउ सभु को हसनेहारु ॥...",
-    "theme": "सलोक 2: कबीर मेरी जाति कउ सभु को हसनेहारु ॥...",
-    "theme_en": "Salok 2: Kabaeera Maeraee Jaatai Kau Sabhau Kao Hasanaeha",
+    "theme": "निम्न जाति का उपहास और सृजनहार की महिमा",
+    "theme_en": "Mockery of Low Caste and Glory of Remembering the Creator",
     "first_line": "कबीर मेरी जाति कउ सभु को हसनेहारु ॥"
   },
   {
@@ -1822,8 +1822,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 3,
     "title": "सलोक 3: कबीर डगमग किआ करहि कहा डुलावहि जीउ ...",
-    "theme": "सलोक 3: कबीर डगमग किआ करहि कहा डुलावहि जीउ ...",
-    "theme_en": "Salok 3: Kabaeera Dagamaga Kaiaa Karahai Kahaa Daulaavahai",
+    "theme": "चित्त का डोलना और राम-नाम का सर्व-सुख",
+    "theme_en": "Waver Not in Doubt: Drink the Supreme Nectar of Ram",
     "first_line": "कबीर डगमग किआ करहि कहा डुलावहि जीउ ॥"
   },
   {
@@ -1834,8 +1834,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 4,
     "title": "सलोक 4: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा...",
-    "theme": "सलोक 4: कबीर कंचन के कुंडल बने ऊपरि लाल जड़ा...",
-    "theme_en": "Salok 4: Kabaeera Kanchana Kae Kaundala Banae Ooparai Laa",
+    "theme": "कंचन-कुंडल का व्यर्थ आडंबर और नाम-विहीन देह",
+    "theme_en": "Golden Earrings with Rubies Are Burnt Ears without the Name",
     "first_line": "कबीर कंचन के कुंडल बने ऊपरि लाल जड़ाउ ॥"
   },
   {
@@ -1846,8 +1846,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 5,
     "title": "सलोक 5: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ...",
-    "theme": "सलोक 5: कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ...",
-    "theme_en": "Salok 5: Kabaeera Aisaa Ekau Aadhau Jao Jaeevata Mairataka",
+    "theme": "जीवत-मृतक की दुर्लभ अवस्था और सर्वत्र प्रभु-दर्शन",
+    "theme_en": "Dead to the Ego While Alive: Beholding the One Everywhere",
     "first_line": "कबीर ऐसा एकु आधु जो जीवत मिरतकु होइ ॥"
   },
   {
@@ -1858,8 +1858,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 6,
     "title": "सलोक 6: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥...",
-    "theme": "सलोक 6: कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥...",
-    "theme_en": "Salok 6: Kabaeera Jaa Daina Hau Maooaa Paachhaai Bhaiaa Ana",
+    "theme": "अहंकार की मृत्यु और परमानंद का प्राकट्य",
+    "theme_en": "The Day Ego Perished, Boundless Bliss Awoke",
     "first_line": "कबीर जा दिन हउ मूआ पाछै भइआ अनंदु ॥"
   },
   {
@@ -1870,8 +1870,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 7,
     "title": "सलोक 7: कबीर सभ ते हम बुरे हम तजि भलो सभु क...",
-    "theme": "सलोक 7: कबीर सभ ते हम बुरे हम तजि भलो सभु क...",
-    "theme_en": "Salok 7: Kabaeera Sabha Tae Hama Baurae Hama Tajai Bhalao",
+    "theme": "परम विनम्रता और आत्म-निरीक्षण",
+    "theme_en": "I Am the Lowest of All: True Friendship of the Humble",
     "first_line": "कबीर सभ ते हम बुरे हम तजि भलो सभु कोइ ॥"
   },
   {
@@ -1882,8 +1882,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 8,
     "title": "सलोक 8: कबीर आई मुझहि पहि अनिक करे करि भेस ...",
-    "theme": "सलोक 8: कबीर आई मुझहि पहि अनिक करे करि भेस ...",
-    "theme_en": "Salok 8: Kabaeera Aaee Maujhahai Pahai Anaika Karae Karai",
+    "theme": "माया के मोहक रूप और सद्गुरु की रक्षा",
+    "theme_en": "Maya in Myriad Disguises Bows before the Master",
     "first_line": "कबीर आई मुझहि पहि अनिक करे करि भेस ॥"
   },
   {
@@ -1894,8 +1894,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 9,
     "title": "सलोक 9: कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥...",
-    "theme": "सलोक 9: कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥...",
-    "theme_en": "Salok 9: Kabaeera Saoee Maaraeeai Jaiha Maooai Saukhau Hao",
+    "theme": "अहंकार और वासना का वध",
+    "theme_en": "Slay Only That Whose Death Brings Universal Joy",
     "first_line": "कबीर सोई मारीऐ जिह मूऐ सुखु होइ ॥"
   },
   {
@@ -1906,8 +1906,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 10,
     "title": "सलोक 10: कबीर राती होवहि कारीआ कारे ऊभे जंत ...",
-    "theme": "सलोक 10: कबीर राती होवहि कारीआ कारे ऊभे जंत ...",
-    "theme_en": "Salok 10: Kabaeera Raataee Haovahai Kaaraeeaa Kaarae Oobhae",
+    "theme": "अज्ञान की काली रात्रि और दुष्टों का दमन",
+    "theme_en": "Dark Is the Night of Ignorance: The Lord Smites the Wicked",
     "first_line": "कबीर राती होवहि कारीआ कारे ऊभे जंत ॥"
   },
   {
@@ -1918,8 +1918,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 11,
     "title": "सलोक 11: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक ...",
-    "theme": "सलोक 11: कबीर चंदन का बिरवा भला बेड़्हिओ ढाक ...",
-    "theme_en": "Salok 11: Kabaeera Chandana Kaa Bairavaa Bhalaa Baeड़haio",
+    "theme": "चंदन का पावन संग और पलाश का सुगंधित होना",
+    "theme_en": "The Sandalwood Tree Transforms the Surrounding Forest",
     "first_line": "कबीर चंदन का बिरवा भला बेड़्हिओ ढाक पलास ॥"
   },
   {
@@ -1930,8 +1930,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 12,
     "title": "सलोक 12: कबीर बांसु बडाई बूडिआ इउ मत डूबहु क...",
-    "theme": "सलोक 12: कबीर बांसु बडाई बूडिआ इउ मत डूबहु क...",
-    "theme_en": "Salok 12: Kabaeera Baansau Badaaee Baoodaiaa Iu Mata Daoo",
+    "theme": "बांस का खोखला अभिमान और सुगंध-विहीनता",
+    "theme_en": "The Hollow Pride of Bamboo: Barren Beside Sandalwood",
     "first_line": "कबीर बांसु बडाई बूडिआ इउ मत डूबहु कोइ ॥"
   },
   {
@@ -1942,8 +1942,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 13,
     "title": "सलोक 13: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल...",
-    "theme": "सलोक 13: कबीर दीनु गवाइआ दुनी सिउ दुनी न चाल...",
-    "theme_en": "Salok 13: Kabaeera Daeenau Gavaaiaa Daunaee Saiu Daunaee",
+    "theme": "संसार के पीछे धर्म की हानि और अपने पैर पर कुल्हाड़ी",
+    "theme_en": "Striking an Axe upon One's Own Feet for Worldly Praise",
     "first_line": "कबीर दीनु गवाइआ दुनी सिउ दुनी न चाली साथि ॥"
   },
   {
@@ -1954,8 +1954,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 14,
     "title": "सलोक 14: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥...",
-    "theme": "सलोक 14: कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥...",
-    "theme_en": "Salok 14: Kabaeera Jaha Jaha Hau Phairaio Kautaka Thaao Tha",
+    "theme": "राम-स्नेही के बिना संसार का उजड़ापन",
+    "theme_en": "Without the Beloved's Devotee, the Entire Cosmos Is a Wilderness",
     "first_line": "कबीर जह जह हउ फिरिओ कउतक ठाओ ठाइ ॥"
   },
   {
@@ -1966,8 +1966,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 15,
     "title": "सलोक 15: कबीर संतन की झुंगीआ भली भठि कुसती ग...",
-    "theme": "सलोक 15: कबीर संतन की झुंगीआ भली भठि कुसती ग...",
-    "theme_en": "Salok 15: Kabaeera Santana Kaee Jhaungaeeaa Bhalaee Bhathai Kau",
+    "theme": "संतों की टूटी झोपड़ी बनाम प्रभु-विहीन महल",
+    "theme_en": "Better the Saint's Humble Thatched Hut than Palaces Devoid of God",
     "first_line": "कबीर संतन की झुंगीआ भली भठि कुसती गाउ ॥"
   },
   {
@@ -1978,8 +1978,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 16,
     "title": "सलोक 16: कबीर संत मूए किआ रोईऐ जो अपुने ग्रि...",
-    "theme": "सलोक 16: कबीर संत मूए किआ रोईऐ जो अपुने ग्रि...",
-    "theme_en": "Salok 16: Kabaeera Santa Maooe Kaiaa Raoeeai Jao Apaunae",
+    "theme": "संत की अमर मुक्ति और साक्त का भटकाव",
+    "theme_en": "Weep Not for the Saint Returning Home, Weep for the Reborn Sceptic",
     "first_line": "कबीर संत मूए किआ रोईऐ जो अपुने ग्रिहि जाइ ॥"
   },
   {
@@ -1990,8 +1990,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 17,
     "title": "सलोक 17: कबीर साकतु ऐसा है जैसी लसन की खानि ...",
-    "theme": "सलोक 17: कबीर साकतु ऐसा है जैसी लसन की खानि ...",
-    "theme_en": "Salok 17: Kabaeera Saakatau Aisaa Haai Jaaisaee Lasana Kaee",
+    "theme": "साक्त की लहसुन जैसी दुर्गंध",
+    "theme_en": "The Godless Sceptic Is like an Incurable Store of Garlic",
     "first_line": "कबीर साकतु ऐसा है जैसी लसन की खानि ॥"
   },
   {
@@ -2002,8 +2002,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 18,
     "title": "सलोक 18: कबीर माइआ डोलनी पवनु झकोलनहारु ॥...",
-    "theme": "सलोक 18: कबीर माइआ डोलनी पवनु झकोलनहारु ॥...",
-    "theme_en": "Salok 18: Kabaeera Maaiaa Daolanaee Pavanau Jhakaolanahaarau",
+    "theme": "माया की मथानी और सार-मक्खन का आस्वादन",
+    "theme_en": "Maya as the Churning Pot: Saints Feast upon the Butter",
     "first_line": "कबीर माइआ डोलनी पवनु झकोलनहारु ॥"
   },
   {
@@ -2014,8 +2014,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 19,
     "title": "सलोक 19: कबीर माइआ डोलनी पवनु वहै हिव धार ॥...",
-    "theme": "सलोक 19: कबीर माइआ डोलनी पवनु वहै हिव धार ॥...",
-    "theme_en": "Salok 19: Kabaeera Maaiaa Daolanaee Pavanau Vahaai Haiva Dha",
+    "theme": "शीतल साधना का मंथन और रूहानी फल",
+    "theme_en": "Churning with Serene Discipline: The Harvest of Truth",
     "first_line": "कबीर माइआ डोलनी पवनु वहै हिव धार ॥"
   },
   {
@@ -2026,8 +2026,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 20,
     "title": "सलोक 20: कबीर माइआ चोरटी मुसि मुसि लावै हाटि...",
-    "theme": "सलोक 20: कबीर माइआ चोरटी मुसि मुसि लावै हाटि...",
-    "theme_en": "Salok 20: Kabaeera Maaiaa Chaorataee Mausai Mausai Laavaai",
+    "theme": "माया चोरटी और कबीर की सजगता",
+    "theme_en": "Maya the Master Thief Plunders All, but Spares Awakened Kabir",
     "first_line": "कबीर माइआ चोरटी मुसि मुसि लावै हाटि ॥"
   },
   {
@@ -2038,8 +2038,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 21,
     "title": "सलोक 21: कबीर सूखु न एंह जुगि करहि जु बहुतै ...",
-    "theme": "सलोक 21: कबीर सूखु न एंह जुगि करहि जु बहुतै ...",
-    "theme_en": "Salok 21: Kabaeera Saookhau Na Enha Jaugai Karahai Jau Ba",
+    "theme": "अनेकों मित्रों का भ्रम और एक प्रभु से नित्य सुख",
+    "theme_en": "Futility of Many Worldly Friends: Eternal Peace in the One",
     "first_line": "कबीर सूखु न एंह जुगि करहि जु बहुतै मीत ॥"
   },
   {
@@ -2050,8 +2050,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 22,
     "title": "सलोक 22: कबीर जिसु मरने ते जगु डरै मेरे मनि ...",
-    "theme": "सलोक 22: कबीर जिसु मरने ते जगु डरै मेरे मनि ...",
-    "theme_en": "Salok 22: Kabaeera Jaisau Maranae Tae Jagau Daraai Maerae",
+    "theme": "मृत्यु का आनंद और पूर्ण परमानंद",
+    "theme_en": "The Ecstasy of Spiritual Dying: Attaining Supreme Bliss",
     "first_line": "कबीर जिसु मरने ते जगु डरै मेरे मनि आनंदु ॥"
   },
   {
@@ -2062,8 +2062,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 23,
     "title": "सलोक 23: राम पदारथु पाइ कै कबीरा गांठि न खोल...",
-    "theme": "सलोक 23: राम पदारथु पाइ कै कबीरा गांठि न खोल...",
-    "theme_en": "Salok 23: Raama Padaarathau Paai Kaai Kabaeeraa Gaanthai",
+    "theme": "राम-रत्न की अनमोलता और अपात्रों से गोपनीयता",
+    "theme_en": "The Inestimable Jewel of Ram: Open Not the Bundle Before Fools",
     "first_line": "राम पदारथु पाइ कै कबीरा गांठि न खोल्ह ॥"
   },
   {
@@ -2074,8 +2074,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 24,
     "title": "सलोक 24: कबीर ता सिउ प्रीति करि जा को ठाकुरु...",
-    "theme": "सलोक 24: कबीर ता सिउ प्रीति करि जा को ठाकुरु...",
-    "theme_en": "Salok 24: Kabaeera Taa Saiu Paraeetai Karai Jaa Kao Tha",
+    "theme": "राम के अनन्य सेवक से प्रीति और नश्वर राजा",
+    "theme_en": "Love the Servant of Ram: Worldly Kings Are of No Avail",
     "first_line": "कबीर ता सिउ प्रीति करि जा को ठाकुरु रामु ॥"
   },
   {
@@ -2086,8 +2086,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 25,
     "title": "सलोक 25: कबीर प्रीति इक सिउ कीए आन दुबिधा जा...",
-    "theme": "सलोक 25: कबीर प्रीति इक सिउ कीए आन दुबिधा जा...",
-    "theme_en": "Salok 25: Kabaeera Paraeetai Ika Saiu Kaeee Aana Daubai",
+    "theme": "एक से प्रीति और बाह्य वेश की निरर्थकता",
+    "theme_en": "Loving the One Erases Doubt: Matted Locks or Shaved Head Matter Not",
     "first_line": "कबीर प्रीति इक सिउ कीए आन दुबिधा जाइ ॥"
   },
   {
@@ -2098,8 +2098,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 26,
     "title": "सलोक 26: कबीर जगु काजल की कोठरी अंध परे तिस ...",
-    "theme": "सलोक 26: कबीर जगु काजल की कोठरी अंध परे तिस ...",
-    "theme_en": "Salok 26: Kabaeera Jagau Kaajala Kaee Kaotharaee Andha Parae",
+    "theme": "काजल की कोठरी रूपी संसार और निर्लिप्तता",
+    "theme_en": "The World Is a Chamber of Soot: Blessed Are Those Who Emerge Clean",
     "first_line": "कबीर जगु काजल की कोठरी अंध परे तिस माहि ॥"
   },
   {
@@ -2110,8 +2110,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 27,
     "title": "सलोक 27: कबीर इहु तनु जाइगा सकहु त लेहु बहोर...",
-    "theme": "सलोक 27: कबीर इहु तनु जाइगा सकहु त लेहु बहोर...",
-    "theme_en": "Salok 27: Kabaeera Ihau Tanau Jaaigaa Sakahau Ta Laehau",
+    "theme": "नश्वर देह का विनाश और नंगे पैर गमन",
+    "theme_en": "This Body Shall Pass: The Wealthiest Departed Barefoot",
     "first_line": "कबीर इहु तनु जाइगा सकहु त लेहु बहोरि ॥"
   },
   {
@@ -2122,8 +2122,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 28,
     "title": "सलोक 28: कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥...",
-    "theme": "सलोक 28: कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥...",
-    "theme_en": "Salok 28: Kabaeera Ihau Tanau Jaaigaa Kavanaai Maaragai",
+    "theme": "देह का सदुपयोग: साधु-संगत और हरि-गुण",
+    "theme_en": "Employ This Perishing Clay in Holy Fellowship or Divine Song",
     "first_line": "कबीर इहु तनु जाइगा कवनै मारगि लाइ ॥"
   },
   {
@@ -2134,8 +2134,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 29,
     "title": "सलोक 29: कबीर मरता मरता जगु मूआ मरि भी न जान...",
-    "theme": "सलोक 29: कबीर मरता मरता जगु मूआ मरि भी न जान...",
-    "theme_en": "Salok 29: Kabaeera Marataa Marataa Jagau Maooaa Marai Bhaee",
+    "theme": "जीवत-मरण की कला और अमर पद",
+    "theme_en": "The Art of Dying to the Ego: Dying Thus One Dies No More",
     "first_line": "कबीर मरता मरता जगु मूआ मरि भी न जानिआ कोइ ॥"
   },
   {
@@ -2146,8 +2146,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 30,
     "title": "सलोक 30: कबीर मानस जनमु दुल्मभु है होइ न बार...",
-    "theme": "सलोक 30: कबीर मानस जनमु दुल्मभु है होइ न बार...",
-    "theme_en": "Salok 30: Kabaeera Maanasa Janamau Daulamabhau Haai Haoi",
+    "theme": "दुर्लभ मानव जन्म और पका हुआ फल",
+    "theme_en": "Rare Human Birth: The Fallen Fruit Returns Not to the Bough",
     "first_line": "कबीर मानस जनमु दुल्मभु है होइ न बारै बार ॥"
   },
   {
@@ -2158,8 +2158,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 31,
     "title": "सलोक 31: कबीरा तुही कबीरु तू तेरो नाउ कबीरु ...",
-    "theme": "सलोक 31: कबीरा तुही कबीरु तू तेरो नाउ कबीरु ...",
-    "theme_en": "Salok 31: Kabaeeraa Tauhaee Kabaeerau Taoo Taerao Naau Ka",
+    "theme": "तू ही कबीर और देह-अभिमान का त्याग",
+    "theme_en": "Thou Alone Art Kabir: Ram-Jewel Found When Body Is Renounced",
     "first_line": "कबीरा तुही कबीरु तू तेरो नाउ कबीरु ॥"
   },
   {
@@ -2170,8 +2170,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 32,
     "title": "सलोक 32: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ...",
-    "theme": "सलोक 32: कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ...",
-    "theme_en": "Salok 32: Kabaeera Jhankhau Na Jhankhaeeai Taumarao Kahaio Na",
+    "theme": "व्यर्थ विलाप का निषेध और करीम का अटल विधान",
+    "theme_en": "Grieve Not in Vain: The Decrees of the Merciful Lord Cannot Be Erased",
     "first_line": "कबीर झंखु न झंखीऐ तुमरो कहिओ न होइ ॥"
   },
   {
@@ -2182,8 +2182,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 33,
     "title": "सलोक 33: कबीर कसउटी राम की झूठा टिकै न कोइ ॥...",
-    "theme": "सलोक 33: कबीर कसउटी राम की झूठा टिकै न कोइ ॥...",
-    "theme_en": "Salok 33: Kabaeera Kasautaee Raama Kaee Jhaoothaa Taikaai Na",
+    "theme": "राम की कसौटी और मरि-जीवा साधक",
+    "theme_en": "The Touchstone of Ram: Only the Self-Sacrificing Endures",
     "first_line": "कबीर कसउटी राम की झूठा टिकै न कोइ ॥"
   },
   {
@@ -2194,8 +2194,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 34,
     "title": "सलोक 34: कबीर ऊजल पहिरहि कापरे पान सुपारी खा...",
-    "theme": "सलोक 34: कबीर ऊजल पहिरहि कापरे पान सुपारी खा...",
-    "theme_en": "Salok 34: Kabaeera Oojala Pahairahai Kaaparae Paana Saupaa",
+    "theme": "श्वेत वस्त्र, पान-सुपारी और नाम-विहीन यम-दंड",
+    "theme_en": "Spotless Robes and Betel-Nuts: Bound to the Realm of Death without the Name",
     "first_line": "कबीर ऊजल पहिरहि कापरे पान सुपारी खाहि ॥"
   },
   {
@@ -2206,8 +2206,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 35,
     "title": "सलोक 35: कबीर बेड़ा जरजरा फूटे छेंक हजार ॥...",
-    "theme": "सलोक 35: कबीर बेड़ा जरजरा फूटे छेंक हजार ॥...",
-    "theme_en": "Salok 35: Kabaeera Baeड़a Jarajaraa Phaootae Chhaenka Hajaara",
+    "theme": "हजार छेदों वाली जर्जर नाव और सिर का भार",
+    "theme_en": "The Leaking Vessel of a Thousand Holes: The Light-Burdened Cross Over",
     "first_line": "कबीर बेड़ा जरजरा फूटे छेंक हजार ॥"
   },
   {
@@ -2218,8 +2218,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 36,
     "title": "सलोक 36: कबीर हाड जरे जिउ लाकरी केस जरे जिउ ...",
-    "theme": "सलोक 36: कबीर हाड जरे जिउ लाकरी केस जरे जिउ ...",
-    "theme_en": "Salok 36: Kabaeera Haada Jarae Jaiu Laakaraee Kaesa Jarae",
+    "theme": "लकड़ी जैसी हड्डियां, घास जैसे केश और कबीर की उदासी",
+    "theme_en": "Bones Burn like Firewood, Hair like Dry Grass: Kabir's Detachment",
     "first_line": "कबीर हाड जरे जिउ लाकरी केस जरे जिउ घासु ॥"
   },
   {
@@ -2230,8 +2230,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 37,
     "title": "सलोक 37: कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥...",
-    "theme": "सलोक 37: कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥...",
-    "theme_en": "Salok 37: Kabaeera Garabau Na Kaeejaeeai Chaama Lapaetae Haa",
+    "theme": "चमड़े से लिपटी हड्डियों का गर्व और धूल में दफन",
+    "theme_en": "Pride Not in Skin-Wrapped Bones: Monarchs Lie Buried in the Dirt",
     "first_line": "कबीर गरबु न कीजीऐ चाम लपेटे हाड ॥"
   },
   {
@@ -2242,8 +2242,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 38,
     "title": "सलोक 38: कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥...",
-    "theme": "सलोक 38: कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥...",
-    "theme_en": "Salok 38: Kabaeera Garabau Na Kaeejaeeai Oochaa Daekhai Avaa",
+    "theme": "ऊंचे महलों का अभिमान और कब्र पर उगती घास",
+    "theme_en": "Boast Not of Towering Palaces: Tomorrow Wild Grass Shall Sprout Over Thee",
     "first_line": "कबीर गरबु न कीजीऐ ऊचा देखि अवासु ॥"
   },
   {
@@ -2254,8 +2254,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 39,
     "title": "सलोक 39: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥...",
-    "theme": "सलोक 39: कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥...",
-    "theme_en": "Salok 39: Kabaeera Garabau Na Kaeejaeeai Rankau Na Hasaeeai",
+    "theme": "दीन-रंक का उपहास न करना और समुद्र में नाव",
+    "theme_en": "Mock Not the Poor Pauper: Thy Own Boat Is Still upon the Waves",
     "first_line": "कबीर गरबु न कीजीऐ रंकु न हसीऐ कोइ ॥"
   },
   {
@@ -2266,8 +2266,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 40,
     "title": "सलोक 40: कबीर गरबु न कीजीऐ देही देखि सुरंग ॥...",
-    "theme": "सलोक 40: कबीर गरबु न कीजीऐ देही देखि सुरंग ॥...",
-    "theme_en": "Salok 40: Kabaeera Garabau Na Kaeejaeeai Daehaee Daekhai Sau",
+    "theme": "सुंदर देह का त्याग और सर्प की केंचुल",
+    "theme_en": "This Fair Body Cast Off like a Serpent's Sloughed Skin",
     "first_line": "कबीर गरबु न कीजीऐ देही देखि सुरंग ॥"
   },
   {
@@ -2278,8 +2278,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 41,
     "title": "सलोक 41: कबीर लूटना है त लूटि लै राम नाम है ...",
-    "theme": "सलोक 41: कबीर लूटना है त लूटि लै राम नाम है ...",
-    "theme_en": "Salok 41: Kabaeera Laootanaa Haai Ta Laootai Laai Raama Naa",
+    "theme": "राम-नाम की पावन लूट और अंतिम पश्चाताप",
+    "theme_en": "Plunder the Plunder of Ram's Name: Regret Follows Death",
     "first_line": "कबीर लूटना है त लूटि लै राम नाम है लूटि ॥"
   },
   {
@@ -2290,8 +2290,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 42,
     "title": "सलोक 42: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै ...",
-    "theme": "सलोक 42: कबीर ऐसा कोई न जनमिओ अपनै घरि लावै ...",
-    "theme_en": "Salok 42: Kabaeera Aisaa Kaoee Na Janamaio Apanaai Gharai",
+    "theme": "अपने घर में आग लगाना और पांचों विकारों का दहन",
+    "theme_en": "Set Fire to Thy Worldly House: Incinerate the Five Adversaries",
     "first_line": "कबीर ऐसा कोई न जनमिओ अपनै घरि लावै आगि ॥"
   },
   {
@@ -2302,8 +2302,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 43,
     "title": "सलोक 43: को है लरिका बेचई लरिकी बेचै कोइ ॥...",
-    "theme": "सलोक 43: को है लरिका बेचई लरिकी बेचै कोइ ॥...",
-    "theme_en": "Salok 43: Kao Haai Laraikaa Baechaee Laraikaee Baechaai Kao",
+    "theme": "संसार के पुत्र-पुत्री का व्यापार और कबीर की रूहानी साझेदारी",
+    "theme_en": "Who Sells His Son and Daughter to Partner with Kabir in Hari's Trade",
     "first_line": "को है लरिका बेचई लरिकी बेचै कोइ ॥"
   },
   {
@@ -2314,8 +2314,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 44,
     "title": "सलोक 44: कबीर इह चेतावनी मत सहसा रहि जाइ ॥...",
-    "theme": "सलोक 44: कबीर इह चेतावनी मत सहसा रहि जाइ ॥...",
-    "theme_en": "Salok 44: Kabaeera Iha Chaetaavanaee Mata Sahasaa Rahai Jaa",
+    "theme": "चेतावनी और पाप-भोगों का गुड़ रूपी विष",
+    "theme_en": "Warning of the Soul: The Sweet Jaggery of Past Pleasures",
     "first_line": "कबीर इह चेतावनी मत सहसा रहि जाइ ॥"
   },
   {
@@ -2326,8 +2326,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 45,
     "title": "सलोक 45: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ...",
-    "theme": "सलोक 45: कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भ...",
-    "theme_en": "Salok 45: Kabaeera Maai Jaanaio Paड़ibao Bhalao Paड़ibae",
+    "theme": "विद्या, योग और राम-भक्ति का अटल संकल्प",
+    "theme_en": "Scholarly Learning and Yoga: I Will Not Forsake Ram's Devotion",
     "first_line": "कबीर मै जानिओ पड़िबो भलो पड़िबे सिउ भल जोगु ॥"
   },
   {
@@ -2338,8 +2338,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 46,
     "title": "सलोक 46: कबीर लोगु कि निंदै बपुड़ा जिह मनि ना...",
-    "theme": "सलोक 46: कबीर लोगु कि निंदै बपुड़ा जिह मनि ना...",
-    "theme_en": "Salok 46: Kabaeera Laogau Kai Naindaai Bapauड़a Jaiha Ma",
+    "theme": "अज्ञानी लोक-निंदा की उपेक्षा और राम में लीनता",
+    "theme_en": "Ignorant Worldly Slander Matters Not: Kabir Revels in Ram",
     "first_line": "कबीर लोगु कि निंदै बपुड़ा जिह मनि नाही गिआनु ॥"
   },
   {
@@ -2350,8 +2350,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 47,
     "title": "सलोक 47: कबीर परदेसी कै घाघरै चहु दिसि लागी ...",
-    "theme": "सलोक 47: कबीर परदेसी कै घाघरै चहु दिसि लागी ...",
-    "theme_en": "Salok 47: Kabaeera Paradaesaee Kaai Ghaagharaai Chahau Daisai",
+    "theme": "परदेशी की गुदड़ी में आग और अखंड चेतना",
+    "theme_en": "Fire Consumes the Pilgrim's Patchwork Robe, but the Sacred Thread Unhurt",
     "first_line": "कबीर परदेसी कै घाघरै चहु दिसि लागी आगि ॥"
   },
   {
@@ -2362,8 +2362,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 48,
     "title": "सलोक 48: कबीर खिंथा जलि कोइला भई खापरु फूट म...",
-    "theme": "सलोक 48: कबीर खिंथा जलि कोइला भई खापरु फूट म...",
-    "theme_en": "Salok 48: Kabaeera Khainthaa Jalai Kaoilaa Bhaee Khaaparau",
+    "theme": "जोगी का खप्पर फूटना और भस्म की स्थिरता",
+    "theme_en": "The Begging Bowl Shattered, the Ascetic Departed, Ashes Remain",
     "first_line": "कबीर खिंथा जलि कोइला भई खापरु फूट मफूट ॥"
   },
   {
@@ -2374,8 +2374,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 49,
     "title": "सलोक 49: कबीर थोरै जलि माछुली झीवरि मेलिओ जा...",
-    "theme": "सलोक 49: कबीर थोरै जलि माछुली झीवरि मेलिओ जा...",
-    "theme_en": "Salok 49: Kabaeera Thaoraai Jalai Maachhaulaee Jhaeevarai Maela",
+    "theme": "कम जल की मछली, धीवर का जाल और समुद्र का संभलना",
+    "theme_en": "Fish in Shallow Waters Entangled in the Net: Seek the Deep Ocean",
     "first_line": "कबीर थोरै जलि माछुली झीवरि मेलिओ जालु ॥"
   },
   {
@@ -2386,8 +2386,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 50,
     "title": "सलोक 50: कबीर समुंदु न छोडीऐ जउ अति खारो होइ...",
-    "theme": "सलोक 50: कबीर समुंदु न छोडीऐ जउ अति खारो होइ...",
-    "theme_en": "Salok 50: Kabaeera Samaundau Na Chhaodaeeai Jau Atai Khaara",
+    "theme": "समुद्र का न त्यागना और पोखर-पोखर की भटकाव",
+    "theme_en": "Abandon Not the Ocean: None Praises Wandering from Pond to Pond",
     "first_line": "कबीर समुंदु न छोडीऐ जउ अति खारो होइ ॥"
   },
   {
@@ -2398,8 +2398,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 51,
     "title": "सलोक 51: कबीर निगुसांएं बहि गए थांघी नाही को...",
-    "theme": "सलोक 51: कबीर निगुसांएं बहि गए थांघी नाही को...",
-    "theme_en": "Salok 51: Kabaeera Naigausaanen Bahai Gae Thaanghaee Naa",
+    "theme": "बिना गुरु के बह जाना और दीनता की शरण",
+    "theme_en": "Those Without a Master Are Swept Away: Refuge in Humility",
     "first_line": "कबीर निगुसांएं बहि गए थांघी नाही कोइ ॥"
   },
   {
@@ -2410,8 +2410,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 52,
     "title": "सलोक 52: कबीर बैसनउ की कूकरि भली साकत की बुर...",
-    "theme": "सलोक 52: कबीर बैसनउ की कूकरि भली साकत की बुर...",
-    "theme_en": "Salok 52: Kabaeera Baaisanau Kaee Kaookarai Bhalaee Saakata Ka",
+    "theme": "वैष्णव की कुतिया बनाम साक्त की माता",
+    "theme_en": "Better the Devotee's Hound than the Sceptic's Worldly Mother",
     "first_line": "कबीर बैसनउ की कूकरि भली साकत की बुरी माइ ॥"
   },
   {
@@ -2422,8 +2422,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 53,
     "title": "सलोक 53: कबीर हरना दूबला इहु हरीआरा तालु ॥...",
-    "theme": "सलोक 53: कबीर हरना दूबला इहु हरीआरा तालु ॥...",
-    "theme_en": "Salok 53: Kabaeera Haranaa Daoobalaa Ihau Haraeeaaraa Taala",
+    "theme": "कमजोर हिरन, हरा सरोवर और लाखों शिकारी",
+    "theme_en": "The Frail Deer, the Verdant Lake, and a Hundred Thousand Hunters",
     "first_line": "कबीर हरना दूबला इहु हरीआरा तालु ॥"
   },
   {
@@ -2434,8 +2434,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 54,
     "title": "सलोक 54: कबीर गंगा तीर जु घरु करहि पीवहि निर...",
-    "theme": "सलोक 54: कबीर गंगा तीर जु घरु करहि पीवहि निर...",
-    "theme_en": "Salok 54: Kabaeera Gangaa Taeera Jau Gharau Karahai Paeevaha",
+    "theme": "गंगा-तट का वास और हरि-भक्ति के बिना व्यर्थता",
+    "theme_en": "Dwelling on the Ganges Shore: No Liberation without Loving Devotion",
     "first_line": "कबीर गंगा तीर जु घरु करहि पीवहि निरमल नीरु ॥"
   },
   {
@@ -2446,8 +2446,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 55,
     "title": "सलोक 55: कबीर मनु निरमलु भइआ जैसा गंगा नीरु ...",
-    "theme": "सलोक 55: कबीर मनु निरमलु भइआ जैसा गंगा नीरु ...",
-    "theme_en": "Salok 55: Kabaeera Manau Nairamalau Bhaiaa Jaaisaa Gangaa",
+    "theme": "गंगा जैसा निर्मल मन और कबीर के पीछे हरि",
+    "theme_en": "When the Mind Becomes Pure as Ganges Water, the Lord Follows Behind",
     "first_line": "कबीर मनु निरमलु भइआ जैसा गंगा नीरु ॥"
   },
   {
@@ -2458,8 +2458,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 56,
     "title": "सलोक 56: कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥...",
-    "theme": "सलोक 56: कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥...",
-    "theme_en": "Salok 56: Kabaeera Haradaee Paeearaee Chaoonnaan Oojala Bhaai",
+    "theme": "हल्दी और चूने का रंग-त्याग और राम-मिलन",
+    "theme_en": "Turmeric and Lime Shed Their Colors: Union with the Beloved",
     "first_line": "कबीर हरदी पीअरी चूंनां ऊजल भाइ ॥"
   },
   {
@@ -2470,8 +2470,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 57,
     "title": "सलोक 57: कबीर हरदी पीरतनु हरै चून चिहनु न रह...",
-    "theme": "सलोक 57: कबीर हरदी पीरतनु हरै चून चिहनु न रह...",
-    "theme_en": "Salok 57: Kabaeera Haradaee Paeeratanau Haraai Chaoona Chaihanau",
+    "theme": "पीलापन और सफेदी का लोप तथा जाति-कुल का त्याग",
+    "theme_en": "Dissolution of Caste, Color, and Lineage in Divine Love",
     "first_line": "कबीर हरदी पीरतनु हरै चून चिहनु न रहाइ ॥"
   },
   {
@@ -2482,8 +2482,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 58,
     "title": "सलोक 58: कबीर मुकति दुआरा संकुरा राई दसएं भा...",
-    "theme": "सलोक 58: कबीर मुकति दुआरा संकुरा राई दसएं भा...",
-    "theme_en": "Salok 58: Kabaeera Maukatai Dauaaraa Sankauraa Raaee Dasa",
+    "theme": "राई के दसवें भाग जैसा संकरा मुक्ति-द्वार और हाथी जैसा मन",
+    "theme_en": "The Gate of Liberation Narrower than a Mustard Seed: The Elephant Mind",
     "first_line": "कबीर मुकति दुआरा संकुरा राई दसएं भाइ ॥"
   },
   {
@@ -2494,8 +2494,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 59,
     "title": "सलोक 59: कबीर ऐसा सतिगुरु जे मिलै तुठा करे प...",
-    "theme": "सलोक 59: कबीर ऐसा सतिगुरु जे मिलै तुठा करे प...",
-    "theme_en": "Salok 59: Kabaeera Aisaa Sataigaurau Jae Mailaai Tauthaa",
+    "theme": "सद्गुरु की असीम कृपा और मुक्ति-द्वार का सहज खुलना",
+    "theme_en": "When the True Master Is Pleased, the Gate Opens Wide",
     "first_line": "कबीर ऐसा सतिगुरु जे मिलै तुठा करे पसाउ ॥"
   },
   {
@@ -2506,8 +2506,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 60,
     "title": "सलोक 60: कबीर ना मोहि छानि न छापरी ना मोहि घ...",
-    "theme": "सलोक 60: कबीर ना मोहि छानि न छापरी ना मोहि घ...",
-    "theme_en": "Salok 60: Kabaeera Naa Maohai Chhaanai Na Chhaaparaee Naa Ma",
+    "theme": "घर-गांव और जाति-नाम से मुक्ति",
+    "theme_en": "No Hut, No Village, No Caste: Anonymous in the Presence of the Lord",
     "first_line": "कबीर ना मोहि छानि न छापरी ना मोहि घरु नही गाउ ॥"
   },
   {
@@ -2518,8 +2518,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 61,
     "title": "सलोक 61: कबीर मुहि मरने का चाउ है मरउ त हरि ...",
-    "theme": "सलोक 61: कबीर मुहि मरने का चाउ है मरउ त हरि ...",
-    "theme_en": "Salok 61: Kabaeera Mauhai Maranae Kaa Chaau Haai Marau Ta",
+    "theme": "प्रभु के द्वार पर मरने का चाव",
+    "theme_en": "Yearning to Die at the Threshold of the Lord's Door",
     "first_line": "कबीर मुहि मरने का चाउ है मरउ त हरि कै दुआर ॥"
   },
   {
@@ -2530,8 +2530,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 62,
     "title": "सलोक 62: कबीर ना हम कीआ न करहिगे ना करि सकै ...",
-    "theme": "सलोक 62: कबीर ना हम कीआ न करहिगे ना करि सकै ...",
-    "theme_en": "Salok 62: Kabaeera Naa Hama Kaeeaa Na Karahaigae Naa Karai",
+    "theme": "अहंकार-रहित कर्म और केवल हरि का कर्तृत्व",
+    "theme_en": "Nothing Done by Me: The Lord Did All, Crying Kabir! Kabir!",
     "first_line": "कबीर ना हम कीआ न करहिगे ना करि सकै सरीरु ॥"
   },
   {
@@ -2542,8 +2542,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 63,
     "title": "सलोक 63: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक...",
-    "theme": "सलोक 63: कबीर सुपनै हू बरड़ाइ कै जिह मुखि निक...",
-    "theme_en": "Salok 63: Kabaeera Saupanaai Haoo Baraड़ai Kaai Jaiha Maukha",
+    "theme": "स्वप्न में भी राम-नाम की महिमा और देह की जूती",
+    "theme_en": "Even in Wandering Dreams, He Who Utters Ram: My Skin for His Shoes",
     "first_line": "कबीर सुपनै हू बरड़ाइ कै जिह मुखि निकसै रामु ॥"
   },
   {
@@ -2554,8 +2554,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 64,
     "title": "सलोक 64: कबीर माटी के हम पूतरे मानसु राखिओ न...",
-    "theme": "सलोक 64: कबीर माटी के हम पूतरे मानसु राखिओ न...",
-    "theme_en": "Salok 64: Kabaeera Maataee Kae Hama Paootarae Maanasau Raa",
+    "theme": "मिट्टी के पुतले और चार दिन के मेहमान",
+    "theme_en": "Puppets Fashioned of Dust: Four-Day Guests Coveting Vast Lands",
     "first_line": "कबीर माटी के हम पूतरे मानसु राखिओ नाउ ॥"
   },
   {
@@ -2566,8 +2566,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 65,
     "title": "सलोक 65: कबीर महिदी करि घालिआ आपु पीसाइ पीसा...",
-    "theme": "सलोक 65: कबीर महिदी करि घालिआ आपु पीसाइ पीसा...",
-    "theme_en": "Salok 65: Kabaeera Mahaidaee Karai Ghaalaiaa Aapau Paeesaai",
+    "theme": "मेहंदी की भांति पिसना और मौन सेवा",
+    "theme_en": "Ground to Powder like Henna in Dedicated Service",
     "first_line": "कबीर महिदी करि घालिआ आपु पीसाइ पीसाइ ॥"
   },
   {
@@ -2578,8 +2578,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 66,
     "title": "सलोक 66: कबीर जिह दरि आवत जातिअहु हटकै नाही ...",
-    "theme": "सलोक 66: कबीर जिह दरि आवत जातिअहु हटकै नाही ...",
-    "theme_en": "Salok 66: Kabaeera Jaiha Darai Aavata Jaataiahau Hatakaai",
+    "theme": "सदा खुला प्रभु-द्वार और अनन्य शरणागति",
+    "theme_en": "The Ever-Open Door of the Lord Where None Is Barred",
     "first_line": "कबीर जिह दरि आवत जातिअहु हटकै नाही कोइ ॥"
   },
   {
@@ -2590,8 +2590,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 67,
     "title": "सलोक 67: कबीर डूबा था पै उबरिओ गुन की लहरि झ...",
-    "theme": "सलोक 67: कबीर डूबा था पै उबरिओ गुन की लहरि झ...",
-    "theme_en": "Salok 67: Kabaeera Daoobaa Thaa Paai Ubaraio Gauna Kaee La",
+    "theme": "जर्जर नाव से छलांग और गुण-लहर द्वारा उद्धार",
+    "theme_en": "Leaping from the Sinking Raft: Rescued by the Wave of Divine Virtue",
     "first_line": "कबीर डूबा था पै उबरिओ गुन की लहरि झबकि ॥"
   },
   {
@@ -2602,8 +2602,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 68,
     "title": "सलोक 68: कबीर पापी भगति न भावई हरि पूजा न सु...",
-    "theme": "सलोक 68: कबीर पापी भगति न भावई हरि पूजा न सु...",
-    "theme_en": "Salok 68: Kabaeera Paapaee Bhagatai Na Bhaavaee Harai Paoojaa",
+    "theme": "पापी की विमुखता और मक्खी का दुर्गंध-प्रेम",
+    "theme_en": "The Sinner Loves Not Devotion: The Fly Forsakes Sandalwood for Filth",
     "first_line": "कबीर पापी भगति न भावई हरि पूजा न सुहाइ ॥"
   },
   {
@@ -2614,8 +2614,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 69,
     "title": "सलोक 69: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा...",
-    "theme": "सलोक 69: कबीर बैदु मूआ रोगी मूआ मूआ सभु संसा...",
-    "theme_en": "Salok 69: Kabaeera Baaidau Maooaa Raogaee Maooaa Maooaa Sabhau",
+    "theme": "वैद्य-रोगी का मरण और कबीर का अमृत्व",
+    "theme_en": "Physician and Patient Both Died: Kabir Dies Not, Anchored in Ram",
     "first_line": "कबीर बैदु मूआ रोगी मूआ मूआ सभु संसारु ॥"
   },
   {
@@ -2626,8 +2626,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 70,
     "title": "सलोक 70: कबीर रामु न धिआइओ मोटी लागी खोरि ॥...",
-    "theme": "सलोक 70: कबीर रामु न धिआइओ मोटी लागी खोरि ॥...",
-    "theme_en": "Salok 70: Kabaeera Raamau Na Dhaiaaio Maotaee Laagaee Khao",
+    "theme": "राम-विस्मरण का भारी घाटा और काठ की हांडी",
+    "theme_en": "Colossal Loss without Ram: The Wooden Pot Mounts the Hearth No More",
     "first_line": "कबीर रामु न धिआइओ मोटी लागी खोरि ॥"
   },
   {
@@ -2638,8 +2638,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 71,
     "title": "सलोक 71: कबीर ऐसी होइ परी मन को भावतु कीनु ॥...",
-    "theme": "सलोक 71: कबीर ऐसी होइ परी मन को भावतु कीनु ॥...",
-    "theme_en": "Salok 71: Kabaeera Aisaee Haoi Paraee Mana Kao Bhaavatau Ka",
+    "theme": "मृत्यु-भय का अभाव और हाथ में सिधौरा",
+    "theme_en": "Why Fear Death When the Coconut of Surrender Is in Hand",
     "first_line": "कबीर ऐसी होइ परी मन को भावतु कीनु ॥"
   },
   {
@@ -2650,8 +2650,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 72,
     "title": "सलोक 72: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ ...",
-    "theme": "सलोक 72: कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ ...",
-    "theme_en": "Salok 72: Kabaeera Rasa Kao Gaandao Chaoosaeeai Gauna Kau",
+    "theme": "रसदार ईख का आस्वादन और दुर्गुणों का तिरस्कार",
+    "theme_en": "Chew the Sweet Sugarcane: None Praises the Man of Vices",
     "first_line": "कबीर रस को गांडो चूसीऐ गुन कउ मरीऐ रोइ ॥"
   },
   {
@@ -2662,8 +2662,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 73,
     "title": "सलोक 73: कबीर गागरि जल भरी आजु काल्हि जैहै फ...",
-    "theme": "सलोक 73: कबीर गागरि जल भरी आजु काल्हि जैहै फ...",
-    "theme_en": "Salok 73: Kabaeera Gaagarai Jala Bharaee Aajau Kaalahai Ja",
+    "theme": "जल से भरी फूटी गागर और गुरु-विहीन लूट",
+    "theme_en": "The Water Pitcher Shrouded in Fragility: Plundered Midway without the Master",
     "first_line": "कबीर गागरि जल भरी आजु काल्हि जैहै फूटि ॥"
   },
   {
@@ -2674,8 +2674,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 74,
     "title": "सलोक 74: कबीर कूकरु राम को मुतीआ मेरो नाउ ॥...",
-    "theme": "सलोक 74: कबीर कूकरु राम को मुतीआ मेरो नाउ ॥...",
-    "theme_en": "Salok 74: Kabaeera Kaookarau Raama Kao Mautaeeaa Maerao Na",
+    "theme": "राम का श्वान और प्रेम की डोरी",
+    "theme_en": "The Devoted Hound of Ram: Guided by His Loving Leash",
     "first_line": "कबीर कूकरु राम को मुतीआ मेरो नाउ ॥"
   },
   {
@@ -2686,8 +2686,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 75,
     "title": "सलोक 75: कबीर जपनी काठ की किआ दिखलावहि लोइ ॥...",
-    "theme": "सलोक 75: कबीर जपनी काठ की किआ दिखलावहि लोइ ॥...",
-    "theme_en": "Salok 75: Kabaeera Japanaee Kaatha Kaee Kaiaa Daikhalaavahai",
+    "theme": "काष्ठ की जपनी का ढोंग और हृदय का राम",
+    "theme_en": "Wooden Beads Flaunted to the World: Vain without Inner Remembrance",
     "first_line": "कबीर जपनी काठ की किआ दिखलावहि लोइ ॥"
   },
   {
@@ -2698,8 +2698,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 76,
     "title": "सलोक 76: कबीर बिरहु भुयंगमु मनि बसै मंतु न म...",
-    "theme": "सलोक 76: कबीर बिरहु भुयंगमु मनि बसै मंतु न म...",
-    "theme_en": "Salok 76: Kabaeera Bairahau Bhauyangamau Manai Basaai Manta",
+    "theme": "विरह रूपी सर्प और राम-वियोगी की उन्मत्तता",
+    "theme_en": "The Serpent of Separation: The Separated Lover Lives in Ecstasy",
     "first_line": "कबीर बिरहु भुयंगमु मनि बसै मंतु न मानै कोइ ॥"
   },
   {
@@ -2710,8 +2710,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 77,
     "title": "सलोक 77: कबीर पारस चंदनै तिन्ह है एक सुगंध ॥...",
-    "theme": "सलोक 77: कबीर पारस चंदनै तिन्ह है एक सुगंध ॥...",
-    "theme_en": "Salok 77: Kabaeera Paarasa Chandanaai Tainaha Haai Eka Sau",
+    "theme": "पारस और चंदन की पारस-सुगंध",
+    "theme_en": "The Touchstone and Sandalwood: Iron and Timber Transformed",
     "first_line": "कबीर पारस चंदनै तिन्ह है एक सुगंध ॥"
   },
   {
@@ -2722,8 +2722,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 78,
     "title": "सलोक 78: कबीर जम का ठेंगा बुरा है ओहु नही सह...",
-    "theme": "सलोक 78: कबीर जम का ठेंगा बुरा है ओहु नही सह...",
-    "theme_en": "Salok 78: Kabaeera Jama Kaa Thaengaa Bauraa Haai Ohau Na",
+    "theme": "यम का भयानक डंडा और साधु का आंचल",
+    "theme_en": "The Terrible Club of Death: Sheltered Under the Saint's Robe",
     "first_line": "कबीर जम का ठेंगा बुरा है ओहु नही सहिआ जाइ ॥"
   },
   {
@@ -2734,8 +2734,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 79,
     "title": "सलोक 79: कबीर बैदु कहै हउ ही भला दारू मेरै व...",
-    "theme": "सलोक 79: कबीर बैदु कहै हउ ही भला दारू मेरै व...",
-    "theme_en": "Salok 79: Kabaeera Baaidau Kahaai Hau Haee Bhalaa Daaraoo Ma",
+    "theme": "वैद्य का दंभ और गोपाल का परम अधिकार",
+    "theme_en": "The Physician Boasts of His Cure: Life Belongs to Gopal Alone",
     "first_line": "कबीर बैदु कहै हउ ही भला दारू मेरै वसि ॥"
   },
   {
@@ -2746,8 +2746,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 80,
     "title": "सलोक 80: कबीर नउबति आपनी दिन दस लेहु बजाइ ॥...",
-    "theme": "सलोक 80: कबीर नउबति आपनी दिन दस लेहु बजाइ ॥...",
-    "theme_en": "Salok 80: Kabaeera Naubatai Aapanaee Daina Dasa Laehau Baja",
+    "theme": "दस दिन का नगाड़ा और नदी-नाव संजोग",
+    "theme_en": "Sound Thy Drum for Ten Short Days: The River-Boat Union Returns No More",
     "first_line": "कबीर नउबति आपनी दिन दस लेहु बजाइ ॥"
   },
   {
@@ -2758,8 +2758,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 81,
     "title": "सलोक 81: कबीर सात समुंदहि मसु करउ कलम करउ बन...",
-    "theme": "सलोक 81: कबीर सात समुंदहि मसु करउ कलम करउ बन...",
-    "theme_en": "Salok 81: Kabaeera Saata Samaundahai Masau Karau Kalama Ka",
+    "theme": "सात समुद्रों की मसि और हरि-यश की असीमता",
+    "theme_en": "Seven Oceans as Ink, All Forests as Pens: God's Glory Unwritten",
     "first_line": "कबीर सात समुंदहि मसु करउ कलम करउ बनराइ ॥"
   },
   {
@@ -2770,8 +2770,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 82,
     "title": "सलोक 82: कबीर जाति जुलाहा किआ करै हिरदै बसे ...",
-    "theme": "सलोक 82: कबीर जाति जुलाहा किआ करै हिरदै बसे ...",
-    "theme_en": "Salok 82: Kabaeera Jaatai Jaulaahaa Kaiaa Karaai Hairadaai",
+    "theme": "जुलाहा जाति और हृदय में गोपाल का वास",
+    "theme_en": "What Matters the Weaver Caste When Gopal Dwells in the Heart",
     "first_line": "कबीर जाति जुलाहा किआ करै हिरदै बसे गुपाल ॥"
   },
   {
@@ -2782,8 +2782,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 83,
     "title": "सलोक 83: कबीर ऐसा को नही मंदरु देइ जराइ ॥...",
-    "theme": "सलोक 83: कबीर ऐसा को नही मंदरु देइ जराइ ॥...",
-    "theme_en": "Salok 83: Kabaeera Aisaa Kao Nahaee Mandarau Daei Jaraai",
+    "theme": "मोह-मंदिर का दहन और पांचों विकारों का अंत",
+    "theme_en": "Burn the Mansion of Delusion, Slay the Five Sons",
     "first_line": "कबीर ऐसा को नही मंदरु देइ जराइ ॥"
   },
   {
@@ -2794,8 +2794,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 84,
     "title": "सलोक 84: कबीर ऐसा को नही इहु तनु देवै फूकि ॥...",
-    "theme": "सलोक 84: कबीर ऐसा को नही इहु तनु देवै फूकि ॥...",
-    "theme_en": "Salok 84: Kabaeera Aisaa Kao Nahaee Ihau Tanau Daevaai Pha",
+    "theme": "देह-अभिमान का दहन और कबीर की पुकार",
+    "theme_en": "None Burns the Arrogant Body: The Blind World Ignores Kabir's Cry",
     "first_line": "कबीर ऐसा को नही इहु तनु देवै फूकि ॥"
   },
   {
@@ -2806,8 +2806,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 85,
     "title": "सलोक 85: कबीर सती पुकारै चिह चड़ी सुनु हो बीर...",
-    "theme": "सलोक 85: कबीर सती पुकारै चिह चड़ी सुनु हो बीर...",
-    "theme_en": "Salok 85: Kabaeera Sataee Paukaaraai Chaiha Chaड़ee Saunau Ha",
+    "theme": "सती की पुकार, मसान की संगति और संसार की विदाई",
+    "theme_en": "The Sati's Cry upon the Pyre: All Have Departed, Only Thou and I Remain",
     "first_line": "कबीर सती पुकारै चिह चड़ी सुनु हो बीर मसान ॥"
   },
   {
@@ -2818,8 +2818,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 86,
     "title": "सलोक 86: कबीर मनु पंखी भइओ उडि उडि दह दिस जा...",
-    "theme": "सलोक 86: कबीर मनु पंखी भइओ उडि उडि दह दिस जा...",
-    "theme_en": "Salok 86: Kabaeera Manau Pankhaee Bhaio Udai Udai Daha Da",
+    "theme": "मन रूपी पक्षी और संगति का फल",
+    "theme_en": "The Soul-Bird Flies in Ten Directions: Reaping the Fruit of Company",
     "first_line": "कबीर मनु पंखी भइओ उडि उडि दह दिस जाइ ॥"
   },
   {
@@ -2830,8 +2830,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 87,
     "title": "सलोक 87: कबीर जा कउ खोजते पाइओ सोई ठउरु ॥...",
-    "theme": "सलोक 87: कबीर जा कउ खोजते पाइओ सोई ठउरु ॥...",
-    "theme_en": "Salok 87: Kabaeera Jaa Kau Khaojatae Paaio Saoee Thaurau",
+    "theme": "खोजते-खोजते स्वयं वही हो जाना (अद्वैत बोध)",
+    "theme_en": "Searching for Him, I Became That Very One I Called Other",
     "first_line": "कबीर जा कउ खोजते पाइओ सोई ठउरु ॥"
   },
   {
@@ -2842,8 +2842,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 88,
     "title": "सलोक 88: कबीर मारी मरउ कुसंग की केले निकटि ज...",
-    "theme": "सलोक 88: कबीर मारी मरउ कुसंग की केले निकटि ज...",
-    "theme_en": "Salok 88: Kabaeera Maaraee Marau Kausanga Kaee Kaelae Nai",
+    "theme": "केले और बेर का कुसंग और साक्त का त्याग",
+    "theme_en": "The Plantain Tree Beside the Thorny Bush: Shun the Cynic's Company",
     "first_line": "कबीर मारी मरउ कुसंग की केले निकटि जु बेरि ॥"
   },
   {
@@ -2854,8 +2854,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 89,
     "title": "सलोक 89: कबीर भार पराई सिरि चरै चलिओ चाहै बा...",
-    "theme": "सलोक 89: कबीर भार पराई सिरि चरै चलिओ चाहै बा...",
-    "theme_en": "Salok 89: Kabaeera Bhaara Paraaee Sairai Charaai Chalaio Chaa",
+    "theme": "दूसरों के भार का ढोना और आगे दुर्गम घाटी",
+    "theme_en": "Bearing Others' Sins While Forgetting One's Own Burden Before the Pass",
     "first_line": "कबीर भार पराई सिरि चरै चलिओ चाहै बाट ॥"
   },
   {
@@ -2866,8 +2866,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 90,
     "title": "सलोक 90: कबीर बन की दाधी लाकरी ठाढी करै पुका...",
-    "theme": "सलोक 90: कबीर बन की दाधी लाकरी ठाढी करै पुका...",
-    "theme_en": "Salok 90: Kabaeera Bana Kaee Daadhaee Laakaraee Thaadhaee Karaai",
+    "theme": "वन की जली लकड़ी की पुकार और लोहार की भट्ठी",
+    "theme_en": "The Burnt Timber Weeps: Let Me Not Fall into the Blacksmith's Forge Twice",
     "first_line": "कबीर बन की दाधी लाकरी ठाढी करै पुकार ॥"
   },
   {
@@ -2878,8 +2878,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 91,
     "title": "सलोक 91: कबीर एक मरंते दुइ मूए दोइ मरंतह चार...",
-    "theme": "सलोक 91: कबीर एक मरंते दुइ मूए दोइ मरंतह चार...",
-    "theme_en": "Salok 91: Kabaeera Eka Marantae Daui Maooe Daoi Maranta",
+    "theme": "अहंकार के मरने से समस्त द्वैत और विकारों का अंत",
+    "theme_en": "When Ego Died, Duality Died: Extinguishing the Six and Four",
     "first_line": "कबीर एक मरंते दुइ मूए दोइ मरंतह चारि ॥"
   },
   {
@@ -2890,8 +2890,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 92,
     "title": "सलोक 92: कबीर देखि देखि जगु ढूंढिआ कहूं न पा...",
-    "theme": "सलोक 92: कबीर देखि देखि जगु ढूंढिआ कहूं न पा...",
-    "theme_en": "Salok 92: Kabaeera Daekhai Daekhai Jagau Dhaoondhaiaa Kahaoon",
+    "theme": "संसार की खोज में भटकना और नाम-विहीन भ्रम",
+    "theme_en": "Searching the World in Vain: No Resting Place without the Name",
     "first_line": "कबीर देखि देखि जगु ढूंढिआ कहूं न पाइआ ठउरु ॥"
   },
   {
@@ -2902,8 +2902,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 93,
     "title": "सलोक 93: कबीर संगति करीऐ साध की अंति करै निर...",
-    "theme": "सलोक 93: कबीर संगति करीऐ साध की अंति करै निर...",
-    "theme_en": "Salok 93: Kabaeera Sangatai Karaeeai Saadha Kaee Antai Kara",
+    "theme": "साधु-संगत का अंतिम निर्वाह और साक्त का विनाश",
+    "theme_en": "The Fellowship of Saints Sustains Unto the End: Sceptic Brings Ruin",
     "first_line": "कबीर संगति करीऐ साध की अंति करै निरबाहु ॥"
   },
   {
@@ -2914,8 +2914,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 94,
     "title": "सलोक 94: कबीर जग महि चेतिओ जानि कै जग महि रह...",
-    "theme": "सलोक 94: कबीर जग महि चेतिओ जानि कै जग महि रह...",
-    "theme_en": "Salok 94: Kabaeera Jaga Mahai Chaetaio Jaanai Kaai Jaga Ma",
+    "theme": "सर्वव्यापी प्रभु का स्मरण और नाम-विहीन व्यर्थ जन्म",
+    "theme_en": "Remember the Indwelling Lord: Without the Name Birth Is Wasted",
     "first_line": "कबीर जग महि चेतिओ जानि कै जग महि रहिओ समाइ ॥"
   },
   {
@@ -2926,8 +2926,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 95,
     "title": "सलोक 95: कबीर आसा करीऐ राम की अवरै आस निरास ...",
-    "theme": "सलोक 95: कबीर आसा करीऐ राम की अवरै आस निरास ...",
-    "theme_en": "Salok 95: Kabaeera Aasaa Karaeeai Raama Kaee Avaraai Aasa Na",
+    "theme": "राम की आशा और सांसारिक आशाओं की निराशा",
+    "theme_en": "Hope in Ram Brings Fulfillment, Other Hopes Bring Despair",
     "first_line": "कबीर आसा करीऐ राम की अवरै आस निरास ॥"
   },
   {
@@ -2938,8 +2938,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 96,
     "title": "सलोक 96: कबीर सिख साखा बहुते कीए केसो कीओ न ...",
-    "theme": "सलोक 96: कबीर सिख साखा बहुते कीए केसो कीओ न ...",
-    "theme_en": "Salok 96: Kabaeera Saikha Saakhaa Bahautae Kaeee Kaesao Ka",
+    "theme": "सिख-शाखा का विस्तार और केशव से मित्रता का अभाव",
+    "theme_en": "Countless Disciples Gathered, but Keshav Was Not Made a Friend",
     "first_line": "कबीर सिख साखा बहुते कीए केसो कीओ न मीतु ॥"
   },
   {
@@ -2950,8 +2950,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 97,
     "title": "सलोक 97: कबीर कारनु बपुरा किआ करै जउ रामु न ...",
-    "theme": "सलोक 97: कबीर कारनु बपुरा किआ करै जउ रामु न ...",
-    "theme_en": "Salok 97: Kabaeera Kaaranau Bapauraa Kaiaa Karaai Jau Raa",
+    "theme": "राम की सहायता के बिना यत्नों की विफलता",
+    "theme_en": "Worldly Effort Is Powerless without Ram: Every Branch Snaps",
     "first_line": "कबीर कारनु बपुरा किआ करै जउ रामु न करै सहाइ ॥"
   },
   {
@@ -2962,8 +2962,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 98,
     "title": "सलोक 98: कबीर अवरह कउ उपदेसते मुख मै परि है ...",
-    "theme": "सलोक 98: कबीर अवरह कउ उपदेसते मुख मै परि है ...",
-    "theme_en": "Salok 98: Kabaeera Avaraha Kau Upadaesatae Maukha Maai Para",
+    "theme": "दूसरों को उपदेश देना और अपना खेत चर जाना",
+    "theme_en": "Preaching to Others Pours Sand in the Mouth: Own Field Devoured",
     "first_line": "कबीर अवरह कउ उपदेसते मुख मै परि है रेतु ॥"
   },
   {
@@ -2974,8 +2974,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 99,
     "title": "सलोक 99: कबीर साधू की संगति रहउ जउ की भूसी ख...",
-    "theme": "सलोक 99: कबीर साधू की संगति रहउ जउ की भूसी ख...",
-    "theme_en": "Salok 99: Kabaeera Saadhaoo Kaee Sangatai Rahau Jau Kaee Bha",
+    "theme": "संतों के संग जौ की भूसी भली और साक्त का त्याग",
+    "theme_en": "Better Barley Husks with Saints than Feasts with the Sceptic",
     "first_line": "कबीर साधू की संगति रहउ जउ की भूसी खाउ ॥"
   },
   {
@@ -2986,8 +2986,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 100,
     "title": "सलोक 100: कबीर संगति साध की दिन दिन दूना हेतु...",
-    "theme": "सलोक 100: कबीर संगति साध की दिन दिन दूना हेतु...",
-    "theme_en": "Salok 100: Kabaeera Sangatai Saadha Kaee Daina Daina Daoonaa",
+    "theme": "साधु-संगत का दूना प्रेम और साक्त की काली कमली",
+    "theme_en": "Saint's Company Doubles Love: The Sceptic's Black Blanket Whitens Not",
     "first_line": "कबीर संगति साध की दिन दिन दूना हेतु ॥"
   },
   {
@@ -2998,8 +2998,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 101,
     "title": "सलोक 101: कबीर मनु मूंडिआ नही केस मुंडाए कांइ...",
-    "theme": "सलोक 101: कबीर मनु मूंडिआ नही केस मुंडाए कांइ...",
-    "theme_en": "Salok 101: Kabaeera Manau Maoondaiaa Nahaee Kaesa Maundaae",
+    "theme": "मन का मुंडन न करना और केश मुंडाने की व्यर्थता",
+    "theme_en": "Shave the Mind, Not the Hair: The Mind Alone Committed Sins",
     "first_line": "कबीर मनु मूंडिआ नही केस मुंडाए कांइ ॥"
   },
   {
@@ -3010,8 +3010,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 102,
     "title": "सलोक 102: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ...",
-    "theme": "सलोक 102: कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ...",
-    "theme_en": "Salok 102: Kabaeera Raamau Na Chhaodaeeai Tanau Dhanau Jaai",
+    "theme": "तन-धन की हानि पर भी राम का न छोड़ना",
+    "theme_en": "Forsake Not Ram Though Body and Wealth Perish",
     "first_line": "कबीर रामु न छोडीऐ तनु धनु जाइ त जाउ ॥"
   },
   {
@@ -3022,8 +3022,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 103,
     "title": "सलोक 103: कबीर जो हम जंतु बजावते टूटि गईं सभ ...",
-    "theme": "सलोक 103: कबीर जो हम जंतु बजावते टूटि गईं सभ ...",
-    "theme_en": "Salok 103: Kabaeera Jao Hama Jantau Bajaavatae Taootai Gaee",
+    "theme": "वाद्य-यंत्र के तारों का टूटना और बजाने वाले का गमन",
+    "theme_en": "All Strings of the Instrument Broke: The Musician Departed",
     "first_line": "कबीर जो हम जंतु बजावते टूटि गईं सभ तार ॥"
   },
   {
@@ -3034,8 +3034,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 104,
     "title": "सलोक 104: कबीर माइ मूंडउ तिह गुरू की जा ते भर...",
-    "theme": "सलोक 104: कबीर माइ मूंडउ तिह गुरू की जा ते भर...",
-    "theme_en": "Salok 104: Kabaeera Maai Maoondau Taiha Gauraoo Kaee Jaa",
+    "theme": "भ्रम न मिटाने वाले गुरु की भर्त्सना और वेदों में डूबना",
+    "theme_en": "Shave That Guru Who Dispels Not Doubt: Drowned in Scholasticism",
     "first_line": "कबीर माइ मूंडउ तिह गुरू की जा ते भरमु न जाइ ॥"
   },
   {
@@ -3046,8 +3046,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 105,
     "title": "सलोक 105: कबीर जेते पाप कीए राखे तलै दुराइ ॥...",
-    "theme": "सलोक 105: कबीर जेते पाप कीए राखे तलै दुराइ ॥...",
-    "theme_en": "Salok 105: Kabaeera Jaetae Paapa Kaeee Raakhae Talaai Daura",
+    "theme": "छिपाए गए पापों का धर्मराज के सम्मुख प्रकटीकरण",
+    "theme_en": "Concealed Sins Laid Bare Before the Righteous Judge",
     "first_line": "कबीर जेते पाप कीए राखे तलै दुराइ ॥"
   },
   {
@@ -3058,8 +3058,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 106,
     "title": "सलोक 106: कबीर हरि का सिमरनु छाडि कै पालिओ बह...",
-    "theme": "सलोक 106: कबीर हरि का सिमरनु छाडि कै पालिओ बह...",
-    "theme_en": "Salok 106: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Paala",
+    "theme": "हरि-सिमरन त्यागकर कुटुंब का पोषण और अंत में अकेलापन",
+    "theme_en": "Nurturing the Family Without Ram: Standing Alone in the End",
     "first_line": "कबीर हरि का सिमरनु छाडि कै पालिओ बहुतु कुट्मबु ॥"
   },
   {
@@ -3070,8 +3070,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 107,
     "title": "सलोक 107: कबीर हरि का सिमरनु छाडि कै राति जगा...",
-    "theme": "सलोक 107: कबीर हरि का सिमरनु छाडि कै राति जगा...",
-    "theme_en": "Salok 107: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Raata",
+    "theme": "हरि-सिमरन छोड़ रति-जगा करना और सर्पिणी की योनि",
+    "theme_en": "Night Vigils for Petty Spirits: Reborn as a Serpent Devouring Her Brood",
     "first_line": "कबीर हरि का सिमरनु छाडि कै राति जगावन जाइ ॥"
   },
   {
@@ -3082,8 +3082,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 108,
     "title": "सलोक 108: कबीर हरि का सिमरनु छाडि कै अहोई राख...",
-    "theme": "सलोक 108: कबीर हरि का सिमरनु छाडि कै अहोई राख...",
-    "theme_en": "Salok 108: Kabaeera Harai Kaa Saimaranau Chhaadai Kaai Ahao",
+    "theme": "अहोई-अष्टमी का व्रत और गधी की योनि",
+    "theme_en": "Ritual Fasting for Ahoi: Reborn as a Donkey Bearing Heavy Loads",
     "first_line": "कबीर हरि का सिमरनु छाडि कै अहोई राखै नारि ॥"
   },
   {
@@ -3094,8 +3094,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 109,
     "title": "सलोक 109: कबीर चतुराई अति घनी हरि जपि हिरदै म...",
-    "theme": "सलोक 109: कबीर चतुराई अति घनी हरि जपि हिरदै म...",
-    "theme_en": "Salok 109: Kabaeera Chatauraaee Atai Ghanaee Harai Japai Hai",
+    "theme": "अत्यधिक चतुराई, हृदय में हरि-जप और तलवार की धार",
+    "theme_en": "Deepest Wisdom: Chant Ram Within; Walking on the Razor's Edge",
     "first_line": "कबीर चतुराई अति घनी हरि जपि हिरदै माहि ॥"
   },
   {
@@ -3106,8 +3106,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 110,
     "title": "सलोक 110: कबीर सोई मुखु धंनि है जा मुखि कहीऐ ...",
-    "theme": "सलोक 110: कबीर सोई मुखु धंनि है जा मुखि कहीऐ ...",
-    "theme_en": "Salok 110: Kabaeera Saoee Maukhau Dhannai Haai Jaa Maukhai",
+    "theme": "राम कहने वाले मुख की धन्यता और संपूर्ण गांव की पवित्रता",
+    "theme_en": "Blessed Is the Mouth that Utters Ram: The Entire Village Is Sanctified",
     "first_line": "कबीर सोई मुखु धंनि है जा मुखि कहीऐ रामु ॥"
   },
   {
@@ -3118,8 +3118,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 111,
     "title": "सलोक 111: कबीर सोई कुल भली जा कुल हरि को दासु...",
-    "theme": "सलोक 111: कबीर सोई कुल भली जा कुल हरि को दासु...",
-    "theme_en": "Salok 111: Kabaeera Saoee Kaula Bhalaee Jaa Kaula Harai Kao",
+    "theme": "हरि-दास के कुल की श्रेष्ठता और ढाक-पलाश जैसा कुल",
+    "theme_en": "Noble Is the Lineage Where God's Servant Is Born: Others Are Wild Weeds",
     "first_line": "कबीर सोई कुल भली जा कुल हरि को दासु ॥"
   },
   {
@@ -3130,8 +3130,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 112,
     "title": "सलोक 112: कबीर है गइ बाहन सघन घन लाख धजा फहरा...",
-    "theme": "सलोक 112: कबीर है गइ बाहन सघन घन लाख धजा फहरा...",
-    "theme_en": "Salok 112: Kabaeera Haai Gai Baahana Saghana Ghana Laakha Dhajaa",
+    "theme": "हाथी-घोड़ों की सेना पर भिक्षा की श्रेष्ठता",
+    "theme_en": "Better to Beg for Bread While Chanting Ram than Own Cavalries and Flags",
     "first_line": "कबीर है गइ बाहन सघन घन लाख धजा फहराहि ॥"
   },
   {
@@ -3142,8 +3142,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 113,
     "title": "सलोक 113: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ...",
-    "theme": "सलोक 113: कबीर सभु जगु हउ फिरिओ मांदलु कंध चढ...",
-    "theme_en": "Salok 113: Kabaeera Sabhau Jagau Hau Phairaio Maandalau Ka",
+    "theme": "सत्य का ढोल बजाकर संसार की परख और अकेलापन",
+    "theme_en": "Beating the Drum of Truth Across the Earth: None Belongs to Anyone",
     "first_line": "कबीर सभु जगु हउ फिरिओ मांदलु कंध चढाइ ॥"
   },
   {
@@ -3154,8 +3154,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 114,
     "title": "सलोक 114: मारगि मोती बीथरे अंधा निकसिओ आइ ॥...",
-    "theme": "सलोक 114: मारगि मोती बीथरे अंधा निकसिओ आइ ॥...",
-    "theme_en": "Salok 114: Maaragai Maotaee Baeetharae Andhaa Naikasaio Aa",
+    "theme": "मार्ग में बिखरे मोती और अंधे संसार का लांघ जाना",
+    "theme_en": "Pearls Scattered upon the Road: The Blind World Bypasses the Light",
     "first_line": "मारगि मोती बीथरे अंधा निकसिओ आइ ॥"
   },
   {
@@ -3166,8 +3166,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 115,
     "title": "सलोक 115: बूडा बंसु कबीर का उपजिओ पूतु कमालु ...",
-    "theme": "सलोक 115: बूडा बंसु कबीर का उपजिओ पूतु कमालु ...",
-    "theme_en": "Salok 115: Baoodaa Bansau Kabaeera Kaa Upajaio Paootau Ka",
+    "theme": "पुत्र कमाल का धन-संग्रह और कबीर के वंश की विडंबना",
+    "theme_en": "Kamal Brought Wealth Home: Kabir's Lineage Drowned in Worldliness",
     "first_line": "बूडा बंसु कबीर का उपजिओ पूतु कमालु ॥"
   },
   {
@@ -3178,8 +3178,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 116,
     "title": "सलोक 116: कबीर साधू कउ मिलने जाईऐ साथि न लीजै...",
-    "theme": "सलोक 116: कबीर साधू कउ मिलने जाईऐ साथि न लीजै...",
-    "theme_en": "Salok 116: Kabaeera Saadhaoo Kau Mailanae Jaaeeai Saathai Na",
+    "theme": "अकेले संत-दर्शन को जाना और पीछे पैर न हटाना",
+    "theme_en": "Go Alone to Meet the Saint: Step Not Backward, Come What May",
     "first_line": "कबीर साधू कउ मिलने जाईऐ साथि न लीजै कोइ ॥"
   },
   {
@@ -3190,8 +3190,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 117,
     "title": "सलोक 117: कबीर जगु बाधिओ जिह जेवरी तिह मत बंध...",
-    "theme": "सलोक 117: कबीर जगु बाधिओ जिह जेवरी तिह मत बंध...",
-    "theme_en": "Salok 117: Kabaeera Jagau Baadhaio Jaiha Jaevaraee Taiha Ma",
+    "theme": "संसार की जेवरी से न बंधना और आटे में नमक जैसा शरीर",
+    "theme_en": "Bind Not with Worldly Rope: Golden Body Dissolves like Salt in Flour",
     "first_line": "कबीर जगु बाधिओ जिह जेवरी तिह मत बंधहु कबीर ॥"
   },
   {
@@ -3202,8 +3202,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 118,
     "title": "सलोक 118: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना...",
-    "theme": "सलोक 118: कबीर हंसु उडिओ तनु गाडिओ सोझाई सैना...",
-    "theme_en": "Salok 118: Kabaeera Hansau Udaio Tanau Gaadaio Saojhaaee",
+    "theme": "हंस का उड़ना, देह का दफन और नयनों की तृष्णा",
+    "theme_en": "The Swan Flew Away, the Body Buried: Eyes Still Yearned in Death",
     "first_line": "कबीर हंसु उडिओ तनु गाडिओ सोझाई सैनाह ॥"
   },
   {
@@ -3214,8 +3214,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 119,
     "title": "सलोक 119: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त...",
-    "theme": "सलोक 119: कबीर नैन निहारउ तुझ कउ स्रवन सुनउ त...",
-    "theme_en": "Salok 119: Kabaeera Naaina Naihaarau Taujha Kau Saravana Sa",
+    "theme": "नयनों में रूप, कानों में नाम और हृदय में चरण-कमल",
+    "theme_en": "Eyes Behold Thee, Ears Hear Thy Name, Lotus Feet in the Heart",
     "first_line": "कबीर नैन निहारउ तुझ कउ स्रवन सुनउ तुअ नाउ ॥"
   },
   {
@@ -3226,8 +3226,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 120,
     "title": "सलोक 120: कबीर सुरग नरक ते मै रहिओ सतिगुर के ...",
-    "theme": "सलोक 120: कबीर सुरग नरक ते मै रहिओ सतिगुर के ...",
-    "theme_en": "Salok 120: Kabaeera Sauraga Naraka Tae Maai Rahaio Sataigau",
+    "theme": "स्वर्ग-नरक से मुक्ति और चरण-कमलों की मौज",
+    "theme_en": "Transcending Heaven and Hell by Guru's Grace: Ecstasy of Lotus Feet",
     "first_line": "कबीर सुरग नरक ते मै रहिओ सतिगुर के परसादि ॥"
   },
   {
@@ -3238,8 +3238,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 121,
     "title": "सलोक 121: कबीर चरन कमल की मउज को कहि कैसे उनम...",
-    "theme": "सलोक 121: कबीर चरन कमल की मउज को कहि कैसे उनम...",
-    "theme_en": "Salok 121: Kabaeera Charana Kamala Kaee Mauja Kao Kahai Kaaisa",
+    "theme": "चरण-कमल की मौज की अनिर्वचनीयता",
+    "theme_en": "The Indescribable Ecstasy of the Lotus Feet: Seeing Alone Is Proof",
     "first_line": "कबीर चरन कमल की मउज को कहि कैसे उनमान ॥"
   },
   {
@@ -3250,8 +3250,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 122,
     "title": "सलोक 122: कबीर देखि कै किह कहउ कहे न को पतीआइ...",
-    "theme": "सलोक 122: कबीर देखि कै किह कहउ कहे न को पतीआइ...",
-    "theme_en": "Salok 122: Kabaeera Daekhai Kaai Kaiha Kahau Kahae Na Kao",
+    "theme": "देखकर किसे कहें: हरि जैसा है वैसा ही है",
+    "theme_en": "Beholding Him, Unto Whom Shall I Speak: Hari Is as He Is",
     "first_line": "कबीर देखि कै किह कहउ कहे न को पतीआइ ॥"
   },
   {
@@ -3262,8 +3262,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 123,
     "title": "सलोक 123: कबीर चुगै चितारै भी चुगै चुगि चुगि ...",
-    "theme": "सलोक 123: कबीर चुगै चितारै भी चुगै चुगि चुगि ...",
-    "theme_en": "Salok 123: Kabaeera Chaugaai Chaitaaraai Bhaee Chaugaai Chaugai",
+    "theme": "कुंज पक्षी का दाना चुगना और बच्चे का स्मरण",
+    "theme_en": "The Crane Pecks Grain While Remembering Her Chick in the Heart",
     "first_line": "कबीर चुगै चितारै भी चुगै चुगि चुगि चितारे ॥"
   },
   {
@@ -3274,8 +3274,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 124,
     "title": "सलोक 124: कबीर अम्बर घनहरु छाइआ बरखि भरे सर त...",
-    "theme": "सलोक 124: कबीर अम्बर घनहरु छाइआ बरखि भरे सर त...",
-    "theme_en": "Salok 124: Kabaeera Amabara Ghanaharau Chhaaiaa Barakhai Bharae",
+    "theme": "आकाश में बादल, लबालब सरोवर और चातक की प्यास",
+    "theme_en": "Rainclouds Fill All Lakes, Yet the Chatrik Thirsts Only for the Drop",
     "first_line": "कबीर अम्बर घनहरु छाइआ बरखि भरे सर ताल ॥"
   },
   {
@@ -3286,8 +3286,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 125,
     "title": "सलोक 125: कबीर चकई जउ निसि बीछुरै आइ मिलै परभ...",
-    "theme": "सलोक 125: कबीर चकई जउ निसि बीछुरै आइ मिलै परभ...",
-    "theme_en": "Salok 125: Kabaeera Chakaee Jau Naisai Baeechhauraai Aai Maila",
+    "theme": "चकवी का प्रातः मिलन और राम-वियोगी का अखंड विरह",
+    "theme_en": "The Chakvi Meets Her Mate at Dawn: The Soul Parted from Ram Meets Neither Day Nor Night",
     "first_line": "कबीर चकई जउ निसि बीछुरै आइ मिलै परभाति ॥"
   },
   {
@@ -3298,8 +3298,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 126,
     "title": "सलोक 126: कबीर रैनाइर बिछोरिआ रहु रे संख मझूर...",
-    "theme": "सलोक 126: कबीर रैनाइर बिछोरिआ रहु रे संख मझूर...",
-    "theme_en": "Salok 126: Kabaeera Raainaaira Baichhaoraiaa Rahau Rae Sankha",
+    "theme": "समुद्र से बिछुड़ा शंख और मंदिरों में क्रंदन",
+    "theme_en": "Separated from the Ocean, the Conch Shell Wails in Every Temple",
     "first_line": "कबीर रैनाइर बिछोरिआ रहु रे संख मझूरि ॥"
   },
   {
@@ -3310,8 +3310,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 127,
     "title": "सलोक 127: कबीर सूता किआ करहि जागु रोइ भै दुख ...",
-    "theme": "सलोक 127: कबीर सूता किआ करहि जागु रोइ भै दुख ...",
-    "theme_en": "Salok 127: Kabaeera Saootaa Kaiaa Karahai Jaagau Raoi Bhaai",
+    "theme": "कब्र के निवासी का सुख से सोना व्यर्थ",
+    "theme_en": "Whose Ultimate Abode Is the Grave, How Can He Sleep in Peace",
     "first_line": "कबीर सूता किआ करहि जागु रोइ भै दुख ॥"
   },
   {
@@ -3322,8 +3322,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 128,
     "title": "सलोक 128: कबीर सूता किआ करहि उठि कि न जपहि मु...",
-    "theme": "सलोक 128: कबीर सूता किआ करहि उठि कि न जपहि मु...",
-    "theme_en": "Salok 128: Kabaeera Saootaa Kaiaa Karahai Uthai Kai Na Japa",
+    "theme": "मुरारी का स्मरण और कब्र में पैर पसारना",
+    "theme_en": "Chant Murari Now: One Day Thou Shalt Sleep with Legs Stretched Long",
     "first_line": "कबीर सूता किआ करहि उठि कि न जपहि मुरारि ॥"
   },
   {
@@ -3334,8 +3334,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 129,
     "title": "सलोक 129: कबीर सूता किआ करहि बैठा रहु अरु जाग...",
-    "theme": "सलोक 129: कबीर सूता किआ करहि बैठा रहु अरु जाग...",
-    "theme_en": "Salok 129: Kabaeera Saootaa Kaiaa Karahai Baaithaa Rahau Ara",
+    "theme": "जिससे बिछुड़े उसी के संग लगो",
+    "theme_en": "Cling Unto Him from Whom Thou Wert Separated in Primal Time",
     "first_line": "कबीर सूता किआ करहि बैठा रहु अरु जागु ॥"
   },
   {
@@ -3346,8 +3346,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 130,
     "title": "सलोक 130: कबीर संत की गैल न छोडीऐ मारगि लागा ...",
-    "theme": "सलोक 130: कबीर संत की गैल न छोडीऐ मारगि लागा ...",
-    "theme_en": "Salok 130: Kabaeera Santa Kaee Gaaila Na Chhaodaeeai Maaragai",
+    "theme": "संतों का मार्ग न छोड़ना और दर्शन से पवित्रता",
+    "theme_en": "Forsake Not the Trail of the Saints: Beholding Them Purifies the Soul",
     "first_line": "कबीर संत की गैल न छोडीऐ मारगि लागा जाउ ॥"
   },
   {
@@ -3358,8 +3358,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 131,
     "title": "सलोक 131: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ...",
-    "theme": "सलोक 131: कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भ...",
-    "theme_en": "Salok 131: Kabaeera Saakata Sangau Na Kaeejaeeai Daoorahai Ja",
+    "theme": "साक्त की संगति से दूर भागना और कालिख का दाग",
+    "theme_en": "Flee from the Godless Sceptic: Touch a Black Vessel and Soot Clings",
     "first_line": "कबीर साकत संगु न कीजीऐ दूरहि जाईऐ भागि ॥"
   },
   {
@@ -3370,8 +3370,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 132,
     "title": "सलोक 132: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥...",
-    "theme": "सलोक 132: कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥...",
-    "theme_en": "Salok 132: Kabaeeraa Raamau Na Chaetaio Jaraa Pahaoonchaio",
+    "theme": "राम का न जपना, वृद्धावस्था और जलते घर से क्या बचाएं",
+    "theme_en": "Remembered Not Ram, Old Age Arrived: Fire at the Gate, What Can Be Saved",
     "first_line": "कबीरा रामु न चेतिओ जरा पहूंचिओ आइ ॥"
   },
   {
@@ -3382,8 +3382,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 133,
     "title": "सलोक 133: कबीर कारनु सो भइओ जो कीनो करतारि ॥...",
-    "theme": "सलोक 133: कबीर कारनु सो भइओ जो कीनो करतारि ॥...",
-    "theme_en": "Salok 133: Kabaeera Kaaranau Sao Bhaio Jao Kaeenao Karataa",
+    "theme": "करतार का अटल विधान और अद्वैत सृजनहार",
+    "theme_en": "Whatever Occurred Was the Creator's Deed: None Other Exists",
     "first_line": "कबीर कारनु सो भइओ जो कीनो करतारि ॥"
   },
   {
@@ -3394,8 +3394,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 134,
     "title": "सलोक 134: कबीर फल लागे फलनि पाकनि लागे आंब ॥...",
-    "theme": "सलोक 134: कबीर फल लागे फलनि पाकनि लागे आंब ॥...",
-    "theme_en": "Salok 134: Kabaeera Phala Laagae Phalanai Paakanai Laagae Aa",
+    "theme": "आम का पकना और ओलों से बचाव",
+    "theme_en": "Mangoes Ripen on the Bough: They Reach the Master if Sparing the Hail",
     "first_line": "कबीर फल लागे फलनि पाकनि लागे आंब ॥"
   },
   {
@@ -3406,8 +3406,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 135,
     "title": "सलोक 135: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर...",
-    "theme": "सलोक 135: कबीर ठाकुरु पूजहि मोलि ले मनहठि तीर...",
-    "theme_en": "Salok 135: Kabaeera Thaakaurau Paoojahai Maolai Lae Manahatha",
+    "theme": "मोल लिए पत्थर के ठाकुर और मनहठ के तीर्थ",
+    "theme_en": "Worshiping Purchased Stone Idols: Stubborn Pilgrimages of Imitation",
     "first_line": "कबीर ठाकुरु पूजहि मोलि ले मनहठि तीरथ जाहि ॥"
   },
   {
@@ -3418,8 +3418,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 136,
     "title": "सलोक 136: कबीर पाहनु परमेसुरु कीआ पूजै सभु सं...",
-    "theme": "सलोक 136: कबीर पाहनु परमेसुरु कीआ पूजै सभु सं...",
-    "theme_en": "Salok 136: Kabaeera Paahanau Paramaesaurau Kaeeaa Paoojaai Sa",
+    "theme": "पाषाण को परमेश्वर मानना और काली धार में डूबना",
+    "theme_en": "Worshiping Stones as God: Drowned in the Black Ocean of Delusion",
     "first_line": "कबीर पाहनु परमेसुरु कीआ पूजै सभु संसारु ॥"
   },
   {
@@ -3430,8 +3430,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 137,
     "title": "सलोक 137: कबीर कागद की ओबरी मसु के करम कपाट ॥...",
-    "theme": "सलोक 137: कबीर कागद की ओबरी मसु के करम कपाट ॥...",
-    "theme_en": "Salok 137: Kabaeera Kaagada Kaee Obaraee Masau Kae Karama Ka",
+    "theme": "कागज की कोठरी, स्याही के कपाट और पंडितों की लूट",
+    "theme_en": "Chamber of Paper, Doors of Ink: Stones Sunk the Earth, Pandits Plundered",
     "first_line": "कबीर कागद की ओबरी मसु के करम कपाट ॥"
   },
   {
@@ -3442,8 +3442,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 138,
     "title": "सलोक 138: कबीर कालि करंता अबहि करु अब करता सु...",
-    "theme": "सलोक 138: कबीर कालि करंता अबहि करु अब करता सु...",
-    "theme_en": "Salok 138: Kabaeera Kaalai Karantaa Abahai Karau Aba Kara",
+    "theme": "कल का कार्य आज और तत्क्षण साधन",
+    "theme_en": "Do Today What Was for Tomorrow: When Death Strikes, All Ends",
     "first_line": "कबीर कालि करंता अबहि करु अब करता सुइ ताल ॥"
   },
   {
@@ -3454,8 +3454,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 139,
     "title": "सलोक 139: कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला...",
-    "theme": "सलोक 139: कबीर ऐसा जंतु इकु देखिआ जैसी धोई ला...",
-    "theme_en": "Salok 139: Kabaeera Aisaa Jantau Ikau Daekhaiaa Jaaisaee Dha",
+    "theme": "धोई लाख जैसा जीव: चंचल किंतु मतिहीन",
+    "theme_en": "Like Washed Shellac: Nimble and Clever, Yet Impure and Witless",
     "first_line": "कबीर ऐसा जंतु इकु देखिआ जैसी धोई लाख ॥"
   },
   {
@@ -3466,8 +3466,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 140,
     "title": "सलोक 140: कबीर मेरी बुधि कउ जमु न करै तिसकार ...",
-    "theme": "सलोक 140: कबीर मेरी बुधि कउ जमु न करै तिसकार ...",
-    "theme_en": "Salok 140: Kabaeera Maeraee Baudhai Kau Jamau Na Karaai Tai",
+    "theme": "यम का तिरस्कार न करना और परवरदिगार का भजन",
+    "theme_en": "Yama Dares Not Scorn My Intellect: I Contemplated the Lord Who Created Him",
     "first_line": "कबीर मेरी बुधि कउ जमु न करै तिसकार ॥"
   },
   {
@@ -3478,8 +3478,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 141,
     "title": "सलोक 141: कबीरु कसतूरी भइआ भवर भए सभ दास ॥...",
-    "theme": "सलोक 141: कबीरु कसतूरी भइआ भवर भए सभ दास ॥...",
-    "theme_en": "Salok 141: Kabaeerau Kasataooraee Bhaiaa Bhavara Bhae Sabha Daasa",
+    "theme": "कबीर कस्तूरी और भक्त भंवरे: राम का निवास",
+    "theme_en": "Kabir Became Musk, Devotees Became Bees: Ram Took Abode",
     "first_line": "कबीरु कसतूरी भइआ भवर भए सभ दास ॥"
   },
   {
@@ -3490,8 +3490,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 142,
     "title": "सलोक 142: कबीर गहगचि परिओ कुट्मब कै कांठै रहि...",
-    "theme": "सलोक 142: कबीर गहगचि परिओ कुट्मब कै कांठै रहि...",
-    "theme_en": "Salok 142: Kabaeera Gahagachai Paraio Kautamaba Kaai Kaantha",
+    "theme": "कुटुंब के प्रपंच में फंसना और धर्मराज के दूत",
+    "theme_en": "Tangled in Clan Delusion, Ram Was Cast Aside: Seized by Dharma Rai",
     "first_line": "कबीर गहगचि परिओ कुट्मब कै कांठै रहि गइओ रामु ॥"
   },
   {
@@ -3502,8 +3502,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 143,
     "title": "सलोक 143: कबीर साकत ते सूकर भला राखै आछा गाउ ...",
-    "theme": "सलोक 143: कबीर साकत ते सूकर भला राखै आछा गाउ ...",
-    "theme_en": "Salok 143: Kabaeera Saakata Tae Saookara Bhalaa Raakhaai Aachhaa",
+    "theme": "साक्त से सूअर भला और नाम-विहीन मृत्यु",
+    "theme_en": "Better the Village Swine than the Godless Sceptic: Dead and Forgotten",
     "first_line": "कबीर साकत ते सूकर भला राखै आछा गाउ ॥"
   },
   {
@@ -3514,8 +3514,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 144,
     "title": "सलोक 144: कबीर कउडी कउडी जोरि कै जोरे लाख करो...",
-    "theme": "सलोक 144: कबीर कउडी कउडी जोरि कै जोरे लाख करो...",
-    "theme_en": "Salok 144: Kabaeera Kaudaee Kaudaee Jaorai Kaai Jaorae Laa",
+    "theme": "कौड़ी-कौड़ी जोड़कर करोड़ों का संग्रह और लंगोटी का छिनना",
+    "theme_en": "Hoarding Pennies to Amass Millions: Departing Without Even a Loincloth",
     "first_line": "कबीर कउडी कउडी जोरि कै जोरे लाख करोरि ॥"
   },
   {
@@ -3526,8 +3526,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 145,
     "title": "सलोक 145: कबीर बैसनो हूआ त किआ भइआ माला मेलीं...",
-    "theme": "सलोक 145: कबीर बैसनो हूआ त किआ भइआ माला मेलीं...",
-    "theme_en": "Salok 145: Kabaeera Baaisanao Haooaa Ta Kaiaa Bhaiaa Maalaa",
+    "theme": "वैष्णव का ढोंग, चार मालाएं और भीतर भंगार",
+    "theme_en": "What If One Wears Four Rosaries: Pure Gold Outside, Scrap Iron Within",
     "first_line": "कबीर बैसनो हूआ त किआ भइआ माला मेलीं चारि ॥"
   },
   {
@@ -3538,8 +3538,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 146,
     "title": "सलोक 146: कबीर रोड़ा होइ रहु बाट का तजि मन का ...",
-    "theme": "सलोक 146: कबीर रोड़ा होइ रहु बाट का तजि मन का ...",
-    "theme_en": "Salok 146: Kabaeera Raoड़a Haoi Rahau Baata Kaa Tajai Ma",
+    "theme": "मार्ग का रोड़ा बनना और अहंकार का त्याग",
+    "theme_en": "Become a Pebble upon the Path: Unto Such a Servant God Is Revealed",
     "first_line": "कबीर रोड़ा होइ रहु बाट का तजि मन का अभिमानु ॥"
   },
   {
@@ -3550,8 +3550,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 147,
     "title": "सलोक 147: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख...",
-    "theme": "सलोक 147: कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुख...",
-    "theme_en": "Salok 147: Kabaeera Raoड़a Haooaa Ta Kaiaa Bhaiaa Panthaee Ka",
+    "theme": "रोड़े से धूल की श्रेष्ठता",
+    "theme_en": "The Pebble Hurts the Traveler's Feet: Be Humble Like Dust on the Earth",
     "first_line": "कबीर रोड़ा हूआ त किआ भइआ पंथी कउ दुखु देइ ॥"
   },
   {
@@ -3562,8 +3562,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 148,
     "title": "सलोक 148: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै...",
-    "theme": "सलोक 148: कबीर खेह हूई तउ किआ भइआ जउ उडि लागै...",
-    "theme_en": "Salok 148: Kabaeera Khaeha Haooee Tau Kaiaa Bhaiaa Jau Udai",
+    "theme": "धूल से जल की श्रेष्ठता",
+    "theme_en": "Dust Flies and Soils the Body: God's Servant Should Be Like Water",
     "first_line": "कबीर खेह हूई तउ किआ भइआ जउ उडि लागै अंग ॥"
   },
   {
@@ -3574,8 +3574,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 149,
     "title": "सलोक 149: कबीर पानी हूआ त किआ भइआ सीरा ताता ह...",
-    "theme": "सलोक 149: कबीर पानी हूआ त किआ भइआ सीरा ताता ह...",
-    "theme_en": "Salok 149: Kabaeera Paanaee Haooaa Ta Kaiaa Bhaiaa Saeeraa Ta",
+    "theme": "जल से स्वयं हरि जैसा होना (समता का शिखर)",
+    "theme_en": "Water Turns Cold and Hot: God's Servant Must Be Like God Himself",
     "first_line": "कबीर पानी हूआ त किआ भइआ सीरा ताता होइ ॥"
   },
   {
@@ -3586,8 +3586,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 150,
     "title": "सलोक 150: ऊच भवन कनकामनी सिखरि धजा फहराइ ॥...",
-    "theme": "सलोक 150: ऊच भवन कनकामनी सिखरि धजा फहराइ ॥...",
-    "theme_en": "Salok 150: Oocha Bhavana Kanakaamanaee Saikharai Dhajaa Phaharaai",
+    "theme": "ऊंचे महलों और ध्वजों पर संतों की मधुकरी की श्रेष्ठता",
+    "theme_en": "Better Begged Crumbs with Saints than Lofty Mansions and Fluttering Flags",
     "first_line": "ऊच भवन कनकामनी सिखरि धजा फहराइ ॥"
   },
   {
@@ -3598,8 +3598,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 151,
     "title": "सलोक 151: कबीर पाटन ते ऊजरु भला राम भगत जिह ठ...",
-    "theme": "सलोक 151: कबीर पाटन ते ऊजरु भला राम भगत जिह ठ...",
-    "theme_en": "Salok 151: Kabaeera Paatana Tae Oojarau Bhalaa Raama Bhagata",
+    "theme": "राम-भक्त का उजाड़ गांव उत्तम और राजधानी यमलोक",
+    "theme_en": "The Desolate Wild Is Noble Where a Devotee Dwells: The Capital Is Hell",
     "first_line": "कबीर पाटन ते ऊजरु भला राम भगत जिह ठाइ ॥"
   },
   {
@@ -3610,8 +3610,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 152,
     "title": "सलोक 152: कबीर गंग जमुन के अंतरे सहज सुंन के ...",
-    "theme": "सलोक 152: कबीर गंग जमुन के अंतरे सहज सुंन के ...",
-    "theme_en": "Salok 152: Kabaeera Ganga Jamauna Kae Antarae Sahaja Saun",
+    "theme": "गंगा-यमुना के मध्य सहज-सुन्न का घाट और कबीर की कुटिया",
+    "theme_en": "Between Ganga and Yamuna on the Ghat of Sahaja Sunya, Kabir Built His Hut",
     "first_line": "कबीर गंग जमुन के अंतरे सहज सुंन के घाट ॥"
   },
   {
@@ -3622,8 +3622,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 153,
     "title": "सलोक 153: कबीर जैसी उपजी पेड ते जउ तैसी निबहै...",
-    "theme": "सलोक 153: कबीर जैसी उपजी पेड ते जउ तैसी निबहै...",
-    "theme_en": "Salok 153: Kabaeera Jaaisaee Upajaee Paeda Tae Jau Taaisaee",
+    "theme": "प्रारंभिक अनुराग का अंत तक निर्वाह और हीरों की तुच्छता",
+    "theme_en": "If Initial Love Endures Unto the End, Millions of Jewels Cannot Equal It",
     "first_line": "कबीर जैसी उपजी पेड ते जउ तैसी निबहै ओड़ि ॥"
   },
   {
@@ -3634,8 +3634,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 154,
     "title": "सलोक 154: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक...",
-    "theme": "सलोक 154: कबीरा एकु अच्मभउ देखिओ हीरा हाट बिक...",
-    "theme_en": "Salok 154: Kabaeeraa Ekau Achamabhau Daekhaio Haeeraa Haa",
+    "theme": "हाट में बिकता हीरा और पारखी के बिना कौड़ी मोल",
+    "theme_en": "The Diamond Sold in the Mart: Without a Connoisseur Traded for Shells",
     "first_line": "कबीरा एकु अच्मभउ देखिओ हीरा हाट बिकाइ ॥"
   },
   {
@@ -3646,8 +3646,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 155,
     "title": "सलोक 155: कबीरा जहा गिआनु तह धरमु है जहा झूठु...",
-    "theme": "सलोक 155: कबीरा जहा गिआनु तह धरमु है जहा झूठु...",
-    "theme_en": "Salok 155: Kabaeeraa Jahaa Gaiaanau Taha Dharamau Haai Jahaa",
+    "theme": "ज्ञान, धर्म, झूठ, पाप, लोभ, काल और क्षमा",
+    "theme_en": "Where Wisdom Is, Dharma Reigns: Where Forgiveness Dwells, God Resides",
     "first_line": "कबीरा जहा गिआनु तह धरमु है जहा झूठु तह पापु ॥"
   },
   {
@@ -3658,8 +3658,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 156,
     "title": "सलोक 156: कबीर माइआ तजी त किआ भइआ जउ मानु तजि...",
-    "theme": "सलोक 156: कबीर माइआ तजी त किआ भइआ जउ मानु तजि...",
-    "theme_en": "Salok 156: Kabaeera Maaiaa Tajaee Ta Kaiaa Bhaiaa Jau Maana",
+    "theme": "माया-त्याग के बाद मान का अहंकार और मुनियों का पतन",
+    "theme_en": "Renouncing Maya Matters Not if Pride Remains: Pride Devoured Sages",
     "first_line": "कबीर माइआ तजी त किआ भइआ जउ मानु तजिआ नही जाइ ॥"
   },
   {
@@ -3670,8 +3670,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 157,
     "title": "सलोक 157: कबीर साचा सतिगुरु मै मिलिआ सबदु जु ...",
-    "theme": "सलोक 157: कबीर साचा सतिगुरु मै मिलिआ सबदु जु ...",
-    "theme_en": "Salok 157: Kabaeera Saachaa Sataigaurau Maai Mailaiaa Sabada",
+    "theme": "सच्चे सद्गुरु का शब्द-बाण और कलेजे में छेद",
+    "theme_en": "The True Master Fired the Arrow of the Word: Piercing the Inner Heart",
     "first_line": "कबीर साचा सतिगुरु मै मिलिआ सबदु जु बाहिआ एकु ॥"
   },
   {
@@ -3682,8 +3682,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 158,
     "title": "सलोक 158: कबीर साचा सतिगुरु किआ करै जउ सिखा म...",
-    "theme": "सलोक 158: कबीर साचा सतिगुरु किआ करै जउ सिखा म...",
-    "theme_en": "Salok 158: Kabaeera Saachaa Sataigaurau Kaiaa Karaai Jau Sa",
+    "theme": "सद्गुरु क्या करे जब शिष्य में खोट हो (बांस में फूंक)",
+    "theme_en": "What Can the Master Do if the Disciple Is Flawed: Blowing in Hollow Bamboo",
     "first_line": "कबीर साचा सतिगुरु किआ करै जउ सिखा महि चूक ॥"
   },
   {
@@ -3694,8 +3694,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 159,
     "title": "सलोक 159: कबीर है गै बाहन सघन घन छत्रपती की न...",
-    "theme": "सलोक 159: कबीर है गै बाहन सघन घन छत्रपती की न...",
-    "theme_en": "Salok 159: Kabaeera Haai Gaai Baahana Saghana Ghana Chhatarapataee",
+    "theme": "छत्रपति की रानी पर हरि-जन की पनिहारी की श्रेष्ठता",
+    "theme_en": "The Emperor's Queen Cannot Equal the Water-Bearer of God's Servant",
     "first_line": "कबीर है गै बाहन सघन घन छत्रपती की नारि ॥"
   },
   {
@@ -3706,8 +3706,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 160,
     "title": "सलोक 160: कबीर न्रिप नारी किउ निंदीऐ किउ हरि ...",
-    "theme": "सलोक 160: कबीर न्रिप नारी किउ निंदीऐ किउ हरि ...",
-    "theme_en": "Salok 160: Kabaeera Naraipa Naaraee Kaiu Naindaeeai Kaiu",
+    "theme": "राजा की रानी की निंदा और हरि-चेरी का सम्मान",
+    "theme_en": "Why Praise the Lord's Maid and Blame the Queen: Devotion versus Lust",
     "first_line": "कबीर न्रिप नारी किउ निंदीऐ किउ हरि चेरी कउ मानु ॥"
   },
   {
@@ -3718,8 +3718,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 161,
     "title": "सलोक 161: कबीर थूनी पाई थिति भई सतिगुर बंधी ध...",
-    "theme": "सलोक 161: कबीर थूनी पाई थिति भई सतिगुर बंधी ध...",
-    "theme_en": "Salok 161: Kabaeera Thaoonaee Paaee Thaitai Bhaee Sataigaura Ba",
+    "theme": "सद्गुरु का धैर्य-स्तंभ और मानसरोवर तट पर हीरा-व्यापार",
+    "theme_en": "The Master's Pillar of Stability: Trading Diamonds by Mansarovar",
     "first_line": "कबीर थूनी पाई थिति भई सतिगुर बंधी धीर ॥"
   },
   {
@@ -3730,8 +3730,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 162,
     "title": "सलोक 162: कबीर हरि हीरा जन जउहरी ले कै मांडै ...",
-    "theme": "सलोक 162: कबीर हरि हीरा जन जउहरी ले कै मांडै ...",
-    "theme_en": "Salok 162: Kabaeera Harai Haeeraa Jana Jauharaee Lae Kaai Ma",
+    "theme": "हरि हीरा, संत जौहरी और पारखी की हाट",
+    "theme_en": "Hari Is the Diamond, the Devotee Is the Jeweler: Trading with the Wise",
     "first_line": "कबीर हरि हीरा जन जउहरी ले कै मांडै हाट ॥"
   },
   {
@@ -3742,8 +3742,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 163,
     "title": "सलोक 163: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु ...",
-    "theme": "सलोक 163: कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु ...",
-    "theme_en": "Salok 163: Kabaeera Kaama Parae Harai Saimaraeeai Aisaa Sai",
+    "theme": "विपत्ति के समान नित्य सिमरन और अमरापुर का वास",
+    "theme_en": "Remember God in Peace as in Distress: Dwell in the Immortal Realm",
     "first_line": "कबीर काम परे हरि सिमरीऐ ऐसा सिमरहु नित ॥"
   },
   {
@@ -3754,8 +3754,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 164,
     "title": "सलोक 164: कबीर सेवा कउ दुइ भले एकु संतु इकु र...",
-    "theme": "सलोक 164: कबीर सेवा कउ दुइ भले एकु संतु इकु र...",
-    "theme_en": "Salok 164: Kabaeera Saevaa Kau Daui Bhalae Ekau Santau",
+    "theme": "सेवा के दो ही पात्र: संत और राम",
+    "theme_en": "Only Two Worthy of Service: The Saint and Ram",
     "first_line": "कबीर सेवा कउ दुइ भले एकु संतु इकु रामु ॥"
   },
   {
@@ -3766,8 +3766,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 165,
     "title": "सलोक 165: कबीर जिह मारगि पंडित गए पाछै परी बह...",
-    "theme": "सलोक 165: कबीर जिह मारगि पंडित गए पाछै परी बह...",
-    "theme_en": "Salok 165: Kabaeera Jaiha Maaragai Pandaita Gae Paachhaai Pa",
+    "theme": "पंडितों का राजपथ और राम की अवघट घाटी पर कबीर",
+    "theme_en": "The Pandits Took the Easy Highway: Kabir Climbs the Steep Cliff of Ram",
     "first_line": "कबीर जिह मारगि पंडित गए पाछै परी बहीर ॥"
   },
   {
@@ -3778,8 +3778,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 166,
     "title": "सलोक 166: कबीर दुनीआ के दोखे मूआ चालत कुल की ...",
-    "theme": "सलोक 166: कबीर दुनीआ के दोखे मूआ चालत कुल की ...",
-    "theme_en": "Salok 166: Kabaeera Daunaeeaa Kae Daokhae Maooaa Chaalata Kau",
+    "theme": "कुल की मर्यादा की चिंता में मरण और श्मशान में लज्जा",
+    "theme_en": "Perished for Family Pride: Whose Clan Is Shamed in the Cremation Ground",
     "first_line": "कबीर दुनीआ के दोखे मूआ चालत कुल की कानि ॥"
   },
   {
@@ -3790,8 +3790,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 167,
     "title": "सलोक 167: कबीर डूबहिगो रे बापुरे बहु लोगन की ...",
-    "theme": "सलोक 167: कबीर डूबहिगो रे बापुरे बहु लोगन की ...",
-    "theme_en": "Salok 167: Kabaeera Daoobahaigao Rae Baapaurae Bahau Laoga",
+    "theme": "पड़ोसी का अंत देखकर स्वयं का बोध",
+    "theme_en": "Thou Shalt Drown in Worldly Opinions: What Befell Thy Neighbor Awaits Thee",
     "first_line": "कबीर डूबहिगो रे बापुरे बहु लोगन की कानि ॥"
   },
   {
@@ -3802,8 +3802,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 168,
     "title": "सलोक 168: कबीर भली मधूकरी नाना बिधि को नाजु ॥...",
-    "theme": "सलोक 168: कबीर भली मधूकरी नाना बिधि को नाजु ॥...",
-    "theme_en": "Salok 168: Kabaeera Bhalaee Madhaookaraee Naanaa Baidhai Kao Na",
+    "theme": "मधुकरी का संतोष और विशाल साम्राज्य",
+    "theme_en": "Blessed Is Begged Food from Many Doors: Boundless Kingdom Without Claims",
     "first_line": "कबीर भली मधूकरी नाना बिधि को नाजु ॥"
   },
   {
@@ -3814,8 +3814,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 169,
     "title": "सलोक 169: कबीर दावै दाझनु होतु है निरदावै रहै...",
-    "theme": "सलोक 169: कबीर दावै दाझनु होतु है निरदावै रहै...",
-    "theme_en": "Salok 169: Kabaeera Daavaai Daajhanau Haotau Haai Nairadaava",
+    "theme": "दावे में जलन और निष्दावे में निडरता",
+    "theme_en": "Claims Bring Burning Anxiety: The Claimless Man Deems Indra a Pauper",
     "first_line": "कबीर दावै दाझनु होतु है निरदावै रहै निसंक ॥"
   },
   {
@@ -3826,8 +3826,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 170,
     "title": "सलोक 170: कबीर पालि समुहा सरवरु भरा पी न सकै ...",
-    "theme": "सलोक 170: कबीर पालि समुहा सरवरु भरा पी न सकै ...",
-    "theme_en": "Salok 170: Kabaeera Paalai Samauhaa Saravarau Bharaa Paee Na",
+    "theme": "पाल पर लबालब सरोवर और कबीर का अघाकर पीना",
+    "theme_en": "The Lake Brimming at the Embankment: Kabir, Drink Thy Fill",
     "first_line": "कबीर पालि समुहा सरवरु भरा पी न सकै कोई नीरु ॥"
   },
   {
@@ -3838,8 +3838,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 171,
     "title": "सलोक 171: कबीर परभाते तारे खिसहि तिउ इहु खिसै...",
-    "theme": "सलोक 171: कबीर परभाते तारे खिसहि तिउ इहु खिसै...",
-    "theme_en": "Salok 171: Kabaeera Parabhaatae Taarae Khaisahai Taiu Ihau",
+    "theme": "ऐसी मृत्यु मरो जिससे परमानंद हो",
+    "theme_en": "Die Such a Death that Bliss Welcomes the Soul into Eternal Rest",
     "first_line": "कबीर परभाते तारे खिसहि तिउ इहु खिसै सरीरु ॥"
   },
   {
@@ -3850,8 +3850,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 172,
     "title": "सलोक 172: कबीर कोठी काठ की दह दिसि लागी आगि ॥...",
-    "theme": "सलोक 172: कबीर कोठी काठ की दह दिसि लागी आगि ॥...",
-    "theme_en": "Salok 172: Kabaeera Kaothaee Kaatha Kaee Daha Daisai Laagaee",
+    "theme": "मार्ग में पाषाण का अगाध होना और द्वैत की निवृत्ति",
+    "theme_en": "The Stone Dissolved in the Path: Duality Cured in Truth",
     "first_line": "कबीर कोठी काठ की दह दिसि लागी आगि ॥"
   },
   {
@@ -3862,8 +3862,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 173,
     "title": "सलोक 173: कबीर संसा दूरि करु कागद देह बिहाइ ॥...",
-    "theme": "सलोक 173: कबीर संसा दूरि करु कागद देह बिहाइ ॥...",
-    "theme_en": "Salok 173: Kabaeera Sansaa Daoorai Karau Kaagada Daeha Bai",
+    "theme": "पाषाण की छाती पर पैर रख मूर्ति बनाना",
+    "theme_en": "Carving the Stone Idol Stepping on Its Chest: If God, It Would Devour the Carver",
     "first_line": "कबीर संसा दूरि करु कागद देह बिहाइ ॥"
   },
   {
@@ -3874,8 +3874,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 174,
     "title": "सलोक 174: कबीर संतु न छाडै संतई जउ कोटिक मिलह...",
-    "theme": "सलोक 174: कबीर संतु न छाडै संतई जउ कोटिक मिलह...",
-    "theme_en": "Salok 174: Kabaeera Santau Na Chhaadaai Santaee Jau Kaotaika",
+    "theme": "कलियुग की कुटिलता और साधु के कुल की अगाधता",
+    "theme_en": "Kaliyuga Is Wicked and Deep, but Sublime Is the Lineage of the Saint",
     "first_line": "कबीर संतु न छाडै संतई जउ कोटिक मिलहि असंत ॥"
   },
   {
@@ -3886,8 +3886,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 175,
     "title": "सलोक 175: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु...",
-    "theme": "सलोक 175: कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु...",
-    "theme_en": "Salok 175: Kabaeera Manau Saeetalau Bhaiaa Paaiaa Barahama",
+    "theme": "साधु के पावन चरणों का जल और देह की नश्वरता",
+    "theme_en": "Drink the Water of the Saint's Pure Feet: This Clay Yields Naught Else",
     "first_line": "कबीर मनु सीतलु भइआ पाइआ ब्रहम गिआनु ॥"
   },
   {
@@ -3898,8 +3898,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 176,
     "title": "सलोक 176: कबीर सारी सिरजनहार की जानै नाही कोइ...",
-    "theme": "सलोक 176: कबीर सारी सिरजनहार की जानै नाही कोइ...",
-    "theme_en": "Salok 176: Kabaeera Saaraee Sairajanahaara Kaee Jaanaai Naaha",
+    "theme": "साधु की उत्तम मति और साक्त की अंधी दृष्टि",
+    "theme_en": "The Saint's Intellect Is Exalted, the Sceptic's Blind: Vision Purifies",
     "first_line": "कबीर सारी सिरजनहार की जानै नाही कोइ ॥"
   },
   {
@@ -3910,8 +3910,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 177,
     "title": "सलोक 177: कबीर भली भई जो भउ परिआ दिसा गईं सभ ...",
-    "theme": "सलोक 177: कबीर भली भई जो भउ परिआ दिसा गईं सभ ...",
-    "theme_en": "Salok 177: Kabaeera Bhalaee Bhaee Jao Bhau Paraiaa Daisaa Gaee",
+    "theme": "साक्त की संगति का त्याग और दावानल में जलना",
+    "theme_en": "Shun the Sinner's Company: Who Dwells with the Sceptic Burns in Fire",
     "first_line": "कबीर भली भई जो भउ परिआ दिसा गईं सभ भूलि ॥"
   },
   {
@@ -3922,8 +3922,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 178,
     "title": "सलोक 178: कबीरा धूरि सकेलि कै पुरीआ बांधी देह...",
-    "theme": "सलोक 178: कबीरा धूरि सकेलि कै पुरीआ बांधी देह...",
-    "theme_en": "Salok 178: Kabaeeraa Dhaoorai Sakaelai Kaai Pauraeeaa Baandha",
+    "theme": "पत्थर की नाव में साक्त के संग बैठना और डूबना",
+    "theme_en": "Sit Not in the Stone Boat with the Sceptic: It Sinks the Crew",
     "first_line": "कबीरा धूरि सकेलि कै पुरीआ बांधी देह ॥"
   },
   {
@@ -3934,8 +3934,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 179,
     "title": "सलोक 179: कबीर सूरज चांद कै उदै भई सभ देह ॥...",
-    "theme": "सलोक 179: कबीर सूरज चांद कै उदै भई सभ देह ॥...",
-    "theme_en": "Salok 179: Kabaeera Saooraja Chaanda Kaai Udaai Bhaee Sabha Dae",
+    "theme": "बांस की फांस जैसी साक्त-संगति",
+    "theme_en": "The Sceptic's Company Is Like a Bamboo Splinter: Entangled Unto Death",
     "first_line": "कबीर सूरज चांद कै उदै भई सभ देह ॥"
   },
   {
@@ -3946,8 +3946,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 180,
     "title": "सलोक 180: जह अनभउ तह भै नही जह भउ तह हरि नाहि...",
-    "theme": "सलोक 180: जह अनभउ तह भै नही जह भउ तह हरि नाहि...",
-    "theme_en": "Salok 180: Jaha Anabhau Taha Bhaai Nahaee Jaha Bhau Taha Harai",
+    "theme": "कच्ची धातु का घट और राम-भजन से साबुत रहना",
+    "theme_en": "An Unbaked Vessel of Clay: Keep It Intact by Chanting Ram",
     "first_line": "जह अनभउ तह भै नही जह भउ तह हरि नाहि ॥"
   },
   {
@@ -3958,8 +3958,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 181,
     "title": "सलोक 181: कबीर जिनहु किछू जानिआ नही तिन सुख न...",
-    "theme": "सलोक 181: कबीर जिनहु किछू जानिआ नही तिन सुख न...",
-    "theme_en": "Salok 181: Kabaeera Jainahau Kaichhaoo Jaanaiaa Nahaee Taina",
+    "theme": "काया-मंदिर में आग और राम-विस्मरण का संताप",
+    "theme_en": "Fire Consumes the Body-Temple: What Can Be Rescued When Ram Was Forgotten",
     "first_line": "कबीर जिनहु किछू जानिआ नही तिन सुख नीद बिहाइ ॥"
   },
   {
@@ -3970,8 +3970,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 182,
     "title": "सलोक 182: कबीर मारे बहुतु पुकारिआ पीर पुकारै ...",
-    "theme": "सलोक 182: कबीर मारे बहुतु पुकारिआ पीर पुकारै ...",
-    "theme_en": "Salok 182: Kabaeera Maarae Bahautau Paukaaraiaa Paeera Pau",
+    "theme": "सद्गुरु की कृपा से मुक्ति-विश्राम और चरण-कमल",
+    "theme_en": "The True Master Bestowed Rest and Liberation: Chanting Ram's Name",
     "first_line": "कबीर मारे बहुतु पुकारिआ पीर पुकारै अउर ॥"
   },
   {
@@ -3982,8 +3982,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 183,
     "title": "सलोक 183: कबीर चोट सुहेली सेल की लागत लेइ उसा...",
-    "theme": "सलोक 183: कबीर चोट सुहेली सेल की लागत लेइ उसा...",
-    "theme_en": "Salok 183: Kabaeera Chaota Sauhaelaee Saela Kaee Laagata Lae",
+    "theme": "ब्रह्म-ज्ञान से मन की शीतलता और अभिमान-त्यागी पर बलिहारी",
+    "theme_en": "Mind Cooled by Divine Wisdom: All Sacrifice Unto Him Who Shed Pride",
     "first_line": "कबीर चोट सुहेली सेल की लागत लेइ उसास ॥"
   },
   {
@@ -3994,8 +3994,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 184,
     "title": "सलोक 184: कबीर मुलां मुनारे किआ चढहि सांई न ब...",
-    "theme": "सलोक 184: कबीर मुलां मुनारे किआ चढहि सांई न ब...",
-    "theme_en": "Salok 184: Kabaeera Maulaan Maunaarae Kaiaa Chadhahai Saan",
+    "theme": "मन के रहस्य को समझाने वाला ही कबीर का सच्चा मित्र",
+    "theme_en": "None Deciphers the Mystery of the Mind: Who Understands Is Kabir's Friend",
     "first_line": "कबीर मुलां मुनारे किआ चढहि सांई न बहरा होइ ॥"
   },
   {
@@ -4006,8 +4006,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 185,
     "title": "सलोक 185: सेख सबूरी बाहरा किआ हज काबे जाइ ॥...",
-    "theme": "सलोक 185: सेख सबूरी बाहरा किआ हज काबे जाइ ॥...",
-    "theme_en": "Salok 185: Saekha Sabaooraee Baaharaa Kaiaa Haja Kaabae Jaa",
+    "theme": "वाद्य-यंत्र का टूटना और बजाने वाले की विदाई",
+    "theme_en": "The Lute Shattered, the Musician Departed: What Music Remains",
     "first_line": "सेख सबूरी बाहरा किआ हज काबे जाइ ॥"
   },
   {
@@ -4018,8 +4018,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 186,
     "title": "सलोक 186: कबीर अलह की करि बंदगी जिह सिमरत दुख...",
-    "theme": "सलोक 186: कबीर अलह की करि बंदगी जिह सिमरत दुख...",
-    "theme_en": "Salok 186: Kabaeera Alaha Kaee Karai Bandagaee Jaiha Saimara",
+    "theme": "ऐसी मृत्यु मरो कि पुनः जन्म-मरण न हो",
+    "theme_en": "Die Such a Death: Becoming Dead While Alive, Attaining the Ageless State",
     "first_line": "कबीर अलह की करि बंदगी जिह सिमरत दुखु जाइ ॥"
   },
   {
@@ -4030,8 +4030,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 187,
     "title": "सलोक 187: कबीर जोरी कीए जुलमु है कहता नाउ हला...",
-    "theme": "सलोक 187: कबीर जोरी कीए जुलमु है कहता नाउ हला...",
-    "theme_en": "Salok 187: Kabaeera Jaoraee Kaeee Jaulamau Haai Kahataa Naa",
+    "theme": "चरण-कमल की मौज में मग्नता और उपाधियों से मुक्ति",
+    "theme_en": "Enraptured in the Lotus Feet: Master's Sanctuary Clears All Afflictions",
     "first_line": "कबीर जोरी कीए जुलमु है कहता नाउ हलालु ॥"
   },
   {
@@ -4042,8 +4042,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 188,
     "title": "सलोक 188: कबीर खूबु खाना खीचरी जा महि अम्रितु...",
-    "theme": "सलोक 188: कबीर खूबु खाना खीचरी जा महि अम्रितु...",
-    "theme_en": "Salok 188: Kabaeera Khaoobau Khaanaa Khaeecharaee Jaa Mahai Ama",
+    "theme": "हरि के द्वार पर मरण और जहां कोई नहीं रोकता",
+    "theme_en": "Yearning to Die at Hari's Gate Where Coming and Going Is Unbarred",
     "first_line": "कबीर खूबु खाना खीचरी जा महि अम्रितु लोनु ॥"
   },
   {
@@ -4054,8 +4054,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 189,
     "title": "सलोक 189: कबीर गुरु लागा तब जानीऐ मिटै मोहु त...",
-    "theme": "सलोक 189: कबीर गुरु लागा तब जानीऐ मिटै मोहु त...",
-    "theme_en": "Salok 189: Kabaeera Gaurau Laagaa Taba Jaanaeeai Maitaai Ma",
+    "theme": "साक्त से सूअर भला और अनाम मृत्यु",
+    "theme_en": "Better the Swine than the Sceptic: Dead Without a Name",
     "first_line": "कबीर गुरु लागा तब जानीऐ मिटै मोहु तन ताप ॥"
   },
   {
@@ -4066,8 +4066,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 190,
     "title": "सलोक 190: कबीर राम कहन महि भेदु है ता महि एकु...",
-    "theme": "सलोक 190: कबीर राम कहन महि भेदु है ता महि एकु...",
-    "theme_en": "Salok 190: Kabaeera Raama Kahana Mahai Bhaedau Haai Taa Maha",
+    "theme": "कौड़ी-कौड़ी जोड़ना और लंगोटी का छिनना",
+    "theme_en": "Hoarding Penny by Penny: Even the Loincloth Stripped at Death",
     "first_line": "कबीर राम कहन महि भेदु है ता महि एकु बिचारु ॥"
   },
   {
@@ -4078,8 +4078,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 191,
     "title": "सलोक 191: कबीर रामै राम कहु कहिबे माहि बिबेक ...",
-    "theme": "सलोक 191: कबीर रामै राम कहु कहिबे माहि बिबेक ...",
-    "theme_en": "Salok 191: Kabaeera Raamaai Raama Kahau Kahaibae Maahai Ba",
+    "theme": "राम-स्मरण में विवेक और अद्वैत बोध",
+    "theme_en": "Discrimination in Uttering Ram: One in the Many, and the One Alone",
     "first_line": "कबीर रामै राम कहु कहिबे माहि बिबेक ॥"
   },
   {
@@ -4090,8 +4090,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 192,
     "title": "सलोक 192: कबीर जा घर साध न सेवीअहि हरि की सेव...",
-    "theme": "सलोक 192: कबीर जा घर साध न सेवीअहि हरि की सेव...",
-    "theme_en": "Salok 192: Kabaeera Jaa Ghara Saadha Na Saevaeeahai Harai Ka",
+    "theme": "साधु-सेवा विहीन घर श्मशान तुल्य",
+    "theme_en": "A House Bereft of Saints Is a Graveyard Where Ghosts Abide",
     "first_line": "कबीर जा घर साध न सेवीअहि हरि की सेवा नाहि ॥"
   },
   {
@@ -4102,8 +4102,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 193,
     "title": "सलोक 193: कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥...",
-    "theme": "सलोक 193: कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥...",
-    "theme_en": "Salok 193: Kabaeera Gaoongaa Haooaa Baavaraa Baharaa Haooaa",
+    "theme": "सद्गुरु के शब्द-बाण से इंद्रिय-मौन और आत्म-समर्पण",
+    "theme_en": "Struck by the Master's Arrow: Dumb, Deaf, and Crippled in Ecstasy",
     "first_line": "कबीर गूंगा हूआ बावरा बहरा हूआ कान ॥"
   },
   {
@@ -4114,8 +4114,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 194,
     "title": "सलोक 194: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु...",
-    "theme": "सलोक 194: कबीर सतिगुर सूरमे बाहिआ बानु जु एकु...",
-    "theme_en": "Salok 194: Kabaeera Sataigaura Saooramae Baahaiaa Baanau Ja",
+    "theme": "सद्गुरु शूरवीर का शब्द-बाण और कलेजे में छेद",
+    "theme_en": "The Master Warrior Shot a Single Dart: Pierced to the Core",
     "first_line": "कबीर सतिगुर सूरमे बाहिआ बानु जु एकु ॥"
   },
   {
@@ -4126,8 +4126,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 195,
     "title": "सलोक 195: कबीर निरमल बूंद अकास की परि गई भूमि...",
-    "theme": "सलोक 195: कबीर निरमल बूंद अकास की परि गई भूमि...",
-    "theme_en": "Salok 195: Kabaeera Nairamala Baoonda Akaasa Kaee Parai Gaee",
+    "theme": "निर्मल बूंद, कुसंग की भूमि और भाड़ की राख",
+    "theme_en": "The Pure Raindrop on Barren Soil: Turning to Furnace Ashes Without Company",
     "first_line": "कबीर निरमल बूंद अकास की परि गई भूमि बिकार ॥"
   },
   {
@@ -4138,8 +4138,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 196,
     "title": "सलोक 196: कबीर निरमल बूंद अकास की लीनी भूमि म...",
-    "theme": "सलोक 196: कबीर निरमल बूंद अकास की लीनी भूमि म...",
-    "theme_en": "Salok 196: Kabaeera Nairamala Baoonda Akaasa Kaee Laeenaee Bha",
+    "theme": "मिट्टी में मिली बूंद और अद्वैत की अखंडता",
+    "theme_en": "The Droplet Mingled with Earth: Unseparable by Any Artifice",
     "first_line": "कबीर निरमल बूंद अकास की लीनी भूमि मिलाइ ॥"
   },
   {
@@ -4150,8 +4150,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 197,
     "title": "सलोक 197: कबीर हज काबे हउ जाइ था आगै मिलिआ खु...",
-    "theme": "सलोक 197: कबीर हज काबे हउ जाइ था आगै मिलिआ खु...",
-    "theme_en": "Salok 197: Kabaeera Haja Kaabae Hau Jaai Thaa Aagaai Maila",
+    "theme": "हज काबा, गो-वध और खुदा की फटकार",
+    "theme_en": "Journeying to Mecca for Hajj: God Inquired Who Commanded Cruelty",
     "first_line": "कबीर हज काबे हउ जाइ था आगै मिलिआ खुदाइ ॥"
   },
   {
@@ -4162,8 +4162,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 198,
     "title": "सलोक 198: कबीर हज काबै होइ होइ गइआ केती बार क...",
-    "theme": "सलोक 198: कबीर हज काबै होइ होइ गइआ केती बार क...",
-    "theme_en": "Salok 198: Kabaeera Haja Kaabaai Haoi Haoi Gaiaa Kaetaee",
+    "theme": "बार-बार काबा जाना और पीर की चुप्पी",
+    "theme_en": "Visiting the Kaaba Times Untold: What Fault That the Master Speaks Not",
     "first_line": "कबीर हज काबै होइ होइ गइआ केती बार कबीर ॥"
   },
   {
@@ -4174,8 +4174,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 199,
     "title": "सलोक 199: कबीर जीअ जु मारहि जोरु करि कहते हहि...",
-    "theme": "सलोक 199: कबीर जीअ जु मारहि जोरु करि कहते हहि...",
-    "theme_en": "Salok 199: Kabaeera Jaeea Jau Maarahai Jaorau Karai Kahata",
+    "theme": "जबरन जीव-हत्या को हलाल बताना और ईश्वरीय लेखा",
+    "theme_en": "Slaughtering by Force and Calling It Lawful: The Sovereign Ledger Awaits",
     "first_line": "कबीर जीअ जु मारहि जोरु करि कहते हहि जु हलालु ॥"
   },
   {
@@ -4186,8 +4186,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 200,
     "title": "सलोक 200: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु...",
-    "theme": "सलोक 200: कबीर जोरु कीआ सो जुलमु है लेइ जबाबु...",
-    "theme_en": "Salok 200: Kabaeera Jaorau Kaeeaa Sao Jaulamau Haai Laei",
+    "theme": "ज्यादती ही जुल्म है और मुंह पर मार",
+    "theme_en": "Coercion Is Cruelty: God Demands Answer and Striking Blows",
     "first_line": "कबीर जोरु कीआ सो जुलमु है लेइ जबाबु खुदाइ ॥"
   },
   {
@@ -4198,8 +4198,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 201,
     "title": "सलोक 201: कबीर लेखा देना सुहेला जउ दिल सूची ह...",
-    "theme": "सलोक 201: कबीर लेखा देना सुहेला जउ दिल सूची ह...",
-    "theme_en": "Salok 201: Kabaeera Laekhaa Daenaa Sauhaelaa Jau Daila Sa",
+    "theme": "पवित्र हृदय का सरल लेखा और बेदाग मुक्ति",
+    "theme_en": "Rendering Accounts Is Easy When the Heart Is Pure: None Seizes the Hem",
     "first_line": "कबीर लेखा देना सुहेला जउ दिल सूची होइ ॥"
   },
   {
@@ -4210,8 +4210,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 202,
     "title": "सलोक 202: कबीर धरती अरु आकास महि दुइ तूं बरी ...",
-    "theme": "सलोक 202: कबीर धरती अरु आकास महि दुइ तूं बरी ...",
-    "theme_en": "Salok 202: Kabaeera Dharataee Arau Aakaasa Mahai Daui Taoon",
+    "theme": "धरती-आकाश का विस्तार और षट्-दर्शन का संशय",
+    "theme_en": "Earth and Sky Stand Bound: Six Philosophies and Eighty-Four Siddhas in Doubt",
     "first_line": "कबीर धरती अरु आकास महि दुइ तूं बरी अबध ॥"
   },
   {
@@ -4222,8 +4222,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 203,
     "title": "सलोक 203: कबीर मेरा मुझ महि किछु नही जो किछु ...",
-    "theme": "सलोक 203: कबीर मेरा मुझ महि किछु नही जो किछु ...",
-    "theme_en": "Salok 203: Kabaeera Maeraa Maujha Mahai Kaichhau Nahaee Jao",
+    "theme": "सर्वस्व समर्पण: मेरा मुझ में कुछ नहीं",
+    "theme_en": "Nothing of Mine in Me: Surrendering Thine Unto Thee, What Do I Lose?",
     "first_line": "कबीर मेरा मुझ महि किछु नही जो किछु है सो तेरा ॥"
   },
   {
@@ -4234,8 +4234,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 204,
     "title": "सलोक 204: कबीर तूं तूं करता तू हूआ मुझ महि रह...",
-    "theme": "सलोक 204: कबीर तूं तूं करता तू हूआ मुझ महि रह...",
-    "theme_en": "Salok 204: Kabaeera Taoon Taoon Karataa Taoo Haooaa Maujha Ma",
+    "theme": "तू-तू करता तू हुआ और अद्वैत दर्शन",
+    "theme_en": "Repeating 'Thou, Thou', I Became Thee: No Ego Remains",
     "first_line": "कबीर तूं तूं करता तू हूआ मुझ महि रहा न हूं ॥"
   },
   {
@@ -4246,8 +4246,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 205,
     "title": "सलोक 205: कबीर बिकारह चितवते झूठे करते आस ॥...",
-    "theme": "सलोक 205: कबीर बिकारह चितवते झूठे करते आस ॥...",
-    "theme_en": "Salok 205: Kabaeera Baikaaraha Chaitavatae Jhaoothae Karatae Aa",
+    "theme": "विकारों का चिंतन, झूठी आशाएं और निराशा में प्रस्थान",
+    "theme_en": "Pondering Vices, Harboring False Hopes: Departed in Despair",
     "first_line": "कबीर बिकारह चितवते झूठे करते आस ॥"
   },
   {
@@ -4258,8 +4258,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 206,
     "title": "सलोक 206: कबीर हरि का सिमरनु जो करै सो सुखीआ ...",
-    "theme": "सलोक 206: कबीर हरि का सिमरनु जो करै सो सुखीआ ...",
-    "theme_en": "Salok 206: Kabaeera Harai Kaa Saimaranau Jao Karaai Sao Sa",
+    "theme": "हरि-सिमरन से अखंड सुख और अभय",
+    "theme_en": "He Who Remembers Hari Is Blessed: Protected by the Creator",
     "first_line": "कबीर हरि का सिमरनु जो करै सो सुखीआ संसारि ॥"
   },
   {
@@ -4270,8 +4270,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 207,
     "title": "सलोक 207: कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥...",
-    "theme": "सलोक 207: कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥...",
-    "theme_en": "Salok 207: Kabaeera Ghaanaee Paeeड़tae Sataigaura Laeee Chhadaa",
+    "theme": "कोल्हू की घानी से गुरु ने उबारा",
+    "theme_en": "Rescued from the Crushing Oil-Press: Ancient Primal Love Blossomed",
     "first_line": "कबीर घाणी पीड़ते सतिगुर लीए छडाइ ॥"
   },
   {
@@ -4282,8 +4282,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 208,
     "title": "सलोक 208: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ...",
-    "theme": "सलोक 208: कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ...",
-    "theme_en": "Salok 208: Kabaeera Taalaai Taolaai Dainau Gaiaa Baiaajau",
+    "theme": "टालमटोल में जीवन बीता, बढ़ता ब्याज और काल का आगमन",
+    "theme_en": "Days Lost in Procrastination, Compounding Debt: Death Arrived",
     "first_line": "कबीर टालै टोलै दिनु गइआ बिआजु बढंतउ जाइ ॥"
   },
   {
@@ -4294,8 +4294,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 209,
     "title": "सलोक 209: महला ५ ॥...",
-    "theme": "सलोक 209: महला ५ ॥...",
-    "theme_en": "Salok 209: Mahalaa ५",
+    "theme": "कुत्ते का हड्डियों के पीछे दौड़ना और गुरु द्वारा मुक्ति",
+    "theme_en": "The Barking Hound Chasing Bones: The Guru Rescued from the Frenzy",
     "first_line": "महला ५ ॥"
   },
   {
@@ -4306,8 +4306,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 210,
     "title": "सलोक 210: महला ५ ॥...",
-    "theme": "सलोक 210: महला ५ ॥...",
-    "theme_en": "Salok 210: Mahalaa ५",
+    "theme": "साधु की धरती, चोरों का उपद्रव और संतों का लाभ",
+    "theme_en": "The Earth Belongs to Saints: Thieves Trample, Yet Saints Reap the Harvest",
     "first_line": "महला ५ ॥"
   },
   {
@@ -4318,8 +4318,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 211,
     "title": "सलोक 211: महला ५ ॥...",
-    "theme": "सलोक 211: महला ५ ॥...",
-    "theme_en": "Salok 211: Mahalaa ५",
+    "theme": "चावल के लिए भूसे पर मूसल और कुसंग का फल",
+    "theme_en": "Chaff Pounded for Grain: Sitting with Evil Brings Judgment Before Dharmaraj",
     "first_line": "महला ५ ॥"
   },
   {
@@ -4330,8 +4330,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 212,
     "title": "सलोक 212: नामा माइआ मोहिआ कहै तिलोचनु मीत ॥...",
-    "theme": "सलोक 212: नामा माइआ मोहिआ कहै तिलोचनु मीत ॥...",
-    "theme_en": "Salok 212: Naamaa Maaiaa Maohaiaa Kahaai Tailaochanau Maee",
+    "theme": "त्रिलोचन का प्रश्न: नामा माया में क्यों लिप्त है",
+    "theme_en": "Trilochan's Question: Why Art Thou Enamored by Maya, Printing Calico?",
     "first_line": "नामा माइआ मोहिआ कहै तिलोचनु मीत ॥"
   },
   {
@@ -4342,8 +4342,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 213,
     "title": "सलोक 213: नामा कहै तिलोचना मुख ते रामु सम्हाल...",
-    "theme": "सलोक 213: नामा कहै तिलोचना मुख ते रामु सम्हाल...",
-    "theme_en": "Salok 213: Naamaa Kahaai Tailaochanaa Maukha Tae Raamau Sa",
+    "theme": "हाथ-पांव से काम और चित्त निरंजन में",
+    "theme_en": "Hands and Feet for Honest Labor: Mind Centered on the Immaculate Lord",
     "first_line": "नामा कहै तिलोचना मुख ते रामु सम्हालि ॥"
   },
   {
@@ -4354,8 +4354,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 214,
     "title": "सलोक 214: महला ५ ॥...",
-    "theme": "सलोक 214: महला ५ ॥...",
-    "theme_en": "Salok 214: Mahalaa ५",
+    "theme": "हमारा कोई नहीं, हम किसी के नहीं: केवल स्रष्टा में लीन",
+    "theme_en": "None Is Ours, Nor Are We Anyone's: Merged in the Sole Creator",
     "first_line": "महला ५ ॥"
   },
   {
@@ -4366,8 +4366,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 215,
     "title": "सलोक 215: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ...",
-    "theme": "सलोक 215: कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ...",
-    "theme_en": "Salok 215: Kabaeera Kaeechaड़i Aataa Gairai Paraiaa Kaichhaoo",
+    "theme": "कीचड़ में गिरा आटा और साथ जाने वाला दाना",
+    "theme_en": "Flour Fallen in the Mud: Only What Was Chewed While Grinding Went Along",
     "first_line": "कबीर कीचड़ि आटा गिरि परिआ किछू न आइओ हाथ ॥"
   },
   {
@@ -4378,8 +4378,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 216,
     "title": "सलोक 216: कबीर मनु जानै सभ बात जानत ही अउगनु ...",
-    "theme": "सलोक 216: कबीर मनु जानै सभ बात जानत ही अउगनु ...",
-    "theme_en": "Salok 216: Kabaeera Manau Jaanaai Sabha Baata Jaanata Haee A",
+    "theme": "मन सब जानता है फिर भी अवगुण: हाथ में दीपक लेकर कुएं में गिरना",
+    "theme_en": "The Mind Knows All Yet Errs: What Good the Lamp if Falling into the Well?",
     "first_line": "कबीर मनु जानै सभ बात जानत ही अउगनु करै ॥"
   },
   {
@@ -4390,8 +4390,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 217,
     "title": "सलोक 217: कबीर लागी प्रीति सुजान सिउ बरजै लोग...",
-    "theme": "सलोक 217: कबीर लागी प्रीति सुजान सिउ बरजै लोग...",
-    "theme_en": "Salok 217: Kabaeera Laagaee Paraeetai Saujaana Saiu Baraja",
+    "theme": "सुजान प्रभु से प्रीति और अज्ञानी संसार की रोक",
+    "theme_en": "Love Bound with the Omniscient Lord: How Can It Break When He Is Our Very Breath?",
     "first_line": "कबीर लागी प्रीति सुजान सिउ बरजै लोगु अजानु ॥"
   },
   {
@@ -4402,8 +4402,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 218,
     "title": "सलोक 218: कबीर कोठे मंडप हेतु करि काहे मरहु स...",
-    "theme": "सलोक 218: कबीर कोठे मंडप हेतु करि काहे मरहु स...",
-    "theme_en": "Salok 218: Kabaeera Kaothae Mandapa Haetau Karai Kaahae Ma",
+    "theme": "महलों-मण्डपों का मोह व्यर्थ: आवश्यकता केवल साढ़े तीन हाथ",
+    "theme_en": "Why Die Adorning Palaces? The Need Is Merely Three and a Half Cubits",
     "first_line": "कबीर कोठे मंडप हेतु करि काहे मरहु सवारि ॥"
   },
   {
@@ -4414,8 +4414,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 219,
     "title": "सलोक 219: कबीर जो मै चितवउ ना करै किआ मेरे चि...",
-    "theme": "सलोक 219: कबीर जो मै चितवउ ना करै किआ मेरे चि...",
-    "theme_en": "Salok 219: Kabaeera Jao Maai Chaitavau Naa Karaai Kaiaa Mae",
+    "theme": "मनुष्य की सोच निष्फल: हरि वही करता है जो उसकी रज़ा में है",
+    "theme_en": "What I Contemplate Occurs Not: Hari Does What Never Entered My Thought",
     "first_line": "कबीर जो मै चितवउ ना करै किआ मेरे चितवे होइ ॥"
   },
   {
@@ -4426,8 +4426,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 220,
     "title": "सलोक 220: मः ३ ॥...",
-    "theme": "सलोक 220: मः ३ ॥...",
-    "theme_en": "Salok 220: Ma ३",
+    "theme": "चिंता भी वही कराता है, निश्चिंत भी वही करता है",
+    "theme_en": "He Imparts Anxiety and He Grants Freedom from Care: Praise the Provider",
     "first_line": "मः ३ ॥"
   },
   {
@@ -4438,8 +4438,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 221,
     "title": "सलोक 221: मः ५ ॥...",
-    "theme": "सलोक 221: मः ५ ॥...",
-    "theme_en": "Salok 221: Ma ५",
+    "theme": "लालच में भटकाव, पापों का संचय और क्षण में मृत्यु",
+    "theme_en": "Wandering in Greed, Accumulating Sins: Life Ended in an Instant",
     "first_line": "मः ५ ॥"
   },
   {
@@ -4450,8 +4450,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 222,
     "title": "सलोक 222: कबीर काइआ काची कारवी केवल काची धातु...",
-    "theme": "सलोक 222: कबीर काइआ काची कारवी केवल काची धातु...",
-    "theme_en": "Salok 222: Kabaeera Kaaiaa Kaachaee Kaaravaee Kaevala Kaachaee",
+    "theme": "कच्ची मिट्टी का करवा: राम-भजन से ही रक्षा",
+    "theme_en": "The Fragile Vessel of Raw Clay: Adore Ram or All Is Shattered",
     "first_line": "कबीर काइआ काची कारवी केवल काची धातु ॥"
   },
   {
@@ -4462,8 +4462,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 223,
     "title": "सलोक 223: कबीर केसो केसो कूकीऐ न सोईऐ असार ॥...",
-    "theme": "सलोक 223: कबीर केसो केसो कूकीऐ न सोईऐ असार ॥...",
-    "theme_en": "Salok 223: Kabaeera Kaesao Kaesao Kaookaeeai Na Saoeeai Asa",
+    "theme": "केशव-केशव की निरंतर पुकार और जागृति",
+    "theme_en": "Cry Out 'Keso, Keso' Unceasingly: Sleep Not in Torpor",
     "first_line": "कबीर केसो केसो कूकीऐ न सोईऐ असार ॥"
   },
   {
@@ -4474,8 +4474,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 224,
     "title": "सलोक 224: कबीर काइआ कजली बनु भइआ मनु कुंचरु म...",
-    "theme": "सलोक 224: कबीर काइआ कजली बनु भइआ मनु कुंचरु म...",
-    "theme_en": "Salok 224: Kabaeera Kaaiaa Kajalaee Banau Bhaiaa Manau Kaun",
+    "theme": "काया कजली बन, मन मतवाला हाथी और ज्ञान का अंकुश",
+    "theme_en": "Body the Kajli Forest, Mind the Intoxicated Elephant: Wisdom the Goad",
     "first_line": "कबीर काइआ कजली बनु भइआ मनु कुंचरु मय मंतु ॥"
   },
   {
@@ -4486,8 +4486,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 225,
     "title": "सलोक 225: कबीर राम रतनु मुखु कोथरी पारख आगै ख...",
-    "theme": "सलोक 225: कबीर राम रतनु मुखु कोथरी पारख आगै ख...",
-    "theme_en": "Salok 225: Kabaeera Raama Ratanau Maukhau Kaotharaee Paarakha",
+    "theme": "मुख की पोटली में राम-रत्न और जौहरी के सामने प्रदर्शन",
+    "theme_en": "The Jewel of Ram in the Mouth's Pouch: Open It Only Before Connoisseurs",
     "first_line": "कबीर राम रतनु मुखु कोथरी पारख आगै खोलि ॥"
   },
   {
@@ -4498,8 +4498,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 226,
     "title": "सलोक 226: कबीर राम नामु जानिओ नही पालिओ कटकु ...",
-    "theme": "सलोक 226: कबीर राम नामु जानिओ नही पालिओ कटकु ...",
-    "theme_en": "Salok 226: Kabaeera Raama Naamau Jaanaio Nahaee Paalaio",
+    "theme": "कुटुंब के पोषण में जीवन बीता और व्यर्थ अंत",
+    "theme_en": "Knew Not Ram's Name, Reared a Host of Kin: Died in Worldly Chores Unheard",
     "first_line": "कबीर राम नामु जानिओ नही पालिओ कटकु कुट्मबु ॥"
   },
   {
@@ -4510,8 +4510,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 227,
     "title": "सलोक 227: कबीर आखी केरे माटुके पलु पलु गई बिह...",
-    "theme": "सलोक 227: कबीर आखी केरे माटुके पलु पलु गई बिह...",
-    "theme_en": "Salok 227: Kabaeera Aakhaee Kaerae Maataukae Palau Palau Ga",
+    "theme": "आंख की पलक झपकते बीता जीवन और यम का नगाड़ा",
+    "theme_en": "Life Passed in the Winking of an Eye: Mind Left Not Worldly Ties, Yam Sounded the Drum",
     "first_line": "कबीर आखी केरे माटुके पलु पलु गई बिहाइ ॥"
   },
   {
@@ -4522,8 +4522,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 228,
     "title": "सलोक 228: कबीर तरवर रूपी रामु है फल रूपी बैरा...",
-    "theme": "सलोक 228: कबीर तरवर रूपी रामु है फल रूपी बैरा...",
-    "theme_en": "Salok 228: Kabaeera Taravara Raoopaee Raamau Haai Phala Raoopaee",
+    "theme": "तरुवर रूपी राम, वैराग्य का फल और साधु की छाया",
+    "theme_en": "Ram Is the Tree, Renunciation the Fruit, the Saint the Gentle Shade",
     "first_line": "कबीर तरवर रूपी रामु है फल रूपी बैरागु ॥"
   },
   {
@@ -4534,8 +4534,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 229,
     "title": "सलोक 229: कबीर ऐसा बीजु बोइ बारह मास फलंत ॥...",
-    "theme": "सलोक 229: कबीर ऐसा बीजु बोइ बारह मास फलंत ॥...",
-    "theme_en": "Salok 229: Kabaeera Aisaa Baeejau Baoi Baaraha Maasa Phalan",
+    "theme": "बारह मास फलने वाला बीज और पंछियों की क्रीड़ा",
+    "theme_en": "Sow Such a Seed That Bears Fruit Through All Twelve Months",
     "first_line": "कबीर ऐसा बीजु बोइ बारह मास फलंत ॥"
   },
   {
@@ -4546,8 +4546,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 230,
     "title": "सलोक 230: कबीर दाता तरवरु दया फलु उपकारी जीवं...",
-    "theme": "सलोक 230: कबीर दाता तरवरु दया फलु उपकारी जीवं...",
-    "theme_en": "Salok 230: Kabaeera Daataa Taravarau Dayaa Phalau Upakaaraee",
+    "theme": "दाता तरुवर, दया का फल और परोपकारी जीवन",
+    "theme_en": "The Generous Giver Is the Tree, Compassion Its Fruit: Birds Fly to Distant Lands",
     "first_line": "कबीर दाता तरवरु दया फलु उपकारी जीवंत ॥"
   },
   {
@@ -4558,8 +4558,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 231,
     "title": "सलोक 231: कबीर साधू संगु परापती लिखिआ होइ लिल...",
-    "theme": "सलोक 231: कबीर साधू संगु परापती लिखिआ होइ लिल...",
-    "theme_en": "Salok 231: Kabaeera Saadhaoo Sangau Paraapataee Laikhaiaa Hao",
+    "theme": "मस्तक पर लिखा साधु-संग और मुक्ति का सुगम मार्ग",
+    "theme_en": "Company of Saints Written on the Forehead: Jewel of Liberation Unhindered",
     "first_line": "कबीर साधू संगु परापती लिखिआ होइ लिलाट ॥"
   },
   {
@@ -4570,8 +4570,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 232,
     "title": "सलोक 232: कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥...",
-    "theme": "सलोक 232: कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥...",
-    "theme_en": "Salok 232: Kabaeera Eka Ghaड़ee Aadhaee Gharaee Aadhaee Haoon Tae",
+    "theme": "घड़ी, आधी घड़ी, आधी की आधी: संतों का संवाद ही सच्चा लाभ",
+    "theme_en": "An Hour, Half an Hour, or Half of That: Discourse with Saints Is Supreme Gain",
     "first_line": "कबीर एक घड़ी आधी घरी आधी हूं ते आध ॥"
   },
   {
@@ -4582,8 +4582,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 233,
     "title": "सलोक 233: कबीर भांग माछुली सुरा पानि जो जो प्...",
-    "theme": "सलोक 233: कबीर भांग माछुली सुरा पानि जो जो प्...",
-    "theme_en": "Salok 233: Kabaeera Bhaanga Maachhaulaee Sauraa Paanai Jao",
+    "theme": "मादक द्रव्य, मांस-मदिरा और तीर्थ-व्रत का रसातल जाना",
+    "theme_en": "Intoxicants, Fish, and Wine: Pilgrimages and Fasting Sink into Hell",
     "first_line": "कबीर भांग माछुली सुरा पानि जो जो प्रानी खांहि ॥"
   },
   {
@@ -4594,8 +4594,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 234,
     "title": "सलोक 234: नीचे लोइन करि रहउ ले साजन घट माहि ॥...",
-    "theme": "सलोक 234: नीचे लोइन करि रहउ ले साजन घट माहि ॥...",
-    "theme_en": "Salok 234: Naeechae Laoina Karai Rahau Lae Saajana Ghata Ma",
+    "theme": "नीचे नैन, अंतर्मन में प्रियतम और गुप्त रस-विलास",
+    "theme_en": "Lowering My Eyes, Harboring the Beloved Within: Savoring Secret Delights",
     "first_line": "नीचे लोइन करि रहउ ले साजन घट माहि ॥"
   },
   {
@@ -4606,8 +4606,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 235,
     "title": "सलोक 235: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ...",
-    "theme": "सलोक 235: आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ...",
-    "theme_en": "Salok 235: Aatha Jaama Chausathai Gharaee Taua Nairakhata Rahaai",
+    "theme": "आठों पहर प्रियतम का दर्शन: नैन नीचे क्यों करूं",
+    "theme_en": "Gazing Upon Thee Eight Watches of the Day: Why Lower Eyes When Seeing Thee Everywhere?",
     "first_line": "आठ जाम चउसठि घरी तुअ निरखत रहै जीउ ॥"
   },
   {
@@ -4618,8 +4618,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 236,
     "title": "सलोक 236: सुनु सखी पीअ महि जीउ बसै जीअ महि बस...",
-    "theme": "सलोक 236: सुनु सखी पीअ महि जीउ बसै जीअ महि बस...",
-    "theme_en": "Salok 236: Saunau Sakhaee Paeea Mahai Jaeeu Basaai Jaeea Ma",
+    "theme": "सखी! प्रियतम में जीव या जीव में प्रियतम: अद्वैत रहस्य",
+    "theme_en": "Listen Friend! Does Soul Dwell in Beloved, or Beloved in Soul?",
     "first_line": "सुनु सखी पीअ महि जीउ बसै जीअ महि बसै कि पीउ ॥"
   },
   {
@@ -4630,8 +4630,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 237,
     "title": "सलोक 237: कबीर बामनु गुरू है जगत का भगतन का ग...",
-    "theme": "सलोक 237: कबीर बामनु गुरू है जगत का भगतन का ग...",
-    "theme_en": "Salok 237: Kabaeera Baamanau Gauraoo Haai Jagata Kaa Bhagatana",
+    "theme": "ब्राह्मण जगत का गुरु है, भक्तों का नहीं: वेदों में उलझकर मृत्यु",
+    "theme_en": "The Brahmin Is Guru of the World, Not of Devotees: Tangled in Four Vedas",
     "first_line": "कबीर बामनु गुरू है जगत का भगतन का गुरु नाहि ॥"
   },
   {
@@ -4642,8 +4642,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 238,
     "title": "सलोक 238: हरि है खांडु रेतु महि बिखरी हाथी चु...",
-    "theme": "सलोक 238: हरि है खांडु रेतु महि बिखरी हाथी चु...",
-    "theme_en": "Salok 238: Harai Haai Khaandau Raetau Mahai Baikharaee Haa",
+    "theme": "रेत में बिखरी चीनी रूपी हरि: चींटी बनकर ही पान",
+    "theme_en": "Hari Is Sugar Scattered in Sand: The Elephant Cannot Pick, Become an Ant",
     "first_line": "हरि है खांडु रेतु महि बिखरी हाथी चुनी न जाइ ॥"
   },
   {
@@ -4654,8 +4654,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 239,
     "title": "सलोक 239: कबीर जउ तुहि साध पिरम की सीसु काटि ...",
-    "theme": "सलोक 239: कबीर जउ तुहि साध पिरम की सीसु काटि ...",
-    "theme_en": "Salok 239: Kabaeera Jau Tauhai Saadha Pairama Kaee Saeesau",
+    "theme": "प्रेम की बाजी: सिर काटकर गेंद बनाना और मस्त होकर खेलना",
+    "theme_en": "The Game of Love: Sever Thy Head to Make the Ball, Play in Ecstasy",
     "first_line": "कबीर जउ तुहि साध पिरम की सीसु काटि करि गोइ ॥"
   },
   {
@@ -4666,8 +4666,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 240,
     "title": "सलोक 240: कबीर जउ तुहि साध पिरम की पाके सेती ...",
-    "theme": "सलोक 240: कबीर जउ तुहि साध पिरम की पाके सेती ...",
-    "theme_en": "Salok 240: Kabaeera Jau Tauhai Saadha Pairama Kaee Paakae",
+    "theme": "प्रेम का खेल पक्के से: कच्ची सरसों पेरने से न तेल न खल",
+    "theme_en": "Play Love with the Ripe Master: Pressing Raw Mustard Yields Neither Oil nor Cake",
     "first_line": "कबीर जउ तुहि साध पिरम की पाके सेती खेलु ॥"
   },
   {
@@ -4678,8 +4678,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 241,
     "title": "सलोक 241: ढूंढत डोलहि अंध गति अरु चीनत नाही स...",
-    "theme": "सलोक 241: ढूंढत डोलहि अंध गति अरु चीनत नाही स...",
-    "theme_en": "Salok 241: Dhaoondhata Daolahai Andha Gatai Arau Chaeenata Na",
+    "theme": "अंधों की भांति खोज और संतों को न पहचानना",
+    "theme_en": "Wandering Blind in Search, Recognizing Not Saints: How Attain God Without Seekers?",
     "first_line": "ढूंढत डोलहि अंध गति अरु चीनत नाही संत ॥"
   },
   {
@@ -4690,8 +4690,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 242,
     "title": "सलोक 242: हरि सो हीरा छाडि कै करहि आन की आस ॥...",
-    "theme": "सलोक 242: हरि सो हीरा छाडि कै करहि आन की आस ॥...",
-    "theme_en": "Salok 242: Harai Sao Haeeraa Chhaadai Kaai Karahai Aana Kaee",
+    "theme": "हरि रूपी हीरा छोड़कर दूसरों की आशा: नर्क का गमन",
+    "theme_en": "Forsaking Hari the Diamond, Yearning for Others: Mortals Enter Hell",
     "first_line": "हरि सो हीरा छाडि कै करहि आन की आस ॥"
   },
   {
@@ -4702,8 +4702,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 243,
     "title": "सलोक 243: कबीर जउ ग्रिहु करहि त धरमु करु नाही...",
-    "theme": "सलोक 243: कबीर जउ ग्रिहु करहि त धरमु करु नाही...",
-    "theme_en": "Salok 243: Kabaeera Jau Garaihau Karahai Ta Dharamau Karau",
+    "theme": "गृहस्थी में धर्म या पूर्ण वैराग्य: वैरागी का बंधन महा-अभाग्य",
+    "theme_en": "In Household Practice Righteousness, Else Renounce: An Attached Ascetic Is Grave Misfortune",
     "first_line": "कबीर जउ ग्रिहु करहि त धरमु करु नाही त करु बैरागु ॥"
   },
   {
@@ -4714,8 +4714,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 244,
     "title": "सलोक 244: गगन दमामा बाजिओ परिओ नीसानै घाउ ॥...",
-    "theme": "सलोक 244: गगन दमामा बाजिओ परिओ नीसानै घाउ ॥...",
-    "theme_en": "Salok 244: Gagana Damaamaa Baajaio Paraio Naeesaanaai Ghaa",
+    "theme": "गगन दमामा बाजिओ: अंतर्मन का युद्ध और शूरवीर का प्रस्थान",
+    "theme_en": "The Celestial War-Drum Resounds: The Spiritual Warrior Enters the Field",
     "first_line": "गगन दमामा बाजिओ परिओ नीसानै घाउ ॥"
   },
   {
@@ -4726,8 +4726,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "सलोक",
     "id": 245,
     "title": "सलोक 245: सूरा सो पहिचानीऐ जु लरै दीन के हेत ...",
-    "theme": "सलोक 245: सूरा सो पहिचानीऐ जु लरै दीन के हेत ...",
-    "theme_en": "Salok 245: Saooraa Sao Pahaichaanaeeai Jau Laraai Daeena Kae",
+    "theme": "सूरा सो पहचानिए: दीन-दुखियों के हित में कट मरना",
+    "theme_en": "He Alone Is the True Hero: Fighting for the Meek, Never Abandoning the Field",
     "first_line": "सूरा सो पहिचानीऐ जु लरै दीन के हेत ॥"
   },
   {
@@ -5746,8 +5746,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 1,
     "title": "रमैणी 1: राग सूहौ",
-    "theme": "रमैणी 1: राग सूहौ",
-    "theme_en": "Ramaini 1: Raaga Saoohaau",
+    "theme": "सकल संसार में परमात्मा का व्यापक दीदार और रूहानी स्वच्छता",
+    "theme_en": "The Sovereign Vision Across the Cosmos: Spotless Purity and Divine Presence",
     "first_line": "तू सकल गहगरा, सफ सफा दिलदार दीदार॥"
   },
   {
@@ -5758,8 +5758,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 2,
     "title": "रमैणी 2: ग्रंथ बावनी",
-    "theme": "रमैणी 2: ग्रंथ बावनी",
-    "theme_en": "Ramaini 2: Garantha Baavanaee",
+    "theme": "बावन अक्षरों का विस्तार और अक्षर-अतीत परम तत्व",
+    "theme_en": "The Fifty-Two Letters of Creation and the Wordless Eternal Truth",
     "first_line": "बावन आखिर लोकत्री, सब कुछ इनहीं माँहि॥"
   },
   {
@@ -5770,8 +5770,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 3,
     "title": "रमैणी 3: सतपदी रमैणी",
-    "theme": "रमैणी 3: सतपदी रमैणी",
-    "theme_en": "Ramaini 3: Satapadaee Ramaainaee",
+    "theme": "सात चरणों में सृष्टि की उत्पत्ति, माया का भ्रम और आत्म-बोध",
+    "theme_en": "The Sevenfold Canto: Creation's Descent, Maya's Spell, and Self-Realization",
     "first_line": "कहन सुनन कौ जिहि जग कीन्हा, जग भुलाँन सो किनहुँ न चीन्हा॥"
   },
   {
@@ -5782,8 +5782,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 4,
     "title": "रमैणी 4: बड़ी अष्टपदी रमैणी",
-    "theme": "रमैणी 4: बड़ी अष्टपदी रमैणी",
-    "theme_en": "Ramaini 4: Baड़ee Ashatapadaee Ramaainaee",
+    "theme": "विराट शिल्पकार का अद्‍भुत विधान और अज्ञान का विसर्जन",
+    "theme_en": "The Grand Eightfold Canto: The Cosmic Architect and Dissolution of Ignorance",
     "first_line": "एक बिनाँनी रच्या बिनांन, सब अयांन जो आपै जांन॥"
   },
   {
@@ -5794,8 +5794,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 5,
     "title": "रमैणी 5: दुपदी रमैणी",
-    "theme": "रमैणी 5: दुपदी रमैणी",
-    "theme_en": "Ramaini 5: Daupadaee Ramaainaee",
+    "theme": "विष-अग्नि से जागरण और प्रेम-रस में निमग्नता",
+    "theme_en": "The Twofold Canto: Awakening from Poison's Flame into the Ocean of Love",
     "first_line": "भरा दयाल बिषहर जरि जागा, गहगहान प्रेम बहु लगा॥"
   },
   {
@@ -5806,8 +5806,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 6,
     "title": "रमैणी 6: अष्टपदी रमैणी",
-    "theme": "रमैणी 6: अष्टपदी रमैणी",
-    "theme_en": "Ramaini 6: Ashatapadaee Ramaainaee",
+    "theme": "तीर्थ-व्रत का प्रपंच बनाम केवल राम की अनन्य साधना",
+    "theme_en": "The Eightfold Canto: Shrines and Fasts vs Devotion to the Sole Lord",
     "first_line": "केऊ केऊ तीरथ ब्रत लपटानां, केऊ केऊ केवल राम निज जाना॥"
   },
   {
@@ -5818,8 +5818,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 7,
     "title": "रमैणी 7: बारहपदी रमैणी",
-    "theme": "रमैणी 7: बारहपदी रमैणी",
-    "theme_en": "Ramaini 7: Baarahapadaee Ramaainaee",
+    "theme": "बारह पदों में आदि सुमिरण और अद्वितीय परम पद",
+    "theme_en": "The Twelvefold Canto: Primal Contemplation and the Incomparable Abode",
     "first_line": "पहली मन में सुमिरौ सोई, ता सम तुलि अवर नहीं कोई॥"
   },
   {
@@ -5830,8 +5830,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "रमैणी",
     "id": 8,
     "title": "रमैणी 8: चौपदी रमैणी",
-    "theme": "रमैणी 8: चौपदी रमैणी",
-    "theme_en": "Ramaini 8: Chaaupadaee Ramaainaee",
+    "theme": "ओंकार आदि मूल और राजा-प्रजा का समान दुख-निवारण",
+    "theme_en": "The Fourfold Canto: Omkar the Primal Root and Universal Solace for King and Pauper",
     "first_line": "ऊंकार आदि है मूला, राजा परजा एकहिं सूला।"
   },
   {
@@ -5842,8 +5842,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 1,
     "title": "साखी अंग 1: अबिहड़ कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 1: अबिहड़ कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 1: Abaihaड़ Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "साधक की निर्भीकता और सत्य पर अडिग निष्ठा",
+    "theme_en": "Fearlessness and Steadfast Devotion",
     "first_line": "कबीर साथी सो किया, जाके सुख दुख नहीं कोइ।"
   },
   {
@@ -5854,8 +5854,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 2,
     "title": "साखी अंग 2: अपारिष कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 2: अपारिष कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 2: Apaaraisha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "अंधे अज्ञानियों की दशा और पारख विहीनता",
+    "theme_en": "The Unawakened Mind and Blind Ignorance",
     "first_line": "पाइ पदारथ पेलि करि, कंकर लीया हाथि।"
   },
   {
@@ -5866,8 +5866,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 3,
     "title": "साखी अंग 3: असाध कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 3: असाध कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 3: Asaadha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "असाधु और पाखंडियों के लक्षण और कुसंग",
+    "theme_en": "Traits of the Impious and False Seekers",
     "first_line": "कबीर भेष अतीत का, करतूति करै अपराध।"
   },
   {
@@ -5878,8 +5878,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 4,
     "title": "साखी अंग 4: बेलि कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 4: बेलि कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 4: Baelai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "प्रभु-प्रेम की अमृत बेल और उसका पोषण",
+    "theme_en": "The Sacred Creeper of Divine Love",
     "first_line": "अब तौ ऐसी ह्नै पड़ी, नाँ तूँ बड़ी न बेलि।"
   },
   {
@@ -5890,8 +5890,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 5,
     "title": "साखी अंग 5: बेसास कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 5: बेसास कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 5: Baesaasa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "प्रभु पर अटूट विश्वास और शरणागति",
+    "theme_en": "Unwavering Trust and Surrender in God",
     "first_line": "इहिं भाँति भयानक उद्र में, न कबहू छंछरै।"
   },
   {
@@ -5902,8 +5902,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 6,
     "title": "साखी अंग 6: भेष कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 6: भेष कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 6: Bhaesha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "बाह्य वेशभूषा और पाखंड का खंडन",
+    "theme_en": "Critique of Ascetic Garb and Outer Pretension",
     "first_line": "कर सेती माला जपै, हिरदै बहै डंडूल।"
   },
   {
@@ -5914,8 +5914,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 7,
     "title": "साखी अंग 7: भ्रम विधौंसण कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 7: भ्रम विधौंसण कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 7: Bharama Vaidhaaunsana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "संशयों और भ्रमों का पूर्ण विध्वंस",
+    "theme_en": "Annihilation of Delusion and Doubts",
     "first_line": "पांहण केरा पूतला, करि पूजै करतार।"
   },
   {
@@ -5926,8 +5926,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 8,
     "title": "साखी अंग 8: बीनती कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 8: बीनती कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 8: Baeenataee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "दीनतापूर्ण प्रार्थना और आत्म-निवेदन",
+    "theme_en": "Humble Supplication and Devotional Prayer",
     "first_line": "कबीर साँईं तो मिलहगे, पूछिहिगे कुसलात।"
   },
   {
@@ -5938,8 +5938,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 9,
     "title": "साखी अंग 9: बिरह कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 9: बिरह कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 9: Bairaha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "परमात्मा के विरह की तपन और मिलन-प्यास",
+    "theme_en": "The Pain of Mystical Separation and Longing",
     "first_line": "रात्यूँ रूँनी बिरहनीं, ज्यूँ बंचौ कूँ कुंज।"
   },
   {
@@ -5950,8 +5950,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 10,
     "title": "साखी अंग 10: बिर्कताई कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 10: बिर्कताई कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 10: Bairakataaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सच्चा वैराग्य और अनासक्ति का भाव",
+    "theme_en": "True Detachment and Renunciation of World",
     "first_line": "मेरे मन मैं पड़ि गई, ऐसी एक दरार।"
   },
   {
@@ -5962,8 +5962,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 11,
     "title": "साखी अंग 11: चाँणक कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 11: चाँणक कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 11: Chaannaka Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "चेतना का दिव्य प्रकाश और जागरण",
+    "theme_en": "Spiritual Illumination and Awakening",
     "first_line": "जीव बिलव्या जीव सों, अलप न लखिया जाइ।"
   },
   {
@@ -5974,8 +5974,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 12,
     "title": "साखी अंग 12: चित कपटी कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 12: चित कपटी कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 12: Chaita Kapataee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "कपट-युक्त चित्त की दुर्गति और चेतावनी",
+    "theme_en": "The Treacherous Mind and Deceitful Heart",
     "first_line": "कबीर तहाँ न जाइए, जहाँ कपट का हेत।"
   },
   {
@@ -5986,8 +5986,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 13,
     "title": "साखी अंग 13: चितावणी कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 13: चितावणी कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 13: Chaitaavanaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "मृत्यु की अवश्यंभाविता और सचेत होने की पुकार",
+    "theme_en": "Stern Warnings Against Mortality and Carelessness",
     "first_line": "कबीर नौबति आपणी, दिन दस लेहु बजाइ।"
   },
   {
@@ -5998,8 +5998,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 14,
     "title": "साखी अंग 14: दया निरबैरता कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 14: दया निरबैरता कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 14: Dayaa Nairabaairataa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "दया, करुणा और निर्वैर भाव की साधना",
+    "theme_en": "Compassion, Forgiveness, and Universal Non-Enmity",
     "first_line": "कबीर दरिया प्रजल्या, दाझै जल थल झोल।"
   },
   {
@@ -6010,8 +6010,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 15,
     "title": "साखी अंग 15: गुरुसिष हेरा कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 15: गुरुसिष हेरा कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 15: Gaurausaisha Haeraa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सद्गुरु और सच्चे शिष्य का पारस्पर संबंध",
+    "theme_en": "The Sacred Bond of Master and Disciple",
     "first_line": "ऐसा कोई न मिले, हम कों दे उपदेस।"
   },
   {
@@ -6022,8 +6022,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 16,
     "title": "साखी अंग 16: गुरुदेव कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 16: गुरुदेव कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 16: Gauraudaeva Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सद्गुरु की महिमा और शब्द-दीक्षा",
+    "theme_en": "The Supreme Glory of the Divine Master",
     "first_line": "सतगुर सवाँन को सगा, सोधी सईं न दाति।"
   },
   {
@@ -6034,8 +6034,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 17,
     "title": "साखी अंग 17: ग्यान बिरह कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 17: ग्यान बिरह कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 17: Gayaana Bairaha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "तत्वज्ञान के विरह की उच्चतर अवस्था",
+    "theme_en": "Longing for Higher Wisdom and Divine Insight",
     "first_line": "दीपक पावक आंणिया, तेल भी आंण्या संग।"
   },
   {
@@ -6046,8 +6046,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 18,
     "title": "साखी अंग 18: हैरान कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 18: हैरान कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 18: Haairaana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "विस्मय, अचरज और अवाक् समाधि",
+    "theme_en": "Mystical Wonder and Ecstatic Awe",
     "first_line": "पंडित सेती कहि रहे, कह्या न मानै कोइ।"
   },
   {
@@ -6058,8 +6058,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 19,
     "title": "साखी अंग 19: हेत प्रीति सनेह कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 19: हेत प्रीति सनेह कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 19: Haeta Paraeetai Sanaeha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "निःस्वार्थ प्रेम और रूहानी प्रीति",
+    "theme_en": "Pure Divine Affection and Soulful Love",
     "first_line": "कमोदनी जलहरि बसै, चंदा बसै अकासि।"
   },
   {
@@ -6070,8 +6070,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 20,
     "title": "साखी अंग 20: जर्णा कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 20: जर्णा कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 20: Jaranaa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सहनशीलता, क्षमा और तितिक्षा",
+    "theme_en": "Divine Forbearance, Endurance, and Patience",
     "first_line": "भारी कहौं त बहु डरौ, हलका कहूँ तो झूठ।"
   },
   {
@@ -6082,8 +6082,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 21,
     "title": "साखी अंग 21: जीवन मृतक कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 21: जीवन मृतक कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 21: Jaeevana Maritaka Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "जीवनमुक्त अवस्था और द्वंद्वातीत स्थिति",
+    "theme_en": "Living Liberation: Free While in the Mortal Body",
     "first_line": "जीवन मृतक ह्नै रहै, तजै जगत की आस।"
   },
   {
@@ -6094,8 +6094,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 22,
     "title": "साखी अंग 22: काल कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 22: काल कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 22: Kaala Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "कथनी और करनी की एकता का महत्व",
+    "theme_en": "Harmony of Speech and Action: Walk the Talk",
     "first_line": "झूठे सुख कौ सुख कहैं, मानत है मन मोद।"
   },
   {
@@ -6106,8 +6106,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 23,
     "title": "साखी अंग 23: कामी नर कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 23: कामी नर कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 23: Kaamaee Nara Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "कस्तूरी मृग का रूपक और अंतर्मुखी खोज",
+    "theme_en": "The Musk Deer: Seeking the Divine Within",
     "first_line": "कामणि काली नागणीं, तीन्यूँ लोक मँझारि।"
   },
   {
@@ -6118,8 +6118,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 24,
     "title": "साखी अंग 24: करणीं बिना कथणीं कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 24: करणीं बिना कथणीं कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 24: Karanaeen Bainaa Kathanaeen Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "लोभ और अहंकार के नाश का उपदेश",
+    "theme_en": "Dismantling Greed and Arrogance",
     "first_line": "कथणीं कथी तो क्या भया, जे करणी नाँ ठहराइ।"
   },
   {
@@ -6130,8 +6130,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 25,
     "title": "साखी अंग 25: कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 25: कस्तूरियाँ मृग कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 25: Kasataooraiyaan Mariga Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "समत्व, संतुलन और मध्यम मार्ग",
+    "theme_en": "The Golden Mean: Equilibrium and Stillness",
     "first_line": "कस्तूरी कुंडलि बसै, मृग ढूँढै बन माँहि।"
   },
   {
@@ -6142,8 +6142,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 26,
     "title": "साखी अंग 26: कथणीं बिना करणी कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 26: कथणीं बिना करणी कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 26: Kathanaeen Bainaa Karanaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "चंचल मन को वश में करने की साधना",
+    "theme_en": "Mastering the Restless and Turbulent Mind",
     "first_line": "मैं जान्यूँ पढ़िबौ भलो, पढ़िवा थें भलो जोग।"
   },
   {
@@ -6154,8 +6154,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 27,
     "title": "साखी अंग 27: कुसबद कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 27: कुसबद कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 27: Kausabada Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "माया की मोहिनी शक्ति और उसका रहस्य",
+    "theme_en": "Unveiling the Treacherous Veil of Maya",
     "first_line": "साईं सौं सब होइगा, बंदे थैं कुछ नाहिं।"
   },
   {
@@ -6166,8 +6166,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 28,
     "title": "साखी अंग 28: कुसंगति कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 28: कुसंगति कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 28: Kausangatai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "परमेश्वर और उसके भक्तों की अलौकिक महिमा",
+    "theme_en": "Glory of the Supreme Divine and His Devotees",
     "first_line": "निरमल बूँद अकास की, पड़ि गइ भोमि बिकार।"
   },
   {
@@ -6178,8 +6178,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 29,
     "title": "साखी अंग 29: लांबि कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 29: लांबि कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 29: Laanbai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "रूहानी मौन और आंतरिक शांति",
+    "theme_en": "Sacred Silence and Inward Contemplation",
     "first_line": "कया कमंडल भरि लिया, उज्जल निर्मल नीर।"
   },
   {
@@ -6190,8 +6190,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 30,
     "title": "साखी अंग 30: लै कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 30: लै कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 30: Laai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "निष्काम कर्म और कर्तृत्व-भाव का विसर्जन",
+    "theme_en": "Action Without Attachment: The Selfless Way",
     "first_line": "जिहि बन सोह न संचरै, पंषि उड़ै नहिं जाइ।"
   },
   {
@@ -6202,8 +6202,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 31,
     "title": "साखी अंग 31: मधि कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 31: मधि कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 31: Madhai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "दृढ़ निश्चय और आध्यात्मिक संकल्प",
+    "theme_en": "Firm Conviction and Unshakable Faith",
     "first_line": "कबीर मधि अंग जेको रहै, तौ तिरत न लागै बार।"
   },
   {
@@ -6214,8 +6214,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 32,
     "title": "साखी अंग 32: मन कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 32: मन कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 32: Mana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "साक्षात आत्म-साक्षात्कार और एकाकारिता",
+    "theme_en": "Direct Experiential Realization of Oneness",
     "first_line": "मन कै मते न चालिये, छाड़ि जीव की बाँणि।"
   },
   {
@@ -6226,8 +6226,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 33,
     "title": "साखी अंग 33: माया कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 33: माया कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 33: Maayaa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सार और असार की सूक्ष्म रूहानी पारख",
+    "theme_en": "Discrimination Between the Eternal and Transient",
     "first_line": "जग हठवाड़ा स्वाद ठग, माया बेसाँ लाइ।"
   },
   {
@@ -6238,8 +6238,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 34,
     "title": "साखी अंग 34: निगुणाँ कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 34: निगुणाँ कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 34: Naigaunaan Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "प्रियतम परमात्मा की पहचान और साक्षात्कार",
+    "theme_en": "Recognition of the Indwelling Beloved",
     "first_line": "हरिया जाँणै रूषड़ा, उस पाँणीं का नेह।"
   },
   {
@@ -6250,8 +6250,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 35,
     "title": "साखी अंग 35: निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 35: निहकर्मी पतिब्रता कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 35: Naihakaramaee Pataibarataa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "राम-नाम के मजीठ रंग में रंग जाना",
+    "theme_en": "The True Dye: Imbued in Divine Ecstasy",
     "first_line": "कबीर प्रीतडी तौ तुझ सौं, बहु गुणियाले कंत।"
   },
   {
@@ -6262,8 +6262,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 36,
     "title": "साखी अंग 36: निंद्या कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 36: निंद्या कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 36: Naindayaa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "हरि-रस का अमृत पान और तृप्ति",
+    "theme_en": "The Supreme Nectar of Divine Consciousness",
     "first_line": "लोगे विचारा नींदई, जिन्ह न पाया ग्याँन।"
   },
   {
@@ -6274,8 +6274,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 37,
     "title": "साखी अंग 37: परचा कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 37: परचा कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 37: Parachaa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "भक्ति का रसायन और आत्मा का स्वर्ण बनना",
+    "theme_en": "The Spiritual Alchemy of Transmutation",
     "first_line": "कबीर तेज अनंत का, मानी ऊगी सूरज सेणि।"
   },
   {
@@ -6286,8 +6286,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 38,
     "title": "साखी अंग 38: पारिष कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 38: पारिष कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 38: Paaraisha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सच्चे साधु का स्वरूप, स्वभाव और लक्षण",
+    "theme_en": "The Exemplary Life of the True Saint",
     "first_line": "जग गुण कूँ गाहक मिलै, तब गुण लाख बिकाइ।"
   },
   {
@@ -6298,8 +6298,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 39,
     "title": "साखी अंग 39: पीव पिछाँणन कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 39: पीव पिछाँणन कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 39: Paeeva Paichhaannana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "संतों के सान्निध्य का अलौकिक प्रभाव",
+    "theme_en": "The Ineffable Glory of Holy Fellowship",
     "first_line": "संपटि माँहि समाइया, सो साहिब नहीसीं होइ।"
   },
   {
@@ -6310,8 +6310,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 40,
     "title": "साखी अंग 40: रस कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 40: रस कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 40: Rasa Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सहज अवस्था और अनायास मुक्ति",
+    "theme_en": "Sahaja: The State of Natural Divine Stillness",
     "first_line": "कबीर हरि रस यौं पिया बाकी रही न थाकि।"
   },
   {
@@ -6322,8 +6322,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 41,
     "title": "साखी अंग 41: सबद कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 41: सबद कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 41: Sabada Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "क्षणभंगुर समय का सदुपयोग और साधना",
+    "theme_en": "The Value of the Present Moment in Time",
     "first_line": "कबीर सबद सरीर मैं, बिनि गुण बाजै तंति।"
   },
   {
@@ -6334,8 +6334,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 42,
     "title": "साखी अंग 42: साध कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 42: साध कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 42: Saadha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सर्वसमर्थ परमात्मा की असीम शक्ति",
+    "theme_en": "The Omnipotence and Sovereign Might of God",
     "first_line": "कबीर संगति साध की, कदे न निरफल होइ।"
   },
   {
@@ -6346,8 +6346,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 43,
     "title": "साखी अंग 43: साध महिमाँ कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 43: साध महिमाँ कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 43: Saadha Mahaimaan Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "संदेह और संशय का निवारण",
+    "theme_en": "Overcoming Spiritual Skepticism and Hesitation",
     "first_line": "चंदन की कुटकी भली, नाँ बँबूर की अबराँउँ।"
   },
   {
@@ -6358,8 +6358,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 44,
     "title": "साखी अंग 44: साध साषीभूत कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 44: साध साषीभूत कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 44: Saadha Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "परमात्मा से अनन्य स्नेह और लाड",
+    "theme_en": "Tender Affection and Intimate Devotion",
     "first_line": "निरबैरी निहकाँमता, साँई सेती नेह।"
   },
   {
@@ -6370,8 +6370,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 45,
     "title": "साखी अंग 45: सहज कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 45: सहज कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 45: Sahaja Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "संतों की समदृष्टि और परोपकारिता",
+    "theme_en": "Sanctity, Compassion, and Equanimity of Saints",
     "first_line": "सहज सहज सबकौ कहै, सहज न चीन्है कोइ।"
   },
   {
@@ -6382,8 +6382,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 46,
     "title": "साखी अंग 46: सजीवनी कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 46: सजीवनी कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 46: Sajaeevanaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "संतोष धन का महत्व और तृष्णा-मुक्ति",
+    "theme_en": "Contentment: The Supreme Treasure of Peace",
     "first_line": "जहाँ जुरा मरण ब्यापै नहीं, मुवा न सुणिये कोइ।"
   },
   {
@@ -6394,8 +6394,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 47,
     "title": "साखी अंग 47: सम्रथाई कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 47: सम्रथाई कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 47: Samarathaaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सत्य का स्वरूप और सत्यनिष्ठ जीवन",
+    "theme_en": "Truth: The Bedrock of Righteousness",
     "first_line": "नाँ कुछ किया न करि सक्या, नाँ करणे जोग सरीर।"
   },
   {
@@ -6406,8 +6406,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 48,
     "title": "साखी अंग 48: साँच कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 48: साँच कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 48: Saancha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सच्चाई की जीत और झूठे का पराभव",
+    "theme_en": "The Sovereign Power of Authentic Truth",
     "first_line": "कबीर पूँजी साह की, तूँ जिनि खोवै ष्वार।"
   },
   {
@@ -6418,8 +6418,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 49,
     "title": "साखी अंग 49: संगति कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 49: संगति कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 49: Sangatai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सत्संग और कुसंग का प्रत्यक्ष प्रभाव",
+    "theme_en": "The Inevitable Influence of Association",
     "first_line": "देखा देखी पाकड़े, जाइ अपरचे छूटि।"
   },
   {
@@ -6430,8 +6430,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 50,
     "title": "साखी अंग 50: सारग्राही कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 50: सारग्राही कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 50: Saaragaraahaee Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सार तत्व को ग्रहण करना और असार को छोड़ना",
+    "theme_en": "The Winnowing Swan: Grasping the Essence",
     "first_line": "षीर रूप हरि नाँव है नीर आन ब्यौहार।"
   },
   {
@@ -6442,8 +6442,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 51,
     "title": "साखी अंग 51: साषीभूत कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 51: साषीभूत कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 51: Saashaeebhaoota Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "साक्षी भाव और निर्लिप्त दृष्टा होना",
+    "theme_en": "The Detached Witness Consciousness",
     "first_line": "कबीर पूछै राँम कूँ, सकल भवनपति राइ।"
   },
   {
@@ -6454,8 +6454,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 52,
     "title": "साखी अंग 52: सुमिरण कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 52: सुमिरण कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 52: Saumairana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "अखंड नाम-सुमिरन की महिमा और विधि",
+    "theme_en": "The Eternal Science of Divine Remembrance",
     "first_line": "कबीर कहता जात हूँ, सुणता है सब कोइ।"
   },
   {
@@ -6466,8 +6466,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 53,
     "title": "साखी अंग 53: सुंदरि कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 53: सुंदरि कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 53: Saundarai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "जीवात्मा रूपी सुंदरी का विरह-निवेदन",
+    "theme_en": "The Divine Maiden: The Soul's Bridal Longing",
     "first_line": "कबीर सुंदरि यों कहै, सुणि हो कंत सुजाँण।"
   },
   {
@@ -6478,8 +6478,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 54,
     "title": "साखी अंग 54: सूरा तन कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 54: सूरा तन कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 54: Saooraa Tana Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "आध्यात्मिक शूरवीरता और अंतर्मन का युद्ध",
+    "theme_en": "The Spiritual Warrior: Bravery of the Soul",
     "first_line": "काइर हुवाँ न छूटिये, कछु सूरा तन साहि।"
   },
   {
@@ -6490,8 +6490,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 55,
     "title": "साखी अंग 55: सूषिम जनम कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 55: सूषिम जनम कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 55: Saooshaima Janama Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "सूक्ष्म जन्म और नवीन चेतना का उदय",
+    "theme_en": "Subtle Rebirth into Spiritual Consciousness",
     "first_line": "कबीर सूषिम सुरति का, जीव न जाँणै जाल।"
   },
   {
@@ -6502,8 +6502,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 56,
     "title": "साखी अंग 56: सूषिम मारग कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 56: सूषिम मारग कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 56: Saooshaima Maaraga Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "अध्यात्म का सूक्ष्म और दुर्गम मार्ग",
+    "theme_en": "The Razor's Path: The Subtle Journey Within",
     "first_line": "कौंण देस कहाँ आइया, कहु क्यूँ जाँण्याँ जाइ।"
   },
   {
@@ -6514,8 +6514,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 57,
     "title": "साखी अंग 57: उपदेश कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 57: उपदेश कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 57: Upadaesha Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "मानव मात्र के लिए जीवनोपयोगी दिव्य उपदेश",
+    "theme_en": "Master's Sacred Counsel to Humanity",
     "first_line": "हरि जी यहै बिचारिया, साषी कहौ कबीर।"
   },
   {
@@ -6526,8 +6526,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 58,
     "title": "साखी अंग 58: उपजणि कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 58: उपजणि कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 58: Upajanai Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "अंतर्मन में विवेक और ज्ञान का सहज प्रस्फुटन",
+    "theme_en": "Spontaneous Awakening of Inner Wisdom",
     "first_line": "नाव न जाणै गाँव का, मारगि लागा जाँउँ।"
   },
   {
@@ -6538,8 +6538,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "साखी अंग",
     "id": 59,
     "title": "साखी अंग 59: विचार कौ अंग : भक्त कबीर जी",
-    "theme": "साखी अंग 59: विचार कौ अंग : भक्त कबीर जी",
-    "theme_en": "Sakhi Ang 59: Vaichaara Kaau Anga : Bhakata Kabaeera Jaee",
+    "theme": "गहन तत्व-विचार और सत्य का अनुसंधान",
+    "theme_en": "Profound Contemplation and Discrimination",
     "first_line": "राम नाम सब को कहै, कहिबे बहुत बिचार।"
   },
   {
@@ -6550,8 +6550,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 1,
     "title": "पद: राग आसावरी : भक्त कबीर जी",
-    "theme": "पद: राग आसावरी : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Aasaavaraee : Bhakata Kabaeera Jaee",
+    "theme": "रागात्मक विरह, सुबह की प्रार्थना और आत्म-समर्पण",
+    "theme_en": "Morning Aspiration, Deep Pathos of Separation, and Surrender",
     "first_line": "पद - राग आसावरी : भक्त कबीर जी"
   },
   {
@@ -6562,8 +6562,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 2,
     "title": "पद: राग बसंत : भक्त कबीर जी",
-    "theme": "पद: राग बसंत : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Basanta : Bhakata Kabaeera Jaee",
+    "theme": "आध्यात्मिक वसंत, रूहानी उल्लास और नव-जीवन",
+    "theme_en": "The Spiritual Springtime, Ecstatic Renewal, and Mystic Bloom",
     "first_line": "पद - राग बसंत : भक्त कबीर जी"
   },
   {
@@ -6574,8 +6574,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 3,
     "title": "पद: राग भैरूँ : भक्त कबीर जी",
-    "theme": "पद: राग भैरूँ : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Bhaairaoon : Bhakata Kabaeera Jaee",
+    "theme": "गंभीर आत्म-चेतना, निर्भयता और ब्रह्म-साक्षात्कार",
+    "theme_en": "Profound Awakening, Fearlessness, and Absorption in the Absolute",
     "first_line": "पद - राग भैरूँ : भक्त कबीर जी"
   },
   {
@@ -6586,8 +6586,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 4,
     "title": "पद: राग बिलावल : भक्त कबीर जी",
-    "theme": "पद: राग बिलावल : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Bailaavala : Bhakata Kabaeera Jaee",
+    "theme": "हर्षोल्लास, कृतज्ञता और ईश्वरीय अनुग्रह का उत्सव",
+    "theme_en": "Joyous Celebration, Gratitude, and Triumph of Divine Grace",
     "first_line": "पद - राग बिलावल : भक्त कबीर जी"
   },
   {
@@ -6598,8 +6598,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 5,
     "title": "पद: राग धनाश्री : भक्त कबीर जी",
-    "theme": "पद: राग धनाश्री : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Dhanaasharaee : Bhakata Kabaeera Jaee",
+    "theme": "आरती, कृतज्ञ वंदना और प्रियतम के प्रति समर्पण",
+    "theme_en": "Mystic Adoration, Reverent Aarti, and Yearning for Union",
     "first_line": "पद - राग धनाश्री : भक्त कबीर जी"
   },
   {
@@ -6610,8 +6610,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 6,
     "title": "पद: राग गौड़ी : भक्त कबीर जी",
-    "theme": "पद: राग गौड़ी : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Gaaudaee : Bhakata Kabaeera Jaee",
+    "theme": "गहन अंतर्मुखी ध्यान, मन की शांति और माया का शमन",
+    "theme_en": "Deep Inward Contemplation, Mind Stillness, and Subduing of Illusion",
     "first_line": "पद - राग गौड़ी : भक्त कबीर जी"
   },
   {
@@ -6622,8 +6622,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 7,
     "title": "पद: राग कल्याण : भक्त कबीर जी",
-    "theme": "पद: राग कल्याण : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Kalayaana : Bhakata Kabaeera Jaee",
+    "theme": "शुभता, कल्याण और परम मंगल की प्राप्ति",
+    "theme_en": "Auspiciousness, Supreme Welfare, and Abiding Peace",
     "first_line": "पद - राग कल्याण : भक्त कबीर जी"
   },
   {
@@ -6634,8 +6634,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 8,
     "title": "पद: राग केदारौ : भक्त कबीर जी",
-    "theme": "पद: राग केदारौ : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Kaedaaraau : Bhakata Kabaeera Jaee",
+    "theme": "वैराग्य की तीव्र पुकार, शिव-तत्व और चित्त की एकाग्रता",
+    "theme_en": "Fervent Cry of Detachment, Inward Stillness, and Union with the Infinite",
     "first_line": "पद - राग केदारौ : भक्त कबीर जी"
   },
   {
@@ -6646,8 +6646,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 9,
     "title": "पद: राग ललित : भक्त कबीर जी",
-    "theme": "पद: राग ललित : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Lalaita : Bhakata Kabaeera Jaee",
+    "theme": "भोर की करुण पुकार और आध्यात्मिक नव-प्रभात",
+    "theme_en": "Tender Dawn Supplication and the Spiritual Morning of Awakening",
     "first_line": "पद - राग ललित : भक्त कबीर जी"
   },
   {
@@ -6658,8 +6658,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 10,
     "title": "पद: राग मलार : भक्त कबीर जी",
-    "theme": "पद: राग मलार : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Malaara : Bhakata Kabaeera Jaee",
+    "theme": "अमृत वर्षा, तपन की शांति और रूहानी हरियाली",
+    "theme_en": "Showers of Nectar, Quenching the Soul's Drought, and Verdant Spring",
     "first_line": "पद - राग मलार : भक्त कबीर जी"
   },
   {
@@ -6670,8 +6670,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 11,
     "title": "पद: राग माली गौड़ी : भक्त कबीर जी",
-    "theme": "पद: राग माली गौड़ी : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Maalaee Gaaudaee : Bhakata Kabaeera Jaee",
+    "theme": "हृदय-वाटिका की सेवा और सद्कर्मों के सुगंधित पुष्प",
+    "theme_en": "Tending the Garden of the Heart and Fragrant Blossoms of Virtue",
     "first_line": "पद - राग माली गौड़ी : भक्त कबीर जी"
   },
   {
@@ -6682,8 +6682,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 12,
     "title": "पद: राग मारू : भक्त कबीर जी",
-    "theme": "पद: राग मारू : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Maaraoo : Bhakata Kabaeera Jaee",
+    "theme": "वीर रस, रणभेरी और विकारों के विरुद्ध महा-संग्राम",
+    "theme_en": "Martial Valor, Celestial War-Trumpet, and the Battlefield of the Mind",
     "first_line": "पद - राग मारू : भक्त कबीर जी"
   },
   {
@@ -6694,8 +6694,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 13,
     "title": "पद: राग रामकली : भक्त कबीर जी",
-    "theme": "पद: राग रामकली : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Raamakalaee : Bhakata Kabaeera Jaee",
+    "theme": "योगिक सिद्धि, अनाहत नाद और दशम-द्वार का भेदन",
+    "theme_en": "Yogic Mastery, the Unstruck Sound (Anahata), and the Tenth Gate",
     "first_line": "पद - राग रामकली : भक्त कबीर जी"
   },
   {
@@ -6706,8 +6706,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 14,
     "title": "पद: राग सारंग : भक्त कबीर जी",
-    "theme": "पद: राग सारंग : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Saaranga : Bhakata Kabaeera Jaee",
+    "theme": "मध्याह्न की तपन में अमृत-शीतलता और नाम-छाया",
+    "theme_en": "Midday Solace, Cool Oasis in the Desert, and Hari's Shelter",
     "first_line": "पद - राग सारंग : भक्त कबीर जी"
   },
   {
@@ -6718,8 +6718,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 15,
     "title": "पद: राग सोरठि : भक्त कबीर जी",
-    "theme": "पद: राग सोरठि : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Saorathai : Bhakata Kabaeera Jaee",
+    "theme": "गहरी रात की शांति, अनन्य प्रेम और प्रियतम से एकाकारिता",
+    "theme_en": "Midnight Stillness, Unbroken Communion, and Non-Dual Union",
     "first_line": "पद - राग सोरठि : भक्त कबीर जी"
   },
   {
@@ -6730,8 +6730,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 16,
     "title": "पद: राग सूहौ : भक्त कबीर जी",
-    "theme": "पद: राग सूहौ : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Saoohaau : Bhakata Kabaeera Jaee",
+    "theme": "नव-वधू का शृंगार, समर्पण और प्रियतम का आगमन",
+    "theme_en": "Bridal Adornment, Surrendered Heart, and the Sovereign Groom's Arrival",
     "first_line": "पद - राग सूहौ : भक्त कबीर जी"
   },
   {
@@ -6742,8 +6742,8 @@ window.KABIR_MANIFEST = [
     "genre_label": "पद राग",
     "id": 17,
     "title": "पद: राग टोड़ी : भक्त कबीर जी",
-    "theme": "पद: राग टोड़ी : भक्त कबीर जी",
-    "theme_en": "Pad: Raaga Taodaee : Bhakata Kabaeera Jaee",
+    "theme": "परम दीनता, आर्तनाद और करुणामय परमात्मा की पुकार",
+    "theme_en": "Supreme Humility, Helpless Cry of the Soul, and Unconditional Mercy",
     "first_line": "पद - राग टोड़ी : भक्त कबीर जी"
   }
 ];
